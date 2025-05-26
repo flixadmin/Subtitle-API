@@ -4,7 +4,7 @@ from requests import get
 from io import BytesIO
 import asstosrt
 
-KEY = '2GyeqwYAzv_c6-VtZYshGuwxOXjwQClm'
+KEY = 'PRn5U-DH8acJFimtXaLVhhidZ-ZMTiCs'
 os.makedirs('cache', exist_ok=True)
 
 def cleanCache():
@@ -14,22 +14,20 @@ def cleanCache():
 # atexit.register(cleanCache)
 
 def assToSRT(filename):
-    open(filename.replace('.ass', '.srt'), 'w', encoding='utf-8').write(asstosrt.convert(open(filename)))
+    open(filename.replace('.ass', '.srt'), 'w', encoding='utf-8').write(asstosrt.convert(open(filename, encoding='utf-8')))
     return filename.replace('.ass', '.srt')
 
-def getSeasonEpisode(filename:str):
+def getSeasonEpisode(filename: str):
     if len(os.path.basename(filename)) < 10: return None
     if 'trailer' in filename.lower(): return None
     try:
-        r = re.compile(r'(?:S|s)?\s*(\d{1,2})\s*(?:E|e|x)\s*(\d{1,2})', re.IGNORECASE).search(filename)
+        r = re.search(
+            r'(?:S(?:eason)?\s*)?(\d{1,2})\s*(?:[.\-_ ]?E(?:pisode)?[.\-_ ]?|[.\-_x])\s*(\d{1,2})',
+            filename,
+            re.IGNORECASE
+        )
         return int(r.group(1)), int(r.group(2))
     except Exception:
-        # print(colorama.Fore.RED, '='*60, colorama.Style.RESET_ALL)
-        # print('Filename:', filename)
-        # xs = input('Enter Season: ')
-        # if not xs.strip(): return None
-        # xe = input('Enter Episode: ')
-        # return int(xs), int(xe)
         print(colorama.Fore.RED + f'\nSkipping one "{os.path.basename(filename)}"' + colorama.Fore.RESET)
         return None
 
@@ -55,7 +53,7 @@ def getMovieSubtitles(tmdb_id:int):
     if r.status_code != 200:  raise Exception(f"Error: {r.status_code} - {r.text}")
     try: zips = ['http://dl.subdl.com' + i['url'] for i in r.json()['subtitles']]
     except KeyError as e:
-        print(f'\n{colorama.Fore.YELLOW}KeyError on TMDB ID: {tmdb_id} movie')
+        print(f'\n{colorama.Fore.YELLOW}KeyError on TMDB ID: {tmdb_id} movie{colorama.Fore.RESET} Status: {r.status_code} Resp: {r.text}')
         return []
     files = [f for i in zips for f in unzipFile(i) if f.endswith('.srt')]
     return files
@@ -67,7 +65,7 @@ def getTVSubtitles(tmdb_id:int, se:list[tuple[int, int]]):
         if r.status_code != 200:  raise Exception(f"Error: {r.status_code} - {r.text}")
         try: zips = ['http://dl.subdl.com' + i['url'] for i in r.json()['subtitles']]
         except KeyError as e:
-            print(f'\n{colorama.Fore.YELLOW}KeyError on TMDB ID: {tmdb_id} tv')
+            print(f'\n{colorama.Fore.YELLOW}KeyError on TMDB ID: {tmdb_id} tv{colorama.Fore.RESET} Status: {r.status_code} Resp: {r.text}')
             return []
         files = [f for i in zips for f in unzipFile(i) if f.endswith('.srt')]
         return files
