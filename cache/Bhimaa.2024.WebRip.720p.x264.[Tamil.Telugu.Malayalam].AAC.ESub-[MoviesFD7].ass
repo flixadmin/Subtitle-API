@@ -1,0 +1,1510 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 804
+Timer: 100.0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,sans-serif,71,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2.37,1.97,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:43.20,0:01:50.37,Default,,0,0,0,,Lord of this Universe. Sri Mahavishnu's\N6th incarnation is Parasurama .
+Dialogue: 0,0:01:50.62,0:01:58.83,Default,,0,0,0,,Parasurama circled earth 21 times in Treta Yug and\Nthe land he won after finishing all the evil...
+Dialogue: 0,0:01:59.04,0:02:01.95,Default,,0,0,0,,He donated that land to\NKashyapa Prajapathi.
+Dialogue: 0,0:02:02.25,0:02:08.62,Default,,0,0,0,,Later, the holy serpents and Gods\Nrequested for a land for them also to live.
+Dialogue: 0,0:02:09.08,0:02:16.58,Default,,0,0,0,,Parasurama threw his axe presented\Nby Lord Shiva, into the ocean.
+Dialogue: 0,0:02:17.45,0:02:22.83,Default,,0,0,0,,He then made the ocean pull backwards\Nand made a wonderful land evolve there.
+Dialogue: 0,0:02:23.29,0:02:26.70,Default,,0,0,0,,Minerals from the ocean further\Nenhanced the fertility of that land.
+Dialogue: 0,0:02:27.20,0:02:34.45,Default,,0,0,0,,Rare medicinal plants not available\Nanywhere else, evolved in this forest.
+Dialogue: 0,0:02:35.08,0:02:41.37,Default,,0,0,0,,Parasurama, one of the seven holy persons to live\Neternally, opted that land as his place for penance.
+Dialogue: 0,0:02:41.91,0:02:44.95,Default,,0,0,0,,That land is Parasurama Kshetra.
+Dialogue: 0,0:02:45.45,0:02:49.70,Default,,0,0,0,,Another wonder seen by this land, is\Nthe evolution of most powerful temple of
+Dialogue: 0,0:02:49.91,0:02:52.75,Default,,0,0,0,,Lord Shiva, who is worshipped\Nby Parasurama.
+Dialogue: 0,0:03:30.20,0:03:33.00,Default,,0,0,0,,-Were you scared?\N-Yes!
+Dialogue: 0,0:03:34.75,0:03:36.41,Default,,0,0,0,,Grandpa, do spirits exist?
+Dialogue: 0,0:03:36.79,0:03:39.04,Default,,0,0,0,,-Do you believe in God?\N-Yes!
+Dialogue: 0,0:03:39.33,0:03:43.83,Default,,0,0,0,,Then, you must believe\Neven in devil.
+Dialogue: 0,0:03:44.08,0:03:47.79,Default,,0,0,0,,Then why did the ghost come to\Na temple where God resides?
+Dialogue: 0,0:03:48.00,0:03:53.45,Default,,0,0,0,,That is a wonder. Wonder can’t\Nbe understood by thinking.
+Dialogue: 0,0:03:54.41,0:03:56.79,Default,,0,0,0,,You know it, only by experiencing it.
+Dialogue: 0,0:03:57.00,0:03:59.58,Default,,0,0,0,,Then why is such a wonderful\Ntemple closed down?
+Dialogue: 0,0:03:59.95,0:04:04.16,Default,,0,0,0,,This temple has a great history.
+Dialogue: 0,0:04:05.08,0:04:11.25,Default,,0,0,0,,In the forest 3 yojanas(36-45 KM)\Naway from the roaring sea shore…
+Dialogue: 0,0:04:11.66,0:04:16.62,Default,,0,0,0,,Power incarnation of Lord Shiva\Nhas evolved to safeguard us.
+Dialogue: 0,0:04:16.95,0:04:21.83,Default,,0,0,0,,Goddess Ganga herself showers her\Nwaters continuously on Lord Shiva,
+Dialogue: 0,0:04:22.04,0:04:24.50,Default,,0,0,0,,who loves to be decorated.
+Dialogue: 0,0:04:24.75,0:04:29.75,Default,,0,0,0,,These walls once resounded with\Nthe prayers, sound of Conch
+Dialogue: 0,0:04:29.95,0:04:32.29,Default,,0,0,0,,and praises to the Lord.
+Dialogue: 0,0:04:33.08,0:04:41.08,Default,,0,0,0,,When someone dies suddenly at\Nan early age, their soul still stays
+Dialogue: 0,0:04:41.29,0:04:46.45,Default,,0,0,0,,in this world until their\N10th day ritual is completed.
+Dialogue: 0,0:04:46.66,0:04:50.29,Default,,0,0,0,,They can fulfil their last wish\Nby then.
+Dialogue: 0,0:04:50.45,0:04:55.37,Default,,0,0,0,,But, that wish must be righteous.
+Dialogue: 0,0:04:55.87,0:05:01.70,Default,,0,0,0,,Fulfilling that should be written\Nin their fate.
+Dialogue: 0,0:05:02.33,0:05:07.91,Default,,0,0,0,,When someone from the family\Nwholeheartedly worships before
+Dialogue: 0,0:05:08.12,0:05:14.50,Default,,0,0,0,,the final ritual of the dead, spirit\Nof the dead possesses over them.
+Dialogue: 0,0:05:15.08,0:05:17.83,Default,,0,0,0,,It then fulfils its final wish.
+Dialogue: 0,0:05:18.66,0:05:25.83,Default,,0,0,0,,A son five decades ago to fulfil\Nhis dead father’s final wish,
+Dialogue: 0,0:05:26.16,0:05:28.87,Default,,0,0,0,,requested that Lord Shiva.
+Dialogue: 0,0:05:31.41,0:05:35.00,Default,,0,0,0,,Then his father’s spirit\Npossessed over him.
+Dialogue: 0,0:05:37.66,0:05:42.12,Default,,0,0,0,,And killed the maternal uncle,\Nwho poisoned him.
+Dialogue: 0,0:05:42.33,0:05:45.54,Default,,0,0,0,,People who saw that had\Na shiver in their backs.
+Dialogue: 0,0:05:45.79,0:05:51.33,Default,,0,0,0,,Those officials how went to investigate\Nheinous act found it beyond their imagination.
+Dialogue: 0,0:05:51.91,0:05:56.12,Default,,0,0,0,,Head priest argued that the person\Nwho did the murder was not
+Dialogue: 0,0:05:56.33,0:05:58.37,Default,,0,0,0,,this son but spirit of father.
+Dialogue: 0,0:05:58.83,0:06:02.79,Default,,0,0,0,,As the strong trust from ages\Ncan’t be ruled out…
+Dialogue: 0,0:06:03.20,0:06:08.00,Default,,0,0,0,,Officials decided to close down\Nthe temple until the case is solved.
+Dialogue: 0,0:06:09.33,0:06:14.87,Default,,0,0,0,,Though offerings and worships are\Nnot carried out from then till now…
+Dialogue: 0,0:06:16.04,0:06:21.45,Default,,0,0,0,,Worship continues by flow water to Lord Shiva\Nhasn’t stopped in this holy place..
+Dialogue: 0,0:06:22.20,0:06:25.08,Default,,0,0,0,,Trust of the devotees hasn’t\Ncome down.
+Dialogue: 0,0:06:57.25,0:07:00.29,Default,,0,0,0,,It’s been so long since we came.\NWhy did he bring us by force?
+Dialogue: 0,0:07:00.58,0:07:03.25,Default,,0,0,0,,One should come home or take people\Nto Police station to do an enquiry.
+Dialogue: 0,0:07:03.45,0:07:06.50,Default,,0,0,0,,What does he think of us?\NWho the hell is he?
+Dialogue: 0,0:07:08.08,0:07:10.08,Default,,0,0,0,,You can be enquired right in\Nthe Police station.
+Dialogue: 0,0:07:11.83,0:07:14.79,Default,,0,0,0,,But there is no guarantee that\Nyou’d return home safe.
+Dialogue: 0,0:07:16.25,0:07:19.95,Default,,0,0,0,,Sir, what did we do?\NWe are into petrol business legally.
+Dialogue: 0,0:07:20.16,0:07:22.58,Default,,0,0,0,,Two tankers are loading\Nevery time in the company.
+Dialogue: 0,0:07:24.20,0:07:27.29,Default,,0,0,0,,Those two tankers are being\Nunloaded in your bunks.
+Dialogue: 0,0:07:28.08,0:07:33.08,Default,,0,0,0,,But, how is a third tanker passing through\Nthe check post with the same permit?
+Dialogue: 0,0:07:40.33,0:07:42.16,Default,,0,0,0,,We are in no way linked to\Nthat third tanker.
+Dialogue: 0,0:07:43.41,0:07:48.00,Default,,0,0,0,,But if I tell about the person behind that,\NI can never see my daughter again Sir.
+Dialogue: 0,0:07:48.20,0:07:52.62,Default,,0,0,0,,Give me a written complaint. I’ll give\Nyou a guarantee that you return home.
+Dialogue: 0,0:08:16.75,0:08:17.58,Default,,0,0,0,,Come out!
+Dialogue: 0,0:08:34.25,0:08:35.29,Default,,0,0,0,,-Bhavani!\N-Sir!
+Dialogue: 0,0:08:38.20,0:08:40.75,Default,,0,0,0,,-Brother, we did a mistake.\N-Please forgive us, sir.
+Dialogue: 0,0:08:41.25,0:08:46.66,Default,,0,0,0,,I’d have let this go if my smuggling,\Nbusiness or something else was touched.
+Dialogue: 0,0:08:47.79,0:08:50.62,Default,,0,0,0,,But those that tanker is my life.
+Dialogue: 0,0:08:55.62,0:08:58.87,Default,,0,0,0,,I’ll not leave anyone who messes\Nwith those.
+Dialogue: 0,0:09:17.54,0:09:21.33,Default,,0,0,0,,When someone messes with my\Nfather, only his son should kill them.
+Dialogue: 0,0:09:23.12,0:09:29.79,Default,,0,0,0,,One must know about this Rudra behind\Nhim, before messing up with Bhavani.
+Dialogue: 0,0:09:34.00,0:09:35.75,Default,,0,0,0,,-Madam, one tea!\N-Please sit, I’ll give.
+Dialogue: 0,0:09:37.50,0:09:38.70,Default,,0,0,0,,I need one hour to go to\Nparlour, boss.
+Dialogue: 0,0:09:38.91,0:09:40.16,Default,,0,0,0,,-Massage parlour?\N-Boss!
+Dialogue: 0,0:09:40.50,0:09:42.20,Default,,0,0,0,,Dear, can you please sit there?
+Dialogue: 0,0:09:43.00,0:09:44.50,Default,,0,0,0,,Why does she look so cheap\Nat us?
+Dialogue: 0,0:09:44.70,0:09:46.33,Default,,0,0,0,,-Will she give us tea?\N-Let’s have coffee then.
+Dialogue: 0,0:09:48.50,0:09:50.04,Default,,0,0,0,,-Oh no!\N-No use!
+Dialogue: 0,0:09:50.58,0:09:52.79,Default,,0,0,0,,Brother, what’s this?\NCome, let’s leave.
+Dialogue: 0,0:09:53.00,0:09:54.37,Default,,0,0,0,,She maybe cleaning since\Nwe are coming.
+Dialogue: 0,0:09:54.66,0:09:57.33,Default,,0,0,0,,Be positive, especially when\Nyou are negative.
+Dialogue: 0,0:09:58.62,0:09:59.50,Default,,0,0,0,,I see!
+Dialogue: 0,0:10:01.33,0:10:03.75,Default,,0,0,0,,No…
+Dialogue: 0,0:10:04.37,0:10:08.08,Default,,0,0,0,,-Shameless life!\N-Aunty, one tea!
+Dialogue: 0,0:10:08.33,0:10:10.29,Default,,0,0,0,,-No milk, dear!\N-What?
+Dialogue: 0,0:10:10.54,0:10:12.45,Default,,0,0,0,,Didn’t the milk vendor come or\Ndidn’t the buffalo give milk?
+Dialogue: 0,0:10:12.66,0:10:14.79,Default,,0,0,0,,You haven’t paid your debt,\Ndirty rascal.
+Dialogue: 0,0:10:15.00,0:10:18.50,Default,,0,0,0,,You think this is your in law’s house\Nto come and have tea, biscuits and all
+Dialogue: 0,0:10:18.70,0:10:22.04,Default,,0,0,0,,without paying for so long, dirty idiot?
+Dialogue: 0,0:10:22.25,0:10:25.20,Default,,0,0,0,,-Did I ever say like that, dear?\N-You just said it, idiot.
+Dialogue: 0,0:10:25.41,0:10:27.37,Default,,0,0,0,,-There is really no milk.\N-Oh!
+Dialogue: 0,0:10:28.25,0:10:30.87,Default,,0,0,0,,Sir, tea with full milk!\NPlease have it.
+Dialogue: 0,0:10:31.16,0:10:32.16,Default,,0,0,0,,Why did she give to that old man?
+Dialogue: 0,0:10:33.33,0:10:36.08,Default,,0,0,0,,-Here is hot samosa, have it.\N-Thank you!
+Dialogue: 0,0:10:37.04,0:10:39.87,Default,,0,0,0,,-Missing boy!\N-That’s two months back paper, boss.
+Dialogue: 0,0:10:40.08,0:10:42.54,Default,,0,0,0,,Your name shouldn’t have been\NSwarna Kamalam, but crazy flower.
+Dialogue: 0,0:10:42.87,0:10:44.75,Default,,0,0,0,,-Call that number.\N-Ok!
+Dialogue: 0,0:10:46.87,0:10:48.50,Default,,0,0,0,,-Hello!\N-Did your son go missing?
+Dialogue: 0,0:10:48.87,0:10:51.79,Default,,0,0,0,,-Yes madam, but we got him back.\N-Damn, dirty rascal!
+Dialogue: 0,0:10:52.45,0:10:54.54,Default,,0,0,0,,Boss, it seems they found the kid.
+Dialogue: 0,0:10:55.04,0:10:58.16,Default,,0,0,0,,-Oh yeah! Get the amount ready,\NI‘ll visit the city. -What?
+Dialogue: 0,0:11:05.87,0:11:09.41,Default,,0,0,0,,-Hi, I’m one and only Satish.\N-My name is also Satish.
+Dialogue: 0,0:11:09.62,0:11:11.16,Default,,0,0,0,,But, he doesn’t have a son like this.
+Dialogue: 0,0:11:12.04,0:11:15.00,Default,,0,0,0,,If not, you should be visiting some\Nsexologist. Why did you come to me?
+Dialogue: 0,0:11:15.20,0:11:17.33,Default,,0,0,0,,We are the sincere citizen\Nsearching for your son.
+Dialogue: 0,0:11:17.79,0:11:21.29,Default,,0,0,0,,Oh thank you, but we found him\Nwithin a week after he went missing.
+Dialogue: 0,0:11:21.50,0:11:23.54,Default,,0,0,0,,-Then, why didn’t you tell?\N-For what?
+Dialogue: 0,0:11:23.79,0:11:25.62,Default,,0,0,0,,You published it in paper when he went\Nmissing and you should do the same
+Dialogue: 0,0:11:25.83,0:11:27.16,Default,,0,0,0,,after finding him, right?\NThat is the basic ethics.
+Dialogue: 0,0:11:27.37,0:11:28.70,Default,,0,0,0,,-What?\N-What!
+Dialogue: 0,0:11:29.12,0:11:32.87,Default,,0,0,0,,We are waking up early by 5 daily\Nand are searching for your son.
+Dialogue: 0,0:11:33.08,0:11:35.08,Default,,0,0,0,,-Did you ask me and search?\N-Oh, I see!
+Dialogue: 0,0:11:35.41,0:11:38.50,Default,,0,0,0,,Many others are searching similar\Nto us. Shall I bring them all?
+Dialogue: 0,0:11:38.79,0:11:40.79,Default,,0,0,0,,Oh, what should I do now?
+Dialogue: 0,0:11:41.04,0:11:43.50,Default,,0,0,0,,-You know how much time and\Nmoney did our Boss invest? -Yes!
+Dialogue: 0,0:11:43.79,0:11:47.29,Default,,0,0,0,,Forget time, it is not back once spent.\NBut, money comes back, right?
+Dialogue: 0,0:11:47.50,0:11:48.37,Default,,0,0,0,,-Yes!\N-It comes, right?
+Dialogue: 0,0:11:50.79,0:11:52.58,Default,,0,0,0,,-Oh no!\N-Don’t you need it?
+Dialogue: 0,0:11:52.91,0:11:56.25,Default,,0,0,0,,No, cross the door front and give it sir.\NMoney makes many! -Oh my!
+Dialogue: 0,0:11:57.95,0:11:59.45,Default,,0,0,0,,Please adjust with this\Nfifty thousand.
+Dialogue: 0,0:11:59.66,0:12:01.20,Default,,0,0,0,,-Take it, that’s mine.\N-Ok!
+Dialogue: 0,0:12:01.62,0:12:04.37,Default,,0,0,0,,-I’ll publish it in paper tomorrow that\NI found my son. -Ok!
+Dialogue: 0,0:12:07.00,0:12:08.95,Default,,0,0,0,,Matter has reached very fast.
+Dialogue: 0,0:12:09.54,0:12:11.12,Default,,0,0,0,,How do you get such ideas, Boss?
+Dialogue: 0,0:12:12.33,0:12:13.58,Default,,0,0,0,,-From the bottom…\N-Boss!
+Dialogue: 0,0:12:14.04,0:12:15.70,Default,,0,0,0,,When there’s fire in the botton,\Nideas come automatically.
+Dialogue: 0,0:12:15.91,0:12:18.62,Default,,0,0,0,,SLN bus coming to Anantapur\Nfrom Mangalur met with
+Dialogue: 0,0:12:18.83,0:12:21.16,Default,,0,0,0,,a dreaded accident at\NAnantapur ghat road.
+Dialogue: 0,0:12:21.37,0:12:25.45,Default,,0,0,0,,All the passengers in the bus died on\Nthe spot along with the driver and cleaner.
+Dialogue: 0,0:12:25.66,0:12:28.45,Default,,0,0,0,,Family members are weeping\Nat the unidentifiable dead bodies
+Dialogue: 0,0:12:28.66,0:12:31.87,Default,,0,0,0,,of their relative's kin at Anantapur\NVictoria memorial hospital.
+Dialogue: 0,0:12:32.12,0:12:35.08,Default,,0,0,0,,Bus owner Muniappa is kind enough\Nand is distributing a compensation of
+Dialogue: 0,0:12:35.29,0:12:37.75,Default,,0,0,0,,ten lakhs to the family members\Nof the deceased.
+Dialogue: 0,0:12:38.95,0:12:40.83,Default,,0,0,0,,-Not here, do that there.\N-Where?
+Dialogue: 0,0:12:49.58,0:12:51.58,Default,,0,0,0,,-Search!\N-What to search, brother?
+Dialogue: 0,0:12:51.79,0:12:52.91,Default,,0,0,0,,Search for an orphan body.
+Dialogue: 0,0:12:53.12,0:12:55.54,Default,,0,0,0,,-Why orphan body, Boss?\N-For you to beg. -What?
+Dialogue: 0,0:13:00.58,0:13:03.83,Default,,0,0,0,,Number 14 and 15 are both orphan bodies.
+Dialogue: 0,0:13:06.04,0:13:08.45,Default,,0,0,0,,Ok, number 14!\NWait!
+Dialogue: 0,0:13:09.75,0:13:12.08,Default,,0,0,0,,Relative of this body has been\Nfor a tea or a smoke.
+Dialogue: 0,0:13:12.45,0:13:15.41,Default,,0,0,0,,These idiots would even leave\Nthe bodies, but not their bad habits.
+Dialogue: 0,0:13:15.95,0:13:17.50,Default,,0,0,0,,-Give some time.\N-Ok, brother!
+Dialogue: 0,0:13:18.08,0:13:19.37,Default,,0,0,0,,-Your person?\N-No -Go!
+Dialogue: 0,0:13:20.58,0:13:23.08,Default,,0,0,0,,-He is your husband, cry.\N-Oh no, husband! -Stop!
+Dialogue: 0,0:13:24.04,0:13:26.70,Default,,0,0,0,,-Not like that, adjust the makeup!\N-Husband!
+Dialogue: 0,0:13:29.91,0:13:32.62,Default,,0,0,0,,-What did you do, husband?\N-Oh no!
+Dialogue: 0,0:13:33.83,0:13:36.79,Default,,0,0,0,,Did you lend him money?\NWhy are you weeping so much?
+Dialogue: 0,0:13:37.00,0:13:37.83,Default,,0,0,0,,You continue.
+Dialogue: 0,0:13:38.41,0:13:40.37,Default,,0,0,0,,We are in shock that\Nmy brother died.
+Dialogue: 0,0:13:40.58,0:13:44.54,Default,,0,0,0,,I too am on scotch. I had a quarter as\NI was unable to bear this bad smell.
+Dialogue: 0,0:13:45.00,0:13:48.37,Default,,0,0,0,,Do you have any doubt on me?\N-No. -I have a doubt on you.
+Dialogue: 0,0:13:49.37,0:13:51.95,Default,,0,0,0,,I mean, it is written ‘FRAUD’\Non that T-shirt.
+Dialogue: 0,0:13:52.75,0:13:55.79,Default,,0,0,0,,-This is ‘Ford’, idiot.\N-It maybe ‘FORD’ or whatever.
+Dialogue: 0,0:13:56.00,0:14:00.08,Default,,0,0,0,,If he is your brother, can you say\Nwhere is the mole on his waist?
+Dialogue: 0,0:14:00.41,0:14:03.50,Default,,0,0,0,,Is my brother Anushka to show waist\Nby wearing a sari? He wore a lungi.
+Dialogue: 0,0:14:03.75,0:14:08.33,Default,,0,0,0,,In such a case, how do I say he\Nis your relative when you don’t
+Dialogue: 0,0:14:08.54,0:14:10.45,Default,,0,0,0,,say where are the moles?
+Dialogue: 0,0:14:10.87,0:14:13.08,Default,,0,0,0,,It is not justified for you to talk\Nabout moles when we are in
+Dialogue: 0,0:14:13.29,0:14:14.50,Default,,0,0,0,,vain of my brother’s death.
+Dialogue: 0,0:14:14.70,0:14:17.62,Default,,0,0,0,,-Hey!\N-Jackson, give money for his drink.
+Dialogue: 0,0:14:19.20,0:14:23.58,Default,,0,0,0,,Oh no! Sir, my sister in law\Nis down, please write fast.
+Dialogue: 0,0:14:23.79,0:14:26.12,Default,,0,0,0,,Yes, I’ll write now and she’ll get up.\NSee, she’ll get up.
+Dialogue: 0,0:14:28.25,0:14:30.66,Default,,0,0,0,,Yes, she is up.\NYou leave now.
+Dialogue: 0,0:14:31.29,0:14:32.75,Default,,0,0,0,,Please take this ten lakhs\Ncheque, madam.
+Dialogue: 0,0:14:34.04,0:14:36.04,Default,,0,0,0,,You can’t buy my brother’s life\Nwith this dirty money, sir.
+Dialogue: 0,0:14:36.25,0:14:37.04,Default,,0,0,0,,So, you don’t want this?
+Dialogue: 0,0:14:37.25,0:14:38.83,Default,,0,0,0,,I don’t want, but my sister in law\Nneeds it.
+Dialogue: 0,0:14:39.20,0:14:40.83,Default,,0,0,0,,She’ll buy a sewing machine\Nand take care of us all.
+Dialogue: 0,0:14:41.04,0:14:43.33,Default,,0,0,0,,-Leave me, no.\N-My sister in law, sir.
+Dialogue: 0,0:14:43.62,0:14:45.33,Default,,0,0,0,,-What?\N-Promise! We’ll take leave, sir.
+Dialogue: 0,0:14:45.50,0:14:48.79,Default,,0,0,0,,-Hey! -What?\N-Who’ll take the body?
+Dialogue: 0,0:14:49.79,0:14:52.87,Default,,0,0,0,,-Start it!\NOh no, husband!
+Dialogue: 0,0:14:53.08,0:14:57.58,Default,,0,0,0,,-Hey, I need…\N-Ten Lakhs, yay!
+Dialogue: 0,0:14:59.50,0:15:03.08,Default,,0,0,0,,-Wow! -Pour, brother!\N-Rascal!
+Dialogue: 0,0:15:03.33,0:15:05.12,Default,,0,0,0,,Boss, kebab…
+Dialogue: 0,0:15:13.45,0:15:17.16,Default,,0,0,0,,Brother, there’s some bonding\Nin between us.
+Dialogue: 0,0:15:18.00,0:15:21.08,Default,,0,0,0,,Otherwise, why would you get\Nten lakhs to this small batch?
+Dialogue: 0,0:15:22.75,0:15:25.66,Default,,0,0,0,,I will do anytthing for you,\Ncome what may.
+Dialogue: 0,0:15:27.33,0:15:29.54,Default,,0,0,0,,But, I don’t know who you are.
+Dialogue: 0,0:15:30.83,0:15:34.66,Default,,0,0,0,,I’m having drinks in a pain that I’m\Nunable to do anything for you.
+Dialogue: 0,0:15:35.79,0:15:39.70,Default,,0,0,0,,I’d have done if I could.\NI really would’ve done.
+Dialogue: 0,0:15:40.41,0:15:42.54,Default,,0,0,0,,Mother promise, I’d have done.
+Dialogue: 0,0:15:48.87,0:15:50.70,Default,,0,0,0,,Jackson, hey!
+Dialogue: 0,0:15:50.91,0:15:54.58,Default,,0,0,0,,Will there be tigers here?
+Dialogue: 0,0:15:56.54,0:15:59.37,Default,,0,0,0,,-Hey, who is it rascal?\N-Hey Boss, shut up.
+Dialogue: 0,0:16:16.04,0:16:19.91,Default,,0,0,0,,Hey Lord, a girl approaches\Nmother when she is angry.
+Dialogue: 0,0:16:20.16,0:16:22.45,Default,,0,0,0,,She approaches her father\Nwhen she is in a trouble.
+Dialogue: 0,0:16:23.91,0:16:26.75,Default,,0,0,0,,My husband is a loyal Police officer.
+Dialogue: 0,0:16:27.66,0:16:30.04,Default,,0,0,0,,They say he died in an accident.
+Dialogue: 0,0:16:32.41,0:16:36.08,Default,,0,0,0,,They said even his body is\Nnot found.
+Dialogue: 0,0:16:37.50,0:16:42.70,Default,,0,0,0,,Whenever I remember my husband’s\Nsmile, my tears aren’t stopping.
+Dialogue: 0,0:16:43.62,0:16:47.25,Default,,0,0,0,,You’ve taken away my only\Ncompanion.
+Dialogue: 0,0:16:48.54,0:16:52.41,Default,,0,0,0,,Either you take an incarnation\Nor send your power,
+Dialogue: 0,0:16:53.20,0:16:55.45,Default,,0,0,0,,you got to do justice to your child.
+Dialogue: 0,0:16:56.62,0:17:01.70,Default,,0,0,0,,If your existence is true, you come\Nin some form to save the virtue.
+Dialogue: 0,0:17:06.54,0:17:08.33,Default,,0,0,0,,One who comes, will come\Nfor sure.
+Dialogue: 0,0:17:11.91,0:17:14.54,Default,,0,0,0,,But the one coming even by\Nmocking the death…
+Dialogue: 0,0:17:18.45,0:17:21.12,Default,,0,0,0,,The person cleansing the evil\Nand winning hearts…
+Dialogue: 0,0:17:23.62,0:17:28.41,Default,,0,0,0,,He will come riding a bull like that\NLord Shiva descending from Kailasa.
+Dialogue: 0,0:17:30.00,0:17:31.87,Default,,0,0,0,,He will definitely come.
+Dialogue: 0,0:17:58.58,0:18:01.66,Default,,0,0,0,,Who is that guy coming like\NLord Shiva riding a bull?
+Dialogue: 0,0:18:02.00,0:18:03.50,Default,,0,0,0,,He doesn’t look to me like Shiva.
+Dialogue: 0,0:18:04.58,0:18:07.12,Default,,0,0,0,,I think a drama artist has come\Nwearing a khaki shirt.
+Dialogue: 0,0:18:07.29,0:18:09.41,Default,,0,0,0,,Hey Shikari, give him some money\Nand send him away.
+Dialogue: 0,0:18:10.79,0:18:11.87,Default,,0,0,0,,Here!
+Dialogue: 0,0:18:14.41,0:18:16.70,Default,,0,0,0,,-Hail to Lord Shiva!\N-Oh no!
+Dialogue: 0,0:18:22.08,0:18:23.04,Default,,0,0,0,,Oh no!
+Dialogue: 0,0:18:26.87,0:18:29.91,Default,,0,0,0,,This is the VIP darshan.\NDid you see Lord Shiva, idiot?
+Dialogue: 0,0:18:30.45,0:18:31.95,Default,,0,0,0,,Yes, my Lord!
+Dialogue: 0,0:18:37.20,0:18:41.08,Default,,0,0,0,,Hey, will he be a God just by hitting\None fellow? Go guys, beat him up.
+Dialogue: 0,0:18:43.54,0:18:47.45,Default,,0,0,0,,Oh no! No, I said you not to\Nhit me, right?
+Dialogue: 0,0:18:47.66,0:18:50.37,Default,,0,0,0,,Not here.\NLook there, rascal.
+Dialogue: 0,0:18:51.58,0:18:53.58,Default,,0,0,0,,Not the God, but Police!
+Dialogue: 0,0:18:54.16,0:18:55.20,Default,,0,0,0,,Correct answer!
+Dialogue: 0,0:18:56.37,0:18:57.41,Default,,0,0,0,,A Police?
+Dialogue: 0,0:18:57.62,0:19:00.66,Default,,0,0,0,,A gift voucher for you\Nfrom Kalamandir!
+Dialogue: 0,0:19:01.25,0:19:04.37,Default,,0,0,0,,I’m not giving that.\NBut, I’m giving you an offer.
+Dialogue: 0,0:19:04.58,0:19:07.41,Default,,0,0,0,,-An offer?\N-An offer to hit the Police.
+Dialogue: 0,0:19:07.75,0:19:11.12,Default,,0,0,0,,-I’ll hit!\N-I’ll hit!
+Dialogue: 0,0:19:11.33,0:19:14.95,Default,,0,0,0,,Hey guys, what’s that excitement\Nlike stray pigs? There are rules.
+Dialogue: 0,0:19:15.29,0:19:16.62,Default,,0,0,0,,-Rules?\N-Yes!
+Dialogue: 0,0:19:17.20,0:19:20.66,Default,,0,0,0,,-You can punch me as many times\Nthe count of letters in your name. -Ok!
+Dialogue: 0,0:19:21.00,0:19:22.08,Default,,0,0,0,,But if you miss…
+Dialogue: 0,0:19:22.91,0:19:26.33,Default,,0,0,0,,I get the chance to punch you\Nfor just once.
+Dialogue: 0,0:19:26.91,0:19:29.16,Default,,0,0,0,,No case, no lockup!
+Dialogue: 0,0:19:30.12,0:19:33.08,Default,,0,0,0,,Disappointment if you delay,\Nguy losing the chance is a fool.
+Dialogue: 0,0:19:33.33,0:19:37.08,Default,,0,0,0,,He is Malli. Just two letters\Nand two punches.
+Dialogue: 0,0:19:37.58,0:19:41.70,Default,,0,0,0,,Mandapeta Malli! There’s no goon\Nwithout his area name as prefix.
+Dialogue: 0,0:19:41.95,0:19:43.62,Default,,0,0,0,,It is six letters, right?
+Dialogue: 0,0:19:43.83,0:19:45.25,Default,,0,0,0,,Do you know it all, sir?
+Dialogue: 0,0:19:45.58,0:19:47.33,Default,,0,0,0,,You shut up and you go on.
+Dialogue: 0,0:19:47.62,0:19:49.12,Default,,0,0,0,,See, I will never miss.
+Dialogue: 0,0:19:56.20,0:19:58.75,Default,,0,0,0,,Oh no, I will never miss.
+Dialogue: 0,0:20:06.66,0:20:09.20,Default,,0,0,0,,Is this a hand or a 1000 Volt\Ntransformer, sir?
+Dialogue: 0,0:20:09.58,0:20:11.70,Default,,0,0,0,,Estimate the voltage based on\Nthe damage.
+Dialogue: 0,0:20:11.87,0:20:16.87,Default,,0,0,0,,He is Sri. He has no area name too.\NJust one letter and one punch.
+Dialogue: 0,0:20:16.91,0:20:20.83,Default,,0,0,0,,Srinivasa Ramanuja Parabrahma\NYadav, as per the ration card!
+Dialogue: 0,0:20:21.04,0:20:23.66,Default,,0,0,0,,Lucky guy, he gets 15 punches.\NCome!
+Dialogue: 0,0:20:31.33,0:20:33.29,Default,,0,0,0,,-Oh no!\N-Yuck! He’s there, rascal.
+Dialogue: 0,0:20:39.00,0:20:42.54,Default,,0,0,0,,Wow! Underground water would’ve\Npumped up if you pressed a bit more, sir.
+Dialogue: 0,0:20:42.75,0:20:45.75,Default,,0,0,0,,My dear devotee, water pumped up\Nfrom his underground and that’s enough.
+Dialogue: 0,0:20:48.79,0:20:52.16,Default,,0,0,0,,Bonitas!\NHey, that is not a cuss word.
+Dialogue: 0,0:20:52.37,0:20:55.00,Default,,0,0,0,,Bonita in Spanish means\Nbeautiful woman.
+Dialogue: 0,0:20:55.45,0:20:56.37,Default,,0,0,0,,Oh, thank you!
+Dialogue: 0,0:20:56.58,0:20:58.04,Default,,0,0,0,,-Tea please!\N-Sugar…
+Dialogue: 0,0:20:58.25,0:21:00.83,Default,,0,0,0,,Sugar exists right in the smile.\NWhy more?
+Dialogue: 0,0:21:01.04,0:21:02.08,Default,,0,0,0,,Come on, dear.
+Dialogue: 0,0:21:02.62,0:21:03.66,Default,,0,0,0,,-Sir!\N-Yes!
+Dialogue: 0,0:21:03.87,0:21:05.95,Default,,0,0,0,,You have great following in ladies.
+Dialogue: 0,0:21:06.16,0:21:09.37,Default,,0,0,0,,No more names now and it is\Nthe game directly. Hey…
+Dialogue: 0,0:22:53.70,0:22:54.75,Default,,0,0,0,,Sir!
+Dialogue: 0,0:22:55.87,0:22:58.25,Default,,0,0,0,,Where is that Bhavani idiot, who\Nfeels like a macho in this village?
+Dialogue: 0,0:22:59.00,0:23:01.66,Default,,0,0,0,,His boss is here, won’t he come\Nand meet?
+Dialogue: 0,0:23:02.66,0:23:06.12,Default,,0,0,0,,-What’s that expression? Did I beat\Nhim up already? -Yes!
+Dialogue: 0,0:23:06.95,0:23:11.25,Default,,0,0,0,,-Beware in hide and seek,\Nwhere is the fool? -Here!
+Dialogue: 0,0:23:15.54,0:23:19.79,Default,,0,0,0,,-Is he Bhavani?\N-I swear. Mother promise!
+Dialogue: 0,0:23:19.95,0:23:21.75,Default,,0,0,0,,Hey my devotee, is it you?
+Dialogue: 0,0:23:21.95,0:23:24.87,Default,,0,0,0,,I expected you to be wild,\Ndominating in the forest.
+Dialogue: 0,0:23:25.12,0:23:27.54,Default,,0,0,0,,But you look like a seedless raisin.\NTell me the truth.
+Dialogue: 0,0:23:28.33,0:23:30.87,Default,,0,0,0,,-Are you Bhavani?\N-Yes! -Yuck!
+Dialogue: 0,0:23:35.83,0:23:37.62,Default,,0,0,0,,What’s this?\NShould I smash you?
+Dialogue: 0,0:23:37.91,0:23:40.08,Default,,0,0,0,,Your heart would slip into your\Nshorts if I just sneeze aloud.
+Dialogue: 0,0:23:40.95,0:23:43.79,Default,,0,0,0,,-What do you know about my\Nproblem, Sattipandu? -I’m Bhavani.
+Dialogue: 0,0:23:44.00,0:23:46.16,Default,,0,0,0,,Sattipandu, why are you in a hurry\Nwithout listening to me completely?
+Dialogue: 0,0:23:47.83,0:23:51.87,Default,,0,0,0,,Look Sattipandu, I am being transferred\Nfrom every place I’m posted
+Dialogue: 0,0:23:52.08,0:23:53.91,Default,,0,0,0,,by finishing the game just with in\Nhalf or one day.
+Dialogue: 0,0:23:54.45,0:23:58.41,Default,,0,0,0,,Thus when I requested the Commissioner,\Nhe sent me here by giving a great hope
+Dialogue: 0,0:23:58.62,0:24:00.50,Default,,0,0,0,,that you are a monster and\Nthis case will take time.
+Dialogue: 0,0:24:00.70,0:24:02.91,Default,,0,0,0,,But when I came down here,\Ngame is over just within an hour.
+Dialogue: 0,0:24:03.50,0:24:07.16,Default,,0,0,0,,If Commissioner gets to know about\Nthis, he’ll immediately transfer me.
+Dialogue: 0,0:24:07.91,0:24:09.20,Default,,0,0,0,,I haven’t even opened\Nthe zip yet.
+Dialogue: 0,0:24:09.91,0:24:13.08,Default,,0,0,0,,I mean, my bag zip.\NYou misunderstood, right? Naughty!
+Dialogue: 0,0:24:14.50,0:24:20.33,Default,,0,0,0,,-Oh no! Sattipandu, give some idea\Nfor me to stay back here. -Idea?
+Dialogue: 0,0:24:20.91,0:24:23.08,Default,,0,0,0,,-Idea, idea….\N-Tea!
+Dialogue: 0,0:24:23.50,0:24:24.79,Default,,0,0,0,,-Yes, I got it.\N-What?
+Dialogue: 0,0:24:25.37,0:24:28.66,Default,,0,0,0,,-An idea! What if you get\Na heart attack now? -Oh no…
+Dialogue: 0,0:24:30.25,0:24:33.08,Default,,0,0,0,,-What if that comes after\None month? -Thank God!
+Dialogue: 0,0:24:36.37,0:24:37.29,Default,,0,0,0,,-Cheers!\N-Thank you.
+Dialogue: 0,0:24:37.50,0:24:40.91,Default,,0,0,0,,See, impact comes down a bit\Nwhen you keep pain in buffering.
+Dialogue: 0,0:24:41.62,0:24:43.83,Default,,0,0,0,,Sattipandu, I’ll give you an offer.
+Dialogue: 0,0:24:44.50,0:24:47.91,Default,,0,0,0,,I won’t arrest you now. I’ll be in this\Nvillage for one month on vacation.
+Dialogue: 0,0:24:48.33,0:24:52.37,Default,,0,0,0,,You watch daily soaps, go for\Nshopping, attend marriages or
+Dialogue: 0,0:24:52.54,0:24:55.58,Default,,0,0,0,,functions with your family, or get\Ninto telling fairy tales with
+Dialogue: 0,0:24:55.75,0:24:59.29,Default,,0,0,0,,your grandchildren for this\None month.
+Dialogue: 0,0:25:00.12,0:25:02.25,Default,,0,0,0,,But, a small change!
+Dialogue: 0,0:25:02.66,0:25:05.16,Default,,0,0,0,,The Prince will not come\Nriding a horse now.
+Dialogue: 0,0:25:06.25,0:25:08.37,Default,,0,0,0,,Say, he will come riding a bull.
+Dialogue: 0,0:25:09.12,0:25:11.54,Default,,0,0,0,,If you disturb me while I’m on\Nvacation,
+Dialogue: 0,0:25:11.75,0:25:12.87,Default,,0,0,0,,I’ll hit you irrespective of\Nthe occasion you are at.
+Dialogue: 0,0:25:13.08,0:25:14.25,Default,,0,0,0,,-Hey!\N-Just shut up!
+Dialogue: 0,0:25:15.16,0:25:17.37,Default,,0,0,0,,You must come voluntarily and\Nget into the lockup in one month.
+Dialogue: 0,0:25:18.04,0:25:19.50,Default,,0,0,0,,You will come and rest.
+Dialogue: 0,0:25:20.66,0:25:21.37,Default,,0,0,0,,-Bonita!\N-Yes!
+Dialogue: 0,0:25:21.58,0:25:23.00,Default,,0,0,0,,Thank you for your hospitality.
+Dialogue: 0,0:25:27.70,0:25:29.70,Default,,0,0,0,,-Oh no!\N-Aah!
+Dialogue: 0,0:25:34.58,0:25:38.00,Default,,0,0,0,,Sir, why did you come here\Ninstead of coming to the station?
+Dialogue: 0,0:25:38.16,0:25:39.08,Default,,0,0,0,,Why did you come?
+Dialogue: 0,0:25:39.50,0:25:41.00,Default,,0,0,0,,-I came to garland you.\N-Then, go on!
+Dialogue: 0,0:25:41.20,0:25:42.41,Default,,0,0,0,,We don’t get it, sir.
+Dialogue: 0,0:25:42.62,0:25:43.70,Default,,0,0,0,,-Why are you here?\N-To play the band.
+Dialogue: 0,0:25:43.91,0:25:44.66,Default,,0,0,0,,Go on then.
+Dialogue: 0,0:25:46.04,0:25:48.62,Default,,0,0,0,,-Don’t we have cheer girls?\N-Cheer girls? -Yes!
+Dialogue: 0,0:25:48.83,0:25:52.12,Default,,0,0,0,,Sir, your expectations are high\Nand our budget is low.
+Dialogue: 0,0:25:52.45,0:25:54.08,Default,,0,0,0,,Adjust with Chintamani for now.
+Dialogue: 0,0:25:54.29,0:25:55.50,Default,,0,0,0,,-Which Mani?\N-The Mani behind!
+Dialogue: 0,0:25:55.66,0:25:57.33,Default,,0,0,0,,Oh, you are that Mani?\NCome, Mani!
+Dialogue: 0,0:26:01.58,0:26:03.20,Default,,0,0,0,,Why did you stop?\NContinue!
+Dialogue: 0,0:26:04.62,0:26:05.75,Default,,0,0,0,,-Sir!\N-Yes!
+Dialogue: 0,0:26:06.00,0:26:08.83,Default,,0,0,0,,You beat us up after asking all our\Nnames. Don’t you say your name?
+Dialogue: 0,0:26:09.04,0:26:12.62,Default,,0,0,0,,I wrote a song myself about me,\Nto suit such situations.
+Dialogue: 0,0:26:12.79,0:26:15.25,Default,,0,0,0,,As per the request of audience,\Nmy title song!
+Dialogue: 0,0:26:15.58,0:26:17.83,Default,,0,0,0,,All the rights are reserved by me.
+Dialogue: 0,0:26:48.04,0:26:51.37,Default,,0,0,0,,“Play the band in the narrow\Nstreets, dude”
+Dialogue: 0,0:26:51.66,0:26:55.37,Default,,0,0,0,,“Boss, here comes\NMr cool, Bhimaa”
+Dialogue: 0,0:27:03.12,0:27:06.91,Default,,0,0,0,,“Which type or you,\Nmass or temper?”
+Dialogue: 0,0:27:07.16,0:27:10.83,Default,,0,0,0,,“This Bhimaa is the mix of\Nvigour and temper”
+Dialogue: 0,0:27:18.91,0:27:22.70,Default,,0,0,0,,“Be silent, he’s the branding\Nfor violence”
+Dialogue: 0,0:27:22.91,0:27:26.20,Default,,0,0,0,,“He’s the burning rampage and\Nyou’re finished if you trouble”
+Dialogue: 0,0:27:26.75,0:27:30.58,Default,,0,0,0,,“Don't ask for his background,\Nhe is in the fore ground”
+Dialogue: 0,0:27:30.79,0:27:34.04,Default,,0,0,0,,“Bhimaa arrived here\Nby confusing that Lord Brahma”
+Dialogue: 0,0:27:58.12,0:27:59.91,Default,,0,0,0,,Not a quarter, drink water.
+Dialogue: 0,0:28:20.79,0:28:24.37,Default,,0,0,0,,“He’s the monster and\Na fully loaded gun version”
+Dialogue: 0,0:28:24.58,0:28:27.95,Default,,0,0,0,,“He’s the ferocious demon\Nbeing silent”
+Dialogue: 0,0:28:28.33,0:28:32.29,Default,,0,0,0,,“He’ll pick and end all\Nthe bad people”
+Dialogue: 0,0:28:32.50,0:28:36.20,Default,,0,0,0,,“He is so super as a friend”
+Dialogue: 0,0:28:36.41,0:28:39.79,Default,,0,0,0,,“Whatever is the danger,\Nhe faces it from front”
+Dialogue: 0,0:28:40.04,0:28:43.50,Default,,0,0,0,,“He’s with great mercy like\Nthe God”
+Dialogue: 0,0:28:43.95,0:28:47.54,Default,,0,0,0,,“Though so many states and\Nregions oppose”
+Dialogue: 0,0:28:47.70,0:28:51.25,Default,,0,0,0,,“This stubborn man doesn’t\Nlisten even when said no”
+Dialogue: 0,0:28:51.62,0:28:55.37,Default,,0,0,0,,“Play the band in the narrow\Nstreets, dude”
+Dialogue: 0,0:28:55.58,0:28:59.20,Default,,0,0,0,,“Boss, here comes\NMr cool, Bhimaa”
+Dialogue: 0,0:28:59.58,0:29:03.08,Default,,0,0,0,,“Which type or you,\Nmass or temper?”
+Dialogue: 0,0:29:03.29,0:29:06.83,Default,,0,0,0,,“This Bhimaa is the mix of\Nvigour and temper”
+Dialogue: 0,0:29:07.33,0:29:10.95,Default,,0,0,0,,“Be silent, he’s the branding\Nfor violence”
+Dialogue: 0,0:29:11.16,0:29:14.87,Default,,0,0,0,,“He’s the burning rampage and\Nyou’re finished if you trouble”
+Dialogue: 0,0:29:15.08,0:29:18.91,Default,,0,0,0,,“Don't ask for his background,\Nhe is in the fore ground”
+Dialogue: 0,0:29:19.12,0:29:22.41,Default,,0,0,0,,“Bhimaa arrived here\Nby confusing that Lord Brahma”
+Dialogue: 0,0:29:30.62,0:29:31.91,Default,,0,0,0,,Sir...
+Dialogue: 0,0:29:32.66,0:29:33.75,Default,,0,0,0,,Sir, what are you doing?
+Dialogue: 0,0:29:33.95,0:29:36.12,Default,,0,0,0,,It is an illegal bunk, shut it.
+Dialogue: 0,0:29:36.29,0:29:37.58,Default,,0,0,0,,Sir, are you a Police or a Rowdy?
+Dialogue: 0,0:29:37.79,0:29:40.12,Default,,0,0,0,,No doubt, a Rowdy Police!
+Dialogue: 0,0:29:47.00,0:29:49.58,Default,,0,0,0,,Daddy! It seems, some new SI idiot\Ncame home and overacted.
+Dialogue: 0,0:29:49.91,0:29:54.87,Default,,0,0,0,,I’ll break that rascal’s back and\Nmake him salute you every day.
+Dialogue: 0,0:29:55.41,0:29:57.08,Default,,0,0,0,,No!
+Dialogue: 0,0:29:57.41,0:30:01.00,Default,,0,0,0,,You know how important is\Nthat job you left for, right?
+Dialogue: 0,0:30:01.50,0:30:03.54,Default,,0,0,0,,You first finish that and\Nthen come home.
+Dialogue: 0,0:30:03.75,0:30:09.08,Default,,0,0,0,,My revenge will burn fiercely\Nand turn into a rage by then.
+Dialogue: 0,0:30:09.37,0:30:13.41,Default,,0,0,0,,Let’s burn him in that fire\Nonce you are back.
+Dialogue: 0,0:30:16.70,0:30:19.25,Default,,0,0,0,,You can use your influence and\Nget that Bhimaa transferred
+Dialogue: 0,0:30:19.41,0:30:21.45,Default,,0,0,0,,in just one minute, right?
+Dialogue: 0,0:30:22.41,0:30:26.70,Default,,0,0,0,,He himself said, he got used\Nto transfers.
+Dialogue: 0,0:30:27.83,0:30:31.91,Default,,0,0,0,,What pain will he feel if I too\Ndo the same?
+Dialogue: 0,0:30:32.62,0:30:38.50,Default,,0,0,0,,Once my Rudra is back, I too will\Ninsult him in front of everyone in
+Dialogue: 0,0:30:38.79,0:30:45.54,Default,,0,0,0,,this village like he did to me and make\Nhim fall on my feet asking me to forgive.
+Dialogue: 0,0:30:46.25,0:30:49.58,Default,,0,0,0,,Let him overact till then.
+Dialogue: 0,0:31:30.62,0:31:31.70,Default,,0,0,0,,Mike testing 1, 2, 3…
+Dialogue: 0,0:31:32.04,0:31:34.20,Default,,0,0,0,,Will he start a singing\Nprogram now?
+Dialogue: 0,0:31:34.50,0:31:35.75,Default,,0,0,0,,My dear brothers and sisters!
+Dialogue: 0,0:31:35.95,0:31:38.41,Default,,0,0,0,,I think none would listen if you\Nsay sisters, being so handsome sir.
+Dialogue: 0,0:31:38.62,0:31:40.04,Default,,0,0,0,,Correct man, ok wait!
+Dialogue: 0,0:31:40.62,0:31:41.83,Default,,0,0,0,,Old man sitting at the corner!
+Dialogue: 0,0:31:42.70,0:31:45.00,Default,,0,0,0,,Quarter Pandu soon transforming\Ninto a photo over the wall!
+Dialogue: 0,0:31:46.29,0:31:49.20,Default,,0,0,0,,Beautiful Kanta and Kantarao\Neying on her!
+Dialogue: 0,0:31:49.95,0:31:52.75,Default,,0,0,0,,Please listen to me.\NMy name is Bhimaa.
+Dialogue: 0,0:31:53.00,0:31:54.45,Default,,0,0,0,,Bhimaa?\NWhere is your mace?
+Dialogue: 0,0:31:54.66,0:31:56.75,Default,,0,0,0,,Another idiot asked just like you and\NI shoved it into his shorts.
+Dialogue: 0,0:31:56.95,0:31:58.62,Default,,0,0,0,,-Say if you need it and I’ll bring it.\N-Thanks!
+Dialogue: 0,0:31:58.83,0:32:01.83,Default,,0,0,0,,-I’m giving an offer to you all.\N-Oh no, offer?
+Dialogue: 0,0:32:03.45,0:32:05.75,Default,,0,0,0,,If any of your items are stolen\Nfrom now on, come and give
+Dialogue: 0,0:32:05.95,0:32:07.16,Default,,0,0,0,,a complaint in the Police station.
+Dialogue: 0,0:32:07.37,0:32:08.95,Default,,0,0,0,,We’ll lose money again, if\Nwe come to the Police station.
+Dialogue: 0,0:32:09.12,0:32:11.54,Default,,0,0,0,,We will not believe in Police.
+Dialogue: 0,0:32:16.33,0:32:17.91,Default,,0,0,0,,Fine, you don’t believe and\Ncontinue licking the lemon.
+Dialogue: 0,0:32:18.66,0:32:22.33,Default,,0,0,0,,All the rest, come to Police station and\Ntake the value of your stolen items in cash.
+Dialogue: 0,0:32:22.54,0:32:23.08,Default,,0,0,0,,What?
+Dialogue: 0,0:32:23.25,0:32:25.62,Default,,0,0,0,,-Will you pay in cash if we lose\Nany item? -Yes!
+Dialogue: 0,0:32:26.20,0:32:29.79,Default,,0,0,0,,What? We pull money from the\Ncustomers who give us the complaint.
+Dialogue: 0,0:32:30.08,0:32:31.79,Default,,0,0,0,,-Why does he say to pay in return?\N-Yes!
+Dialogue: 0,0:32:32.00,0:32:33.20,Default,,0,0,0,,Will you give money if anything is\Nlost, sir?
+Dialogue: 0,0:32:33.41,0:32:34.95,Default,,0,0,0,,I can’t give back if your wife\Nhas eloped, man.
+Dialogue: 0,0:32:35.12,0:32:37.20,Default,,0,0,0,,-I, myself will not give a complaint\Nif she is gone. -This is correct.
+Dialogue: 0,0:32:37.41,0:32:38.75,Default,,0,0,0,,Won’t I push you in lockup if\Nyou give a complaint?
+Dialogue: 0,0:32:39.25,0:32:44.00,Default,,0,0,0,,If any idiot gives a false complaint,\NI’ll park a rusted rod in his cellar.
+Dialogue: 0,0:32:44.91,0:32:48.20,Default,,0,0,0,,This offer will be on from today\Nuntil I’m here in your village.
+Dialogue: 0,0:32:48.41,0:32:50.91,Default,,0,0,0,,Don’t be disappointed by delaying\Nand the guy losing this will be a fool.
+Dialogue: 0,0:32:57.58,0:32:58.37,Default,,0,0,0,,Sir!
+Dialogue: 0,0:32:59.62,0:33:01.91,Default,,0,0,0,,When we come here and give\Na complaint saying something
+Dialogue: 0,0:33:02.12,0:33:05.83,Default,,0,0,0,,is stolen, you pay money\Nit seems, sir?
+Dialogue: 0,0:33:06.58,0:33:07.45,Default,,0,0,0,,-Mr Rao!\N-Sir!
+Dialogue: 0,0:33:07.66,0:33:10.08,Default,,0,0,0,,-Customer is here, come on.\N-Why is he talking like us?
+Dialogue: 0,0:33:11.25,0:33:12.12,Default,,0,0,0,,Please tell me, sir.
+Dialogue: 0,0:33:12.33,0:33:17.08,Default,,0,0,0,,My purse is stolen in 12B bus\Nat Geetha Nagar road, sir.
+Dialogue: 0,0:33:17.58,0:33:19.33,Default,,0,0,0,,-Pick pocket?\N-Yes sir!
+Dialogue: 0,0:33:19.54,0:33:21.33,Default,,0,0,0,,No mercy at all, to these\Ndirty thieves. Damn!
+Dialogue: 0,0:33:21.75,0:33:23.66,Default,,0,0,0,,-It is for you.\N-I understood!
+Dialogue: 0,0:33:23.91,0:33:25.33,Default,,0,0,0,,-Mr old boy!\N-Sir!
+Dialogue: 0,0:33:25.50,0:33:27.37,Default,,0,0,0,,-How much was there in the purse?\N-Ten thousand, sir.
+Dialogue: 0,0:33:27.79,0:33:29.29,Default,,0,0,0,,-Just ten thousand?\N-Yes sir!
+Dialogue: 0,0:33:31.29,0:33:32.45,Default,,0,0,0,,-Mr Rao!\N-Sir!
+Dialogue: 0,0:33:32.83,0:33:35.45,Default,,0,0,0,,-Write ten thousand five hundred.\N-Why?
+Dialogue: 0,0:33:35.75,0:33:38.54,Default,,0,0,0,,-We got to buy a new purse for\Nold boy, right? -Thank you, sir.
+Dialogue: 0,0:33:39.75,0:33:41.37,Default,,0,0,0,,-Please write, sir.\N-I’m writing, sir.
+Dialogue: 0,0:33:41.66,0:33:42.75,Default,,0,0,0,,Write a new purse also, sir.
+Dialogue: 0,0:33:42.95,0:33:44.08,Default,,0,0,0,,-I’m writing that too, sir.\N-Ok, sir.
+Dialogue: 0,0:33:44.50,0:33:45.66,Default,,0,0,0,,-Sir!\N-Yes!
+Dialogue: 0,0:33:46.75,0:33:47.91,Default,,0,0,0,,Oh no, I forgot.
+Dialogue: 0,0:33:48.12,0:33:49.00,Default,,0,0,0,,-Manju!\N-Oh no!
+Dialogue: 0,0:33:49.66,0:33:51.70,Default,,0,0,0,,Everyone is waiting for your entry.
+Dialogue: 0,0:33:58.87,0:34:01.37,Default,,0,0,0,,I’ll beat you up if you come in\Nslow motion as I said entry.
+Dialogue: 0,0:34:03.12,0:34:04.12,Default,,0,0,0,,Say Boss!
+Dialogue: 0,0:34:04.50,0:34:07.08,Default,,0,0,0,,Do the settlement to this old boy\Nwith your golden hand.
+Dialogue: 0,0:34:08.00,0:34:11.20,Default,,0,0,0,,Look old boy, you don’t worry\Nat all. Here, take this.
+Dialogue: 0,0:34:11.70,0:34:12.79,Default,,0,0,0,,This is the profit.
+Dialogue: 0,0:34:16.00,0:34:19.50,Default,,0,0,0,,-Rao sir, call all your people and ask\Nthem to give an autograph. -Why?
+Dialogue: 0,0:34:19.83,0:34:22.04,Default,,0,0,0,,Why? Boss, tell him once.
+Dialogue: 0,0:34:22.25,0:34:23.87,Default,,0,0,0,,As a witness that settlement\Nis done, Mr Rao.
+Dialogue: 0,0:34:24.08,0:34:26.04,Default,,0,0,0,,Oh, fine! Then, we will sign.
+Dialogue: 0,0:34:26.83,0:34:32.62,Default,,0,0,0,,Mr Rao! Thanks for signing voluntarily\Nto pay 15,500 next week with interest
+Dialogue: 0,0:34:32.83,0:34:39.58,Default,,0,0,0,,for the 10,500 you’ve taken\Nfrom me.
+Dialogue: 0,0:34:39.75,0:34:41.91,Default,,0,0,0,,-Sir, why should we pay this?\N-What is this, sir?
+Dialogue: 0,0:34:42.16,0:34:44.91,Default,,0,0,0,,Will you pay if a mechanic\Ndoesn’t repair?
+Dialogue: 0,0:34:46.00,0:34:48.83,Default,,0,0,0,,Will you pay if a Doctor\Ndoesn’t treat?
+Dialogue: 0,0:34:49.83,0:34:53.50,Default,,0,0,0,,Then why should a Police not\Ndoing his job, get his salary paid?
+Dialogue: 0,0:34:55.00,0:34:58.29,Default,,0,0,0,,Don’t you have any shame?\NOf course, you’d have let that gone.
+Dialogue: 0,0:34:59.66,0:35:02.00,Default,,0,0,0,,You treat people coming to\Ngive a complaint as customers?
+Dialogue: 0,0:35:02.66,0:35:05.91,Default,,0,0,0,,We don’t need to favour them,\Nbut we should do our job well.
+Dialogue: 0,0:35:06.12,0:35:08.04,Default,,0,0,0,,It is after all a pick pocket\Ncase, sir.
+Dialogue: 0,0:35:09.20,0:35:11.45,Default,,0,0,0,,Pick pocket! Pick pocket!
+Dialogue: 0,0:35:12.16,0:35:15.70,Default,,0,0,0,,When a middleclass person works\Nhard for the entire month and
+Dialogue: 0,0:35:15.91,0:35:19.04,Default,,0,0,0,,takes his salary and if that is\Nlost in pickpocketing…
+Dialogue: 0,0:35:19.58,0:35:22.33,Default,,0,0,0,,When he stands with empty pocket\Nunable to pay his milk bill,
+Dialogue: 0,0:35:22.54,0:35:25.91,Default,,0,0,0,,current bill, medical bill and\Nwater bill…
+Dialogue: 0,0:35:26.75,0:35:28.20,Default,,0,0,0,,You know how that feels?
+Dialogue: 0,0:35:29.08,0:35:31.91,Default,,0,0,0,,When he’s unable to pay the debt\Ntaken and the lender is insulting
+Dialogue: 0,0:35:32.12,0:35:35.75,Default,,0,0,0,,the ladies in his family,\Nhis head is down in shame.
+Dialogue: 0,0:35:37.58,0:35:39.08,Default,,0,0,0,,You know how it feels?
+Dialogue: 0,0:35:40.41,0:35:42.00,Default,,0,0,0,,You say that is after all.
+Dialogue: 0,0:35:43.20,0:35:45.33,Default,,0,0,0,,It is not a big case when the rich\Nor a bank gets looted and
+Dialogue: 0,0:35:45.54,0:35:47.45,Default,,0,0,0,,petty case when the poor is robbed.
+Dialogue: 0,0:35:48.54,0:35:51.12,Default,,0,0,0,,We shouldn’t provide them service\Nbased on the crime size, Mr Rao.
+Dialogue: 0,0:35:52.37,0:35:54.70,Default,,0,0,0,,Public service is a serious duty.
+Dialogue: 0,0:35:55.70,0:35:58.66,Default,,0,0,0,,That too, police service is\Na damn serious responsibility.
+Dialogue: 0,0:36:01.29,0:36:04.12,Default,,0,0,0,,Middleclass man is half dead\Nright when he gets robbed.
+Dialogue: 0,0:36:05.20,0:36:09.83,Default,,0,0,0,,Taking a bribe from such a guy is\Nlike collecting coins over a corpse.
+Dialogue: 0,0:36:10.66,0:36:13.45,Default,,0,0,0,,You get salaries only if you have\Nan interest in finding the lost items
+Dialogue: 0,0:36:13.66,0:36:15.70,Default,,0,0,0,,and the guy stealing those.
+Dialogue: 0,0:36:16.75,0:36:22.08,Default,,0,0,0,,Or else, I’ll make you pay\Nthat value along with interest.
+Dialogue: 0,0:36:24.45,0:36:26.41,Default,,0,0,0,,-Did you understand?\N-Yes, we understood sir.
+Dialogue: 0,0:36:26.75,0:36:29.45,Default,,0,0,0,,Rao Sir, robbery in B12 route\Nmeans it is by that Ranga idiot.
+Dialogue: 0,0:36:29.66,0:36:31.87,Default,,0,0,0,,-I’ll go and bring him urgently. Hold this\Nold man here till then. -Ok!
+Dialogue: 0,0:36:32.08,0:36:33.20,Default,,0,0,0,,Sir, please be right here and\NI’m back soon.
+Dialogue: 0,0:36:33.41,0:36:35.16,Default,,0,0,0,,Sir, you too be right here.\NPlease don’t go, sir.
+Dialogue: 0,0:36:37.87,0:36:38.62,Default,,0,0,0,,Ranga!
+Dialogue: 0,0:36:39.00,0:36:40.54,Default,,0,0,0,,-Ranga!\N-Sir!
+Dialogue: 0,0:36:41.54,0:36:44.00,Default,,0,0,0,,-Oh, are you here? -I said, will send\Nthe commission in the evening, right?
+Dialogue: 0,0:36:44.20,0:36:49.16,Default,,0,0,0,,Not the commission, rascal!\NOur new SI has given us a mission impossible.
+Dialogue: 0,0:36:49.37,0:36:51.62,Default,,0,0,0,,Where did you keep that purse\Nyou stole from B12 bus?
+Dialogue: 0,0:36:51.79,0:36:52.62,Default,,0,0,0,,It is in my shorts.
+Dialogue: 0,0:36:52.83,0:36:55.83,Default,,0,0,0,,Oh no! Not this one, but the one\NI put aside for washing.
+Dialogue: 0,0:36:56.04,0:36:58.95,Default,,0,0,0,,Tell that first. I don’t understand what\NI’m taking in this hurry. Go and get that.
+Dialogue: 0,0:36:59.91,0:37:02.20,Default,,0,0,0,,-In how many busses did you loot\Nall these? -Just one bus!
+Dialogue: 0,0:37:02.41,0:37:03.58,Default,,0,0,0,,-Just one bus?\N-Yes!
+Dialogue: 0,0:37:03.79,0:37:05.54,Default,,0,0,0,,You are no ordinary guy.\NWhat’s this?
+Dialogue: 0,0:37:07.20,0:37:09.16,Default,,0,0,0,,How did you steel this nose ring?
+Dialogue: 0,0:37:09.37,0:37:14.08,Default,,0,0,0,,Middy babe and Bermuda boy were into\Ndeep chatting and I stole it in that mess.
+Dialogue: 0,0:37:14.29,0:37:16.37,Default,,0,0,0,,You are a great thief, man.\NWhere is my purse?
+Dialogue: 0,0:37:17.79,0:37:19.50,Default,,0,0,0,,-This has money and it must be that.\N-Yes, that is the one.
+Dialogue: 0,0:37:19.70,0:37:20.33,Default,,0,0,0,,Thank God, I got it.
+Dialogue: 0,0:37:20.54,0:37:21.87,Default,,0,0,0,,-Fine, I got it. Thanks, I’m leaving.\N-Ok!
+Dialogue: 0,0:37:22.16,0:37:23.83,Default,,0,0,0,,What if someone else comes\Nagain to give a complaint?
+Dialogue: 0,0:37:24.04,0:37:26.29,Default,,0,0,0,,Hey, I need this entire bunch.\NPlease, man!
+Dialogue: 0,0:37:26.70,0:37:29.33,Default,,0,0,0,,-Just this one bunch, right?\N-Just one?
+Dialogue: 0,0:37:29.75,0:37:30.95,Default,,0,0,0,,How many more bunches\Ndo you have?
+Dialogue: 0,0:37:31.54,0:37:33.95,Default,,0,0,0,,-Sir! -What?\N-My lungis!
+Dialogue: 0,0:37:34.16,0:37:36.95,Default,,0,0,0,,I’ll get them cleanly washed\Nand starched, you rascal.
+Dialogue: 0,0:37:37.54,0:37:42.12,Default,,0,0,0,,Sir, I’m back. I’m here, sir.\NI’m here.
+Dialogue: 0,0:37:42.83,0:37:45.83,Default,,0,0,0,,Entire Alibaba treasure opened up\Nwith just one complaint, sir.
+Dialogue: 0,0:37:48.75,0:37:51.70,Default,,0,0,0,,Oh no, purse!\NHere is your purse, sir.
+Dialogue: 0,0:37:54.08,0:37:55.12,Default,,0,0,0,,Sir, here is the ten thousand.
+Dialogue: 0,0:37:56.58,0:38:00.41,Default,,0,0,0,,-Here, sir! Brother, paper!\N-I heard. Here, I’m tearing it.
+Dialogue: 0,0:38:02.12,0:38:05.87,Default,,0,0,0,,-Sir, I lost my slippers at the temple.\N-One thousand or two?
+Dialogue: 0,0:38:06.08,0:38:08.75,Default,,0,0,0,,You stop it, man. We’ll put in\Nour efforts for his slippers.
+Dialogue: 0,0:38:08.95,0:38:11.79,Default,,0,0,0,,Hey, put that table outside.\NIf he says the amount, that man
+Dialogue: 0,0:38:12.00,0:38:13.66,Default,,0,0,0,,will pull from our pockets.
+Dialogue: 0,0:38:13.83,0:38:18.25,Default,,0,0,0,,-Stop! -If you wish to give\Ncomplaint, you don’t need to come in.
+Dialogue: 0,0:38:18.45,0:38:21.54,Default,,0,0,0,,You can give it right here.\NWe’re always at your service.
+Dialogue: 0,0:38:21.75,0:38:27.66,Default,,0,0,0,,Wow Sir, you set right everyone\Nwith your brains. What a brain?
+Dialogue: 0,0:38:27.83,0:38:29.08,Default,,0,0,0,,I haven’t yet used it, man.
+Dialogue: 0,0:38:29.41,0:38:32.29,Default,,0,0,0,,-I'm in the vacation mood.\N-Wow!
+Dialogue: 0,0:38:34.83,0:38:36.37,Default,,0,0,0,,Brother, special tea for you.
+Dialogue: 0,0:38:38.00,0:38:39.83,Default,,0,0,0,,-What are you studying, kiddo?\N-Studies?
+Dialogue: 0,0:38:40.12,0:38:42.04,Default,,0,0,0,,No facilities in the Government school\Nand I don’t have enough money
+Dialogue: 0,0:38:42.25,0:38:43.79,Default,,0,0,0,,to study in private school.
+Dialogue: 0,0:38:44.12,0:38:47.08,Default,,0,0,0,,I’m an orphan, brother. I got to\Nkeep selling tea and lead my life.
+Dialogue: 0,0:38:47.29,0:38:49.95,Default,,0,0,0,,-Hey Rama, get two teas.\N-Coming, brother.
+Dialogue: 0,0:38:50.16,0:38:53.16,Default,,0,0,0,,-Hey, what’s your name?\N-Rama!
+Dialogue: 0,0:38:55.12,0:38:56.41,Default,,0,0,0,,-See you, brother.\N-Hey, wait!
+Dialogue: 0,0:38:57.41,0:38:59.29,Default,,0,0,0,,-What did you say?\N-See you, brother!
+Dialogue: 0,0:39:02.04,0:39:04.66,Default,,0,0,0,,Hey, call me as brother\Nat least for once.
+Dialogue: 0,0:39:05.95,0:39:07.87,Default,,0,0,0,,-Call me brother for once.\N-Brother!
+Dialogue: 0,0:39:08.20,0:39:09.83,Default,,0,0,0,,I know, you will not call me.
+Dialogue: 0,0:39:12.45,0:39:15.00,Default,,0,0,0,,-Call once again.\N-Brother!
+Dialogue: 0,0:39:15.04,0:39:18.08,Default,,0,0,0,,You will call me as brother\Nsomeday, by yourself.
+Dialogue: 0,0:39:18.70,0:39:20.04,Default,,0,0,0,,I will not call, even at my death.
+Dialogue: 0,0:40:06.00,0:40:07.45,Default,,0,0,0,,-Rao Sir!\N-Yes!
+Dialogue: 0,0:40:08.16,0:40:10.00,Default,,0,0,0,,-Find it.\N-What?
+Dialogue: 0,0:40:10.50,0:40:12.12,Default,,0,0,0,,-Astrology!\N-What?
+Dialogue: 0,0:40:22.33,0:40:24.08,Default,,0,0,0,,Ok, sir! Oh no!
+Dialogue: 0,0:40:26.62,0:40:29.66,Default,,0,0,0,,-What are you seeing?\N-Grandpa, I need an information.
+Dialogue: 0,0:40:29.87,0:40:33.08,Default,,0,0,0,,-Grandpa? -Hand is shaking\Nlike a phone in vibration mode.
+Dialogue: 0,0:40:33.29,0:40:34.25,Default,,0,0,0,,Are you young?
+Dialogue: 0,0:40:36.00,0:40:40.29,Default,,0,0,0,,-Correct! What do you need?\N-I need the best Rowdy in this city.
+Dialogue: 0,0:40:41.83,0:40:45.37,Default,,0,0,0,,People come here to give complaints on\NRowdies and why are you here for Rowdies?
+Dialogue: 0,0:40:46.04,0:40:49.37,Default,,0,0,0,,-I must give my complaint to a Rowdy.\N-Why?
+Dialogue: 0,0:40:50.00,0:40:52.95,Default,,0,0,0,,Rowdies fix a deal when we go on\Nany work to them.
+Dialogue: 0,0:40:53.29,0:40:55.33,Default,,0,0,0,,Sincerity exists for sure in\Ntheir work.
+Dialogue: 0,0:40:55.95,0:40:59.54,Default,,0,0,0,,But if we go to Police, we need to pay\Nsome money while giving the complaint.
+Dialogue: 0,0:40:59.75,0:41:01.58,Default,,0,0,0,,And we got to pay some more\Nwhile following it up.
+Dialogue: 0,0:41:02.29,0:41:05.41,Default,,0,0,0,,There’s neither a clarity that\Njob is done and no fixed rate too.
+Dialogue: 0,0:41:06.33,0:41:10.20,Default,,0,0,0,,You’ve pulled out all the strings\Nfrom the Khaki shirt. Super!
+Dialogue: 0,0:41:10.50,0:41:12.66,Default,,0,0,0,,I’m like that.\NThere’s no filter to my mouth.
+Dialogue: 0,0:41:12.87,0:41:15.58,Default,,0,0,0,,-I get that.\N-Say, who is the best Rowdy here?
+Dialogue: 0,0:41:15.87,0:41:18.33,Default,,0,0,0,,There’s just one Rowdy in this area.
+Dialogue: 0,0:41:18.54,0:41:21.62,Default,,0,0,0,,Everyone has left taking voluntary\Nretirement after he arrived.
+Dialogue: 0,0:41:21.83,0:41:24.12,Default,,0,0,0,,-Who is that?\N-The one and only licensed Rowdy!
+Dialogue: 0,0:41:25.08,0:41:26.04,Default,,0,0,0,,Bhimaa!
+Dialogue: 0,0:41:31.62,0:41:33.91,Default,,0,0,0,,-My name is Vidya.\N-It is so cute.
+Dialogue: 0,0:41:34.29,0:41:36.66,Default,,0,0,0,,-What? -Oh no!\N-The name!
+Dialogue: 0,0:41:37.66,0:41:39.20,Default,,0,0,0,,I look very beautiful, right?
+Dialogue: 0,0:41:39.41,0:41:41.50,Default,,0,0,0,,Hey, it is a compliment and\Nnot a complaint.
+Dialogue: 0,0:41:41.70,0:41:45.29,Default,,0,0,0,,No, a guy named Romeo is\Nfollowing me by saying to marry me.
+Dialogue: 0,0:41:45.50,0:41:46.66,Default,,0,0,0,,By mistake, did you say him ok?
+Dialogue: 0,0:41:46.87,0:41:48.54,Default,,0,0,0,,-Damn, no way!\NI have not said ok to him.
+Dialogue: 0,0:41:50.08,0:41:52.70,Default,,0,0,0,,But that guy is threatening to pour\Nacid on me if I don’t accept.
+Dialogue: 0,0:41:52.91,0:41:54.33,Default,,0,0,0,,Acid?\NI’ll pour that in his pants.
+Dialogue: 0,0:41:54.54,0:41:57.54,Default,,0,0,0,,Pour it, but I first need\Na body guard.
+Dialogue: 0,0:41:57.91,0:41:59.41,Default,,0,0,0,,You need a guard for your body?
+Dialogue: 0,0:41:59.62,0:42:03.66,Default,,0,0,0,,-What? -He’s the macho\Nand God for this entire place.
+Dialogue: 0,0:42:04.33,0:42:06.08,Default,,0,0,0,,Are you his personal orchestra?
+Dialogue: 0,0:42:06.37,0:42:08.12,Default,,0,0,0,,You’ve been beating it from\Nso far in his support.
+Dialogue: 0,0:42:08.33,0:42:10.54,Default,,0,0,0,,-That is our duty.\N-Did you listen to it?
+Dialogue: 0,0:42:11.25,0:42:12.50,Default,,0,0,0,,It is visible, right?
+Dialogue: 0,0:42:14.08,0:42:17.04,Default,,0,0,0,,You got to say your rate.\NYou shouldn’t keep asking repeatedly.
+Dialogue: 0,0:42:17.25,0:42:19.58,Default,,0,0,0,,-For what?\N-She is asking to be a body guard, sir.
+Dialogue: 0,0:42:19.91,0:42:21.16,Default,,0,0,0,,Oh, no need of any amount\Nfor that.
+Dialogue: 0,0:42:21.37,0:42:24.12,Default,,0,0,0,,Grandpa, didn’t I say there’ll be\Nno clarity with Police?
+Dialogue: 0,0:42:24.33,0:42:27.87,Default,,0,0,0,,Sir, madam is already fixed.\NWhy do you hurt her feelings?
+Dialogue: 0,0:42:28.08,0:42:29.20,Default,,0,0,0,,-Five thousand, madam!\N-Oh no!
+Dialogue: 0,0:42:29.41,0:42:31.54,Default,,0,0,0,,Five thousand, don’t I get\Nany discount?
+Dialogue: 0,0:42:31.70,0:42:32.87,Default,,0,0,0,,This is not Kalamandir, madam.
+Dialogue: 0,0:42:35.41,0:42:37.41,Default,,0,0,0,,-Here is 500 as advance.\N-What is this, Mr Rao?
+Dialogue: 0,0:42:37.62,0:42:39.87,Default,,0,0,0,,This is an advance for me, sir.\NYou advance now.
+Dialogue: 0,0:43:06.20,0:43:10.70,Default,,0,0,0,,Sir, jeep is... not ready. Tire just got\Npunctured and you go on the bike, sir.
+Dialogue: 0,0:43:13.91,0:43:15.91,Default,,0,0,0,,You’ve kept the orchestra\Neverywhere in your station, right?
+Dialogue: 0,0:43:16.12,0:43:18.25,Default,,0,0,0,,-No, in the entire village.\N-Fine, move now.
+Dialogue: 0,0:43:37.58,0:43:39.00,Default,,0,0,0,,-Excuse me!\N-Yes!
+Dialogue: 0,0:43:39.33,0:43:40.91,Default,,0,0,0,,-Your number…\N-I won’t give.
+Dialogue: 0,0:43:41.66,0:43:45.25,Default,,0,0,0,,You are my security and\Nyou must come only when I ask.
+Dialogue: 0,0:43:46.16,0:43:48.45,Default,,0,0,0,,-I’ll call you myself.\N-Oh, ok!
+Dialogue: 0,0:43:48.70,0:43:50.33,Default,,0,0,0,,If you get a opportunity\Nyou will advance.
+Dialogue: 0,0:43:50.91,0:43:54.20,Default,,0,0,0,,I need to find that opportunity, right?\NLook, how is she shaking?
+Dialogue: 0,0:44:15.08,0:44:16.91,Default,,0,0,0,,-Babu Rao!\N-No sir, Kutumba Rao.
+Dialogue: 0,0:44:17.12,0:44:18.41,Default,,0,0,0,,-Ok, Babu Rao!\N-Sir!
+Dialogue: 0,0:44:23.08,0:44:24.45,Default,,0,0,0,,Oh, madam!
+Dialogue: 0,0:44:25.25,0:44:26.87,Default,,0,0,0,,She’s working here as a\Npart time teacher.
+Dialogue: 0,0:44:27.08,0:44:29.54,Default,,0,0,0,,She is also doing PhD in Botany\Nalong with that.
+Dialogue: 0,0:44:29.75,0:44:31.70,Default,,0,0,0,,She is a strict teacher and\Na good student.
+Dialogue: 0,0:44:32.20,0:44:33.20,Default,,0,0,0,,Oh no!
+Dialogue: 0,0:44:35.95,0:44:38.25,Default,,0,0,0,,You should be going around\Ntrees and bushes at this age.
+Dialogue: 0,0:44:38.41,0:44:39.87,Default,,0,0,0,,Why is this PhD on trees at\Nthis age, my cutie?
+Dialogue: 0,0:44:40.04,0:44:41.45,Default,,0,0,0,,-Sir!\N-What?
+Dialogue: 0,0:44:42.20,0:44:42.95,Default,,0,0,0,,Ok sir!
+Dialogue: 0,0:44:44.62,0:44:45.50,Default,,0,0,0,,Let’s see.
+Dialogue: 0,0:45:28.83,0:45:30.58,Default,,0,0,0,,I’ve been waiting just for you.
+Dialogue: 0,0:46:38.20,0:46:40.04,Default,,0,0,0,,You’re playing a ball game\Nwith the world, sir.
+Dialogue: 0,0:46:40.50,0:46:43.00,Default,,0,0,0,,-Orchestra is a bit loud, Mr Rao.\N-Ok sir!
+Dialogue: 0,0:46:44.83,0:46:46.04,Default,,0,0,0,,-Hello!\N-Is security there?
+Dialogue: 0,0:46:46.25,0:46:49.08,Default,,0,0,0,,-He is here. Security!\N-Hey! -Sir!
+Dialogue: 0,0:46:49.83,0:46:51.54,Default,,0,0,0,,-Madam’s phone.\N-Oh!
+Dialogue: 0,0:46:53.08,0:46:54.41,Default,,0,0,0,,-Hello!\N-Hey security!
+Dialogue: 0,0:46:54.91,0:46:59.33,Default,,0,0,0,,-Yes! -That Romeo is standing in side of\Nmy school corridor holding the acid bottle.
+Dialogue: 0,0:46:59.50,0:47:01.50,Default,,0,0,0,,Ask him to stay right there. I’ll see\Nhis end. I’m coming right away.
+Dialogue: 0,0:47:01.54,0:47:02.37,Default,,0,0,0,,-Come on boys!\N-Boys, come on!
+Dialogue: 0,0:47:07.29,0:47:09.87,Default,,0,0,0,,Oh no, Police!\NI won’t leave you.
+Dialogue: 0,0:47:10.20,0:47:13.33,Default,,0,0,0,,-I won’t get caught.\N-Guys, catch him. He’s escaping.
+Dialogue: 0,0:47:13.54,0:47:15.00,Default,,0,0,0,,-Hey, stop idiot.\N-I won’t stop.
+Dialogue: 0,0:47:15.20,0:47:17.33,Default,,0,0,0,,-True love, sir! Leave me.\N-Hey, stop idiot.
+Dialogue: 0,0:47:21.29,0:47:26.37,Default,,0,0,0,,Why are you overacting like adding spices\Nworth a hundred for a food worth ten?
+Dialogue: 0,0:47:31.45,0:47:32.79,Default,,0,0,0,,Sorry Vidya, we missed him.
+Dialogue: 0,0:47:33.00,0:47:36.12,Default,,0,0,0,,-I already knew you’d miss.\N-How?
+Dialogue: 0,0:47:36.54,0:47:40.83,Default,,0,0,0,,I got a doubt you can’t catch him,\Nwhen you stopped the Jeep and ran.
+Dialogue: 0,0:47:42.75,0:47:44.62,Default,,0,0,0,,-Fine, shall I drop you?\N-No need.
+Dialogue: 0,0:47:45.08,0:47:47.29,Default,,0,0,0,,He went that way, right?\NI’ll go this way.
+Dialogue: 0,0:47:48.16,0:47:49.70,Default,,0,0,0,,You are trying to take advantage\Nby finding a chance.
+Dialogue: 0,0:47:52.33,0:47:54.75,Default,,0,0,0,,When did you take advantage, sir?
+Dialogue: 0,0:47:55.00,0:47:57.75,Default,,0,0,0,,-I didn’t take. She is trying to give it.\N-Oh!
+Dialogue: 0,0:47:57.95,0:47:58.75,Default,,0,0,0,,-Sir!\N-Yes!
+Dialogue: 0,0:47:58.95,0:48:02.33,Default,,0,0,0,,You caught Romeo and\Nwhy did you lie he escaped?
+Dialogue: 0,0:48:03.16,0:48:05.37,Default,,0,0,0,,See now, dude!
+Dialogue: 0,0:48:08.37,0:48:11.58,Default,,0,0,0,,Idiot, you can follow a girl.\NEvery man does that.
+Dialogue: 0,0:48:11.87,0:48:15.04,Default,,0,0,0,,Even a male animal tries very hard\Nto impress the female,
+Dialogue: 0,0:48:15.25,0:48:16.54,Default,,0,0,0,,but never threatens to kill it.
+Dialogue: 0,0:48:16.70,0:48:18.50,Default,,0,0,0,,We got to threaten, sir.\NOtherwise, they don’t listen.
+Dialogue: 0,0:48:18.70,0:48:20.08,Default,,0,0,0,,This is also a part of true love.
+Dialogue: 0,0:48:21.16,0:48:23.04,Default,,0,0,0,,Correct dude, we got to threaten.\NOr else, they don’t listen.
+Dialogue: 0,0:48:23.25,0:48:25.41,Default,,0,0,0,,Thank you sir, you understood\Nit very well. Love you, thank you!
+Dialogue: 0,0:48:25.70,0:48:27.95,Default,,0,0,0,,-Hey, pour it on him.\N-Oh no, what sir?
+Dialogue: 0,0:48:28.95,0:48:30.83,Default,,0,0,0,,-Acid!\N-Oh no, acid?
+Dialogue: 0,0:48:31.08,0:48:32.12,Default,,0,0,0,,Come on, pour it!
+Dialogue: 0,0:48:32.50,0:48:35.87,Default,,0,0,0,,Sir, I thought he’d pee in pants and\Nwhy does he say to pour it instead?
+Dialogue: 0,0:48:36.29,0:48:38.16,Default,,0,0,0,,-Give it here, once.\N-Here, sir. -Give it.
+Dialogue: 0,0:48:38.37,0:48:42.16,Default,,0,0,0,,-You pour it, sir.\N-What to pour, idiot?
+Dialogue: 0,0:48:42.62,0:48:45.33,Default,,0,0,0,,-Why are you like this, idiot?\N-Will you really pour it now?
+Dialogue: 0,0:48:45.54,0:48:49.83,Default,,0,0,0,,-Sir, no please!\N-No sir, he’ll die.
+Dialogue: 0,0:48:51.87,0:48:54.00,Default,,0,0,0,,This idiot mixed drinking soda in\Nbaking soda.
+Dialogue: 0,0:48:54.20,0:48:56.45,Default,,0,0,0,,Oh no, this idiot looks\Nvery cunning sir.
+Dialogue: 0,0:48:57.66,0:48:58.62,Default,,0,0,0,,Give me his mobile.
+Dialogue: 0,0:49:02.20,0:49:04.37,Default,,0,0,0,,-What did you save Vidya’s name as?\N-Vidya, my love!
+Dialogue: 0,0:49:04.75,0:49:07.54,Default,,0,0,0,,Vidya idiot, will you have\Nsecurity round the clock?
+Dialogue: 0,0:49:07.75,0:49:10.04,Default,,0,0,0,,I’ll come to your hostel tonight\Nand pour acid on you.
+Dialogue: 0,0:49:10.25,0:49:11.66,Default,,0,0,0,,It’s wrong, sir. It’s a crime, sir.
+Dialogue: 0,0:49:11.91,0:49:14.87,Default,,0,0,0,,-What’s wrong? We can cook,\Nonly when the pan heats up right?
+Dialogue: 0,0:49:17.29,0:49:18.87,Default,,0,0,0,,-Hello!\N-Hey security!
+Dialogue: 0,0:49:19.83,0:49:21.83,Default,,0,0,0,,-It’s heated up, sir.\N-Oh, it is very fast.
+Dialogue: 0,0:49:22.12,0:49:24.33,Default,,0,0,0,,-No, Vidya!\N-Why is he screaming?
+Dialogue: 0,0:49:25.37,0:49:26.08,Default,,0,0,0,,Hello!
+Dialogue: 0,0:49:26.29,0:49:30.25,Default,,0,0,0,,Romeo messaged saying to come to\Nthe hostel and pour acid. Come fast!
+Dialogue: 0,0:49:35.95,0:49:39.37,Default,,0,0,0,,-From when are the Police so handsome?\N-You idiot!
+Dialogue: 0,0:49:41.16,0:49:46.79,Default,,0,0,0,,-I’m ready even to get arrested.\NI think he is a virgin. -Oh no!
+Dialogue: 0,0:49:48.37,0:49:49.62,Default,,0,0,0,,Sir, what is a virgin?
+Dialogue: 0,0:49:49.83,0:49:51.08,Default,,0,0,0,,-Are you from Telugu medium?\N-Yes, sir!
+Dialogue: 0,0:49:52.25,0:49:55.04,Default,,0,0,0,,-It means a good person.\N-Then, I too am a virgin sir.
+Dialogue: 0,0:49:56.25,0:49:58.29,Default,,0,0,0,,-Hey, shut up! -If not as much\Nas I am, you too are a bit virgin, brother.
+Dialogue: 0,0:49:58.45,0:50:00.33,Default,,0,0,0,,-Shut up! Soldiers!\N-Lord!
+Dialogue: 0,0:50:00.58,0:50:02.04,Default,,0,0,0,,-Enter the dragon!\N-Yay!
+Dialogue: 0,0:50:02.45,0:50:03.50,Default,,0,0,0,,Hey, not my side.\NThat side!
+Dialogue: 0,0:50:05.04,0:50:07.37,Default,,0,0,0,,-Hey, will you directly come\Ninto the room? -Yeah!
+Dialogue: 0,0:50:07.58,0:50:11.37,Default,,0,0,0,,-This is a ladies hostel,\Ncan’t you see? -Is it? Really?
+Dialogue: 0,0:50:11.95,0:50:13.20,Default,,0,0,0,,-Who are you?\N-Security!
+Dialogue: 0,0:50:13.79,0:50:15.29,Default,,0,0,0,,-Where should you be?\N-At the gate!
+Dialogue: 0,0:50:18.25,0:50:23.16,Default,,0,0,0,,Mosquitoes might bite if he is out.\NPoor guy will have to scratch.
+Dialogue: 0,0:50:24.25,0:50:27.12,Default,,0,0,0,,-You’d scratch if he comes in.\N-No, listen to me.
+Dialogue: 0,0:50:27.33,0:50:29.66,Default,,0,0,0,,-Move now. Move!\N-Oh no!
+Dialogue: 0,0:50:30.29,0:50:32.29,Default,,0,0,0,,-My Lord, she is coming on to us.\N-No,no... -Sir!
+Dialogue: 0,0:50:34.54,0:50:38.37,Default,,0,0,0,,-Hey, don’t sleep. -How can\NI sleep after watching all this?
+Dialogue: 0,0:50:39.08,0:50:39.95,Default,,0,0,0,,Ok!
+Dialogue: 0,0:50:59.00,0:51:01.04,Default,,0,0,0,,He takes advantage whenever\Nthere is a chance.
+Dialogue: 0,0:51:01.50,0:51:04.50,Default,,0,0,0,,I think pan is over heated and\Nthe food got roasted.
+Dialogue: 0,0:51:04.66,0:51:08.29,Default,,0,0,0,,Sir, when we are so virgin,\Nwhy is madam not at all virgin?
+Dialogue: 0,0:51:08.50,0:51:11.70,Default,,0,0,0,,Idiot, do you know the meaning\Nof virgin or not?
+Dialogue: 0,0:51:14.37,0:51:17.58,Default,,0,0,0,,-Madam, you go in and sir will be\Nin rounds right here. -Yes!
+Dialogue: 0,0:51:19.00,0:51:20.37,Default,,0,0,0,,-Hey Bhattu!\N-My Lord!
+Dialogue: 0,0:51:20.58,0:51:23.04,Default,,0,0,0,,You will feel very happy if\Nthey are sent in, right?
+Dialogue: 0,0:51:23.75,0:51:26.75,Default,,0,0,0,,-Do you have any objection if I’m in\Ntheir room in five minutes? -Impossible!
+Dialogue: 0,0:51:26.95,0:51:29.16,Default,,0,0,0,,-You know, what a great man said?\N-What did he say?
+Dialogue: 0,0:51:29.70,0:51:32.79,Default,,0,0,0,,-Impossible or my foot!\N-Oh no!
+Dialogue: 0,0:51:41.70,0:51:43.87,Default,,0,0,0,,Baking soda with drinking soda!
+Dialogue: 0,0:51:48.41,0:51:51.58,Default,,0,0,0,,Oh no!\NSara, Acid! Run!
+Dialogue: 0,0:51:53.12,0:51:55.83,Default,,0,0,0,,-Hey, what are you doing?\N-I’m killing the mosquitoes.
+Dialogue: 0,0:51:56.04,0:51:58.58,Default,,0,0,0,,He threw acid inside the room.\NWhat are you sitting there and doing?
+Dialogue: 0,0:51:59.16,0:52:01.08,Default,,0,0,0,,-Who am I?\N-Security!
+Dialogue: 0,0:52:02.91,0:52:05.08,Default,,0,0,0,,-Where should I be?\N-At the gate!
+Dialogue: 0,0:52:07.16,0:52:11.50,Default,,0,0,0,,That’s why I told, I’ll take\Ngreat care if I’m close by.
+Dialogue: 0,0:52:12.33,0:52:13.41,Default,,0,0,0,,Ask him to come in.
+Dialogue: 0,0:52:16.50,0:52:17.25,Default,,0,0,0,,Come!
+Dialogue: 0,0:52:17.41,0:52:18.45,Default,,0,0,0,,-Bhattu!\N-My Lord!
+Dialogue: 0,0:52:18.79,0:52:21.20,Default,,0,0,0,,-What’s she saying?\N-She’s asking you to come in, Lord.
+Dialogue: 0,0:52:22.00,0:52:25.16,Default,,0,0,0,,-Oh no!\N-You fools, pan isn’t over heated.
+Dialogue: 0,0:52:25.66,0:52:28.79,Default,,0,0,0,,When tiger cooks the tiger rice,\Nit will be always nice.
+Dialogue: 0,0:52:29.12,0:52:29.95,Default,,0,0,0,,What?
+Dialogue: 0,0:52:30.16,0:52:32.00,Default,,0,0,0,,-He didn’t understand, explain.\N-Ok!
+Dialogue: 0,0:52:44.04,0:52:48.79,Default,,0,0,0,,“I’m flat thinking it is some magic”
+Dialogue: 0,0:52:49.16,0:52:54.12,Default,,0,0,0,,“Was that a pleasure when\Nthe Lord created you?”
+Dialogue: 0,0:52:54.91,0:52:59.79,Default,,0,0,0,,“Maybe your colour is to be\Nasked to look beautiful”
+Dialogue: 0,0:53:00.08,0:53:05.04,Default,,0,0,0,,“Are there comparisons in\Nany language to say about you?”
+Dialogue: 0,0:53:27.83,0:53:32.66,Default,,0,0,0,,“I’m flat thinking it is some magic”
+Dialogue: 0,0:53:33.08,0:53:38.20,Default,,0,0,0,,“Was that a pleasure when\Nthe Lord created you?”
+Dialogue: 0,0:54:11.45,0:54:16.66,Default,,0,0,0,,“Is it true I’m with you?\NIs this a boon to me?”
+Dialogue: 0,0:54:17.00,0:54:18.29,Default,,0,0,0,,“Ego, don't come for a while”
+Dialogue: 0,0:54:18.37,0:54:20.70,Default,,0,0,0,,Hey Stop, Stop, Stop!\N-Where are you going?
+Dialogue: 0,0:54:20.95,0:54:23.87,Default,,0,0,0,,I’m going to see Ravindra Varma garu,\Nthe great Ayurveda wizard.
+Dialogue: 0,0:54:24.08,0:54:26.08,Default,,0,0,0,,I’m working on my research there.
+Dialogue: 0,0:54:26.08,0:54:30.54,Default,,0,0,0,,-Oh, is he your Guru!\N-He’s more than Guru, a father figure to me.
+Dialogue: 0,0:54:30.54,0:54:33.00,Default,,0,0,0,,"You own my complete life"
+Dialogue: 0,0:54:33.16,0:54:43.50,Default,,0,0,0,,"You changed my hesitation\Ninto a song"
+Dialogue: 0,0:54:58.91,0:55:01.83,Default,,0,0,0,,-Hey Rama!\N-Brother?
+Dialogue: 0,0:55:02.12,0:55:04.20,Default,,0,0,0,,-Take these new clothes.\N-Why, brother?
+Dialogue: 0,0:55:04.54,0:55:06.87,Default,,0,0,0,,-Tomorrow is my birthday. -Why new\Nclothes for me on your birthday, brother?
+Dialogue: 0,0:55:07.00,0:55:11.62,Default,,0,0,0,,“I’m flat thinking it is some magic”\N-It’s all right. -Thanks, brother.
+Dialogue: 0,0:55:12.12,0:55:17.16,Default,,0,0,0,,“Was that a pleasure when\Nthe Lord created you?”
+Dialogue: 0,0:55:46.25,0:55:47.95,Default,,0,0,0,,When did they reopen\Nthis school, grandpa?
+Dialogue: 0,0:55:48.16,0:55:51.75,Default,,0,0,0,,A Police man came here like a God\Nto wipe out poor children's problems.
+Dialogue: 0,0:55:52.54,0:55:53.62,Default,,0,0,0,,He is Bhimaa.
+Dialogue: 0,0:55:55.50,0:55:58.08,Default,,0,0,0,,Yay!
+Dialogue: 0,0:56:00.20,0:56:01.50,Default,,0,0,0,,Come fast, madam.
+Dialogue: 0,0:56:02.91,0:56:05.66,Default,,0,0,0,,-Say something.\N-You say it.
+Dialogue: 0,0:56:08.16,0:56:09.70,Default,,0,0,0,,I love you!
+Dialogue: 0,0:56:17.87,0:56:19.25,Default,,0,0,0,,No problem, it'll be down.
+Dialogue: 0,0:56:28.16,0:56:30.91,Default,,0,0,0,,Will my baby’s fever come down\Nby taking this medicine, madam?
+Dialogue: 0,0:56:31.50,0:56:33.12,Default,,0,0,0,,Why did you delay so much?
+Dialogue: 0,0:56:33.45,0:56:36.08,Default,,0,0,0,,We came in the night, madam.\NThey said master wasn’t there.
+Dialogue: 0,0:56:36.66,0:56:40.66,Default,,0,0,0,,Don’t you know? Master will not\Nmeet anyone after Sunset.
+Dialogue: 0,0:56:40.87,0:56:43.04,Default,,0,0,0,,-He doesn’t even give treatment.\N-Why?
+Dialogue: 0,0:56:43.29,0:56:46.41,Default,,0,0,0,,It is a great sin to cut the plants\Nafter Sunset.
+Dialogue: 0,0:56:48.41,0:56:52.08,Default,,0,0,0,,-No problem, take this.\NIt’ll be down. -Drink!
+Dialogue: 0,0:57:25.79,0:57:27.04,Default,,0,0,0,,-Guru ji?\N-Yes!
+Dialogue: 0,0:57:39.16,0:57:40.70,Default,,0,0,0,,Very rare plant!
+Dialogue: 0,0:57:41.87,0:57:43.91,Default,,0,0,0,,It has great medicinal values.
+Dialogue: 0,0:57:44.79,0:57:49.16,Default,,0,0,0,,We can save many lives using\Nthis plant.
+Dialogue: 0,0:57:56.37,0:57:57.54,Default,,0,0,0,,Namaste Guruji!
+Dialogue: 0,0:57:57.95,0:58:03.00,Default,,0,0,0,,Medicine is equivalent to God!\NMay all be good!
+Dialogue: 0,0:58:03.29,0:58:06.20,Default,,0,0,0,,You are the reason for us to be\Nso happy, master.
+Dialogue: 0,0:58:06.45,0:58:10.04,Default,,0,0,0,,My baby’s health didn’t get better\Nthough we visited so many hospitals
+Dialogue: 0,0:58:10.37,0:58:12.04,Default,,0,0,0,,and spent lots of money.
+Dialogue: 0,0:58:12.66,0:58:15.25,Default,,0,0,0,,My baby lived with your treatment.
+Dialogue: 0,0:58:16.45,0:58:18.12,Default,,0,0,0,,You are a God to us.
+Dialogue: 0,0:58:18.29,0:58:21.91,Default,,0,0,0,,This is not my greatness.\NIt is the greatness of this land.
+Dialogue: 0,0:58:22.58,0:58:27.41,Default,,0,0,0,,Sanjivini medicine which can reward life to\Nthe dead person is grown in this land of India.
+Dialogue: 0,0:58:28.00,0:58:30.66,Default,,0,0,0,,Don’t we get a medicine for\Nthese diseases?
+Dialogue: 0,0:58:30.83,0:58:34.62,Default,,0,0,0,,Master, they say plants with great\Nmedicinal values exist in Himalayas.
+Dialogue: 0,0:58:35.04,0:58:36.16,Default,,0,0,0,,Do you bring these from there?
+Dialogue: 0,0:58:36.50,0:58:41.16,Default,,0,0,0,,Not just the Himalayas! Even this\Nland you are standing on is great.
+Dialogue: 0,0:58:42.45,0:58:45.41,Default,,0,0,0,,One among the seven eternal\Nbeings is Parasurama.
+Dialogue: 0,0:58:45.79,0:58:48.41,Default,,0,0,0,,This is the land where\NParasurama lived.
+Dialogue: 0,0:58:48.62,0:58:52.41,Default,,0,0,0,,Plants growing here have great\Nmedicinal values.
+Dialogue: 0,0:58:53.45,0:58:57.58,Default,,0,0,0,,They have the power to cure\Nany disease.
+Dialogue: 0,0:58:57.75,0:59:03.12,Default,,0,0,0,,We may even find Sanjivini, by\Nsearching with a stubborn will power.
+Dialogue: 0,0:59:03.50,0:59:04.58,Default,,0,0,0,,Is it true, master?
+Dialogue: 0,0:59:06.16,0:59:08.70,Default,,0,0,0,,This is impossible for\Nthe human beings.
+Dialogue: 0,0:59:09.70,0:59:15.41,Default,,0,0,0,,A great person specially born for\Nthis cause must come for this task.
+Dialogue: 0,0:59:27.66,0:59:31.00,Default,,0,0,0,,-Namaste sir, my name is…\N-Bhimaa!
+Dialogue: 0,0:59:31.75,0:59:33.75,Default,,0,0,0,,You are the new SI coming to\Nthis village.
+Dialogue: 0,0:59:34.29,0:59:37.37,Default,,0,0,0,,I heard you are doing great works\Nimmediately after arriving here.
+Dialogue: 0,0:59:37.54,0:59:39.54,Default,,0,0,0,,-I wanted to see once.\N-Oh!
+Dialogue: 0,0:59:41.16,0:59:46.33,Default,,0,0,0,,You saw me, right?\NAre you happy now?
+Dialogue: 0,0:59:52.41,0:59:55.16,Default,,0,0,0,,Bhimaa, I have a small request.
+Dialogue: 0,0:59:56.41,1:00:00.33,Default,,0,0,0,,An ancient temple in our village\Nis closed down from five decades.
+Dialogue: 0,1:00:03.45,1:00:05.41,Default,,0,0,0,,I’ve been waiting for you.
+Dialogue: 0,1:00:06.12,1:00:09.79,Default,,0,0,0,,We’ve been trying from so many\Nyears to get that opened.
+Dialogue: 0,1:00:10.00,1:00:13.00,Default,,0,0,0,,They told, some cases are\Npending in the court.
+Dialogue: 0,1:00:13.25,1:00:16.25,Default,,0,0,0,,A temple without worship is like\Nthe baby without mother’s lap.
+Dialogue: 0,1:00:16.66,1:00:21.87,Default,,0,0,0,,We’re unable to witness the temple barren\Nlike this, it instead had to glow in charm.
+Dialogue: 0,1:00:23.25,1:00:26.04,Default,,0,0,0,,Will you help in getting it opened?
+Dialogue: 0,1:00:35.50,1:00:38.00,Default,,0,0,0,,That Bhimaa is disturbing us\Na lot, brother.
+Dialogue: 0,1:00:40.91,1:00:44.66,Default,,0,0,0,,Bhimaa closed down all our business\Njust in few days after he arrived here.
+Dialogue: 0,1:00:45.45,1:00:48.70,Default,,0,0,0,,If it goes the same way, I feel he’ll\Nget to know even about our tankers.
+Dialogue: 0,1:00:58.12,1:01:00.25,Default,,0,0,0,,-Can we send tanker?\N-Yes, you can.
+Dialogue: 0,1:01:07.29,1:01:10.95,Default,,0,0,0,,If we bring in our batch from forest,\Nthey’ll finish that Bhimaa.
+Dialogue: 0,1:01:14.83,1:01:16.25,Default,,0,0,0,,You just say yes for once, brother.
+Dialogue: 0,1:01:35.62,1:01:37.50,Default,,0,0,0,,-Give that register.\N-Sir!
+Dialogue: 0,1:01:37.83,1:01:38.58,Default,,0,0,0,,Give that.
+Dialogue: 0,1:01:56.62,1:01:57.50,Default,,0,0,0,,Give me that phone.
+Dialogue: 0,1:02:24.83,1:02:25.75,Default,,0,0,0,,Give that torch.
+Dialogue: 0,1:02:27.04,1:02:29.70,Default,,0,0,0,,Brother, it seems Bhimaa came\Nto the check post.
+Dialogue: 0,1:03:39.87,1:03:41.54,Default,,0,0,0,,Sir, permit for those two vehicles!
+Dialogue: 0,1:03:45.12,1:03:46.33,Default,,0,0,0,,Sir, shall I let them go?
+Dialogue: 0,1:03:47.83,1:03:48.75,Default,,0,0,0,,Hey, let them go.
+Dialogue: 0,1:04:07.08,1:04:10.12,Default,,0,0,0,,Sir, you are silent even after\Nknowing Bhavani is doing all this.
+Dialogue: 0,1:04:10.37,1:04:11.83,Default,,0,0,0,,Are you waiting for Rudra, sir?
+Dialogue: 0,1:04:14.16,1:04:18.33,Default,,0,0,0,,There is some other person\Nbehind these two.
+Dialogue: 0,1:04:26.25,1:04:27.45,Default,,0,0,0,,Why did you ask me to stop\Nhere, sir?
+Dialogue: 0,1:04:28.20,1:04:30.83,Default,,0,0,0,,I’ve a small work. You go to\Nthe station and I’ll come there.
+Dialogue: 0,1:04:34.12,1:04:37.04,Default,,0,0,0,,Brother, Ravinder Varma asked for\NBhimaa's help in reopening the temple .
+Dialogue: 0,1:04:39.58,1:04:40.62,Default,,0,0,0,,What?
+Dialogue: 0,1:04:45.33,1:04:48.91,Default,,0,0,0,,-Dad!\N-Ask Tandava to finish the work fast.
+Dialogue: 0,1:05:05.37,1:05:07.37,Default,,0,0,0,,-Damn!\N-What happened?
+Dialogue: 0,1:05:07.87,1:05:10.04,Default,,0,0,0,,That truck driver is not answering\Nthe phone, brother.
+Dialogue: 0,1:05:11.41,1:05:12.83,Default,,0,0,0,,What are you talking, idiot?
+Dialogue: 0,1:05:33.70,1:05:35.83,Default,,0,0,0,,Brother, he is not answering\Nthe calls at all.
+Dialogue: 0,1:05:36.29,1:05:37.91,Default,,0,0,0,,What happened to tanker, idiot?
+Dialogue: 0,1:05:38.08,1:05:39.58,Default,,0,0,0,,Sir, accident it seems!
+Dialogue: 0,1:05:41.08,1:05:44.33,Default,,0,0,0,,We got a call from the control room.\NAmbulance driver is not answering the call.
+Dialogue: 0,1:05:44.54,1:05:46.66,Default,,0,0,0,,I’ll go and bring him.\NYou both go with Sir.
+Dialogue: 0,1:06:23.29,1:06:25.95,Default,,0,0,0,,Sir, both the driver and cleaner\Nare dead.
+Dialogue: 0,1:06:45.50,1:06:46.62,Default,,0,0,0,,Chandra!
+Dialogue: 0,1:06:57.54,1:06:58.41,Default,,0,0,0,,Oh no!
+Dialogue: 0,1:06:59.83,1:07:01.00,Default,,0,0,0,,Sir!
+Dialogue: 0,1:07:18.25,1:07:20.91,Default,,0,0,0,,(Child crying)
+Dialogue: 0,1:08:23.37,1:08:25.87,Default,,0,0,0,,-(Child crying)\N-Brother, come fast.
+Dialogue: 0,1:08:26.08,1:08:28.87,Default,,0,0,0,,Hey, Ambulance driver fell down\Nafter getting drunk.
+Dialogue: 0,1:08:29.20,1:08:31.54,Default,,0,0,0,,Vehicle is struck in sand\Nat Sivaiah Jalar.
+Dialogue: 0,1:08:41.54,1:08:44.54,Default,,0,0,0,,-Brother!\N-Brother!
+Dialogue: 0,1:08:46.91,1:08:49.50,Default,,0,0,0,,Sir, it seems Ambulance tire is\Nstuck in sand at Sivaiah Jalar.
+Dialogue: 0,1:08:49.70,1:08:52.00,Default,,0,0,0,,These will not leave us.\NMany more will come soon.
+Dialogue: 0,1:08:54.20,1:08:57.79,Default,,0,0,0,,Sir, there is a shortcut to\Nbeach road thorigh this forest.
+Dialogue: 0,1:08:58.04,1:09:01.54,Default,,0,0,0,,But, how do we go taking\Nall these children with us, sir?
+Dialogue: 0,1:09:04.95,1:09:07.62,Default,,0,0,0,,Brother, will we die?
+Dialogue: 0,1:09:10.16,1:09:11.29,Default,,0,0,0,,Don’t be scared.
+Dialogue: 0,1:09:12.58,1:09:15.16,Default,,0,0,0,,Even that death should fear today\Nby seeing your courage.
+Dialogue: 0,1:09:16.62,1:09:20.91,Default,,0,0,0,,Even that God of death can’t touch\Nyou when this Bhimaa is with you.
+Dialogue: 0,1:09:22.50,1:09:23.87,Default,,0,0,0,,This is my word.
+Dialogue: 0,1:11:38.16,1:11:41.95,Default,,0,0,0,,Brother, we cannot stop him\Nanymore. You have to enter now.
+Dialogue: 0,1:12:06.00,1:12:07.00,Default,,0,0,0,,Sir!
+Dialogue: 0,1:12:12.50,1:12:13.41,Default,,0,0,0,,Brother!
+Dialogue: 0,1:12:18.33,1:12:19.70,Default,,0,0,0,,Run!
+Dialogue: 0,1:16:22.20,1:16:37.08,Default,,0,0,0,,(Hanuman chalisa)
+Dialogue: 0,1:16:50.83,1:17:07.87,Default,,0,0,0,,(Praises to Lord Shiva)
+Dialogue: 0,1:17:33.75,1:17:41.91,Default,,0,0,0,,“Hey Lord Shiva, I just wish\Nto be in your shadow”
+Dialogue: 0,1:17:42.41,1:17:50.79,Default,,0,0,0,,“Hey kind Lord Shiva,\Nwe just need your protection”
+Dialogue: 0,1:17:51.45,1:17:55.62,Default,,0,0,0,,“You just reside in the heart”
+Dialogue: 0,1:17:55.79,1:17:59.41,Default,,0,0,0,,“Hey Lord, bless us”
+Dialogue: 0,1:17:59.62,1:18:06.20,Default,,0,0,0,,"We seek your mercy, hey Lord"
+Dialogue: 0,1:18:09.04,1:18:13.00,Default,,0,0,0,,“Holy is the Lord’s name”
+Dialogue: 0,1:18:13.25,1:18:17.08,Default,,0,0,0,,“Holy is the Lord’s appearance”
+Dialogue: 0,1:18:17.58,1:18:21.66,Default,,0,0,0,,“Holy is the Lord’s name”
+Dialogue: 0,1:18:21.95,1:18:25.70,Default,,0,0,0,,“Holy is the Lord’s appearance”
+Dialogue: 0,1:18:48.04,1:18:49.12,Default,,0,0,0,,What about you, son?
+Dialogue: 0,1:18:50.91,1:18:52.66,Default,,0,0,0,,God will give you himself.
+Dialogue: 0,1:18:54.83,1:18:55.87,Default,,0,0,0,,Who knows what he gives?
+Dialogue: 0,1:18:56.54,1:18:59.50,Default,,0,0,0,,Ask for once and see, that God\Nhimself might come to you.
+Dialogue: 0,1:19:01.00,1:19:03.20,Default,,0,0,0,,-What will he come tome?\N-Hey, did you get what I asked?
+Dialogue: 0,1:19:06.04,1:19:09.04,Default,,0,0,0,,Idiot, why did you bring\Nless coconuts?
+Dialogue: 0,1:19:09.54,1:19:12.20,Default,,0,0,0,,Uncle, he always gave\Nsix for a hundred, but gave just
+Dialogue: 0,1:19:12.41,1:19:13.45,Default,,0,0,0,,five now by increasing the price.
+Dialogue: 0,1:19:13.66,1:19:14.83,Default,,0,0,0,,Why couldn’t you ask him\Nstubbornly?
+Dialogue: 0,1:19:15.04,1:19:16.58,Default,,0,0,0,,He looked angrily, when I\Ntried asking.
+Dialogue: 0,1:19:16.91,1:19:18.79,Default,,0,0,0,,I felt my head is important than\Nthe coconuts and
+Dialogue: 0,1:19:19.00,1:19:21.54,Default,,0,0,0,,came back running from there.
+Dialogue: 0,1:19:21.87,1:19:25.29,Default,,0,0,0,,Priest post you have support to get,\Nwent to that idiotic Siddanthi
+Dialogue: 0,1:19:25.50,1:19:29.70,Default,,0,0,0,,as you kept silent for everything.
+Dialogue: 0,1:19:30.41,1:19:33.37,Default,,0,0,0,,Everyone would take advantage\Nof you, if you be cool like this.
+Dialogue: 0,1:19:33.58,1:19:36.58,Default,,0,0,0,,They are breaking and eating even if we\Nare hard like the coconut, uncle.
+Dialogue: 0,1:19:37.25,1:19:40.50,Default,,0,0,0,,Hey idiot, put those\N50 coconuts in this bag.
+Dialogue: 0,1:19:40.75,1:19:42.20,Default,,0,0,0,,There are just 5 coconuts,\Nright uncle?
+Dialogue: 0,1:19:42.41,1:19:44.79,Default,,0,0,0,,Just 5, but I’ve written 50 here.
+Dialogue: 0,1:19:45.16,1:19:49.41,Default,,0,0,0,,Oh God, are you swallowing God’s money\Nby chatting 45 and writing as 50 coconuts?
+Dialogue: 0,1:19:50.04,1:19:55.50,Default,,0,0,0,,To hell with you! Is that God\Nany foody to swallow 50 coconuts?
+Dialogue: 0,1:19:55.83,1:19:57.91,Default,,0,0,0,,We are writing it so, to fulfil\Nour hunger. That’s it.
+Dialogue: 0,1:19:58.12,1:19:59.79,Default,,0,0,0,,Do we need so many for our\Nhunger, uncle?
+Dialogue: 0,1:20:00.58,1:20:04.20,Default,,0,0,0,,I’m saving all this for my huddle wife.
+Dialogue: 0,1:20:04.41,1:20:06.25,Default,,0,0,0,,-Who is it, uncle?\N-Mandaram!
+Dialogue: 0,1:20:06.50,1:20:08.58,Default,,0,0,0,,Oh God!\NShe is mother of Pari, right?
+Dialogue: 0,1:20:08.79,1:20:11.41,Default,,0,0,0,,You chicken head, what did\Nour Chanakya say?
+Dialogue: 0,1:20:11.79,1:20:14.20,Default,,0,0,0,,It is not important if the girl is\Nfirst hand or second hand.
+Dialogue: 0,1:20:14.41,1:20:16.62,Default,,0,0,0,,That great man said it is not important\Nfirst or second but
+Dialogue: 0,1:20:16.83,1:20:17.83,Default,,0,0,0,,as long as she doesn’t betray us.
+Dialogue: 0,1:20:18.04,1:20:19.41,Default,,0,0,0,,Did Chanakya say this really?
+Dialogue: 0,1:20:20.00,1:20:25.41,Default,,0,0,0,,You fool! people will only believe if we say\NChanakya said it, for anything we want to say.
+Dialogue: 0,1:20:26.62,1:20:28.83,Default,,0,0,0,,“This is the silence from\Ngoing speechless”
+Dialogue: 0,1:20:30.33,1:20:31.79,Default,,0,0,0,,Why did the look turn that side?
+Dialogue: 0,1:20:33.62,1:20:35.95,Default,,0,0,0,,“This is the silence from\Ngoing speechless”
+Dialogue: 0,1:20:40.62,1:20:42.25,Default,,0,0,0,,Is she aware that you are in\Nlove with her?
+Dialogue: 0,1:20:42.41,1:20:44.87,Default,,0,0,0,,Why would she let go a handsome\Nman like me if she knows?
+Dialogue: 0,1:20:45.45,1:20:47.25,Default,,0,0,0,,-I didn’t tell.\N-Why, are you scared?
+Dialogue: 0,1:20:47.45,1:20:52.08,Default,,0,0,0,,You fool, it is not enough just to get\Na cow. We also need grass to feed it.
+Dialogue: 0,1:20:52.29,1:20:53.50,Default,,0,0,0,,I’m accumulating the same.
+Dialogue: 0,1:20:53.70,1:20:56.16,Default,,0,0,0,,There is no use now after your\Nage is over, uncle.
+Dialogue: 0,1:20:56.37,1:21:00.37,Default,,0,0,0,,Age doesn’t matter. Youth blossoms\Nwhen you are in love.
+Dialogue: 0,1:21:00.58,1:21:02.83,Default,,0,0,0,,-Our time is over here.\N-For what, love?
+Dialogue: 0,1:21:03.04,1:21:05.58,Default,,0,0,0,,For the account! We need to\Nurgently go to the school.
+Dialogue: 0,1:21:12.45,1:21:14.83,Default,,0,0,0,,Rama!\NChildren, silence!
+Dialogue: 0,1:21:15.83,1:21:18.33,Default,,0,0,0,,Aren’t you frustrated when\Nchildren are making so much noise?
+Dialogue: 0,1:21:18.70,1:21:19.95,Default,,0,0,0,,Why don’t you ask them to\Nstop that noise?
+Dialogue: 0,1:21:20.45,1:21:22.50,Default,,0,0,0,,If not now when can children\Nmake noise ?
+Dialogue: 0,1:21:22.70,1:21:25.91,Default,,0,0,0,,Once they grow old, even their\Nfaces will go frustrated like yours.
+Dialogue: 0,1:21:26.12,1:21:27.75,Default,,0,0,0,,Thus, don’t try to control them.
+Dialogue: 0,1:21:27.95,1:21:29.95,Default,,0,0,0,,They turn into donkeys if we\Ndon’t control at all.
+Dialogue: 0,1:21:30.33,1:21:32.29,Default,,0,0,0,,These aren’t donkeys.\NBut are Gods.
+Dialogue: 0,1:21:33.70,1:21:36.00,Default,,0,0,0,,Thus elders say God exists\Nin children.
+Dialogue: 0,1:21:36.20,1:21:37.87,Default,,0,0,0,,Sir, this God pinched me.
+Dialogue: 0,1:21:38.08,1:21:39.83,Default,,0,0,0,,You too are a God, right?\NYou too pinch back.
+Dialogue: 0,1:21:40.04,1:21:42.16,Default,,0,0,0,,What can I do in between, when\Ntwo Gods pinch each other?
+Dialogue: 0,1:21:43.41,1:21:45.95,Default,,0,0,0,,Rama, oh no!\NOh God!
+Dialogue: 0,1:21:47.62,1:21:50.00,Default,,0,0,0,,Hey Rama! What is this?
+Dialogue: 0,1:21:51.12,1:21:54.54,Default,,0,0,0,,Don’t you have at least 10% liking on me,\Nfrom what you show on those kids?
+Dialogue: 0,1:21:57.37,1:21:59.58,Default,,0,0,0,,I told ‘I love you’ so many times\Nto you.
+Dialogue: 0,1:21:59.87,1:22:01.66,Default,,0,0,0,,Did you say ‘I love you’ to me\Nat least for once?
+Dialogue: 0,1:22:03.33,1:22:04.79,Default,,0,0,0,,Oh no, Pari!
+Dialogue: 0,1:22:05.70,1:22:06.87,Default,,0,0,0,,When will you pick me up?
+Dialogue: 0,1:22:07.08,1:22:08.33,Default,,0,0,0,,Bring down your weight a bit\Nand I’ll try.
+Dialogue: 0,1:22:08.54,1:22:10.91,Default,,0,0,0,,Oh my, Rama cracked a joke.
+Dialogue: 0,1:22:11.12,1:22:12.66,Default,,0,0,0,,When will you take me away\Nfrom my home?
+Dialogue: 0,1:22:13.25,1:22:14.37,Default,,0,0,0,,Are you really a man?
+Dialogue: 0,1:22:15.04,1:22:18.54,Default,,0,0,0,,What are you talking, Pari? I was going into\Nmen’s toilet as a kid. Why is that doubt?
+Dialogue: 0,1:22:18.79,1:22:22.33,Default,,0,0,0,,A man shouldn’t pee himself, but\Nshould make the opposite people pee.
+Dialogue: 0,1:22:22.54,1:22:26.62,Default,,0,0,0,,Pari, our idiot is daily taking all\Nthe students here to pee right?
+Dialogue: 0,1:22:26.83,1:22:28.29,Default,,0,0,0,,Hey you, dirty idiot!
+Dialogue: 0,1:22:28.95,1:22:34.37,Default,,0,0,0,,No Pari, don’t you talk to me like that. I'd have\Nbeen in the place of your father. I just missed it.
+Dialogue: 0,1:22:34.54,1:22:39.45,Default,,0,0,0,,See, he is in love with my mother even\Nat this age of receiving pension.
+Dialogue: 0,1:22:40.62,1:22:41.79,Default,,0,0,0,,Then, why can’t you love?
+Dialogue: 0,1:22:42.00,1:22:43.87,Default,,0,0,0,,-Oh no Pari, how can I love\Nyour mother? -Oh no, Rama!
+Dialogue: 0,1:22:44.08,1:22:46.75,Default,,0,0,0,,Oh God, I can’t bear with his jokes.
+Dialogue: 0,1:22:47.00,1:22:49.37,Default,,0,0,0,,Instead of loving a coward like you,\Nbetter myself elope you someday.
+Dialogue: 0,1:22:49.58,1:22:53.45,Default,,0,0,0,,It is wrong Pari, you are engaged to\Nour priest’s son Bhattachari, right?
+Dialogue: 0,1:22:53.66,1:22:57.75,Default,,0,0,0,,When my dad threatened to hang himself,\NI put my finger in that ring being scared.
+Dialogue: 0,1:22:58.12,1:23:00.04,Default,,0,0,0,,Only you have the right over me.
+Dialogue: 0,1:23:00.54,1:23:03.50,Default,,0,0,0,,This fool doesn’t have right even\Non his attire. He let goes when
+Dialogue: 0,1:23:03.70,1:23:06.54,Default,,0,0,0,,someone snatches that with\Na feeling not to get into a fight.
+Dialogue: 0,1:23:06.87,1:23:10.33,Default,,0,0,0,,Is it so? Will you let go if someone\Nsnatches me away?
+Dialogue: 0,1:23:10.62,1:23:12.45,Default,,0,0,0,,I and your attire are the same\Nfor you?
+Dialogue: 0,1:23:12.91,1:23:15.04,Default,,0,0,0,,Oh no, Bhattachari is watching.
+Dialogue: 0,1:23:15.54,1:23:16.70,Default,,0,0,0,,Hey Rama!
+Dialogue: 0,1:23:19.50,1:23:22.08,Default,,0,0,0,,How many times do I tell you\Nnot to mess with Pari?
+Dialogue: 0,1:23:22.29,1:23:24.29,Default,,0,0,0,,Engagement means, she is\Nhalf married.
+Dialogue: 0,1:23:24.50,1:23:26.54,Default,,0,0,0,,I’m half husband to Pari now.
+Dialogue: 0,1:23:26.75,1:23:29.45,Default,,0,0,0,,Idiot, I feel like husband though\Nher mom is fully married.
+Dialogue: 0,1:23:29.62,1:23:30.62,Default,,0,0,0,,-Sarangi!\N-Ok!
+Dialogue: 0,1:23:30.83,1:23:32.29,Default,,0,0,0,,-Rama!\N-Oh no!
+Dialogue: 0,1:23:32.91,1:23:34.58,Default,,0,0,0,,Hey Sarangi, look at him.
+Dialogue: 0,1:23:34.91,1:23:39.62,Default,,0,0,0,,-You look like a bull and you fear about\Nthese squirrels? -A squirrel?
+Dialogue: 0,1:23:40.95,1:23:44.58,Default,,0,0,0,,Hey Pari, how did you fall in love\Nwith such a coward?
+Dialogue: 0,1:23:44.83,1:23:47.95,Default,,0,0,0,,Do I replay and show how I\Nfell in love with him?
+Dialogue: 0,1:23:48.58,1:23:51.41,Default,,0,0,0,,-You’ll die in jealous.\N-Did you go so far, Pari?
+Dialogue: 0,1:23:51.58,1:23:54.08,Default,,0,0,0,,No, I went so close.
+Dialogue: 0,1:23:54.29,1:23:56.87,Default,,0,0,0,,-Pari, how could you get so careless?\NCome, idiot. -Get lost!
+Dialogue: 0,1:23:57.08,1:23:58.54,Default,,0,0,0,,Hey Rama! I’ll see your end.
+Dialogue: 0,1:23:58.75,1:24:00.00,Default,,0,0,0,,-Come, Pari!\N-Rama!
+Dialogue: 0,1:24:00.37,1:24:04.58,Default,,0,0,0,,Let anybody marry me.\NBut, I’ll come back to you.
+Dialogue: 0,1:24:04.79,1:24:06.12,Default,,0,0,0,,I love you, Rama.
+Dialogue: 0,1:24:06.20,1:24:09.12,Default,,0,0,0,,-Why is her mom not like her?\N- I love you, Rama.
+Dialogue: 0,1:24:10.83,1:24:15.37,Default,,0,0,0,,Rama, we shouldn’t give so much\Nlenience to kids. We are after all…
+Dialogue: 0,1:24:15.45,1:24:19.29,Default,,0,0,0,,I was posted there day before and\Nam again posted there. No idea what to do.
+Dialogue: 0,1:24:19.50,1:24:20.87,Default,,0,0,0,,I too am posted there tomorrow.\NLet's go together.
+Dialogue: 0,1:24:21.08,1:24:21.79,Default,,0,0,0,,-Namaste, sir!\N-Namaste!
+Dialogue: 0,1:24:22.12,1:24:23.33,Default,,0,0,0,,To hell with these night duties!
+Dialogue: 0,1:24:24.29,1:24:28.62,Default,,0,0,0,,Why do you fear? It won’t happen\Nso every time. Come!
+Dialogue: 0,1:24:31.75,1:24:38.12,Default,,0,0,0,,In! Out!\NIn! Out!
+Dialogue: 0,1:24:38.95,1:24:42.12,Default,,0,0,0,,-Yeah! -Why is this priest\Nwining all the time at playing cards?
+Dialogue: 0,1:24:42.33,1:24:45.25,Default,,0,0,0,,Is it written in constitution that\Na priest’s son shouldn’t play cards?
+Dialogue: 0,1:24:45.45,1:24:47.87,Default,,0,0,0,,No, but run now. Police is coming.\NRun, guys.
+Dialogue: 0,1:24:48.25,1:24:50.87,Default,,0,0,0,,When they’re all running away\Nseeing me, why didn’t you run?
+Dialogue: 0,1:24:51.08,1:24:52.20,Default,,0,0,0,,Don’t you fear about me?
+Dialogue: 0,1:24:52.41,1:24:56.95,Default,,0,0,0,,I make others run, but Bhimaa\Ndoesn’t run by seeing someone.
+Dialogue: 0,1:24:57.16,1:24:58.54,Default,,0,0,0,,How egoistic are you, rascal?
+Dialogue: 0,1:24:58.91,1:25:02.16,Default,,0,0,0,,I don’t know how much, but a machine\Nto measure that isn’t invented yet.
+Dialogue: 0,1:25:02.37,1:25:04.70,Default,,0,0,0,,You dirty kid, come here.\NCome on!
+Dialogue: 0,1:25:05.75,1:25:07.50,Default,,0,0,0,,You rascal, come here.\NCome on!
+Dialogue: 0,1:25:08.08,1:25:09.37,Default,,0,0,0,,Idiot, I won't leave you.
+Dialogue: 0,1:25:10.50,1:25:11.66,Default,,0,0,0,,Don't cry, Rama.
+Dialogue: 0,1:25:11.87,1:25:13.29,Default,,0,0,0,,Today is Pari’s birthday.
+Dialogue: 0,1:25:13.50,1:25:17.62,Default,,0,0,0,,I saved one rupee with difficulty\Nto buy something for her.
+Dialogue: 0,1:25:17.83,1:25:21.70,Default,,0,0,0,,That dirty rascal Bhimaa stole\Nmy one rupee.
+Dialogue: 0,1:25:21.91,1:25:24.83,Default,,0,0,0,,Hey look, Bhimaa is coming.
+Dialogue: 0,1:25:25.50,1:25:28.45,Default,,0,0,0,,-Why are you crying?\N-You stole my one rupee.
+Dialogue: 0,1:25:28.62,1:25:29.58,Default,,0,0,0,,Who the hell are you?
+Dialogue: 0,1:25:29.79,1:25:32.58,Default,,0,0,0,,-I’m Mr Shankara Bhagavathulu’s\Nson Rama. -Shut up!
+Dialogue: 0,1:25:33.75,1:25:38.16,Default,,0,0,0,,You are Bhimaa’s younger brother Raama,\Nmeans more valuable than Bhimaa.
+Dialogue: 0,1:25:38.37,1:25:41.95,Default,,0,0,0,,You must give a valuable gift\Nto Pari. Take these ten rupees.
+Dialogue: 0,1:25:42.62,1:25:43.95,Default,,0,0,0,,Oh no, ten rupees?
+Dialogue: 0,1:25:44.83,1:25:47.33,Default,,0,0,0,,Call me as brother and I’ll give.
+Dialogue: 0,1:25:47.50,1:25:49.45,Default,,0,0,0,,-Leave me, I’ll call.\N-Will you really call me?
+Dialogue: 0,1:25:49.66,1:25:50.79,Default,,0,0,0,,I’ll really call you.\NLeave me.
+Dialogue: 0,1:25:50.95,1:25:53.16,Default,,0,0,0,,-Will you call me for sure?\N-I’ll surely call, leave me.
+Dialogue: 0,1:25:53.79,1:25:54.70,Default,,0,0,0,,Come on, run!
+Dialogue: 0,1:25:55.00,1:25:56.79,Default,,0,0,0,,-Call me as brother.\N-Get lost!
+Dialogue: 0,1:25:57.00,1:25:59.87,Default,,0,0,0,,You’ll someday call me as brother\Nand ask me to come.
+Dialogue: 0,1:26:00.08,1:26:01.83,Default,,0,0,0,,I'll never call you as brother.
+Dialogue: 0,1:26:02.79,1:26:06.87,Default,,0,0,0,,-Buy me a peppermint Rama.\N-Let’s buy bangles first.
+Dialogue: 0,1:26:07.12,1:26:08.70,Default,,0,0,0,,Give me a dozen bangles.
+Dialogue: 0,1:26:08.91,1:26:13.25,Default,,0,0,0,,Idiot, you pushed me there and\Nare now buying bangles here?
+Dialogue: 0,1:26:13.45,1:26:16.33,Default,,0,0,0,,-You play cards at this age, idiot?\N-No sir, please!
+Dialogue: 0,1:26:20.20,1:26:23.87,Default,,0,0,0,,Priest sir, your son is arrested.\NSI sir called you to the station.
+Dialogue: 0,1:26:24.20,1:26:25.45,Default,,0,0,0,,What have you done, Bhimaa rascal?
+Dialogue: 0,1:26:25.54,1:26:27.41,Default,,0,0,0,,If something happens to Raama\NI will kill you.
+Dialogue: 0,1:26:28.87,1:26:31.70,Default,,0,0,0,,Rama!\NSir, please forgive me.
+Dialogue: 0,1:26:32.00,1:26:34.16,Default,,0,0,0,,Rama hasn’t done the wrong.\NIt was Bhimaa.
+Dialogue: 0,1:26:36.37,1:26:39.29,Default,,0,0,0,,-Listen to me. -I brought\Nthat idiot to apologise, sir.
+Dialogue: 0,1:26:39.50,1:26:42.16,Default,,0,0,0,,Our constable manhandled the kid\Nby mistake. You must forgive us.
+Dialogue: 0,1:26:42.41,1:26:43.41,Default,,0,0,0,,You first be seated.
+Dialogue: 0,1:26:49.20,1:26:51.79,Default,,0,0,0,,-Who hit you?\N-Get lost, idiot.
+Dialogue: 0,1:26:52.25,1:26:56.04,Default,,0,0,0,,I’m always into troubles because\Nof you. I don’t like you. Get lost.
+Dialogue: 0,1:27:04.75,1:27:05.91,Default,,0,0,0,,Hey, stop!
+Dialogue: 0,1:27:06.37,1:27:07.25,Default,,0,0,0,,-Sir!\N-Hey!
+Dialogue: 0,1:27:08.58,1:27:11.16,Default,,0,0,0,,Hey, stop dude.
+Dialogue: 0,1:27:11.62,1:27:15.12,Default,,0,0,0,,See, he is a demon.\NHe is born to me by mistake.
+Dialogue: 0,1:27:15.29,1:27:18.04,Default,,0,0,0,,No idea what was my sin to\Nhave a curse like him?
+Dialogue: 0,1:27:19.08,1:27:21.62,Default,,0,0,0,,God hasn’t given you a curse, sir.\NIt is a boon.
+Dialogue: 0,1:27:21.83,1:27:22.91,Default,,0,0,0,,-A boon?\N-Yes sir!
+Dialogue: 0,1:27:23.66,1:27:26.16,Default,,0,0,0,,Ramaa knows the tradition and\Nhe will serve God.
+Dialogue: 0,1:27:26.70,1:27:30.29,Default,,0,0,0,,But Bhimaa has the courage, sir.\NHe can serve people if we can mould him.
+Dialogue: 0,1:27:30.50,1:27:33.70,Default,,0,0,0,,No sir, he is born to me wrongly.\NPut him in jail.
+Dialogue: 0,1:27:33.87,1:27:38.79,Default,,0,0,0,,Sir, if you have no objection\Ncan I adopt Bhimaa?
+Dialogue: 0,1:27:39.00,1:27:42.08,Default,,0,0,0,,Do as you wish.\NI’ll do his final rites, today itself.
+Dialogue: 0,1:27:42.33,1:27:45.91,Default,,0,0,0,,I just have only one son, Ramaa.\NYou are dead to me.
+Dialogue: 0,1:27:49.33,1:27:50.20,Default,,0,0,0,,Let’s go, Ramaa.
+Dialogue: 0,1:27:52.83,1:27:57.83,Default,,0,0,0,,-Hey Rama, call me brother once.\N-Get lost.
+Dialogue: 0,1:28:00.12,1:28:02.25,Default,,0,0,0,,-Will you be a Police?\N-Will you give me the gun?
+Dialogue: 0,1:28:02.83,1:28:03.58,Default,,0,0,0,,Why?
+Dialogue: 0,1:28:14.41,1:28:15.54,Default,,0,0,0,,What happened, dear?
+Dialogue: 0,1:28:15.75,1:28:20.16,Default,,0,0,0,,His memories are haunting me as curses,\Nthough he's not in front of my eyes.
+Dialogue: 0,1:28:21.16,1:28:26.20,Default,,0,0,0,,No idea what sin I committed in previous\Nbirths, I'm now born as Bhimaa's brother.
+Dialogue: 0,1:28:27.62,1:28:29.54,Default,,0,0,0,,Hey Bhimaa, for these memories\Nto vanish from me...
+Dialogue: 0,1:28:30.41,1:28:34.16,Default,,0,0,0,,Either I must die,\Nor he should die.
+Dialogue: 0,1:28:37.12,1:28:38.95,Default,,0,0,0,,Hey, they threw down some body.
+Dialogue: 0,1:28:41.66,1:28:42.58,Default,,0,0,0,,Jump, guys.
+Dialogue: 0,1:28:45.20,1:28:46.20,Default,,0,0,0,,Hey, it is Bhimaa brother!
+Dialogue: 0,1:28:47.29,1:28:48.12,Default,,0,0,0,,Careful!
+Dialogue: 0,1:28:53.16,1:28:56.33,Default,,0,0,0,,Bhimaa brother!\NBhimaa brother!
+Dialogue: 0,1:28:58.62,1:29:00.41,Default,,0,0,0,,You saved me by risking your lives.
+Dialogue: 0,1:29:01.45,1:29:02.95,Default,,0,0,0,,I’ll always be indebted to you.
+Dialogue: 0,1:29:03.45,1:29:05.16,Default,,0,0,0,,We are indebted to you, sir.
+Dialogue: 0,1:29:06.00,1:29:09.08,Default,,0,0,0,,Yes sir! We gave up even hunting,\Nwith a fear once that
+Dialogue: 0,1:29:09.29,1:29:14.20,Default,,0,0,0,,thieves and goons may come\Nand harm our families.
+Dialogue: 0,1:29:14.54,1:29:19.00,Default,,0,0,0,,Attacks stopped after you arrived.\NThis whole village changed, sir.
+Dialogue: 0,1:29:19.70,1:29:23.83,Default,,0,0,0,,We too are able to go hunting\Nin sea by leaving our families.
+Dialogue: 0,1:29:24.58,1:29:26.58,Default,,0,0,0,,You are a boon to us from God, Sir.
+Dialogue: 0,1:29:32.33,1:29:34.08,Default,,0,0,0,,Why are you sitting alone here, brother?
+Dialogue: 0,1:29:34.83,1:29:36.29,Default,,0,0,0,,Here is your special tea, brother.
+Dialogue: 0,1:29:39.54,1:29:41.25,Default,,0,0,0,,-Call me as brother once again.\N-Brother!
+Dialogue: 0,1:29:45.20,1:29:47.58,Default,,0,0,0,,Why do you feel so happy when\Nyou are called as brother?
+Dialogue: 0,1:29:48.50,1:29:50.87,Default,,0,0,0,,-What is your name, kiddo?\N-Rama!
+Dialogue: 0,1:29:57.66,1:30:01.70,Default,,0,0,0,,Ramaa, don’t be sad as your father\Npassed away. I’m here for you.
+Dialogue: 0,1:30:01.87,1:30:04.50,Default,,0,0,0,,-Whichever problem you are into, I’ll be\Nthere for you. -Hey Pari, what is this?
+Dialogue: 0,1:30:04.75,1:30:05.91,Default,,0,0,0,,-Dad!\N-Get up!
+Dialogue: 0,1:30:06.91,1:30:10.37,Default,,0,0,0,,-Dad! -How many times do I tell\Nyou not to be with this dirty fellow?
+Dialogue: 0,1:30:10.87,1:30:13.45,Default,,0,0,0,,-Idiot, your dad was proud of being\Nthe main priest. -No sir!
+Dialogue: 0,1:30:13.66,1:30:15.08,Default,,0,0,0,,-He supressed me in that profession.\N-No sir!
+Dialogue: 0,1:30:15.25,1:30:17.08,Default,,0,0,0,,-Now, you’re trying to snatch\Nmy daughter. -No sir!
+Dialogue: 0,1:30:17.29,1:30:21.04,Default,,0,0,0,,If you look at her or be with\Nher again, I’ll finish you rascal.
+Dialogue: 0,1:30:21.25,1:30:22.75,Default,,0,0,0,,-You move now. Come on!\N-Rama!
+Dialogue: 0,1:30:29.41,1:30:32.04,Default,,0,0,0,,-You hit my brother, idiot?\N-Oh no!
+Dialogue: 0,1:30:42.66,1:30:45.91,Default,,0,0,0,,Not just my daughter,\NI won’t let you touch temple door too.
+Dialogue: 0,1:30:46.16,1:30:50.16,Default,,0,0,0,,Go through this for being born as\Nbrother to Bhimaa idiot. Come on!
+Dialogue: 0,1:30:53.50,1:30:54.75,Default,,0,0,0,,Hey Rama, what happened?
+Dialogue: 0,1:30:54.95,1:30:57.87,Default,,0,0,0,,Hey stop! Why do you have\Nso much anger on me?
+Dialogue: 0,1:30:58.25,1:30:59.37,Default,,0,0,0,,Why are you haunting me?
+Dialogue: 0,1:30:59.54,1:31:01.58,Default,,0,0,0,,Whatever I do, is to keep you happy.
+Dialogue: 0,1:31:01.79,1:31:04.66,Default,,0,0,0,,My life is completely ruined\Nbecause of your aggressive nature.
+Dialogue: 0,1:31:04.87,1:31:06.04,Default,,0,0,0,,-Hey Rama!\N-Huh!
+Dialogue: 0,1:31:06.25,1:31:08.79,Default,,0,0,0,,You know the curse I got?\NIt is to be born with your features.
+Dialogue: 0,1:31:09.00,1:31:13.83,Default,,0,0,0,,If you come in front of me or try to talk\Nwith me again, I will end my own life.
+Dialogue: 0,1:31:14.04,1:31:15.41,Default,,0,0,0,,This is my promise on that Lord Shiva.
+Dialogue: 0,1:31:20.75,1:31:23.25,Default,,0,0,0,,Call me as brother for once and\NI’ll go away.
+Dialogue: 0,1:31:23.45,1:31:24.58,Default,,0,0,0,,Hey, get lost.
+Dialogue: 0,1:31:31.95,1:31:34.91,Default,,0,0,0,,-Call me as brother once again.\N-Brother!
+Dialogue: 0,1:31:45.45,1:31:48.00,Default,,0,0,0,,Bhimaa, what is this?
+Dialogue: 0,1:31:48.41,1:31:49.54,Default,,0,0,0,,What happened, Bhimaa?
+Dialogue: 0,1:31:57.95,1:32:01.45,Default,,0,0,0,,‘Garala Suchi Mukham’, most\Ndangerous war technique used
+Dialogue: 0,1:32:01.62,1:32:03.91,Default,,0,0,0,,by the sea pirates from\Nthe olden days!
+Dialogue: 0,1:32:04.54,1:32:09.37,Default,,0,0,0,,Poison is shattered and showed\Nno effect as you fell in the sea water.
+Dialogue: 0,1:32:10.62,1:32:14.20,Default,,0,0,0,,You came back alive though\Npoisoned and thrown in the sea.
+Dialogue: 0,1:32:14.41,1:32:17.12,Default,,0,0,0,,Yours is not any ordinary fate.
+Dialogue: 0,1:32:19.79,1:32:22.04,Default,,0,0,0,,You have the fate of deciding\Nyour own death.
+Dialogue: 0,1:32:22.66,1:32:23.54,Default,,0,0,0,,Brother!
+Dialogue: 0,1:32:27.95,1:32:31.29,Default,,0,0,0,,-Brother, you are safe right?\N-I’m fine, dear.
+Dialogue: 0,1:32:32.45,1:32:34.95,Default,,0,0,0,,Brother, we don’t know who our\Nparents are.
+Dialogue: 0,1:32:35.33,1:32:36.95,Default,,0,0,0,,We don’t have a place or name\Nof our own.
+Dialogue: 0,1:32:37.16,1:32:39.25,Default,,0,0,0,,They scold us when we\Napproach someone.
+Dialogue: 0,1:32:39.58,1:32:41.83,Default,,0,0,0,,They beat us when we feel\Nhungry and ask for food.
+Dialogue: 0,1:32:42.08,1:32:48.66,Default,,0,0,0,,When you saved us and took us\Nclose, we felt a lot to cry brother.
+Dialogue: 0,1:32:49.62,1:32:52.83,Default,,0,0,0,,We feel very courageous by\Ncalling you brother.
+Dialogue: 0,1:33:00.37,1:33:01.79,Default,,0,0,0,,Where are all the other children?
+Dialogue: 0,1:33:04.37,1:33:06.79,Default,,0,0,0,,Kids have sensitive hearts.
+Dialogue: 0,1:33:07.54,1:33:13.25,Default,,0,0,0,,Poor kids have undergone great\Nmental stress fearing their death.
+Dialogue: 0,1:33:13.62,1:33:15.62,Default,,0,0,0,,We could save these kids.
+Dialogue: 0,1:33:15.83,1:33:20.75,Default,,0,0,0,,No idea how many more kids are\Nstill there, whom we couldn’t save.
+Dialogue: 0,1:33:42.58,1:33:45.62,Default,,0,0,0,,Rascal, it wouldn’t take even a minute\Nto punch you and put to sleep.
+Dialogue: 0,1:33:46.08,1:33:48.12,Default,,0,0,0,,You play with the children’s\Nlives, rascal?
+Dialogue: 0,1:33:48.87,1:33:54.08,Default,,0,0,0,,Hey Bhimaa, what children? Playing with\Ntheir lives, what are you talking now?
+Dialogue: 0,1:33:54.37,1:33:57.54,Default,,0,0,0,,You’re safe as there’s no proof.\NBut the day I get a proof,
+Dialogue: 0,1:33:58.29,1:34:00.33,Default,,0,0,0,,I’ll squeeze you to death, rascal.
+Dialogue: 0,1:34:00.50,1:34:03.62,Default,,0,0,0,,You are after all an SI.\NWhat’s your ego?
+Dialogue: 0,1:34:03.83,1:34:08.54,Default,,0,0,0,,It will not take a minute for me to\Nuse my power and get your dress off.
+Dialogue: 0,1:34:08.75,1:34:10.62,Default,,0,0,0,,Do it, rascal.\NDo it if you are so powerful.
+Dialogue: 0,1:34:11.12,1:34:13.75,Default,,0,0,0,,You think I go silent if seniors say\Nand bend when I get suspended?
+Dialogue: 0,1:34:14.08,1:34:16.04,Default,,0,0,0,,This shirt is just to control\Nthe beast in me.
+Dialogue: 0,1:34:16.29,1:34:18.83,Default,,0,0,0,,Once that is off, I’ll strip you\Nand beat up.
+Dialogue: 0,1:34:19.00,1:34:24.87,Default,,0,0,0,,You are still alive as I’m silent.\NIf I bring in my entire force…
+Dialogue: 0,1:34:25.04,1:34:26.45,Default,,0,0,0,,Do it, rascal.\NWhy delay?
+Dialogue: 0,1:34:26.83,1:34:29.29,Default,,0,0,0,,Bring in at a high rate or from\Nthe neighbouring state.
+Dialogue: 0,1:34:30.33,1:34:35.70,Default,,0,0,0,,Once I start slashing, even the graveyard\Nin this village will not be enough, rascal.
+Dialogue: 0,1:34:39.00,1:34:44.83,Default,,0,0,0,,Hey Bhavani, vacation time is over.\NI’m giving you one final offer.
+Dialogue: 0,1:34:45.62,1:34:49.41,Default,,0,0,0,,I’ll kill you after showing hell to you and\Nyour son, which you showed to those kids.
+Dialogue: 0,1:34:50.37,1:34:52.08,Default,,0,0,0,,No case and no charge sheet!
+Dialogue: 0,1:35:29.87,1:35:33.29,Default,,0,0,0,,Damn! He has no time sense at all.\NBloody idiot!
+Dialogue: 0,1:35:40.33,1:35:41.08,Default,,0,0,0,,Hey Rama!
+Dialogue: 0,1:35:42.29,1:35:44.45,Default,,0,0,0,,Hey Rama idiot, stop.\NWhy do you leave when I’m calling?
+Dialogue: 0,1:35:44.66,1:35:45.58,Default,,0,0,0,,Oh God!
+Dialogue: 0,1:35:45.91,1:35:47.45,Default,,0,0,0,,Don’t you have the power to\NStop, when the girl loving you
+Dialogue: 0,1:35:47.66,1:35:49.04,Default,,0,0,0,,is getting married in a week?
+Dialogue: 0,1:35:49.83,1:35:51.54,Default,,0,0,0,,It is not enough that a man has\Nthe moustache.
+Dialogue: 0,1:35:51.70,1:35:52.79,Default,,0,0,0,,He also should have some courage.
+Dialogue: 0,1:35:53.00,1:35:55.91,Default,,0,0,0,,She said something like\Npeeing and all, the day before.
+Dialogue: 0,1:35:56.37,1:35:58.50,Default,,0,0,0,,You don’t give different meanings\Nto a man daily and confuse me.
+Dialogue: 0,1:35:58.70,1:35:59.41,Default,,0,0,0,,Leave me alone, Pari.
+Dialogue: 0,1:35:59.62,1:36:03.75,Default,,0,0,0,,Is it? I left my entire family and\Ncame with all my jewellery,
+Dialogue: 0,1:36:04.16,1:36:05.95,Default,,0,0,0,,why do you ask me to leave?
+Dialogue: 0,1:36:06.54,1:36:08.62,Default,,0,0,0,,-Jewellery?\N-Come on, say. Say it!
+Dialogue: 0,1:36:11.70,1:36:14.20,Default,,0,0,0,,Come Rama, let’s elope and\Nstart a new life.
+Dialogue: 0,1:36:15.08,1:36:18.87,Default,,0,0,0,,Present life itself is ruined and\Nwill he have a new life again?
+Dialogue: 0,1:36:19.08,1:36:23.25,Default,,0,0,0,,His life will get ruined, if he is by your\Nside and keep taking dips in the pond.
+Dialogue: 0,1:36:23.45,1:36:25.58,Default,,0,0,0,,This crazy fool will get clever\Nonly by eloping with him and
+Dialogue: 0,1:36:25.79,1:36:26.91,Default,,0,0,0,,show him the outside world.
+Dialogue: 0,1:36:27.12,1:36:29.91,Default,,0,0,0,,Outside world, Pari? I know no\Nother place than this village.
+Dialogue: 0,1:36:30.12,1:36:31.54,Default,,0,0,0,,Oh God, you don’t need to know.
+Dialogue: 0,1:36:31.75,1:36:32.83,Default,,0,0,0,,It’s enough that the bus driver\Nknows the way.
+Dialogue: 0,1:36:33.04,1:36:34.58,Default,,0,0,0,,You just show some courage\Nand let’s go now.
+Dialogue: 0,1:36:34.79,1:36:37.20,Default,,0,0,0,,Is courage any sweet curd rice\Nto prepare, for him to know?
+Dialogue: 0,1:36:37.45,1:36:40.29,Default,,0,0,0,,He didn’t have that from the childhood\Nand how will this fool get it now?
+Dialogue: 0,1:36:40.50,1:36:43.16,Default,,0,0,0,,Yup! As I’m here now!
+Dialogue: 0,1:36:44.29,1:36:45.12,Default,,0,0,0,,Who is this fellow?
+Dialogue: 0,1:36:45.58,1:36:47.87,Default,,0,0,0,,Who are you idiot, came like\Na clove in the sweet?
+Dialogue: 0,1:36:48.12,1:36:52.00,Default,,0,0,0,,I’m neither a clove in sweet or cardamom\Nin idly. I’m their childhood friend.
+Dialogue: 0,1:36:52.37,1:36:55.33,Default,,0,0,0,,-Rama, didn’t you recognise\Nmy face? -Who is this idiot?
+Dialogue: 0,1:36:55.54,1:36:58.45,Default,,0,0,0,,Was that you, I broke the knee caps\Nwhile stealing coconut from the temple?
+Dialogue: 0,1:36:58.62,1:36:59.33,Default,,0,0,0,,It’s him! Yes, him!
+Dialogue: 0,1:36:59.50,1:37:03.00,Default,,0,0,0,,Damn, I’m their childhood friend.\NYou too didn’t recognise me, Pari?
+Dialogue: 0,1:37:03.45,1:37:06.04,Default,,0,0,0,,Who? Srinivasa Sharma?
+Dialogue: 0,1:37:06.95,1:37:07.91,Default,,0,0,0,,Vishwanatha Sastry?
+Dialogue: 0,1:37:08.95,1:37:11.54,Default,,0,0,0,,-Satish!\N-Satish, yes!
+Dialogue: 0,1:37:11.83,1:37:12.83,Default,,0,0,0,,-Satish?\N-Yes!
+Dialogue: 0,1:37:13.16,1:37:15.08,Default,,0,0,0,,He looked so bad like a dark\Ntamarind seed, right?
+Dialogue: 0,1:37:15.45,1:37:17.58,Default,,0,0,0,,He looks the same bad now,\Nthough he is gained some colour.
+Dialogue: 0,1:37:17.79,1:37:20.29,Default,,0,0,0,,It is wrong to hold a man and\Ndo body shaming like this.
+Dialogue: 0,1:37:20.66,1:37:23.66,Default,,0,0,0,,Pari, do you remember us eating\Npeanut snacks sitting in the last bench
+Dialogue: 0,1:37:23.87,1:37:25.45,Default,,0,0,0,,while master was teaching at\Nthe school.
+Dialogue: 0,1:37:25.75,1:37:29.50,Default,,0,0,0,,-Yes, he told it correctly.\N-Every mischievous student does the same.
+Dialogue: 0,1:37:29.75,1:37:33.87,Default,,0,0,0,,Pari, I feel this idiot is cheating us.\NHe has no similarities to that Satish.
+Dialogue: 0,1:37:34.25,1:37:35.50,Default,,0,0,0,,Do you still doubt me, Pari?
+Dialogue: 0,1:37:35.70,1:37:38.08,Default,,0,0,0,,You remember, I complained about\Nhim being coward in the childhood?
+Dialogue: 0,1:37:38.29,1:37:42.25,Default,,0,0,0,,Yes Satish!\NYou changed so much.
+Dialogue: 0,1:37:42.41,1:37:44.62,Default,,0,0,0,,Yes, but you haven’t changed at all.\NYou look the same beautiful. Staffed nose fellow!
+Dialogue: 0,1:37:45.95,1:37:48.29,Default,,0,0,0,,But Rama is still the same coward.
+Dialogue: 0,1:37:48.50,1:37:51.16,Default,,0,0,0,,You can’t still be like that, Rama.\NYou got to show courage, and jump Rama.
+Dialogue: 0,1:37:51.37,1:37:52.75,Default,,0,0,0,,What to jump, when there’s\Na pet on the other side?
+Dialogue: 0,1:37:52.95,1:37:54.00,Default,,0,0,0,,I’ve got nothing right at my\Nnative place and will have to beg
+Dialogue: 0,1:37:54.20,1:37:54.95,Default,,0,0,0,,if I go to some other village.
+Dialogue: 0,1:37:55.12,1:37:58.45,Default,,0,0,0,,Yup! Friendship isn’t dirt,\Nbut friendship means the humans.
+Dialogue: 0,1:37:58.62,1:38:00.33,Default,,0,0,0,,When I’m here,\Nwill I let you beg Rama?
+Dialogue: 0,1:38:00.62,1:38:02.00,Default,,0,0,0,,Will you beg instead of them?
+Dialogue: 0,1:38:02.20,1:38:04.95,Default,,0,0,0,,My foot! I meant, I will get their\Nmarriage done and get him a post as
+Dialogue: 0,1:38:05.16,1:38:06.95,Default,,0,0,0,,priest in a big temple.
+Dialogue: 0,1:38:07.58,1:38:09.95,Default,,0,0,0,,Who knows if he gets a priest job\Nor dump us suddenly.
+Dialogue: 0,1:38:10.91,1:38:12.20,Default,,0,0,0,,Agree, Rama!
+Dialogue: 0,1:38:13.62,1:38:16.54,Default,,0,0,0,,You can enter the temple, marry me\Nand also make me pregnant.
+Dialogue: 0,1:38:16.70,1:38:18.54,Default,,0,0,0,,Pari is fast at everything from\Nchildhood.
+Dialogue: 0,1:38:18.79,1:38:21.04,Default,,0,0,0,,-Her mom isn’t so.\N-Her dad is so, right?
+Dialogue: 0,1:38:21.29,1:38:24.16,Default,,0,0,0,,-Hey Rama!\N-Pari, what are those dirty deeds?
+Dialogue: 0,1:38:24.37,1:38:25.75,Default,,0,0,0,,-I’ll get you both married.\N-Go on!
+Dialogue: 0,1:38:25.95,1:38:26.91,Default,,0,0,0,,-She is your responsibility now.\N-Sure!
+Dialogue: 0,1:38:27.12,1:38:29.04,Default,,0,0,0,,-Hey Pari, move. Come here.\N-Ask! Pull her.
+Dialogue: 0,1:38:29.25,1:38:31.79,Default,,0,0,0,,-Aren’t you ashamed of eloping\Nfrom home? -She is not.
+Dialogue: 0,1:38:32.00,1:38:34.41,Default,,0,0,0,,Didn’t I say not to be with\Nthis idiot from childhood?
+Dialogue: 0,1:38:34.62,1:38:35.29,Default,,0,0,0,,You’ve been saying.
+Dialogue: 0,1:38:35.50,1:38:37.12,Default,,0,0,0,,Will you marry him and live by\Ncleaning the temple steps?
+Dialogue: 0,1:38:37.33,1:38:38.04,Default,,0,0,0,,That will be the future.
+Dialogue: 0,1:38:38.25,1:38:40.16,Default,,0,0,0,,Look, his brother and father\Nwere so very egoistic.
+Dialogue: 0,1:38:40.33,1:38:42.58,Default,,0,0,0,,Thus, God turned him\Nfit for nothing.
+Dialogue: 0,1:38:42.79,1:38:44.91,Default,,0,0,0,,I’ll get you married to this\NBhattachari tomorrow morning
+Dialogue: 0,1:38:45.12,1:38:46.58,Default,,0,0,0,,and get you locked in his house.
+Dialogue: 0,1:38:46.79,1:38:48.58,Default,,0,0,0,,-Bless me, father in law.\N-Move now!
+Dialogue: 0,1:38:48.79,1:38:50.87,Default,,0,0,0,,-Marriage won’t take place if\Nyou are here. -Hey Rama!
+Dialogue: 0,1:39:04.25,1:39:06.83,Default,,0,0,0,,-Tell me, Pari.\N-Tomorrow is my wedding.
+Dialogue: 0,1:39:08.75,1:39:13.41,Default,,0,0,0,,If you don’t come and take me\Ntonight, I’ll drink poison and die.
+Dialogue: 0,1:39:16.91,1:39:20.37,Default,,0,0,0,,You are to eat with me at our wedding,\Nbut you will have to do my final rites then.
+Dialogue: 0,1:39:24.91,1:39:26.04,Default,,0,0,0,,What will you do now?
+Dialogue: 0,1:39:26.58,1:39:30.08,Default,,0,0,0,,If there’s anyone who loves me\Nin this world, that’s just Pari.
+Dialogue: 0,1:39:31.08,1:39:34.62,Default,,0,0,0,,-I’ll do anything for her, uncle.\N-That’s the power of love, Rama.
+Dialogue: 0,1:39:34.83,1:39:37.12,Default,,0,0,0,,Just tighten your dress and\Njump into the arena.
+Dialogue: 0,1:39:45.54,1:39:48.50,Default,,0,0,0,,If I had shown the same courage\Nthen, I’d have been in
+Dialogue: 0,1:39:48.70,1:39:50.50,Default,,0,0,0,,your father in law’s place now.
+Dialogue: 0,1:39:51.87,1:39:53.91,Default,,0,0,0,,Pari!\NPari!
+Dialogue: 0,1:39:54.83,1:39:58.45,Default,,0,0,0,,Call more silently, poor mosquitoes\Nmight get disturbed.
+Dialogue: 0,1:39:58.79,1:40:02.45,Default,,0,0,0,,-Pari!\N*Damn! You must make a call, idiot.
+Dialogue: 0,1:40:02.58,1:40:03.62,Default,,0,0,0,,Fine, call.
+Dialogue: 0,1:40:03.83,1:40:07.91,Default,,0,0,0,,(Reciting a sloka)\NWho is it?
+Dialogue: 0,1:40:09.50,1:40:11.83,Default,,0,0,0,,Uncle, I’m Pari’s friend Poori.
+Dialogue: 0,1:40:12.20,1:40:14.54,Default,,0,0,0,,-Are you Pari’s friend?\N-Yes, uncle.
+Dialogue: 0,1:40:14.87,1:40:17.50,Default,,0,0,0,,You idiot, Rama is the only\Nfriend of Pari.
+Dialogue: 0,1:40:19.12,1:40:21.25,Default,,0,0,0,,You should’ve called from\Nan STD booth.
+Dialogue: 0,1:40:21.45,1:40:23.91,Default,,0,0,0,,-Your number is displayed here,\Nyou fool. -Oh no!
+Dialogue: 0,1:40:25.62,1:40:26.58,Default,,0,0,0,,Call on the landline.
+Dialogue: 0,1:40:31.29,1:40:33.70,Default,,0,0,0,,Hello!\NHello, who is it?
+Dialogue: 0,1:40:34.20,1:40:38.08,Default,,0,0,0,,(Song playing)
+Dialogue: 0,1:40:38.50,1:40:39.83,Default,,0,0,0,,Who is it?\NPlease talk.
+Dialogue: 0,1:40:40.62,1:40:42.12,Default,,0,0,0,,Why don’t you answer when\Nshe’s asking, Sarangi?
+Dialogue: 0,1:40:42.91,1:40:44.91,Default,,0,0,0,,Saranagi!\NWho is that?
+Dialogue: 0,1:40:45.62,1:40:48.58,Default,,0,0,0,,Doesn’t she at least know there’s\Na person named Sarangi?
+Dialogue: 0,1:40:48.79,1:40:51.62,Default,,0,0,0,,Hey Sarangi idiot, is it you\Ngiving me a blank call daily?
+Dialogue: 0,1:40:52.45,1:40:56.29,Default,,0,0,0,,Are you flirting with aunties,\Nyou donkey? Cut the call now.
+Dialogue: 0,1:40:57.87,1:41:01.20,Default,,0,0,0,,Idiot, why are you doing these dirty\Ndeeds now instead of doing in the youth?
+Dialogue: 0,1:41:01.41,1:41:05.37,Default,,0,0,0,,Love is in no way related to the age.\NIt is linked only with the mileage.
+Dialogue: 0,1:41:05.79,1:41:07.33,Default,,0,0,0,,Such quotations are looked up\Nonly in old age, like you.
+Dialogue: 0,1:41:07.54,1:41:09.16,Default,,0,0,0,,What have you done being in\Nyoung age?
+Dialogue: 0,1:41:10.16,1:41:12.54,Default,,0,0,0,,Let me know what should I do now.
+Dialogue: 0,1:41:13.16,1:41:16.54,Default,,0,0,0,,Uncle and aunty will be in the hall\Nand you go from back side.
+Dialogue: 0,1:41:16.75,1:41:20.58,Default,,0,0,0,,-Through kitchen!\N-Ok! -Come!
+Dialogue: 0,1:41:20.79,1:41:22.66,Default,,0,0,0,,I too waited to see you\Ndisplaying this courage.
+Dialogue: 0,1:41:23.29,1:41:25.12,Default,,0,0,0,,Uncle, be careful!\NWe’ll go now.
+Dialogue: 0,1:41:27.50,1:41:31.79,Default,,0,0,0,,You called me uncle from childhood,\Nthough we have no blood relation.
+Dialogue: 0,1:41:32.58,1:41:35.45,Default,,0,0,0,,I feel sad now when you are\Nleaving, dear.
+Dialogue: 0,1:41:36.20,1:41:37.50,Default,,0,0,0,,Fine, get in.
+Dialogue: 0,1:41:42.45,1:41:45.16,Default,,0,0,0,,-Take care!\N-Aren’t you coming?
+Dialogue: 0,1:41:46.20,1:41:48.25,Default,,0,0,0,,I’ll be here accompanying\Nmy Mandaram.
+Dialogue: 0,1:41:48.79,1:41:50.37,Default,,0,0,0,,May you get incoming calls soon!
+Dialogue: 0,1:41:50.58,1:41:51.91,Default,,0,0,0,,-May that happen!\N-Stop giving missed calls.
+Dialogue: 0,1:41:52.83,1:41:54.75,Default,,0,0,0,,-Where are you taking us?\N-We’re going to a safe place.
+Dialogue: 0,1:41:55.08,1:41:56.29,Default,,0,0,0,,To a close relative of yours!
+Dialogue: 0,1:41:56.62,1:41:59.87,Default,,0,0,0,,All my relatives left me as a kid.\NWho is that relative I don’t know?
+Dialogue: 0,1:42:00.08,1:42:02.41,Default,,0,0,0,,Oh no, he says safe place right?\NYou be quiet.
+Dialogue: 0,1:42:02.62,1:42:04.70,Default,,0,0,0,,What are you waiting for?\NChange the gear and drive.
+Dialogue: 0,1:42:04.87,1:42:07.25,Default,,0,0,0,,-That’s the matter.\N-Bye Sarangi! Go on!
+Dialogue: 0,1:42:39.12,1:42:40.54,Default,,0,0,0,,Pari, where did he go?
+Dialogue: 0,1:42:42.04,1:42:44.33,Default,,0,0,0,,There is some powerful temple\Nin this village, it seems.
+Dialogue: 0,1:42:45.20,1:42:47.33,Default,,0,0,0,,He left to make arrangements\Nfor our marriage there.
+Dialogue: 0,1:42:47.62,1:42:49.16,Default,,0,0,0,,He forgot even his phone in\Nthat hurry.
+Dialogue: 0,1:42:50.12,1:42:54.25,Default,,0,0,0,,Pari, we came to this new village\Nbelieving in this idiot as you hurried us.
+Dialogue: 0,1:42:55.04,1:42:58.66,Default,,0,0,0,,-Think once if we’re doing the right\Nthing or not. -Rama!
+Dialogue: 0,1:43:02.66,1:43:05.00,Default,,0,0,0,,Why don’t answer the call though\NI called you so many times, Boss?
+Dialogue: 0,1:43:05.20,1:43:09.25,Default,,0,0,0,,Police came to know that we cheated\Nthat SLN bus owner and took ten lakhs.
+Dialogue: 0,1:43:09.50,1:43:13.08,Default,,0,0,0,,They are all searching for us.\NWe escaped. You go underground.
+Dialogue: 0,1:43:13.50,1:43:15.91,Default,,0,0,0,,Fine, boss! Be careful! See you.
+Dialogue: 0,1:43:19.33,1:43:24.00,Default,,0,0,0,,Who are you, idiot? You’re doing all\Nthis to steal our jewellery, right?
+Dialogue: 0,1:43:24.37,1:43:27.70,Default,,0,0,0,,Rama, I’m your friend Satish.\NTell him, Pari.
+Dialogue: 0,1:43:28.16,1:43:32.12,Default,,0,0,0,,Don’t lie. You know it is a grave\Nsin to cheat a pure Brahmin.
+Dialogue: 0,1:43:32.66,1:43:34.25,Default,,0,0,0,,You do such a brutal thing\Nfor money?
+Dialogue: 0,1:43:35.45,1:43:40.16,Default,,0,0,0,,Yes! I agree that I once lived\Njust for money.
+Dialogue: 0,1:43:41.87,1:43:44.16,Default,,0,0,0,,But for the first time,\NI’m doing this with humanity.
+Dialogue: 0,1:43:44.58,1:43:46.50,Default,,0,0,0,,You’ve cheated us and again\Nsaying some cock and bull stories.
+Dialogue: 0,1:43:46.70,1:43:47.91,Default,,0,0,0,,I haven’t cheated you, Rama.
+Dialogue: 0,1:43:48.16,1:43:49.91,Default,,0,0,0,,I brought you to those related\Nto you.
+Dialogue: 0,1:43:50.29,1:43:51.45,Default,,0,0,0,,I have none in this world.
+Dialogue: 0,1:43:51.66,1:43:52.91,Default,,0,0,0,,But you are his world.
+Dialogue: 0,1:43:53.54,1:43:54.75,Default,,0,0,0,,Whom are you talking about?
+Dialogue: 0,1:43:56.50,1:43:57.70,Default,,0,0,0,,It is not about him, right?
+Dialogue: 0,1:44:01.29,1:44:02.25,Default,,0,0,0,,Yes, it is about that Bhimaa...
+Dialogue: 0,1:44:03.70,1:44:07.04,Default,,0,0,0,,Who lost love from his childhood
+Dialogue: 0,1:44:07.25,1:44:08.29,Default,,0,0,0,,and who is treated as God by\Nhundreds of people!
+Dialogue: 0,1:44:09.83,1:44:11.66,Default,,0,0,0,,I brought you, as the work he\Nwanted to do is possible
+Dialogue: 0,1:44:11.87,1:44:13.87,Default,,0,0,0,,in this whole planet, just by you.
+Dialogue: 0,1:44:17.00,1:44:19.16,Default,,0,0,0,,Sir, the children you saved\Nare orphans.
+Dialogue: 0,1:44:19.79,1:44:22.83,Default,,0,0,0,,They have no any identity and\Nthus complaint wasn’t filed.
+Dialogue: 0,1:44:24.33,1:44:26.29,Default,,0,0,0,,When we tracked this cell phone\Nyou gave, we came to know
+Dialogue: 0,1:44:26.50,1:44:27.50,Default,,0,0,0,,it belongs to Bhavani’s aide.
+Dialogue: 0,1:44:27.70,1:44:29.83,Default,,0,0,0,,He had called Tandav’s men.
+Dialogue: 0,1:44:35.87,1:44:37.70,Default,,0,0,0,,Tandav is the right hand man\Nof Bhavani.
+Dialogue: 0,1:44:40.83,1:44:45.00,Default,,0,0,0,,Any person crossing the tides to catch him\Nhasn’t returned with head over the body.
+Dialogue: 0,1:44:46.37,1:44:48.29,Default,,0,0,0,,He is a demon in the human\Nform, sir.
+Dialogue: 0,1:44:49.50,1:44:52.08,Default,,0,0,0,,He transports anything ranging\Nfrom spices to girls.
+Dialogue: 0,1:44:52.58,1:44:56.04,Default,,0,0,0,,We didn’t get the permission for\Na raid due to his political connections.
+Dialogue: 0,1:44:56.83,1:45:01.16,Default,,0,0,0,,Tandava brought a few foreigners by\Nforce and put them on Rudra’s boat.
+Dialogue: 0,1:45:12.79,1:45:14.66,Default,,0,0,0,,It seems, Rudra is coming to\Nthe village in two days.
+Dialogue: 0,1:45:33.45,1:45:38.95,Default,,0,0,0,,Hey Bhimaa, come out. You overacted\Na lot all these days, as I wasn’t here.
+Dialogue: 0,1:45:39.62,1:45:41.87,Default,,0,0,0,,I’ve killed her husband.
+Dialogue: 0,1:45:48.20,1:45:49.04,Default,,0,0,0,,Come!
+Dialogue: 0,1:45:59.79,1:46:03.79,Default,,0,0,0,,Manliness is not in defaming\Na woman, but it lies in upholding her.
+Dialogue: 0,1:46:07.91,1:46:12.25,Default,,0,0,0,,God created the woman as a man\Ncannot tolerate delivery pains.
+Dialogue: 0,1:46:13.54,1:46:15.75,Default,,0,0,0,,Thus, we shouldn’t give them\Nany pain.
+Dialogue: 0,1:46:17.91,1:46:22.25,Default,,0,0,0,,If we give more suffering to the mother\Nearth bearing us, result is an earth quake.
+Dialogue: 0,1:47:31.70,1:47:35.00,Default,,0,0,0,,-Hey, push everybody in.\N-Why, it is a waste of food.
+Dialogue: 0,1:47:35.20,1:47:36.04,Default,,0,0,0,,True!
+Dialogue: 0,1:47:36.45,1:47:40.00,Default,,0,0,0,,-Hey! -I understood, sir.\NI’ll take everyone to hospital.
+Dialogue: 0,1:47:40.20,1:47:41.29,Default,,0,0,0,,-Mani!\N-Sir!
+Dialogue: 0,1:47:41.58,1:47:43.91,Default,,0,0,0,,-Take Nandini home safely.\N-Yes, sir!
+Dialogue: 0,1:47:47.37,1:47:50.62,Default,,0,0,0,,Tell your wretched headman that\Nhis son is safe with me.
+Dialogue: 0,1:48:02.41,1:48:03.79,Default,,0,0,0,,Why did you bring me here?
+Dialogue: 0,1:48:16.87,1:48:18.16,Default,,0,0,0,,Oh no!
+Dialogue: 0,1:48:27.41,1:48:29.25,Default,,0,0,0,,-Oh no!\N-Bhimaa, what happened?
+Dialogue: 0,1:48:29.91,1:48:31.91,Default,,0,0,0,,-My shirt is torn.\N-Remove that shirt first.
+Dialogue: 0,1:48:32.12,1:48:33.29,Default,,0,0,0,,Hey, what are you saying?
+Dialogue: 0,1:48:33.50,1:48:35.12,Default,,0,0,0,,You shouldn’t be in a torn shirt.
+Dialogue: 0,1:48:35.37,1:48:36.66,Default,,0,0,0,,No problem if it is torn.\NLeave it.
+Dialogue: 0,1:48:36.87,1:48:38.66,Default,,0,0,0,,That is a bad omen, Bhimaa.
+Dialogue: 0,1:48:38.87,1:48:41.50,Default,,0,0,0,,-I don’t believe it. -I’m saying\Nit is bad omen. Remove that shirt.
+Dialogue: 0,1:48:41.70,1:48:43.45,Default,,0,0,0,,They’d think I’m a mad fellow,\Nif I remove my shirt and stand.
+Dialogue: 0,1:48:43.62,1:48:46.83,Default,,0,0,0,,-I don’t even have another shirt.\N-I’ll bring something, wait. -Vidya!
+Dialogue: 0,1:48:47.08,1:48:48.29,Default,,0,0,0,,Huh, why is this so?
+Dialogue: 0,1:48:50.12,1:48:51.12,Default,,0,0,0,,This isn’t good.
+Dialogue: 0,1:48:51.45,1:48:54.33,Default,,0,0,0,,Yes, perfect!\NWear this.
+Dialogue: 0,1:48:54.58,1:48:57.20,Default,,0,0,0,,-Fine, turn that side.\N-Huh! Ok!
+Dialogue: 0,1:49:19.66,1:49:23.33,Default,,0,0,0,,What boss, you are into a good\Nromantic mood?
+Dialogue: 0,1:49:24.37,1:49:26.08,Default,,0,0,0,,But, I’m still in tension.
+Dialogue: 0,1:49:26.29,1:49:28.87,Default,,0,0,0,,Then, I’ll tell you a story to\Nchange your mood.
+Dialogue: 0,1:49:29.20,1:49:30.75,Default,,0,0,0,,-Is it? -Yes!\N-Tell me.
+Dialogue: 0,1:49:32.75,1:49:36.04,Default,,0,0,0,,-Sky is the boy, like me.\N-Ok!
+Dialogue: 0,1:49:36.45,1:49:38.95,Default,,0,0,0,,The earth is a girl, like you.
+Dialogue: 0,1:49:39.54,1:49:42.29,Default,,0,0,0,,As the both were in pain for\Nnever being able to meet,
+Dialogue: 0,1:49:42.62,1:49:46.00,Default,,0,0,0,,God couldn’t see that and\Ncreated that sea.
+Dialogue: 0,1:49:47.83,1:49:52.04,Default,,0,0,0,,Sky and the sea always are seen\Ntogether when we see from far.
+Dialogue: 0,1:49:52.95,1:49:55.00,Default,,0,0,0,,Thus, I brought you here.
+Dialogue: 0,1:49:55.16,1:49:57.79,Default,,0,0,0,,Sir is saying great romantic stories.
+Dialogue: 0,1:49:58.29,1:50:02.16,Default,,0,0,0,,Not just saying, similar to how\Nthat sky hugs around the earth,
+Dialogue: 0,1:50:02.45,1:50:04.66,Default,,0,0,0,,I too will hug you tight forever.
+Dialogue: 0,1:50:05.75,1:50:07.75,Default,,0,0,0,,-Wow!\N-I have a small wish. -What?
+Dialogue: 0,1:50:08.00,1:50:10.12,Default,,0,0,0,,-You must sleep on my chest.\N-Ok!
+Dialogue: 0,1:50:10.70,1:50:13.37,Default,,0,0,0,,Then, you shouldn’t listen to\Nanything else other than
+Dialogue: 0,1:50:13.58,1:50:15.41,Default,,0,0,0,,my heartbeat and the sound\Nof this sea.
+Dialogue: 0,1:50:16.62,1:50:22.04,Default,,0,0,0,,Nothing other than this cool sea breeze\Nand my warm breathe should touch you.
+Dialogue: 0,1:50:23.66,1:50:27.12,Default,,0,0,0,,None other than those stars\Nshould see us.
+Dialogue: 0,1:50:32.70,1:50:34.87,Default,,0,0,0,,-That guy is watching us.\N-Who?
+Dialogue: 0,1:50:37.91,1:50:38.58,Default,,0,0,0,,Hey!
+Dialogue: 0,1:50:38.79,1:50:39.87,Default,,0,0,0,,-Namaste Sir!\N-Who are you, idiot?
+Dialogue: 0,1:50:40.08,1:50:41.79,Default,,0,0,0,,-Oh no, Bhimaa!\N-Why are you scared?
+Dialogue: 0,1:50:42.00,1:50:42.91,Default,,0,0,0,,-Sir!\N-Did you steal anything?
+Dialogue: 0,1:50:43.12,1:50:46.04,Default,,0,0,0,,No, sir.\NEveryone is scared of Police, sir.
+Dialogue: 0,1:50:48.91,1:50:49.75,Default,,0,0,0,,What is that?
+Dialogue: 0,1:50:50.83,1:50:52.62,Default,,0,0,0,,-A plant, sir!\N-Show it.
+Dialogue: 0,1:50:55.41,1:50:56.29,Default,,0,0,0,,Mother plant!
+Dialogue: 0,1:50:58.37,1:50:59.58,Default,,0,0,0,,Mother plant?
+Dialogue: 0,1:51:01.00,1:51:03.37,Default,,0,0,0,,-Where are you taking it?\N-To Mr Ravindra Varma!
+Dialogue: 0,1:51:03.83,1:51:05.91,Default,,0,0,0,,-Oh, to the master?\N-Yes!
+Dialogue: 0,1:51:06.25,1:51:08.25,Default,,0,0,0,,-Fine, go!\N-This is a very rare plant.
+Dialogue: 0,1:51:08.54,1:51:12.04,Default,,0,0,0,,-Where did you get it?\N-This plant is found only in this forest.
+Dialogue: 0,1:51:12.41,1:51:15.83,Default,,0,0,0,,Thus, I traced the place where\Ninsects named salabhas land on
+Dialogue: 0,1:51:16.04,1:51:18.79,Default,,0,0,0,,the no moon day and got these.
+Dialogue: 0,1:51:19.29,1:51:22.08,Default,,0,0,0,,It is the time for master to\Nprepare medicine. I’ll go.
+Dialogue: 0,1:51:22.25,1:51:24.75,Default,,0,0,0,,-Did master ask you to come at\Nthis time? -Yes, madam.
+Dialogue: 0,1:51:27.33,1:51:28.41,Default,,0,0,0,,Fine! Come Vidya!
+Dialogue: 0,1:51:29.00,1:51:31.66,Default,,0,0,0,,Master doesn't meet anybody\Nafter Sunset, right?
+Dialogue: 0,1:51:32.04,1:51:32.50,Default,,0,0,0,,Come!
+Dialogue: 0,1:51:34.29,1:51:36.87,Default,,0,0,0,,-Wait, I’ll just be back.\N-Fine, I too will come.
+Dialogue: 0,1:51:37.12,1:51:40.00,Default,,0,0,0,,No, you stay back.\NRudra is here, right? I’ll just be back.
+Dialogue: 0,1:51:40.20,1:51:41.62,Default,,0,0,0,,Listen to me.\NWhere are you going?
+Dialogue: 0,1:51:41.87,1:51:43.04,Default,,0,0,0,,Wait, I’ll just be back.
+Dialogue: 0,1:51:43.25,1:51:44.83,Default,,0,0,0,,-Fine, come back fast.\N-Ok!
+Dialogue: 0,1:52:03.25,1:52:05.37,Default,,0,0,0,,Does this temple have an entry\Neven from the back side?
+Dialogue: 0,1:53:25.66,1:53:29.04,Default,,0,0,0,,Does this work?\NWill she come back to life?
+Dialogue: 0,1:53:29.41,1:53:32.91,Default,,0,0,0,,If you’d have known about me, you\Nwouldn’t have asked this question.
+Dialogue: 0,1:53:33.08,1:53:35.16,Default,,0,0,0,,Ayurveda is that great?
+Dialogue: 0,1:53:35.37,1:53:39.54,Default,,0,0,0,,Ayurveda is great of course.\NBut Ravindra Varma is greater.
+Dialogue: 0,1:53:41.83,1:53:45.16,Default,,0,0,0,,If you do chemical changes to\Nthe mother plant,
+Dialogue: 0,1:53:45.33,1:53:47.08,Default,,0,0,0,,the base to all medicinal plants…
+Dialogue: 0,1:53:47.37,1:53:50.58,Default,,0,0,0,,A medicine with the qualities of\NSanjivini mentioned in Charaka Samhita,
+Dialogue: 0,1:53:50.79,1:53:53.83,Default,,0,0,0,,which can cure even the death,\Ncan be prepared.
+Dialogue: 0,1:53:54.79,1:53:59.33,Default,,0,0,0,,This is the great medicine, which only\Nthis Ravindra Varma can prepare.
+Dialogue: 0,1:53:59.54,1:54:02.62,Default,,0,0,0,,-But, why children?\N-Children have the tender bodies.
+Dialogue: 0,1:54:03.08,1:54:07.79,Default,,0,0,0,,They are less adulterated, possess\Nhigh immunity and are pure in form.
+Dialogue: 0,1:54:08.41,1:54:10.70,Default,,0,0,0,,Thus, the outcome will be great.
+Dialogue: 0,1:54:11.50,1:54:12.50,Default,,0,0,0,,Go on!
+Dialogue: 0,1:55:48.33,1:55:49.41,Default,,0,0,0,,Hey!
+Dialogue: 0,1:56:25.62,1:56:26.62,Default,,0,0,0,,Brother!
+Dialogue: 0,1:56:33.62,1:56:34.62,Default,,0,0,0,,Brother!
+Dialogue: 0,1:56:59.20,1:57:01.79,Default,,0,0,0,,-Come on, lift guys!\N-Lift!
+Dialogue: 0,1:57:38.75,1:57:39.91,Default,,0,0,0,,Bhimaa!
+Dialogue: 0,1:58:01.04,1:58:08.45,Default,,0,0,0,,Hey, if you take even one step ahead,\Nshe’ll face a horrible death.
+Dialogue: 0,1:58:10.79,1:58:15.25,Default,,0,0,0,,If I pierce half inch in, her blood\Ngets frozen and
+Dialogue: 0,1:58:15.50,1:58:17.83,Default,,0,0,0,,the tiny nerves will be splattered.
+Dialogue: 0,1:58:18.70,1:58:23.91,Default,,0,0,0,,Then not the water,\Nbut blood rolls out from the eyes.
+Dialogue: 0,1:58:26.16,1:58:30.41,Default,,0,0,0,,Unable to bear that pain, she herself\Nwould request me to kill her.
+Dialogue: 0,1:58:33.45,1:58:36.70,Default,,0,0,0,,No power in this world can\Nsave her.
+Dialogue: 0,1:58:36.91,1:58:38.25,Default,,0,0,0,,Do you know the value of\Na life, idiot?
+Dialogue: 0,1:58:38.41,1:58:44.54,Default,,0,0,0,,As I know the value of life, I’m inventing\Na great medicine that gives life.
+Dialogue: 0,1:58:44.79,1:58:47.62,Default,,0,0,0,,You are not giving life.\NYou are killing the innocent people.
+Dialogue: 0,1:58:47.83,1:58:52.91,Default,,0,0,0,,Will the great elephant stop walking,\Nas ants die coming under its feet?
+Dialogue: 0,1:58:53.45,1:58:58.25,Default,,0,0,0,,Many weak lives as these are lost\Nwhile I’m advancing towards my goal.
+Dialogue: 0,1:58:59.00,1:59:00.20,Default,,0,0,0,,Let them be gone.
+Dialogue: 0,1:59:00.41,1:59:02.75,Default,,0,0,0,,You are not any great elephant.\NYou are a fool with arrogance.
+Dialogue: 0,1:59:02.95,1:59:07.12,Default,,0,0,0,,This is not foolishness.\NIt is my knowledge.
+Dialogue: 0,1:59:07.91,1:59:11.04,Default,,0,0,0,,I’ll prepare Sanjivini and\Nwin over death.
+Dialogue: 0,1:59:11.41,1:59:14.79,Default,,0,0,0,,I’ll bring this world to my feet.
+Dialogue: 0,1:59:15.83,1:59:19.12,Default,,0,0,0,,This Ravindra Varma is\Nthe future God.
+Dialogue: 0,1:59:19.58,1:59:21.91,Default,,0,0,0,,God doesn’t kill demons like this\Nfor selfish reasons.
+Dialogue: 0,1:59:22.12,1:59:25.58,Default,,0,0,0,,No God can give life to the dead.
+Dialogue: 0,1:59:26.58,1:59:29.79,Default,,0,0,0,,I’m a greater wizard than that God.
+Dialogue: 0,1:59:30.00,1:59:32.62,Default,,0,0,0,,Mad idiot, what a wizard are you?
+Dialogue: 0,1:59:33.04,1:59:34.29,Default,,0,0,0,,You are a mental patient.
+Dialogue: 0,1:59:34.50,1:59:37.08,Default,,0,0,0,,Yes rascal, we are the patients.
+Dialogue: 0,1:59:37.29,1:59:40.45,Default,,0,0,0,,You know what our medicine is?\NMoney!
+Dialogue: 0,1:59:41.29,1:59:49.37,Default,,0,0,0,,As I can get eternity along with\Nmoney, I put in so many efforts.
+Dialogue: 0,1:59:50.08,1:59:54.04,Default,,0,0,0,,Will you come and stop at\Na time when I could get Billions?
+Dialogue: 0,1:59:54.33,1:59:58.33,Default,,0,0,0,,I know you’ll kill them,\Nif I take a step ahead.
+Dialogue: 0,1:59:59.66,2:00:04.45,Default,,0,0,0,,You too know I’d kill you, if I\Ntake another step ahead after that.
+Dialogue: 0,2:00:05.70,2:00:09.79,Default,,0,0,0,,Leave Vidya and the kids.\NI’ll take one step back.
+Dialogue: 0,2:00:10.16,2:00:12.20,Default,,0,0,0,,-Not enough!\N-What do you need?
+Dialogue: 0,2:00:14.16,2:00:17.41,Default,,0,0,0,,Your life!
+Dialogue: 0,2:00:19.91,2:00:24.33,Default,,0,0,0,,If my life is useful to save these,\Ntake it.
+Dialogue: 0,2:00:28.58,2:00:29.79,Default,,0,0,0,,No Bhimaa!
+Dialogue: 0,2:00:43.41,2:00:44.45,Default,,0,0,0,,Brother!
+Dialogue: 0,2:00:56.75,2:00:57.91,Default,,0,0,0,,Bhimaa!
+Dialogue: 0,2:01:04.66,2:01:06.33,Default,,0,0,0,,No!
+Dialogue: 0,2:01:25.16,2:01:26.33,Default,,0,0,0,,No brother!
+Dialogue: 0,2:01:35.45,2:01:36.62,Default,,0,0,0,,Bhimaa!
+Dialogue: 0,2:01:40.83,2:01:42.50,Default,,0,0,0,,Hey Ravindra Varma!
+Dialogue: 0,2:01:43.62,2:01:45.58,Default,,0,0,0,,If one more life is gone…
+Dialogue: 0,2:01:46.45,2:01:49.66,Default,,0,0,0,,Or if one more drop of blood\Nfrom Vidya falls on the ground…
+Dialogue: 0,2:01:50.37,2:01:55.25,Default,,0,0,0,,You rascal, I’ll come back again.
+Dialogue: 0,2:02:01.29,2:02:02.41,Default,,0,0,0,,Beat me, idiot!
+Dialogue: 0,2:02:06.12,2:02:07.04,Default,,0,0,0,,Brother!
+Dialogue: 0,2:02:37.75,2:02:39.66,Default,,0,0,0,,Brother!
+Dialogue: 0,2:02:55.66,2:03:00.20,Default,,0,0,0,,This body should be found.\NHow?
+Dialogue: 0,2:03:00.50,2:03:05.20,Default,,0,0,0,,Both are dead in an accident.\NCreate it.
+Dialogue: 0,2:03:09.95,2:03:11.70,Default,,0,0,0,,I have a small wish.
+Dialogue: 0,2:03:11.91,2:03:13.95,Default,,0,0,0,,You must sleep on my chest.
+Dialogue: 0,2:03:14.70,2:03:17.79,Default,,0,0,0,,Then, you shouldn’t listen to\Nanything else other than
+Dialogue: 0,2:03:18.00,2:03:19.58,Default,,0,0,0,,my heartbeat and the sound\Nof this sea.
+Dialogue: 0,2:03:20.50,2:03:25.41,Default,,0,0,0,,Nothing other than this cool sea breeze\Nand my warm breathe should touch you.
+Dialogue: 0,2:03:26.00,2:03:29.25,Default,,0,0,0,,None other than those stars\Nshould see us.
+Dialogue: 0,2:03:36.50,2:03:38.29,Default,,0,0,0,,Hey, an accident!
+Dialogue: 0,2:03:39.91,2:03:41.79,Default,,0,0,0,,None would know if we throw\Nthese bodies into that
+Dialogue: 0,2:03:42.00,2:03:44.25,Default,,0,0,0,,burning bus and our job is done.
+Dialogue: 0,2:03:45.29,2:03:46.45,Default,,0,0,0,,Ok!
+Dialogue: 0,2:03:52.16,2:03:54.79,Default,,0,0,0,,SLN bus coming to Anantapur\Nfrom Mangalore met with
+Dialogue: 0,2:03:55.00,2:03:57.41,Default,,0,0,0,,a dreadful accident at\NAnantapur ghat road.
+Dialogue: 0,2:03:57.62,2:04:00.50,Default,,0,0,0,,Number 14, an orphan body!
+Dialogue: 0,2:04:09.95,2:04:11.20,Default,,0,0,0,,Is Bhimaa dead?
+Dialogue: 0,2:04:14.87,2:04:15.70,Default,,0,0,0,,Ramaa!
+Dialogue: 0,2:04:17.37,2:04:19.37,Default,,0,0,0,,Bhimaa is dead.
+Dialogue: 0,2:04:20.66,2:04:22.87,Default,,0,0,0,,I came to know about\Nyour brother's greatness that day.
+Dialogue: 0,2:04:35.04,2:04:37.87,Default,,0,0,0,,I asked his sprit to possess my body
+Dialogue: 0,2:04:39.83,2:04:43.79,Default,,0,0,0,,to take revenge, in order to\Nfulfill his goal. But…
+Dialogue: 0,2:04:46.08,2:04:49.83,Default,,0,0,0,,if I have to possess on any body,\Nhe must be a person of my own family.
+Dialogue: 0,2:04:50.58,2:04:53.58,Default,,0,0,0,,A guy born along with me is required.\NEven though my body is ruined...
+Dialogue: 0,2:04:53.79,2:04:55.79,Default,,0,0,0,,my blood is still flowing\Nin another guy.
+Dialogue: 0,2:04:56.45,2:05:00.75,Default,,0,0,0,,My replica is still alive to take\Nmy revenge.
+Dialogue: 0,2:05:01.04,2:05:03.37,Default,,0,0,0,,It is Ramaa my younger brother.
+Dialogue: 0,2:05:07.62,2:05:09.62,Default,,0,0,0,,Before my 10th day ritual is done,\NRama must remove the holy
+Dialogue: 0,2:05:10.04,2:05:12.95,Default,,0,0,0,,rudraksh necklace from his neck\Nwith his own hands
+Dialogue: 0,2:05:13.83,2:05:16.91,Default,,0,0,0,,in the powerful Shiva temple\Nat Mahendragiri.
+Dialogue: 0,2:05:17.62,2:05:22.04,Default,,0,0,0,,He should wholeheartedly\Nwelcome my soul into his body.
+Dialogue: 0,2:05:22.33,2:05:25.29,Default,,0,0,0,,You have to make him do that.
+Dialogue: 0,2:05:33.33,2:05:33.79,Default,,0,0,0,,Hey!
+Dialogue: 0,2:05:45.00,2:05:48.20,Default,,0,0,0,,-No!\N-Hey!
+Dialogue: 0,2:05:56.29,2:05:57.66,Default,,0,0,0,,No, don't hit!
+Dialogue: 0,2:05:58.33,2:05:59.95,Default,,0,0,0,,Is he still alive?
+Dialogue: 0,2:06:03.37,2:06:04.41,Default,,0,0,0,,Rama!
+Dialogue: 0,2:06:05.41,2:06:06.62,Default,,0,0,0,,No, don’t hit.
+Dialogue: 0,2:06:07.12,2:06:08.33,Default,,0,0,0,,Rama!
+Dialogue: 0,2:06:32.20,2:06:33.58,Default,,0,0,0,,This is not him.
+Dialogue: 0,2:06:34.95,2:06:37.12,Default,,0,0,0,,Yes! He is not Bhimaa,\Nbut his brother Rama.
+Dialogue: 0,2:06:41.16,2:06:43.58,Default,,0,0,0,,How many days more will it\Ntake to prepare Sanjivini?
+Dialogue: 0,2:06:43.79,2:06:49.08,Default,,0,0,0,,You fool, poison arrived first even\Nwhen sea was churned for elixir.
+Dialogue: 0,2:06:49.95,2:06:53.87,Default,,0,0,0,,It takes time for us to get\Nthe elixir we need.
+Dialogue: 0,2:06:55.08,2:06:59.08,Default,,0,0,0,,Hey, first kill these two and\Nthrow them in sea.
+Dialogue: 0,2:07:00.45,2:07:01.41,Default,,0,0,0,,Why?
+Dialogue: 0,2:07:03.08,2:07:08.33,Default,,0,0,0,,We did experiments on kids so far.\NLet’s now do on these both.
+Dialogue: 0,2:07:10.25,2:07:12.83,Default,,0,0,0,,Throw all of them after that,\Nin the sea.
+Dialogue: 0,2:07:18.50,2:07:20.20,Default,,0,0,0,,No!
+Dialogue: 0,2:07:23.91,2:07:26.79,Default,,0,0,0,,I’m not asking to call in a fear\Nof losing life.
+Dialogue: 0,2:07:28.79,2:07:33.29,Default,,0,0,0,,I’m asking with a wish to\Nsave lives.
+Dialogue: 0,2:07:35.25,2:07:36.29,Default,,0,0,0,,Just for once…
+Dialogue: 0,2:07:38.50,2:07:42.37,Default,,0,0,0,,Remove that rudraksh necklace\Nfor once and call Bhimaa.
+Dialogue: 0,2:07:44.25,2:07:47.66,Default,,0,0,0,,He’d be somewhere around here\Nwaiting for your call.
+Dialogue: 0,2:07:50.37,2:07:53.83,Default,,0,0,0,,Your brother’s blood seeped\Ninto this same ground.
+Dialogue: 0,2:07:58.83,2:08:00.58,Default,,0,0,0,,One thing is true, Rama.
+Dialogue: 0,2:08:02.95,2:08:07.54,Default,,0,0,0,,What they are doing is brutality\Nby killing those children.
+Dialogue: 0,2:08:09.91,2:08:15.37,Default,,0,0,0,,But being silent even when there’s\Na chance to save, is a sin.
+Dialogue: 0,2:08:16.50,2:08:19.00,Default,,0,0,0,,It is a sin, which even your blood\Ncan’t cleanse.
+Dialogue: 0,2:08:21.91,2:08:24.25,Default,,0,0,0,,-Brother!\N-Look there.
+Dialogue: 0,2:08:26.00,2:08:27.79,Default,,0,0,0,,Brother!
+Dialogue: 0,2:08:29.29,2:08:36.50,Default,,0,0,0,,That kid is calling you as brother.\NNot as Rama, but as Bhimaa.
+Dialogue: 0,2:08:37.83,2:08:40.41,Default,,0,0,0,,You say Bhima is a monster, right?
+Dialogue: 0,2:08:41.45,2:08:45.41,Default,,0,0,0,,When it is the killing time,\Neven God kills like a monster.
+Dialogue: 0,2:08:48.75,2:08:53.91,Default,,0,0,0,,It is a monster if killed for ego\Nand a God when killed for virtue.
+Dialogue: 0,2:08:54.95,2:08:56.45,Default,,0,0,0,,You decide it now.
+Dialogue: 0,2:08:57.45,2:09:03.91,Default,,0,0,0,,Is the hatred you grew on Bhimaa is great\Nor the confidence those kids grew is great.
+Dialogue: 0,2:09:05.54,2:09:09.16,Default,,0,0,0,,Bhimaa, that relation brings\Nyou anger.
+Dialogue: 0,2:09:09.37,2:09:10.37,Default,,0,0,0,,Get lost!
+Dialogue: 0,2:09:11.83,2:09:13.87,Default,,0,0,0,,You hate even to listen to\Nthat name.
+Dialogue: 0,2:09:13.95,2:09:15.25,Default,,0,0,0,,Bhimaa!
+Dialogue: 0,2:09:16.79,2:09:19.04,Default,,0,0,0,,But now, that name is\Nthe shield for us.
+Dialogue: 0,2:09:22.00,2:09:24.45,Default,,0,0,0,,That name is the weapon\Npunishing these.
+Dialogue: 0,2:09:27.37,2:09:28.29,Default,,0,0,0,,Bhimaa!
+Dialogue: 0,2:09:29.29,2:09:30.12,Default,,0,0,0,,Bhimaa!
+Dialogue: 0,2:09:30.79,2:09:31.62,Default,,0,0,0,,Bhimaa!
+Dialogue: 0,2:09:34.50,2:09:39.79,Default,,0,0,0,,-Hey Rama, call me once as brother.\N-Get lost!
+Dialogue: 0,2:09:42.04,2:09:43.79,Default,,0,0,0,,The one who was born In bruguvamsa
+Dialogue: 0,2:09:44.66,2:09:46.79,Default,,0,0,0,,Born in Sravana nakshatra (star)!
+Dialogue: 0,2:09:47.62,2:09:49.16,Default,,0,0,0,,Born in Vasishta kula gotra!
+Dialogue: 0,2:09:50.08,2:09:51.87,Default,,0,0,0,,Son of Sankara Bhagavathula!
+Dialogue: 0,2:09:52.70,2:09:54.95,Default,,0,0,0,,I, named Ramachandra!
+Dialogue: 0,2:09:57.25,2:09:59.16,Default,,0,0,0,,Whole heartedly!
+Dialogue: 0,2:10:00.79,2:10:02.29,Default,,0,0,0,,Am calling with love!
+Dialogue: 0,2:10:03.20,2:10:04.54,Default,,0,0,0,,My brother Bhimaa!
+Dialogue: 0,2:10:06.25,2:10:07.25,Default,,0,0,0,,Come!
+Dialogue: 0,2:11:21.00,2:11:23.45,Default,,0,0,0,,Greed, unsatisfied even after\Nhaving the Kingdom!
+Dialogue: 0,2:11:24.79,2:11:26.95,Default,,0,0,0,,Ego overtaking the virtue!
+Dialogue: 0,2:11:29.00,2:11:31.41,Default,,0,0,0,,Every time these show up!
+Dialogue: 0,2:11:32.62,2:11:35.41,Default,,0,0,0,,The roaring axe comes to life.
+Dialogue: 0,2:11:36.50,2:11:40.62,Default,,0,0,0,,I got a good because of\Nyour cruelty.
+Dialogue: 0,2:11:41.25,2:11:46.41,Default,,0,0,0,,For the first time my brother\NRama called me as brother.
+Dialogue: 0,2:11:46.79,2:11:50.45,Default,,0,0,0,,Yeah, my heart is full of joy.
+Dialogue: 0,2:11:51.62,2:11:57.83,Default,,0,0,0,,I’ll present you with a celebration\Nfor this happiness you presented me.
+Dialogue: 0,2:11:58.79,2:12:00.54,Default,,0,0,0,,I’ll present you the celebration\Nof death.
+Dialogue: 0,2:13:47.70,2:13:49.50,Default,,0,0,0,,This is an eightfold capture.
+Dialogue: 0,2:14:03.29,2:14:07.50,Default,,0,0,0,,I killed so many innocent kids…
+Dialogue: 0,2:14:09.00,2:14:13.41,Default,,0,0,0,,Don’t I know how many spirits would\Nbe waiting to take a revenge on me?
+Dialogue: 0,2:14:14.62,2:14:15.79,Default,,0,0,0,,Come!
+Dialogue: 0,2:14:22.66,2:14:27.29,Default,,0,0,0,,Demons, spirits or the ghosts\Ncan’t cross this protection shield.
+Dialogue: 0,2:14:28.41,2:14:32.04,Default,,0,0,0,,I’m the God to be in future.
+Dialogue: 0,2:14:35.12,2:14:39.41,Default,,0,0,0,,It is not possible for you to\Nface me.
+Dialogue: 0,2:14:49.41,2:14:51.16,Default,,0,0,0,,Whenever and wherever\Nthe virtue…
+Dialogue: 0,2:14:52.00,2:14:53.79,Default,,0,0,0,,is offended, hey son of Bharatha!
+Dialogue: 0,2:14:54.91,2:14:56.83,Default,,0,0,0,,And the injustice rises high!
+Dialogue: 0,2:14:58.37,2:15:00.33,Default,,0,0,0,,My arrival is affirmative.
+Dialogue: 0,2:15:01.50,2:15:03.58,Default,,0,0,0,,Will the God arrive?
+Dialogue: 0,2:15:04.75,2:15:06.66,Default,,0,0,0,,What ages are you in?
+Dialogue: 0,2:15:07.70,2:15:10.58,Default,,0,0,0,,Will he come like Lord Vishnu\Nwho arrived in Gajendra Moksha?
+Dialogue: 0,2:15:12.79,2:15:15.75,Default,,0,0,0,,Will he come like Lord Narasimha\Ncoming out by breaking the pillar
+Dialogue: 0,2:15:15.95,2:15:17.91,Default,,0,0,0,,when Prahlada called?
+Dialogue: 0,2:15:19.91,2:15:23.16,Default,,0,0,0,,Will he come like Lord Shiva,\Nwho came for Markandeya?
+Dialogue: 0,2:15:24.29,2:15:28.00,Default,,0,0,0,,Call for him, let’s see how\Nhe comes. Call for him.
+Dialogue: 0,2:15:31.29,2:15:35.87,Default,,0,0,0,,That Ravanasura who tried lifting\NLord Shiva along with Kailasa!
+Dialogue: 0,2:15:38.41,2:15:41.54,Default,,0,0,0,,was easily captured by\NKartaveeryarjuna in his finger snap!
+Dialogue: 0,2:15:44.16,2:15:49.41,Default,,0,0,0,,Parasurama who chopped such great\NKartaveeryarjuna into pieces, will arrive.
+Dialogue: 0,2:18:17.12,2:18:20.16,Default,,0,0,0,,Sanjivini was found to Anjaneya\Nfor the good of this world.
+Dialogue: 0,2:18:21.00,2:18:23.04,Default,,0,0,0,,But will never come into the habds\Nof a mean guy like you.
+Dialogue: 0,2:18:23.95,2:18:26.75,Default,,0,0,0,,You can just find your death in\Nmy hands.
+Dialogue: 0,2:18:28.20,2:18:33.41,Default,,0,0,0,,You were proud saying to be future God\Nand to bring the world to your feet.
+Dialogue: 0,2:18:34.91,2:18:39.87,Default,,0,0,0,,I’ll split open your nerves and show\Nyou the hell before you die.
+Dialogue: 0,2:19:18.20,2:19:21.66,Default,,0,0,0,,Though born from the same womb,\Nwe both never took the same path.
+Dialogue: 0,2:19:22.41,2:19:25.04,Default,,0,0,0,,I misunderstood your love\Nbecause of my ignorance.
+Dialogue: 0,2:19:26.25,2:19:27.50,Default,,0,0,0,,Please, forgive me.
+Dialogue: 0,2:19:27.66,2:19:31.62,Default,,0,0,0,,I wish to relive the moments\Nwe missed from the childhood.
+Dialogue: 0,2:19:33.95,2:19:37.54,Default,,0,0,0,,Oh no! Oh no!\NNo!
+Dialogue: 0,2:19:38.29,2:19:40.79,Default,,0,0,0,,-Rama, you got a baby boy.\N-Is it?
+Dialogue: 0,2:19:41.58,2:19:43.25,Default,,0,0,0,,What will you name him?
+Dialogue: 0,2:19:43.45,2:19:44.45,Default,,0,0,0,,Bhimaa!

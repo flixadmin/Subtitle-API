@@ -1,0 +1,4755 @@
+﻿1
+00:00:00,040 --> 00:00:01,410
+<i>My name is Barry Allen,</i>
+
+2
+00:00:01,420 --> 00:00:04,000
+<i>and I am the fastest man alive.</i>
+
+3
+00:00:04,000 --> 00:00:05,080
+<i>To the outside world,</i>
+
+4
+00:00:05,090 --> 00:00:07,040
+<i>I'm an ordinary forensic scientist.</i>
+
+5
+00:00:07,040 --> 00:00:08,470
+<i>But secretly, with the help</i>
+
+6
+00:00:08,480 --> 00:00:10,110
+<i>of my friends at S.T.A.R. Labs,</i>
+
+7
+00:00:10,110 --> 00:00:12,080
+<i>I fight crime and find other meta-humans</i>
+
+8
+00:00:12,080 --> 00:00:13,180
+<i>like me.</i>
+
+9
+00:00:13,180 --> 00:00:14,950
+<i>But I became lost in time.</i>
+
+10
+00:00:14,950 --> 00:00:16,850
+<i>It took everything in my friends' power</i>
+
+11
+00:00:16,850 --> 00:00:18,780
+<i>to bring me back, and in doing so</i>
+
+12
+00:00:18,780 --> 00:00:21,050
+<i>our world was opened up to new threats.</i>
+
+13
+00:00:21,060 --> 00:00:23,890
+<i>And I'm the only one
+fast enough to stop them.</i>
+
+14
+00:00:23,890 --> 00:00:26,670
+<i>I am the Flash.</i>
+
+15
+00:00:27,410 --> 00:00:28,810
+<i>Previously on "The Flash."</i>
+
+16
+00:00:28,820 --> 00:00:30,100
+12 markers, 12 metas.
+
+17
+00:00:30,100 --> 00:00:31,910
+Your body's deteriorating faster
+
+18
+00:00:31,920 --> 00:00:33,170
+than the chair can handle.
+
+19
+00:00:33,170 --> 00:00:34,620
+I didn't just take Dominic's body.
+
+20
+00:00:34,630 --> 00:00:35,540
+I took his ability.
+
+21
+00:00:35,540 --> 00:00:37,540
+Sylbert Rundine can shrink
+objects and return them
+
+22
+00:00:37,540 --> 00:00:38,770
+to original size.
+
+23
+00:00:38,770 --> 00:00:40,370
+Deacon controls technology.
+
+24
+00:00:40,370 --> 00:00:42,410
+Becky Sharpe can manipulate luck.
+
+25
+00:00:42,410 --> 00:00:44,660
+There's nothing keeping him
+from going in the meta wing
+
+26
+00:00:44,660 --> 00:00:46,030
+and absorbing the powers.
+
+27
+00:00:46,030 --> 00:00:48,440
+You should be able to change
+into anyone you can think of.
+
+28
+00:00:48,440 --> 00:00:49,310
+How's this?
+
+29
+00:00:49,320 --> 00:00:51,510
+- I believe you are looking for me.
+- It's Ralph.
+
+30
+00:00:51,510 --> 00:00:53,710
+Barry Allen is hereby
+released immediately.
+
+31
+00:00:53,710 --> 00:00:54,870
+He only wants the bus metas.
+
+32
+00:00:54,880 --> 00:00:55,930
+He wants their powers.
+
+33
+00:00:55,930 --> 00:00:58,320
+Why is everyone looking
+at me like I'm a dead man?
+
+34
+00:00:59,200 --> 00:01:01,890
+<i><font color="#ff00ff">[CALM MUSIC]</font></i>
+
+35
+00:01:01,900 --> 00:01:03,610
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+36
+00:01:03,610 --> 00:01:05,640
+<font color="#ff00ff">[ELEVATOR DOOR DINGS]</font>
+
+37
+00:01:05,650 --> 00:01:07,330
+<font color="#ff00ff">[SIGHS]</font>
+
+38
+00:01:07,330 --> 00:01:14,640
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+39
+00:01:16,240 --> 00:01:19,110
+Addie, hey, what's going on?
+
+40
+00:01:19,110 --> 00:01:20,580
+I think you should talk to Kat.
+
+41
+00:01:20,580 --> 00:01:21,650
+About what?
+
+42
+00:01:21,650 --> 00:01:24,350
+Just go see him, Allen.
+
+43
+00:01:24,350 --> 00:01:26,990
+Okay.
+
+44
+00:01:26,990 --> 00:01:30,420
+<i>Tolerate the behavior that
+the previous administration...</i>
+
+45
+00:01:30,420 --> 00:01:31,810
+Addie said you wanted to see me.
+
+46
+00:01:31,810 --> 00:01:33,090
+Yeah, shut the door.
+
+47
+00:01:33,090 --> 00:01:35,580
+<i>I promise you we will
+root out all corruption</i>
+
+48
+00:01:35,580 --> 00:01:39,930
+<i>at all levels and restore
+your faith in public servants.</i>
+
+49
+00:01:39,930 --> 00:01:42,940
+<i>The name Van Buren is
+a name that has always</i>
+
+50
+00:01:42,940 --> 00:01:44,300
+<i>stood for integrity.</i>
+
+51
+00:01:44,310 --> 00:01:45,830
+<i>I may be the Mayor...</i>
+
+52
+00:01:45,830 --> 00:01:48,290
+We've got a problem that
+I'm not sure how to fix.
+
+53
+00:01:48,290 --> 00:01:49,270
+All right.
+
+54
+00:01:49,270 --> 00:01:52,080
+Some people don't think you
+should be back on the force.
+
+55
+00:01:52,080 --> 00:01:53,810
+- Because of DeVoe?
+- Mm-hmm.
+
+56
+00:01:53,810 --> 00:01:55,410
+I was cleared of all charges.
+
+57
+00:01:55,420 --> 00:01:56,420
+I didn't do anything.
+
+58
+00:01:56,420 --> 00:01:57,640
+He's alive.
+
+59
+00:01:57,640 --> 00:01:59,220
+I know, and he's been cooperating,
+
+60
+00:01:59,220 --> 00:02:00,720
+coming in, answering questions.
+
+61
+00:02:00,720 --> 00:02:02,050
+So what's the problem?
+
+62
+00:02:02,060 --> 00:02:04,090
+Look...
+
+63
+00:02:04,090 --> 00:02:06,890
+People nowadays will believe anything.
+
+64
+00:02:06,890 --> 00:02:08,780
+Fake news, social media.
+
+65
+00:02:08,790 --> 00:02:11,430
+Allegations are treated as facts.
+
+66
+00:02:11,430 --> 00:02:14,000
+But DeVoe being alive?
+
+67
+00:02:14,000 --> 00:02:16,670
+Showing up in the courtroom
+at your appeal hearing?
+
+68
+00:02:16,670 --> 00:02:19,340
+Some people in Central City
+don't buy it's actually him.
+
+69
+00:02:19,340 --> 00:02:20,990
+Well, who do they think it was?
+
+70
+00:02:20,990 --> 00:02:21,830
+Who the hell knows?
+
+71
+00:02:21,830 --> 00:02:23,640
+But we live in a city
+full of meta-humans.
+
+72
+00:02:23,640 --> 00:02:26,140
+It's a conspiracy theorist's dream.
+
+73
+00:02:26,150 --> 00:02:27,180
+So, what does this mean?
+
+74
+00:02:27,180 --> 00:02:29,310
+Are you... you firing me?
+
+75
+00:02:29,320 --> 00:02:31,620
+Not firing.
+
+76
+00:02:31,620 --> 00:02:33,620
+But I have been asked
+to request that you take
+
+77
+00:02:33,620 --> 00:02:35,620
+a leave of absence.
+
+78
+00:02:35,620 --> 00:02:36,920
+<font color="#ff00ff">[SCOFFS]</font>
+
+79
+00:02:36,920 --> 00:02:37,960
+By whom?
+
+80
+00:02:37,970 --> 00:02:40,790
+<i><font color="#ff00ff">[DRAMATIC MUSIC]</font></i>
+
+81
+00:02:40,790 --> 00:02:42,530
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+82
+00:02:42,530 --> 00:02:44,430
+Thinks it'll be easier for everyone.
+
+83
+00:02:44,430 --> 00:02:46,160
+Restoring the faith and all that.
+
+84
+00:02:46,170 --> 00:02:47,400
+For how long?
+
+85
+00:02:47,400 --> 00:02:49,270
+Indefinitely.
+
+86
+00:02:49,270 --> 00:02:51,340
+Look, Barry,
+
+87
+00:02:51,340 --> 00:02:52,770
+if you want me to fight this thing,
+
+88
+00:02:52,770 --> 00:02:53,960
+I'll do what I can.
+
+89
+00:02:53,960 --> 00:02:55,670
+But this new Mayor,
+she's got a lot to prove
+
+90
+00:02:55,680 --> 00:02:57,940
+since the Bellows debacle.
+
+91
+00:02:57,950 --> 00:03:00,180
+When do you think I can come back?
+
+92
+00:03:00,180 --> 00:03:02,980
+When everyone believes DeVoe
+is really alive and well.
+
+93
+00:03:02,980 --> 00:03:06,060
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+94
+00:03:06,060 --> 00:03:08,810
+<font color="#ff00ff">- Sync and corrections by VitoSilans </font><font color="#138ce9">- www.addic7ed.com -</font>
+<font color="#ffff00">Colored HI by </font><font color="#f0100f">GoldBerg_44</font>
+
+95
+00:03:11,090 --> 00:03:12,860
+It's not permanent, is it?
+
+96
+00:03:12,860 --> 00:03:14,430
+I mean, he said it was indefinite.
+
+97
+00:03:14,430 --> 00:03:16,060
+They wouldn't have
+given you your ID back
+
+98
+00:03:16,060 --> 00:03:17,130
+if it was for good.
+
+99
+00:03:17,130 --> 00:03:18,900
+I mean, maybe this is
+for the best, Barry.
+
+100
+00:03:18,900 --> 00:03:20,970
+I mean, you need to prove
+that DeVoe is still alive.
+
+101
+00:03:20,970 --> 00:03:22,780
+And you can do that now as The Flash.
+
+102
+00:03:22,790 --> 00:03:23,870
+Yeah, maybe.
+
+103
+00:03:23,870 --> 00:03:25,700
+How are we doing with him, by the way?
+
+104
+00:03:25,710 --> 00:03:28,410
+We know that we still have
+four bus metas left to find.
+
+105
+00:03:28,410 --> 00:03:30,740
+And that DeVoe has absorbed
+the powers of Killgore,
+
+106
+00:03:30,740 --> 00:03:33,540
+Hazard, Black Bison,
+Brainstorm, and Dwarfstar.
+
+107
+00:03:33,540 --> 00:03:34,850
+Fallout is safe with Tracy.
+
+108
+00:03:34,850 --> 00:03:36,980
+But the Weeper is M.I.A.
+
+109
+00:03:36,980 --> 00:03:38,120
+Then DeVoe must have him.
+
+110
+00:03:38,120 --> 00:03:39,450
+Well, that just leaves Ralph.
+
+111
+00:03:39,450 --> 00:03:41,050
+Ralph is safe with us.
+
+112
+00:03:41,050 --> 00:03:42,620
+But the other four metas aren't.
+
+113
+00:03:42,620 --> 00:03:45,090
+DeVoe will absolutely kill
+them and take their powers.
+
+114
+00:03:45,090 --> 00:03:46,490
+But why does he need their powers?
+
+115
+00:03:46,490 --> 00:03:47,970
+I can't figure out his end game.
+
+116
+00:03:47,970 --> 00:03:48,940
+I don't know.
+
+117
+00:03:48,950 --> 00:03:50,780
+I just know that these
+last four metas are the key.
+
+118
+00:03:50,780 --> 00:03:51,880
+That's why we need to find them.
+
+119
+00:03:51,880 --> 00:03:53,560
+And find them we will.
+
+120
+00:03:53,570 --> 00:03:54,770
+Where have you guys been?
+
+121
+00:03:54,770 --> 00:03:56,070
+A little home away from home,
+
+122
+00:03:56,070 --> 00:03:57,600
+otherwise known as the bus depot.
+
+123
+00:03:57,600 --> 00:04:00,300
+But I showed Cisco
+here an old P.I. trick
+
+124
+00:04:00,310 --> 00:04:02,840
+I learned from my mentor, Columbo.
+
+125
+00:04:02,840 --> 00:04:05,410
+Lost and found box from meta bus 405.
+
+126
+00:04:05,410 --> 00:04:08,080
+Question for the room,
+how did I get stuck
+
+127
+00:04:08,080 --> 00:04:09,780
+doing the buddy system thing with Ralph?
+
+128
+00:04:09,780 --> 00:04:12,680
+It's the best way to
+keep Ralph safe, Cisco.
+
+129
+00:04:12,690 --> 00:04:15,390
+Yeah, it's the best way
+to keep Ralph safe, Cisco.
+
+130
+00:04:15,390 --> 00:04:17,390
+Well, clearly you've
+never had to stay over
+
+131
+00:04:17,390 --> 00:04:20,390
+at an apartment that uses
+neon beer signs for lamps
+
+132
+00:04:20,390 --> 00:04:22,090
+and the kitchen sink for a shower.
+
+133
+00:04:22,090 --> 00:04:23,330
+Ralph, I love you.
+
+134
+00:04:23,330 --> 00:04:24,530
+But you sleep on a futon.
+
+135
+00:04:24,530 --> 00:04:25,830
+Futon's not that bad.
+
+136
+00:04:25,830 --> 00:04:27,000
+It is when it's damp.
+
+137
+00:04:27,000 --> 00:04:28,200
+Why is it damp?
+
+138
+00:04:28,200 --> 00:04:29,970
+I sweat a lot when I sleep.
+
+139
+00:04:29,970 --> 00:04:31,270
+You nasty.
+
+140
+00:04:31,270 --> 00:04:33,600
+<i><font color="#ff00ff">[QUIRKY MUSIC]</font></i>
+
+141
+00:04:33,610 --> 00:04:35,690
+Oh, hey, my retainer.
+
+142
+00:04:35,690 --> 00:04:36,690
+Been looking for this.
+
+143
+00:04:36,690 --> 00:04:39,640
+<font color="#ff00ff">[LAUGHS]</font> Retainer.
+
+144
+00:04:39,650 --> 00:04:40,940
+Okay, you made your point.
+
+145
+00:04:40,950 --> 00:04:42,510
+Not that the point needed to be made.
+
+146
+00:04:42,520 --> 00:04:43,850
+I'll take the next shift.
+
+147
+00:04:43,850 --> 00:04:45,180
+You're a good man, Barry Allen.
+
+148
+00:04:45,190 --> 00:04:48,430
+Really? Who uses CDs anymore?
+
+149
+00:04:48,430 --> 00:04:50,590
+A musician trying to catch their break.
+
+150
+00:04:50,590 --> 00:04:52,790
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+151
+00:04:52,790 --> 00:04:53,890
+Izzy Bowen.
+
+152
+00:04:53,890 --> 00:04:58,160
+<font color="#ff00ff">[COUNTRY ROCK MUSIC PLAYS]</font>
+
+153
+00:04:58,160 --> 00:05:00,150
+Ugh, country.
+
+154
+00:05:00,160 --> 00:05:01,660
+Music's tone deaf stepchild.
+
+155
+00:05:01,670 --> 00:05:02,920
+All right, remember anyone on the bus
+
+156
+00:05:02,920 --> 00:05:03,920
+with a fiddle?
+
+157
+00:05:03,930 --> 00:05:05,970
+There was a guy with a cowboy hat on
+
+158
+00:05:05,970 --> 00:05:07,540
+sitting behind me. Maybe it was him.
+
+159
+00:05:07,540 --> 00:05:09,670
+Boy, I sure wish we had
+a way of finding out.
+
+160
+00:05:13,650 --> 00:05:15,710
+Izzy Bowen.
+
+161
+00:05:15,710 --> 00:05:18,620
+<i><font color="#ff00ff">[DRAMATIC MUSIC]</font></i>
+
+162
+00:05:18,620 --> 00:05:25,920
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+163
+00:05:27,630 --> 00:05:30,160
+Izzy, you wanna give
+us one more mic check?
+
+164
+00:05:30,160 --> 00:05:32,360
+Check one, check, check, one two.
+
+165
+00:05:35,370 --> 00:05:37,830
+Okay, well, it's a her, not a him.
+
+166
+00:05:37,840 --> 00:05:40,140
+And she's playing a gig
+at the Busted Saddle.
+
+167
+00:05:40,140 --> 00:05:42,170
+All right. Ralph, let's go.
+
+168
+00:05:42,170 --> 00:05:44,500
+No, no way. I hate country music.
+
+169
+00:05:44,510 --> 00:05:46,510
+Well, buddy system. It's my turn.
+
+170
+00:05:46,510 --> 00:05:48,510
+- Come on.
+- <font color="#ff00ff">[SIGHS]</font> If you insist.
+
+171
+00:05:48,510 --> 00:05:50,650
+<i><font color="#ff00ff">[QUIRKY MUSIC]</font></i>
+
+172
+00:05:50,650 --> 00:05:52,320
+<font color="#ffff00">♪ Stand on the box stomp your feet </font><font color="#ffff00">♪</font>
+
+173
+00:05:52,320 --> 00:05:54,420
+<font color="#ffff00">♪ Start clapping Got
+a real good feeling </font><font color="#ffff00">♪</font>
+
+174
+00:05:54,420 --> 00:05:56,220
+<font color="#ffff00">♪ Something bad about to happen </font><font color="#ffff00">♪</font>
+
+175
+00:05:56,220 --> 00:05:59,090
+<font color="#ff00ff">[MIRANDA LAMBERT'S "SOMETHIN' BAD" PLAYS]</font>
+
+176
+00:05:59,090 --> 00:06:01,430
+<font color="#ffff00">♪ </font><font color="#ffff00">♪</font>
+
+177
+00:06:01,430 --> 00:06:04,130
+<font color="#ffff00">♪ Pulled up to the church
+but I got so nervous </font><font color="#ffff00">♪</font>
+
+178
+00:06:04,130 --> 00:06:05,570
+<font color="#ffff00">♪ Had to back it on up </font><font color="#ffff00">♪</font>
+
+179
+00:06:05,570 --> 00:06:07,030
+<font color="#ffff00">♪ Couldn't make it to the service </font><font color="#ffff00">♪</font>
+
+180
+00:06:07,030 --> 00:06:09,510
+<font color="#ffff00">♪ I grabbed all the cash
+underneath my mattress </font><font color="#ffff00">♪</font>
+
+181
+00:06:09,510 --> 00:06:12,370
+<font color="#ffff00">♪ Got a real good feeling
+something bad about to happen </font><font color="#ffff00">♪</font>
+
+182
+00:06:12,370 --> 00:06:16,970
+<font color="#ffff00">♪ </font><font color="#ffff00">♪</font>
+
+183
+00:06:16,980 --> 00:06:20,640
+<i><font color="#ff00ff">[OMINOUS MUSIC]</font></i>
+
+184
+00:06:20,650 --> 00:06:22,610
+She's good.
+
+185
+00:06:22,620 --> 00:06:26,920
+She's improving, but
+she lacks refinement.
+
+186
+00:06:26,920 --> 00:06:31,050
+So you're not impressed by her at all?
+
+187
+00:06:31,060 --> 00:06:34,220
+The resting face of my current visage
+
+188
+00:06:34,230 --> 00:06:38,560
+may be more pleasant than
+the one I used to display.
+
+189
+00:06:38,560 --> 00:06:43,000
+But I assure you, this
+is not the look of a man
+
+190
+00:06:43,000 --> 00:06:45,700
+awed by symphonic greatness.
+
+191
+00:06:45,700 --> 00:06:47,670
+Clifford! Clifford!
+
+192
+00:06:47,670 --> 00:06:49,610
+<font color="#ff00ff">[MOANS]</font>
+
+193
+00:06:49,610 --> 00:06:54,950
+This body, it's deteriorating rapidly.
+
+194
+00:06:54,950 --> 00:06:56,750
+The additional dark
+matter in your system
+
+195
+00:06:56,750 --> 00:06:59,320
+from each of your new powers
+is wearing down your host.
+
+196
+00:06:59,320 --> 00:07:02,490
+It's straining too much
+of this body's new energy.
+
+197
+00:07:02,490 --> 00:07:06,220
+Then I must move into the next one.
+
+198
+00:07:06,230 --> 00:07:07,890
+But you said that Izzy
+Bowen wasn't ready,
+
+199
+00:07:07,890 --> 00:07:09,430
+that we needed to find another.
+
+200
+00:07:09,430 --> 00:07:12,060
+We don't have time.
+
+201
+00:07:12,060 --> 00:07:14,530
+We must act now.
+
+202
+00:07:14,530 --> 00:07:15,830
+<font color="#ff00ff">[BEEPING]</font>
+
+203
+00:07:15,830 --> 00:07:17,580
+We may be too late.
+
+204
+00:07:26,140 --> 00:07:27,630
+Izzy Bowen?
+
+205
+00:07:27,640 --> 00:07:28,740
+That's me.
+
+206
+00:07:28,740 --> 00:07:30,020
+My name is Barry Allen.
+
+207
+00:07:30,020 --> 00:07:31,190
+I'm with CCP...
+
+208
+00:07:31,200 --> 00:07:34,600
+<font color="#ff00ff">[COUNTRY MUSIC PLAYS]</font>
+
+209
+00:07:34,600 --> 00:07:35,800
+Is that a label?
+
+210
+00:07:35,800 --> 00:07:38,670
+- Um...
+- Maybe on another Earth.
+
+211
+00:07:38,670 --> 00:07:40,440
+Okay, well, you want an autograph
+
+212
+00:07:40,440 --> 00:07:42,940
+or a phone number, something?
+
+213
+00:07:42,940 --> 00:07:45,480
+Uh, no, no. Nothing like that.
+
+214
+00:07:45,480 --> 00:07:46,590
+Okay.
+
+215
+00:07:46,590 --> 00:07:48,600
+Well, if it ain't business
+and it ain't pleasure,
+
+216
+00:07:48,600 --> 00:07:50,240
+then we got nothing left to talk about,
+
+217
+00:07:50,240 --> 00:07:51,780
+now do we?
+
+218
+00:07:51,780 --> 00:07:53,180
+Oh.
+
+219
+00:07:53,190 --> 00:07:54,980
+Do it again next week.
+
+220
+00:07:54,990 --> 00:07:56,020
+Great work.
+
+221
+00:07:56,020 --> 00:07:57,320
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+222
+00:07:57,320 --> 00:07:59,800
+Okay, I'm sorry. Let me explain.
+
+223
+00:07:59,800 --> 00:08:00,790
+Um...
+
+224
+00:08:00,790 --> 00:08:03,970
+<font color="#ffff00">♪ </font><font color="#ffff00">♪</font>
+
+225
+00:08:03,970 --> 00:08:05,810
+Uh...
+
+226
+00:08:05,810 --> 00:08:11,130
+Someone very smart and very dangerous
+
+227
+00:08:11,140 --> 00:08:12,440
+is coming after you.
+
+228
+00:08:12,440 --> 00:08:14,750
+Me?
+
+229
+00:08:14,760 --> 00:08:15,840
+Yep.
+
+230
+00:08:15,840 --> 00:08:18,840
+<font color="#ff00ff">[LAUGHS]</font>
+
+231
+00:08:18,840 --> 00:08:20,640
+Okay, now, why in the name of God
+
+232
+00:08:20,650 --> 00:08:23,280
+would anybody dangerous
+be coming after me?
+
+233
+00:08:23,280 --> 00:08:25,030
+Because you have powers.
+
+234
+00:08:25,040 --> 00:08:26,300
+Four months ago,
+
+235
+00:08:26,310 --> 00:08:28,910
+you were on Central City bus 405.
+
+236
+00:08:28,910 --> 00:08:30,790
+That bus got showered with dark matter
+
+237
+00:08:30,790 --> 00:08:32,920
+and made everyone on it a meta-human.
+
+238
+00:08:32,920 --> 00:08:34,590
+Now the person
+responsible for doing that
+
+239
+00:08:34,590 --> 00:08:37,760
+wants those powers for themself.
+
+240
+00:08:37,760 --> 00:08:39,700
+Okay, and let me guess.
+
+241
+00:08:39,700 --> 00:08:42,570
+You boys are here to protect me.
+
+242
+00:08:42,570 --> 00:08:43,900
+Something like that.
+
+243
+00:08:43,900 --> 00:08:46,340
+Look, we can explain more later,
+
+244
+00:08:46,340 --> 00:08:48,000
+but now we just need
+you to come with us.
+
+245
+00:08:48,000 --> 00:08:49,810
+Oh, no, that's not necessary.
+
+246
+00:08:49,810 --> 00:08:53,690
+My daddy bailed. Mama
+bailed not long after.
+
+247
+00:08:53,690 --> 00:08:56,710
+And I have been looking out
+for myself my entire life.
+
+248
+00:08:56,710 --> 00:08:58,480
+This time it's different.
+
+249
+00:08:58,480 --> 00:08:59,700
+You can't. Please.
+
+250
+00:08:59,710 --> 00:09:00,690
+We need to go.
+
+251
+00:09:00,690 --> 00:09:02,420
+I ain't going anywhere
+with either of you.
+
+252
+00:09:02,420 --> 00:09:03,890
+I think you should reconsider that.
+
+253
+00:09:03,890 --> 00:09:06,360
+I don't give a damn what you think.
+
+254
+00:09:06,360 --> 00:09:10,560
+<font color="#ff00ff">[SCREECHING]</font>
+
+255
+00:09:10,560 --> 00:09:12,560
+<font color="#ff00ff">[GRUNTS]</font>
+
+256
+00:09:12,560 --> 00:09:16,520
+<font color="#ff00ff">[COUNTRY MUSIC PLAYS]</font>
+
+257
+00:09:16,520 --> 00:09:19,290
+I guess now we know what her power is.
+
+258
+00:09:19,290 --> 00:09:21,930
+- What?
+- What?
+
+259
+00:09:21,930 --> 00:09:24,210
+- Yeah!
+- Yeah.
+
+260
+00:09:24,210 --> 00:09:26,170
+<i><font color="#ff00ff">[DRAMATIC MUSIC]</font></i>
+
+261
+00:09:26,180 --> 00:09:28,130
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+262
+00:09:28,140 --> 00:09:29,350
+You two are lucky.
+
+263
+00:09:29,350 --> 00:09:30,680
+Barry, your ear is almost healed,
+
+264
+00:09:30,680 --> 00:09:32,710
+and Dibny, yours just stretched.
+
+265
+00:09:32,720 --> 00:09:34,720
+Well, I still can't hear all that great.
+
+266
+00:09:34,720 --> 00:09:36,250
+Consider that a blessing in disguise.
+
+267
+00:09:36,250 --> 00:09:37,650
+Less twang in your future.
+
+268
+00:09:37,660 --> 00:09:39,520
+Give it an hour. You'll be fine.
+
+269
+00:09:39,520 --> 00:09:41,760
+So Izzy Bowen can control music.
+
+270
+00:09:41,760 --> 00:09:43,060
+More like sound waves.
+
+271
+00:09:43,060 --> 00:09:44,810
+Soundwave. That's a great name.
+
+272
+00:09:44,810 --> 00:09:48,360
+It would be, if it wasn't
+already taken by a Transformer.
+
+273
+00:09:48,370 --> 00:09:50,870
+Okay, well, it looks like
+billions of tiny shrapnel
+
+274
+00:09:50,870 --> 00:09:52,380
+- ripped through this.
+- Exactly.
+
+275
+00:09:52,380 --> 00:09:56,000
+Sound is just the force of
+billions of tiny gas molecules
+
+276
+00:09:56,010 --> 00:09:57,490
+colliding into one another.
+
+277
+00:09:57,500 --> 00:09:59,710
+So if you can harness and
+amplify kinetic energy,
+
+278
+00:09:59,710 --> 00:10:01,190
+- you get...
+- Molecular shrapnel.
+
+279
+00:10:01,190 --> 00:10:02,710
+Okay, well, we gotta keep searching.
+
+280
+00:10:02,710 --> 00:10:03,890
+If we can't track her down soon,
+
+281
+00:10:03,890 --> 00:10:06,160
+she's gonna fall right
+into DeVoe's hands.
+
+282
+00:10:06,160 --> 00:10:07,820
+Speaking of tracking people down,
+
+283
+00:10:07,820 --> 00:10:09,720
+when's Harry getting
+back from Earth Two?
+
+284
+00:10:09,720 --> 00:10:12,040
+<i><font color="#ff00ff">[BARDO & TALIA'S "DÉJAME" PLAYS]</font></i>
+
+285
+00:10:12,040 --> 00:10:14,890
+<i><font color="#ffff00">♪ You tell me you love me </font><font color="#ffff00">♪</i></font>
+
+286
+00:10:14,890 --> 00:10:16,230
+DA Cecille Horton.
+
+287
+00:10:16,240 --> 00:10:17,460
+Harry, hey.
+
+288
+00:10:17,460 --> 00:10:18,730
+When did you get back from the Earth?
+
+289
+00:10:18,740 --> 00:10:19,620
+Just got back.
+
+290
+00:10:19,620 --> 00:10:20,880
+Getting myself a little pick me up.
+
+291
+00:10:20,880 --> 00:10:22,400
+You and me both, kid.
+
+292
+00:10:22,400 --> 00:10:23,630
+<font color="#ffff00">♪ </font><font color="#ffff00">♪</font>
+
+293
+00:10:23,640 --> 00:10:24,670
+- Okay, good talk.
+- Yeah.
+
+294
+00:10:24,670 --> 00:10:25,910
+<font color="#ff00ff">[BOTH CLEARING THROAT]</font>
+
+295
+00:10:25,910 --> 00:10:27,650
+Actually, you know, I
+don't think that, uh,
+
+296
+00:10:27,650 --> 00:10:29,840
+pregnant people are
+supposed to consume caffeine.
+
+297
+00:10:29,840 --> 00:10:33,040
+Uh, yeah, doctor says
+one cup a day is fine.
+
+298
+00:10:33,040 --> 00:10:35,950
+And lord knows I need it. <font color="#ff00ff">[YAWNING]</font>
+
+299
+00:10:35,950 --> 00:10:38,380
+I need it more than you
+could possibly imagine.
+
+300
+00:10:38,380 --> 00:10:39,920
+Apparently. Must be exhausting.
+
+301
+00:10:39,920 --> 00:10:41,850
+It is. He's keeping me up all night.
+
+302
+00:10:41,850 --> 00:10:43,520
+"He"? I thought Alan said
+
+303
+00:10:43,520 --> 00:10:44,810
+you were having a girl.
+
+304
+00:10:44,810 --> 00:10:46,120
+Yeah, and I'm not
+talking about the baby.
+
+305
+00:10:46,130 --> 00:10:47,160
+I'm talking about Joe.
+
+306
+00:10:47,160 --> 00:10:48,790
+Joe is keeping me up.
+
+307
+00:10:48,790 --> 00:10:52,230
+<font color="#ff00ff">[STAMMERS]</font> No, Harry, come here.
+
+308
+00:10:52,230 --> 00:10:53,660
+<font color="#ff00ff">[CLEARS THROAT]</font>
+
+309
+00:10:53,670 --> 00:10:55,220
+<font color="#ff00ff">[SIGHS]</font>
+
+310
+00:10:55,220 --> 00:10:58,430
+My newfound ability to
+hear people's thoughts.
+
+311
+00:10:58,440 --> 00:11:00,870
+- Oh, see, I thought...
+- Yeah, I can hear...
+
+312
+00:11:00,870 --> 00:11:04,270
+Joe, his thoughts... I can
+hear them while he's asleep.
+
+313
+00:11:04,280 --> 00:11:06,340
+- All night long.
+- You hear his dreams.
+
+314
+00:11:06,340 --> 00:11:09,030
+Yep. And they are crazy and fast.
+
+315
+00:11:09,040 --> 00:11:10,960
+And oh so very loud.
+
+316
+00:11:10,970 --> 00:11:14,720
+It is like living in the middle
+of an action movie, Harry.
+
+317
+00:11:14,720 --> 00:11:16,420
+I love Joe West with all my heart,
+
+318
+00:11:16,420 --> 00:11:18,490
+but I am telling you,
+I just... I can't...
+
+319
+00:11:18,490 --> 00:11:20,460
+<font color="#ff00ff">[YAWNS]</font> I'm so tired.
+
+320
+00:11:20,460 --> 00:11:22,160
+I can't take it anymore.
+
+321
+00:11:22,160 --> 00:11:24,330
+Yeah, well, that sucks,
+DA Cecille Horton.
+
+322
+00:11:24,330 --> 00:11:26,090
+- Yes, it does.
+- Okay.
+
+323
+00:11:26,090 --> 00:11:29,410
+Actually, I might be
+able to build something
+
+324
+00:11:29,410 --> 00:11:31,630
+that can help you with that.
+
+325
+00:11:31,640 --> 00:11:33,240
+Oh, Harry, thank you.
+
+326
+00:11:33,240 --> 00:11:36,370
+<i><font color="#ff00ff">[DRAMATIC MUSIC]</font></i>
+
+327
+00:11:36,370 --> 00:11:37,820
+Satellite's been running all day,
+
+328
+00:11:37,820 --> 00:11:41,820
+but it's still not picking up
+any irregular sound variances.
+
+329
+00:11:41,830 --> 00:11:43,650
+I checked the city. I can't find her.
+
+330
+00:11:43,650 --> 00:11:45,530
+- Babe, you checked the whole city?
+- Yeah.
+
+331
+00:11:45,540 --> 00:11:47,450
+Look, we have to find her before DeVoe.
+
+332
+00:11:47,450 --> 00:11:48,560
+Her life's on the line.
+
+333
+00:11:48,560 --> 00:11:49,860
+She had another gig this week.
+
+334
+00:11:49,860 --> 00:11:51,190
+I doubt she'd skip town.
+
+335
+00:11:51,190 --> 00:11:53,760
+How would Dibny P.I.
+suggest we find her?
+
+336
+00:11:53,760 --> 00:11:55,860
+Well, since you asked,
+
+337
+00:11:55,860 --> 00:11:57,660
+has anyone checked her web site?
+
+338
+00:11:57,660 --> 00:12:00,200
+"Has anyone checked her web site?"
+
+339
+00:12:00,200 --> 00:12:02,230
+Dibs, of course we've
+checked her web site.
+
+340
+00:12:02,230 --> 00:12:05,670
+<i><font color="#ff00ff">[QUIRKY MUSIC]</font></i>
+
+341
+00:12:05,670 --> 00:12:07,340
+No one has checked her web site?
+
+342
+00:12:07,340 --> 00:12:08,910
+- Iris!
+- Yeah, I'm-I'm on it.
+
+343
+00:12:08,910 --> 00:12:10,910
+I'm looking now. Um...
+
+344
+00:12:10,910 --> 00:12:12,610
+<font color="#ff00ff">[BEEPING]</font>
+
+345
+00:12:12,610 --> 00:12:13,770
+Guys, she's still in town.
+
+346
+00:12:13,770 --> 00:12:15,680
+"I just picked up the
+first run of my next single
+
+347
+00:12:15,680 --> 00:12:17,750
+and love the geniuses at Saloon Sounds."
+
+348
+00:12:17,750 --> 00:12:20,020
+All right, Ralph. Take two.
+
+349
+00:12:20,020 --> 00:12:21,620
+Cisco, we might need Vibe's help.
+
+350
+00:12:21,620 --> 00:12:23,090
+Giddy up.
+
+351
+00:12:23,090 --> 00:12:25,920
+Come on, let's go. We're in a hurry.
+
+352
+00:12:25,920 --> 00:12:27,390
+<font color="#ff00ff">[THUNDERING]</font>
+
+353
+00:12:27,390 --> 00:12:30,090
+Izzy Bowen, we need you to come with us.
+
+354
+00:12:30,100 --> 00:12:33,030
+- Flash?
+- You're in danger.
+
+355
+00:12:33,030 --> 00:12:34,800
+I know, everybody keeps telling me that.
+
+356
+00:12:34,800 --> 00:12:36,620
+And you're gonna keep
+hearing it until it sinks in.
+
+357
+00:12:36,620 --> 00:12:38,050
+You just have to trust us.
+
+358
+00:12:38,050 --> 00:12:40,040
+We're not gonna hurt you,
+but we know someone who will.
+
+359
+00:12:40,040 --> 00:12:41,640
+Who is going to hurt me?
+
+360
+00:12:41,640 --> 00:12:42,840
+I am.
+
+361
+00:12:42,840 --> 00:12:46,780
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+362
+00:12:46,780 --> 00:12:48,510
+<font color="#ff00ff">[LAUGHS]</font>
+
+363
+00:12:48,510 --> 00:12:50,350
+Y'all came to warn me about her?
+
+364
+00:12:50,350 --> 00:12:52,240
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+365
+00:12:52,240 --> 00:12:53,280
+DeVoe.
+
+366
+00:12:53,280 --> 00:12:55,390
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+367
+00:12:55,390 --> 00:12:57,690
+Hello, Flash.
+
+368
+00:12:57,690 --> 00:12:59,950
+You're gonna leave Izzy alone.
+
+369
+00:12:59,960 --> 00:13:03,090
+You know, you really don't
+learn from our past encounters,
+
+370
+00:13:03,090 --> 00:13:04,990
+do you?
+
+371
+00:13:05,000 --> 00:13:09,130
+You're not smart enough to stop
+me from getting what I want.
+
+372
+00:13:09,130 --> 00:13:12,180
+And what I want now is her.
+
+373
+00:13:12,180 --> 00:13:14,040
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+374
+00:13:14,040 --> 00:13:16,240
+That's not gonna happen.
+
+375
+00:13:16,240 --> 00:13:18,240
+It's three against one, genius.
+
+376
+00:13:18,240 --> 00:13:20,480
+Check your math, Vibe.
+
+377
+00:13:20,480 --> 00:13:23,380
+It's three against six.
+
+378
+00:13:23,380 --> 00:13:27,880
+Though I doubt I'll need to use
+all of my powers against you.
+
+379
+00:13:27,890 --> 00:13:30,820
+<font color="#ff00ff">[RUMBLING]</font>
+
+380
+00:13:30,820 --> 00:13:31,960
+<font color="#ff00ff">[GRUNTS]</font>
+
+381
+00:13:31,960 --> 00:13:35,960
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+382
+00:13:35,960 --> 00:13:38,090
+<font color="#138ce9">ALL:</font> <font color="#ff00ff">[GRUNTING]</font>
+
+383
+00:13:38,100 --> 00:13:43,170
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+384
+00:13:43,170 --> 00:13:45,300
+You stay away from me!
+
+385
+00:13:45,300 --> 00:13:47,740
+<font color="#ff00ff">[ECHOING AND RUMBLING]</font>
+
+386
+00:13:47,740 --> 00:13:51,870
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+387
+00:13:51,880 --> 00:13:55,240
+<font color="#ff00ff">[WHIRRING]</font>
+
+388
+00:13:55,250 --> 00:13:56,710
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+389
+00:13:56,720 --> 00:13:58,720
+You just hurt DeVoe.
+
+390
+00:13:58,720 --> 00:14:00,630
+Who the hell's DeVoe?
+
+391
+00:14:04,840 --> 00:14:06,740
+<i><font color="#ff00ff">[DRAMATIC MUSIC]</font></i>
+
+392
+00:14:06,740 --> 00:14:09,910
+So you're telling me that
+this three foot tall chick
+
+393
+00:14:09,910 --> 00:14:15,140
+that tried to kill me is
+actually this Clifford DeVoe?
+
+394
+00:14:15,150 --> 00:14:17,250
+Oh, yeah. 100% dude.
+
+395
+00:14:17,260 --> 00:14:18,020
+Mmm-hmm.
+
+396
+00:14:18,020 --> 00:14:20,070
+DeVoe is transferring his consciousness
+
+397
+00:14:20,070 --> 00:14:22,020
+to the other bodies
+of all the other people
+
+398
+00:14:22,030 --> 00:14:24,210
+who were on the bus and
+got their powers with you.
+
+399
+00:14:24,210 --> 00:14:26,860
+Wait, this... this
+little girl wants my body?
+
+400
+00:14:26,870 --> 00:14:28,800
+That's why we're trying to protect you.
+
+401
+00:14:28,800 --> 00:14:31,400
+DeVoe's already taken
+most of his targets.
+
+402
+00:14:31,400 --> 00:14:33,800
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+403
+00:14:33,810 --> 00:14:36,370
+No, this ain't happening. Not now.
+
+404
+00:14:36,370 --> 00:14:38,270
+I only got my powers recently.
+
+405
+00:14:38,280 --> 00:14:40,580
+And now it's like I've
+got a deeper connection
+
+406
+00:14:40,580 --> 00:14:43,610
+to my music than I've ever had.
+
+407
+00:14:43,620 --> 00:14:45,720
+I'm about to record the
+rest of my new album.
+
+408
+00:14:45,720 --> 00:14:47,550
+- I'm about to go on tour...
+- Izzy, your album can wait.
+
+409
+00:14:47,550 --> 00:14:48,610
+This threat is real.
+
+410
+00:14:48,620 --> 00:14:51,550
+So is my big break.
+
+411
+00:14:51,560 --> 00:14:55,360
+Do you have any idea how hard
+I've had to work for this?
+
+412
+00:14:55,360 --> 00:14:56,690
+I left my home.
+
+413
+00:14:56,690 --> 00:14:59,000
+I lost friends and good men,
+
+414
+00:14:59,000 --> 00:15:02,870
+and I have put up with more
+crap than you could imagine
+
+415
+00:15:02,870 --> 00:15:05,570
+so that one day I would get my dream.
+
+416
+00:15:05,570 --> 00:15:08,600
+And now you're telling me
+that some pint-sized lunatic
+
+417
+00:15:08,610 --> 00:15:10,740
+is just gonna take it all away?
+
+418
+00:15:10,740 --> 00:15:12,880
+Which is exactly why
+we want you to stay here
+
+419
+00:15:12,880 --> 00:15:14,540
+- at S.T.A.R. Labs.
+- Why?
+
+420
+00:15:14,550 --> 00:15:16,540
+Are y'all gonna protect me or something?
+
+421
+00:15:16,550 --> 00:15:18,810
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+422
+00:15:18,820 --> 00:15:20,690
+We're gonna train you.
+
+423
+00:15:20,690 --> 00:15:22,220
+<font color="#138ce9">BOTH:</font> We are?
+
+424
+00:15:22,220 --> 00:15:24,490
+Guys, her powers weakened DeVoe.
+
+425
+00:15:24,490 --> 00:15:26,690
+Izzy, that makes you our
+best shot at stopping him.
+
+426
+00:15:26,690 --> 00:15:29,090
+No, no, this... This is all too much.
+
+427
+00:15:29,090 --> 00:15:30,590
+I don't even know who you people are.
+
+428
+00:15:30,600 --> 00:15:33,000
+We don't have time for this.
+
+429
+00:15:33,000 --> 00:15:34,400
+Flash!
+
+430
+00:15:34,400 --> 00:15:37,230
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+431
+00:15:37,240 --> 00:15:38,730
+You're that guy from before.
+
+432
+00:15:38,740 --> 00:15:40,270
+Yeah, Barry Allen.
+
+433
+00:15:40,270 --> 00:15:42,470
+And so are you, aren't you?
+
+434
+00:15:42,470 --> 00:15:45,240
+Yeah. Ralph.
+
+435
+00:15:45,240 --> 00:15:46,610
+Ralph Dibny.
+
+436
+00:15:46,610 --> 00:15:48,980
+I'm, uh, Cisco. Cisco Ramon.
+
+437
+00:15:48,980 --> 00:15:50,450
+- It's nice to meet you.
+- Okay, thank you.
+
+438
+00:15:50,450 --> 00:15:53,120
+Look, look, I... I don't need training.
+
+439
+00:15:53,120 --> 00:15:54,730
+Especially from you.
+
+440
+00:15:54,730 --> 00:15:57,510
+All I need is my life back.
+
+441
+00:15:57,520 --> 00:15:58,990
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+442
+00:15:58,990 --> 00:16:00,890
+<font color="#ff00ff">[SIGHS]</font> I don't know, guys.
+
+443
+00:16:00,890 --> 00:16:03,130
+I kinda feel like if I just
+followed her into that hallway
+
+444
+00:16:03,130 --> 00:16:04,890
+and just gave her one
+of those "Hey, look,"
+
+445
+00:16:04,900 --> 00:16:06,470
+inspirational talks, I could probably
+
+446
+00:16:06,470 --> 00:16:07,430
+get her to stay.
+
+447
+00:16:07,430 --> 00:16:09,140
+Then what are you still doing here?
+
+448
+00:16:09,140 --> 00:16:10,370
+Sorry, I don't know if you, like,
+
+449
+00:16:10,370 --> 00:16:11,600
+drew straws for this stuff or something.
+
+450
+00:16:11,600 --> 00:16:13,640
+- No, go!
+- Okay.
+
+451
+00:16:13,640 --> 00:16:16,570
+<i><font color="#ff00ff">[QUIRKY MUSIC]</font></i>
+
+452
+00:16:16,570 --> 00:16:19,780
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+453
+00:16:19,780 --> 00:16:21,250
+I'd watch out if I were you.
+
+454
+00:16:21,250 --> 00:16:23,910
+Sometimes killer robots
+come out of there.
+
+455
+00:16:23,920 --> 00:16:25,340
+Keep walking, Stretch.
+
+456
+00:16:25,340 --> 00:16:27,150
+I don't talk to creeps in dark hallways
+
+457
+00:16:27,150 --> 00:16:29,150
+dressed in purple leather.
+
+458
+00:16:29,150 --> 00:16:31,990
+It's actually, uh, more of a mauve.
+
+459
+00:16:31,990 --> 00:16:34,690
+And, uh, I'm not a creep.
+
+460
+00:16:34,690 --> 00:16:37,560
+Look, Izzy, I know how you're feeling.
+
+461
+00:16:37,560 --> 00:16:39,250
+That day that you got your powers,
+
+462
+00:16:39,260 --> 00:16:40,700
+I was on the same bus.
+
+463
+00:16:40,700 --> 00:16:45,740
+So that evil chipmunk,
+she wants to kill me, too.
+
+464
+00:16:45,740 --> 00:16:47,240
+Please.
+
+465
+00:16:47,240 --> 00:16:50,510
+I think I'd remember
+seeing you on my bus.
+
+466
+00:16:50,510 --> 00:16:55,510
+Actually I was kind of,
+uh, big boned back then.
+
+467
+00:16:55,510 --> 00:16:58,350
+I was on a strict diet of
+gin, donuts, and regret.
+
+468
+00:16:58,350 --> 00:17:00,080
+But I got another shot at it.
+
+469
+00:17:00,080 --> 00:17:01,680
+And I worked my tight butt off.
+
+470
+00:17:01,690 --> 00:17:04,320
+And now I'm the hottest
+superhero in town.
+
+471
+00:17:04,320 --> 00:17:05,890
+<font color="#ff00ff">[SCOFFS]</font> Please.
+
+472
+00:17:05,890 --> 00:17:08,220
+My life, it's never been better.
+
+473
+00:17:08,230 --> 00:17:09,830
+Kinda like yours.
+
+474
+00:17:09,830 --> 00:17:11,860
+Yeah, but aren't you
+afraid of losing it all?
+
+475
+00:17:11,860 --> 00:17:14,330
+Yeah, I am.
+
+476
+00:17:14,330 --> 00:17:16,730
+Which is why I'm a part of this team.
+
+477
+00:17:16,730 --> 00:17:18,770
+You said that your family bailed on you,
+
+478
+00:17:18,770 --> 00:17:21,070
+so I can understand why
+you wouldn't trust someone
+
+479
+00:17:21,070 --> 00:17:22,840
+to look out for you, but, Izzy,
+
+480
+00:17:22,840 --> 00:17:26,980
+I can tell you firsthand
+that these amazing weirdoes,
+
+481
+00:17:26,980 --> 00:17:29,380
+they won't bail.
+
+482
+00:17:29,380 --> 00:17:32,450
+They created a buddy system for me.
+
+483
+00:17:32,450 --> 00:17:37,590
+And if you'll stay,
+they'll keep you safe.
+
+484
+00:17:37,590 --> 00:17:39,520
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+485
+00:17:39,520 --> 00:17:40,590
+I promise.
+
+486
+00:17:40,590 --> 00:17:42,060
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+487
+00:17:42,060 --> 00:17:43,430
+<font color="#ff00ff">[ELEVATOR DINGS]</font>
+
+488
+00:17:43,430 --> 00:17:47,730
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+489
+00:17:47,730 --> 00:17:51,770
+So? Who's gonna be my buddy, then?
+
+490
+00:17:51,770 --> 00:17:53,870
+<font color="#ff00ff">[LAUGHS]</font>
+
+491
+00:17:53,870 --> 00:17:55,440
+I may have to pull some strings,
+
+492
+00:17:55,440 --> 00:17:58,010
+but I will see if I am available.
+
+493
+00:17:58,010 --> 00:18:01,480
+<font color="#ff00ff">[GIGGLES]</font>
+
+494
+00:18:01,480 --> 00:18:03,480
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+495
+00:18:03,480 --> 00:18:05,110
+Subject nine's sonic powers
+
+496
+00:18:05,120 --> 00:18:07,820
+accelerated the deterioration
+of your internal organs.
+
+497
+00:18:07,820 --> 00:18:10,500
+She merely disrupted my atrial flutter
+
+498
+00:18:10,510 --> 00:18:11,790
+and bradycardia.
+
+499
+00:18:11,790 --> 00:18:14,140
+This body is nearly drained anyway.
+
+500
+00:18:14,150 --> 00:18:17,360
+Its palliation is a waste of time.
+
+501
+00:18:17,360 --> 00:18:20,530
+I need these biometric scans
+to fully assess your ailments.
+
+502
+00:18:20,530 --> 00:18:23,600
+Then you should have
+built this to work faster.
+
+503
+00:18:23,600 --> 00:18:24,600
+<font color="#ff00ff">[HELMET CLANGS]</font>
+
+504
+00:18:24,600 --> 00:18:26,270
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+505
+00:18:26,270 --> 00:18:27,800
+I'm doing all I can.
+
+506
+00:18:27,810 --> 00:18:32,040
+Yet you achieved precisely the opposite.
+
+507
+00:18:32,040 --> 00:18:33,910
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+508
+00:18:33,910 --> 00:18:36,680
+I couldn't idly stand by
+and watch you be injured.
+
+509
+00:18:36,680 --> 00:18:38,070
+Your plan was failing.
+
+510
+00:18:38,070 --> 00:18:40,350
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+511
+00:18:40,350 --> 00:18:42,450
+Is it possible that the
+repeated transference
+
+512
+00:18:42,450 --> 00:18:44,230
+has affected your cognitive functioning?
+
+513
+00:18:44,230 --> 00:18:46,090
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+514
+00:18:46,090 --> 00:18:47,460
+<font color="#ff00ff">[SCOFFS]</font>
+
+515
+00:18:47,460 --> 00:18:52,500
+There is nothing wrong with my mind.
+
+516
+00:18:52,500 --> 00:18:59,800
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+517
+00:19:03,400 --> 00:19:05,360
+Next time I will keep a level head.
+
+518
+00:19:05,370 --> 00:19:08,090
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+519
+00:19:08,090 --> 00:19:10,380
+<font color="#ff00ff">[UPBEAT MUSIC]</font>
+
+520
+00:19:10,390 --> 00:19:12,690
+Izzy, this will help focus your powers.
+
+521
+00:19:12,690 --> 00:19:14,680
+Well, this ain't much help in a fight,
+
+522
+00:19:14,690 --> 00:19:17,420
+unless you're dueling the devil.
+
+523
+00:19:17,420 --> 00:19:19,520
+Don't think of it like a weapon.
+
+524
+00:19:19,520 --> 00:19:22,760
+Just do what you've
+always been dreaming to do.
+
+525
+00:19:22,760 --> 00:19:24,330
+Make your own sound.
+
+526
+00:19:24,350 --> 00:19:31,660
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+527
+00:19:33,490 --> 00:19:35,160
+Are you my new target, Stretch?
+
+528
+00:19:35,160 --> 00:19:37,140
+Yeah, 'cause I don't break so easy.
+
+529
+00:19:37,140 --> 00:19:39,180
+<font color="#ff00ff">[SCOFFS]</font> Please.
+
+530
+00:19:39,180 --> 00:19:40,580
+You're built like a twig.
+
+531
+00:19:40,580 --> 00:19:42,010
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+532
+00:19:42,010 --> 00:19:44,910
+<font color="#ff00ff">[DRAMATIC MUSIC]</font>
+
+533
+00:19:44,920 --> 00:19:52,190
+<font color="#ffff00">♪ </font><font color="#ffff00">♪</font>
+
+534
+00:19:52,990 --> 00:19:55,890
+<font color="#ff00ff">[WHOOSHING]</font>
+
+535
+00:19:55,890 --> 00:19:59,130
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+536
+00:19:59,130 --> 00:20:01,230
+<font color="#ff00ff">[WHOOSHING]</font>
+
+537
+00:20:01,280 --> 00:20:08,480
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+538
+00:20:16,050 --> 00:20:17,610
+DA Cecille Horton.
+
+539
+00:20:17,620 --> 00:20:18,950
+You look tired.
+
+540
+00:20:18,950 --> 00:20:21,380
+Yeah, that's 'cause I am tired.
+
+541
+00:20:21,390 --> 00:20:23,250
+This thing, it doesn't work.
+
+542
+00:20:23,250 --> 00:20:25,190
+It works because I built it.
+
+543
+00:20:25,190 --> 00:20:26,990
+And this thing, as you
+so ineloquently put it,
+
+544
+00:20:26,990 --> 00:20:29,360
+happens to be a mental activity dampener
+
+545
+00:20:29,370 --> 00:20:31,890
+that is ten pounds of cerebellum proof
+
+546
+00:20:31,900 --> 00:20:33,230
+anti-telepathy somani steel.
+
+547
+00:20:33,230 --> 00:20:35,400
+Thank you very much.
+
+548
+00:20:35,400 --> 00:20:36,770
+Yeah, that's the problem.
+
+549
+00:20:36,770 --> 00:20:40,400
+It is... It's ten pounds of that stuff.
+
+550
+00:20:40,400 --> 00:20:41,400
+So?
+
+551
+00:20:41,410 --> 00:20:42,400
+Oh, gee... Okay.
+
+552
+00:20:42,410 --> 00:20:45,740
+<font color="#ff00ff">[CLANGING]</font>
+
+553
+00:20:45,740 --> 00:20:47,240
+<font color="#ff00ff">[GRUNTS]</font>
+
+554
+00:20:47,250 --> 00:20:48,310
+<font color="#ff00ff">[SIGHS]</font>
+
+555
+00:20:48,310 --> 00:20:49,910
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+556
+00:20:49,910 --> 00:20:51,280
+And?
+
+557
+00:20:51,280 --> 00:20:54,710
+I can't sleep like this, Harry.
+
+558
+00:20:54,710 --> 00:20:57,290
+Does this look comfortable to you?
+
+559
+00:20:57,290 --> 00:20:59,120
+I guess I was... While I was pulling
+
+560
+00:20:59,120 --> 00:21:00,860
+state of the art
+technology out of my ass
+
+561
+00:21:00,860 --> 00:21:02,390
+to help you with your problem,
+
+562
+00:21:02,390 --> 00:21:05,030
+I forgot to make things
+comfortable for you.
+
+563
+00:21:05,030 --> 00:21:06,210
+Are you kidding me with comfortable?
+
+564
+00:21:06,210 --> 00:21:07,260
+You know what else I forgot?
+
+565
+00:21:07,260 --> 00:21:08,780
+I guess I also forgot
+while I was coming up
+
+566
+00:21:08,780 --> 00:21:10,050
+with a generational breakthrough...
+
+567
+00:21:10,050 --> 00:21:11,970
+And vibrational brainwave theory,
+
+568
+00:21:11,980 --> 00:21:13,970
+that I was working for
+the Princess and the Pea.
+
+569
+00:21:13,970 --> 00:21:16,210
+Stop it! Stop!
+
+570
+00:21:16,210 --> 00:21:17,300
+Put it down.
+
+571
+00:21:17,300 --> 00:21:18,670
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+572
+00:21:18,680 --> 00:21:20,780
+Harry?
+
+573
+00:21:20,780 --> 00:21:21,810
+Put it down.
+
+574
+00:21:21,810 --> 00:21:24,710
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+575
+00:21:24,720 --> 00:21:26,920
+Oh, okay. Just...
+
+576
+00:21:26,920 --> 00:21:28,520
+<font color="#ff00ff">[THUDS]</font>
+
+577
+00:21:28,520 --> 00:21:30,450
+What the hell is wrong with you?
+
+578
+00:21:30,450 --> 00:21:31,590
+I'm frustrated.
+
+579
+00:21:31,590 --> 00:21:34,230
+- You're frustrated?
+- Yes.
+
+580
+00:21:34,230 --> 00:21:38,260
+You start yelling at
+me and throwing things?
+
+581
+00:21:38,260 --> 00:21:40,400
+It is like every awful
+thought that you have,
+
+582
+00:21:40,400 --> 00:21:43,570
+it just comes pouring out of
+your mouth totally unfiltered.
+
+583
+00:21:43,570 --> 00:21:44,900
+I don't even under... <font color="#ff00ff">[GASPS]</font>
+
+584
+00:21:44,900 --> 00:21:46,140
+<font color="#ff00ff">[WHIRRING]</font>
+
+585
+00:21:46,140 --> 00:21:49,410
+Is this normal behavior for you?
+
+586
+00:21:49,410 --> 00:21:50,940
+Sometimes behavior.
+
+587
+00:21:50,940 --> 00:21:53,680
+Okay. If I wanna hear a grown man
+
+588
+00:21:53,680 --> 00:21:55,230
+scream like a child,
+
+589
+00:21:55,230 --> 00:21:56,920
+I will go home and listen
+to Joe's stress dreams
+
+590
+00:21:56,920 --> 00:21:58,810
+about showing up naked to math class.
+
+591
+00:21:58,810 --> 00:21:59,870
+- Eww.
+- Just...
+
+592
+00:21:59,880 --> 00:22:01,280
+Take your thing, Harry.
+
+593
+00:22:01,280 --> 00:22:02,480
+<font color="#ff00ff">[SCOFFS]</font>
+
+594
+00:22:02,480 --> 00:22:04,140
+- See you later.
+- It's heavy.
+
+595
+00:22:04,140 --> 00:22:07,160
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+596
+00:22:07,160 --> 00:22:09,190
+<font color="#ff00ff">[SCREECHING]</font>
+
+597
+00:22:09,190 --> 00:22:10,220
+<font color="#ff00ff">[SIGHS]</font>
+
+598
+00:22:10,220 --> 00:22:11,590
+<i><font color="#ff00ff">[DRAMATIC MUSIC]</font></i>
+
+599
+00:22:11,600 --> 00:22:14,010
+You missed. Again.
+
+600
+00:22:14,020 --> 00:22:15,860
+Well, what do you expect, Ralph?
+
+601
+00:22:15,870 --> 00:22:18,300
+I've been doing this all day.
+
+602
+00:22:18,300 --> 00:22:19,470
+I need a water break.
+
+603
+00:22:19,470 --> 00:22:24,010
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+604
+00:22:24,010 --> 00:22:25,330
+Maybe we should call it a night.
+
+605
+00:22:25,330 --> 00:22:26,350
+Not yet.
+
+606
+00:22:26,360 --> 00:22:28,180
+She's barely landed
+another shot on Ralph.
+
+607
+00:22:28,180 --> 00:22:29,710
+She needs more time, Bare.
+
+608
+00:22:29,710 --> 00:22:31,750
+She held her own against DeVoe.
+
+609
+00:22:31,750 --> 00:22:33,350
+Totally on raw instinct.
+
+610
+00:22:33,350 --> 00:22:35,050
+Beginner's luck?
+
+611
+00:22:35,050 --> 00:22:37,150
+I mean, it took months to train Ralph.
+
+612
+00:22:37,150 --> 00:22:38,750
+We don't have months.
+
+613
+00:22:38,760 --> 00:22:42,460
+Look, this is our chance
+to get ahead for once.
+
+614
+00:22:42,470 --> 00:22:44,270
+If DeVoe shows up again...
+
+615
+00:22:44,270 --> 00:22:45,890
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+616
+00:22:45,900 --> 00:22:46,980
+We have to be ready.
+
+617
+00:22:46,980 --> 00:22:49,130
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+618
+00:22:49,130 --> 00:22:51,200
+All right, Ralph, I'm taking over.
+
+619
+00:22:51,200 --> 00:22:53,040
+Uh, thanks, Bare, but we kinda got this
+
+620
+00:22:53,040 --> 00:22:56,770
+- covered over here and...
+- Gotta push her, Ralph.
+
+621
+00:22:56,770 --> 00:22:59,070
+All right, Izzy, I
+wanna see if you can hit
+
+622
+00:22:59,080 --> 00:23:00,540
+a moving target.
+
+623
+00:23:00,540 --> 00:23:02,610
+- Okay.
+- You ready?
+
+624
+00:23:02,610 --> 00:23:07,880
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+625
+00:23:07,890 --> 00:23:09,320
+<font color="#ff00ff">[CLANGING AND SHATTERING]</font>
+
+626
+00:23:09,320 --> 00:23:11,490
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+627
+00:23:11,490 --> 00:23:12,920
+Nice.
+
+628
+00:23:12,920 --> 00:23:14,360
+Take it up a few notches.
+
+629
+00:23:14,360 --> 00:23:18,230
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+630
+00:23:18,230 --> 00:23:19,340
+<font color="#ff00ff">[THUNDERING]</font>
+
+631
+00:23:19,340 --> 00:23:22,130
+<font color="#ff00ff">[SHATTERING]</font>
+
+632
+00:23:22,130 --> 00:23:26,170
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+633
+00:23:26,170 --> 00:23:27,870
+Ow!
+
+634
+00:23:27,870 --> 00:23:29,440
+Barry!
+
+635
+00:23:29,440 --> 00:23:30,470
+Whoa!
+
+636
+00:23:30,470 --> 00:23:32,340
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+637
+00:23:32,340 --> 00:23:33,840
+Mmm!
+
+638
+00:23:33,840 --> 00:23:35,410
+Oh!
+
+639
+00:23:42,120 --> 00:23:45,020
+<i><font color="#ff00ff">[RAMATIC MUSIC]</font></i>
+
+640
+00:23:45,020 --> 00:23:48,960
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+641
+00:23:48,970 --> 00:23:50,600
+How's Izzy?
+
+642
+00:23:50,600 --> 00:23:52,100
+She just needs a couple stitches,
+
+643
+00:23:52,100 --> 00:23:53,700
+but she'll be okay.
+
+644
+00:23:53,700 --> 00:23:55,300
+Ralph won't leave her side.
+
+645
+00:23:55,300 --> 00:23:56,840
+I think he might really like her.
+
+646
+00:23:56,840 --> 00:23:58,640
+Ralph shouldn't be bothering her at all.
+
+647
+00:23:58,640 --> 00:24:01,640
+I mean, she needs to stay focused.
+
+648
+00:24:01,640 --> 00:24:04,020
+Izzy might be scrappy, but, you know,
+
+649
+00:24:04,020 --> 00:24:05,940
+it's her first day training
+with powers she's had
+
+650
+00:24:05,940 --> 00:24:06,970
+for a little while.
+
+651
+00:24:06,970 --> 00:24:08,010
+I know.
+
+652
+00:24:08,020 --> 00:24:09,950
+Barry, don't you think you're
+being a little hard on her?
+
+653
+00:24:09,950 --> 00:24:12,120
+No, I'm trying to teach
+her how to protect herself.
+
+654
+00:24:12,120 --> 00:24:13,920
+No, it seems like
+you're trying to turn her
+
+655
+00:24:13,920 --> 00:24:14,900
+into a hero.
+
+656
+00:24:14,900 --> 00:24:17,000
+And that path just isn't
+meant for everyone, Barry.
+
+657
+00:24:17,000 --> 00:24:19,560
+I mean, Izzy's just trying to survive.
+
+658
+00:24:19,560 --> 00:24:21,600
+Well, she's not going
+to if I don't push her.
+
+659
+00:24:21,600 --> 00:24:24,370
+You think this is the
+only way to fight DeVoe?
+
+660
+00:24:24,370 --> 00:24:26,830
+It's not just about that.
+
+661
+00:24:26,840 --> 00:24:29,640
+Iris, you weren't at Iron Heights.
+
+662
+00:24:29,640 --> 00:24:32,770
+I saw up close what DeVoe did to Becky.
+
+663
+00:24:32,770 --> 00:24:34,970
+To all of them. They...
+
+664
+00:24:34,980 --> 00:24:36,440
+And I... I couldn't do anything
+
+665
+00:24:36,450 --> 00:24:39,850
+except just stand and watch it happen.
+
+666
+00:24:39,850 --> 00:24:41,480
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+667
+00:24:41,480 --> 00:24:43,480
+DeVoe is ruthless.
+
+668
+00:24:43,490 --> 00:24:47,890
+He's not gonna stop until he's
+taken her powers and her life.
+
+669
+00:24:47,890 --> 00:24:50,420
+He's not gonna go easy
+on her, so neither can I.
+
+670
+00:24:50,430 --> 00:24:55,660
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+671
+00:24:55,670 --> 00:24:58,270
+I am so sorry that you
+had to experience that.
+
+672
+00:24:58,270 --> 00:25:01,300
+But Barry, we can't
+be ruthless like DeVoe.
+
+673
+00:25:01,300 --> 00:25:06,340
+He's willing to sacrifice
+anyone and anything.
+
+674
+00:25:06,340 --> 00:25:08,960
+Just remember that the next
+time you're pushing too hard,
+
+675
+00:25:08,970 --> 00:25:10,710
+okay?
+
+676
+00:25:10,710 --> 00:25:13,650
+You of all people know that
+heroes aren't made overnight.
+
+677
+00:25:13,650 --> 00:25:19,990
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+678
+00:25:19,990 --> 00:25:22,290
+<font color="#ff00ff">[KNOCKING AT DOOR]</font>
+
+679
+00:25:22,290 --> 00:25:23,590
+Joe's not here.
+
+680
+00:25:23,590 --> 00:25:25,190
+Well, I don't wanna talk to Joe.
+
+681
+00:25:25,190 --> 00:25:27,700
+I kind of figured after
+our last conversation
+
+682
+00:25:27,700 --> 00:25:29,680
+you would never wanna speak to me again.
+
+683
+00:25:29,690 --> 00:25:31,940
+<font color="#ff00ff">[RUMBLING]</font>
+
+684
+00:25:31,950 --> 00:25:34,090
+You do know I can hear
+your thoughts, right?
+
+685
+00:25:34,090 --> 00:25:35,440
+Right.
+
+686
+00:25:35,440 --> 00:25:37,600
+No, Harry, I'm not
+gonna yell at you again.
+
+687
+00:25:37,610 --> 00:25:40,040
+- Just...
+- All right, good.
+
+688
+00:25:40,040 --> 00:25:42,210
+Here.
+
+689
+00:25:42,210 --> 00:25:45,780
+- That's the...
+- Mental activity dampener.
+
+690
+00:25:45,780 --> 00:25:46,910
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+691
+00:25:46,920 --> 00:25:49,290
+Sorry version 2.0.
+
+692
+00:25:49,290 --> 00:25:51,160
+Just adhere it to
+your supraobital ridge.
+
+693
+00:25:51,160 --> 00:25:52,370
+You'll block West out.
+
+694
+00:25:52,370 --> 00:25:53,890
+Look, I'm sorry about...
+
+695
+00:25:53,890 --> 00:25:55,620
+<font color="#ff00ff">[MIMICS ANIMAL NOISES]</font>
+
+696
+00:25:55,620 --> 00:25:57,890
+You know, I just recently
+can't seem to stop DeVoe,
+
+697
+00:25:57,890 --> 00:25:59,790
+can't stop my daughter
+Jessie from hating me,
+
+698
+00:25:59,800 --> 00:26:01,850
+can't seem to stop blowing
+it when I'm trying to befriend
+
+699
+00:26:01,850 --> 00:26:03,120
+someone who's my own age.
+
+700
+00:26:03,120 --> 00:26:04,330
+Did you just say befriend?
+
+701
+00:26:04,330 --> 00:26:05,630
+That's what you've been trying to do?
+
+702
+00:26:05,630 --> 00:26:07,500
+You've been trying to befriend me?
+
+703
+00:26:07,500 --> 00:26:09,970
+Well, yes, through transitive property.
+
+704
+00:26:09,970 --> 00:26:12,560
+I respect West, West respects you, so...
+
+705
+00:26:12,560 --> 00:26:15,240
+Harry, that was borderline sweet.
+
+706
+00:26:15,240 --> 00:26:16,440
+Thank you.
+
+707
+00:26:16,450 --> 00:26:18,550
+Okay, well, let's talk.
+
+708
+00:26:18,550 --> 00:26:20,280
+When?
+
+709
+00:26:20,280 --> 00:26:21,960
+- Now.
+- Okay.
+
+710
+00:26:21,960 --> 00:26:23,450
+Okay.
+
+711
+00:26:23,450 --> 00:26:25,130
+- I'm not much...
+- Come on, Harry.
+
+712
+00:26:25,130 --> 00:26:26,920
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+713
+00:26:26,920 --> 00:26:27,960
+Okay.
+
+714
+00:26:27,960 --> 00:26:29,820
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+715
+00:26:29,830 --> 00:26:31,210
+What do you wanna talk about?
+
+716
+00:26:31,210 --> 00:26:32,590
+Oh, okay. I'll start.
+
+717
+00:26:32,600 --> 00:26:34,890
+Um, you wanna tell me
+how this thing works?
+
+718
+00:26:34,900 --> 00:26:38,160
+Like, does it... does it keep
+Joe's brainwaves blocked out?
+
+719
+00:26:38,170 --> 00:26:40,330
+Does it keep my mind
+reading waves locked in?
+
+720
+00:26:40,330 --> 00:26:42,800
+It mostly disrupts
+inbound brain activity,
+
+721
+00:26:42,800 --> 00:26:48,540
+but I suppose actually if you
+were to reverse the polarity...
+
+722
+00:26:48,540 --> 00:26:49,820
+<font color="#ff00ff">[WHIRRING]</font>
+
+723
+00:26:49,820 --> 00:26:53,050
+Wow, that is interesting.
+
+724
+00:26:53,050 --> 00:26:55,110
+- Also.
+- Yes.
+
+725
+00:26:55,120 --> 00:26:56,290
+Harry, you have to do that.
+
+726
+00:26:56,290 --> 00:26:58,250
+- Right.
+- Right now.
+
+727
+00:26:58,250 --> 00:26:59,820
+- Okay, good chat.
+- Yeah.
+
+728
+00:26:59,820 --> 00:27:01,420
+Okay.
+
+729
+00:27:01,420 --> 00:27:03,960
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+730
+00:27:03,960 --> 00:27:05,620
+Should be good to go.
+
+731
+00:27:05,630 --> 00:27:07,830
+Might be a little scar, though.
+
+732
+00:27:07,830 --> 00:27:09,860
+Wouldn't be my first, doc.
+
+733
+00:27:09,860 --> 00:27:11,460
+Probably won't be my last.
+
+734
+00:27:11,470 --> 00:27:13,400
+It will be, if I have
+anything to do with it.
+
+735
+00:27:13,400 --> 00:27:15,430
+Why would you have
+anything to do with it?
+
+736
+00:27:16,470 --> 00:27:19,170
+I'm gonna go.
+
+737
+00:27:24,350 --> 00:27:25,910
+Wh... What are you doing?
+
+738
+00:27:25,910 --> 00:27:27,950
+The way I see it, I've
+gotten more hurt here
+
+739
+00:27:27,950 --> 00:27:29,580
+than I ever did fighting DeVoe,
+
+740
+00:27:29,580 --> 00:27:32,220
+so I'm not going to spend
+another second training.
+
+741
+00:27:32,220 --> 00:27:36,120
+Okay, that is a really bad idea.
+
+742
+00:27:36,120 --> 00:27:37,920
+I've already hurt DeVoe.
+
+743
+00:27:37,930 --> 00:27:40,330
+By myself, without y'all.
+
+744
+00:27:40,330 --> 00:27:42,090
+I can do it again.
+
+745
+00:27:42,100 --> 00:27:45,060
+Izzy, the only way for
+you to stay safe is for you
+
+746
+00:27:45,070 --> 00:27:46,960
+to stay with us.
+
+747
+00:27:46,960 --> 00:27:49,170
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+748
+00:27:49,170 --> 00:27:50,840
+It's the buddy system, right?
+
+749
+00:27:50,840 --> 00:27:53,710
+You're not my buddy, Ralph.
+
+750
+00:27:53,710 --> 00:27:56,380
+Hey, hey, hey, hey!
+
+751
+00:27:56,380 --> 00:27:58,440
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+752
+00:27:58,450 --> 00:27:59,560
+Don't do this.
+
+753
+00:27:59,560 --> 00:28:02,280
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+754
+00:28:02,280 --> 00:28:04,450
+<font color="#ff00ff">[SCREECHING]</font>
+
+755
+00:28:04,450 --> 00:28:07,350
+<i><font color="#ff00ff">[DRAMATIC MUSIC]</font></i>
+
+756
+00:28:07,360 --> 00:28:10,570
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+757
+00:28:10,570 --> 00:28:12,560
+Sorry, Ralphie.
+
+758
+00:28:12,560 --> 00:28:14,330
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+759
+00:28:14,330 --> 00:28:17,630
+Initially I envisioned the
+mental activity dampener
+
+760
+00:28:17,630 --> 00:28:20,630
+as just disrupting inbound
+brainwave broadcasts,
+
+761
+00:28:20,630 --> 00:28:22,430
+but I talked to DA Cecille Horton
+
+762
+00:28:22,440 --> 00:28:25,020
+and we had the idea to invert
+the polarity allowing this
+
+763
+00:28:25,020 --> 00:28:28,190
+to disrupt outbound
+brainwave broadcasts as well.
+
+764
+00:28:28,190 --> 00:28:29,390
+- So we...
+- We could use this
+
+765
+00:28:29,390 --> 00:28:30,460
+against DeVoe.
+
+766
+00:28:30,460 --> 00:28:32,030
+We could use this against DeVoe.
+
+767
+00:28:32,030 --> 00:28:33,710
+That's brilliant.
+
+768
+00:28:33,710 --> 00:28:35,410
+I'm totally on board.
+
+769
+00:28:35,420 --> 00:28:37,720
+Except... mental activity dampener?
+
+770
+00:28:37,720 --> 00:28:38,980
+Ramon, the name's no good.
+
+771
+00:28:38,990 --> 00:28:40,950
+Which is why... Drum roll, please...
+
+772
+00:28:40,960 --> 00:28:46,090
+I have decided to rename
+this the cerebral inhibitor.
+
+773
+00:28:46,090 --> 00:28:49,060
+This is where we came up
+with the cerebral inhibitor
+
+774
+00:28:49,060 --> 00:28:50,600
+to use against DeVoe.
+
+775
+00:28:50,600 --> 00:28:52,030
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+776
+00:28:52,030 --> 00:28:53,530
+What's that? What are you guys doing?
+
+777
+00:28:53,530 --> 00:28:55,670
+What are... What are those faces?
+
+778
+00:28:55,670 --> 00:28:57,440
+When Savitar came to S.T.A.R. Labs,
+
+779
+00:28:57,440 --> 00:29:00,340
+he said we would build a
+device to use against DeVoe.
+
+780
+00:29:00,340 --> 00:29:01,870
+The cerebral inhibitor.
+
+781
+00:29:01,880 --> 00:29:03,740
+I wish I had known that
+before I spent all this time
+
+782
+00:29:03,740 --> 00:29:05,010
+trying to come up with the second name.
+
+783
+00:29:05,010 --> 00:29:06,250
+Naming is hard.
+
+784
+00:29:06,250 --> 00:29:07,910
+Okay, so we can use this on DeVoe
+
+785
+00:29:07,920 --> 00:29:09,820
+to keep him from
+projecting his consciousness
+
+786
+00:29:09,820 --> 00:29:11,380
+- into new bodies.
+- Precisely.
+
+787
+00:29:11,380 --> 00:29:12,520
+How does it work?
+
+788
+00:29:12,520 --> 00:29:13,960
+Just affix it to his forehead.
+
+789
+00:29:13,970 --> 00:29:15,410
+It activates. Simple as that.
+
+790
+00:29:15,410 --> 00:29:17,210
+I'll make a few adjustments,
+you'll be good to go.
+
+791
+00:29:17,210 --> 00:29:18,080
+All right.
+
+792
+00:29:18,080 --> 00:29:20,090
+Okay, when Harry's
+done, we go after DeVoe.
+
+793
+00:29:20,090 --> 00:29:23,010
+I mean, we have Izzy's powers,
+the cerebral inhibitor...
+
+794
+00:29:23,020 --> 00:29:24,900
+I mean, we have everything
+that we need to stop him.
+
+795
+00:29:24,900 --> 00:29:26,600
+Except that we don't.
+
+796
+00:29:26,600 --> 00:29:27,930
+Izzy's gone.
+
+797
+00:29:27,940 --> 00:29:29,280
+What? What happened?
+
+798
+00:29:29,280 --> 00:29:30,250
+What did you say to her?
+
+799
+00:29:30,250 --> 00:29:31,510
+- Me?
+- Yeah.
+
+800
+00:29:31,510 --> 00:29:34,110
+Rookie, Homeslice hit
+the road because of you.
+
+801
+00:29:34,110 --> 00:29:36,380
+She's convinced she can
+take on DeVoe by herself.
+
+802
+00:29:36,380 --> 00:29:38,110
+That's what she's gone to do.
+
+803
+00:29:38,110 --> 00:29:39,850
+You kept pushing and pushing her.
+
+804
+00:29:39,850 --> 00:29:41,450
+Pushed her right out the door, man.
+
+805
+00:29:41,450 --> 00:29:42,410
+Okay, that's not fair.
+
+806
+00:29:42,420 --> 00:29:43,580
+No, it's all right.
+
+807
+00:29:43,580 --> 00:29:45,020
+I did, I pushed her too hard.
+
+808
+00:29:45,020 --> 00:29:46,290
+It's my fault that she's out there.
+
+809
+00:29:46,290 --> 00:29:48,000
+But if DeVoe gets to her before we do...
+
+810
+00:29:48,000 --> 00:29:51,420
+That cannot happen.
+
+811
+00:29:51,430 --> 00:29:54,230
+Cisco, you need to use your
+ESPN and find out where she is.
+
+812
+00:29:54,230 --> 00:29:55,290
+Give me that thing.
+
+813
+00:29:55,300 --> 00:29:57,430
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+814
+00:29:57,430 --> 00:29:59,870
+<font color="#ff00ff">[RUMBLING]</font>
+
+815
+00:29:59,870 --> 00:30:01,870
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+816
+00:30:01,870 --> 00:30:03,840
+Hey, blondie!
+
+817
+00:30:03,840 --> 00:30:06,410
+You want trouble? Here I am.
+
+818
+00:30:06,410 --> 00:30:07,870
+<font color="#ff00ff">[THUNDERING]</font>
+
+819
+00:30:07,880 --> 00:30:10,140
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+820
+00:30:10,140 --> 00:30:12,740
+Well!
+
+821
+00:30:12,750 --> 00:30:16,520
+Look who finally decided
+to show her sorry face.
+
+822
+00:30:16,520 --> 00:30:19,620
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+823
+00:30:19,620 --> 00:30:23,190
+Nobody likes a peeping Tom.
+
+824
+00:30:23,190 --> 00:30:25,510
+Good-bye, Mr. Ramon.
+
+825
+00:30:25,510 --> 00:30:27,090
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+826
+00:30:27,090 --> 00:30:29,500
+<font color="#ff00ff">[RUMBLING]</font>
+
+827
+00:30:29,500 --> 00:30:31,000
+<font color="#ff00ff">[CRASHING]</font>
+
+828
+00:30:31,000 --> 00:30:32,430
+- <font color="#ff00ff">[GRUNTS]</font>
+- <font color="#ff00ff">[GASPS]</font>
+
+829
+00:30:32,430 --> 00:30:34,000
+Cisco, are you okay? Can you hear me?
+
+830
+00:30:34,000 --> 00:30:36,200
+She's at the warehouse district.
+
+831
+00:30:36,200 --> 00:30:37,580
+DeVoe's there.
+
+832
+00:30:37,580 --> 00:30:38,730
+I can't go with you guys.
+
+833
+00:30:38,730 --> 00:30:39,870
+I gotta take care of Cisco.
+
+834
+00:30:39,880 --> 00:30:40,940
+All right, Ralph, it's just me and you.
+
+835
+00:30:40,950 --> 00:30:42,110
+Come on.
+
+836
+00:30:46,700 --> 00:30:48,420
+Bravo, Ms. Bowen.
+
+837
+00:30:48,430 --> 00:30:49,770
+Of all my subjects,
+
+838
+00:30:49,770 --> 00:30:51,200
+you're the only one to mount
+
+839
+00:30:51,210 --> 00:30:53,310
+a credible defense against me.
+
+840
+00:30:53,310 --> 00:30:57,210
+Darlin', you talk too much.
+
+841
+00:30:57,210 --> 00:30:58,380
+<font color="#ff00ff">[SCREECHING]</font>
+
+842
+00:30:58,380 --> 00:30:59,580
+<font color="#ff00ff">[WHOOSHING]</font>
+
+843
+00:30:59,580 --> 00:31:03,220
+<i><font color="#ff00ff">[SUSPENSEFUL MUSIC]</font></i>
+
+844
+00:31:03,220 --> 00:31:07,290
+A modicum of bad luck
+at a time like this.
+
+845
+00:31:07,290 --> 00:31:09,790
+How unfortunate.
+
+846
+00:31:09,790 --> 00:31:11,390
+You're quite the fiddler.
+
+847
+00:31:11,390 --> 00:31:14,760
+The fiddler, Mr. Ramon might say,
+
+848
+00:31:14,760 --> 00:31:16,800
+nailed it and won.
+
+849
+00:31:16,800 --> 00:31:18,200
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+850
+00:31:18,200 --> 00:31:20,270
+<font color="#ff00ff">[THUNDERING]</font>
+
+851
+00:31:20,270 --> 00:31:23,940
+Ralph? You came after me.
+
+852
+00:31:23,940 --> 00:31:25,910
+We all did.
+
+853
+00:31:25,910 --> 00:31:28,240
+Hey, Ralph, I'll keep DeVoe busy.
+
+854
+00:31:28,240 --> 00:31:29,940
+You just get the inhibitor on.
+
+855
+00:31:29,950 --> 00:31:31,950
+Hello, Mr. Allen.
+
+856
+00:31:31,950 --> 00:31:34,480
+DeVoe, you're not getting her.
+
+857
+00:31:34,480 --> 00:31:37,380
+<font color="#ff00ff">[THUNDERING]</font>
+
+858
+00:31:37,390 --> 00:31:38,820
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+859
+00:31:38,820 --> 00:31:41,020
+<font color="#ff00ff">[HIGH PITCHED RINGING]</font>
+
+860
+00:31:41,020 --> 00:31:43,690
+<font color="#ff00ff">[SCREAMS]</font>
+
+861
+00:31:43,690 --> 00:31:46,460
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+862
+00:31:46,460 --> 00:31:47,750
+<font color="#ff00ff">[GRUNTS]</font>
+
+863
+00:31:47,760 --> 00:31:48,890
+Flash!
+
+864
+00:31:48,890 --> 00:31:50,430
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+865
+00:31:50,430 --> 00:31:52,170
+<font color="#ff00ff">[GROANING]</font>
+
+866
+00:31:52,170 --> 00:31:53,970
+Poor Dominic.
+
+867
+00:31:53,970 --> 00:31:57,700
+He didn't know he could affect
+minds as well as read them.
+
+868
+00:31:57,710 --> 00:32:01,880
+Now I've taught you what a
+brain aneurysm feels like.
+
+869
+00:32:01,880 --> 00:32:03,980
+<font color="#ff00ff">[GRUNTS]</font>
+
+870
+00:32:03,980 --> 00:32:05,150
+Get out of here.
+
+871
+00:32:05,150 --> 00:32:06,980
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+872
+00:32:06,980 --> 00:32:09,620
+<font color="#ff00ff">[GROANING]</font>
+
+873
+00:32:09,620 --> 00:32:11,020
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+874
+00:32:11,020 --> 00:32:12,150
+<font color="#ff00ff">[GRUNTS]</font>
+
+875
+00:32:12,150 --> 00:32:16,320
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+876
+00:32:16,330 --> 00:32:18,360
+Ah, crap!
+
+877
+00:32:18,360 --> 00:32:19,930
+<font color="#ff00ff">[THUNDERING]</font>
+
+878
+00:32:19,930 --> 00:32:21,430
+- <font color="#ff00ff">[CRASHING]</font>
+- <font color="#ff00ff">[GRUNTS]</font>
+
+879
+00:32:21,430 --> 00:32:23,530
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+880
+00:32:23,530 --> 00:32:25,830
+<font color="#ff00ff">[GROANS]</font>
+
+881
+00:32:25,830 --> 00:32:28,100
+Thank you, Mr. Rundine.
+
+882
+00:32:28,100 --> 00:32:29,560
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+883
+00:32:29,570 --> 00:32:30,600
+<font color="#ff00ff">[LAUGHS]</font>
+
+884
+00:32:30,610 --> 00:32:32,340
+<font color="#ff00ff">[WHIRRING]</font>
+
+885
+00:32:32,340 --> 00:32:34,570
+That'll teach you to
+mess with a country girl.
+
+886
+00:32:34,580 --> 00:32:36,480
+<font color="#ff00ff">[BEEPING]</font>
+
+887
+00:32:36,480 --> 00:32:38,010
+Cerebral inhibitor's attached.
+
+888
+00:32:38,010 --> 00:32:39,380
+Is it working?
+
+889
+00:32:39,380 --> 00:32:40,380
+Oh, it's working.
+
+890
+00:32:40,380 --> 00:32:45,390
+How did Mr. Deacon put it?
+
+891
+00:32:45,390 --> 00:32:48,050
+Ah, yes.
+
+892
+00:32:48,060 --> 00:32:50,690
+Call me Killgore.
+
+893
+00:32:50,690 --> 00:32:53,730
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+894
+00:32:53,730 --> 00:32:55,360
+<font color="#ff00ff">[BEEPING]</font>
+
+895
+00:32:55,360 --> 00:32:56,500
+The hell?
+
+896
+00:32:56,500 --> 00:32:57,900
+Did she hack the inhibitor?
+
+897
+00:32:57,900 --> 00:32:59,070
+No, no, no, that's impossible.
+
+898
+00:32:59,070 --> 00:33:00,500
+There's a kill switch microchip
+
+899
+00:33:00,500 --> 00:33:02,170
+that prevents the patch from networking.
+
+900
+00:33:02,170 --> 00:33:06,970
+I can hear your radio signal, Mr. Wells.
+
+901
+00:33:06,980 --> 00:33:10,880
+You told me once I wasn't
+as smart as I thought.
+
+902
+00:33:10,880 --> 00:33:13,550
+<i>Wrong again.</i>
+
+903
+00:33:13,550 --> 00:33:14,850
+<font color="#ff00ff">[GRUNTS]</font>
+
+904
+00:33:14,850 --> 00:33:17,020
+<font color="#ff00ff">[GROANING]</font>
+
+905
+00:33:17,020 --> 00:33:18,450
+<font color="#ff00ff">[HEAVY BREATHING]</font>
+
+906
+00:33:18,450 --> 00:33:19,750
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+907
+00:33:19,760 --> 00:33:20,840
+Izzy!
+
+908
+00:33:20,840 --> 00:33:22,760
+<font color="#ff00ff">[GRUNTING]</font>
+
+909
+00:33:22,760 --> 00:33:23,790
+<font color="#ff00ff">[THUNDERING]</font>
+
+910
+00:33:23,790 --> 00:33:25,790
+<font color="#ff00ff">[GRUNTS]</font> Oh!
+
+911
+00:33:25,790 --> 00:33:26,960
+<font color="#ff00ff">[ELECTRIC SHOCKS]</font>
+
+912
+00:33:26,960 --> 00:33:29,530
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+913
+00:33:29,530 --> 00:33:31,280
+- Ralph?
+- Hey!
+
+914
+00:33:31,280 --> 00:33:32,770
+- <font color="#ff00ff">[GRUNTS]</font>
+- <font color="#ff00ff">[THUNDERING]</font>
+
+915
+00:33:32,770 --> 00:33:34,200
+Get her out of there!
+
+916
+00:33:34,200 --> 00:33:36,240
+<i>Ralph, we can't.</i>
+
+917
+00:33:36,240 --> 00:33:37,570
+Get her out!
+
+918
+00:33:37,570 --> 00:33:40,310
+<font color="#ff00ff">[BUZZING]</font>
+
+919
+00:33:40,310 --> 00:33:41,780
+We can't.
+
+920
+00:33:41,780 --> 00:33:42,940
+<font color="#ff00ff">[HEAVY BREATHING]</font>
+
+921
+00:33:42,940 --> 00:33:45,040
+<font color="#ff00ff">[WHIRRING]</font>
+
+922
+00:33:45,050 --> 00:33:49,620
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+923
+00:33:49,620 --> 00:33:51,320
+Izzy, just look at me.
+
+924
+00:33:51,320 --> 00:33:58,630
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+925
+00:34:00,900 --> 00:34:03,730
+<font color="#ff00ff">[CLINKING]</font>
+
+926
+00:34:03,730 --> 00:34:06,230
+<font color="#ff00ff">[MOANING]</font>
+
+927
+00:34:06,230 --> 00:34:07,430
+Izzy!
+
+928
+00:34:07,440 --> 00:34:08,940
+Keep looking at me!
+
+929
+00:34:08,940 --> 00:34:16,180
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+930
+00:34:17,310 --> 00:34:20,180
+<font color="#ff00ff">[MOANING]</font>
+
+931
+00:34:20,180 --> 00:34:27,490
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+932
+00:34:28,290 --> 00:34:30,690
+<font color="#ff00ff">[WHIRRING]</font>
+
+933
+00:34:30,690 --> 00:34:35,360
+<font color="#ff00ff">[LAUGHS]</font>
+
+934
+00:34:35,360 --> 00:34:37,960
+Much better.
+
+935
+00:34:37,970 --> 00:34:39,670
+<font color="#ff00ff">[SIGHS]</font>
+
+936
+00:34:39,670 --> 00:34:44,300
+Oh, please inform Mr. Ramon
+that, while I had no need
+
+937
+00:34:44,310 --> 00:34:46,510
+<i>for all six of my powers,</i>
+
+938
+00:34:46,510 --> 00:34:48,740
+<i>I now have a seventh.</i>
+
+939
+00:34:48,740 --> 00:34:52,310
+I'm afraid I'm gonna be busy
+with my wife this weekend,
+
+940
+00:34:52,310 --> 00:34:53,280
+Ralphie.
+
+941
+00:34:53,280 --> 00:34:54,680
+No.
+
+942
+00:34:54,680 --> 00:35:01,190
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+943
+00:35:01,690 --> 00:35:03,920
+<font color="#ff00ff">[BUZZING]</font>
+
+944
+00:35:03,930 --> 00:35:11,230
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+945
+00:35:23,190 --> 00:35:25,690
+<i><font color="#ff00ff">[DRAMATIC MUSIC]</font></i>
+
+946
+00:35:25,690 --> 00:35:33,250
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+947
+00:35:33,250 --> 00:35:35,220
+- How's Ralph?
+- Not great.
+
+948
+00:35:35,220 --> 00:35:37,350
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+949
+00:35:37,350 --> 00:35:38,920
+This shouldn't have happened.
+
+950
+00:35:38,920 --> 00:35:40,970
+DeVoe wasn't supposed
+to walk away from this.
+
+951
+00:35:40,970 --> 00:35:42,420
+Yeah, well, he did.
+
+952
+00:35:42,430 --> 00:35:44,830
+- Because of me.
+- We all tried to protect her.
+
+953
+00:35:44,830 --> 00:35:46,290
+I built the inhibitor, Snow.
+
+954
+00:35:46,300 --> 00:35:47,360
+If it failed, it's my fault.
+
+955
+00:35:47,360 --> 00:35:48,350
+And I don't even know why.
+
+956
+00:35:48,350 --> 00:35:50,330
+Maybe I overestimated
+the micro-combustion
+
+957
+00:35:50,330 --> 00:35:52,330
+infrastructure, or
+maybe I underestimated
+
+958
+00:35:52,340 --> 00:35:54,840
+the amount of time between
+each synapse router, or...
+
+959
+00:35:54,840 --> 00:35:56,600
+Maybe it didn't malfunction at all.
+
+960
+00:35:56,600 --> 00:35:58,840
+Guys, Savitar said that we would use
+
+961
+00:35:58,840 --> 00:36:00,710
+the cerebral inhibitor against DeVoe.
+
+962
+00:36:00,710 --> 00:36:02,210
+Yeah, he didn't say it was gonna work.
+
+963
+00:36:02,210 --> 00:36:03,380
+Yeah, well, it didn't work.
+
+964
+00:36:03,380 --> 00:36:04,610
+'Cause...
+
+965
+00:36:04,610 --> 00:36:06,210
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+966
+00:36:06,220 --> 00:36:07,910
+I'm not smart enough to make it work.
+
+967
+00:36:07,910 --> 00:36:09,080
+Harry!
+
+968
+00:36:09,090 --> 00:36:11,820
+- Where are you going?
+- Out.
+
+969
+00:36:11,820 --> 00:36:13,960
+- Guys, we have to find DeVoe again.
+- How?
+
+970
+00:36:13,960 --> 00:36:15,680
+Cisco tracked down
+DeVoe in his Vibe state,
+
+971
+00:36:15,680 --> 00:36:16,830
+and he almost got himself killed.
+
+972
+00:36:16,830 --> 00:36:18,590
+Actually...
+
+973
+00:36:18,600 --> 00:36:21,030
+We might have a different
+way of pinpointing him.
+
+974
+00:36:21,030 --> 00:36:23,800
+Check this out.
+
+975
+00:36:23,800 --> 00:36:27,740
+Space. The final frontier.
+
+976
+00:36:27,740 --> 00:36:29,170
+Now you see it...
+
+977
+00:36:29,170 --> 00:36:30,740
+<font color="#ff00ff">[BEEPING]</font>
+
+978
+00:36:30,740 --> 00:36:31,970
+Now you don't.
+
+979
+00:36:31,970 --> 00:36:33,180
+That's exactly what it looks like
+
+980
+00:36:33,190 --> 00:36:34,710
+when DeVoe disappears.
+
+981
+00:36:34,710 --> 00:36:37,980
+That is the warping
+signature of someone moving
+
+982
+00:36:37,980 --> 00:36:41,120
+into a pocket dimension.
+
+983
+00:36:41,120 --> 00:36:43,280
+Does someone wanna
+explain what that means?
+
+984
+00:36:43,290 --> 00:36:45,650
+Einstein postulated that it
+was theoretically possible
+
+985
+00:36:45,660 --> 00:36:49,580
+for a region-specific fold
+in the space time to exist
+
+986
+00:36:49,590 --> 00:36:52,400
+between the four dimensions
+that we typically think of.
+
+987
+00:36:52,400 --> 00:36:53,560
+Yeah, that doesn't help.
+
+988
+00:36:53,560 --> 00:36:54,760
+- It's...
+- <font color="#ff00ff">[GROANS]</font>
+
+989
+00:36:54,760 --> 00:36:56,600
+It's another dimension.
+
+990
+00:36:56,600 --> 00:37:00,860
+One that you can enter or exit
+at any location in the world.
+
+991
+00:37:00,860 --> 00:37:02,670
+Like how DeVoe captured me in that alley
+
+992
+00:37:02,670 --> 00:37:05,370
+but then he brought me back
+out to somewhere above the city.
+
+993
+00:37:05,380 --> 00:37:08,080
+Are you saying that DeVoe's
+lair is in a pocket dimension?
+
+994
+00:37:08,080 --> 00:37:09,200
+Cisco, this is great.
+
+995
+00:37:09,200 --> 00:37:10,410
+Can we track him?
+
+996
+00:37:10,410 --> 00:37:12,450
+That I'm, uh, still working on.
+
+997
+00:37:12,450 --> 00:37:13,640
+Okay, work faster.
+
+998
+00:37:13,640 --> 00:37:16,680
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+999
+00:37:16,690 --> 00:37:19,270
+Just do your best, all
+right? Let's find him.
+
+1000
+00:37:19,280 --> 00:37:21,090
+- All right.
+- I'm gonna go check on Ralph.
+
+1001
+00:37:21,090 --> 00:37:22,160
+All right.
+
+1002
+00:37:22,160 --> 00:37:23,420
+<font color="#ffff00">♪ </font><font color="#ffff00">♪</font>
+
+1003
+00:37:23,430 --> 00:37:25,060
+<font color="#ff00ff">[SIGHS]</font>
+
+1004
+00:37:25,060 --> 00:37:27,130
+You were right.
+
+1005
+00:37:27,130 --> 00:37:31,300
+As much as I wanna get
+DeVoe, get back to our lives,
+
+1006
+00:37:31,300 --> 00:37:33,170
+I can't rush this.
+
+1007
+00:37:33,170 --> 00:37:35,140
+It's gonna be a little
+hard for a speedster.
+
+1008
+00:37:35,140 --> 00:37:37,870
+Especially an unemployed speedster.
+
+1009
+00:37:37,870 --> 00:37:39,970
+Don't worry. You're
+gonna find something.
+
+1010
+00:37:39,980 --> 00:37:41,940
+And until then?
+
+1011
+00:37:41,950 --> 00:37:44,000
+You can start by kissing your wife.
+
+1012
+00:37:44,000 --> 00:37:48,850
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+1013
+00:37:48,850 --> 00:37:50,790
+<font color="#ff00ff">[UPBEAT POP MUSIC PLAYS]</font>
+
+1014
+00:37:50,790 --> 00:37:52,150
+Someone looks busy.
+
+1015
+00:37:52,160 --> 00:37:54,290
+Yep, just a little bit of work.
+
+1016
+00:37:54,290 --> 00:37:55,360
+Why don't you have a... <font color="#ff00ff">[CLEARS THROAT]</font>
+
+1017
+00:37:55,360 --> 00:37:56,930
+Okay.
+
+1018
+00:37:56,930 --> 00:37:58,430
+- Harry.
+- Yes?
+
+1019
+00:37:58,430 --> 00:37:59,990
+- I wanted to say thank you.
+- For what?
+
+1020
+00:38:00,000 --> 00:38:02,830
+The MAD 2.0. It works like a charm.
+
+1021
+00:38:02,830 --> 00:38:03,970
+I am rested.
+
+1022
+00:38:03,970 --> 00:38:05,030
+If you could just do something
+
+1023
+00:38:05,040 --> 00:38:06,670
+about these swollen
+pregnant ankles of mine...
+
+1024
+00:38:06,670 --> 00:38:07,670
+I think that's a normal thing.
+
+1025
+00:38:07,670 --> 00:38:08,760
+Drink lots of water.
+
+1026
+00:38:08,760 --> 00:38:09,970
+Don't cross your legs when you sit.
+
+1027
+00:38:09,980 --> 00:38:10,840
+- Okay.
+- Okay.
+
+1028
+00:38:10,840 --> 00:38:12,110
+Thank you for the info.
+
+1029
+00:38:12,110 --> 00:38:13,710
+Least I could do after all the...
+
+1030
+00:38:13,710 --> 00:38:15,880
+<font color="#ff00ff">[MIMICS ANIMAL SOUNDS]</font>
+
+1031
+00:38:15,880 --> 00:38:17,710
+Rage. I have a problem with rage.
+
+1032
+00:38:17,710 --> 00:38:21,150
+Apparently it tends to crop
+up when I make mistakes.
+
+1033
+00:38:21,150 --> 00:38:22,550
+Makes it tough to be human.
+
+1034
+00:38:22,550 --> 00:38:25,050
+Well, humans are a tricky species.
+
+1035
+00:38:25,050 --> 00:38:26,350
+Anyway, I apologize.
+
+1036
+00:38:26,360 --> 00:38:28,120
+Apology accepted.
+
+1037
+00:38:28,120 --> 00:38:30,290
+You just needed somebody to talk to.
+
+1038
+00:38:30,290 --> 00:38:31,730
+Yeah, well, I...
+
+1039
+00:38:31,730 --> 00:38:33,580
+<font color="#ff00ff">[WHIRRING]</font>
+
+1040
+00:38:33,580 --> 00:38:35,460
+Are you doing that thing
+where you're reading my mind?
+
+1041
+00:38:35,470 --> 00:38:37,280
+You're reading my mind, aren't you?
+
+1042
+00:38:37,280 --> 00:38:39,870
+Maybe. Yeah, yeah, I am.
+
+1043
+00:38:39,870 --> 00:38:41,260
+You should call her, Harry.
+
+1044
+00:38:41,260 --> 00:38:43,370
+Jessie's on a different
+planet, DA Cecille Horton.
+
+1045
+00:38:43,370 --> 00:38:45,140
+But this problem isn't
+gonna just go away.
+
+1046
+00:38:45,140 --> 00:38:46,410
+What if she...
+
+1047
+00:38:46,410 --> 00:38:47,680
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+1048
+00:38:47,680 --> 00:38:48,840
+What if she doesn't come?
+
+1049
+00:38:48,850 --> 00:38:50,580
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+1050
+00:38:50,580 --> 00:38:52,480
+You're not gonna know
+unless you invite her.
+
+1051
+00:38:52,490 --> 00:38:56,180
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+1052
+00:38:56,190 --> 00:38:59,090
+<font color="#ff00ff">[CLASSICAL VIOLIN PLAYS]</font>
+
+1053
+00:38:59,090 --> 00:39:06,360
+<font color="#ffff00">♪ </font><font color="#ffff00">♪</font>
+
+1054
+00:39:08,230 --> 00:39:09,900
+- <font color="#ff00ff">[SIGHS]</font>
+- <font color="#ff00ff">[CLAPPING]</font>
+
+1055
+00:39:09,900 --> 00:39:11,700
+That was beautiful.
+
+1056
+00:39:11,700 --> 00:39:15,240
+And a welcome change from
+the derivative pabulum
+
+1057
+00:39:15,240 --> 00:39:17,470
+this body subjected us to before.
+
+1058
+00:39:17,470 --> 00:39:18,810
+<i><font color="#ff00ff">[SUSPENSEFUL MUSIC]</font></i>
+
+1059
+00:39:18,810 --> 00:39:21,110
+Our plan is back on schedule.
+
+1060
+00:39:21,110 --> 00:39:23,380
+Indeed it is.
+
+1061
+00:39:23,380 --> 00:39:25,950
+Only a few more bus
+metas left to locate.
+
+1062
+00:39:25,950 --> 00:39:33,250
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+1063
+00:39:34,560 --> 00:39:36,120
+<font color="#ff00ff">[BEEPING]</font>
+
+1064
+00:39:36,130 --> 00:39:37,760
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+1065
+00:39:40,100 --> 00:39:41,630
+<font color="#ffff00">♪ Stand on the bar stomp your feet </font><font color="#ffff00">♪</font>
+
+1066
+00:39:41,630 --> 00:39:43,660
+<font color="#ffff00">♪ Start clapping Got
+a real good feeling </font><font color="#ffff00">♪</font>
+
+1067
+00:39:43,660 --> 00:39:45,290
+<font color="#ffff00">♪ Something bad about to happen </font><font color="#ffff00">♪</font>
+
+1068
+00:39:45,300 --> 00:39:48,000
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+1069
+00:39:48,000 --> 00:39:49,800
+<font color="#ff00ff">[KNOCKING]</font>
+
+1070
+00:39:49,810 --> 00:39:51,360
+<font color="#ffff00">♪ I pulled up to the church </font><font color="#ffff00">♪</font>
+
+1071
+00:39:51,360 --> 00:39:53,040
+Hey, man.
+
+1072
+00:39:53,040 --> 00:39:54,380
+I can come back if...
+
+1073
+00:39:54,380 --> 00:39:56,440
+No, it's... it's okay.
+
+1074
+00:39:56,450 --> 00:39:58,530
+<font color="#ff00ff">[SIGHS]</font>
+
+1075
+00:39:58,530 --> 00:40:00,780
+<font color="#ff00ff">[CLEARS THROAT]</font> Look, um...
+
+1076
+00:40:00,780 --> 00:40:02,950
+I totally understand if
+you need some time away
+
+1077
+00:40:02,950 --> 00:40:03,920
+from the team.
+
+1078
+00:40:03,920 --> 00:40:05,300
+<i><font color="#ff00ff">[DRAMATIC MUSIC]</font></i>
+
+1079
+00:40:05,300 --> 00:40:11,430
+I mean, to lose someone
+right in front of you...
+
+1080
+00:40:11,430 --> 00:40:13,290
+Especially someone you care about...
+
+1081
+00:40:13,300 --> 00:40:14,430
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+1082
+00:40:14,430 --> 00:40:17,970
+Izzy was very special.
+
+1083
+00:40:17,970 --> 00:40:19,200
+She was.
+
+1084
+00:40:19,200 --> 00:40:20,770
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+1085
+00:40:20,770 --> 00:40:22,700
+But... But now...
+
+1086
+00:40:22,710 --> 00:40:24,440
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+1087
+00:40:24,440 --> 00:40:27,480
+<font color="#ff00ff">[SIGHS]</font> DeVoe's still out there.
+
+1088
+00:40:27,480 --> 00:40:30,230
+And until that threat's over...
+
+1089
+00:40:30,240 --> 00:40:32,280
+We gotta keep this buddy system going.
+
+1090
+00:40:32,280 --> 00:40:33,610
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+1091
+00:40:33,620 --> 00:40:34,980
+<font color="#ff00ff">[SIGHS]</font>
+
+1092
+00:40:34,980 --> 00:40:36,620
+I thought you might say that, Allen.
+
+1093
+00:40:36,620 --> 00:40:39,510
+Which is why I got you this.
+
+1094
+00:40:39,510 --> 00:40:43,790
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+1095
+00:40:43,790 --> 00:40:45,390
+You want me to be your partner?
+
+1096
+00:40:45,400 --> 00:40:46,890
+Oh, hey, come on.
+
+1097
+00:40:46,900 --> 00:40:49,630
+This, uh, this Turner
+don't need no Hooch.
+
+1098
+00:40:49,630 --> 00:40:51,170
+But...
+
+1099
+00:40:51,170 --> 00:40:53,800
+I do know what it's like
+to get fired from CCPD
+
+1100
+00:40:53,800 --> 00:40:55,980
+when you didn't even
+really break the law.
+
+1101
+00:40:55,980 --> 00:40:57,570
+You absolutely broke the law.
+
+1102
+00:40:57,570 --> 00:41:01,740
+And I remember after I lost my job,
+
+1103
+00:41:01,750 --> 00:41:04,810
+felt like I lost a piece of my identity.
+
+1104
+00:41:04,810 --> 00:41:07,600
+And now you won't have
+to deal with that problem.
+
+1105
+00:41:07,600 --> 00:41:09,250
+So the next time we're out in the field
+
+1106
+00:41:09,250 --> 00:41:10,750
+and somebody asks you who you work for,
+
+1107
+00:41:10,750 --> 00:41:12,720
+you won't have to get all stammery.
+
+1108
+00:41:12,720 --> 00:41:14,120
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+1109
+00:41:14,120 --> 00:41:16,120
+You like me.
+
+1110
+00:41:16,130 --> 00:41:17,590
+You really like me.
+
+1111
+00:41:17,590 --> 00:41:18,730
+<font color="#ff00ff">[CHUCKLES]</font>
+
+1112
+00:41:18,730 --> 00:41:20,160
+<font color="#ff00ff">[GROANS]</font>
+
+1113
+00:41:20,160 --> 00:41:22,800
+Don't go getting all
+soft on me now, rookie.
+
+1114
+00:41:22,800 --> 00:41:24,430
+<i><font color="#ffff00">♪ </font><font color="#ffff00">♪</i></font>
+
+1115
+00:41:24,430 --> 00:41:25,870
+You and I, we gotta stand up,
+
+1116
+00:41:25,870 --> 00:41:27,470
+and we gotta fight back.
+
+1117
+00:41:27,470 --> 00:41:29,070
+Just like Izzy would have wanted.
+
+1118
+00:41:29,070 --> 00:41:31,510
+That's right.
+
+1119
+00:41:31,510 --> 00:41:33,640
+There's three more people
+out there who need our help,
+
+1120
+00:41:33,640 --> 00:41:37,110
+and we need to find
+them before DeVoe does.
+
+1121
+00:41:37,110 --> 00:41:39,510
+And after we do that...
+
+1122
+00:41:39,520 --> 00:41:41,280
+I'm gonna take DeVoe down.
+
+1123
+00:41:41,290 --> 00:41:56,290
+<font color="#ff00ff">- Sync and corrections by VitoSilans </font><font color="#138ce9">- www.addic7ed.com -</font>
+<font color="#ffff00">Colored HI by </font><font color="#f0100f">GoldBerg_44</font>
+

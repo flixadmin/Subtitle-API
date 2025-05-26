@@ -1,0 +1,1315 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 0
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI Semibold,20,&H00FFFFFF,&HFFFFFFFF,&H28000000,&H28000000,0,0,0,0,100,100,0,0,1,0.6,0.6,2,10,10,20,1
+Style: Verdana [WHITE],Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:58.52,0:01:00.02,Default,,0,0,0,,Hurry!
+Dialogue: 0,0:02:11.03,0:02:14.97,Default,,0,0,0,,Do you not understand?\NKrypton's core is collapsing.
+Dialogue: 0,0:02:15.20,0:02:18.54,Default,,0,0,0,,We may only have a matter\Nof weeks. I warned you.
+Dialogue: 0,0:02:18.80,0:02:22.30,Default,,0,0,0,,Harvesting the core was\Nsuicide. It has accelerated...
+Dialogue: 0,0:02:22.54,0:02:25.28,Default,,0,0,0,,- the process of implosion.\N- Our energy reserves...
+Dialogue: 0,0:02:25.51,0:02:27.89,Default,,0,0,0,,were exhausted. What\Nwould you have us do, El?
+Dialogue: 0,0:02:28.14,0:02:31.56,Default,,0,0,0,,Look to the stars,\Nlike our ancestors did.
+Dialogue: 0,0:02:31.81,0:02:35.69,Default,,0,0,0,,There are habitable worlds within reach.\NWe can begin by using the old outposts.
+Dialogue: 0,0:02:35.95,0:02:39.66,Default,,0,0,0,,Are you seriously suggesting\Nthat we evacuate the entire planet?
+Dialogue: 0,0:02:39.89,0:02:43.34,Default,,0,0,0,,No. Everybody\Nhere is already dead.
+Dialogue: 0,0:02:44.16,0:02:47.70,Default,,0,0,0,,Give me control of the Codex. I\Nwill ensure the survival of our race.
+Dialogue: 0,0:02:48.66,0:02:49.73,Default,,0,0,0,,There is still hope.
+Dialogue: 0,0:02:50.00,0:02:52.50,Default,,0,0,0,,I have held that\Nhope in my hands.
+Dialogue: 0,0:03:07.42,0:03:09.56,Default,,0,0,0,,This council has been disbanded.
+Dialogue: 0,0:03:10.05,0:03:11.90,Default,,0,0,0,,On whose authority?
+Dialogue: 0,0:03:12.25,0:03:13.39,Default,,0,0,0,,Mine.
+Dialogue: 0,0:03:18.16,0:03:21.44,Default,,0,0,0,,The rest of you will be tried\Nand punished accordingly.
+Dialogue: 0,0:03:23.43,0:03:26.21,Default,,0,0,0,,- What are you doing, Zod? This is madness.\N- What I should have done...
+Dialogue: 0,0:03:26.23,0:03:26.91,Default,,0,0,0,,years ago.
+Dialogue: 0,0:03:27.17,0:03:28.20,Default,,0,0,0,,These lawmakers...
+Dialogue: 0,0:03:28.44,0:03:29.72,Default,,0,0,0,,with their endless debates...
+Dialogue: 0,0:03:29.77,0:03:30.93,Default,,0,0,0,,have lead Krypton to ruin.
+Dialogue: 0,0:03:34.28,0:03:35.95,Default,,0,0,0,,And if your forces prevail...
+Dialogue: 0,0:03:36.21,0:03:38.85,Default,,0,0,0,,- you'll be the leader of nothing.\N- Then join me.
+Dialogue: 0,0:03:39.08,0:03:42.19,Default,,0,0,0,,Help me save our\Nrace. We'll start anew.
+Dialogue: 0,0:03:42.42,0:03:43.45,Default,,0,0,0,,We'll sever...
+Dialogue: 0,0:03:43.72,0:03:46.46,Default,,0,0,0,,the degenerative bloodlines\Nthat led us to this state.
+Dialogue: 0,0:03:46.72,0:03:49.97,Default,,0,0,0,,And who will decide which\Nbloodlines survive, Zod?
+Dialogue: 0,0:03:51.53,0:03:52.53,Default,,0,0,0,,You?
+Dialogue: 0,0:03:54.90,0:03:56.60,Default,,0,0,0,,Don't do this, El.
+Dialogue: 0,0:03:56.87,0:03:59.31,Default,,0,0,0,,The last thing I want\Nis for us to be enemies.
+Dialogue: 0,0:03:59.57,0:04:02.21,Default,,0,0,0,,You have abandoned the\Nprinciples that bound us together.
+Dialogue: 0,0:04:02.44,0:04:03.56,Default,,0,0,0,,You've taken up the sword...
+Dialogue: 0,0:04:03.71,0:04:05.91,Default,,0,0,0,,against your own people.
+Dialogue: 0,0:04:06.48,0:04:09.39,Default,,0,0,0,,I will honor the man\Nyou once were, Zod...
+Dialogue: 0,0:04:09.81,0:04:11.79,Default,,0,0,0,,not this monster you've become.
+Dialogue: 0,0:04:15.08,0:04:16.43,Default,,0,0,0,,Take him away.
+Dialogue: 0,0:04:22.59,0:04:23.93,Default,,0,0,0,,Sir? Is everything all right?
+Dialogue: 0,0:04:24.16,0:04:25.47,Default,,0,0,0,,Out of the way.
+Dialogue: 0,0:04:26.33,0:04:27.33,Default,,0,0,0,,I said...
+Dialogue: 0,0:04:43.81,0:04:44.85,Default,,0,0,0,,Get me Lara.
+Dialogue: 0,0:04:46.18,0:04:48.35,Default,,0,0,0,,Jor. Behind you.
+Dialogue: 0,0:04:52.25,0:04:54.26,Default,,0,0,0,,Lara, you have to\Nready the launch.
+Dialogue: 0,0:04:54.49,0:04:56.16,Default,,0,0,0,,I'll be with you\Nas soon as I can.
+Dialogue: 0,0:05:10.97,0:05:12.14,Default,,0,0,0,,H'Raka!
+Dialogue: 0,0:05:23.95,0:05:24.99,Default,,0,0,0,,Hyah!
+Dialogue: 0,0:05:51.58,0:05:54.32,Default,,0,0,0,,- Can you see the Codex?\N- It's just beneath the central hub.
+Dialogue: 0,0:05:54.55,0:05:55.75,Default,,0,0,0,,But I'm compelled to warn you.
+Dialogue: 0,0:05:55.92,0:05:58.23,Default,,0,0,0,,Breaching the genesis\Nchamber is a Class-B crime...
+Dialogue: 0,0:05:58.49,0:06:02.06,Default,,0,0,0,,Nobody cares anymore, Kelex.\NThe world is about to come to an end.
+Dialogue: 0,0:07:07.22,0:07:09.90,Default,,0,0,0,,Jar-El, by the authority\Nof General Zed...
+Dialogue: 0,0:07:10.13,0:07:12.00,Default,,0,0,0,,surrender the Codex.
+Dialogue: 0,0:07:27.58,0:07:28.61,Default,,0,0,0,,Unh!
+Dialogue: 0,0:07:50.27,0:07:51.34,Default,,0,0,0,,Ahh!
+Dialogue: 0,0:08:00.01,0:08:01.54,Default,,0,0,0,,Easy, H'Raka.
+Dialogue: 0,0:08:22.50,0:08:23.74,Default,,0,0,0,,Did you find a world?
+Dialogue: 0,0:08:24.33,0:08:26.64,Default,,0,0,0,,- We have.\N- Orbiting a main sequence yellow star...
+Dialogue: 0,0:08:26.87,0:08:28.18,Default,,0,0,0,,Just as you said it would.
+Dialogue: 0,0:08:29.87,0:08:31.48,Default,,0,0,0,,A young star.
+Dialogue: 0,0:08:31.84,0:08:33.51,Default,,0,0,0,,His cells will\Ndrink its radiation.
+Dialogue: 0,0:08:36.64,0:08:38.89,Default,,0,0,0,,It's a seemingly\Nintelligent population.
+Dialogue: 0,0:08:39.81,0:08:40.88,Default,,0,0,0,,He'll be an outcast.
+Dialogue: 0,0:08:41.88,0:08:43.33,Default,,0,0,0,,A freak.
+Dialogue: 0,0:08:44.55,0:08:45.55,Default,,0,0,0,,They'll kill him.
+Dialogue: 0,0:08:45.59,0:08:47.03,Default,,0,0,0,,How?
+Dialogue: 0,0:08:47.89,0:08:49.10,Default,,0,0,0,,He'll be a God to them.
+Dialogue: 0,0:08:51.43,0:08:53.57,Default,,0,0,0,,What if the ship\Ndoesn't make it?
+Dialogue: 0,0:08:54.53,0:08:55.53,Default,,0,0,0,,He'll die out there...
+Dialogue: 0,0:08:56.93,0:08:58.27,Default,,0,0,0,,alone.
+Dialogue: 0,0:09:00.07,0:09:01.84,Default,,0,0,0,,I can't do it.
+Dialogue: 0,0:09:02.07,0:09:03.45,Default,,0,0,0,,I thought I could, but...
+Dialogue: 0,0:09:03.71,0:09:05.45,Default,,0,0,0,,- Lara.\N- now that he's here...
+Dialogue: 0,0:09:05.91,0:09:07.61,Default,,0,0,0,,Krypton is doomed.
+Dialogue: 0,0:09:08.84,0:09:10.69,Default,,0,0,0,,It's his only chance now.
+Dialogue: 0,0:09:11.38,0:09:12.95,Default,,0,0,0,,It's our people's only hope.
+Dialogue: 0,0:09:14.42,0:09:15.62,Default,,0,0,0,,What is it, Kelex?
+Dialogue: 0,0:09:15.88,0:09:17.86,Default,,0,0,0,,Five attack ships\Nconverging from the east.
+Dialogue: 0,0:09:18.09,0:09:20.43,Default,,0,0,0,,Citadel's defenses are\Nbeing scanned and evaluated.
+Dialogue: 0,0:09:20.69,0:09:21.69,Default,,0,0,0,,I'll upload the Codex.
+Dialogue: 0,0:09:22.36,0:09:23.77,Default,,0,0,0,,No, wait.
+Dialogue: 0,0:09:24.39,0:09:25.39,Default,,0,0,0,,Lara.
+Dialogue: 0,0:09:25.46,0:09:28.37,Default,,0,0,0,,Just let me look at him.
+Dialogue: 0,0:09:31.77,0:09:34.27,Default,,0,0,0,,We'll never get to see him walk.
+Dialogue: 0,0:09:36.70,0:09:38.62,Default,,0,0,0,,Never hear him say our names.
+Dialogue: 0,0:09:44.05,0:09:45.46,Default,,0,0,0,,But out there...
+Dialogue: 0,0:09:45.71,0:09:47.62,Default,,0,0,0,,amongst the stars...
+Dialogue: 0,0:09:48.98,0:09:50.49,Default,,0,0,0,,he will live.
+Dialogue: 0,0:10:48.54,0:10:49.85,Default,,0,0,0,,Goodbye, my son.
+Dialogue: 0,0:10:51.18,0:10:53.72,Default,,0,0,0,,Our hopes and\Ndreams travel with you.
+Dialogue: 0,0:11:32.42,0:11:35.23,Default,,0,0,0,,Concentrate fire\Non the main doors.
+Dialogue: 0,0:11:50.57,0:11:51.57,Default,,0,0,0,,Lady Lara.
+Dialogue: 0,0:11:51.77,0:11:54.85,Default,,0,0,0,,- The phantom drives are coming online.\N- Proceed to ignition.
+Dialogue: 0,0:11:55.61,0:11:56.61,Default,,0,0,0,,General.
+Dialogue: 0,0:11:56.88,0:12:00.26,Default,,0,0,0,,We have identified an engine\Nignition within the citadel.
+Dialogue: 0,0:12:01.22,0:12:02.63,Default,,0,0,0,,A launch.
+Dialogue: 0,0:12:03.79,0:12:06.20,Default,,0,0,0,,Hold this platform, commander.
+Dialogue: 0,0:12:18.60,0:12:20.55,Default,,0,0,0,,I know you stole\Nthe Codex, Jor-El.
+Dialogue: 0,0:12:21.70,0:12:22.70,Default,,0,0,0,,Surrender it...
+Dialogue: 0,0:12:22.94,0:12:24.94,Default,,0,0,0,,and I'll let you live.
+Dialogue: 0,0:12:25.57,0:12:28.11,Default,,0,0,0,,This is a second\Nchance for all of Krypton...
+Dialogue: 0,0:12:28.38,0:12:30.72,Default,,0,0,0,,not just the bloodlines\Nyou deem worthy.
+Dialogue: 0,0:12:32.25,0:12:33.42,Default,,0,0,0,,What have you done?
+Dialogue: 0,0:12:33.65,0:12:35.96,Default,,0,0,0,,We've had a child, Zod.
+Dialogue: 0,0:12:36.95,0:12:38.33,Default,,0,0,0,,A boy child.
+Dialogue: 0,0:12:38.59,0:12:41.59,Default,,0,0,0,,Krypton's first natural\Nbirth in centuries.
+Dialogue: 0,0:12:42.56,0:12:44.26,Default,,0,0,0,,And he will be free.
+Dialogue: 0,0:12:44.76,0:12:47.24,Default,,0,0,0,,Free to forge his own destiny.
+Dialogue: 0,0:12:48.10,0:12:49.58,Default,,0,0,0,,Heresy.
+Dialogue: 0,0:12:51.47,0:12:52.47,Default,,0,0,0,,Destroy it.
+Dialogue: 0,0:13:01.14,0:13:02.18,Default,,0,0,0,,Ah!
+Dialogue: 0,0:13:45.62,0:13:46.62,Default,,0,0,0,,Lara...
+Dialogue: 0,0:13:46.79,0:13:48.17,Default,,0,0,0,,listen to me.
+Dialogue: 0,0:13:48.39,0:13:52.03,Default,,0,0,0,,The Codex is Krypton's future.
+Dialogue: 0,0:13:52.29,0:13:54.74,Default,,0,0,0,,Abort the launch.
+Dialogue: 0,0:14:13.92,0:14:15.69,Default,,0,0,0,,No!
+Dialogue: 0,0:14:45.61,0:14:46.89,Default,,0,0,0,,Your son, Lara...
+Dialogue: 0,0:14:48.18,0:14:50.09,Default,,0,0,0,,where have you sent him?
+Dialogue: 0,0:14:53.59,0:14:55.36,Default,,0,0,0,,His name...
+Dialogue: 0,0:14:55.59,0:14:56.69,Default,,0,0,0,,is Kal...
+Dialogue: 0,0:14:57.36,0:14:59.20,Default,,0,0,0,,son of El.
+Dialogue: 0,0:15:02.30,0:15:04.64,Default,,0,0,0,,And he's beyond your reach.
+Dialogue: 0,0:15:15.28,0:15:16.78,Default,,0,0,0,,Bring that ship down.
+Dialogue: 0,0:15:25.12,0:15:26.50,Default,,0,0,0,,Target locked.
+Dialogue: 0,0:15:38.23,0:15:39.68,Default,,0,0,0,,Lay down your weapons.
+Dialogue: 0,0:15:39.93,0:15:42.01,Default,,0,0,0,,Your forces are surrounded.
+Dialogue: 0,0:15:52.11,0:15:53.59,Default,,0,0,0,,General Zod...
+Dialogue: 0,0:15:53.82,0:15:56.59,Default,,0,0,0,,for the crimes of murder\Nand high treason...
+Dialogue: 0,0:15:56.82,0:16:00.03,Default,,0,0,0,,the Council has sentenced\Nyou and your fellow insurgents...
+Dialogue: 0,0:16:01.19,0:16:04.66,Default,,0,0,0,,to three hundred cycles\Nof somatic reconditioning.
+Dialogue: 0,0:16:06.16,0:16:07.97,Default,,0,0,0,,Do you have any last words?
+Dialogue: 0,0:16:11.27,0:16:12.35,Default,,0,0,0,,You won't kill us yourself!
+Dialogue: 0,0:16:13.70,0:16:15.84,Default,,0,0,0,,You wouldn't sully your\Nhands! But you'll damn us...
+Dialogue: 0,0:16:16.10,0:16:18.28,Default,,0,0,0,,to a black hole for eternity!
+Dialogue: 0,0:16:20.34,0:16:21.38,Default,,0,0,0,,Jor-El was right.
+Dialogue: 0,0:16:21.64,0:16:25.32,Default,,0,0,0,,You're a pack of fools,\Nevery last one of you.
+Dialogue: 0,0:16:26.21,0:16:27.39,Default,,0,0,0,,And you.
+Dialogue: 0,0:16:29.12,0:16:31.56,Default,,0,0,0,,You believe your son is safe?
+Dialogue: 0,0:16:32.29,0:16:33.99,Default,,0,0,0,,I will find him.
+Dialogue: 0,0:16:34.22,0:16:37.53,Default,,0,0,0,,I will reclaim what\Nyou have taken from us.
+Dialogue: 0,0:16:39.96,0:16:41.53,Default,,0,0,0,,I will find him.
+Dialogue: 0,0:16:42.73,0:16:44.84,Default,,0,0,0,,I will find him, Lara.
+Dialogue: 0,0:16:47.90,0:16:50.47,Default,,0,0,0,,I will find him!
+Dialogue: 0,0:17:00.31,0:17:02.06,Default,,0,0,0,,Argh!
+Dialogue: 0,0:18:31.67,0:18:34.81,Default,,0,0,0,,Lady Lara, shouldn't\Nyou find refuge?
+Dialogue: 0,0:18:35.61,0:18:38.59,Default,,0,0,0,,There is no refuge, Kelor.
+Dialogue: 0,0:18:39.51,0:18:41.49,Default,,0,0,0,,Jor-El was right.
+Dialogue: 0,0:18:43.92,0:18:45.33,Default,,0,0,0,,This is the end.
+Dialogue: 0,0:18:57.37,0:19:00.28,Default,,0,0,0,,Make a better\Nworld than ours, Kal.
+Dialogue: 0,0:19:25.57,0:19:26.57,Default,,0,0,0,,{\an5\c&H51ab2b&}Improved by{\c&Hf8fc03&} {\b1}KID{\b0} {\c}\N\N{\an5\c&H51ab2b&}Resynced by{\c&Hf8fc03&} {\b1}KID{\b0} {\c}\N\N{\an5\c&H51ab2b&}Enjoy the movie(s) / show(s)
+Dialogue: 0,0:20:32.43,0:20:33.93,Default,,0,0,0,,Watch it, dumb-ass!
+Dialogue: 0,0:20:34.20,0:20:36.70,Default,,0,0,0,,Keep your eyes open or\Nyou're gonna get squashed.
+Dialogue: 0,0:20:38.70,0:20:41.15,Default,,0,0,0,,Where the hell did they\Nfind you, greenhorn?
+Dialogue: 0,0:20:41.40,0:20:42.88,Default,,0,0,0,,Let's get this trap in the air.
+Dialogue: 0,0:20:43.10,0:20:44.64,Default,,0,0,0,,Gentlemen, secure the deck.
+Dialogue: 0,0:20:44.91,0:20:47.91,Default,,0,0,0,,We just got a distress call\Nfrom a rig due west of us.
+Dialogue: 0,0:20:48.14,0:20:49.45,Default,,0,0,0,,Secure the deck.
+Dialogue: 0,0:20:54.15,0:20:55.72,Default,,0,0,0,,All civilian boats, stand clear.
+Dialogue: 0,0:20:55.95,0:20:58.62,Default,,0,0,0,,The sub-sea valves failed\Nand the rig is about to explode.
+Dialogue: 0,0:20:58.89,0:21:01.23,Default,,0,0,0,,Roger, Coast Guard. What\Nabout the men left inside?
+Dialogue: 0,0:21:01.46,0:21:03.80,Default,,0,0,0,,- Forget them. They're dead.\N- Greenhorn...
+Dialogue: 0,0:21:04.06,0:21:06.10,Default,,0,0,0,,fetch me my binoculars.
+Dialogue: 0,0:21:07.63,0:21:08.97,Default,,0,0,0,,Greenhorn.
+Dialogue: 0,0:21:17.30,0:21:20.84,Default,,0,0,0,,This is the last of the oxygen. I don't\Nknow how much longer we can hold out.
+Dialogue: 0,0:21:31.19,0:21:33.93,Default,,0,0,0,,This is Coast Guard 6510. We'll\Nmake one more pass then get out.
+Dialogue: 0,0:21:36.76,0:21:38.86,Default,,0,0,0,,Wait, wait. I got some\Nguys on the helipad.
+Dialogue: 0,0:21:39.13,0:21:40.13,Default,,0,0,0,,Right here!
+Dialogue: 0,0:21:45.27,0:21:47.14,Default,,0,0,0,,Come on, come\Non! Let's go! Let's go!
+Dialogue: 0,0:21:47.33,0:21:49.14,Default,,0,0,0,,- Let's go!\N- Let's go!
+Dialogue: 0,0:21:59.68,0:22:00.85,Default,,0,0,0,,Get that last guy loaded.
+Dialogue: 0,0:22:01.12,0:22:02.49,Default,,0,0,0,,We have got to go.
+Dialogue: 0,0:22:02.72,0:22:04.39,Default,,0,0,0,,Hey, let's go. What\Nare you doing?
+Dialogue: 0,0:22:10.52,0:22:11.63,Default,,0,0,0,,Go! Go!
+Dialogue: 0,0:22:13.79,0:22:14.83,Default,,0,0,0,,Argh!
+Dialogue: 0,0:22:22.50,0:22:24.01,Default,,0,0,0,,Argh!
+Dialogue: 0,0:22:49.53,0:22:51.57,Default,,0,0,0,,When Kansas became a territory?
+Dialogue: 0,0:22:53.77,0:22:54.77,Default,,0,0,0,,Clark.
+Dialogue: 0,0:22:56.74,0:22:57.74,Default,,0,0,0,,Are you listening, Clark?
+Dialogue: 0,0:23:02.91,0:23:04.86,Default,,0,0,0,,I asked if you could\Ntell me who first...
+Dialogue: 0,0:23:05.08,0:23:06.11,Default,,0,0,0,,settled Kansas.
+Dialogue: 0,0:23:19.36,0:23:20.53,Default,,0,0,0,,Are you all right, Clark?
+Dialogue: 0,0:23:28.97,0:23:30.38,Default,,0,0,0,,Clark.
+Dialogue: 0,0:23:31.61,0:23:32.91,Default,,0,0,0,,Clark.
+Dialogue: 0,0:23:36.48,0:23:37.48,Default,,0,0,0,,Clark!
+Dialogue: 0,0:23:41.08,0:23:42.62,Default,,0,0,0,,Clark, come out of there.
+Dialogue: 0,0:23:42.88,0:23:44.23,Default,,0,0,0,,Leave me alone.
+Dialogue: 0,0:23:45.25,0:23:46.82,Default,,0,0,0,,Clark, I have\Ncalled your mother.
+Dialogue: 0,0:23:48.16,0:23:49.23,Default,,0,0,0,,Clark?
+Dialogue: 0,0:23:51.06,0:23:52.16,Default,,0,0,0,,Ah!
+Dialogue: 0,0:23:52.33,0:23:53.33,Default,,0,0,0,,I'm here.
+Dialogue: 0,0:23:53.59,0:23:55.57,Default,,0,0,0,,Clark, honey, it's Mom.
+Dialogue: 0,0:23:57.97,0:23:59.00,Default,,0,0,0,,Will you open the door?
+Dialogue: 0,0:23:59.27,0:24:01.25,Default,,0,0,0,,- What's wrong with him?\N- He's such a freak.
+Dialogue: 0,0:24:01.47,0:24:02.47,Default,,0,0,0,,Crybaby.
+Dialogue: 0,0:24:02.57,0:24:05.02,Default,,0,0,0,,His parents won't even\Nlet him play with other kids.
+Dialogue: 0,0:24:05.27,0:24:06.27,Default,,0,0,0,,I know.
+Dialogue: 0,0:24:06.51,0:24:07.51,Default,,0,0,0,,Sweetie.
+Dialogue: 0,0:24:08.51,0:24:10.65,Default,,0,0,0,,How can I help you\Nif you won't let me in?
+Dialogue: 0,0:24:10.91,0:24:13.26,Default,,0,0,0,,The world's too big, Mom.
+Dialogue: 0,0:24:13.48,0:24:15.12,Default,,0,0,0,,Then make it small.
+Dialogue: 0,0:24:17.48,0:24:18.76,Default,,0,0,0,,Just, um...
+Dialogue: 0,0:24:21.59,0:24:22.69,Default,,0,0,0,,focus on my voice.
+Dialogue: 0,0:24:25.26,0:24:27.21,Default,,0,0,0,,Pretend it's an island...
+Dialogue: 0,0:24:27.36,0:24:29.27,Default,,0,0,0,,out in the ocean.
+Dialogue: 0,0:24:30.80,0:24:32.11,Default,,0,0,0,,Can you see it?
+Dialogue: 0,0:24:35.80,0:24:36.84,Default,,0,0,0,,I see it.
+Dialogue: 0,0:24:38.17,0:24:40.17,Default,,0,0,0,,Then swim towards it, honey.
+Dialogue: 0,0:24:53.45,0:24:55.30,Default,,0,0,0,,What's wrong with me, Mom?
+Dialogue: 0,0:24:57.89,0:24:59.39,Default,,0,0,0,,Clark.
+Dialogue: 0,0:24:59.66,0:25:01.16,Default,,0,0,0,,Clark.
+Dialogue: 0,0:25:29.82,0:25:31.70,Default,,0,0,0,,- Did you get everything I need?\N- Yep.
+Dialogue: 0,0:25:31.93,0:25:33.60,Default,,0,0,0,,Hold it, hold it.
+Dialogue: 0,0:26:23.44,0:26:24.98,Default,,0,0,0,,Hey, ass-wipe.
+Dialogue: 0,0:26:25.55,0:26:27.22,Default,,0,0,0,,What do you think?\NYou see the game?
+Dialogue: 0,0:26:27.45,0:26:29.95,Default,,0,0,0,,- Leave him alone, Pete.\N- What are you, his girlfriend?
+Dialogue: 0,0:26:30.22,0:26:31.89,Default,,0,0,0,,I wanna hear what he has to say.
+Dialogue: 0,0:26:34.25,0:26:34.93,Default,,0,0,0,,Come on...
+Dialogue: 0,0:26:35.16,0:26:36.16,Default,,0,0,0,,dick-splash.
+Dialogue: 0,0:28:16.82,0:28:17.82,Default,,0,0,0,,My son was there.
+Dialogue: 0,0:28:18.06,0:28:20.27,Default,,0,0,0,,He was in the bus.
+Dialogue: 0,0:28:20.53,0:28:23.34,Default,,0,0,0,,- He saw what Clark did.\N- I know he did.
+Dialogue: 0,0:28:24.26,0:28:28.27,Default,,0,0,0,,- I'm sure what he thought he saw was...\N- Was an act of God, Jonathan.
+Dialogue: 0,0:28:29.34,0:28:31.71,Default,,0,0,0,,This was providence.
+Dialogue: 0,0:28:35.44,0:28:37.51,Default,,0,0,0,,I think you're blowing\Nit out of proportion.
+Dialogue: 0,0:28:37.74,0:28:41.02,Default,,0,0,0,,No, I'm not. Lana saw it too.
+Dialogue: 0,0:28:41.25,0:28:42.25,Default,,0,0,0,,And the Fordham boy.
+Dialogue: 0,0:28:42.52,0:28:43.72,Default,,0,0,0,,This isn't the first time...
+Dialogue: 0,0:28:43.95,0:28:45.90,Default,,0,0,0,,Clark's done\Nsomething like this.
+Dialogue: 0,0:29:01.24,0:29:03.08,Default,,0,0,0,,I just wanted to help.
+Dialogue: 0,0:29:03.54,0:29:06.28,Default,,0,0,0,,I know you did, but\Nwe talked about this.
+Dialogue: 0,0:29:06.54,0:29:07.81,Default,,0,0,0,,Right?
+Dialogue: 0,0:29:08.28,0:29:10.98,Default,,0,0,0,,Right? We talked\Nabout this. You have...
+Dialogue: 0,0:29:11.48,0:29:14.93,Default,,0,0,0,,Clark, you have to keep\Nthis side of yourself a secret.
+Dialogue: 0,0:29:15.38,0:29:19.26,Default,,0,0,0,,What was I supposed\Nto do? Just let them die?
+Dialogue: 0,0:29:24.06,0:29:25.47,Default,,0,0,0,,Maybe.
+Dialogue: 0,0:29:27.39,0:29:29.25,Default,,0,0,0,,There's more at\Nstake here than just our
+Dialogue: 0,0:29:29.26,0:29:31.40,Default,,0,0,0,,lives, Clark, or the\Nlives of those around us.
+Dialogue: 0,0:29:34.33,0:29:35.75,Default,,0,0,0,,When the world...
+Dialogue: 0,0:29:36.67,0:29:40.68,Default,,0,0,0,,When the world finds out what you can\Ndo it's gonna change everything. Our...
+Dialogue: 0,0:29:40.94,0:29:43.51,Default,,0,0,0,,Our beliefs, our notions of...
+Dialogue: 0,0:29:43.78,0:29:46.49,Default,,0,0,0,,what it means to be\Nhuman. Everything.
+Dialogue: 0,0:29:46.75,0:29:49.52,Default,,0,0,0,,You saw how Pete's\Nmom reacted, right?
+Dialogue: 0,0:29:49.78,0:29:51.99,Default,,0,0,0,,She was scared, Clark.
+Dialogue: 0,0:29:53.12,0:29:54.12,Default,,0,0,0,,Why?
+Dialogue: 0,0:29:55.82,0:29:58.67,Default,,0,0,0,,People are afraid of what\Nthey don't understand.
+Dialogue: 0,0:29:58.93,0:29:59.93,Default,,0,0,0,,Is she right?
+Dialogue: 0,0:30:01.96,0:30:03.81,Default,,0,0,0,,Did God do this to me?
+Dialogue: 0,0:30:05.37,0:30:06.87,Default,,0,0,0,,Tell me.
+Dialogue: 0,0:30:21.65,0:30:23.32,Default,,0,0,0,,We found you in this.
+Dialogue: 0,0:30:25.29,0:30:28.23,Default,,0,0,0,,We were sure the government\Nwas gonna show up on our doorstep...
+Dialogue: 0,0:30:28.49,0:30:30.47,Default,,0,0,0,,but no one ever came.
+Dialogue: 0,0:30:44.97,0:30:46.64,Default,,0,0,0,,This was in that\Nchamber with you.
+Dialogue: 0,0:30:49.18,0:30:50.55,Default,,0,0,0,,I took it to a metallurgist...
+Dialogue: 0,0:30:50.81,0:30:52.15,Default,,0,0,0,,at Kansas State.
+Dialogue: 0,0:30:52.38,0:30:54.99,Default,,0,0,0,,He said whatever it was\Nmade from didn't even...
+Dialogue: 0,0:30:55.92,0:30:58.69,Default,,0,0,0,,Didn't even exist\Non the periodic table.
+Dialogue: 0,0:31:00.65,0:31:01.89,Default,,0,0,0,,That's another way of saying...
+Dialogue: 0,0:31:02.06,0:31:04.33,Default,,0,0,0,,that it's not from\Nthis world, Clark.
+Dialogue: 0,0:31:06.43,0:31:07.70,Default,,0,0,0,,And neither are you.
+Dialogue: 0,0:31:10.40,0:31:11.93,Default,,0,0,0,,You're the answer, son.
+Dialogue: 0,0:31:12.20,0:31:14.58,Default,,0,0,0,,You're the answer to "Are\Nwe alone in the universe?"
+Dialogue: 0,0:31:16.74,0:31:18.18,Default,,0,0,0,,I don't wanna be.
+Dialogue: 0,0:31:18.41,0:31:20.28,Default,,0,0,0,,And I don't blame you, son.
+Dialogue: 0,0:31:20.87,0:31:23.58,Default,,0,0,0,,It'd be a huge burden\Nfor anyone to bear.
+Dialogue: 0,0:31:23.84,0:31:27.26,Default,,0,0,0,,But you're not just anyone, Clark,\Nand I have to believe that you were...
+Dialogue: 0,0:31:28.42,0:31:30.26,Default,,0,0,0,,That you were sent\Nhere for a reason.
+Dialogue: 0,0:31:31.52,0:31:34.09,Default,,0,0,0,,All these changes that you're\Ngoing through, one day...
+Dialogue: 0,0:31:34.35,0:31:36.65,Default,,0,0,0,,One day you're gonna\Nthink of them as a blessing.
+Dialogue: 0,0:31:36.66,0:31:37.70,Default,,0,0,0,,When that day comes...
+Dialogue: 0,0:31:37.92,0:31:39.37,Default,,0,0,0,,you have to make a choice.
+Dialogue: 0,0:31:39.59,0:31:43.60,Default,,0,0,0,,A choice of whether to stand proud\Nin front of the human race or not.
+Dialogue: 0,0:31:45.37,0:31:48.04,Default,,0,0,0,,Can't I just keep\Npretending I'm your son?
+Dialogue: 0,0:31:48.74,0:31:50.65,Default,,0,0,0,,You are my son.
+Dialogue: 0,0:31:55.11,0:31:57.11,Default,,0,0,0,,But somewhere\Nout there you've...
+Dialogue: 0,0:31:57.81,0:32:01.05,Default,,0,0,0,,You have another father too,\Nwho gave you another name.
+Dialogue: 0,0:32:04.12,0:32:05.12,Default,,0,0,0,,And he sent you here...
+Dialogue: 0,0:32:05.22,0:32:06.99,Default,,0,0,0,,for a reason, Clark.
+Dialogue: 0,0:32:08.76,0:32:12.43,Default,,0,0,0,,And even if it takes you the rest\Nof your life, you owe it to yourself...
+Dialogue: 0,0:32:12.66,0:32:14.80,Default,,0,0,0,,to find out what that reason is.
+Dialogue: 0,0:32:23.00,0:32:26.85,Default,,0,0,0,,Bound by wild desire
+Dialogue: 0,0:32:27.07,0:32:30.11,Default,,0,0,0,,I fell into a ring of fire.
+Dialogue: 0,0:32:30.28,0:32:32.45,Default,,0,0,0,,Wait a second. Aren't\Nyou here fer the exercise?
+Dialogue: 0,0:32:32.68,0:32:34.35,Default,,0,0,0,,No, there was a\Nchange in the plans.
+Dialogue: 0,0:32:34.61,0:32:36.69,Default,,0,0,0,,Somebody found something\Nstrange on Ellesmere.
+Dialogue: 0,0:32:37.25,0:32:39.92,Default,,0,0,0,,- Aircom's making runs out there all week.\N- That rat hole?
+Dialogue: 0,0:32:40.15,0:32:42.26,Default,,0,0,0,,- You gotta be kidding me.\N- I know. It's crazy.
+Dialogue: 0,0:32:42.49,0:32:44.20,Default,,0,0,0,,The Americans are\Nthere too, lots of them.
+Dialogue: 0,0:32:44.46,0:32:47.03,Default,,0,0,0,,- Anything else?\N- They're calling it an anomalous object.
+Dialogue: 0,0:32:47.29,0:32:49.54,Default,,0,0,0,,- Whatever that means.\N- Back off, Ludlow. I'm serious.
+Dialogue: 0,0:32:49.80,0:32:51.61,Default,,0,0,0,,- Oh, come on, Chrissy.\N- Knock it off.
+Dialogue: 0,0:32:51.83,0:32:53.28,Default,,0,0,0,,- Sit down.\N- Let me go.
+Dialogue: 0,0:32:53.50,0:32:55.17,Default,,0,0,0,,Hey. Leave her alone, man.
+Dialogue: 0,0:32:59.51,0:33:01.21,Default,,0,0,0,,Or what, tough guy?
+Dialogue: 0,0:33:01.78,0:33:05.19,Default,,0,0,0,,Or I'm gonna have\Nto ask you to leave.
+Dialogue: 0,0:33:06.38,0:33:09.45,Default,,0,0,0,,I think I'll probably just leave\Nwhen I'm good and ready.
+Dialogue: 0,0:33:11.95,0:33:12.95,Default,,0,0,0,,Ooh.
+Dialogue: 0,0:33:19.39,0:33:21.07,Default,,0,0,0,,Oh, there he is.
+Dialogue: 0,0:33:28.37,0:33:30.37,Default,,0,0,0,,It's not worth it, sweetie.
+Dialogue: 0,0:33:38.51,0:33:40.89,Default,,0,0,0,,Hey, asshole,\Ndon't forget your tip.
+Dialogue: 0,0:33:43.05,0:33:44.86,Default,,0,0,0,,Strike.
+Dialogue: 0,0:34:35.40,0:34:36.81,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:34:37.64,0:34:38.88,Default,,0,0,0,,Hi.
+Dialogue: 0,0:34:39.11,0:34:40.81,Default,,0,0,0,,Miss Lane. How you doing?
+Dialogue: 0,0:34:41.07,0:34:43.28,Default,,0,0,0,,- Good.\N- Jed Eubanks, Arctic Cargo.
+Dialogue: 0,0:34:43.54,0:34:45.78,Default,,0,0,0,,How far to the station?
+Dialogue: 0,0:34:46.25,0:34:49.32,Default,,0,0,0,,- Camp's just over the rise.\N- I'll walk you over. - Great.
+Dialogue: 0,0:34:49.58,0:34:51.79,Default,,0,0,0,,Joe can take your bags. Joe.
+Dialogue: 0,0:34:52.05,0:34:53.29,Default,,0,0,0,,Help her out.
+Dialogue: 0,0:34:53.55,0:34:56.06,Default,,0,0,0,,Careful with those.\NThey're heavy.
+Dialogue: 0,0:34:58.49,0:35:00.13,Default,,0,0,0,,I gotta confess, Miss Lane...
+Dialogue: 0,0:35:00.39,0:35:03.24,Default,,0,0,0,,I'm not a fan of\Nthe Daily Planet.
+Dialogue: 0,0:35:03.63,0:35:07.60,Default,,0,0,0,,But those pieces you wrote when you\Nwere embedded with the 1st Division were...
+Dialogue: 0,0:35:07.83,0:35:09.68,Default,,0,0,0,,Well, they were\Npretty impressive.
+Dialogue: 0,0:35:09.94,0:35:13.91,Default,,0,0,0,,Well, what can I say? I get writer's\Nblock if I'm not wearing a flak jacket.
+Dialogue: 0,0:35:19.61,0:35:20.61,Default,,0,0,0,,Miss Lane.
+Dialogue: 0,0:35:20.85,0:35:23.49,Default,,0,0,0,,I'm Colonel Hardy, U.S.\NNorthcom. Dr. Emil Hamilton...
+Dialogue: 0,0:35:23.75,0:35:24.85,Default,,0,0,0,,from DARPA.
+Dialogue: 0,0:35:25.12,0:35:26.29,Default,,0,0,0,,- You're early.\N- Hi.
+Dialogue: 0,0:35:26.52,0:35:28.00,Default,,0,0,0,,We were expecting you tomorrow.
+Dialogue: 0,0:35:28.25,0:35:30.70,Default,,0,0,0,,Which is why I showed up today.
+Dialogue: 0,0:35:31.36,0:35:33.53,Default,,0,0,0,,Look, let's get one thing\Nstraight, guys, okay?
+Dialogue: 0,0:35:33.79,0:35:36.64,Default,,0,0,0,,The only reason I'm here is\Nbecause we're on Canadian soil...
+Dialogue: 0,0:35:36.86,0:35:40.31,Default,,0,0,0,,and the appellate court overruled\Nyour injunction to keep me away.
+Dialogue: 0,0:35:40.53,0:35:42.67,Default,,0,0,0,,So if we're done\Nmeasuring dicks...
+Dialogue: 0,0:35:42.94,0:35:45.28,Default,,0,0,0,,can you have your people\Nshow me what you found?
+Dialogue: 0,0:35:47.34,0:35:48.48,Default,,0,0,0,,NASA's EOS satellites...
+Dialogue: 0,0:35:48.71,0:35:50.48,Default,,0,0,0,,pinged the anomaly first.
+Dialogue: 0,0:35:50.71,0:35:53.19,Default,,0,0,0,,The ice shelf plays hell\Non the echo soundings.
+Dialogue: 0,0:35:53.45,0:35:55.79,Default,,0,0,0,,- But there's something there.\N- A submarine, maybe?
+Dialogue: 0,0:35:56.02,0:35:57.02,Default,,0,0,0,,Soviet-era?
+Dialogue: 0,0:35:57.05,0:35:58.65,Default,,0,0,0,,Doubtful. That's 300 meters.
+Dialogue: 0,0:35:58.89,0:36:01.87,Default,,0,0,0,,Considerably larger than anything\Nwe know they built back then.
+Dialogue: 0,0:36:02.12,0:36:03.36,Default,,0,0,0,,But here's the spooky part.
+Dialogue: 0,0:36:04.56,0:36:07.04,Default,,0,0,0,,The ice surrounding\Nthe object...
+Dialogue: 0,0:36:07.29,0:36:10.37,Default,,0,0,0,,it's nearly twenty\Nthousand years old.
+Dialogue: 0,0:36:11.83,0:36:12.83,Default,,0,0,0,,Miss Lane?
+Dialogue: 0,0:36:14.03,0:36:15.31,Default,,0,0,0,,Try not to wander.
+Dialogue: 0,0:36:15.54,0:36:18.64,Default,,0,0,0,,Temperatures drop to\Nminus 40 at night around here.
+Dialogue: 0,0:36:18.87,0:36:21.15,Default,,0,0,0,,Wouldn't find your\Nbody till after spring.
+Dialogue: 0,0:36:24.14,0:36:25.65,Default,,0,0,0,,And there you go.
+Dialogue: 0,0:36:29.22,0:36:30.69,Default,,0,0,0,,What if I need to tinkle?
+Dialogue: 0,0:36:31.38,0:36:33.02,Default,,0,0,0,,There's a bucket in the corner.
+Dialogue: 0,0:37:07.22,0:37:09.39,Default,,0,0,0,,Where the hell are you going?
+Dialogue: 0,0:39:18.72,0:39:20.10,Default,,0,0,0,,Hello?
+Dialogue: 0,0:40:55.58,0:40:58.69,Default,,0,0,0,,It's all right, it's all right,\Nit's all right. It's all right.
+Dialogue: 0,0:41:13.00,0:41:14.88,Default,,0,0,0,,You're hemorrhaging\Ninternally...
+Dialogue: 0,0:41:15.13,0:41:17.51,Default,,0,0,0,,and if I don't\Ncauterize this bleed...
+Dialogue: 0,0:41:18.67,0:41:19.34,Default,,0,0,0,,How can I?
+Dialogue: 0,0:41:19.61,0:41:22.14,Default,,0,0,0,,I can do things that\Nother people can't.
+Dialogue: 0,0:41:23.14,0:41:24.28,Default,,0,0,0,,Now hold my hand.
+Dialogue: 0,0:41:25.11,0:41:26.68,Default,,0,0,0,,This is gonna hurt.
+Dialogue: 0,0:42:28.37,0:42:30.51,Default,,0,0,0,,What Colonel Hardy\Nand his team surmised...
+Dialogue: 0,0:42:30.74,0:42:32.25,Default,,0,0,0,,was a Soviet-era submarine...
+Dialogue: 0,0:42:32.51,0:42:34.96,Default,,0,0,0,,was actually something\Nmuch more exotic.
+Dialogue: 0,0:42:35.21,0:42:39.06,Default,,0,0,0,,An isotope analysis of the surrounding\Nice bores suggests that an object...
+Dialogue: 0,0:42:39.29,0:42:43.13,Default,,0,0,0,,had been trapped in the\Nglacier for over 18,000 years.
+Dialogue: 0,0:42:43.39,0:42:44.93,Default,,0,0,0,,As for my rescuer?
+Dialogue: 0,0:42:45.19,0:42:47.57,Default,,0,0,0,,He disappeared during\Nthe object's departure.
+Dialogue: 0,0:42:47.96,0:42:50.37,Default,,0,0,0,,A background check\Nrevealed that his work history...
+Dialogue: 0,0:42:50.60,0:42:52.70,Default,,0,0,0,,and identity had been falsified.
+Dialogue: 0,0:42:52.93,0:42:54.81,Default,,0,0,0,,The questions raised\Nby my rescuer's...
+Dialogue: 0,0:42:55.07,0:42:56.91,Default,,0,0,0,,existence are\Nfrightening to contemplate.
+Dialogue: 0,0:42:57.14,0:42:58.77,Default,,0,0,0,,But I also know what I saw.
+Dialogue: 0,0:43:00.71,0:43:03.28,Default,,0,0,0,,And I have arrived at the\Ninescapable conclusion...
+Dialogue: 0,0:43:03.54,0:43:05.55,Default,,0,0,0,,that the object\Nand its occupant...
+Dialogue: 0,0:43:05.78,0:43:07.72,Default,,0,0,0,,did not originate on Earth.
+Dialogue: 0,0:43:09.45,0:43:12.76,Default,,0,0,0,,I can't print this, Lois. You\Nmight have hallucinated half of it.
+Dialogue: 0,0:43:12.99,0:43:15.15,Default,,0,0,0,,What about the civilian\Ncontractors who corroborated...
+Dialogue: 0,0:43:15.32,0:43:15.90,Default,,0,0,0,,my story?
+Dialogue: 0,0:43:15.91,0:43:18.50,Default,,0,0,0,,The Pentagon is denying\Nthat there was a ship.
+Dialogue: 0,0:43:18.76,0:43:20.60,Default,,0,0,0,,Of course they are.\NThey're supposed to.
+Dialogue: 0,0:43:20.83,0:43:22.33,Default,,0,0,0,,It's the Pentagon.
+Dialogue: 0,0:43:22.60,0:43:24.27,Default,,0,0,0,,Perry, it's me\Nwe're talking about.
+Dialogue: 0,0:43:24.50,0:43:27.17,Default,,0,0,0,,- I'm a Pulitzer Prize-winning reporter.\N- Then act like it.
+Dialogue: 0,0:43:27.43,0:43:29.57,Default,,0,0,0,,- Print it or I walk.\N- You can't.
+Dialogue: 0,0:43:29.80,0:43:30.84,Default,,0,0,0,,You're under contract.
+Dialogue: 0,0:43:33.31,0:43:37.31,Default,,0,0,0,,I'm not running a story about\Naliens walking among us.
+Dialogue: 0,0:43:43.62,0:43:45.19,Default,,0,0,0,,Never gonna happen.
+Dialogue: 0,0:43:48.45,0:43:50.83,Default,,0,0,0,,That's a Scotch,\Nstraight-up, for the lady.
+Dialogue: 0,0:43:51.09,0:43:52.36,Default,,0,0,0,,I'm sending you the article.
+Dialogue: 0,0:43:52.63,0:43:55.11,Default,,0,0,0,,My editor won't print it,\Nbut if it leaked online...
+Dialogue: 0,0:43:55.33,0:43:56.64,Default,,0,0,0,,Got it.
+Dialogue: 0,0:43:56.86,0:43:59.31,Default,,0,0,0,,But didn't you once\Ndescribe my site...
+Dialogue: 0,0:43:59.53,0:44:02.34,Default,,0,0,0,,as a creeping\Ncancer of falsehoods?
+Dialogue: 0,0:44:02.94,0:44:05.51,Default,,0,0,0,,I stand by my words,\NWoodburn, but I want this story...
+Dialogue: 0,0:44:05.77,0:44:06.94,Default,,0,0,0,,- out there.\N- Why?
+Dialogue: 0,0:44:07.97,0:44:11.32,Default,,0,0,0,,Because I want my mystery\Nman to know I know the truth.
+Dialogue: 0,0:44:25.66,0:44:27.64,Default,,0,0,0,,Recursive diagnostics complete.
+Dialogue: 0,0:44:28.46,0:44:30.67,Default,,0,0,0,,Guiding presence authenticated.
+Dialogue: 0,0:44:30.90,0:44:33.47,Default,,0,0,0,,All systems operational.
+Dialogue: 0,0:44:45.55,0:44:49.49,Default,,0,0,0,,To see you standing there\Nhaving grown into an adult...
+Dialogue: 0,0:44:51.72,0:44:53.56,Default,,0,0,0,,If only Lara could\Nhave witnessed this.
+Dialogue: 0,0:44:54.69,0:44:55.89,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:44:56.89,0:44:58.87,Default,,0,0,0,,I am your father, Kal.
+Dialogue: 0,0:45:00.23,0:45:02.10,Default,,0,0,0,,Or at least a shadow of him.
+Dialogue: 0,0:45:02.60,0:45:04.34,Default,,0,0,0,,His consciousness.
+Dialogue: 0,0:45:06.10,0:45:09.20,Default,,0,0,0,,My name was Jor-El.
+Dialogue: 0,0:45:11.87,0:45:13.51,Default,,0,0,0,,And Kal?
+Dialogue: 0,0:45:16.74,0:45:17.95,Default,,0,0,0,,That's my name.
+Dialogue: 0,0:45:18.84,0:45:22.05,Default,,0,0,0,,It is.
+Dialogue: 0,0:45:22.75,0:45:24.79,Default,,0,0,0,,I have so many questions.
+Dialogue: 0,0:45:27.52,0:45:29.12,Default,,0,0,0,,Where do I come from?
+Dialogue: 0,0:45:30.86,0:45:32.73,Default,,0,0,0,,Why did you send me here?
+Dialogue: 0,0:45:33.56,0:45:35.44,Default,,0,0,0,,You came from Krypton.
+Dialogue: 0,0:45:38.13,0:45:42.14,Default,,0,0,0,,A world with a much harsher\Nenvironment than Earths.
+Dialogue: 0,0:45:45.94,0:45:47.58,Default,,0,0,0,,Long ago...
+Dialogue: 0,0:45:47.81,0:45:50.05,Default,,0,0,0,,in an era of expansion...
+Dialogue: 0,0:45:50.28,0:45:53.49,Default,,0,0,0,,our race spread out\Nthrough the stars...
+Dialogue: 0,0:45:53.75,0:45:56.45,Default,,0,0,0,,seeking new\Nworlds to settle upon.
+Dialogue: 0,0:45:57.58,0:46:01.09,Default,,0,0,0,,This scout ship was one of\Nthousands launched into the void.
+Dialogue: 0,0:46:03.66,0:46:06.26,Default,,0,0,0,,We built outposts\Non other planets...
+Dialogue: 0,0:46:06.49,0:46:10.24,Default,,0,0,0,,musing great machines to\Nreshape environments to our needs.
+Dialogue: 0,0:46:12.43,0:46:16.44,Default,,0,0,0,,For 100,000 years, our\Ncivilization flourished...
+Dialogue: 0,0:46:17.97,0:46:19.97,Default,,0,0,0,,accomplishing wonders.
+Dialogue: 0,0:46:21.14,0:46:22.78,Default,,0,0,0,,What happened?
+Dialogue: 0,0:46:24.78,0:46:27.85,Default,,0,0,0,,Artificial population\Ncontrol was established.
+Dialogue: 0,0:46:28.58,0:46:32.19,Default,,0,0,0,,The outposts on space\Nexploration were abandoned.
+Dialogue: 0,0:46:32.79,0:46:35.36,Default,,0,0,0,,We exhausted our\Nnatural resources.
+Dialogue: 0,0:46:35.62,0:46:39.63,Default,,0,0,0,,As a result, our planet's\Ncore became unstable.
+Dialogue: 0,0:46:42.09,0:46:44.63,Default,,0,0,0,,Eventually, our\Nmilitary leader...
+Dialogue: 0,0:46:44.86,0:46:48.78,Default,,0,0,0,,General Zod, attempted a coup.
+Dialogue: 0,0:46:50.70,0:46:52.88,Default,,0,0,0,,But by then it was too late.
+Dialogue: 0,0:46:54.14,0:46:56.78,Default,,0,0,0,,Your mother and I foresaw\Nthe coming calamity...
+Dialogue: 0,0:46:57.01,0:46:59.82,Default,,0,0,0,,and we took certain steps\Nto ensure your survival.
+Dialogue: 0,0:47:01.88,0:47:03.52,Default,,0,0,0,,This is a genesis chamber.
+Dialogue: 0,0:47:04.38,0:47:07.52,Default,,0,0,0,,All Kryptonians were conceived\Nin chambers such as this.
+Dialogue: 0,0:47:07.79,0:47:11.50,Default,,0,0,0,,Every child was designed to fulfill a\Npare-determined role in our society...
+Dialogue: 0,0:47:11.72,0:47:12.72,Default,,0,0,0,,as a worker...
+Dialogue: 0,0:47:12.83,0:47:15.97,Default,,0,0,0,,a warrior, a leader and so on.
+Dialogue: 0,0:47:16.20,0:47:19.47,Default,,0,0,0,,Your mother and I believed\NKrypton lost something precious.
+Dialogue: 0,0:47:19.70,0:47:21.91,Default,,0,0,0,,The element of\Nchoice, of chance.
+Dialogue: 0,0:47:22.40,0:47:24.57,Default,,0,0,0,,What if a child dreamed\Nof becoming something...
+Dialogue: 0,0:47:24.84,0:47:27.34,Default,,0,0,0,,other than what society\Nhad intended for him or her?
+Dialogue: 0,0:47:28.87,0:47:31.48,Default,,0,0,0,,What if a child aspired\Nto something greater?
+Dialogue: 0,0:47:32.24,0:47:34.25,Default,,0,0,0,,You were the embodiment\Nof that belief, Kal.
+Dialogue: 0,0:47:34.51,0:47:36.99,Default,,0,0,0,,Krypton's first natural\Nbirth in centuries.
+Dialogue: 0,0:47:38.08,0:47:40.76,Default,,0,0,0,,That's why we risked\Nso much to save you.
+Dialogue: 0,0:47:41.89,0:47:43.33,Default,,0,0,0,,Why didn't you come with me?
+Dialogue: 0,0:47:46.86,0:47:48.60,Default,,0,0,0,,We couldn't, Kal.
+Dialogue: 0,0:47:49.66,0:47:50.66,Default,,0,0,0,,No matter how much...
+Dialogue: 0,0:47:50.90,0:47:52.10,Default,,0,0,0,,we wanted to.
+Dialogue: 0,0:47:52.60,0:47:54.60,Default,,0,0,0,,No matter how much we loved you.
+Dialogue: 0,0:47:55.37,0:47:56.75,Default,,0,0,0,,Your mother, Lara, and I...
+Dialogue: 0,0:47:57.00,0:48:00.11,Default,,0,0,0,,were a product of the failures of\Nour world as much as Zod was...
+Dialogue: 0,0:48:00.37,0:48:02.05,Default,,0,0,0,,tied to its fate.
+Dialogue: 0,0:48:02.27,0:48:04.35,Default,,0,0,0,,- So I'm alone.\N- No.
+Dialogue: 0,0:48:06.08,0:48:09.75,Default,,0,0,0,,You're as much a child of\NEarth now as you are of Krypton.
+Dialogue: 0,0:48:10.02,0:48:13.19,Default,,0,0,0,,You can embody the\Nbest of both worlds.
+Dialogue: 0,0:48:13.42,0:48:17.06,Default,,0,0,0,,A dream your mother and I\Ndedicated our lives to preserve.
+Dialogue: 0,0:48:21.59,0:48:24.58,Default,,0,0,0,,The people of Earth are\Ndifferent from us, it's true.
+Dialogue: 0,0:48:24.80,0:48:27.74,Default,,0,0,0,,But, ultimately, I believe\Nthat's a good thing.
+Dialogue: 0,0:48:27.97,0:48:30.41,Default,,0,0,0,,They won't necessarily make\Nthe same mistakes we did.
+Dialogue: 0,0:48:30.64,0:48:32.62,Default,,0,0,0,,Not if you guide them, Kal.
+Dialogue: 0,0:48:34.21,0:48:36.24,Default,,0,0,0,,Not if you give them hope.
+Dialogue: 0,0:48:39.65,0:48:41.82,Default,,0,0,0,,That's what this symbol means.
+Dialogue: 0,0:48:42.55,0:48:44.89,Default,,0,0,0,,The symbol of the\Nhouse of El means hope.
+Dialogue: 0,0:48:45.12,0:48:47.62,Default,,0,0,0,,Embodied within that hope\Nis the fundamental belief...
+Dialogue: 0,0:48:47.89,0:48:51.80,Default,,0,0,0,,in the potential of every\Nperson to be a force for good.
+Dialogue: 0,0:48:52.93,0:48:54.96,Default,,0,0,0,,That's what you can bring them.
+Dialogue: 0,0:49:15.15,0:49:16.99,Default,,0,0,0,,Why am I so different from them?
+Dialogue: 0,0:49:18.25,0:49:20.75,Default,,0,0,0,,Earth's sun is younger and\Nbrighter than Krypton's was.
+Dialogue: 0,0:49:22.66,0:49:25.03,Default,,0,0,0,,Your cells have\Ndrunken its radiation...
+Dialogue: 0,0:49:25.29,0:49:29.30,Default,,0,0,0,,strengthening your muscles,\Nyour skin, your senses.
+Dialogue: 0,0:49:29.83,0:49:33.83,Default,,0,0,0,,Earth's gravity is weaker, yet its\Natmosphere is more nourishing.
+Dialogue: 0,0:49:35.13,0:49:38.14,Default,,0,0,0,,You've grown stronger here\Nthan I ever could have imagined.
+Dialogue: 0,0:49:38.37,0:49:39.97,Default,,0,0,0,,The only way to\Nknow how strong...
+Dialogue: 0,0:49:41.04,0:49:44.18,Default,,0,0,0,,is to keep testing your limits.
+Dialogue: 0,0:50:02.96,0:50:03.96,Default,,0,0,0,,Unh!
+Dialogue: 0,0:50:11.34,0:50:13.18,Default,,0,0,0,,Uh... Oh.
+Dialogue: 0,0:50:14.81,0:50:16.08,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:50:36.43,0:50:40.43,Default,,0,0,0,,You will give the people of\NEarth an ideal to strive towards.
+Dialogue: 0,0:50:42.10,0:50:43.91,Default,,0,0,0,,They'll race behind you.
+Dialogue: 0,0:50:44.17,0:50:45.55,Default,,0,0,0,,They will stumble.
+Dialogue: 0,0:50:45.77,0:50:46.91,Default,,0,0,0,,They will fall.
+Dialogue: 0,0:50:47.17,0:50:48.88,Default,,0,0,0,,But in time...
+Dialogue: 0,0:50:50.41,0:50:53.05,Default,,0,0,0,,they will join you\Nin the sun, Kal.
+Dialogue: 0,0:50:54.55,0:50:56.25,Default,,0,0,0,,In time...
+Dialogue: 0,0:50:56.58,0:50:59.19,Default,,0,0,0,,you will help them\Naccomplish wonders.
+Dialogue: 0,0:52:21.60,0:52:25.55,Default,,0,0,0,,How do you find someone who has\Nspent a lifetime covering his tracks?
+Dialogue: 0,0:52:25.94,0:52:27.54,Default,,0,0,0,,You start with the\Nurban legends...
+Dialogue: 0,0:52:27.81,0:52:30.15,Default,,0,0,0,,- that have sprung up in his wake.\N- That's Joe.
+Dialogue: 0,0:52:30.38,0:52:31.79,Default,,0,0,0,,The friends of a friend...
+Dialogue: 0,0:52:32.01,0:52:34.01,Default,,0,0,0,,- who have seen him.\N- He worked here.
+Dialogue: 0,0:52:34.28,0:52:37.12,Default,,0,0,0,,For some he was a guardian\Nangel. For others, a cipher...
+Dialogue: 0,0:52:37.35,0:52:39.12,Default,,0,0,0,,a ghost who never quite fit in.
+Dialogue: 0,0:52:40.02,0:52:41.50,Default,,0,0,0,,Well, I was saying we were...
+Dialogue: 0,0:52:41.72,0:52:42.96,Default,,0,0,0,,coming towards the oil rig.
+Dialogue: 0,0:52:43.19,0:52:46.33,Default,,0,0,0,,As you work your way back in\Ntime, the stories form a pattern.
+Dialogue: 0,0:52:47.06,0:52:49.13,Default,,0,0,0,,I'm looking for a Pete\NRoss. Do you know him?
+Dialogue: 0,0:52:49.36,0:52:52.21,Default,,0,0,0,,Yeah, he works at the IHOP.\NIf you go down the road...
+Dialogue: 0,0:52:54.13,0:52:55.13,Default,,0,0,0,,Pete Ross?
+Dialogue: 0,0:52:57.17,0:53:00.38,Default,,0,0,0,,I'd like to talk to you about an\Naccident when you were younger.
+Dialogue: 0,0:53:00.64,0:53:03.14,Default,,0,0,0,,A school bus that\Nwent into the river.
+Dialogue: 0,0:53:08.65,0:53:10.75,Default,,0,0,0,,Dusty. Shh-shh-shh.
+Dialogue: 0,0:53:10.92,0:53:11.99,Default,,0,0,0,,Mrs. Kent?
+Dialogue: 0,0:53:12.92,0:53:14.86,Default,,0,0,0,,I'm Lois Lane. I'm\Nfrom the Daily Planet.
+Dialogue: 0,0:53:15.92,0:53:16.92,Default,,0,0,0,,Quiet.
+Dialogue: 0,0:53:18.26,0:53:21.73,Default,,0,0,0,,I'm from the Daily Planet and I'd\Nlike to talk to you about your son.
+Dialogue: 0,0:53:39.85,0:53:43.85,Default,,0,0,0,,I figured if I turned over enough\Nstones you'd eventually find me.
+Dialogue: 0,0:53:49.42,0:53:52.46,Default,,0,0,0,,Where are you from?\NWhat are you doing here?
+Dialogue: 0,0:53:52.73,0:53:54.07,Default,,0,0,0,,Let me tell your story.
+Dialogue: 0,0:53:54.29,0:53:57.43,Default,,0,0,0,,What if I don't\Nwant my story told?
+Dialogue: 0,0:53:57.70,0:53:59.47,Default,,0,0,0,,It's going to come\Nout eventually.
+Dialogue: 0,0:53:59.73,0:54:02.77,Default,,0,0,0,,Somebody's going to get a\Nphotograph or figure out where you live.
+Dialogue: 0,0:54:03.04,0:54:05.98,Default,,0,0,0,,- Then I'll disappear again.\N- The only way you could disappear...
+Dialogue: 0,0:54:06.24,0:54:10.24,Default,,0,0,0,,is to stop helping people altogether,\Nand I sense that's not an option for you.
+Dialogue: 0,0:54:14.41,0:54:18.42,Default,,0,0,0,,My father believed that if the\Nworld found out who I really was...
+Dialogue: 0,0:54:20.42,0:54:21.42,Default,,0,0,0,,they'd reject me...
+Dialogue: 0,0:54:22.15,0:54:23.79,Default,,0,0,0,,out of fear.
+Dialogue: 0,0:54:25.82,0:54:27.90,Default,,0,0,0,,I'm tired of safe.
+Dialogue: 0,0:54:28.13,0:54:30.23,Default,,0,0,0,,I just wanna do something\Nuseful with my life.
+Dialogue: 0,0:54:30.46,0:54:33.07,Default,,0,0,0,,So farming, feeding\Npeople. That's not useful?
+Dialogue: 0,0:54:33.30,0:54:34.30,Default,,0,0,0,,I didn't say that.
+Dialogue: 0,0:54:34.40,0:54:36.50,Default,,0,0,0,,Our family's been farming\Nfor five generations.
+Dialogue: 0,0:54:36.77,0:54:38.68,Default,,0,0,0,,Your family, not mine.
+Dialogue: 0,0:54:38.94,0:54:41.92,Default,,0,0,0,,I don't even know why I'm\Nlistening to you. You're not my dad.
+Dialogue: 0,0:54:42.14,0:54:43.75,Default,,0,0,0,,You're just some guy\Nwho found me in a field.
+Dialogue: 0,0:54:43.78,0:54:44.95,Default,,0,0,0,,Clark.
+Dialogue: 0,0:54:47.31,0:54:48.99,Default,,0,0,0,,It's all right, Martha.
+Dialogue: 0,0:54:50.82,0:54:52.92,Default,,0,0,0,,He's right. Clark has a point.
+Dialogue: 0,0:54:53.49,0:54:54.52,Default,,0,0,0,,We're not your parents.
+Dialogue: 0,0:54:56.62,0:54:58.33,Default,,0,0,0,,But we've been\Ndoing the best we can.
+Dialogue: 0,0:54:58.59,0:55:01.97,Default,,0,0,0,,And we've been making this\Nup as we go along, so maybe...
+Dialogue: 0,0:55:02.19,0:55:04.61,Default,,0,0,0,,Maybe our best isn't\Ngood enough anymore.
+Dialogue: 0,0:55:09.64,0:55:11.67,Default,,0,0,0,,Look, Dad...
+Dialogue: 0,0:55:11.94,0:55:13.38,Default,,0,0,0,,Hold on.
+Dialogue: 0,0:55:33.13,0:55:34.83,Default,,0,0,0,,Go for the overpass.
+Dialogue: 0,0:55:36.63,0:55:37.73,Default,,0,0,0,,Go for the overpass!
+Dialogue: 0,0:55:40.07,0:55:41.70,Default,,0,0,0,,Take cover! Take cover!
+Dialogue: 0,0:55:41.97,0:55:44.35,Default,,0,0,0,,- Over there. Just follow them.\N- Take cover.
+Dialogue: 0,0:55:48.07,0:55:49.25,Default,,0,0,0,,She's stuck.
+Dialogue: 0,0:55:53.81,0:55:55.69,Default,,0,0,0,,Hank's still in the car.
+Dialogue: 0,0:55:56.52,0:55:57.55,Default,,0,0,0,,Hank's in the car.
+Dialogue: 0,0:55:58.42,0:56:00.56,Default,,0,0,0,,- I'll get him, I'll get him.\N- No, no.
+Dialogue: 0,0:56:01.09,0:56:03.33,Default,,0,0,0,,Get your mom to the overpass.
+Dialogue: 0,0:56:21.71,0:56:23.52,Default,,0,0,0,,Hank! Hank! Come!
+Dialogue: 0,0:56:32.42,0:56:33.62,Default,,0,0,0,,- Jonathan!\N- Mom, it's okay.
+Dialogue: 0,0:56:54.64,0:56:56.09,Default,,0,0,0,,- Jonathan!\N- Mom, stay here.
+Dialogue: 0,0:57:21.90,0:57:24.40,Default,,0,0,0,,Dad!
+Dialogue: 0,0:57:26.94,0:57:30.01,Default,,0,0,0,,I let my father die\Nbecause I trusted him.
+Dialogue: 0,0:57:30.91,0:57:34.82,Default,,0,0,0,,Because he was\Nconvinced that I had to wait.
+Dialogue: 0,0:57:35.58,0:57:37.75,Default,,0,0,0,,That the world was not ready.
+Dialogue: 0,0:57:39.48,0:57:41.12,Default,,0,0,0,,What do you think?
+Dialogue: 0,0:57:46.02,0:57:47.66,Default,,0,0,0,,You better watch out, Lois.
+Dialogue: 0,0:57:48.16,0:57:50.47,Default,,0,0,0,,Hey, Perry's gunning for you.
+Dialogue: 0,0:57:50.70,0:57:54.47,Default,,0,0,0,,He knows you're Wood burns anonymous source\Nand cannot wait to rip you a new one.
+Dialogue: 0,0:57:56.84,0:57:58.28,Default,,0,0,0,,Oh, look at her. Ha, ha, ha.
+Dialogue: 0,0:58:00.27,0:58:02.81,Default,,0,0,0,,I told you not to run with\Nthis, and what do you do?
+Dialogue: 0,0:58:03.04,0:58:05.54,Default,,0,0,0,,You let Wood burn just\Nshotgun it all over the Internet.
+Dialogue: 0,0:58:05.81,0:58:08.69,Default,,0,0,0,,Now the publishers\Nwant me to sue you.
+Dialogue: 0,0:58:08.95,0:58:12.19,Default,,0,0,0,,Well, if it makes a\Ndifference, I'm dropping it.
+Dialogue: 0,0:58:12.45,0:58:13.45,Default,,0,0,0,,Whoa, just like that?
+Dialogue: 0,0:58:13.69,0:58:14.69,Default,,0,0,0,,Yep.
+Dialogue: 0,0:58:15.05,0:58:16.36,Default,,0,0,0,,What happened to your leads?
+Dialogue: 0,0:58:17.02,0:58:19.66,Default,,0,0,0,,They didn't pan out.\NThe story is smoke.
+Dialogue: 0,0:58:19.89,0:58:21.84,Default,,0,0,0,,Or it didn't get the\Ntraction you hoped?
+Dialogue: 0,0:58:24.20,0:58:25.20,Default,,0,0,0,,Two weeks leave...
+Dialogue: 0,0:58:25.30,0:58:26.90,Default,,0,0,0,,no pay, that's your penance.
+Dialogue: 0,0:58:27.17,0:58:28.84,Default,,0,0,0,,You try something\Nlike this again...
+Dialogue: 0,0:58:29.07,0:58:30.74,Default,,0,0,0,,- you're done here.\N- Fine.
+Dialogue: 0,0:58:31.00,0:58:33.71,Default,,0,0,0,,Let's make it three weeks\Nsince you're so willing to agree.
+Dialogue: 0,0:58:33.97,0:58:35.47,Default,,0,0,0,,- Perry.\N- No, no. Don't. Don't.
+Dialogue: 0,0:58:37.14,0:58:38.82,Default,,0,0,0,,I believe you saw\Nsomething, Lois.
+Dialogue: 0,0:58:39.31,0:58:42.32,Default,,0,0,0,,But not for a moment do I believe\Nthat your leads just went cold.
+Dialogue: 0,0:58:42.55,0:58:46.05,Default,,0,0,0,,So whatever your\Nreasons are for dropping it...
+Dialogue: 0,0:58:47.09,0:58:48.93,Default,,0,0,0,,I think you're\Ndoing the right thing.
+Dialogue: 0,0:58:49.49,0:58:50.73,Default,,0,0,0,,Why?
+Dialogue: 0,0:58:52.09,0:58:55.73,Default,,0,0,0,,Can you imagine how people\Non this planet would react...
+Dialogue: 0,0:58:58.00,0:59:01.44,Default,,0,0,0,,if they knew there was\Nsomeone like this out there?
+Dialogue: 0,0:59:19.58,0:59:20.59,Default,,0,0,0,,Go get him.
+Dialogue: 0,0:59:27.43,0:59:29.06,Default,,0,0,0,,Well, look at you.
+Dialogue: 0,0:59:46.11,0:59:47.92,Default,,0,0,0,,A reporter came by here.
+Dialogue: 0,0:59:48.48,0:59:50.72,Default,,0,0,0,,She's a friend. Don't worry.
+Dialogue: 0,0:59:51.45,0:59:52.79,Default,,0,0,0,,Oh.
+Dialogue: 0,0:59:53.72,0:59:54.72,Default,,0,0,0,,Mom.
+Dialogue: 0,0:59:54.75,0:59:56.49,Default,,0,0,0,,- Heh, heh, heh.\N- What?
+Dialogue: 0,0:59:57.96,1:00:00.49,Default,,0,0,0,,- I found them.\N- Who?
+Dialogue: 0,1:00:01.33,1:00:02.83,Default,,0,0,0,,My parents.
+Dialogue: 0,1:00:04.00,1:00:05.34,Default,,0,0,0,,My People.
+Dialogue: 0,1:00:06.23,1:00:09.44,Default,,0,0,0,,I know where I come from now.
+Dialogue: 0,1:00:10.84,1:00:12.11,Default,,0,0,0,,Wow.
+Dialogue: 0,1:00:13.17,1:00:14.95,Default,,0,0,0,,That's wonderful.
+Dialogue: 0,1:00:16.81,1:00:19.25,Default,,0,0,0,,I'm so happy for you, Clark.
+Dialogue: 0,1:00:28.09,1:00:30.62,Default,,0,0,0,,- What?\N- It's nothing.
+Dialogue: 0,1:00:33.33,1:00:36.27,Default,,0,0,0,,When you were a baby I used\Nto lay by your crib at night...
+Dialogue: 0,1:00:36.50,1:00:38.87,Default,,0,0,0,,listening to you breathe.
+Dialogue: 0,1:00:39.93,1:00:41.54,Default,,0,0,0,,It was hard for you.
+Dialogue: 0,1:00:42.77,1:00:44.14,Default,,0,0,0,,You struggled.
+Dialogue: 0,1:00:44.37,1:00:46.21,Default,,0,0,0,,And I worried all the time.
+Dialogue: 0,1:00:46.47,1:00:48.31,Default,,0,0,0,,You worried the\Ntruth would come out.
+Dialogue: 0,1:00:49.84,1:00:51.05,Default,,0,0,0,,No.
+Dialogue: 0,1:00:52.01,1:00:54.62,Default,,0,0,0,,The truth about\Nyou is beautiful.
+Dialogue: 0,1:00:55.05,1:00:58.49,Default,,0,0,0,,We saw that the moment\Nwe laid eyes on you.
+Dialogue: 0,1:01:00.79,1:01:04.79,Default,,0,0,0,,We knew that one day, the\Nwhole world would see that.
+Dialogue: 0,1:01:07.23,1:01:08.86,Default,,0,0,0,,I'm just...
+Dialogue: 0,1:01:09.49,1:01:11.57,Default,,0,0,0,,I'm worried they'll\Ntake you away from me.
+Dialogue: 0,1:01:13.80,1:01:16.18,Default,,0,0,0,,I'm not going anywhere, Mom.
+Dialogue: 0,1:01:18.00,1:01:19.51,Default,,0,0,0,,I promise.
+Dialogue: 0,1:01:25.71,1:01:27.88,Default,,0,0,0,,General Swan wick, sir.
+Dialogue: 0,1:01:28.15,1:01:31.89,Default,,0,0,0,,What am I looking at,\Ndoc? Comet? Asteroid?
+Dialogue: 0,1:01:33.05,1:01:37.06,Default,,0,0,0,,Comets don't make\Ncourse corrections, general.
+Dialogue: 0,1:01:39.86,1:01:41.83,Default,,0,0,0,,Wanted you to see this\Nbefore some amateur
+Dialogue: 0,1:01:41.84,1:01:43.86,Default,,0,0,0,,with a telescope creates\Na worldwide panic.
+Dialogue: 0,1:01:45.53,1:01:46.91,Default,,0,0,0,,The ship appears to have...
+Dialogue: 0,1:01:47.17,1:01:49.91,Default,,0,0,0,,inserted itself into a\Nlunar synchronous orbit...
+Dialogue: 0,1:01:50.17,1:01:52.34,Default,,0,0,0,,though I have no idea why.
+Dialogue: 0,1:01:52.57,1:01:55.42,Default,,0,0,0,,Have you tried...\Ncommunicating with it?
+Dialogue: 0,1:01:55.67,1:01:59.68,Default,,0,0,0,,Well, they haven't\Nresponded as of yet.
+Dialogue: 0,1:02:00.95,1:02:04.95,Default,,0,0,0,,I'm just speculating, but I think\Nwhoever? At the helm of that thing...
+Dialogue: 0,1:02:05.22,1:02:07.72,Default,,0,0,0,,is looking to make\Na dramatic entrance.
+Dialogue: 0,1:02:14.59,1:02:16.07,Default,,0,0,0,,Anybody know where\Nwe keep the toner?
+Dialogue: 0,1:02:17.03,1:02:18.94,Default,,0,0,0,,- What's going on?\N- It's all over the news.
+Dialogue: 0,1:02:19.20,1:02:21.14,Default,,0,0,0,,You gotta see this.
+Dialogue: 0,1:02:48.13,1:02:49.63,Default,,0,0,0,,Clark.
+Dialogue: 0,1:02:50.00,1:02:51.13,Default,,0,0,0,,Yeah?
+Dialogue: 0,1:02:51.40,1:02:52.74,Default,,0,0,0,,Coming.
+Dialogue: 0,1:02:53.06,1:02:55.10,Default,,0,0,0,,This is a breaking\Nnews. An unidentified...
+Dialogue: 0,1:03:36.98,1:03:39.05,Default,,0,0,0,,You are not alone.
+Dialogue: 0,1:03:40.71,1:03:43.06,Default,,0,0,0,,You are not alone.
+Dialogue: 0,1:03:44.98,1:03:47.22,Default,,0,0,0,,You are not alone.
+Dialogue: 0,1:03:52.89,1:03:55.50,Default,,0,0,0,,You are not alone.
+Dialogue: 0,1:04:20.92,1:04:22.42,Default,,0,0,0,,It's coming in on the RSS feeds.
+Dialogue: 0,1:04:22.69,1:04:24.56,Default,,0,0,0,,You are not alone.
+Dialogue: 0,1:04:25.19,1:04:27.23,Default,,0,0,0,,It's on my phone too.
+Dialogue: 0,1:04:29.39,1:04:31.84,Default,,0,0,0,,My name is General Zod.
+Dialogue: 0,1:04:33.67,1:04:36.44,Default,,0,0,0,,I come from a\Nworld far from yours.
+Dialogue: 0,1:04:37.84,1:04:41.84,Default,,0,0,0,,I have journeyed across an\Nocean of stars to reach you.
+Dialogue: 0,1:04:43.94,1:04:47.95,Default,,0,0,0,,For some time, your world\Nhas sheltered one of my citizens.
+Dialogue: 0,1:04:48.58,1:04:51.79,Default,,0,0,0,,I request that you\Nreturn this individual...
+Dialogue: 0,1:04:52.05,1:04:54.19,Default,,0,0,0,,to my custody.
+Dialogue: 0,1:04:54.42,1:04:58.42,Default,,0,0,0,,For reasons unknown, he has\Nchosen to keep his existence...
+Dialogue: 0,1:04:58.69,1:05:00.53,Default,,0,0,0,,a secret from you.
+Dialogue: 0,1:05:01.59,1:05:04.77,Default,,0,0,0,,He will have made\Nefforts to blend in.
+Dialogue: 0,1:05:05.36,1:05:07.04,Default,,0,0,0,,He will look like you.
+Dialogue: 0,1:05:07.77,1:05:10.37,Default,,0,0,0,,But he is not one of you.
+Dialogue: 0,1:05:11.57,1:05:13.41,Default,,0,0,0,,To those of you who may know...
+Dialogue: 0,1:05:13.64,1:05:15.64,Default,,0,0,0,,of his current location...
+Dialogue: 0,1:05:15.91,1:05:18.44,Default,,0,0,0,,...fate of your planet...
+Dialogue: 0,1:05:18.71,1:05:21.38,Default,,0,0,0,,rests in your hands.
+Dialogue: 0,1:05:22.45,1:05:25.49,Default,,0,0,0,,To Kal-El, I say this:
+Dialogue: 0,1:05:27.55,1:05:30.23,Default,,0,0,0,,Surrender within 24 hours...
+Dialogue: 0,1:05:34.49,1:05:37.47,Default,,0,0,0,,or watch this world\Nsuffer the consequences.
+Dialogue: 0,1:05:41.40,1:05:42.40,Default,,0,0,0,,Ah!
+Dialogue: 0,1:05:53.24,1:05:55.22,Default,,0,0,0,,We hardly know anything\Nabout him, isn't that right?
+Dialogue: 0,1:05:55.25,1:05:57.25,Default,,0,0,0,,If he truly means us no harm...
+Dialogue: 0,1:05:57.48,1:05:59.48,Default,,0,0,0,,he'll turn himself in and\Nface the consequences.
+Dialogue: 0,1:06:00.12,1:06:01.32,Default,,0,0,0,,And if he won't do that...
+Dialogue: 0,1:06:01.59,1:06:03.59,Default,,0,0,0,,then maybe we should.
+Dialogue: 0,1:06:03.82,1:06:06.80,Default,,0,0,0,,The Daily Planet's Lois\NLane knows who this guy is.
+Dialogue: 0,1:06:07.03,1:06:08.90,Default,,0,0,0,,And I think that she's the\None we should be questioning.
+Dialogue: 0,1:06:08.93,1:06:11.67,Default,,0,0,0,,- Hold on. You're saying Lois Lane...\N- Hello?
+Dialogue: 0,1:06:11.93,1:06:14.43,Default,,0,0,0,,Are you watching this crap?\NBeen running all morning.
+Dialogue: 0,1:06:14.67,1:06:16.98,Default,,0,0,0,,For once I agree with\NWoodburn. Have you seen him?
+Dialogue: 0,1:06:17.20,1:06:20.51,Default,,0,0,0,,- Do you know where he is?\N- No. Even if I did, I wouldn't say.
+Dialogue: 0,1:06:20.77,1:06:23.95,Default,,0,0,0,,The entire world is\Nbeing threatened here.
+Dialogue: 0,1:06:24.18,1:06:25.81,Default,,0,0,0,,This is not time\Nfor you to fall...
+Dialogue: 0,1:06:26.04,1:06:28.39,Default,,0,0,0,,back on journalistic integrity.
+Dialogue: 0,1:06:28.65,1:06:30.13,Default,,0,0,0,,This is serious, Lois.
+Dialogue: 0,1:06:30.35,1:06:33.33,Default,,0,0,0,,The FBI is here. They're throwing\Naround words like "treason".
+Dialogue: 0,1:06:33.55,1:06:35.22,Default,,0,0,0,,I gotta go.
+Dialogue: 0,1:06:51.37,1:06:52.71,Default,,0,0,0,,FBI. Hands up.
+Dialogue: 0,1:06:52.97,1:06:54.75,Default,,0,0,0,,Drop the bag. Now.
+Dialogue: 0,1:07:01.65,1:07:03.89,Default,,0,0,0,,Regarding the visitors\Nthemselves we know...
+Dialogue: 0,1:07:04.15,1:07:06.59,Default,,0,0,0,,very little. According\Nto government officials...
+Dialogue: 0,1:07:06.85,1:07:09.33,Default,,0,0,0,,the visitors do not\Nrepresent a threat...
+Dialogue: 0,1:07:09.55,1:07:11.73,Default,,0,0,0,,{\i1}despite the ominous\Ntone of their message.{\i0}
+Dialogue: 0,1:07:11.99,1:07:14.49,Default,,0,0,0,,Then of course there's the\Nquestion on everyone's mind:
+Dialogue: 0,1:07:14.73,1:07:18.54,Default,,0,0,0,,"Who is this Kal-El person?\NDoes he actually exist?
+Dialogue: 0,1:07:18.76,1:07:21.44,Default,,0,0,0,,How could he have remained\Nhidden from us for so long?"
+Dialogue: 0,1:07:26.07,1:07:27.38,Default,,0,0,0,,Come on, Kent.
+Dialogue: 0,1:07:34.45,1:07:35.55,Default,,0,0,0,,Come on. Fight back.
+Dialogue: 0,1:07:35.78,1:07:37.38,Default,,0,0,0,,Get up, Kent.
+Dialogue: 0,1:07:40.69,1:07:42.06,Default,,0,0,0,,So is that it?
+Dialogue: 0,1:07:42.52,1:07:44.02,Default,,0,0,0,,Is that all you've got?
+Dialogue: 0,1:07:45.69,1:07:47.19,Default,,0,0,0,,Come on, Kent.
+Dialogue: 0,1:07:48.43,1:07:49.80,Default,,0,0,0,,Come on!
+Dialogue: 0,1:08:18.42,1:08:19.56,Default,,0,0,0,,Did they hurt you?
+Dialogue: 0,1:08:20.83,1:08:22.24,Default,,0,0,0,,You know they can't.
+Dialogue: 0,1:08:22.59,1:08:25.47,Default,,0,0,0,,That's not what I meant.\NI meant, are you all right?
+Dialogue: 0,1:08:27.47,1:08:29.78,Default,,0,0,0,,I wanted to hit that kid. I\Nwanted to hit him so bad.
+Dialogue: 0,1:08:30.00,1:08:31.48,Default,,0,0,0,,I know you did. I mean...
+Dialogue: 0,1:08:31.74,1:08:34.44,Default,,0,0,0,,part of me even wanted\Nyou to, but then what?
+Dialogue: 0,1:08:35.14,1:08:36.31,Default,,0,0,0,,Make you feel any better?
+Dialogue: 0,1:08:39.68,1:08:43.68,Default,,0,0,0,,You just have to decide what kind of\Nman you want to grow up to be, Clark.
+Dialogue: 0,1:08:43.95,1:08:47.66,Default,,0,0,0,,Because whoever that man\Nis, good character or bad, he's...
+Dialogue: 0,1:08:49.29,1:08:51.43,Default,,0,0,0,,He's gonna change the world.
+Dialogue: 0,1:08:56.66,1:08:57.70,Default,,0,0,0,,What's on your mind?
+Dialogue: 0,1:09:03.77,1:09:05.04,Default,,0,0,0,,I don't know where to start.
+Dialogue: 0,1:09:05.67,1:09:07.27,Default,,0,0,0,,Wherever you want.
+Dialogue: 0,1:09:09.44,1:09:11.55,Default,,0,0,0,,That ship that\Nappeared last night.
+Dialogue: 0,1:09:12.88,1:09:14.69,Default,,0,0,0,,I'm the one they're looking for.
+Dialogue: 0,1:09:19.18,1:09:20.69,Default,,0,0,0,,Do you know...
+Dialogue: 0,1:09:21.49,1:09:22.62,Default,,0,0,0,,why they want you?
+Dialogue: 0,1:09:22.85,1:09:25.46,Default,,0,0,0,,No. But this General Zod...
+Dialogue: 0,1:09:25.69,1:09:29.70,Default,,0,0,0,,even if I surrender, there's no\Nguarantee he'll keep his word, but...
+Dialogue: 0,1:09:29.96,1:09:33.97,Default,,0,0,0,,if there's a chance I can save\NEarth by turning myself in...
+Dialogue: 0,1:09:35.57,1:09:36.70,Default,,0,0,0,,shouldn't I take it?
+Dialogue: 0,1:09:38.20,1:09:40.08,Default,,0,0,0,,What does your gut tell you?
+Dialogue: 0,1:09:40.81,1:09:42.51,Default,,0,0,0,,Zod can't be trusted.
+Dialogue: 0,1:09:45.14,1:09:46.71,Default,,0,0,0,,The problem is...
+Dialogue: 0,1:09:47.75,1:09:50.35,Default,,0,0,0,,I'm not sure the people\Nof Earth can be either.
+Dialogue: 0,1:09:58.36,1:10:01.34,Default,,0,0,0,,Sometimes you have to\Ntake a leap of faith first.
+Dialogue: 0,1:10:02.73,1:10:04.76,Default,,0,0,0,,The trust part comes later.
+Dialogue: 0,1:10:28.92,1:10:31.63,Default,,0,0,0,,All right. You've\Ngot our attention.
+Dialogue: 0,1:10:32.12,1:10:33.12,Default,,0,0,0,,What is it you want?
+Dialogue: 0,1:10:33.39,1:10:35.20,Default,,0,0,0,,I would like to\Nspeak to Lois Lane.
+Dialogue: 0,1:10:35.43,1:10:36.71,Default,,0,0,0,,What makes you think she's here?
+Dialogue: 0,1:10:37.63,1:10:39.70,Default,,0,0,0,,Don't play games\Nwith me, general.
+Dialogue: 0,1:10:39.93,1:10:43.94,Default,,0,0,0,,I'll surrender, but only if you\Nguarantee Lois's freedom.
+Dialogue: 0,1:10:54.05,1:10:55.99,Default,,0,0,0,,Why are you surrendering to Zod?
+Dialogue: 0,1:10:57.22,1:11:00.82,Default,,0,0,0,,I'm surrendering to\Nmankind. There's a difference.
+Dialogue: 0,1:11:01.95,1:11:03.90,Default,,0,0,0,,You let them handcuff you?
+Dialogue: 0,1:11:04.62,1:11:07.07,Default,,0,0,0,,Wouldn't be much of\Na surrender if I resisted.
+Dialogue: 0,1:11:08.56,1:11:10.60,Default,,0,0,0,,And if it makes them\Nfeel more secure...
+Dialogue: 0,1:11:11.66,1:11:13.51,Default,,0,0,0,,then all the better for it.
+Dialogue: 0,1:11:17.94,1:11:19.11,Default,,0,0,0,,What's the S stand for?
+Dialogue: 0,1:11:22.74,1:11:24.31,Default,,0,0,0,,It's not an S.
+Dialogue: 0,1:11:25.78,1:11:27.35,Default,,0,0,0,,On my world it means hope.
+Dialogue: 0,1:11:29.31,1:11:32.82,Default,,0,0,0,,Well, here, it's an S.
+Dialogue: 0,1:11:34.85,1:11:36.42,Default,,0,0,0,,How about...
+Dialogue: 0,1:11:40.76,1:11:41.76,Default,,0,0,0,,Super...
+Dialogue: 0,1:11:41.99,1:11:43.03,Default,,0,0,0,,Sir?
+Dialogue: 0,1:11:43.29,1:11:46.64,Default,,0,0,0,,- Hi, my name is Dr. E...\N- Emil Hamilton.
+Dialogue: 0,1:11:46.86,1:11:49.85,Default,,0,0,0,,I know, I can see your ID\Ntag in your breast pocket.
+Dialogue: 0,1:11:50.10,1:11:52.14,Default,,0,0,0,,Along with a half-eaten\Nroll of Lifesavers.
+Dialogue: 0,1:11:53.30,1:11:55.65,Default,,0,0,0,,I can also see the\Nsoldiers in the next room...
+Dialogue: 0,1:11:55.87,1:11:58.18,Default,,0,0,0,,preparing that\Ntranquilizing agent of yours.
+Dialogue: 0,1:11:58.44,1:11:59.89,Default,,0,0,0,,You won't need it.
+Dialogue: 0,1:12:00.14,1:12:03.18,Default,,0,0,0,,Sir, you can't expect us\Nto not take precautions.
+Dialogue: 0,1:12:03.45,1:12:05.86,Default,,0,0,0,,You could be carrying\Nsome kind of alien pathogen.
+Dialogue: 0,1:12:06.12,1:12:07.56,Default,,0,0,0,,Been here for 33 years, doctor.
+Dialogue: 0,1:12:07.82,1:12:11.73,Default,,0,0,0,,- Haven't infected anyone yet.\N- That you know of. We have legitimate...
+Dialogue: 0,1:12:11.99,1:12:15.37,Default,,0,0,0,,security concerns. You revealed\Nyour identity to Miss Lane over there.
+Dialogue: 0,1:12:16.36,1:12:18.57,Default,,0,0,0,,Why won't you do\Nthe same with us?
+Dialogue: 0,1:12:19.53,1:12:21.87,Default,,0,0,0,,Let's put our cards on\Nthe table here, general.
+Dialogue: 0,1:12:23.33,1:12:25.05,Default,,0,0,0,,You're scared because\Nyou can't control me.
+Dialogue: 0,1:12:25.64,1:12:28.17,Default,,0,0,0,,You don't, and you never will.
+Dialogue: 0,1:12:29.01,1:12:30.99,Default,,0,0,0,,But that doesn't\Nmean I'm your enemy.
+Dialogue: 0,1:12:31.21,1:12:32.71,Default,,0,0,0,,Then who is?
+Dialogue: 0,1:12:32.98,1:12:34.39,Default,,0,0,0,,Zod?
+Dialogue: 0,1:12:35.01,1:12:36.42,Default,,0,0,0,,That's what I'm worried about.
+Dialogue: 0,1:12:37.01,1:12:38.72,Default,,0,0,0,,Be that as it may...
+Dialogue: 0,1:12:38.98,1:12:41.76,Default,,0,0,0,,I've been given orders\Nto hand you over to him.
+Dialogue: 0,1:12:42.99,1:12:44.86,Default,,0,0,0,,Do what you have to do, general.
+Dialogue: 0,1:12:49.66,1:12:50.66,Default,,0,0,0,,Thank you.
+Dialogue: 0,1:12:51.56,1:12:52.56,Default,,0,0,0,,For what?
+Dialogue: 0,1:12:53.70,1:12:55.27,Default,,0,0,0,,For believing in me.
+Dialogue: 0,1:12:58.34,1:13:00.37,Default,,0,0,0,,Didn't make much\Ndifference in the end.
+Dialogue: 0,1:13:01.21,1:13:02.74,Default,,0,0,0,,It did to me.
+Dialogue: 0,1:13:23.36,1:13:24.90,Default,,0,0,0,,They're coming.
+Dialogue: 0,1:13:25.70,1:13:27.20,Default,,0,0,0,,You should leave now.
+Dialogue: 0,1:13:30.30,1:13:31.87,Default,,0,0,0,,Go, Lois.
+Dialogue: 0,1:14:42.77,1:14:44.15,Default,,0,0,0,,Kal-El.
+Dialogue: 0,1:14:44.68,1:14:46.71,Default,,0,0,0,,I'm sub-commander Faora-Ul.
+Dialogue: 0,1:14:47.38,1:14:50.66,Default,,0,0,0,,On behalf of General Zod,\NI extend you his greetings.
+Dialogue: 0,1:14:56.69,1:14:59.79,Default,,0,0,0,,- Are you the ranking officer here?\N- I am.
+Dialogue: 0,1:15:00.02,1:15:02.00,Default,,0,0,0,,General Zod would\Nlike this woman...
+Dialogue: 0,1:15:02.23,1:15:03.86,Default,,0,0,0,,to accompany me.
+Dialogue: 0,1:15:04.83,1:15:05.97,Default,,0,0,0,,You asked for the alien.
+Dialogue: 0,1:15:07.40,1:15:10.35,Default,,0,0,0,,You didn't say anything\Nabout one of our own.
+Dialogue: 0,1:15:10.57,1:15:13.71,Default,,0,0,0,,Shall I tell the general\Nyou're unwilling to comply?
+Dialogue: 0,1:15:13.97,1:15:15.85,Default,,0,0,0,,I don't care what you tell him.
+Dialogue: 0,1:15:18.84,1:15:20.25,Default,,0,0,0,,It's all right.
+Dialogue: 0,1:15:21.35,1:15:22.55,Default,,0,0,0,,I'll go.
+Dialogue: 0,1:16:05.39,1:16:09.24,Default,,0,0,0,,The atmospheric composition on\Nour ship is not compatible with humans.
+Dialogue: 0,1:16:09.46,1:16:10.87,Default,,0,0,0,,You need to wear a breather...
+Dialogue: 0,1:16:11.10,1:16:12.77,Default,,0,0,0,,beyond this point.
+Dialogue: 0,1:16:37.92,1:16:38.92,Default,,0,0,0,,Kal-El.
+Dialogue: 0,1:16:40.79,1:16:42.43,Default,,0,0,0,,You have no idea how long...
+Dialogue: 0,1:16:42.66,1:16:44.73,Default,,0,0,0,,we've been searching for you.
+Dialogue: 0,1:16:45.16,1:16:46.16,Default,,0,0,0,,I take it you're Zod?
+Dialogue: 0,1:16:46.43,1:16:47.57,Default,,0,0,0,,General Zod.
+Dialogue: 0,1:16:47.80,1:16:49.61,Default,,0,0,0,,- Our commander.\N- It's all right, Faora.
+Dialogue: 0,1:16:49.83,1:16:52.51,Default,,0,0,0,,We can forgive Kal\Nany lapses in decorum.
+Dialogue: 0,1:16:52.77,1:16:54.68,Default,,0,0,0,,He's a stranger to our ways.
+Dialogue: 0,1:16:54.94,1:16:55.97,Default,,0,0,0,,This should be 'cause...
+Dialogue: 0,1:16:56.24,1:16:59.28,Default,,0,0,0,,for celebration, not conflict.
+Dialogue: 0,1:16:59.51,1:17:01.68,Default,,0,0,0,,- Unh.\N- Not conflict.
+Dialogue: 0,1:17:04.12,1:17:05.15,Default,,0,0,0,,I...
+Dialogue: 0,1:17:05.42,1:17:06.62,Default,,0,0,0,,feel strange.
+Dialogue: 0,1:17:09.35,1:17:10.66,Default,,0,0,0,,Weak.
+Dialogue: 0,1:17:12.86,1:17:14.00,Default,,0,0,0,,What's happening to him?
+Dialogue: 0,1:17:14.26,1:17:16.80,Default,,0,0,0,,He's rejecting our\Nship's atmospherics.
+Dialogue: 0,1:17:17.03,1:17:17.63,Default,,0,0,0,,Clark.
+Dialogue: 0,1:17:17.86,1:17:20.54,Default,,0,0,0,,You've spent a lifetime\Nadapting to Earth's ecology...
+Dialogue: 0,1:17:20.70,1:17:21.74,Default,,0,0,0,,but never adapted to ours.
+Dialogue: 0,1:17:21.80,1:17:22.83,Default,,0,0,0,,Help him.
+Dialogue: 0,1:17:23.10,1:17:24.64,Default,,0,0,0,,I can't. Whatever's happening...
+Dialogue: 0,1:17:24.87,1:17:27.11,Default,,0,0,0,,- has to run its course.\N- Clark.
+Dialogue: 0,1:17:28.47,1:17:29.78,Default,,0,0,0,,Help him.
+Dialogue: 0,1:17:31.54,1:17:32.71,Default,,0,0,0,,Help him.
+Dialogue: 0,1:17:44.36,1:17:45.89,Default,,0,0,0,,Hello, Kal.
+Dialogue: 0,1:17:47.56,1:17:48.63,Default,,0,0,0,,Or do you prefer Clark?
+Dialogue: 0,1:17:50.36,1:17:51.74,Default,,0,0,0,,That's the name they gave you.
+Dialogue: 0,1:17:52.00,1:17:53.30,Default,,0,0,0,,Isn't it?
+Dialogue: 0,1:17:54.57,1:17:56.31,Default,,0,0,0,,I was Krypton's\Nmilitary leader...
+Dialogue: 0,1:17:56.53,1:17:58.98,Default,,0,0,0,,your father our\Nforemost scientist.
+Dialogue: 0,1:17:59.20,1:18:00.65,Default,,0,0,0,,The only thing we agreed on...
+Dialogue: 0,1:18:00.87,1:18:03.65,Default,,0,0,0,,was that Krypton was\Ndying. In return for my efforts...
+Dialogue: 0,1:18:03.87,1:18:06.41,Default,,0,0,0,,to protect our civilization...
+Dialogue: 0,1:18:06.68,1:18:08.75,Default,,0,0,0,,and save our planet...
+Dialogue: 0,1:18:09.01,1:18:13.02,Default,,0,0,0,,I and my fellow officers were\Nsentenced to the Phantom Zone.
+Dialogue: 0,1:18:15.99,1:18:19.23,Default,,0,0,0,,And then the\Ndestruction of our world...
+Dialogue: 0,1:18:19.49,1:18:20.99,Default,,0,0,0,,freed us.
+Dialogue: 0,1:18:26.16,1:18:29.67,Default,,0,0,0,,We were adrift,\Ndestined to float...
+Dialogue: 0,1:18:29.90,1:18:31.85,Default,,0,0,0,,amongst the ruins\Nof our planet...
+Dialogue: 0,1:18:32.07,1:18:33.95,Default,,0,0,0,,Until we starved.
+Dialogue: 0,1:18:34.84,1:18:36.44,Default,,0,0,0,,How did you find\Nyour way to Earth?
+Dialogue: 0,1:18:37.21,1:18:41.21,Default,,0,0,0,,We managed to retrofit the\Nphantom projector into a hyper drive.
+Dialogue: 0,1:18:41.71,1:18:44.89,Default,,0,0,0,,Your father made a similar modification\Nto the craft that brought you here.
+Dialogue: 0,1:18:46.92,1:18:50.02,Default,,0,0,0,,And so the instrument\Nof our damnation...
+Dialogue: 0,1:18:52.06,1:18:53.87,Default,,0,0,0,,became our salvation.
+Dialogue: 0,1:18:58.80,1:19:01.30,Default,,0,0,0,,We sought out the\Nold colonial outposts...
+Dialogue: 0,1:19:01.57,1:19:03.77,Default,,0,0,0,,looking for signs of life.
+Dialogue: 0,1:19:06.24,1:19:09.05,Default,,0,0,0,,But all we found was death.
+Dialogue: 0,1:19:10.04,1:19:12.61,Default,,0,0,0,,Cut off from Krypton,\Nthese outposts...
+Dialogue: 0,1:19:12.88,1:19:15.08,Default,,0,0,0,,mwithered and died long ago.
+Dialogue: 0,1:19:15.58,1:19:17.56,Default,,0,0,0,,We salvaged what we could...
+Dialogue: 0,1:19:17.78,1:19:19.49,Default,,0,0,0,,armour, weapons...
+Dialogue: 0,1:19:19.75,1:19:21.66,Default,,0,0,0,,even a world engine.
+Dialogue: 0,1:19:23.42,1:19:25.30,Default,,0,0,0,,For 33 years we prepared...
+Dialogue: 0,1:19:26.79,1:19:29.57,Default,,0,0,0,,until finally we detected\Na distress beacon...
+Dialogue: 0,1:19:29.79,1:19:31.60,Default,,0,0,0,,which you triggered...
+Dialogue: 0,1:19:31.83,1:19:34.07,Default,,0,0,0,,when you accessed\Nthe ancient scout ship.
+Dialogue: 0,1:19:35.47,1:19:38.00,Default,,0,0,0,,You led us here, Kal.
+Dialogue: 0,1:19:39.14,1:19:40.48,Default,,0,0,0,,And now it's\Nwithin your power...
+Dialogue: 0,1:19:40.74,1:19:44.35,Default,,0,0,0,,to save what\Nremains of your race.
+Dialogue: 0,1:19:49.11,1:19:50.35,Default,,0,0,0,,On Krypton...
+Dialogue: 0,1:19:50.61,1:19:53.25,Default,,0,0,0,,the genetic template for\Nevery being yet to be born...
+Dialogue: 0,1:19:53.48,1:19:56.02,Default,,0,0,0,,is encoded in the\Nregistry of citizens.
+Dialogue: 0,1:19:56.69,1:19:58.83,Default,,0,0,0,,Your father stole\Nthe registry's Codex...
+Dialogue: 0,1:19:59.09,1:20:01.93,Default,,0,0,0,,and stored it in the capsule\Nthat brought you here.
+Dialogue: 0,1:20:02.63,1:20:03.63,Default,,0,0,0,,For what purpose?
+Dialogue: 0,1:20:04.53,1:20:07.27,Default,,0,0,0,,So that Krypton\Ncan live again...
+Dialogue: 0,1:20:08.13,1:20:09.67,Default,,0,0,0,,on Earth.
+Dialogue: 0,1:20:29.52,1:20:31.63,Default,,0,0,0,,Where is the Codex, Kal?
+Dialogue: 0,1:20:33.29,1:20:35.13,Default,,0,0,0,,If Krypton lives again...
+Dialogue: 0,1:20:36.29,1:20:37.67,Default,,0,0,0,,what happens to Earth?
+Dialogue: 0,1:20:38.70,1:20:42.20,Default,,0,0,0,,The foundation has to\Nbe built on something.
+Dialogue: 0,1:20:42.47,1:20:45.24,Default,,0,0,0,,Even your father\Nrecognized that.
+Dialogue: 0,1:20:51.71,1:20:54.02,Default,,0,0,0,,No, Zod.
+Dialogue: 0,1:20:55.18,1:20:56.39,Default,,0,0,0,,I can't be a part of this.
+Dialogue: 0,1:20:57.21,1:20:58.92,Default,,0,0,0,,Then what can you be a part of?
+Dialogue: 0,1:20:59.52,1:21:00.72,Default,,0,0,0,,No!
+Dialogue: 0,1:21:01.92,1:21:02.92,Default,,0,0,0,,Zod!
+Dialogue: 0,1:21:04.02,1:21:05.02,Default,,0,0,0,,No!
+Dialogue: 0,1:21:05.89,1:21:07.53,Default,,0,0,0,,No!
+Dialogue: 0,1:21:13.56,1:21:14.70,Default,,0,0,0,,Your father acquitted...
+Dialogue: 0,1:21:14.93,1:21:16.93,Default,,0,0,0,,himself with honor, Kal.
+Dialogue: 0,1:21:19.84,1:21:21.78,Default,,0,0,0,,You killed him?
+Dialogue: 0,1:21:22.17,1:21:23.52,Default,,0,0,0,,I did.
+Dialogue: 0,1:21:24.11,1:21:27.52,Default,,0,0,0,,And not a day goes by\Nwhere it doesn't haunt me.
+Dialogue: 0,1:21:28.88,1:21:31.22,Default,,0,0,0,,But if I had to do\Nit again, I would.
+Dialogue: 0,1:21:31.45,1:21:34.92,Default,,0,0,0,,I have a duty to my people...
+Dialogue: 0,1:21:35.19,1:21:39.19,Default,,0,0,0,,and I will not allow anyone to\Nprevent me from carrying it out.
+Dialogue: 0,1:21:55.64,1:21:57.28,Default,,0,0,0,,What's the sit-rep, major?
+Dialogue: 0,1:21:57.91,1:22:00.29,Default,,0,0,0,,DSP pinged two bogeys\Nlaunching from the alien ship.
+Dialogue: 0,1:22:00.54,1:22:02.65,Default,,0,0,0,,- Put it up.\N- Yes, sir.
+Dialogue: 0,1:22:03.08,1:22:04.15,Default,,0,0,0,,There it is.
+Dialogue: 0,1:22:04.42,1:22:05.42,Default,,0,0,0,,Re-task lkon-4...
+Dialogue: 0,1:22:05.45,1:22:07.90,Default,,0,0,0,,- and get me a closer look.\N- Yes, sir.
+Dialogue: 0,1:22:08.22,1:22:09.22,Default,,0,0,0,,Command, the word...
+Dialogue: 0,1:22:09.39,1:22:10.56,Default,,0,0,0,,of the day is trident.
+Dialogue: 0,1:22:10.79,1:22:12.89,Default,,0,0,0,,We have two alien craft\Non aggressive approach.
+Dialogue: 0,1:22:13.12,1:22:14.76,Default,,0,0,0,,Ikon-4 coming online.
+Dialogue: 0,1:22:14.99,1:22:15.99,Default,,0,0,0,,Air speed?
+Dialogue: 0,1:22:16.06,1:22:17.47,Default,,0,0,0,,380 knots, entering Kansas...
+Dialogue: 0,1:22:17.73,1:22:19.73,Default,,0,0,0,,airspace. Not\Nresponding to our hails.
+Dialogue: 0,1:22:19.96,1:22:22.17,Default,,0,0,0,,You're wasting your efforts.
+Dialogue: 0,1:22:23.10,1:22:25.44,Default,,0,0,0,,The strength you derived\Nfrom the Earth's sun...
+Dialogue: 0,1:22:25.67,1:22:27.77,Default,,0,0,0,,has been neutralized\Naboard our ship.
+Dialogue: 0,1:22:28.44,1:22:29.58,Default,,0,0,0,,Here...
+Dialogue: 0,1:22:29.81,1:22:31.41,Default,,0,0,0,,in this environment...
+Dialogue: 0,1:22:32.18,1:22:33.66,Default,,0,0,0,,you are as weak as a human.
+Dialogue: 0,1:22:36.25,1:22:37.25,Default,,0,0,0,,Unh!
+Dialogue: 0,1:22:41.12,1:22:42.26,Default,,0,0,0,,Unh!
+Dialogue: 0,1:23:32.20,1:23:34.05,Default,,0,0,0,,Where did you come from?
+Dialogue: 0,1:23:34.57,1:23:36.02,Default,,0,0,0,,The command key, Miss Lane.
+Dialogue: 0,1:23:36.24,1:23:38.69,Default,,0,0,0,,Thanks to you, I'm uploading\Nto the ship's mainframe.
+Dialogue: 0,1:23:39.91,1:23:40.91,Default,,0,0,0,,Who are you?
+Dialogue: 0,1:23:41.85,1:23:43.15,Default,,0,0,0,,I am Kal's father.
+Dialogue: 0,1:23:44.82,1:23:45.82,Default,,0,0,0,,Can you help us?
+Dialogue: 0,1:23:47.52,1:23:49.36,Default,,0,0,0,,I designed this ship.
+Dialogue: 0,1:23:49.59,1:23:51.76,Default,,0,0,0,,I can modify its\Natmospheric composition...
+Dialogue: 0,1:23:52.02,1:23:53.76,Default,,0,0,0,,to human compatibility.
+Dialogue: 0,1:23:54.02,1:23:55.02,Default,,0,0,0,,We can stop them.
+Dialogue: 0,1:23:55.09,1:23:57.57,Default,,0,0,0,,We can send them back\Nto the Phantom Zone.
+Dialogue: 0,1:23:58.53,1:23:59.17,Default,,0,0,0,,How?
+Dialogue: 0,1:23:59.40,1:24:00.93,Default,,0,0,0,,I can teach you.
+Dialogue: 0,1:24:01.20,1:24:03.01,Default,,0,0,0,,And in turn, you can teach Kal.
+Dialogue: 0,1:24:03.23,1:24:04.94,Default,,0,0,0,,Will you help me?
+Dialogue: 0,1:24:18.78,1:24:20.09,Default,,0,0,0,,The ship's crew are alerted.
+Dialogue: 0,1:24:20.35,1:24:21.39,Default,,0,0,0,,We need to move quickly.
+Dialogue: 0,1:24:21.62,1:24:23.29,Default,,0,0,0,,Retrieve the command key.
+Dialogue: 0,1:24:30.93,1:24:33.97,Default,,0,0,0,,- Did you do that?\N- Yes. Pick up her sidearm.
+Dialogue: 0,1:24:43.37,1:24:44.75,Default,,0,0,0,,What's happening?
+Dialogue: 0,1:25:05.73,1:25:06.40,Default,,0,0,0,,To your right.
+Dialogue: 0,1:25:06.63,1:25:07.63,Default,,0,0,0,,Fire.
+Dialogue: 0,1:25:08.83,1:25:09.83,Default,,0,0,0,,Behind you.
+Dialogue: 0,1:25:23.08,1:25:25.12,Default,,0,0,0,,Secure yourself\Ninside the open pod.
+Dialogue: 0,1:25:26.15,1:25:28.43,Default,,0,0,0,,Safe travels, Miss\NLane. It's unlikely...
+Dialogue: 0,1:25:28.65,1:25:30.26,Default,,0,0,0,,we'll see each other again.
+Dialogue: 0,1:25:31.82,1:25:34.93,Default,,0,0,0,,Remember, the phantom drives\Nare essential in stopping them.
+Dialogue: 0,1:25:35.79,1:25:37.03,Default,,0,0,0,,Move your head to the left.
+Dialogue: 0,1:26:04.62,1:26:06.53,Default,,0,0,0,,Is it true what Zod\Nsaid about the Codex?
+Dialogue: 0,1:26:07.66,1:26:09.04,Default,,0,0,0,,Strike that panel.
+Dialogue: 0,1:26:12.70,1:26:13.87,Default,,0,0,0,,We wanted you to learn...
+Dialogue: 0,1:26:14.13,1:26:16.24,Default,,0,0,0,,what it meant to\Nbe human first...
+Dialogue: 0,1:26:16.87,1:26:20.51,Default,,0,0,0,,so that one day, when the time\Nwas right, you could be the bridge...
+Dialogue: 0,1:26:20.74,1:26:22.51,Default,,0,0,0,,between two peoples.
+Dialogue: 0,1:26:25.24,1:26:26.24,Default,,0,0,0,,Look.
+Dialogue: 0,1:26:29.18,1:26:30.42,Default,,0,0,0,,Lois.
+Dialogue: 0,1:26:31.01,1:26:32.05,Default,,0,0,0,,You can save her, Kal.
+Dialogue: 0,1:26:35.19,1:26:37.06,Default,,0,0,0,,You can save all of them.
+Dialogue: 0,1:27:55.97,1:27:57.50,Default,,0,0,0,,You'll be safe here.
+Dialogue: 0,1:27:59.84,1:28:02.41,Default,,0,0,0,,- Are you all right?\N- Yeah.
+Dialogue: 0,1:28:05.64,1:28:07.12,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,1:28:07.84,1:28:10.83,Default,,0,0,0,,I didn't wanna tell them anything,\Nbut they did something to me.
+Dialogue: 0,1:28:11.08,1:28:13.25,Default,,0,0,0,,- They looked inside my mind...\N- It's okay, Lois.
+Dialogue: 0,1:28:13.48,1:28:15.26,Default,,0,0,0,,They did the same thing to me.
+Dialogue: 0,1:28:28.33,1:28:29.67,Default,,0,0,0,,Clark!
+Dialogue: 0,1:28:38.68,1:28:40.45,Default,,0,0,0,,The craft he arrived in...
+Dialogue: 0,1:28:40.98,1:28:42.15,Default,,0,0,0,,where is it?
+Dialogue: 0,1:28:44.05,1:28:45.22,Default,,0,0,0,,Go to hell.
+Dialogue: 0,1:28:56.53,1:28:57.53,Default,,0,0,0,,There.
+Dialogue: 0,1:28:58.90,1:28:59.90,Default,,0,0,0,,Unh!
+Dialogue: 0,1:29:20.52,1:29:22.66,Default,,0,0,0,,The Codex is not here.
+Dialogue: 0,1:29:23.75,1:29:25.03,Default,,0,0,0,,Argh!
+Dialogue: 0,1:29:26.09,1:29:27.59,Default,,0,0,0,,Ah!
+Dialogue: 0,1:29:29.39,1:29:30.43,Default,,0,0,0,,Where has he hidden it?
+Dialogue: 0,1:29:30.69,1:29:31.33,Default,,0,0,0,,I don't know.
+Dialogue: 0,1:29:31.56,1:29:32.67,Default,,0,0,0,,Where is the Codex?!
+Dialogue: 0,1:29:36.70,1:29:38.04,Default,,0,0,0,,Ahh!
+Dialogue: 0,1:29:48.68,1:29:50.62,Default,,0,0,0,,You think you can\Nthreaten my mother?!
+Dialogue: 0,1:29:56.22,1:29:57.22,Default,,0,0,0,,Ah!
+Dialogue: 0,1:30:32.42,1:30:33.90,Default,,0,0,0,,What have you done to me?
+Dialogue: 0,1:30:34.12,1:30:36.57,Default,,0,0,0,,My parents taught me to hone...
+Dialogue: 0,1:30:36.79,1:30:38.27,Default,,0,0,0,,my senses, Zod.
+Dialogue: 0,1:30:39.96,1:30:41.57,Default,,0,0,0,,Focus...
+Dialogue: 0,1:30:42.13,1:30:43.84,Default,,0,0,0,,on just what I wanted to see.
+Dialogue: 0,1:30:44.10,1:30:45.14,Default,,0,0,0,,Without your helmet...
+Dialogue: 0,1:30:45.40,1:30:46.97,Default,,0,0,0,,you're getting everything.
+Dialogue: 0,1:30:47.17,1:30:48.17,Default,,0,0,0,,Unh!
+Dialogue: 0,1:30:48.24,1:30:49.65,Default,,0,0,0,,And it hurts...
+Dialogue: 0,1:30:50.24,1:30:51.62,Default,,0,0,0,,doesn't it?
+Dialogue: 0,1:31:02.49,1:31:03.99,Default,,0,0,0,,Argh!
+Dialogue: 0,1:31:36.45,1:31:37.73,Default,,0,0,0,,Get away from the window.
+Dialogue: 0,1:31:40.69,1:31:42.50,Default,,0,0,0,,Get inside. It's not safe.
+Dialogue: 0,1:31:47.83,1:31:50.71,Default,,0,0,0,,Ail players, this is Guardian. I\Nam airborne mission commander.
+Dialogue: 0,1:31:50.97,1:31:53.00,Default,,0,0,0,,I have previously\Nencountered and observed...
+Dialogue: 0,1:31:53.24,1:31:55.38,Default,,0,0,0,,the beings we're\Nabout to engage.
+Dialogue: 0,1:31:55.64,1:31:58.35,Default,,0,0,0,,They are extremely dangerous\Nand we have been authorized...
+Dialogue: 0,1:31:58.58,1:32:00.08,Default,,0,0,0,,to use deadly force.
+Dialogue: 0,1:32:02.05,1:32:04.03,Default,,0,0,0,,Roger, Guardian, we\Nare inbound to target.
+Dialogue: 0,1:32:09.69,1:32:10.89,Default,,0,0,0,,Cleared hot. Weapons free.
+Dialogue: 0,1:32:11.15,1:32:12.76,Default,,0,0,0,,Copy, 11. Weapons free.
+Dialogue: 0,1:32:15.56,1:32:16.33,Default,,0,0,0,,Thunder 11...
+Dialogue: 0,1:32:16.56,1:32:17.59,Default,,0,0,0,,tally three targets.
+Dialogue: 0,1:32:29.07,1:32:30.11,Default,,0,0,0,,Unh!
+Dialogue: 0,1:32:35.21,1:32:36.21,Default,,0,0,0,,Thunder 11...
+Dialogue: 0,1:32:36.25,1:32:38.69,Default,,0,0,0,,good hit. Request\Nimmediate re-attack.
+Dialogue: 0,1:32:38.92,1:32:41.05,Default,,0,0,0,,Roger, Guardian. We'll\Nmake a second gun run...
+Dialogue: 0,1:32:41.28,1:32:43.39,Default,,0,0,0,,on a heading of 212 degrees.
+Dialogue: 0,1:32:50.39,1:32:51.39,Default,,0,0,0,,Thunder 11, eject!
+Dialogue: 0,1:32:51.59,1:32:52.97,Default,,0,0,0,,Eject!
+Dialogue: 0,1:32:53.30,1:32:54.93,Default,,0,0,0,,Thunder 11, eject!
+Dialogue: 0,1:33:05.08,1:33:06.65,Default,,0,0,0,,I have a bogey incoming!
+Dialogue: 0,1:33:07.48,1:33:08.92,Default,,0,0,0,,Oh, shit.
+Dialogue: 0,1:33:23.83,1:33:24.83,Default,,0,0,0,,Argh!
+Dialogue: 0,1:33:27.10,1:33:28.10,Default,,0,0,0,,You are weak...
+Dialogue: 0,1:33:28.23,1:33:29.34,Default,,0,0,0,,son of El.
+Dialogue: 0,1:33:29.60,1:33:30.74,Default,,0,0,0,,Unsure of yourself.
+Dialogue: 0,1:33:35.97,1:33:38.95,Default,,0,0,0,,The fact that you possess\Na sense of morality...
+Dialogue: 0,1:33:39.18,1:33:40.95,Default,,0,0,0,,and we do not...
+Dialogue: 0,1:33:41.18,1:33:43.75,Default,,0,0,0,,gives us an\Nevolutionary advantage.
+Dialogue: 0,1:33:47.25,1:33:49.75,Default,,0,0,0,,And if history has\Nproven anything...
+Dialogue: 0,1:33:59.63,1:34:03.20,Default,,0,0,0,,it is that evolution\Nalways wins.
+Dialogue: 0,1:34:04.87,1:34:05.87,Default,,0,0,0,,Ragh!
+Dialogue: 0,1:34:10.31,1:34:11.48,Default,,0,0,0,,Unh!
+Dialogue: 0,1:34:24.52,1:34:26.02,Default,,0,0,0,,CCT, we're approaching...
+Dialogue: 0,1:34:26.29,1:34:28.13,Default,,0,0,0,,LZ Jay hawk. Get down in five.
+Dialogue: 0,1:34:28.36,1:34:30.20,Default,,0,0,0,,Let's go. Go to the LZ.
+Dialogue: 0,1:34:30.99,1:34:32.17,Default,,0,0,0,,Roger, sarge. Let's go!
+Dialogue: 0,1:35:09.77,1:35:11.07,Default,,0,0,0,,All rangers, I need you...
+Dialogue: 0,1:35:11.33,1:35:12.51,Default,,0,0,0,,to engage the targets.
+Dialogue: 0,1:35:13.00,1:35:14.12,Default,,0,0,0,,Guardian, this is Badger 01.
+Dialogue: 0,1:35:14.34,1:35:15.61,Default,,0,0,0,,What about the guy in blue?
+Dialogue: 0,1:35:15.87,1:35:16.91,Default,,0,0,0,,I said engage...
+Dialogue: 0,1:35:17.17,1:35:18.35,Default,,0,0,0,,all targets.
+Dialogue: 0,1:35:29.52,1:35:30.55,Default,,0,0,0,,Contact. Contact.
+Dialogue: 0,1:35:34.92,1:35:35.92,Default,,0,0,0,,Ah!
+Dialogue: 0,1:35:40.73,1:35:41.73,Default,,0,0,0,,You Okay?
+Dialogue: 0,1:35:47.30,1:35:49.41,Default,,0,0,0,,We're auto-rotating,\Ngoing in hard.
+Dialogue: 0,1:35:50.14,1:35:51.31,Default,,0,0,0,,Brace for impact.
+Dialogue: 0,1:35:52.11,1:35:53.25,Default,,0,0,0,,Brace for impact.
+Dialogue: 0,1:35:53.48,1:35:54.48,Default,,0,0,0,,We're going in hard!
+Dialogue: 0,1:35:59.55,1:36:02.04,Default,,0,0,0,,Fallen angel. Fallen\Nangel. Guardian is down.
+Dialogue: 0,1:36:02.05,1:36:03.55,Default,,0,0,0,,I repeat, Guardian is down.
+Dialogue: 0,1:36:25.48,1:36:26.98,Default,,0,0,0,,Guardian, do you read?
+Dialogue: 0,1:36:27.24,1:36:28.59,Default,,0,0,0,,Thunder 12, calling Guardian.
+Dialogue: 0,1:36:28.81,1:36:30.15,Default,,0,0,0,,- Do you read?\N- Thunder 12...
+Dialogue: 0,1:36:30.41,1:36:31.41,Default,,0,0,0,,this is Guardian.
+Dialogue: 0,1:36:31.58,1:36:33.96,Default,,0,0,0,,Put down everything you've\Ngot north of my position.
+Dialogue: 0,1:36:34.18,1:36:36.36,Default,,0,0,0,,- This will be danger-close.\N- Copy, danger-close.
+Dialogue: 0,1:36:36.62,1:36:37.86,Default,,0,0,0,,Good luck, sir.
+Dialogue: 0,1:37:17.73,1:37:20.57,Default,,0,0,0,,A good death is its own reward.
+Dialogue: 0,1:37:34.18,1:37:35.55,Default,,0,0,0,,You will not win.
+Dialogue: 0,1:37:36.98,1:37:38.52,Default,,0,0,0,,For every human you save...
+Dialogue: 0,1:37:38.75,1:37:41.42,Default,,0,0,0,,we will kill a\Nmillion more. Unh!
+Dialogue: 0,1:38:32.74,1:38:35.91,Default,,0,0,0,,Do we have an all clear?\NDo we have an all clear?
+Dialogue: 0,1:38:36.14,1:38:38.42,Default,,0,0,0,,Alpha team, sit-rep. Alpha team.
+Dialogue: 0,1:38:38.64,1:38:40.25,Default,,0,0,0,,Do you copy? Alpha team.
+Dialogue: 0,1:39:29.76,1:39:31.97,Default,,0,0,0,,This man is not our enemy.
+Dialogue: 0,1:39:34.43,1:39:35.97,Default,,0,0,0,,Thank you, colonel.
+Dialogue: 0,1:39:53.82,1:39:54.82,Default,,0,0,0,,Mom?
+Dialogue: 0,1:39:55.95,1:39:57.63,Default,,0,0,0,,I'm all right.
+Dialogue: 0,1:40:09.67,1:40:11.65,Default,,0,0,0,,Nice suit, son.
+Dialogue: 0,1:40:12.70,1:40:14.01,Default,,0,0,0,,I'm so sorry.
+Dialogue: 0,1:40:15.04,1:40:17.35,Default,,0,0,0,,It's only stuff, Clark.
+Dialogue: 0,1:40:18.51,1:40:20.92,Default,,0,0,0,,It can always be replaced.
+Dialogue: 0,1:40:23.38,1:40:24.65,Default,,0,0,0,,But you can't be.
+Dialogue: 0,1:40:25.98,1:40:28.39,Default,,0,0,0,,Mom, Zod said this Codex...
+Dialogue: 0,1:40:28.65,1:40:30.93,Default,,0,0,0,,he's looking for can\Nbring my people back.
+Dialogue: 0,1:40:31.25,1:40:32.93,Default,,0,0,0,,Isn't that a good thing?
+Dialogue: 0,1:40:37.16,1:40:39.66,Default,,0,0,0,,I don't think they're\Ninterested in sharing this world.
+Dialogue: 0,1:40:40.26,1:40:41.50,Default,,0,0,0,,Clark.
+Dialogue: 0,1:40:42.23,1:40:43.23,Default,,0,0,0,,Clark.
+Dialogue: 0,1:40:45.00,1:40:46.88,Default,,0,0,0,,I know how to stop them.
+Dialogue: 0,1:40:48.94,1:40:50.38,Default,,0,0,0,,What happened down there?
+Dialogue: 0,1:40:50.61,1:40:53.45,Default,,0,0,0,,He exposed a temporary weakness.
+Dialogue: 0,1:40:54.34,1:40:56.19,Default,,0,0,0,,It is of little consequence...
+Dialogue: 0,1:40:57.55,1:41:00.46,Default,,0,0,0,,because I have\Nlocated the Codex.
+Dialogue: 0,1:41:01.25,1:41:03.53,Default,,0,0,0,,It was never in the capsule.
+Dialogue: 0,1:41:04.12,1:41:05.79,Default,,0,0,0,,{\i1}Jor-el took the Codex...{\i0}
+Dialogue: 0,1:41:06.06,1:41:08.54,Default,,0,0,0,,the DNA of a billion\Npeople, then he bonded it...
+Dialogue: 0,1:41:08.76,1:41:10.57,Default,,0,0,0,,within his son's individual...
+Dialogue: 0,1:41:10.79,1:41:11.79,Default,,0,0,0,,cells.
+Dialogue: 0,1:41:11.96,1:41:13.57,Default,,0,0,0,,All of Krypton's heirs...
+Dialogue: 0,1:41:13.80,1:41:17.24,Default,,0,0,0,,living hidden in\None refugee's body.
+Dialogue: 0,1:41:21.30,1:41:23.28,Default,,0,0,0,,Does Kal-EI need to be alive...
+Dialogue: 0,1:41:23.54,1:41:26.71,Default,,0,0,0,,for us to extract the\NCodex from his cells?
+Dialogue: 0,1:41:28.08,1:41:29.25,Default,,0,0,0,,No.
+Dialogue: 0,1:41:35.15,1:41:37.43,Default,,0,0,0,,Release the world engine.
+Dialogue: 0,1:42:09.65,1:42:10.65,Default,,0,0,0,,What just happened?
+Dialogue: 0,1:42:10.75,1:42:11.93,Default,,0,0,0,,The ship just split in mo.
+Dialogue: 0,1:42:12.15,1:42:15.26,Default,,0,0,0,,Track one is heading east, track\Ntwo to the southern hemisphere.
+Dialogue: 0,1:42:15.49,1:42:17.94,Default,,0,0,0,,- How fast is that bogey moving?\N- Approaching...
+Dialogue: 0,1:42:18.16,1:42:19.61,Default,,0,0,0,,Mach 24 and accelerating.
+Dialogue: 0,1:42:19.83,1:42:22.50,Default,,0,0,0,,It's gonna impact somewhere\Nin the Indian Ocean.
+Dialogue: 0,1:42:41.22,1:42:42.86,Default,,0,0,0,,The rest of the\Nship is descending.
+Dialogue: 0,1:42:43.85,1:42:44.99,Default,,0,0,0,,Put it on the board now.
+Dialogue: 0,1:42:45.22,1:42:46.29,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,1:42:47.32,1:42:48.50,Default,,0,0,0,,Oh, my God.
+Dialogue: 0,1:43:29.00,1:43:31.77,Default,,0,0,0,,Bring the phantom drive online.
+Dialogue: 0,1:43:53.39,1:43:55.23,Default,,0,0,0,,We are now slave\Nto the world engine.
+Dialogue: 0,1:43:56.96,1:43:58.37,Default,,0,0,0,,Initiate.
+Dialogue: 0,1:44:32.43,1:44:35.84,Default,,0,0,0,,- What have they hit us with?\N- Looks like some kind of gravity...
+Dialogue: 0,1:44:36.10,1:44:38.64,Default,,0,0,0,,weapon. It's working in\Ntandem with their ship.
+Dialogue: 0,1:44:40.07,1:44:43.14,Default,,0,0,0,,Somehow they're\Nincreasing the Earth's mass...
+Dialogue: 0,1:44:43.41,1:44:45.51,Default,,0,0,0,,clouding the atmosphere\Nwith particulates.
+Dialogue: 0,1:44:47.24,1:44:48.85,Default,,0,0,0,,Oh, my God.
+Dialogue: 0,1:44:50.18,1:44:51.18,Default,,0,0,0,,They're terraforming.
+Dialogue: 0,1:44:51.95,1:44:52.95,Default,,0,0,0,,What's that?
+Dialogue: 0,1:44:53.58,1:44:54.69,Default,,0,0,0,,Planetary engineering...
+Dialogue: 0,1:44:54.95,1:44:58.16,Default,,0,0,0,,modifying the Earth's\Natmosphere and topography.
+Dialogue: 0,1:44:58.42,1:44:59.66,Default,,0,0,0,,Turning Earth into Krypton.
+Dialogue: 0,1:45:00.36,1:45:03.50,Default,,0,0,0,,- But what happens to us?\N- Based on these readings...
+Dialogue: 0,1:45:03.76,1:45:06.76,Default,,0,0,0,,there won't be an "us".\NGeneral Swan wick, sir.
+Dialogue: 0,1:45:07.16,1:45:08.54,Default,,0,0,0,,I'm on with the control tower.
+Dialogue: 0,1:45:08.80,1:45:11.04,Default,,0,0,0,,Colonel Hardy's on his way\Nand he's got Superman in tow.
+Dialogue: 0,1:45:11.77,1:45:12.84,Default,,0,0,0,,Superman?
+Dialogue: 0,1:45:13.37,1:45:14.54,Default,,0,0,0,,The alien, sir.
+Dialogue: 0,1:45:14.80,1:45:17.18,Default,,0,0,0,,That's what they're\Ncalling him. Superman.
+Dialogue: 0,1:45:22.68,1:45:23.88,Default,,0,0,0,,We have a plan, general.
+Dialogue: 0,1:45:24.15,1:45:25.63,Default,,0,0,0,,Is that what I think it is?
+Dialogue: 0,1:45:26.78,1:45:28.56,Default,,0,0,0,,It's the ship he arrived in.
+Dialogue: 0,1:45:30.22,1:45:32.86,Default,,0,0,0,,This ship is powered by\Nsomething called a phantom drive.
+Dialogue: 0,1:45:33.12,1:45:34.57,Default,,0,0,0,,It bends space.
+Dialogue: 0,1:45:34.82,1:45:38.80,Default,,0,0,0,,Zod's ship uses the same technology, and\Nif we can make the two drives collide...
+Dialogue: 0,1:45:39.03,1:45:40.87,Default,,0,0,0,,A singularity can be created.
+Dialogue: 0,1:45:41.13,1:45:42.17,Default,,0,0,0,,- Like a black hole.\N- Yes.
+Dialogue: 0,1:45:42.70,1:45:44.20,Default,,0,0,0,,So if we open up this doorway...
+Dialogue: 0,1:45:44.47,1:45:46.07,Default,,0,0,0,,they should be pulled back in.
+Dialogue: 0,1:45:46.34,1:45:48.84,Default,,0,0,0,,So you want us to\Nbomb them with that?
+Dialogue: 0,1:45:49.07,1:45:51.05,Default,,0,0,0,,General, that craft maxes out...
+Dialogue: 0,1:45:51.31,1:45:54.69,Default,,0,0,0,,17,000 pounds, we\Ncan drop it from a C-17.
+Dialogue: 0,1:45:54.91,1:45:56.05,Default,,0,0,0,,It's a viable plan.
+Dialogue: 0,1:45:56.31,1:45:58.42,Default,,0,0,0,,If I don't stop that machine\Nover the Indian Ocean...
+Dialogue: 0,1:45:58.68,1:46:00.39,Default,,0,0,0,,the gravity field\Nwill continue...
+Dialogue: 0,1:46:00.65,1:46:01.99,Default,,0,0,0,,to expand.
+Dialogue: 0,1:46:07.76,1:46:10.53,Default,,0,0,0,,If that thing is making\NEarth more like Krypton...
+Dialogue: 0,1:46:10.89,1:46:12.43,Default,,0,0,0,,won't you be weaker around it?
+Dialogue: 0,1:46:14.23,1:46:15.54,Default,,0,0,0,,Maybe.
+Dialogue: 0,1:46:16.40,1:46:18.88,Default,,0,0,0,,I'm not about to let\Nthat stop me from trying.
+Dialogue: 0,1:46:19.84,1:46:22.04,Default,,0,0,0,,You might want to\Nstep back a little bit.
+Dialogue: 0,1:46:24.11,1:46:25.24,Default,,0,0,0,,Maybe a little bit more.
+Dialogue: 0,1:46:57.71,1:46:58.71,Default,,0,0,0,,Faora.
+Dialogue: 0,1:46:59.31,1:47:00.41,Default,,0,0,0,,Take command.
+Dialogue: 0,1:47:00.64,1:47:03.78,Default,,0,0,0,,- Yes, sir.\N- I need to secure the genesis chamber...
+Dialogue: 0,1:47:04.21,1:47:06.96,Default,,0,0,0,,and pay my respects\Nto an old friend.
+Dialogue: 0,1:47:14.72,1:47:16.83,Default,,0,0,0,,Guardian en route\Nto Metropolis...
+Dialogue: 0,1:47:17.63,1:47:18.83,Default,,0,0,0,,package in tow.
+Dialogue: 0,1:47:24.10,1:47:27.01,Default,,0,0,0,,Be advised, F-35s\Ninbound to rendezvous point.
+Dialogue: 0,1:47:27.27,1:47:29.44,Default,,0,0,0,,You should have\Nvisual contact now.
+Dialogue: 0,1:48:14.45,1:48:18.13,Default,,0,0,0,,Command key accepted.\NGenesis chamber coming online, sir.
+Dialogue: 0,1:48:18.52,1:48:19.52,Default,,0,0,0,,Stop this, Zod...
+Dialogue: 0,1:48:19.69,1:48:21.83,Default,,0,0,0,,while there's still time.
+Dialogue: 0,1:48:23.06,1:48:26.37,Default,,0,0,0,,Haven't given up lecturing\Nme, have you, even in death?
+Dialogue: 0,1:48:26.73,1:48:28.73,Default,,0,0,0,,I will not let you use\Nthe Codex like this.
+Dialogue: 0,1:48:29.00,1:48:30.71,Default,,0,0,0,,You don't have the\Npower to stop me.
+Dialogue: 0,1:48:30.97,1:48:34.00,Default,,0,0,0,,The command key I have\Nentered is revoking your authority.
+Dialogue: 0,1:48:34.24,1:48:37.15,Default,,0,0,0,,This ship is now\Nunder my control.
+Dialogue: 0,1:49:08.67,1:49:10.24,Default,,0,0,0,,Norlhcom,\NLightning 1, request...
+Dialogue: 0,1:49:10.51,1:49:12.92,Default,,0,0,0,,- permission to unleash the hounds.\N- Lightning 1...
+Dialogue: 0,1:49:13.18,1:49:16.62,Default,,0,0,0,,you are clear to engage. Send battle\Ndamage assessment when able. Out.
+Dialogue: 0,1:49:30.19,1:49:32.57,Default,,0,0,0,,Avionics are going\Nhaywire. The gravity field...
+Dialogue: 0,1:49:32.80,1:49:35.14,Default,,0,0,0,,is pulling our missiles\Ndown. We gotta get closer.
+Dialogue: 0,1:49:40.24,1:49:41.27,Default,,0,0,0,,All right, everybody...
+Dialogue: 0,1:49:41.54,1:49:44.42,Default,,0,0,0,,we're leaving. We're\Nleaving the building now.
+Dialogue: 0,1:50:07.56,1:50:09.44,Default,,0,0,0,,I just lost my wingman.
+Dialogue: 0,1:50:11.80,1:50:12.94,Default,,0,0,0,,Mayday! Mayday! Mayday!
+Dialogue: 0,1:50:24.51,1:50:26.49,Default,,0,0,0,,Everybody, this way! Come on!
+Dialogue: 0,1:50:26.75,1:50:29.82,Default,,0,0,0,,Everybody, come on!\NKeep moving, keep moving.
+Dialogue: 0,1:50:36.66,1:50:37.69,Default,,0,0,0,,Jenny!
+Dialogue: 0,1:50:41.66,1:50:42.66,Default,,0,0,0,,Oh, my God.
+Dialogue: 0,1:50:42.76,1:50:43.77,Default,,0,0,0,,Perry!
+Dialogue: 0,1:50:48.20,1:50:50.15,Default,,0,0,0,,Go! There! Go!
+Dialogue: 0,1:50:56.01,1:50:57.51,Default,,0,0,0,,Our people can co-exist.
+Dialogue: 0,1:50:58.15,1:51:02.15,Default,,0,0,0,,So we can suffer through years of\Npain trying to adapt like your son has?
+Dialogue: 0,1:51:02.99,1:51:04.66,Default,,0,0,0,,- You're talking about genocide.\N- Yes.
+Dialogue: 0,1:51:04.89,1:51:07.49,Default,,0,0,0,,And I'm arguing its\Nmerits with a ghost.
+Dialogue: 0,1:51:08.86,1:51:10.67,Default,,0,0,0,,We're both ghosts, Zod.
+Dialogue: 0,1:51:10.89,1:51:14.40,Default,,0,0,0,,Can't you see that? The Krypton\Nyou're clinging onto is gone.
+Dialogue: 0,1:51:14.66,1:51:17.23,Default,,0,0,0,,Ship, have you managed to\Nquarantine this invasive intelligence?
+Dialogue: 0,1:51:17.50,1:51:18.50,Default,,0,0,0,,- You'll fail.\N- I have.
+Dialogue: 0,1:51:18.63,1:51:20.05,Default,,0,0,0,,Then prepare to terminate it.
+Dialogue: 0,1:51:20.30,1:51:22.08,Default,,0,0,0,,- I'm tired of this debate.\N- Silencing me...
+Dialogue: 0,1:51:22.34,1:51:23.75,Default,,0,0,0,,won't change anything.
+Dialogue: 0,1:51:26.01,1:51:27.32,Default,,0,0,0,,My son...
+Dialogue: 0,1:51:28.14,1:51:29.49,Default,,0,0,0,,is twice the man you were.
+Dialogue: 0,1:51:32.48,1:51:34.15,Default,,0,0,0,,And he will finish\Nwhat we started.
+Dialogue: 0,1:51:35.08,1:51:36.32,Default,,0,0,0,,I can promise you that.
+Dialogue: 0,1:51:41.52,1:51:42.90,Default,,0,0,0,,Tell me...
+Dialogue: 0,1:51:43.16,1:51:46.73,Default,,0,0,0,,you have Jor-El's\Nmemories, his conscience.
+Dialogue: 0,1:51:47.43,1:51:48.43,Default,,0,0,0,,Can you experience...
+Dialogue: 0,1:51:48.70,1:51:49.84,Default,,0,0,0,,his pain?
+Dialogue: 0,1:51:51.87,1:51:55.44,Default,,0,0,0,,I will harvest the Codex\Nfrom your son's corpse...
+Dialogue: 0,1:51:55.90,1:51:58.21,Default,,0,0,0,,and I will rebuild Krypton...
+Dialogue: 0,1:51:58.44,1:52:00.94,Default,,0,0,0,,atop his bones.
+Dialogue: 0,1:52:29.27,1:52:30.58,Default,,0,0,0,,Argh!
+Dialogue: 0,1:52:58.63,1:52:59.34,Default,,0,0,0,,Jenny.
+Dialogue: 0,1:52:59.60,1:53:02.34,Default,,0,0,0,,- Jenny. Jenny, where are you?\N- I'm here!
+Dialogue: 0,1:53:02.60,1:53:03.64,Default,,0,0,0,,- I'm here. Here.\N- Jenny.
+Dialogue: 0,1:53:03.91,1:53:05.41,Default,,0,0,0,,Hold on, hold on.
+Dialogue: 0,1:53:05.64,1:53:06.64,Default,,0,0,0,,I'm stuck.
+Dialogue: 0,1:53:06.84,1:53:08.52,Default,,0,0,0,,- I can't get free. I'm stuck.\N- Okay.
+Dialogue: 0,1:53:08.78,1:53:11.31,Default,,0,0,0,,We'll get you out of there,\Nall right? Just sit tight.
+Dialogue: 0,1:53:11.58,1:53:12.15,Default,,0,0,0,,No, no, no!
+Dialogue: 0,1:53:12.41,1:53:14.22,Default,,0,0,0,,- Don't leave me.\N- We're not gonna leave you.
+Dialogue: 0,1:53:14.35,1:53:15.52,Default,,0,0,0,,- Okay.\N- Lombard!
+Dialogue: 0,1:53:15.78,1:53:19.13,Default,,0,0,0,,- Get your ass over here and help me.\N- Damn it.
+Dialogue: 0,1:53:21.12,1:53:23.10,Default,,0,0,0,,- We just gotta move this.\N- Here.
+Dialogue: 0,1:53:23.33,1:53:25.36,Default,,0,0,0,,Slide that in. You\Npush, I'll pull, okay?
+Dialogue: 0,1:53:25.63,1:53:26.66,Default,,0,0,0,,Go.
+Dialogue: 0,1:53:30.87,1:53:32.17,Default,,0,0,0,,- Push!\N- Oh, my God.
+Dialogue: 0,1:53:32.43,1:53:34.04,Default,,0,0,0,,It's getting closer!\NCome on, push!
+Dialogue: 0,1:53:36.10,1:53:38.31,Default,,0,0,0,,Northcom, this is\NGuardian. Are we cleared?
+Dialogue: 0,1:53:38.84,1:53:39.84,Default,,0,0,0,,Negative, Guardian.
+Dialogue: 0,1:54:04.57,1:54:07.01,Default,,0,0,0,,Come on! Push!
+Dialogue: 0,1:54:07.20,1:54:08.20,Default,,0,0,0,,Ahh!
+Dialogue: 0,1:54:33.20,1:54:35.18,Default,,0,0,0,,Argh!
+Dialogue: 0,1:54:59.02,1:55:00.36,Default,,0,0,0,,He did it.
+Dialogue: 0,1:55:02.56,1:55:03.80,Default,,0,0,0,,Northcom, this is Guardian.
+Dialogue: 0,1:55:04.06,1:55:06.30,Default,,0,0,0,,We're passing through\Nphase line red. Good to go.
+Dialogue: 0,1:55:06.56,1:55:07.56,Default,,0,0,0,,Godspeed, Guardian.
+Dialogue: 0,1:55:07.73,1:55:10.14,Default,,0,0,0,,Arm the package.\NYou are cleared hot.
+Dialogue: 0,1:55:10.40,1:55:12.47,Default,,0,0,0,,We're lining up\Nfor the final run.
+Dialogue: 0,1:55:13.27,1:55:15.27,Default,,0,0,0,,It's up to you and Hamilton now.
+Dialogue: 0,1:55:55.44,1:55:56.40,Default,,0,0,0,,You gotta be kidding me.
+Dialogue: 0,1:55:56.45,1:55:57.86,Default,,0,0,0,,Loadmaster, is the package...
+Dialogue: 0,1:55:58.11,1:55:59.11,Default,,0,0,0,,ready to drop?
+Dialogue: 0,1:55:59.35,1:56:00.62,Default,,0,0,0,,Negative, Guardian.
+Dialogue: 0,1:56:00.85,1:56:02.63,Default,,0,0,0,,There's something wrong.\NIt's not supposed to do this.
+Dialogue: 0,1:56:02.65,1:56:04.43,Default,,0,0,0,,What's it supposed to do?
+Dialogue: 0,1:56:04.65,1:56:07.69,Default,,0,0,0,,- It's supposed to go in all the way.\N- Let me take a look.
+Dialogue: 0,1:56:07.96,1:56:09.53,Default,,0,0,0,,Co-pilot's aircraft.
+Dialogue: 0,1:56:10.26,1:56:11.76,Default,,0,0,0,,Co-pilot's aircraft.
+Dialogue: 0,1:56:18.50,1:56:21.17,Default,,0,0,0,,We are lined up for the\Ndrop. What's the hold up?
+Dialogue: 0,1:56:21.44,1:56:22.44,Default,,0,0,0,,We've had a setback.
+Dialogue: 0,1:56:38.19,1:56:39.69,Default,,0,0,0,,Target that aircraft.
+Dialogue: 0,1:56:43.56,1:56:45.00,Default,,0,0,0,,Target locked.
+Dialogue: 0,1:56:54.80,1:56:55.80,Default,,0,0,0,,Stop!
+Dialogue: 0,1:56:55.90,1:56:58.01,Default,,0,0,0,,If you destroy this ship...
+Dialogue: 0,1:56:58.24,1:57:00.91,Default,,0,0,0,,you destroy Krypton!
+Dialogue: 0,1:57:03.71,1:57:05.89,Default,,0,0,0,,Krypton had its chance.
+Dialogue: 0,1:57:07.42,1:57:09.19,Default,,0,0,0,,Argh!
+Dialogue: 0,1:57:59.87,1:58:01.75,Default,,0,0,0,,Miss Lane! It's\Nnot safe for you...
+Dialogue: 0,1:58:01.97,1:58:02.97,Default,,0,0,0,,over there!
+Dialogue: 0,1:58:03.10,1:58:04.10,Default,,0,0,0,,Miss Lane!
+Dialogue: 0,1:58:05.31,1:58:06.55,Default,,0,0,0,,Ah!
+Dialogue: 0,1:58:33.60,1:58:35.34,Default,,0,0,0,,Move now! Go!
+Dialogue: 0,1:58:56.19,1:58:57.19,Default,,0,0,0,,A good death...
+Dialogue: 0,1:58:57.46,1:58:59.03,Default,,0,0,0,,is its own reward.
+Dialogue: 0,1:59:06.64,1:59:08.01,Default,,0,0,0,,Ah!
+Dialogue: 0,1:59:29.56,1:59:30.63,Default,,0,0,0,,Ah!
+Dialogue: 0,1:59:47.41,1:59:48.82,Default,,0,0,0,,Argh!
+Dialogue: 0,2:00:01.49,2:00:02.93,Default,,0,0,0,,Are they gone?
+Dialogue: 0,2:00:04.09,2:00:05.50,Default,,0,0,0,,I think so.
+Dialogue: 0,2:00:07.40,2:00:08.74,Default,,0,0,0,,He saved us.
+Dialogue: 0,2:00:34.22,2:00:37.43,Default,,0,0,0,,You know, they say it's all\Ndownhill after the first kiss.
+Dialogue: 0,2:00:40.90,2:00:43.93,Default,,0,0,0,,I'm pretty sure that only counts\Nwhen you're kissing a human.
+Dialogue: 0,2:01:13.29,2:01:14.77,Default,,0,0,0,,Look at this.
+Dialogue: 0,2:01:17.07,2:01:18.98,Default,,0,0,0,,We could have\Nbuilt a new Krypton...
+Dialogue: 0,2:01:19.23,2:01:20.98,Default,,0,0,0,,in this squalor.
+Dialogue: 0,2:01:21.24,2:01:24.34,Default,,0,0,0,,But you chose the\Nhumans over us.
+Dialogue: 0,2:01:25.77,2:01:27.31,Default,,0,0,0,,I exist...
+Dialogue: 0,2:01:27.58,2:01:29.99,Default,,0,0,0,,only to protect Krypton.
+Dialogue: 0,2:01:31.75,2:01:35.75,Default,,0,0,0,,That is the sole purpose\Nfor which I was born.
+Dialogue: 0,2:01:36.99,2:01:39.12,Default,,0,0,0,,And every action I take...
+Dialogue: 0,2:01:39.35,2:01:41.36,Default,,0,0,0,,no matter how violent...
+Dialogue: 0,2:01:41.62,2:01:43.33,Default,,0,0,0,,or how cruel...
+Dialogue: 0,2:01:44.53,2:01:46.94,Default,,0,0,0,,is for the greater good...
+Dialogue: 0,2:01:47.16,2:01:49.11,Default,,0,0,0,,of my people.
+Dialogue: 0,2:01:53.43,2:01:54.85,Default,,0,0,0,,And now...
+Dialogue: 0,2:01:55.10,2:01:57.38,Default,,0,0,0,,I have no people.
+Dialogue: 0,2:02:00.81,2:02:02.38,Default,,0,0,0,,My soul...
+Dialogue: 0,2:02:04.48,2:02:08.02,Default,,0,0,0,,that is what you have taken...
+Dialogue: 0,2:02:08.28,2:02:09.89,Default,,0,0,0,,from me.
+Dialogue: 0,2:02:16.79,2:02:19.29,Default,,0,0,0,,I'm going to make\Nthem suffer, Kal.
+Dialogue: 0,2:02:19.53,2:02:22.97,Default,,0,0,0,,These humans you've adopted,\NI will take them all from you...
+Dialogue: 0,2:02:23.20,2:02:26.18,Default,,0,0,0,,- one by one.\N- You're a monster, Zod...
+Dialogue: 0,2:02:28.80,2:02:30.01,Default,,0,0,0,,and I'm gonna stop you.
+Dialogue: 0,2:02:42.48,2:02:43.69,Default,,0,0,0,,Argh!
+Dialogue: 0,2:02:51.99,2:02:52.99,Default,,0,0,0,,Argh!
+Dialogue: 0,2:04:11.61,2:04:12.31,Default,,0,0,0,,There's only...
+Dialogue: 0,2:04:12.57,2:04:13.92,Default,,0,0,0,,one way this ends, Kal.
+Dialogue: 0,2:04:14.14,2:04:15.99,Default,,0,0,0,,Either you die...
+Dialogue: 0,2:04:16.24,2:04:17.24,Default,,0,0,0,,or I do.
+Dialogue: 0,2:04:38.20,2:04:39.20,Default,,0,0,0,,Unh!
+Dialogue: 0,2:04:48.68,2:04:50.82,Default,,0,0,0,,I was bred to be a warrior, Kal.
+Dialogue: 0,2:04:51.68,2:04:53.32,Default,,0,0,0,,Trained my entire life...
+Dialogue: 0,2:04:53.55,2:04:55.39,Default,,0,0,0,,to master my senses.
+Dialogue: 0,2:04:55.88,2:04:59.49,Default,,0,0,0,,Where did you train? On a farm?
+Dialogue: 0,2:06:51.27,2:06:52.90,Default,,0,0,0,,Argh!
+Dialogue: 0,2:07:08.42,2:07:09.86,Default,,0,0,0,,If you love...
+Dialogue: 0,2:07:10.12,2:07:12.46,Default,,0,0,0,,these people so much...
+Dialogue: 0,2:07:13.19,2:07:15.46,Default,,0,0,0,,you can mourn for them.
+Dialogue: 0,2:07:19.93,2:07:21.00,Default,,0,0,0,,Don't do this!
+Dialogue: 0,2:07:24.20,2:07:25.20,Default,,0,0,0,,Stop!
+Dialogue: 0,2:07:31.37,2:07:32.37,Default,,0,0,0,,Stop!
+Dialogue: 0,2:07:34.71,2:07:35.85,Default,,0,0,0,,Never.
+Dialogue: 0,2:08:05.84,2:08:07.34,Default,,0,0,0,,Ahh!
+Dialogue: 0,2:09:10.54,2:09:11.92,Default,,0,0,0,,Are you effing stupid?
+Dialogue: 0,2:09:12.14,2:09:13.88,Default,,0,0,0,,It's one of your\Nsurveillance drones.
+Dialogue: 0,2:09:14.11,2:09:16.61,Default,,0,0,0,,That's a $12,000,000\Npiece of hardware.
+Dialogue: 0,2:09:16.78,2:09:17.81,Default,,0,0,0,,It was.
+Dialogue: 0,2:09:18.61,2:09:21.15,Default,,0,0,0,,I know you're trying to find\Nout where I hang my cape.
+Dialogue: 0,2:09:21.75,2:09:23.23,Default,,0,0,0,,- You won't.\N- Then I'll ask...
+Dialogue: 0,2:09:23.45,2:09:24.76,Default,,0,0,0,,the obvious question:
+Dialogue: 0,2:09:25.22,2:09:28.22,Default,,0,0,0,,How do we know you won't one\Nday act against America's interests?
+Dialogue: 0,2:09:28.92,2:09:30.77,Default,,0,0,0,,I grew up in Kansas, general.
+Dialogue: 0,2:09:31.23,2:09:33.40,Default,,0,0,0,,I'm about as\NAmerican as it gets.
+Dialogue: 0,2:09:33.66,2:09:34.66,Default,,0,0,0,,Look...
+Dialogue: 0,2:09:34.80,2:09:36.27,Default,,0,0,0,,I'm here to help...
+Dialogue: 0,2:09:36.50,2:09:38.74,Default,,0,0,0,,but it has to be\Non my own terms.
+Dialogue: 0,2:09:38.97,2:09:40.81,Default,,0,0,0,,You have to convince\NWashington of that.
+Dialogue: 0,2:09:41.07,2:09:45.07,Default,,0,0,0,,Even if I were willing to try, what\Nmakes you think they'd listen?
+Dialogue: 0,2:09:46.14,2:09:47.74,Default,,0,0,0,,I don't know, general.
+Dialogue: 0,2:09:49.14,2:09:50.85,Default,,0,0,0,,Guess I'll just\Nhave to trust you.
+Dialogue: 0,2:10:00.42,2:10:01.80,Default,,0,0,0,,What are you smiling about?
+Dialogue: 0,2:10:02.62,2:10:03.97,Default,,0,0,0,,Nothing, sir.
+Dialogue: 0,2:10:07.13,2:10:09.11,Default,,0,0,0,,I just think he's kind of hot.
+Dialogue: 0,2:10:11.27,2:10:13.37,Default,,0,0,0,,- Get in the car, captain.\N- Mm-hm. Yes, sir.
+Dialogue: 0,2:10:23.34,2:10:26.55,Default,,0,0,0,,He always believed you\Nwere meant for greater things.
+Dialogue: 0,2:10:26.81,2:10:28.32,Default,,0,0,0,,And that when the day came...
+Dialogue: 0,2:10:28.55,2:10:31.36,Default,,0,0,0,,your shoulders would\Nbe able to bear the weight.
+Dialogue: 0,2:10:31.62,2:10:35.47,Default,,0,0,0,,Yeah, I just wish he could have\Nbeen here to see it finally happen.
+Dialogue: 0,2:10:35.89,2:10:37.87,Default,,0,0,0,,He saw it, Clark, believe me.
+Dialogue: 0,2:11:25.37,2:11:28.22,Default,,0,0,0,,What are you going to do\Nwhen you're not saving the world?
+Dialogue: 0,2:11:28.44,2:11:32.19,Default,,0,0,0,,- Have you given any thought to that?\N- I have, actually. Heh, heh.
+Dialogue: 0,2:11:33.78,2:11:37.79,Default,,0,0,0,,I gotta find a job where I can\Nkeep my ear to the ground.
+Dialogue: 0,2:11:43.02,2:11:45.09,Default,,0,0,0,,Where people won't look twice...
+Dialogue: 0,2:11:45.36,2:11:49.14,Default,,0,0,0,,when I want to go somewhere\Ndangerous and start asking questions.
+Dialogue: 0,2:12:03.24,2:12:06.28,Default,,0,0,0,,Come on, Lois. When are\Nyou gonna throw me a bone?
+Dialogue: 0,2:12:07.55,2:12:09.22,Default,,0,0,0,,Courtside seats\Nto the game tonight.
+Dialogue: 0,2:12:09.65,2:12:11.22,Default,,0,0,0,,- What do you say?\N- I say...
+Dialogue: 0,2:12:11.45,2:12:13.99,Default,,0,0,0,,you should go back to\Ntrolling the intern pool.
+Dialogue: 0,2:12:14.26,2:12:17.63,Default,,0,0,0,,You'll probably have\Nmore luck. Sorry.
+Dialogue: 0,2:12:19.43,2:12:20.10,Default,,0,0,0,,Courtside?
+Dialogue: 0,2:12:20.33,2:12:22.07,Default,,0,0,0,,- Don't. Ha, ha, ha.\N- No.
+Dialogue: 0,2:12:22.30,2:12:25.11,Default,,0,0,0,,Lombard, Lane, I want\Nyou to meet our new stringer.
+Dialogue: 0,2:12:25.33,2:12:28.58,Default,,0,0,0,,I want you to show him\Nthe ropes. This is Clark Kent.
+Dialogue: 0,2:12:28.80,2:12:30.11,Default,,0,0,0,,Good luck, kid.
+Dialogue: 0,2:12:31.64,2:12:32.91,Default,,0,0,0,,Hey. Steve.
+Dialogue: 0,2:12:33.14,2:12:34.41,Default,,0,0,0,,- Nice to meet you.\N- You too.
+Dialogue: 0,2:12:34.64,2:12:35.64,Default,,0,0,0,,Hi.
+Dialogue: 0,2:12:36.41,2:12:37.75,Default,,0,0,0,,Lois Lane.
+Dialogue: 0,2:12:38.58,2:12:40.12,Default,,0,0,0,,Welcome to the Planet.
+Dialogue: 0,2:12:43.85,2:12:45.83,Default,,0,0,0,,Glad to be here, Lois.
+Dialogue: 0,2:13:08.89,2:13:10.89,Default,,0,0,0,,{\an5\c&H51ab2b&}Improved by{\c&Hf8fc03&} {\b1}KID{\b0} {\c}\N\N{\an5\c&H51ab2b&}Resynced by{\c&Hf8fc03&} {\b1}KID{\b0} {\c}\N\N{\an5\c&H51ab2b&}Enjoy the movie(s) / show(s)

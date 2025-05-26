@@ -1,0 +1,3565 @@
+﻿1
+00:00:00,041 --> 00:00:01,292
+[man]
+<i>Previously on</i> Arrow...
+
+2
+00:00:01,376 --> 00:00:03,336
+I'm the one
+who's testifying against you.
+
+3
+00:00:03,420 --> 00:00:05,505
+{\an8}<i>In a shocking fall from grace</i>
+
+4
+00:00:05,588 --> 00:00:08,717
+<i>the Star City council has voted
+to impeach Mayor Oliver Queen</i>
+
+5
+00:00:08,800 --> 00:00:10,135
+<i>and remove him from office.</i>
+
+6
+00:00:10,260 --> 00:00:11,845
+I'm thinking about moving up your trial.
+
+7
+00:00:12,262 --> 00:00:13,304
+[groans]
+
+8
+00:00:13,388 --> 00:00:16,057
+And I got a lot of friends
+at the courthouse...
+
+9
+00:00:16,182 --> 00:00:19,352
+{\an8}[news anchor] <i>Speculation that the former
+mayor is secretly the Green Arrow</i>
+
+10
+00:00:19,436 --> 00:00:21,354
+{\an8}<i>has multiplied in recent weeks,</i>
+
+11
+00:00:21,438 --> 00:00:25,108
+{\an8}<i>after his decision to terminate
+two city officials investigating him</i>
+
+12
+00:00:25,191 --> 00:00:26,568
+<i>led to his impeachment.</i>
+
+13
+00:00:26,693 --> 00:00:30,196
+<i>If convicted, Oliver Queen
+could face a life sentence.</i>
+
+14
+00:00:30,488 --> 00:00:33,658
+<i>His fate now rests
+in Star City's justice system.</i>
+
+15
+00:00:35,744 --> 00:00:37,537
+{\an8}[men speak indistinctly]
+
+16
+00:00:41,499 --> 00:00:43,168
+[explosion and gunfire]
+
+17
+00:01:42,936 --> 00:01:44,896
+-John?
+-I'm getting you out of here.
+
+18
+00:01:45,355 --> 00:01:47,106
+[Oliver laughing]
+
+19
+00:01:47,774 --> 00:01:48,858
+What the hell are you doing here?
+
+20
+00:01:49,317 --> 00:01:50,568
+I need your help.
+
+21
+00:01:51,194 --> 00:01:52,320
+In Star City.
+
+22
+00:01:59,452 --> 00:02:00,829
+{\an8}[reporter 1] Mr. Queen, what happened
+to your face?
+
+23
+00:02:00,912 --> 00:02:02,163
+{\an8}[reporter 2]
+Mr. Queen, do you know who the Flash is?
+
+24
+00:02:02,247 --> 00:02:04,040
+{\an8}-[reporters clamoring]
+-[cameras clicking]
+
+25
+00:02:05,708 --> 00:02:07,627
+{\an8}[reporter 3] Mr. Queen,
+how long will this trial last?
+
+26
+00:02:07,752 --> 00:02:08,837
+{\an8}Will you be acquitted?
+
+27
+00:02:12,757 --> 00:02:14,884
+{\an8}And the media wonders
+why everyone hates them.
+
+28
+00:02:15,552 --> 00:02:17,762
+{\an8}Thank you, Officer,
+you can wait outside.
+
+29
+00:02:18,221 --> 00:02:20,265
+{\an8}I'm right where Mr. Diaz wants me.
+
+30
+00:02:21,724 --> 00:02:24,561
+{\an8}I need to have a privileged
+conversation with my client.
+
+31
+00:02:24,936 --> 00:02:25,937
+{\an8}Nobody's stopping you.
+
+32
+00:02:30,358 --> 00:02:32,569
+{\an8}Since you fired
+District Attorney Armand,
+
+33
+00:02:32,652 --> 00:02:35,613
+{\an8}the DA's office has brought in
+outside counsel to prosecute.
+
+34
+00:02:35,697 --> 00:02:36,781
+Okay, well, that could be a good thing.
+
+35
+00:02:36,865 --> 00:02:38,408
+I mean, someone who's not
+in Diaz's pocket.
+
+36
+00:02:38,533 --> 00:02:39,993
+Have you heard of Alexa Van Owen?
+
+37
+00:02:40,076 --> 00:02:41,077
+Should I have heard of her?
+
+38
+00:02:42,328 --> 00:02:44,831
+[Felicity] She took down Intergang
+and Bruno Mannheim.
+
+39
+00:02:45,165 --> 00:02:47,292
+{\an8}She's prosecuted
+CEOs and serial killers,
+
+40
+00:02:47,375 --> 00:02:49,127
+{\an8}and she has CIA-caliber investigators
+
+41
+00:02:49,252 --> 00:02:51,254
+{\an8}that say they can find
+anything and everything.
+
+42
+00:02:51,671 --> 00:02:53,214
+{\an8}Her conviction rate is 99%.
+
+43
+00:02:53,590 --> 00:02:55,341
+[Jean] She called me last night
+and she offered a plea.
+
+44
+00:02:55,884 --> 00:02:58,177
+Single count of
+first-degree manslaughter...
+
+45
+00:02:58,303 --> 00:02:59,429
+That doesn't sound so bad.
+
+46
+00:02:59,512 --> 00:03:01,431
+...with a 15-year minimum sentence.
+
+47
+00:03:01,681 --> 00:03:03,016
+That sounds bad.
+We're not taking that, right?
+
+48
+00:03:03,266 --> 00:03:04,309
+We're not taking any deal.
+
+49
+00:03:04,392 --> 00:03:06,895
+{\an8}Look, Van Owen isn't in Diaz's pocket,
+
+50
+00:03:06,978 --> 00:03:09,355
+{\an8}but we have every reason to believe
+that Judge McGarvey is.
+
+51
+00:03:09,564 --> 00:03:11,858
+{\an8}I mean, this whole system
+is against you.
+
+52
+00:03:12,859 --> 00:03:14,193
+{\an8}No deal.
+
+53
+00:03:15,820 --> 00:03:17,614
+Get me an acquittal.
+
+54
+00:03:19,991 --> 00:03:20,992
+I'm not doing it, Rene.
+
+55
+00:03:21,075 --> 00:03:22,827
+I'm not playing make-believe with you.
+
+56
+00:03:22,911 --> 00:03:24,913
+{\an8}It's a mock trial, not make-believe,
+
+57
+00:03:24,996 --> 00:03:26,497
+{\an8}and we got to get our story straight.
+
+58
+00:03:26,581 --> 00:03:28,207
+{\an8}Well, I'm planning
+on pleading the Fifth.
+
+59
+00:03:28,291 --> 00:03:29,584
+{\an8}Did you have a different
+amendment in mind?
+
+60
+00:03:29,709 --> 00:03:31,711
+{\an8}We can't plead the Fifth
+without looking guilty.
+
+61
+00:03:31,794 --> 00:03:33,880
+{\an8}We are guilty. We are vigilantes,
+
+62
+00:03:33,963 --> 00:03:35,506
+{\an8}and we know Oliver is the Green Arrow.
+
+63
+00:03:35,840 --> 00:03:37,800
+{\an8}Which is why we gotta lie
+through our teeth.
+
+64
+00:03:38,051 --> 00:03:40,303
+{\an8}And we gotta be convincing.
+We gotta have our story straight.
+
+65
+00:03:40,595 --> 00:03:42,680
+{\an8}Hoss, you wanna weigh in on this?
+You've been real quiet.
+
+66
+00:03:43,556 --> 00:03:44,641
+{\an8}Why?
+
+67
+00:03:45,016 --> 00:03:46,893
+{\an8}It's not like I'm gonna have to testify.
+
+68
+00:03:47,143 --> 00:03:48,478
+{\an8}Curtis, please don't tell me
+you have FOMO
+
+69
+00:03:48,561 --> 00:03:49,979
+{\an8}because you weren't subpoenaed.
+
+70
+00:03:50,063 --> 00:03:51,981
+{\an8}Yeah, I have major FOMO. Don't I rate?
+
+71
+00:03:52,190 --> 00:03:53,608
+{\an8}You know, maybe you're just
+so much better
+
+72
+00:03:53,691 --> 00:03:55,818
+{\an8}at maintaining your secret identity
+than the rest of us.
+
+73
+00:03:55,944 --> 00:03:57,779
+{\an8}Guys, can we be real for a second here?
+
+74
+00:03:57,862 --> 00:03:59,614
+{\an8}I mean, Oliver's facing life in prison.
+
+75
+00:03:59,697 --> 00:04:02,533
+{\an8}Yeah, and I guess I'm just
+a little bit surprised that you care.
+
+76
+00:04:03,117 --> 00:04:05,745
+Not that I think you actually
+want Oliver to go to prison, Rene,
+
+77
+00:04:05,828 --> 00:04:07,497
+{\an8}-but come on...
+-Oliver's a jerk.
+
+78
+00:04:08,456 --> 00:04:10,124
+{\an8}My position on that hasn't changed.
+
+79
+00:04:10,625 --> 00:04:13,211
+{\an8}But what also hasn't changed
+is the position that he's in
+
+80
+00:04:13,294 --> 00:04:14,337
+{\an8}right now.
+
+81
+00:04:16,631 --> 00:04:17,966
+{\an8}He's in it because of me.
+
+82
+00:04:20,260 --> 00:04:22,470
+{\an8}[sighs] You're right.
+
+83
+00:04:22,887 --> 00:04:24,097
+{\an8}And I think we can all agree,
+
+84
+00:04:24,180 --> 00:04:26,224
+{\an8}no matter what our feelings are
+about Oliver,
+
+85
+00:04:26,307 --> 00:04:27,976
+{\an8}none of us would want him
+to go to prison.
+
+86
+00:04:28,101 --> 00:04:29,227
+{\an8}Am I right?
+
+87
+00:04:31,604 --> 00:04:32,605
+Damn right.
+
+88
+00:04:37,652 --> 00:04:39,362
+From where I'm sitting,
+it's pretty simple.
+
+89
+00:04:39,821 --> 00:04:41,197
+They've got the wrong guy.
+
+90
+00:04:41,698 --> 00:04:45,076
+Oliver Queen isn't the Green Arrow
+any more than I am.
+
+91
+00:04:45,952 --> 00:04:47,787
+And for the record,
+I'm not the Green Arrow.
+
+92
+00:04:47,954 --> 00:04:49,414
+There appears to be
+a fair amount of evidence
+
+93
+00:04:49,497 --> 00:04:51,207
+to suggest the former mayor is guilty.
+
+94
+00:04:51,332 --> 00:04:52,333
+What evidence?
+
+95
+00:04:52,458 --> 00:04:54,585
+That photo from several months ago?
+That was doctored.
+
+96
+00:04:54,711 --> 00:04:55,878
+And I don't know
+who they're going to find
+
+97
+00:04:55,962 --> 00:04:57,672
+to say Oliver's the Green Arrow,
+but they'll be lying.
+
+98
+00:04:57,755 --> 00:04:59,799
+-You sound pretty sure of that.
+-I am.
+
+99
+00:05:00,091 --> 00:05:02,719
+I'm the guy that arrested Oliver
+six years ago, remember?
+
+100
+00:05:03,511 --> 00:05:04,971
+I watched him pass a polygraph.
+
+101
+00:05:06,264 --> 00:05:08,308
+-He's not the Green Arrow.
+-Do you know who is?
+
+102
+00:05:08,558 --> 00:05:10,435
+I got a few guesses. [chuckles]
+
+103
+00:05:11,269 --> 00:05:12,895
+-Thank you, Mr. Mayor.
+-You're welcome.
+
+104
+00:05:14,814 --> 00:05:15,815
+Oh, hey.
+
+105
+00:05:15,982 --> 00:05:17,233
+Sorry, they told me
+I could come in here.
+
+106
+00:05:17,692 --> 00:05:19,402
+Uh, no, that's fine. Right?
+We're finished.
+
+107
+00:05:19,527 --> 00:05:21,279
+Actually, maybe we could just
+get some B-roll.
+
+108
+00:05:22,822 --> 00:05:25,199
+As the Black Canary, you have to know
+who the Green Arrow is.
+
+109
+00:05:25,867 --> 00:05:26,868
+I do.
+
+110
+00:05:29,078 --> 00:05:31,205
+And I'll testify to it
+if they subpoena me.
+
+111
+00:05:32,498 --> 00:05:33,791
+Happy? Got your sound bite?
+
+112
+00:05:34,917 --> 00:05:36,002
+Good.
+
+113
+00:05:39,255 --> 00:05:40,882
+This looks bigger than the O.J. trial.
+
+114
+00:05:41,090 --> 00:05:42,884
+How would you know?
+You were in, like, fourth grade.
+
+115
+00:05:42,967 --> 00:05:44,510
+Yeah, but I watch <i>American Crime Story.</i>
+
+116
+00:05:44,594 --> 00:05:46,137
+I guess John decided not to show.
+
+117
+00:05:46,220 --> 00:05:48,181
+I knew he was pissed,
+but I didn't know he was that pissed.
+
+118
+00:05:49,098 --> 00:05:50,183
+Guys.
+
+119
+00:05:51,642 --> 00:05:53,227
+Hey, thank you so much for coming.
+
+120
+00:05:53,436 --> 00:05:55,063
+Well, you know, they were subpoenaed...
+
+121
+00:05:55,897 --> 00:05:58,399
+But we also wanted to show our support.
+
+122
+00:05:58,733 --> 00:06:00,485
+-Yeah, we have your back.
+-Thank you.
+
+123
+00:06:01,402 --> 00:06:03,321
+Really, thank you.
+
+124
+00:06:05,740 --> 00:06:06,991
+-Hey.
+-Hey.
+
+125
+00:06:07,116 --> 00:06:08,743
+So many reporters outside.
+
+126
+00:06:08,826 --> 00:06:10,578
+Yeah, I know. I'm sorry.
+
+127
+00:06:11,120 --> 00:06:12,497
+-You okay?
+-I always thought
+
+128
+00:06:12,580 --> 00:06:14,665
+the worst thing
+that could happen to Dad is...
+
+129
+00:06:14,916 --> 00:06:16,459
+-He'd get hurt.
+-I know.
+
+130
+00:06:16,709 --> 00:06:19,295
+Okay, he's been through something
+like this before. I mean...
+
+131
+00:06:19,629 --> 00:06:22,090
+Not exactly like this,
+but something, and...
+
+132
+00:06:23,591 --> 00:06:24,592
+-[cameras clicking]
+-It's gonna be okay.
+
+133
+00:06:26,552 --> 00:06:27,553
+[bailiff] All rise.
+
+134
+00:06:28,096 --> 00:06:31,307
+Docket number 11-19-41-73,
+
+135
+00:06:31,390 --> 00:06:33,559
+<i>The People v. Oliver Jonas Queen.</i>
+
+136
+00:06:34,435 --> 00:06:35,478
+Status of the parties?
+
+137
+00:06:35,770 --> 00:06:36,854
+Ready for trial.
+
+138
+00:06:37,396 --> 00:06:38,397
+Ready for trial.
+
+139
+00:06:39,482 --> 00:06:40,566
+Then let's begin.
+
+140
+00:06:44,695 --> 00:06:46,531
+Oliver Queen is a hero.
+
+141
+00:06:47,532 --> 00:06:48,533
+He is.
+
+142
+00:06:48,783 --> 00:06:51,327
+He's saved this city more times
+than anybody can count.
+
+143
+00:06:53,246 --> 00:06:55,540
+But he's done it all from behind a mask,
+
+144
+00:06:55,832 --> 00:06:58,709
+so that he could take the law
+into his own hands.
+
+145
+00:07:00,336 --> 00:07:03,464
+In fact, he's taken as many lives
+as he's saved.
+
+146
+00:07:03,881 --> 00:07:06,467
+So, yes, Oliver Queen is a hero,
+
+147
+00:07:07,176 --> 00:07:09,345
+but that doesn't mean
+he's not also a criminal.
+
+148
+00:07:14,100 --> 00:07:17,478
+[Jean] Three weeks ago,
+Oliver Queen was mayor of this city.
+
+149
+00:07:18,521 --> 00:07:21,732
+In that time, he has gone
+from being under indictment,
+
+150
+00:07:22,316 --> 00:07:24,819
+to impeachment, to being on trial.
+
+151
+00:07:26,320 --> 00:07:27,405
+How?
+
+152
+00:07:27,488 --> 00:07:29,907
+How could everything go wrong
+so quickly for him?
+
+153
+00:07:30,408 --> 00:07:32,326
+I think intuitively you know the answer.
+
+154
+00:07:32,743 --> 00:07:33,744
+Corruption.
+
+155
+00:07:34,537 --> 00:07:36,330
+It runs through this city like a cancer,
+
+156
+00:07:36,414 --> 00:07:41,252
+compromising some city officials
+while discrediting others, like...
+
+157
+00:07:42,211 --> 00:07:43,546
+Like the defendant.
+
+158
+00:07:43,713 --> 00:07:46,674
+Even the anti-vigilante law
+that he is being charged under
+
+159
+00:07:46,924 --> 00:07:49,177
+is the work of the corrupt men and women
+
+160
+00:07:49,260 --> 00:07:51,762
+who are holding our city in their grip.
+
+161
+00:07:52,180 --> 00:07:54,265
+This may sound like a conspiracy theory,
+
+162
+00:07:54,348 --> 00:07:56,601
+but at the conclusion of this trial,
+
+163
+00:07:56,684 --> 00:07:59,645
+I'm going to ask you
+what is most likely.
+
+164
+00:08:00,062 --> 00:08:02,732
+That our city's government
+has been compromised,
+
+165
+00:08:03,191 --> 00:08:06,652
+or that we elected a superhero
+as our mayor?
+
+166
+00:08:09,280 --> 00:08:11,866
+Ms. Van Owen,
+please call your first witness.
+
+167
+00:08:12,700 --> 00:08:13,993
+The people call John Diggle.
+
+168
+00:08:18,789 --> 00:08:19,790
+Where is he?
+
+169
+00:08:21,125 --> 00:08:23,628
+A bench warrant will issue
+for Mr. Diggle.
+
+170
+00:08:23,920 --> 00:08:25,755
+If he's not made to appear
+within one hour,
+
+171
+00:08:25,838 --> 00:08:27,924
+he'll be held in contempt of this court.
+
+172
+00:08:29,008 --> 00:08:30,092
+Is your next witness ready?
+
+173
+00:08:30,510 --> 00:08:31,511
+Yes, Your Honor.
+
+174
+00:08:33,262 --> 00:08:35,598
+Please state your name
+and occupation for the record.
+
+175
+00:08:35,973 --> 00:08:37,475
+Dr. Eliza Schwartz.
+
+176
+00:08:37,808 --> 00:08:40,561
+I'm an attending physician
+at Starling General Hospital.
+
+177
+00:08:41,854 --> 00:08:43,147
+Thank you, Dr. Schwartz.
+
+178
+00:08:43,606 --> 00:08:45,358
+And you've had an occasion
+to treat the defendant?
+
+179
+00:08:45,525 --> 00:08:47,985
+-Yes.
+-For various suspicious injuries,
+
+180
+00:08:48,069 --> 00:08:49,070
+is that correct?
+
+181
+00:08:49,153 --> 00:08:52,573
+I can't say without violating
+doctor-patient confidentiality.
+
+182
+00:08:52,740 --> 00:08:53,741
+I understand.
+
+183
+00:08:53,824 --> 00:08:56,661
+Then let me direct your attention,
+please, to an incident
+
+184
+00:08:57,119 --> 00:08:58,996
+when Mr. Queen was not a patient.
+
+185
+00:08:59,205 --> 00:09:01,582
+On the night of April 6th, 2016,
+
+186
+00:09:01,666 --> 00:09:03,668
+the Green Arrow
+brought in the Black Canary.
+
+187
+00:09:04,126 --> 00:09:06,671
+And according to your records,
+she had been stabbed...
+
+188
+00:09:06,796 --> 00:09:09,173
+Objection. Is there a question
+in our future?
+
+189
+00:09:09,590 --> 00:09:10,591
+Yes.
+
+190
+00:09:11,425 --> 00:09:13,594
+That night, you were close enough
+to the Green Arrow
+
+191
+00:09:13,678 --> 00:09:15,179
+to determine his identity.
+
+192
+00:09:16,013 --> 00:09:19,350
+So my question is whose face
+did you see that night?
+
+193
+00:09:19,559 --> 00:09:22,144
+I was focused
+on saving Ms. Lance's life.
+
+194
+00:09:22,311 --> 00:09:25,273
+I wasn't the least bit concerned
+with who the Green Arrow was.
+
+195
+00:09:25,731 --> 00:09:26,983
+<i>Concerned or not,</i>
+
+196
+00:09:27,692 --> 00:09:29,860
+<i>whose face did you see
+underneath that mask?</i>
+
+197
+00:09:29,944 --> 00:09:32,363
+You know, it's not bad.
+Oliver might just pull this one off.
+
+198
+00:09:32,613 --> 00:09:34,031
+You want to put money on that?
+
+199
+00:09:35,283 --> 00:09:37,326
+Diaz wants Oliver in prison.
+
+200
+00:09:38,244 --> 00:09:40,288
+You'd think he'd want to kill him.
+I mean, at least try.
+
+201
+00:09:40,538 --> 00:09:42,915
+What, so the Green Arrow
+can become a martyr?
+
+202
+00:09:43,374 --> 00:09:44,625
+-Diaz is smarter than that.
+-[cell phone ringing]
+
+203
+00:09:46,419 --> 00:09:47,461
+I have to go.
+
+204
+00:09:47,545 --> 00:09:49,171
+Diaz yank your leash?
+
+205
+00:09:49,255 --> 00:09:50,590
+Something like that.
+
+206
+00:09:50,715 --> 00:09:52,133
+You know, you don't have to go.
+
+207
+00:09:53,426 --> 00:09:56,053
+First step to standing up to him
+is to stand up to him.
+
+208
+00:09:56,178 --> 00:09:58,681
+Sounds like the first step
+to getting myself killed.
+
+209
+00:09:58,806 --> 00:10:01,601
+Not for nothing,
+but apart from your face,
+
+210
+00:10:02,518 --> 00:10:04,770
+there's one thing
+you got in common with my Laurel.
+
+211
+00:10:05,062 --> 00:10:06,063
+And what's that?
+
+212
+00:10:06,564 --> 00:10:09,150
+Neither of you would let
+somebody else tell you what to do
+
+213
+00:10:09,275 --> 00:10:10,359
+or have you running scared.
+
+214
+00:10:10,484 --> 00:10:13,195
+You think your Laurel
+would stand up to Diaz?
+
+215
+00:10:13,279 --> 00:10:14,280
+I know it.
+
+216
+00:10:14,697 --> 00:10:17,158
+Well, maybe if she were a little smarter
+
+217
+00:10:17,700 --> 00:10:19,410
+she wouldn't have gotten herself killed.
+
+218
+00:10:25,124 --> 00:10:26,375
+It's been one hour.
+
+219
+00:10:26,667 --> 00:10:28,169
+Mr. Diggle having not yet appeared,
+
+220
+00:10:28,252 --> 00:10:30,379
+-he is hereby in contempt of this court.
+-[DOOR OPENS]
+
+221
+00:10:31,505 --> 00:10:32,632
+I'm sorry I'm late, Your Honor.
+
+222
+00:10:34,175 --> 00:10:35,718
+I had some business to take care of.
+
+223
+00:10:36,010 --> 00:10:37,136
+Out of town.
+
+224
+00:10:39,221 --> 00:10:41,265
+Oliver Queen is not the Green Arrow.
+
+225
+00:10:42,683 --> 00:10:44,185
+I can't make it any plainer than that.
+
+226
+00:10:44,435 --> 00:10:45,895
+How can you be so sure?
+
+227
+00:10:46,062 --> 00:10:49,273
+From 2012 to 2016,
+I was his personal bodyguard.
+
+228
+00:10:50,232 --> 00:10:52,276
+If he was running around
+with a bow and arrow,
+
+229
+00:10:52,943 --> 00:10:53,944
+I would have known it.
+
+230
+00:10:54,111 --> 00:10:56,155
+-But would you admit knowing it?
+-Why wouldn't I?
+
+231
+00:10:56,405 --> 00:10:58,616
+Because you were aiding
+and abetting a vigilante?
+
+232
+00:10:58,783 --> 00:10:59,825
+I absolutely was not.
+
+233
+00:11:00,493 --> 00:11:02,787
+In fact, I had very limited
+interaction with Oliver Queen.
+
+234
+00:11:03,037 --> 00:11:04,038
+How can that be?
+
+235
+00:11:04,121 --> 00:11:06,123
+You were head of his security
+at City Hall.
+
+236
+00:11:06,290 --> 00:11:07,750
+And my job was to keep him safe.
+
+237
+00:11:08,417 --> 00:11:11,295
+And that included
+not jumping off of rooftops.
+
+238
+00:11:11,379 --> 00:11:13,631
+Mr. Diggle, you can't even keep
+yourself safe.
+
+239
+00:11:14,048 --> 00:11:17,426
+I mean, in the past four years
+you've been abducted by Damien Darhk.
+
+240
+00:11:17,510 --> 00:11:19,303
+Your own child was also kidnapped.
+
+241
+00:11:19,595 --> 00:11:21,806
+You were hospitalized for nerve damage
+
+242
+00:11:21,889 --> 00:11:24,141
+caused by severe trauma.
+
+243
+00:11:24,767 --> 00:11:25,768
+Mr. Diggle,
+
+244
+00:11:26,602 --> 00:11:29,980
+either you travel in some
+very dangerous circles,
+
+245
+00:11:31,482 --> 00:11:32,942
+or you have the worst luck ever.
+
+246
+00:11:35,027 --> 00:11:36,153
+Who was Sean Sonus?
+
+247
+00:11:36,278 --> 00:11:37,863
+-[Jean] Objection. Relevance?
+-Overruled.
+
+248
+00:11:38,155 --> 00:11:39,490
+-Your Honor...
+-I said overruled.
+
+249
+00:11:40,783 --> 00:11:41,784
+Answer the question.
+
+250
+00:11:43,077 --> 00:11:44,703
+He was a drug dealer I investigated
+
+251
+00:11:44,787 --> 00:11:46,872
+while undercover in the
+Central City Police Department.
+
+252
+00:11:47,039 --> 00:11:49,458
+And he was shot and killed
+in Hub City last year.
+
+253
+00:11:49,583 --> 00:11:52,336
+Your Honor, I renew my objection
+as to relevance.
+
+254
+00:11:52,420 --> 00:11:54,130
+Well, if Ms. Drake is a murderer,
+
+255
+00:11:54,213 --> 00:11:56,715
+it would certainly undermine
+her credibility now, wouldn't it?
+
+256
+00:11:57,633 --> 00:11:58,717
+[Judge] Objection overruled.
+
+257
+00:11:59,176 --> 00:12:01,429
+Again. Sit down, Ms. Loring.
+
+258
+00:12:02,054 --> 00:12:05,349
+So, you were not with
+the Central City Police Department
+
+259
+00:12:05,433 --> 00:12:07,226
+when Mr. Sonus was killed.
+Is that correct?
+
+260
+00:12:07,518 --> 00:12:09,061
+-That's right.
+-Did you murder him?
+
+261
+00:12:09,520 --> 00:12:11,689
+-Your Honor!
+-Answer the question.
+
+262
+00:12:18,571 --> 00:12:20,322
+I'm exercising my Fifth Amendment right
+
+263
+00:12:20,406 --> 00:12:21,699
+against self-incrimination.
+
+264
+00:12:21,866 --> 00:12:23,284
+[crowd murmuring]
+
+265
+00:12:34,044 --> 00:12:35,045
+You beckoned?
+
+266
+00:12:36,589 --> 00:12:38,340
+I saw something interesting on TV.
+
+267
+00:12:40,009 --> 00:12:42,219
+<i>And I'll testify to it
+if they subpoena me.</i>
+
+268
+00:12:44,430 --> 00:12:45,514
+Is there a problem?
+
+269
+00:12:46,849 --> 00:12:47,850
+Not yet, there isn't.
+
+270
+00:12:49,393 --> 00:12:51,061
+You know, this would move a lot faster
+
+271
+00:12:51,145 --> 00:12:52,771
+if you would stop talking in circles.
+
+272
+00:12:53,481 --> 00:12:55,983
+You were given
+the gift-wrapped opportunity
+
+273
+00:12:56,734 --> 00:12:58,402
+to say that Oliver Queen
+
+274
+00:12:59,028 --> 00:13:00,029
+was the Green Arrow.
+
+275
+00:13:03,115 --> 00:13:04,116
+You didn't do it, baby.
+
+276
+00:13:04,325 --> 00:13:05,784
+I wasn't aware I was supposed to.
+
+277
+00:13:06,285 --> 00:13:09,705
+Well, that's why we're here,
+having this little meeting.
+
+278
+00:13:10,581 --> 00:13:12,583
+So we can set expectations.
+
+279
+00:13:13,417 --> 00:13:16,712
+The prosecution is holding you
+as a rebuttal witness,
+
+280
+00:13:17,046 --> 00:13:18,672
+so when they call you,
+
+281
+00:13:18,923 --> 00:13:21,133
+you're gonna be the final nail
+in the coffin.
+
+282
+00:13:21,592 --> 00:13:23,886
+If I go in and try
+and convince a courtroom
+
+283
+00:13:23,969 --> 00:13:25,179
+that I'm Laurel Lance,
+
+284
+00:13:26,096 --> 00:13:27,223
+I'm gonna get made.
+
+285
+00:13:29,016 --> 00:13:30,434
+Maybe you're right.
+
+286
+00:13:32,645 --> 00:13:34,355
+You don't have a poker face.
+
+287
+00:13:37,816 --> 00:13:38,817
+For example...
+
+288
+00:13:40,653 --> 00:13:42,321
+The way you've been acting lately,
+
+289
+00:13:44,198 --> 00:13:46,700
+ever since I torched Federico
+on that rooftop...
+
+290
+00:13:49,537 --> 00:13:51,539
+You've been keeping
+your distance from me.
+
+291
+00:13:52,373 --> 00:13:54,250
+I don't know what you're talking about.
+
+292
+00:13:55,793 --> 00:13:56,794
+It's okay.
+
+293
+00:13:59,046 --> 00:14:00,047
+You're okay.
+
+294
+00:14:02,758 --> 00:14:04,093
+I just want to be a little clear.
+
+295
+00:14:05,553 --> 00:14:06,679
+[choking]
+
+296
+00:14:08,639 --> 00:14:10,140
+When you take the stand,
+
+297
+00:14:11,600 --> 00:14:15,020
+I want you to give the jury
+a much better performance
+
+298
+00:14:15,980 --> 00:14:17,189
+than the one you're giving me.
+
+299
+00:14:19,608 --> 00:14:21,068
+You know what I'm talking about now?
+
+300
+00:14:22,570 --> 00:14:23,571
+Good.
+
+301
+00:14:24,697 --> 00:14:26,031
+That's a good girl.
+
+302
+00:14:28,075 --> 00:14:29,577
+[gasping]
+
+303
+00:14:33,122 --> 00:14:34,415
+Gotta go to the courthouse.
+
+304
+00:14:42,464 --> 00:14:44,466
+It's not going too good, is it?
+
+305
+00:14:44,675 --> 00:14:46,093
+Hey, no, it's going fine.
+
+306
+00:14:46,176 --> 00:14:47,636
+It's fine. That was just
+the prosecution's turn,
+
+307
+00:14:47,720 --> 00:14:50,389
+so when it's our turn,
+we're gonna kick some major ass.
+
+308
+00:14:51,557 --> 00:14:52,725
+That's a legal term.
+
+309
+00:14:54,977 --> 00:14:56,687
+Why don't you go
+and get yourself something
+
+310
+00:14:56,770 --> 00:14:58,606
+that's not too unhealthy
+from the vending machine, okay?
+
+311
+00:14:58,898 --> 00:14:59,899
+Okay.
+
+312
+00:15:04,445 --> 00:15:06,614
+What will happen
+if Mr. Oliver goes to jail?
+
+313
+00:15:06,697 --> 00:15:08,240
+He's not going to jail, Raisa.
+
+314
+00:15:08,616 --> 00:15:09,867
+He's not the Green Arrow.
+
+315
+00:15:11,577 --> 00:15:13,162
+I think we both know better.
+
+316
+00:15:18,751 --> 00:15:21,670
+I tanked it. I did exactly
+what you said not to do.
+
+317
+00:15:21,754 --> 00:15:23,297
+Lawyer's good, D.
+
+318
+00:15:23,672 --> 00:15:25,132
+Don't worry, I'll bring it home.
+
+319
+00:15:25,215 --> 00:15:27,551
+How? We got immunity
+from the prosecution.
+
+320
+00:15:27,635 --> 00:15:29,553
+If watching every episode
+of <i>Law &amp; Order</i>ever
+
+321
+00:15:29,637 --> 00:15:31,972
+has taught me anything,
+it's that you can't plead the Fifth.
+
+322
+00:15:32,473 --> 00:15:34,725
+If you get cornered
+and you refuse to testify,
+
+323
+00:15:34,808 --> 00:15:37,144
+-you go to jail, Rene.
+-Well, then I'll go to jail, Hoss.
+
+324
+00:15:37,686 --> 00:15:39,647
+But I'm not screwing Oliver over again.
+
+325
+00:15:40,564 --> 00:15:43,359
+Hey, guys, the clerk just called
+the court back into session.
+
+326
+00:15:48,113 --> 00:15:50,366
+I worked in the Mayor's office
+close to a year.
+
+327
+00:15:51,367 --> 00:15:54,161
+Side-by-side with Mr. Queen
+every single day.
+
+328
+00:15:56,080 --> 00:15:58,874
+If he was running around
+pretending to be Robin Hood,
+
+329
+00:15:59,375 --> 00:16:01,085
+-I would have known.
+-And did you know it?
+
+330
+00:16:07,341 --> 00:16:08,342
+Mr. Ramirez...
+
+331
+00:16:11,804 --> 00:16:12,972
+Mr. Ramirez...
+
+332
+00:16:13,472 --> 00:16:15,808
+Did you have occasion to determine
+
+333
+00:16:16,058 --> 00:16:18,644
+whether Oliver Queen
+was the Green Arrow?
+
+334
+00:16:23,941 --> 00:16:24,942
+[Oliver] Rene...
+
+335
+00:16:35,703 --> 00:16:36,704
+He's the Green Arrow.
+
+336
+00:16:37,496 --> 00:16:38,497
+Oliver is.
+
+337
+00:16:38,998 --> 00:16:40,708
+[Van Owen] And you know this
+because you were a member
+
+338
+00:16:40,791 --> 00:16:42,751
+of his vigilante team, weren't you?
+
+339
+00:16:44,086 --> 00:16:45,087
+Yeah.
+
+340
+00:16:46,964 --> 00:16:51,385
+Did you ever see the defendant kill
+or maim anyone as the Green Arrow?
+
+341
+00:16:52,511 --> 00:16:53,512
+Yeah.
+
+342
+00:16:53,637 --> 00:16:55,389
+How many people did he kill or maim?
+
+343
+00:17:00,185 --> 00:17:02,146
+-I don't know.
+-Ballpark it for me.
+
+344
+00:17:02,229 --> 00:17:03,272
+I don't know!
+
+345
+00:17:07,109 --> 00:17:08,402
+It's too many to count.
+
+346
+00:17:08,485 --> 00:17:10,487
+-[crowd murmuring loudly]
+-[Judge] Order.
+
+347
+00:17:10,654 --> 00:17:11,655
+Order!
+
+348
+00:17:12,156 --> 00:17:13,991
+[Van Owen]
+The prosecution rests, Your Honor.
+
+349
+00:17:26,754 --> 00:17:28,005
+Are you okay?
+
+350
+00:17:28,088 --> 00:17:29,757
+-Are you hurt?
+-I'm fine.
+
+351
+00:17:30,174 --> 00:17:31,341
+He picked me up from school.
+
+352
+00:17:31,675 --> 00:17:33,010
+He was with a police officer.
+
+353
+00:17:33,343 --> 00:17:34,344
+They said you were hurt.
+
+354
+00:17:36,513 --> 00:17:38,057
+He was here and we just let him walk?
+
+355
+00:17:38,432 --> 00:17:39,600
+We're not letting him walk.
+
+356
+00:17:40,267 --> 00:17:41,351
+Let's get outta here.
+
+357
+00:17:51,862 --> 00:17:54,239
+Hey, look at you.
+
+358
+00:17:54,615 --> 00:17:57,076
+Maybe you don't care about people
+finding out the truth about you.
+
+359
+00:17:57,326 --> 00:17:59,078
+That's right. I don't care.
+
+360
+00:17:59,203 --> 00:18:00,662
+Whatever it takes to stop you.
+
+361
+00:18:01,080 --> 00:18:03,457
+How about taking on
+the entire police force?
+
+362
+00:18:04,249 --> 00:18:05,751
+How does that sound to you?
+
+363
+00:18:07,377 --> 00:18:08,545
+You want us to light them up, boss?
+
+364
+00:18:09,171 --> 00:18:10,464
+That depends on them.
+
+365
+00:18:12,049 --> 00:18:13,133
+My man.
+
+366
+00:18:13,258 --> 00:18:14,551
+What do you want us to do with them?
+
+367
+00:18:15,511 --> 00:18:16,720
+Nothing.
+
+368
+00:18:17,513 --> 00:18:19,598
+If they had an accident
+after testifying...
+
+369
+00:18:20,682 --> 00:18:21,683
+Could be awkward.
+
+370
+00:18:23,268 --> 00:18:25,145
+Hey, smile.
+
+371
+00:18:26,021 --> 00:18:27,815
+It's your lucky day, baby.
+
+372
+00:18:34,071 --> 00:18:35,072
+Okay.
+
+373
+00:18:35,155 --> 00:18:36,824
+Is this as bad as it looks?
+
+374
+00:18:36,949 --> 00:18:38,367
+Arguably worse.
+
+375
+00:18:39,952 --> 00:18:44,123
+Can we prove that Diaz
+was putting pressure on Rene?
+
+376
+00:18:44,206 --> 00:18:46,416
+No, no, no. I mean,
+even assuming we could,
+
+377
+00:18:46,792 --> 00:18:49,336
+the jury has no idea
+who Ricardo Diaz is.
+
+378
+00:18:50,504 --> 00:18:54,424
+Conventional wisdom says you never
+ask a client if they are guilty,
+
+379
+00:18:54,508 --> 00:18:58,220
+because the more I know,
+the more it might tie my hands but...
+
+380
+00:18:58,846 --> 00:19:00,139
+I am gonna ask...
+
+381
+00:19:02,558 --> 00:19:03,934
+Are you the Green Arrow?
+
+382
+00:19:05,894 --> 00:19:06,895
+Yes.
+
+383
+00:19:12,943 --> 00:19:14,820
+Then I'm going to propose
+a new strategy.
+
+384
+00:19:14,945 --> 00:19:16,572
+-Okay.
+-Jury nullification.
+
+385
+00:19:16,697 --> 00:19:18,073
+-Hmm?
+-You're going to admit
+
+386
+00:19:18,157 --> 00:19:19,449
+to being the Green Arrow.
+
+387
+00:19:19,867 --> 00:19:22,911
+We are then going to highlight
+every single thing you have done
+
+388
+00:19:22,995 --> 00:19:25,247
+for this city,
+all the times you have saved it.
+
+389
+00:19:25,330 --> 00:19:27,875
+We will argue you do not deserve
+to go to prison.
+
+390
+00:19:28,208 --> 00:19:31,086
+This is a legitimate chance, Oliver.
+
+391
+00:19:31,962 --> 00:19:33,672
+-I can't do it.
+-Why not?
+
+392
+00:19:34,590 --> 00:19:36,717
+I'd be putting a target on my back.
+
+393
+00:19:37,301 --> 00:19:41,138
+I'd be putting a target
+on my wife and son's back.
+
+394
+00:19:42,890 --> 00:19:45,267
+I have been the Green Arrow
+for six years.
+
+395
+00:19:45,517 --> 00:19:48,103
+I didn't plan on doing it forever.
+
+396
+00:19:48,187 --> 00:19:50,647
+I thought that one day
+my mission would end,
+
+397
+00:19:50,731 --> 00:19:53,650
+and I would finally,
+after all this time,
+
+398
+00:19:53,734 --> 00:19:56,570
+get a chance to actually live my life.
+
+399
+00:19:59,323 --> 00:20:00,699
+That will never happen,
+
+400
+00:20:02,701 --> 00:20:04,828
+if I tell the whole world
+
+401
+00:20:05,704 --> 00:20:07,206
+that I'm the Green Arrow.
+
+402
+00:20:17,257 --> 00:20:18,759
+You don't have to testify.
+
+403
+00:20:18,842 --> 00:20:21,136
+-Jean doesn't have to call you.
+-Yes, she does.
+
+404
+00:20:21,303 --> 00:20:22,512
+And I want to testify.
+
+405
+00:20:22,638 --> 00:20:24,973
+I don't want you in a position
+where you perjure yourself
+
+406
+00:20:25,057 --> 00:20:26,058
+because of me.
+
+407
+00:20:26,308 --> 00:20:28,018
+Well, let me just add it
+to the long list of felonies
+
+408
+00:20:28,101 --> 00:20:29,102
+I've already committed for you.
+
+409
+00:20:29,228 --> 00:20:30,812
+Look, John has something planned.
+
+410
+00:20:32,856 --> 00:20:34,524
+You don't have to take the chance.
+
+411
+00:20:34,900 --> 00:20:36,193
+I will take any chance,
+
+412
+00:20:36,610 --> 00:20:39,404
+if it keeps you from being taken away
+from me and William.
+
+413
+00:20:39,488 --> 00:20:40,864
+[bailiff] Court is back in session.
+
+414
+00:20:41,490 --> 00:20:42,491
+Here we go.
+
+415
+00:20:48,872 --> 00:20:52,542
+I graduated summa cum laude from the
+Massachusetts Institute of Technology
+
+416
+00:20:52,626 --> 00:20:54,920
+with master's degrees in cybersecurity
+
+417
+00:20:55,003 --> 00:20:56,088
+and computer sciences.
+
+418
+00:20:56,171 --> 00:21:00,342
+From 2015 to 2016, I served as
+the CEO of Palmer Tech Incorporated.
+
+419
+00:21:01,218 --> 00:21:02,261
+[Jean] Thank you.
+
+420
+00:21:02,678 --> 00:21:05,597
+Defense moves to have Ms. Smoak
+accepted as an expert witness.
+
+421
+00:21:05,681 --> 00:21:07,224
+I don't see the point of this,
+Ms. Loring.
+
+422
+00:21:07,307 --> 00:21:10,185
+I want the witness to testify
+to the validity of this photograph.
+
+423
+00:21:10,269 --> 00:21:11,979
+Fine, but make it quick.
+
+424
+00:21:13,522 --> 00:21:14,648
+Ms. Smoak,
+
+425
+00:21:15,065 --> 00:21:18,610
+this appears to be a photograph
+of your husband, Oliver Queen,
+
+426
+00:21:18,944 --> 00:21:21,154
+-dressed as the Green Arrow.
+-Yes.
+
+427
+00:21:21,363 --> 00:21:24,992
+The key words being "appears to be."
+This photo has been doctored.
+
+428
+00:21:25,075 --> 00:21:28,870
+A pixel level analysis will show
+almost undetectable light shifts
+
+429
+00:21:29,037 --> 00:21:30,831
+and resolution inconsistencies
+
+430
+00:21:30,956 --> 00:21:32,874
+that would not be present
+in a natural photo.
+
+431
+00:21:33,125 --> 00:21:34,126
+[Van Owen]
+Objection, Your Honor.
+
+432
+00:21:34,209 --> 00:21:37,421
+What is the point of showing us an
+allegedly doctored photograph at all?
+
+433
+00:21:37,587 --> 00:21:39,006
+The better question would be,
+
+434
+00:21:39,089 --> 00:21:41,341
+who and why would they doctor a photo
+
+435
+00:21:41,425 --> 00:21:43,051
+to make Oliver Queen
+look like the Green Arrow
+
+436
+00:21:43,135 --> 00:21:44,177
+if he were the Green Arrow?
+
+437
+00:21:45,762 --> 00:21:47,723
+I mean, which he's not.
+He's my husband, I would know.
+
+438
+00:21:48,515 --> 00:21:49,683
+[Jean] No further questions.
+
+439
+00:21:51,893 --> 00:21:53,228
+When was Mr. Queen arrested?
+
+440
+00:21:53,478 --> 00:21:55,230
+November 21st, 2017.
+
+441
+00:21:55,355 --> 00:21:56,773
+And when were the two of you married?
+
+442
+00:21:56,898 --> 00:21:59,151
+-November 28th.
+-Just a week later?
+
+443
+00:21:59,276 --> 00:22:00,277
+Yes.
+
+444
+00:22:00,444 --> 00:22:01,820
+Is it possible that you
+rushed the wedding
+
+445
+00:22:01,903 --> 00:22:03,947
+so that you could claim
+spousal privilege,
+
+446
+00:22:04,156 --> 00:22:06,658
+just in case you had to testify
+against Mr. Queen?
+
+447
+00:22:06,908 --> 00:22:09,828
+I've been in love with Oliver
+for six years.
+
+448
+00:22:10,287 --> 00:22:11,788
+Trust me, it felt anything but rushed.
+
+449
+00:22:12,122 --> 00:22:13,457
+[Van Owen]
+Let's change the topic.
+
+450
+00:22:13,707 --> 00:22:15,751
+Your father's Noah Kuttler,
+the alleged Calculator...
+
+451
+00:22:15,834 --> 00:22:17,419
+-Objection.
+-Overruled.
+
+452
+00:22:17,919 --> 00:22:20,172
+-He's reformed.
+-[Van Owen] But before he was,
+
+453
+00:22:20,380 --> 00:22:23,884
+did you know that he was a notorious
+computer hacker and cybercriminal?
+
+454
+00:22:23,967 --> 00:22:24,968
+No, I had no idea.
+
+455
+00:22:25,177 --> 00:22:26,595
+Doesn't say much about your ability
+
+456
+00:22:26,678 --> 00:22:28,972
+to see criminality in people
+close to you, does it?
+
+457
+00:22:29,306 --> 00:22:30,807
+-I would...
+-And under the heading,
+
+458
+00:22:30,891 --> 00:22:32,684
+"Apples falling from trees,"
+
+459
+00:22:32,768 --> 00:22:35,520
+have you yourself ever engaged
+in cybercrime?
+
+460
+00:22:35,604 --> 00:22:37,397
+No, I haven't.
+
+461
+00:22:38,732 --> 00:22:40,442
+Good luck proving otherwise,
+Ms. Van Owen.
+
+462
+00:22:42,652 --> 00:22:44,321
+Roy Harper is not a vigilante.
+
+463
+00:22:45,113 --> 00:22:47,324
+He sacrificed himself
+to protect the identity
+
+464
+00:22:47,407 --> 00:22:50,118
+of a man that the city at the time
+
+465
+00:22:50,619 --> 00:22:52,162
+referred to as "The Hood,"
+
+466
+00:22:52,454 --> 00:22:53,497
+or "The Arrow."
+
+467
+00:22:53,914 --> 00:22:56,124
+I've since come to learn
+that the Green Arrow
+
+468
+00:22:56,208 --> 00:22:57,250
+is the same person.
+
+469
+00:22:57,542 --> 00:23:00,003
+-But that's not you.
+-It's absolutely not me.
+
+470
+00:23:00,378 --> 00:23:01,963
+And do you know who it is?
+
+471
+00:23:02,089 --> 00:23:05,592
+Yes, I do,
+but I will not reveal his identity.
+
+472
+00:23:07,552 --> 00:23:09,221
+Not even if it sends me to prison.
+
+473
+00:23:11,014 --> 00:23:12,015
+Pass the witness.
+
+474
+00:23:12,516 --> 00:23:13,767
+Well, that's convenient.
+
+475
+00:23:14,601 --> 00:23:15,852
+You're not the Green Arrow,
+
+476
+00:23:15,936 --> 00:23:18,146
+you know who is the Green Arrow,
+but you're not saying.
+
+477
+00:23:18,355 --> 00:23:20,023
+Well, I keep my promises, Ms. Van Owen.
+
+478
+00:23:20,190 --> 00:23:21,733
+When did you meet this mystery man?
+
+479
+00:23:21,942 --> 00:23:23,568
+Shortly after I returned to Star City.
+
+480
+00:23:24,361 --> 00:23:26,738
+As you know, I was marooned
+for five years on an island
+
+481
+00:23:26,822 --> 00:23:27,823
+named Lian Yu.
+
+482
+00:23:28,073 --> 00:23:30,450
+This photograph was taken
+during that five-year period.
+
+483
+00:23:30,534 --> 00:23:33,453
+I'm just curious, why does Lian Yu
+look a lot like Russia?
+
+484
+00:23:33,578 --> 00:23:35,205
+-Objection.
+-[Judge] Overruled.
+
+485
+00:23:35,497 --> 00:23:37,165
+[Van Owen] We obtained this photograph
+from a reporter
+
+486
+00:23:37,249 --> 00:23:39,042
+by the name of Susan Williams.
+
+487
+00:23:41,753 --> 00:23:46,383
+I've not been entirely forthcoming
+about that period of time in my life.
+
+488
+00:23:48,009 --> 00:23:50,053
+Parts of it were spent in Hong Kong,
+
+489
+00:23:51,763 --> 00:23:53,640
+and, yes, parts of it
+were spent in Russia.
+
+490
+00:23:54,307 --> 00:23:55,559
+So, you lied,
+
+491
+00:23:56,017 --> 00:23:58,645
+repeatedly and publicly?
+
+492
+00:23:59,521 --> 00:24:01,773
+You lied about being on Lian Yu,
+
+493
+00:24:01,857 --> 00:24:04,067
+and you lied about
+five years of your life,
+
+494
+00:24:04,151 --> 00:24:06,528
+which begs the question, Mr. Queen...
+
+495
+00:24:07,362 --> 00:24:09,072
+What else have you lied about?
+
+496
+00:24:28,550 --> 00:24:29,593
+Quiet.
+
+497
+00:24:29,676 --> 00:24:31,386
+Quiet or I'll clear the courtroom.
+
+498
+00:24:31,469 --> 00:24:32,637
+[gavel banging]
+
+499
+00:24:32,846 --> 00:24:34,598
+Please state your name for the record.
+
+500
+00:24:35,015 --> 00:24:36,349
+Thomas Merlyn.
+
+501
+00:24:36,850 --> 00:24:38,185
+"Tommy" is fine if you want.
+
+502
+00:24:38,476 --> 00:24:40,562
+Mr. Merlyn, you were declared dead,
+
+503
+00:24:40,770 --> 00:24:42,772
+May 15, 2013.
+
+504
+00:24:43,023 --> 00:24:45,942
+That night, my father destroyed
+a large portion of the city.
+
+505
+00:24:46,818 --> 00:24:48,486
+With the heightened scrutiny
+on my family,
+
+506
+00:24:48,570 --> 00:24:51,239
+I took the opportunity
+to fake my own death
+
+507
+00:24:51,448 --> 00:24:53,700
+to protect my identity as The Hood.
+
+508
+00:24:53,867 --> 00:24:54,910
+Three years ago,
+
+509
+00:24:55,535 --> 00:24:57,871
+Roy Harper confessed to being The Hood.
+
+510
+00:24:58,246 --> 00:24:59,372
+To protect me.
+
+511
+00:25:00,332 --> 00:25:02,542
+And then he was attacked in prison.
+
+512
+00:25:04,294 --> 00:25:07,672
+I have lived with that guilt
+for three years.
+
+513
+00:25:09,507 --> 00:25:12,344
+I am not about to let Oliver
+take the blame for me
+
+514
+00:25:12,719 --> 00:25:14,429
+the same way that Roy did.
+
+515
+00:25:15,388 --> 00:25:16,723
+And that's why I'm here.
+
+516
+00:25:17,724 --> 00:25:18,850
+To set the record straight.
+
+517
+00:25:19,559 --> 00:25:20,560
+Thank you.
+
+518
+00:25:21,436 --> 00:25:22,437
+Your witness.
+
+519
+00:25:25,398 --> 00:25:26,775
+If you're the Green Arrow,
+
+520
+00:25:27,067 --> 00:25:30,487
+how come Rene Ramirez testified
+under oath that Oliver Queen is?
+
+521
+00:25:30,946 --> 00:25:34,699
+Well, I would suspect
+that he was being pressured to.
+
+522
+00:25:34,908 --> 00:25:36,451
+Are you saying he perjured himself?
+
+523
+00:25:36,826 --> 00:25:38,370
+Well, I don't know. I'm not a lawyer.
+
+524
+00:25:38,912 --> 00:25:40,372
+I'm just the Green Arrow.
+
+525
+00:25:41,706 --> 00:25:44,084
+And I am telling you I am the only man
+
+526
+00:25:44,459 --> 00:25:46,253
+that has ever worn this hood.
+
+527
+00:25:46,461 --> 00:25:47,754
+Mr. Merlyn,
+
+528
+00:25:47,921 --> 00:25:50,257
+you're under arrest
+on suspicion of murder,
+
+529
+00:25:50,340 --> 00:25:54,177
+assault, and violation
+of the Anti-Vigilante Act of 2017.
+
+530
+00:25:54,427 --> 00:25:56,513
+The bailiff will remand
+Mr. Merlyn into custody.
+
+531
+00:25:56,721 --> 00:25:58,682
+Objection, Your Honor.
+It's the People's contention
+
+532
+00:25:58,765 --> 00:26:01,351
+that Mr. Merlyn here
+is not the Green Arrow.
+
+533
+00:26:01,476 --> 00:26:02,477
+Be that as it may,
+
+534
+00:26:02,560 --> 00:26:04,312
+I can't just let him walk out
+of my courtroom.
+
+535
+00:26:04,688 --> 00:26:06,231
+You know, if it's any consolation,
+
+536
+00:26:06,314 --> 00:26:09,651
+my team is going to extract me
+before I ever get to prison, so...
+
+537
+00:26:10,819 --> 00:26:12,028
+Get him out of here.
+
+538
+00:26:13,947 --> 00:26:15,782
+Your Honor, defense moves
+for a dismissal.
+
+539
+00:26:15,865 --> 00:26:16,908
+Nice try,
+
+540
+00:26:16,992 --> 00:26:19,703
+but it's the jury's job
+to sort out this kind of mess,
+
+541
+00:26:19,786 --> 00:26:21,037
+and that's what I'm gonna let them do.
+
+542
+00:26:30,630 --> 00:26:32,382
+Guys, on the way to Iron Heights,
+
+543
+00:26:32,465 --> 00:26:33,800
+do you think we could stop
+at a drive-thru?
+
+544
+00:26:33,883 --> 00:26:36,428
+-I am starving.
+-We're not going to Iron Heights.
+
+545
+00:26:36,678 --> 00:26:38,972
+Mr. Diaz really wants to meet you.
+
+546
+00:26:39,097 --> 00:26:41,641
+All right, so where did we land
+on the drive-thru? It's my treat...
+
+547
+00:26:41,850 --> 00:26:43,768
+[laughing]
+
+548
+00:26:43,852 --> 00:26:46,021
+You know, six against one,
+
+549
+00:26:46,354 --> 00:26:47,689
+it's not really a fair fight.
+
+550
+00:26:47,856 --> 00:26:49,983
+You should have brought backup. I did.
+
+551
+00:26:59,034 --> 00:27:00,660
+You're cutting a little close there,
+aren't you, John?
+
+552
+00:27:03,371 --> 00:27:04,456
+What's your exit strategy?
+
+553
+00:27:04,998 --> 00:27:06,082
+Sitting right there.
+
+554
+00:27:08,501 --> 00:27:09,502
+Well, let's go.
+
+555
+00:27:15,508 --> 00:27:17,469
+-Thanks for doing this.
+-My pleasure.
+
+556
+00:27:18,094 --> 00:27:19,846
+I always wanted to say,
+"I am Spartacus."
+
+557
+00:27:23,975 --> 00:27:26,186
+-It's Christopher Chance.
+-Rene Ramirez.
+
+558
+00:27:26,770 --> 00:27:28,980
+I think I bought you
+a perjury charge back there, Rene.
+
+559
+00:27:29,147 --> 00:27:30,857
+Small price to pay
+for a clear conscience.
+
+560
+00:27:31,524 --> 00:27:32,525
+You think it worked?
+
+561
+00:27:32,776 --> 00:27:36,196
+At the very least, we've created
+some very serious reasonable doubt.
+
+562
+00:27:36,488 --> 00:27:38,073
+Yeah, let's hope so.
+
+563
+00:27:47,499 --> 00:27:50,085
+When you said I didn't have
+to take the "chance" of lying,
+
+564
+00:27:50,168 --> 00:27:51,836
+-that was a pun!
+-I don't do puns.
+
+565
+00:27:52,045 --> 00:27:53,922
+Well, that was Christopher Chance
+I did just see in there, right?
+
+566
+00:27:54,005 --> 00:27:55,048
+Yes.
+
+567
+00:27:55,173 --> 00:27:56,549
+I'm sorry that I couldn't loop you in.
+
+568
+00:27:56,633 --> 00:27:59,386
+We had Officer Parks listening
+to every word that we said,
+
+569
+00:27:59,469 --> 00:28:00,470
+and I...
+
+570
+00:28:05,600 --> 00:28:08,395
+I didn't know Chance
+was gonna use Tommy's face.
+
+571
+00:28:09,020 --> 00:28:12,065
+Well, yeah, I mean, I guess they were
+thinking what's more compelling
+
+572
+00:28:12,148 --> 00:28:13,608
+than a testimony from a dead guy, right?
+
+573
+00:28:16,111 --> 00:28:17,112
+Excuse me.
+
+574
+00:28:17,487 --> 00:28:19,489
+-Mr. Mayor.
+-We've got a problem.
+
+575
+00:28:19,572 --> 00:28:20,573
+Not anymore.
+
+576
+00:28:21,116 --> 00:28:23,118
+-Chance just saved our bacon.
+-Laurel told me.
+
+577
+00:28:23,326 --> 00:28:25,912
+She also told me
+that Diaz is making her testify
+
+578
+00:28:25,995 --> 00:28:27,080
+as a rebuttal witness.
+
+579
+00:28:27,956 --> 00:28:31,835
+He's sending her in there
+with Chance's entire CIA file.
+
+580
+00:28:32,085 --> 00:28:34,379
+She will be telling the jury everything
+
+581
+00:28:34,462 --> 00:28:36,798
+about what you guys
+just pulled in there.
+
+582
+00:28:37,924 --> 00:28:39,217
+Or Diaz is going to kill her.
+
+583
+00:28:40,677 --> 00:28:42,512
+How does Diaz even know about Chance?
+
+584
+00:28:42,971 --> 00:28:47,142
+'Cause Diaz has access to everything
+that Cayden James learned from his...
+
+585
+00:28:49,853 --> 00:28:51,229
+It's the bug in the bunker.
+
+586
+00:28:51,646 --> 00:28:52,731
+I'm sorry, Oliver.
+
+587
+00:28:54,149 --> 00:28:55,150
+We'll think of something.
+
+588
+00:28:55,567 --> 00:28:57,068
+I'll give you guys some room.
+
+589
+00:29:03,158 --> 00:29:05,034
+Okay. Okay, so...
+
+590
+00:29:07,203 --> 00:29:09,456
+Okay, what's the something
+that we're gonna think of?
+
+591
+00:29:09,581 --> 00:29:11,750
+Jean suggested that I just admit
+I'm the Green Arrow
+
+592
+00:29:11,833 --> 00:29:13,460
+and we go for some sort of
+jury nullification.
+
+593
+00:29:13,543 --> 00:29:15,211
+But I explained to her that
+
+594
+00:29:15,295 --> 00:29:16,796
+I would like to have a life
+
+595
+00:29:17,005 --> 00:29:20,258
+after being the Green Arrow,
+but more importantly, I...
+
+596
+00:29:21,050 --> 00:29:22,969
+I cannot put a target
+on you and William.
+
+597
+00:29:23,219 --> 00:29:25,388
+Let me worry about me and William.
+
+598
+00:29:25,513 --> 00:29:27,599
+Let me at least take that
+off your plate.
+
+599
+00:29:29,601 --> 00:29:31,019
+That's not how wedding vows work.
+
+600
+00:29:31,311 --> 00:29:32,854
+We didn't exchange vows.
+
+601
+00:29:33,438 --> 00:29:34,731
+But if we did,
+
+602
+00:29:34,898 --> 00:29:36,357
+"exchange" means "go both ways."
+
+603
+00:29:37,609 --> 00:29:39,027
+And we fight
+
+604
+00:29:39,444 --> 00:29:42,238
+for each other, Oliver.
+We protect each other.
+
+605
+00:29:44,657 --> 00:29:45,867
+We're gonna save each other.
+
+606
+00:29:46,493 --> 00:29:48,161
+I can't save anyone from behind bars.
+
+607
+00:29:48,244 --> 00:29:49,704
+We'll get you out
+just like we got John out.
+
+608
+00:29:49,954 --> 00:29:53,374
+I can break out of prison, Felicity,
+but then what, you know?
+
+609
+00:29:55,543 --> 00:29:57,545
+I'm not abandoning the two of you.
+
+610
+00:29:57,629 --> 00:29:59,506
+I can't make the two of you fugitives.
+
+611
+00:29:59,631 --> 00:30:00,840
+We're gonna be okay.
+
+612
+00:30:00,965 --> 00:30:03,426
+John and I have been talking, and...
+
+613
+00:30:03,927 --> 00:30:06,554
+If I go to prison, I need
+
+614
+00:30:08,848 --> 00:30:11,392
+you and William to go into
+A.R.G.U.S. protective custody.
+
+615
+00:30:11,935 --> 00:30:13,061
+[gasps]
+
+616
+00:30:17,482 --> 00:30:18,608
+We're not there yet.
+
+617
+00:30:20,360 --> 00:30:21,528
+We cannot live in denial.
+
+618
+00:30:22,862 --> 00:30:24,322
+All right, we have to have a plan.
+
+619
+00:30:27,325 --> 00:30:28,701
+I can handle losing my freedom.
+
+620
+00:30:31,996 --> 00:30:33,998
+I cannot handle losing you and William.
+
+621
+00:30:49,556 --> 00:30:51,975
+[Black Siren] I solemnly affirm to
+tell the truth, the whole truth,
+
+622
+00:30:52,058 --> 00:30:53,393
+and nothing but the truth.
+
+623
+00:30:53,893 --> 00:30:55,395
+-[exhales]
+-[Van Owen] Ms. Lance,
+
+624
+00:30:55,520 --> 00:30:57,522
+the defendant here
+has publicly acknowledged
+
+625
+00:30:57,730 --> 00:31:00,692
+that you were the vigilante
+known as the Black Canary.
+
+626
+00:31:01,150 --> 00:31:03,027
+Is it fair to take Mr. Queen
+at his word?
+
+627
+00:31:04,654 --> 00:31:05,989
+On that, at least.
+
+628
+00:31:06,114 --> 00:31:10,118
+And being that the Black Canary is
+a known associate of the Green Arrow,
+
+629
+00:31:11,536 --> 00:31:14,122
+is it fair to say
+you know his true identity?
+
+630
+00:31:14,247 --> 00:31:15,248
+I do.
+
+631
+00:31:15,748 --> 00:31:17,000
+<i>I know who the Green Arrow is.</i>
+
+632
+00:31:17,625 --> 00:31:18,710
+Good girl.
+
+633
+00:31:19,168 --> 00:31:22,964
+Over the course of this trial,
+we heard Rene Ramirez testify
+
+634
+00:31:23,464 --> 00:31:26,301
+that Oliver Queen was the Green Arrow,
+
+635
+00:31:26,551 --> 00:31:30,597
+but a man calling himself
+Tommy Merlyn claims that identity.
+
+636
+00:31:31,222 --> 00:31:34,142
+Ms. Lance, if you would,
+please, just help me out here.
+
+637
+00:31:35,143 --> 00:31:36,269
+Who's telling the truth?
+
+638
+00:31:38,563 --> 00:31:39,981
+I got an idea, hoss.
+
+639
+00:31:40,648 --> 00:31:42,150
+-Help me out.
+-Let's go.
+
+640
+00:31:50,658 --> 00:31:51,659
+Ms. Lance,
+
+641
+00:31:53,661 --> 00:31:54,996
+who is the Green Arrow?
+
+642
+00:32:02,045 --> 00:32:03,046
+Tommy Merlyn.
+
+643
+00:32:05,173 --> 00:32:07,550
+Oliver Queen is not the Green Arrow.
+
+644
+00:32:07,800 --> 00:32:08,843
+[gavel banging]
+
+645
+00:32:10,303 --> 00:32:12,889
+[Judge] <i>Testimony being closed,
+we'll take a short recess</i>
+
+646
+00:32:12,972 --> 00:32:14,557
+<i>and resume for closing arguments.</i>
+
+647
+00:32:17,185 --> 00:32:19,646
+[reporters clamoring]
+
+648
+00:32:19,979 --> 00:32:21,064
+No comment.
+
+649
+00:32:21,856 --> 00:32:22,982
+No comment!
+
+650
+00:32:23,274 --> 00:32:25,193
+Back up! Give her a break, please.
+
+651
+00:32:25,276 --> 00:32:26,277
+Hey, hey, listen to me.
+
+652
+00:32:27,528 --> 00:32:29,739
+-Are you okay?
+-Until Diaz gets a hold of me, yeah.
+
+653
+00:32:30,114 --> 00:32:31,616
+I thought you said
+you were gonna bury Oliver.
+
+654
+00:32:31,908 --> 00:32:33,993
+-That was the plan.
+-What made you change your mind?
+
+655
+00:32:35,453 --> 00:32:36,454
+You did.
+
+656
+00:32:38,081 --> 00:32:40,291
+The first step to standing up to him
+is to stand up to him.
+
+657
+00:32:44,087 --> 00:32:46,089
+-You can't stay in town.
+-Don't worry.
+
+658
+00:32:46,923 --> 00:32:49,217
+Thanks to you, I now know exactly
+what I have to do.
+
+659
+00:32:55,848 --> 00:32:59,978
+Earlier, Judge McGarvey said
+it fell upon you, the jury,
+
+660
+00:33:00,561 --> 00:33:03,606
+to sort out what he deemed to be a mess.
+
+661
+00:33:04,732 --> 00:33:07,443
+True, we have contradicting witnesses,
+
+662
+00:33:07,944 --> 00:33:10,530
+and, yes, we have
+conflicting testimonies.
+
+663
+00:33:10,905 --> 00:33:13,408
+But that is not a mess,
+ladies and gentlemen.
+
+664
+00:33:13,950 --> 00:33:16,160
+That is the textbook definition
+
+665
+00:33:16,536 --> 00:33:18,287
+of reasonable doubt.
+
+666
+00:33:27,880 --> 00:33:30,133
+Fifteen minutes
+after being taken into custody,
+
+667
+00:33:30,341 --> 00:33:33,636
+Tommy Merlyn was freed by members
+of the Green Arrow's team.
+
+668
+00:33:34,095 --> 00:33:38,099
+Now, you might take that as evidence
+that he is in fact the Green Arrow,
+
+669
+00:33:38,182 --> 00:33:42,562
+but I would like to offer you
+a much more plausible explanation.
+
+670
+00:33:42,645 --> 00:33:48,401
+And that is, Oliver Queen has people
+and resources at his disposal
+
+671
+00:33:48,484 --> 00:33:51,237
+to do whatever it takes
+to keep his secrets.
+
+672
+00:33:51,654 --> 00:33:55,074
+And don't think that doesn't mean
+someone falling out of the sky
+
+673
+00:33:55,158 --> 00:33:58,411
+into this courtroom with a false face
+and a made-up story,
+
+674
+00:33:58,828 --> 00:34:01,664
+because Tommy Merlyn
+is just another Roy Harper.
+
+675
+00:34:02,582 --> 00:34:04,333
+He's just another man
+
+676
+00:34:04,417 --> 00:34:07,253
+willing to go to prison
+to cover up the crimes
+
+677
+00:34:07,336 --> 00:34:09,130
+that that man committed.
+
+678
+00:34:10,006 --> 00:34:11,758
+Don't let him get away with it.
+
+679
+00:34:12,467 --> 00:34:13,718
+Not again.
+
+680
+00:34:15,470 --> 00:34:17,722
+Not ever again.
+
+681
+00:34:20,892 --> 00:34:22,310
+What happens now?
+
+682
+00:34:23,811 --> 00:34:25,021
+It's up to the jury.
+
+683
+00:34:26,189 --> 00:34:27,315
+Yeah, but...
+
+684
+00:34:27,940 --> 00:34:29,734
+What if Diaz got to them, too?
+
+685
+00:34:33,780 --> 00:34:34,781
+Dad!
+
+686
+00:34:35,656 --> 00:34:36,657
+Hey.
+
+687
+00:34:42,121 --> 00:34:44,082
+William, I love you very much.
+
+688
+00:34:44,874 --> 00:34:46,584
+I love both of you very much.
+
+689
+00:34:46,918 --> 00:34:49,587
+And whatever happens,
+nothing is gonna change that.
+
+690
+00:34:49,670 --> 00:34:51,422
+-What do you mean?
+-I mean that
+
+691
+00:34:51,714 --> 00:34:54,592
+the man who wants me in prison
+
+692
+00:34:55,426 --> 00:34:56,677
+controls the judge,
+
+693
+00:34:56,761 --> 00:35:00,181
+and we think it's a pretty good bet
+that he has
+
+694
+00:35:01,390 --> 00:35:03,142
+a strong influence over the jury.
+
+695
+00:35:03,309 --> 00:35:05,019
+-What does that mean?
+-It means...
+
+696
+00:35:05,937 --> 00:35:06,938
+I might be going to prison.
+
+697
+00:35:08,481 --> 00:35:09,482
+Okay?
+
+698
+00:35:10,066 --> 00:35:11,275
+If that happens,
+
+699
+00:35:11,776 --> 00:35:15,530
+Felicity has assured me
+
+700
+00:35:16,322 --> 00:35:18,324
+that she is going to make sure
+
+701
+00:35:19,117 --> 00:35:20,409
+you grow into the man
+
+702
+00:35:22,036 --> 00:35:23,454
+that I know you can be.
+
+703
+00:35:23,955 --> 00:35:25,164
+I don't want you to go.
+
+704
+00:35:25,706 --> 00:35:26,833
+I don't want to go, either.
+
+705
+00:35:29,293 --> 00:35:31,003
+Okay, I don't...
+
+706
+00:35:33,172 --> 00:35:35,091
+I wish it was up to me, but it's not.
+
+707
+00:35:36,801 --> 00:35:40,304
+You are strong like me.
+
+708
+00:35:40,847 --> 00:35:41,889
+Stronger even.
+
+709
+00:35:43,141 --> 00:35:44,392
+So, whatever happens,
+
+710
+00:35:46,644 --> 00:35:47,895
+and wherever I am...
+
+711
+00:35:53,568 --> 00:35:55,820
+You need to know that I am always
+
+712
+00:35:56,320 --> 00:35:57,738
+right here with you.
+
+713
+00:36:00,116 --> 00:36:01,159
+[door opens]
+
+714
+00:36:04,162 --> 00:36:05,788
+-What is it?
+-[Jean] Jury's back.
+
+715
+00:36:06,414 --> 00:36:07,540
+We have a verdict.
+
+716
+00:36:12,837 --> 00:36:14,297
+[Judge] Will the defendant please rise?
+
+717
+00:36:15,339 --> 00:36:16,799
+Please publish the verdict.
+
+718
+00:36:17,800 --> 00:36:19,594
+In the matter of
+<i>The People v. Oliver Queen,</i>
+
+719
+00:36:19,677 --> 00:36:21,596
+on all 26 counts of the indictment,
+
+720
+00:36:21,721 --> 00:36:23,306
+we find the defendant...
+
+721
+00:36:23,514 --> 00:36:24,515
+Guilty.
+
+722
+00:36:25,516 --> 00:36:26,934
+-[cameras clicking]
+-[crowd murmuring]
+
+723
+00:36:27,018 --> 00:36:29,729
+[Judge] Members of the jury, the court
+thanks you for your service.
+
+724
+00:36:29,937 --> 00:36:30,980
+You're dismissed.
+
+725
+00:36:31,314 --> 00:36:34,692
+Defense moves for judgment
+notwithstanding the verdict.
+
+726
+00:36:35,276 --> 00:36:38,654
+Ms. Loring, as you know,
+the standard for granting a JNOV
+
+727
+00:36:38,738 --> 00:36:41,908
+requires a verdict that no
+reasonable jury could arrive at.
+
+728
+00:36:48,706 --> 00:36:50,249
+I find such a circumstance here.
+
+729
+00:36:51,584 --> 00:36:52,627
+Your Honor...
+
+730
+00:36:52,710 --> 00:36:55,171
+[Judge] The evidence presented
+was so conflicting
+
+731
+00:36:55,338 --> 00:36:57,131
+that it created reasonable doubt.
+
+732
+00:36:57,673 --> 00:37:00,343
+The defense motion for judgment
+notwithstanding the verdict
+
+733
+00:37:00,426 --> 00:37:01,427
+is granted.
+
+734
+00:37:01,719 --> 00:37:03,888
+Mr. Queen, see Probation,
+
+735
+00:37:04,305 --> 00:37:05,306
+then you're free to go.
+
+736
+00:37:05,932 --> 00:37:07,141
+[gavel bangs]
+
+737
+00:37:12,605 --> 00:37:14,148
+Oh, my God, how is this possible?
+
+738
+00:37:14,565 --> 00:37:15,566
+I don't know.
+
+739
+00:37:23,824 --> 00:37:24,992
+Congratulations, man.
+
+740
+00:37:25,409 --> 00:37:26,535
+Thank you.
+
+741
+00:37:26,619 --> 00:37:28,621
+I'm surprised Judge McGarvey
+had it in him, you know.
+
+742
+00:37:28,746 --> 00:37:30,748
+I totally thought
+he was in the tank for Diaz.
+
+743
+00:37:30,998 --> 00:37:32,250
+[Judge] I absolutely am.
+
+744
+00:37:33,042 --> 00:37:35,002
+And Mr. Diaz isn't the forgiving type.
+
+745
+00:37:40,299 --> 00:37:41,300
+Surprise.
+
+746
+00:37:41,592 --> 00:37:42,843
+Wait, wait...
+
+747
+00:37:43,469 --> 00:37:45,513
+-When did you...
+-During jury deliberation.
+
+748
+00:37:46,013 --> 00:37:48,557
+You know, the Judge can argue
+that he got rolled,
+
+749
+00:37:48,641 --> 00:37:49,850
+but no one's gonna believe him.
+
+750
+00:37:50,351 --> 00:37:51,936
+Thanks again, man.
+I owe you another one.
+
+751
+00:37:52,061 --> 00:37:54,814
+Yeah, well, after Kasnia,
+let's just call it even.
+
+752
+00:37:55,314 --> 00:37:56,315
+Chris...
+
+753
+00:37:58,109 --> 00:38:00,361
+-Thank you.
+-Yeah, always happy to help.
+
+754
+00:38:00,486 --> 00:38:04,156
+Just try not to need me again,
+for at least another year.
+
+755
+00:38:05,658 --> 00:38:06,659
+Okay?
+
+756
+00:38:08,160 --> 00:38:10,871
+That was a brilliant move. Thank you.
+
+757
+00:38:10,997 --> 00:38:13,040
+Well, I wish I could take the credit,
+Oliver, but...
+
+758
+00:38:13,541 --> 00:38:15,084
+It wasn't my idea.
+
+759
+00:38:16,335 --> 00:38:17,586
+[suspenseful music playing on tv]
+
+760
+00:38:17,670 --> 00:38:19,171
+Dad, you might wanna close your eyes
+for this part.
+
+761
+00:38:19,547 --> 00:38:21,882
+That was just one time I was scared.
+That's not cool.
+
+762
+00:38:22,049 --> 00:38:23,718
+-That's not cool at all.
+-[laughing]
+
+763
+00:38:23,801 --> 00:38:25,011
+[knocking on door]
+
+764
+00:38:25,553 --> 00:38:26,721
+Go to your room and lock the door.
+
+765
+00:38:26,804 --> 00:38:27,805
+Is it the guy from the courtroom?
+
+766
+00:38:27,888 --> 00:38:28,931
+I said go now.
+
+767
+00:38:53,622 --> 00:38:55,541
+You can take a shot at me
+if you want to.
+
+768
+00:38:55,708 --> 00:38:59,378
+Just, it's gonna ruin me
+saying thank you.
+
+769
+00:38:59,503 --> 00:39:00,713
+Can't be too safe.
+
+770
+00:39:04,800 --> 00:39:06,052
+[door closes]
+
+771
+00:39:07,636 --> 00:39:09,388
+-Thank you.
+-Don't mention it.
+
+772
+00:39:10,973 --> 00:39:12,808
+When I rolled over on you last November,
+
+773
+00:39:12,892 --> 00:39:14,310
+I was thinking about my kid,
+
+774
+00:39:14,393 --> 00:39:16,270
+even though I knew it meant
+it'd take you away from yours.
+
+775
+00:39:20,232 --> 00:39:21,233
+I'm really sorry.
+
+776
+00:39:21,734 --> 00:39:22,902
+Apology accepted.
+
+777
+00:39:24,111 --> 00:39:25,279
+Look, I'm sorry if I
+
+778
+00:39:26,781 --> 00:39:29,742
+made you feel like you
+couldn't come to me
+
+779
+00:39:29,825 --> 00:39:31,327
+when Watson put you in that position.
+
+780
+00:39:34,121 --> 00:39:36,374
+I'm very sorry for everything
+that happened afterwards.
+
+781
+00:39:46,550 --> 00:39:48,219
+I'd never do that! It's me...
+
+782
+00:39:51,764 --> 00:39:53,516
+It wasn't me, I swear.
+
+783
+00:39:55,226 --> 00:39:57,770
+The only law that I abide by
+
+784
+00:39:58,270 --> 00:40:00,523
+is following through on my word.
+
+785
+00:40:01,649 --> 00:40:02,817
+You failed at that.
+
+786
+00:40:04,777 --> 00:40:06,362
+So what would you have me do?
+
+787
+00:40:06,821 --> 00:40:10,157
+Two men, they broke into my chambers,
+they knocked me out...
+
+788
+00:40:14,328 --> 00:40:16,163
+The legal system in this country
+
+789
+00:40:18,124 --> 00:40:19,500
+is going to hell.
+
+790
+00:40:24,338 --> 00:40:26,340
+You really must be stupid,
+
+791
+00:40:27,675 --> 00:40:29,135
+showing your face
+
+792
+00:40:31,303 --> 00:40:33,264
+after the crap you pulled in court.
+
+793
+00:40:33,556 --> 00:40:34,557
+No.
+
+794
+00:40:34,723 --> 00:40:37,351
+I'm smart enough to know
+there's no place I can run
+
+795
+00:40:37,476 --> 00:40:38,936
+where you can't find me.
+
+796
+00:40:50,322 --> 00:40:54,034
+I'm so sorry, Ricardo.
+
+797
+00:40:57,329 --> 00:40:58,539
+Fool me once...
+
+798
+00:41:04,253 --> 00:41:05,713
+Couldn't get it out in time.
+
+799
+00:41:08,466 --> 00:41:09,467
+Come on.
+
+800
+00:41:10,759 --> 00:41:11,886
+I had a plan.
+
+801
+00:41:12,428 --> 00:41:17,016
+Get Oliver Queen
+discredited, imprisoned...
+
+802
+00:41:18,976 --> 00:41:22,563
+I worked for months to make that happen.
+
+803
+00:41:23,105 --> 00:41:24,982
+I'm so sorry to disappoint you.
+
+804
+00:41:25,232 --> 00:41:27,401
+Oh, I'm not disappointed, baby.
+
+805
+00:41:30,279 --> 00:41:31,947
+I'm moving on to plan B.
+
+806
+00:41:35,075 --> 00:41:36,452
+Killing Oliver Queen,
+
+807
+00:41:38,162 --> 00:41:42,124
+and anyone and everyone he cares about.
+

@@ -1,0 +1,2659 @@
+﻿1
+00:00:02,469 --> 00:00:07,134
+BARRY: <i>My name is Barry Allen,
+and I am the fastest man alive.</i>
+
+2
+00:00:07,307 --> 00:00:10,800
+<i>When I was a child, I saw my mother killed
+by something impossible.</i>
+
+3
+00:00:10,978 --> 00:00:13,345
+<i>My father went to prison for her murder.</i>
+
+4
+00:00:14,181 --> 00:00:16,513
+<i>Then an accident
+made me the impossible.</i>
+
+5
+00:00:18,085 --> 00:00:20,816
+<i>To the outside world,
+I'm an ordinary forensic scientist...</i>
+
+6
+00:00:20,988 --> 00:00:25,516
+<i>...but secretly, I use my speed to fight crime
+and find others like me.</i>
+
+7
+00:00:25,759 --> 00:00:30,196
+<i>And one day, I'll find who killed my mother
+and get justice for my father.</i>
+
+8
+00:00:30,364 --> 00:00:32,162
+<i>I am the Flash.</i>
+
+9
+00:00:33,200 --> 00:00:34,531
+NARRATOR:
+<i>Previously</i> on The Flash:
+
+10
+00:00:35,002 --> 00:00:37,994
+-Who do you think you are?
+BARRY: This is what we talked about:
+
+11
+00:00:38,171 --> 00:00:39,570
+Using my speed to do good.
+
+12
+00:00:39,740 --> 00:00:42,004
+We talked about you helping
+contain meta-humans.
+
+13
+00:00:42,175 --> 00:00:44,166
+After all these classes, I started a blog.
+
+14
+00:00:44,344 --> 00:00:47,245
+I thought you were taking journalism,
+not science fiction.
+
+15
+00:00:47,414 --> 00:00:50,076
+Since I've known you,
+you've believed in the impossible.
+
+16
+00:00:50,250 --> 00:00:54,949
+What if you were right about when your
+mom died? Something is saving people.
+
+17
+00:00:57,891 --> 00:00:59,552
+See you soon, Barry.
+
+18
+00:01:01,762 --> 00:01:05,892
+BARRY: <i>How often do you think
+about why your friends came into your life?</i>
+
+19
+00:01:06,099 --> 00:01:10,866
+<i>Was it random, by design,
+or maybe a little of both?</i>
+
+20
+00:01:11,972 --> 00:01:13,235
+<i>Regardless of the reason...</i>
+
+21
+00:01:13,407 --> 00:01:17,867
+<i>...some friends, you just know,
+are gonna be by your side for a while.</i>
+
+22
+00:01:18,045 --> 00:01:21,208
+<i>Others, you're not so sure.</i>
+
+23
+00:01:21,415 --> 00:01:23,042
+<i>And then there's that one friend...</i>
+
+24
+00:01:23,216 --> 00:01:27,881
+<i>...who, well, you hope someday
+becomes something mare.</i>
+
+25
+00:01:29,222 --> 00:01:32,453
+<i>But friend will have to do for now...</i>
+
+26
+00:01:32,626 --> 00:01:34,924
+<i>...and that's okay, I guess.</i>
+
+27
+00:01:36,597 --> 00:01:38,565
+I'm glad you invited Caitlin and Cisco.
+
+28
+00:01:38,732 --> 00:01:40,723
+-They're cool, right?
+-They saved your life.
+
+29
+00:01:40,901 --> 00:01:43,233
+That makes them the coolest people
+I've ever met.
+
+30
+00:01:43,403 --> 00:01:45,895
+It's nice that you guys became friends.
+
+31
+00:01:46,106 --> 00:01:48,768
+To friends, old and new.
+
+32
+00:01:53,747 --> 00:01:57,775
+Ooh. I'm up. Wish me luck.
+
+33
+00:01:59,953 --> 00:02:02,923
+-I am going to destroy you.
+-Don't get cocky, West.
+
+34
+00:02:03,090 --> 00:02:04,251
+IRIS:
+
+35
+00:02:07,928 --> 00:02:10,522
+BARRY:
+Guys, I have a problem.
+
+36
+00:02:10,764 --> 00:02:13,699
+We all do when guys like him exist.
+
+37
+00:02:13,934 --> 00:02:16,528
+Yeah. He's so hot.
+
+38
+00:02:16,703 --> 00:02:20,662
+Uh, I mean, genetically speaking.
+Because I'm a geneticist, of course.
+
+39
+00:02:20,941 --> 00:02:23,842
+-God, do I sound like Felicity?
+-I'm not talking about Eddie.
+
+40
+00:02:24,044 --> 00:02:26,342
+I'm talking about this.
+
+41
+00:02:28,682 --> 00:02:29,706
+I can't feel anything.
+
+42
+00:02:29,950 --> 00:02:33,147
+Yeah, that's usually what happens
+when you drink too much.
+
+43
+00:02:33,353 --> 00:02:35,481
+No, the alcohol is not affecting me.
+
+44
+00:02:35,689 --> 00:02:37,714
+I mean, I literally feel nothing.
+
+45
+00:02:37,958 --> 00:02:40,791
+It's your hyper-metabolism. I need a sample.
+
+46
+00:02:40,994 --> 00:02:43,292
+-I'll get more shots.
+-I swear I had a Vacutainer.
+
+47
+00:02:43,463 --> 00:02:45,454
+Wait, you carry a blood-collection kit?
+
+48
+00:02:45,666 --> 00:02:47,862
+You have your hobbies...
+
+49
+00:02:58,311 --> 00:03:00,803
+-Fourteenth floor, secure.
+MAN [OVER RADIO]: <i>Roger that.</i>
+
+50
+00:03:00,981 --> 00:03:02,881
+[WHISTLING]
+
+51
+00:03:07,654 --> 00:03:09,884
+Hold off on that check.
+
+52
+00:03:18,065 --> 00:03:21,000
+Lock down the building. Hold it!
+
+53
+00:03:22,169 --> 00:03:25,833
+-Don't come near me.
+-You need to come with me. Come on.
+
+54
+00:03:27,574 --> 00:03:29,235
+Get down.
+
+55
+00:03:29,509 --> 00:03:30,840
+[EXPLOSION]
+
+56
+00:03:46,093 --> 00:03:49,529
+-Ah. Still nothing?
+-I can't get drunk.
+
+57
+00:03:49,696 --> 00:03:52,688
+I mean, I'm only 25,
+and my drinking days are already over.
+
+58
+00:03:52,899 --> 00:03:54,196
+Come on, Allen, you're up.
+
+59
+00:03:54,434 --> 00:03:56,368
+[CELL PHONE BUZZES]
+
+60
+00:03:57,204 --> 00:03:59,138
+There was a bombing on Eighth and Pass.
+
+61
+00:03:59,372 --> 00:04:01,204
+-I gotta go, babe.
+IRIS: Okay.
+
+62
+00:04:01,408 --> 00:04:02,967
+Sorry, guys.
+
+63
+00:04:03,143 --> 00:04:04,804
+I've got an early shift at Jitters.
+
+64
+00:04:05,045 --> 00:04:07,070
+-We'll catch up tomorrow. Great.
+CAITLIN: I'm beat.
+
+65
+00:04:07,280 --> 00:04:10,147
+It's getting late anyway, so I'm just gonna...
+
+66
+00:04:17,591 --> 00:04:20,322
+[WINDOW CLEANER]
+Help! Somebody!
+
+67
+00:04:21,061 --> 00:04:23,553
+Guys, there's a window washer,
+and he's gonna fall.
+
+68
+00:04:23,764 --> 00:04:26,290
+Don't try and catch him.
+You don't have super-strength.
+
+69
+00:04:26,466 --> 00:04:29,959
+Is there a bed store near here?
+What if I get mattresses and stack them?
+
+70
+00:04:30,170 --> 00:04:33,731
+-Barry, this isn't a Road Runner cartoon.
+WINDOW CLEANER: Help! Help!
+
+71
+00:04:33,940 --> 00:04:36,409
+How fast would I need to go
+to run up a building?
+
+72
+00:04:36,943 --> 00:04:39,412
+How far up do you need to go?
+
+73
+00:04:39,613 --> 00:04:41,581
+WINDOW CLEANER:
+Hurry! Somebody!
+
+74
+00:04:42,282 --> 00:04:44,751
+Uh, I don't know, 50 meters give or take.
+
+75
+00:04:44,951 --> 00:04:46,817
+Thirty-two point fifty-seven...
+
+76
+00:04:50,690 --> 00:04:52,089
+Guys, hurry.
+
+77
+00:04:52,259 --> 00:04:54,421
+<i>CAITLIN:
+Just run really fast and you'll be fine.</i>
+
+78
+00:04:54,628 --> 00:04:58,155
+-Maintain velocity on the way down, or...
+-Or what?
+
+79
+00:04:59,699 --> 00:05:01,633
+-Splat.
+-Great.
+
+80
+00:05:01,802 --> 00:05:04,601
+WINDOW CLEANER: Help!
+-All right, all right, all right.
+
+81
+00:05:06,807 --> 00:05:08,366
+Here it goes.
+
+82
+00:05:46,046 --> 00:05:48,913
+Barry, what have you got?
+
+83
+00:05:49,883 --> 00:05:52,875
+Bombers typically have
+their own unique signatures.
+
+84
+00:05:53,153 --> 00:05:55,144
+Crimped wires, fragmentation.
+
+85
+00:05:55,355 --> 00:05:58,416
+The level of sophistication is telling
+once I've analyzed it.
+
+86
+00:05:58,658 --> 00:06:02,492
+-You show me a bomb, I can find a clue in it.
+-Sounds like there's a "but" coming.
+
+87
+00:06:02,696 --> 00:06:05,165
+Yeah. I haven't found any sign
+of an oxidizing agent.
+
+88
+00:06:05,332 --> 00:06:08,927
+-It's as if the floor just blew itself up.
+-Things don't just blow up.
+
+89
+00:06:09,169 --> 00:06:12,264
+Security guard said our bomber
+was a woman, red hair.
+
+90
+00:06:12,505 --> 00:06:14,769
+Also cut the security cameras.
+There's no footage.
+
+91
+00:06:15,008 --> 00:06:16,942
+But there might be something else.
+
+92
+00:06:17,177 --> 00:06:20,738
+Some kind of small charge
+blasted the doorknob off.
+
+93
+00:06:22,515 --> 00:06:25,712
+-Any idea what's missing?
+-My guess is one of these files.
+
+94
+00:06:25,919 --> 00:06:30,186
+-It will take days to figure out which one.
+-Let's let Barry do his thing.
+
+95
+00:06:53,446 --> 00:06:54,777
+[CHATTERING]
+
+96
+00:06:58,051 --> 00:06:59,746
+-What's going on?
+-I have no idea.
+
+97
+00:06:59,953 --> 00:07:04,982
+Came in here like they owned the place.
+Been talking to Singh for the last half hour.
+
+98
+00:07:05,225 --> 00:07:07,057
+This can't be good.
+
+99
+00:07:11,898 --> 00:07:16,096
+-General Eiling, this is Detective West.
+Detective.
+
+100
+00:07:17,637 --> 00:07:18,900
+What's this all about?
+
+101
+00:07:19,105 --> 00:07:21,403
+The Army's taking over
+the bombing investigation.
+
+102
+00:07:21,574 --> 00:07:25,238
+I'll need everything you have.
+Physical evidence, photos...
+
+103
+00:07:25,412 --> 00:07:28,279
+-...witness interviews, notes.
+-I've been on the job 20 years.
+
+104
+00:07:28,448 --> 00:07:31,008
+Never heard of the Army
+investigating anything civilian.
+
+105
+00:07:31,251 --> 00:07:33,515
+Well, it's not civilian. She's one of ours.
+
+106
+00:07:35,655 --> 00:07:37,282
+We'll send over everything we got.
+
+107
+00:07:37,490 --> 00:07:40,653
+Very kind of you.
+I think we'll take it now, though.
+
+108
+00:07:43,096 --> 00:07:44,495
+Give them what they want, Joe.
+
+109
+00:07:46,766 --> 00:07:49,531
+You heard him, Joe. Give me what I want.
+
+110
+00:08:01,114 --> 00:08:02,513
+Hey, what's going on?
+
+111
+00:08:02,782 --> 00:08:05,444
+General Eiling is relieving us
+from the bombing case.
+
+112
+00:08:05,652 --> 00:08:08,781
+Give these men everything that's relevant.
+
+113
+00:08:10,023 --> 00:08:12,048
+Sure thing, yeah.
+
+114
+00:08:17,897 --> 00:08:21,697
+You and a few civilians from S.T.A.R. Labs
+might wanna check into that.
+
+115
+00:08:22,535 --> 00:08:24,025
+I think we might.
+
+116
+00:08:24,304 --> 00:08:28,002
+Can I talk to you for a minute, Joe?
+It's about Iris.
+
+117
+00:08:29,542 --> 00:08:31,135
+IRIS:
+Hey, Dad. You're home early.
+
+118
+00:08:31,344 --> 00:08:34,075
+What were you doing
+at the bomb site last night?
+
+119
+00:08:34,314 --> 00:08:37,978
+Don't deny you were there.
+Officer Vukovich saw you.
+
+120
+00:08:38,151 --> 00:08:42,213
+-It's complicated.
+-You can't be coming to every crime scene...
+
+121
+00:08:42,389 --> 00:08:44,881
+...because you're worried about Eddie.
+He's a big boy.
+
+122
+00:08:45,058 --> 00:08:47,686
+I didn't go there to see Eddie. I...
+
+123
+00:08:47,861 --> 00:08:50,023
+I went there to see the Streak.
+
+124
+00:08:52,665 --> 00:08:54,656
+The Streak.
+
+125
+00:08:55,235 --> 00:08:56,725
+Hmm.
+
+126
+00:08:56,903 --> 00:08:58,735
+-What is that?
+-My blog.
+
+127
+00:08:59,372 --> 00:09:02,933
+I've been collecting posts about
+the Streak sightings and writing about them.
+
+128
+00:09:05,345 --> 00:09:06,870
+Baby, there's no Streak.
+
+129
+00:09:07,080 --> 00:09:10,914
+Yes, there is. I saw him last night, Dad.
+I looked right at him.
+
+130
+00:09:12,018 --> 00:09:15,852
+Something incredible is happening in
+Central City, and I am gonna write about it.
+
+131
+00:09:16,056 --> 00:09:18,047
+If you'll excuse me, I have to get to work.
+
+132
+00:09:18,224 --> 00:09:21,194
+Blogging about supernatural events
+doesn't really pay well.
+
+133
+00:09:21,861 --> 00:09:23,522
+[IRIS CHUCKLES]
+
+134
+00:09:29,202 --> 00:09:31,864
+CISCO: <i>A</i> VA file number is all the info
+you have on the bomber?
+
+135
+00:09:32,038 --> 00:09:33,870
+C.C.P.D.'s been ordered off the case.
+
+136
+00:09:34,040 --> 00:09:36,566
+-Well, who has the power to do that?
+-The Army.
+
+137
+00:09:36,776 --> 00:09:39,939
+Yeah, some general.
+His name was Eiling, I think.
+
+138
+00:09:40,113 --> 00:09:41,478
+General Wade Eiling.
+
+139
+00:09:41,648 --> 00:09:43,946
+-You know him?
+WELLS: Yeah, I know him.
+
+140
+00:09:44,117 --> 00:09:47,212
+About 10 years ago General
+Wade Eiling contracted S.T.A.R. Labs...
+
+141
+00:09:47,420 --> 00:09:49,787
+...to develop enhanced gene therapies
+for soldiers.
+
+142
+00:09:49,956 --> 00:09:52,482
+I was interested in the medical benefits
+for civilians.
+
+143
+00:09:52,725 --> 00:09:56,252
+General Eiling really wanted
+to develop mind-reading capabilities...
+
+144
+00:09:56,429 --> 00:09:58,329
+...for interrogation purposes.
+
+145
+00:09:58,498 --> 00:10:02,799
+I ended the study when I saw his techniques,
+but our split was less than amicable.
+
+146
+00:10:03,002 --> 00:10:05,266
+He took the evidence
+I collected on the bombing.
+
+147
+00:10:05,472 --> 00:10:06,667
+Everything but the folder.
+
+148
+00:10:07,807 --> 00:10:11,175
+Well, lucky for us,
+the VA finally joined the new millennium...
+
+149
+00:10:11,411 --> 00:10:13,675
+...and digitized their records.
+
+150
+00:10:13,913 --> 00:10:15,438
+A lot of redacted info...
+
+151
+00:10:15,615 --> 00:10:19,984
+...but our girl's name is Bette Sans Souci,
+an EOD specialist for the Army.
+
+152
+00:10:20,153 --> 00:10:21,643
+-EOD?
+-Bombs.
+
+153
+00:10:21,821 --> 00:10:24,483
+-Is there an address?
+-Hold on. Here we go.
+
+154
+00:10:24,691 --> 00:10:28,457
+One person in case of emergency:
+Cameron Scott, Anglewood.
+
+155
+00:10:48,281 --> 00:10:50,045
+Bette Sans Souci?
+
+156
+00:10:52,619 --> 00:10:55,486
+-I need you to <i>come</i> with me.
+-Don't touch me, please.
+
+157
+00:10:57,023 --> 00:10:59,355
+Get whatever you're wearing off of you.
+
+158
+00:11:00,527 --> 00:11:02,222
+Hurry.
+
+159
+00:11:13,139 --> 00:11:15,540
+Barry, can you hear me? Barry?
+
+160
+00:11:15,742 --> 00:11:19,679
+There must be a perfectly reasonable
+explanation for why he's not answering.
+
+161
+00:11:19,879 --> 00:11:21,404
+Barry!
+
+162
+00:11:23,483 --> 00:11:26,145
+-Uh...
+BARRY: Don't ask.
+
+163
+00:11:27,387 --> 00:11:29,082
+I'm gonna ask. Where's my suit?
+
+164
+00:11:30,190 --> 00:11:32,591
+It's gone.
+
+165
+00:11:33,660 --> 00:11:35,059
+What do you mean, it's gone?
+
+166
+00:11:35,261 --> 00:11:37,923
+-What did you do with my suit?
+-It blew up, dude.
+
+167
+00:11:38,164 --> 00:11:41,156
+I managed to get out of it
+before it went kaboom.
+
+168
+00:11:41,334 --> 00:11:44,326
+My suit went kaboom?
+
+169
+00:11:44,571 --> 00:11:47,233
+Fun fact about Bette <i>Sans</i> Souci:
+She's not carrying bombs.
+
+170
+00:11:47,440 --> 00:11:51,070
+She touched the emblem on the suit
+and turned it into a bomb.
+
+171
+00:11:51,277 --> 00:11:52,574
+She's a meta-human.
+
+172
+00:11:52,745 --> 00:11:57,273
+With the ability to cause spontaneous
+combustion upon tactile contact.
+
+173
+00:11:57,517 --> 00:11:59,747
+-She blew up my suit.
+-You have like three more.
+
+174
+00:11:59,953 --> 00:12:02,115
+Okay, I have two. And I loved that one.
+
+175
+00:12:02,355 --> 00:12:07,020
+-All right, what else do we know about her?
+-Oh, I don't know, <i>she's</i> pure evil?
+
+176
+00:12:07,227 --> 00:12:10,720
+We're gonna find this girl
+and send her butt into the pipeline.
+
+177
+00:12:10,930 --> 00:12:14,195
+No one blows my tech to smithereens
+and gets away with it.
+
+178
+00:12:15,868 --> 00:12:18,303
+Unless she looks like that.
+
+179
+00:12:19,973 --> 00:12:21,600
+I don't think she meant to hurt me.
+
+180
+00:12:21,808 --> 00:12:25,802
+Or her being a meta-human explains
+General Eiling's interest in her.
+
+181
+00:12:26,045 --> 00:12:27,809
+And why he stole the case from us.
+
+182
+00:12:28,548 --> 00:12:31,279
+He didn't want anyone
+to know what she could do.
+
+183
+00:12:32,885 --> 00:12:37,152
+Detective.
+-Doctor. So human bomb.
+
+184
+00:12:37,390 --> 00:12:39,119
+Must be Tuesday in Central City.
+
+185
+00:12:39,325 --> 00:12:43,887
+Yes. And General Eiling's not one
+to give up a potential asset without a fight.
+
+186
+00:12:44,130 --> 00:12:48,328
+-We have to find her before he does.
+-Barry, can I see you for a second?
+
+187
+00:12:54,841 --> 00:12:57,742
+When were you planning on telling me
+that Iris saw the Streak?
+
+188
+00:12:57,910 --> 00:13:00,311
+That was not planned.
+She caught me off guard.
+
+189
+00:13:00,480 --> 00:13:01,743
+We had a deal.
+
+190
+00:13:01,914 --> 00:13:05,578
+Keep her in the dark about meta-humans,
+and I don't go Floyd Mayweather on you.
+
+191
+00:13:05,785 --> 00:13:08,846
+-Okay. Joe, I know--
+-And she's writing a blog now.
+
+192
+00:13:09,088 --> 00:13:11,648
+-I already talked to her about that.
+-Talk to her again.
+
+193
+00:13:11,858 --> 00:13:14,190
+And be more convincing.
+
+194
+00:13:14,427 --> 00:13:15,861
+Okay.
+
+195
+00:13:18,364 --> 00:13:19,854
+-You mean right now?
+-Yes, I do.
+
+196
+00:13:22,435 --> 00:13:24,267
+You gotta stop writing about this guy.
+
+197
+00:13:24,437 --> 00:13:26,337
+-He doesn't even exist.
+-I saw him, Barry.
+
+198
+00:13:26,506 --> 00:13:28,941
+He wears a red suit,
+like a uniform or something...
+
+199
+00:13:29,108 --> 00:13:30,701
+...with a lightning bolt on his chest.
+
+200
+00:13:30,877 --> 00:13:31,935
+[CHUCKLES]
+
+201
+00:13:32,111 --> 00:13:35,103
+Iris, come on.
+You were drinking last night at the bar.
+
+202
+00:13:35,315 --> 00:13:39,684
+I was not drunk, and I know what I saw.
+He wears a mask.
+
+203
+00:13:39,886 --> 00:13:42,446
+I think he smiled at me.
+
+204
+00:13:43,389 --> 00:13:48,452
+Okay, first of all, if he's wearing a mask,
+he doesn't want people to know who he is.
+
+205
+00:13:48,695 --> 00:13:49,992
+It doesn't matter who he is.
+
+206
+00:13:50,163 --> 00:13:52,530
+What matters is that people know
+that he's out there.
+
+207
+00:13:52,699 --> 00:13:53,723
+[SIGHS]
+
+208
+00:13:53,900 --> 00:13:56,062
+What is wrong with you?
+This is important to me.
+
+209
+00:13:56,235 --> 00:13:57,794
+Why can't you be more supportive?
+
+210
+00:13:58,571 --> 00:14:01,632
+I'm just...
+You haven't even put your name on it.
+
+211
+00:14:01,841 --> 00:14:05,141
+I mean, how serious can you be
+about an anonymous blog?
+
+212
+00:14:06,646 --> 00:14:07,670
+[SCOFFS]
+
+213
+00:14:07,847 --> 00:14:08,871
+Okay, you know what?
+
+214
+00:14:09,048 --> 00:14:12,643
+Our entire lives, you couldn't scream
+loud enough that the impossible existed.
+
+215
+00:14:12,852 --> 00:14:15,048
+Now it's actually happening in Central City...
+
+216
+00:14:15,254 --> 00:14:18,485
+...I have proof of it,
+and you don't wanna know about it?
+
+217
+00:14:18,658 --> 00:14:20,558
+That doesn't make sense, Barry.
+
+218
+00:14:20,760 --> 00:14:23,889
+So when you're ready to tell me
+what this routine is really about...
+
+219
+00:14:24,063 --> 00:14:26,327
+...then we can talk.
+
+220
+00:14:27,734 --> 00:14:29,361
+[CELL PHONE BUZZING]
+
+221
+00:14:30,036 --> 00:14:31,060
+Yeah.
+
+222
+00:14:31,237 --> 00:14:33,262
+<i>USCG: We've piggybacked
+onto Eiling's surveillance.</i>
+
+223
+00:14:33,439 --> 00:14:36,272
+According to what they're saying,
+the lovely Ms. Sans Souci...
+
+224
+00:14:36,442 --> 00:14:38,001
+...was just spotted in Anglewood.
+
+225
+00:14:38,244 --> 00:14:40,736
+The <i>same</i> neighborhood
+as Dr. Harold Hadley's office...
+
+226
+00:14:40,947 --> 00:14:43,541
+...the military surgeon
+who performed procedures on her.
+
+227
+00:14:43,716 --> 00:14:45,684
+That's why she was looking for the folder.
+
+228
+00:14:45,885 --> 00:14:48,183
+-You gotta get to her before Eiling does.
+-Okay.
+
+229
+00:15:03,102 --> 00:15:06,970
+-Sergeant Sans Souci.
+-You remember me. Good.
+
+230
+00:15:07,140 --> 00:15:09,472
+Because I remember you, doctor.
+
+231
+00:15:09,642 --> 00:15:12,634
+I remember waking up from a coma.
+You'd started cutting me open.
+
+232
+00:15:12,812 --> 00:15:17,113
+I was trying to help ease your condition.
+You couldn't control it.
+
+233
+00:15:17,283 --> 00:15:20,309
+You did this to me. You and Eiling.
+
+234
+00:15:36,836 --> 00:15:37,928
+[BETTE GRUNTS]
+
+235
+00:15:38,638 --> 00:15:41,403
+-Go bring me my asset.
+-Sir.
+
+236
+00:15:46,679 --> 00:15:50,741
+You okay? I can get you out of here. I can
+help you understand what happened to you.
+
+237
+00:15:50,950 --> 00:15:53,009
+-How?
+-Because it happened to me too.
+
+238
+00:15:53,186 --> 00:15:54,244
+Please.
+
+239
+00:16:09,702 --> 00:16:11,670
+SOLDIER [OVER RADIO]: <i>Target</i> is <i>gone.</i>
+
+240
+00:16:16,509 --> 00:16:19,001
+WELLS: As the detonation dispersed
+throughout Central City...
+
+241
+00:16:19,178 --> 00:16:22,443
+...a number of people were exposed
+to a wave of unquantifiable energy.
+
+242
+00:16:22,615 --> 00:16:24,879
+One of those people was you.
+
+243
+00:16:25,051 --> 00:16:27,611
+You were in Central City 10 months ago.
+
+244
+00:16:29,288 --> 00:16:31,655
+Uh, I had just returned from Afghanistan.
+
+245
+00:16:32,525 --> 00:16:35,222
+I was there diffusing roadside bombs...
+
+246
+00:16:36,796 --> 00:16:38,525
+...and shrapnel ripped through me.
+
+247
+00:16:38,698 --> 00:16:42,498
+I was flown back Stateside.
+Spent months at the base recuperating.
+
+248
+00:16:42,668 --> 00:16:44,636
+And next thing I know...
+
+249
+00:16:45,304 --> 00:16:47,329
+...I became the thing that almost killed me.
+
+250
+00:16:47,874 --> 00:16:51,139
+And Eiling's favorite new lab rat.
+
+251
+00:16:51,310 --> 00:16:55,838
+The dark matter must have combined
+with the bomb particulate inside your body.
+
+252
+00:16:56,015 --> 00:16:58,507
+I thought Eiling did this to me.
+
+253
+00:16:58,684 --> 00:17:03,315
+Eiling is not smart enough
+to create someone like you...
+
+254
+00:17:03,489 --> 00:17:05,321
+but clever enough to see your value.
+
+255
+00:17:05,858 --> 00:17:08,088
+Do you know of any others
+who were changed?
+
+256
+00:17:08,694 --> 00:17:12,392
+-There have been a few.
+-But no one that looks like you.
+
+257
+00:17:15,368 --> 00:17:17,769
+I'm sorry. That was inappropriate.
+
+258
+00:17:17,937 --> 00:17:19,336
+[CHUCKLES]
+
+259
+00:17:19,505 --> 00:17:22,531
+Please don't leave.
+-I know how to perform a lobotomy.
+
+260
+00:17:23,910 --> 00:17:25,901
+WELLS:
+Cell structure's unlike anything I've seen.
+
+261
+00:17:26,078 --> 00:17:28,547
+Her nitrogen levels are off the charts.
+
+262
+00:17:32,718 --> 00:17:34,015
+You think we can help her?
+
+263
+00:17:34,186 --> 00:17:36,553
+To answer that,
+we have to understand how she works.
+
+264
+00:17:36,722 --> 00:17:39,054
+To understand that,
+we have to study her in action.
+
+265
+00:17:39,225 --> 00:17:40,784
+You want her to blow stuff up.
+
+266
+00:17:41,193 --> 00:17:43,958
+-Yes. Now we're talking.
+-Not in here. She's too unstable.
+
+267
+00:17:44,130 --> 00:17:45,928
+-I know.
+-I know you know.
+
+268
+00:17:46,399 --> 00:17:50,233
+So this is your life now, huh?
+Testing people like me?
+
+269
+00:17:50,403 --> 00:17:52,394
+Stopping people like you.
+
+270
+00:17:53,539 --> 00:17:55,564
+It's not what I thought I'd be doing.
+
+271
+00:17:57,476 --> 00:18:00,878
+Actually, aside from Barry, you're
+the first meta-human that we've tested.
+
+272
+00:18:01,581 --> 00:18:04,073
+-"Meta-human"?
+-It's just a term.
+
+273
+00:18:06,819 --> 00:18:08,913
+Oh, my God. What happened?
+
+274
+00:18:10,089 --> 00:18:13,115
+-Why didn't you say that you were shot?
+-It just grazed me.
+
+275
+00:18:14,327 --> 00:18:15,590
+There's something in there.
+
+276
+00:18:23,402 --> 00:18:24,426
+A tracker.
+
+277
+00:18:24,637 --> 00:18:26,833
+[COMPUTER BEEPING]
+
+278
+00:18:30,610 --> 00:18:34,103
+Lock down the pipeline. Get Bette
+out of here. I'll take care of Eiling.
+
+279
+00:18:39,652 --> 00:18:41,848
+Harrison Wells.
+
+280
+00:18:42,021 --> 00:18:45,013
+-How the might have fallen.
+-General.
+
+281
+00:18:45,191 --> 00:18:47,182
+<i>ST AR. Labs.</i>
+
+282
+00:18:48,260 --> 00:18:50,160
+This place used to be so important.
+
+283
+00:18:51,497 --> 00:18:54,762
+Tell me, what does one do
+after such a spectacular public failure?
+
+284
+00:18:55,468 --> 00:18:59,029
+One adapts. One evolves.
+
+285
+00:18:59,438 --> 00:19:01,770
+One becomes intent
+on reversing one's fortune.
+
+286
+00:19:01,941 --> 00:19:03,466
+Always the idealist.
+
+287
+00:19:04,276 --> 00:19:06,472
+-What do you want, Wade?
+-Where's my asset?
+
+288
+00:19:06,946 --> 00:19:10,382
+-I have no idea what you're talking about.
+-We tracked her here, Harrison.
+
+289
+00:19:10,549 --> 00:19:13,951
+Turn her over before you see the rest
+of your precious palace crumble.
+
+290
+00:19:14,120 --> 00:19:16,145
+Wade, Wade, Wade.
+
+291
+00:19:22,395 --> 00:19:24,989
+We could've changed the world, you and I.
+
+292
+00:19:37,643 --> 00:19:41,580
+Four hundred twenty-seven kPa's.
+Her Trauzl rating is around 45.
+
+293
+00:19:41,747 --> 00:19:44,045
+That's the <i>same</i> as any plastique.
+
+294
+00:19:44,216 --> 00:19:47,186
+"Plastique." Ha! First try.
+
+295
+00:19:47,353 --> 00:19:49,651
+Didn't really think
+this one through, did you?
+
+296
+00:19:53,592 --> 00:19:56,493
+Downrange insurgents
+started booby-trapping cars.
+
+297
+00:19:56,662 --> 00:20:00,997
+For the rest of my tour,
+I was terrified to touch another vehicle.
+
+298
+00:20:02,268 --> 00:20:06,865
+Now I'm gonna spend the rest of my life
+terrified to touch another human being.
+
+299
+00:20:09,108 --> 00:20:11,042
+Have they tried to help you?
+
+300
+00:20:12,378 --> 00:20:13,777
+Uh...
+
+301
+00:20:14,714 --> 00:20:17,342
+They've helped me
+learn how to use my powers...
+
+302
+00:20:17,516 --> 00:20:18,540
+...not reverse them.
+
+303
+00:20:19,285 --> 00:20:23,688
+If they could reverse it
+so you weren't a meta-human...
+
+304
+00:20:23,856 --> 00:20:25,346
+...would you?
+
+305
+00:20:26,926 --> 00:20:30,794
+A friend told me
+I was given my speed for a reason...
+
+306
+00:20:30,963 --> 00:20:33,295
+...that I was chosen.
+
+307
+00:20:34,567 --> 00:20:36,035
+I don't know if I believe that.
+
+308
+00:20:37,570 --> 00:20:39,902
+But I always wanted to help people.
+
+309
+00:20:40,406 --> 00:20:41,965
+Now I can.
+
+310
+00:20:42,942 --> 00:20:44,535
+[CELL PHONE BUZZING]
+
+311
+00:20:45,144 --> 00:20:47,044
+I'm sorry.
+
+312
+00:20:47,880 --> 00:20:50,645
+-Hey, Joe.
+-I see your little conversation with Iris...
+
+313
+00:20:50,816 --> 00:20:51,977
+was a rousing SUCCESS.
+
+314
+00:20:52,151 --> 00:20:54,779
+She just posted another story
+about the Streak.
+
+315
+00:20:54,954 --> 00:20:59,084
+-Joe, I tried. I really tried.
+-She's got her name on it now, Barry.
+
+316
+00:20:59,258 --> 00:21:00,953
+-What? Joe--
+-It's my fault.
+
+317
+00:21:01,127 --> 00:21:04,961
+I shouldn't have asked you to say anything.
+I just wanted you to know. Okay? Bye.
+
+318
+00:21:09,401 --> 00:21:10,630
+What was that about?
+
+319
+00:21:10,803 --> 00:21:11,827
+[SIGHS]
+
+320
+00:21:12,004 --> 00:21:15,634
+Iris posted about the Streak again.
+She signed her name to it.
+
+321
+00:21:16,175 --> 00:21:19,167
+-Oh, that's not good.
+-No.
+
+322
+00:21:19,345 --> 00:21:22,144
+If one of these bad meta-humans
+figures she knows something--
+
+323
+00:21:22,314 --> 00:21:24,476
+They may target her. I know.
+
+324
+00:21:31,590 --> 00:21:33,024
+[KNOCKING ON DOOR]
+
+325
+00:21:33,192 --> 00:21:35,320
+Sorry, we're closed.
+
+326
+00:21:38,497 --> 00:21:40,090
+Oh, my God. It's you.
+
+327
+00:21:40,266 --> 00:21:43,759
+[IN DISTORTED VOICE] Iris West,
+I hear you've been writing about me.
+
+328
+00:21:48,607 --> 00:21:50,336
+You are real.
+
+329
+00:21:51,610 --> 00:21:53,772
+I should, um...
+
+330
+00:21:54,346 --> 00:21:55,643
+Let me just clean up—-
+
+331
+00:21:59,952 --> 00:22:01,511
+FLASH:
+Meet me on the roof.
+
+332
+00:22:01,687 --> 00:22:04,657
+-I'll give you a head start.
+-Okay.
+
+333
+00:22:12,565 --> 00:22:15,466
+I need you to stop writing about me.
+
+334
+00:22:16,368 --> 00:22:19,804
+There are a lot of people
+who need someone like you right now...
+
+335
+00:22:19,972 --> 00:22:22,168
+...to know that you're out there.
+
+336
+00:22:23,542 --> 00:22:25,306
+I have so many questions.
+
+337
+00:22:25,477 --> 00:22:27,468
+Where are you from?
+
+338
+00:22:28,180 --> 00:22:30,308
+I can't say.
+
+339
+00:22:30,482 --> 00:22:32,416
+Who are you?
+
+340
+00:22:32,585 --> 00:22:34,815
+I can't tell you that either.
+
+341
+00:22:35,554 --> 00:22:37,318
+How can you do what you do?
+
+342
+00:22:42,428 --> 00:22:44,260
+You're a terrible interview.
+
+343
+00:22:45,598 --> 00:22:47,896
+There's more to this
+than you can understand.
+
+344
+00:22:48,067 --> 00:22:52,265
+Just trust me, please. I need you to stop.
+
+345
+00:22:52,705 --> 00:22:54,503
+Can you stop?
+
+346
+00:22:54,673 --> 00:22:58,507
+Running into buildings and rescuing people
+without them even knowing you're there?
+
+347
+00:22:58,677 --> 00:23:01,738
+-I don't do this for the glory.
+-So why do you?
+
+348
+00:23:08,621 --> 00:23:12,182
+Look, I have this friend...
+
+349
+00:23:12,358 --> 00:23:15,851
+...and he had something terrible happen
+to him when he was a kid.
+
+350
+00:23:16,028 --> 00:23:21,626
+And his whole life, <i>he's</i> been telling stories
+about this impossible thing.
+
+351
+00:23:22,301 --> 00:23:26,465
+And people laughed at him,
+and shrinks analyzed him.
+
+352
+00:23:27,439 --> 00:23:30,875
+And he's been searching
+for an explanation ever since.
+
+353
+00:23:31,710 --> 00:23:36,614
+But now suddenly it's like he's lost his faith.
+
+354
+00:23:36,782 --> 00:23:40,741
+But you, you are proof that he wasn't crazy.
+
+355
+00:23:44,890 --> 00:23:47,154
+Help me save my friend.
+
+356
+00:23:51,063 --> 00:23:53,054
+He's a lucky guy.
+
+357
+00:24:12,918 --> 00:24:14,408
+Hey, what's wrong?
+
+358
+00:24:14,586 --> 00:24:17,749
+-Did Eiling find out you're here?
+-No.
+
+359
+00:24:18,324 --> 00:24:20,816
+Caitlin was about to give me
+the not-so-good news.
+
+360
+00:24:23,429 --> 00:24:27,662
+The shrapnel in your body
+has merged with you on a cellular level.
+
+361
+00:24:29,301 --> 00:24:33,431
+The technology required
+to unsplice your DNA...
+
+362
+00:24:35,007 --> 00:24:36,532
+It hasn't been invented yet.
+
+363
+00:24:42,314 --> 00:24:43,839
+Bette...
+
+364
+00:24:44,817 --> 00:24:46,615
+It's okay.
+
+365
+00:24:46,819 --> 00:24:49,220
+Roger that. I—-
+
+366
+00:24:49,722 --> 00:24:51,713
+I just need a minute.
+
+367
+00:24:51,957 --> 00:24:55,018
+Don't worry. I'm pretty sure I can cry
+without blowing stuff up.
+
+368
+00:25:03,702 --> 00:25:04,726
+What now?
+
+369
+00:25:05,637 --> 00:25:08,971
+She joins us. Becomes a part of the team.
+
+370
+00:25:09,141 --> 00:25:13,135
+Barry, you have an amazing ability
+to help people.
+
+371
+00:25:13,312 --> 00:25:16,145
+She makes things explode.
+
+372
+00:25:17,049 --> 00:25:19,916
+She's the first meta-human not hell-bent
+on destroying the city.
+
+373
+00:25:20,085 --> 00:25:21,143
+It's too dangerous.
+
+374
+00:25:22,054 --> 00:25:25,046
+-She's not going in the pipeline.
+-I'm not suggesting she go in.
+
+375
+00:25:25,224 --> 00:25:28,660
+But were she to remain at S.T.A.R. Labs,
+it would put all of us at risk.
+
+376
+00:25:28,861 --> 00:25:30,659
+From who, Eiling?
+
+377
+00:25:30,829 --> 00:25:33,992
+Eiling is a dangerous man, Barry.
+We do not want him as an enemy.
+
+378
+00:25:37,236 --> 00:25:40,206
+After the lightning bolt,
+what if you hadn't found me?
+
+379
+00:25:40,372 --> 00:25:41,396
+It could've been me.
+
+380
+00:25:42,074 --> 00:25:46,671
+Hunted, on the run, cut off
+from everyone I know and care about.
+
+381
+00:25:47,112 --> 00:25:48,602
+You guys saved me.
+
+382
+00:25:48,781 --> 00:25:51,842
+And I wanna save her
+just as bad as you do, Barry.
+
+383
+00:25:52,017 --> 00:25:53,178
+We all do.
+
+384
+00:26:02,961 --> 00:26:04,690
+Joe.
+
+385
+00:26:04,897 --> 00:26:06,023
+What are you doing here?
+
+386
+00:26:06,198 --> 00:26:09,293
+Going over the materials
+in your mom's case.
+
+387
+00:26:09,468 --> 00:26:11,197
+How's it going with you?
+
+388
+00:26:11,970 --> 00:26:15,133
+Stellar. I made friends with a human bomb...
+
+389
+00:26:15,307 --> 00:26:19,107
+...who I promised I could help
+and then I couldn't.
+
+390
+00:26:19,278 --> 00:26:24,045
+And I finally diagnosed
+why Iris is writing about the Streak.
+
+391
+00:26:25,918 --> 00:26:27,943
+She's doing it for me.
+
+392
+00:26:28,220 --> 00:26:29,779
+[CHUCKLES]
+
+393
+00:26:29,955 --> 00:26:32,822
+To prove the impossible is possible.
+
+394
+00:26:34,059 --> 00:26:35,618
+How do you know that?
+
+395
+00:26:37,429 --> 00:26:39,056
+The Streak may have talked to her.
+
+396
+00:26:39,231 --> 00:26:42,223
+Barry, don't you think
+Iris would recognize your voice?
+
+397
+00:26:42,401 --> 00:26:45,393
+[IN DISTORTED VOICE] No, I can do
+this cool thing with my vocal cords...
+
+398
+00:26:45,571 --> 00:26:47,835
+...where I vibrate them so I sound like this.
+
+399
+00:26:48,006 --> 00:26:49,064
+[LAUGHING]
+
+400
+00:26:49,241 --> 00:26:50,572
+[IN NORMAL VOICE]
+I know.
+
+401
+00:26:51,510 --> 00:26:52,841
+It's cool. It's cool.
+
+402
+00:26:53,178 --> 00:26:55,306
+—Whoa.
+—Yeah.
+
+403
+00:26:56,081 --> 00:26:58,516
+Well, you put that out there now, so...
+
+404
+00:27:00,252 --> 00:27:02,482
+I want to keep her safe.
+
+405
+00:27:04,523 --> 00:27:07,584
+You know the only way to get her to stop
+is to tell her the truth.
+
+406
+00:27:07,759 --> 00:27:09,921
+Man, you really wanna tell her.
+
+407
+00:27:11,497 --> 00:27:12,658
+I tell her everything.
+
+408
+00:27:12,831 --> 00:27:14,765
+Hmm.
+
+409
+00:27:15,501 --> 00:27:16,525
+Not everything.
+
+410
+00:27:18,270 --> 00:27:19,669
+[CHUCKLES]
+
+411
+00:27:28,680 --> 00:27:29,841
+Is it that obvious?
+
+412
+00:27:32,451 --> 00:27:34,385
+Not to her.
+
+413
+00:27:36,221 --> 00:27:37,620
+How long have you known for?
+
+414
+00:27:37,789 --> 00:27:38,813
+[CHUCKLES]
+
+415
+00:27:38,991 --> 00:27:43,292
+I have watched you be in love with Iris since
+you were old enough to know what love is.
+
+416
+00:27:43,629 --> 00:27:47,190
+Heh. And I've been waiting years
+for you to tell her.
+
+417
+00:27:50,202 --> 00:27:51,294
+But you haven't.
+
+418
+00:27:54,306 --> 00:27:56,900
+-Guess I was too slow.
+-Hmm.
+
+419
+00:27:57,075 --> 00:27:59,567
+Now she's happy
+and with someone else, so...
+
+420
+00:27:59,745 --> 00:28:02,305
+When the universe wants
+to make something happen...
+
+421
+00:28:02,481 --> 00:28:04,973
+...whether it be giving a young man
+lightning speed...
+
+422
+00:28:05,150 --> 00:28:07,312
+...or putting two people together...
+
+423
+00:28:07,486 --> 00:28:09,648
+...it has a way of figuring those things out.
+
+424
+00:28:12,424 --> 00:28:14,392
+I gotta get home.
+
+425
+00:28:19,164 --> 00:28:20,893
+Thanks.
+
+426
+00:28:21,066 --> 00:28:22,830
+[CHUCKLES]
+
+427
+00:28:28,774 --> 00:28:30,674
+[COMPUTER BEEPING]
+
+428
+00:28:30,842 --> 00:28:33,675
+BETTE: Cisco?
+-He went home.
+
+429
+00:28:34,580 --> 00:28:37,743
+I think our Cisco's developing a little bit
+of a crush on you.
+
+430
+00:28:37,916 --> 00:28:40,749
+Not sure I'm prizewinning
+date material anymore.
+
+431
+00:28:40,919 --> 00:28:42,182
+Change is hard.
+
+432
+00:28:44,289 --> 00:28:47,520
+The same accident that changed you
+put me in this chair.
+
+433
+00:28:47,693 --> 00:28:49,593
+Sorry. I didn't know.
+
+434
+00:28:49,761 --> 00:28:52,253
+I don't share that story with you
+to garner sympathy.
+
+435
+00:28:52,431 --> 00:28:55,264
+-I tell it to illustrate a larger point.
+-What point is that?
+
+436
+00:28:55,434 --> 00:28:57,801
+That I would do anything...
+
+437
+00:28:57,970 --> 00:29:01,133
+...to get back what I lost.
+
+438
+00:29:01,607 --> 00:29:02,631
+As would you.
+
+439
+00:29:03,809 --> 00:29:05,777
+I would.
+
+440
+00:29:05,944 --> 00:29:07,537
+I just don't know how.
+
+441
+00:29:12,150 --> 00:29:15,211
+You soldiers,
+you call yourselves Sheepdogs.
+
+442
+00:29:15,954 --> 00:29:16,978
+Am I right?
+
+443
+00:29:17,155 --> 00:29:19,624
+Happy and normal
+until someone attacks our flock.
+
+444
+00:29:19,791 --> 00:29:22,726
+Every good person who was changed
+that night, people like you...
+
+445
+00:29:22,894 --> 00:29:26,728
+...people like Barry Allen,
+those people are your flock now, Bette.
+
+446
+00:29:27,733 --> 00:29:31,397
+And General Eiling will never stop
+attacking that flock.
+
+447
+00:29:31,603 --> 00:29:34,231
+And he always gets his target.
+
+448
+00:29:36,408 --> 00:29:38,604
+Unless you stop him.
+
+449
+00:29:42,981 --> 00:29:45,143
+You know your duty, sergeant.
+
+450
+00:29:46,518 --> 00:29:48,577
+Kill Eiling.
+
+451
+00:29:49,755 --> 00:29:51,245
+One last mission...
+
+452
+00:29:52,357 --> 00:29:54,155
+...and then you go home.
+
+453
+00:30:08,507 --> 00:30:09,975
+Where's Bette?
+
+454
+00:30:10,142 --> 00:30:11,803
+-She left.
+BARRY: What do you mean?
+
+455
+00:30:11,977 --> 00:30:13,809
+-Where'd she go?
+-She didn't say.
+
+456
+00:30:13,979 --> 00:30:15,879
+Well, where the hell could she be?
+
+457
+00:30:23,188 --> 00:30:25,486
+SOLDIER:
+Let's go. Go, go, go.
+
+458
+00:30:29,127 --> 00:30:30,151
+On me.
+
+459
+00:30:36,001 --> 00:30:39,460
+-I'm ready to give myself up.
+-Oh, I highly doubt that.
+
+460
+00:30:41,039 --> 00:30:42,700
+Think you can put one over on me?
+
+461
+00:30:45,711 --> 00:30:47,179
+You can't.
+
+462
+00:30:48,146 --> 00:30:50,672
+-Stand down, soldier.
+CISCO: I got back on the military feed.
+
+463
+00:30:50,849 --> 00:30:54,149
+Looks like they've gone to the waterfront
+to rendezvous with Bette.
+
+464
+00:30:54,319 --> 00:30:55,582
+She's turning herself in.
+
+465
+00:30:56,188 --> 00:30:58,486
+She's not turning herself in.
+
+466
+00:31:00,759 --> 00:31:02,591
+Please let him get there in time.
+
+467
+00:31:02,761 --> 00:31:06,026
+All over the world,
+people are plotting to destroy our country.
+
+468
+00:31:06,198 --> 00:31:08,064
+To end our lives.
+
+469
+00:31:09,234 --> 00:31:11,669
+Brave American soldiers
+are gonna die in that fight.
+
+470
+00:31:11,837 --> 00:31:13,737
+But they don't have to. Because of you...
+
+471
+00:31:15,407 --> 00:31:16,772
+...we could have victory.
+
+472
+00:31:16,942 --> 00:31:19,934
+All I've ever wanted
+was to make the world a safer place.
+
+473
+00:31:20,112 --> 00:31:21,204
+And it will be...
+
+474
+00:31:21,747 --> 00:31:23,237
+...when you're not in it.
+
+475
+00:31:23,415 --> 00:31:25,213
+EILING:
+Take cover!
+
+476
+00:31:34,926 --> 00:31:36,291
+What are you doing here?
+
+477
+00:31:36,461 --> 00:31:39,021
+Being a soldier
+doesn't mean you're a murderer.
+
+478
+00:31:39,197 --> 00:31:40,255
+Don't become one now.
+
+479
+00:31:40,432 --> 00:31:41,900
+[GRUNTS]
+
+480
+00:31:44,703 --> 00:31:47,070
+-I'm sorry. I didn't see him.
+BETTE: Don't be.
+
+481
+00:31:47,239 --> 00:31:50,436
+It's not your fault. I'm glad you stopped me.
+
+482
+00:31:50,609 --> 00:31:52,600
+-I'll get you back to S.T.A.R. Labs.
+-Barry.
+
+483
+00:31:53,211 --> 00:31:55,646
+Dr. Wells, he...
+
+484
+00:31:55,814 --> 00:31:57,748
+He...
+
+485
+00:32:10,462 --> 00:32:12,328
+BARRY: <i>We have a problem.
+-Is</i> Bette okay?
+
+486
+00:32:14,065 --> 00:32:16,159
+No. Eiling killed her.
+
+487
+00:32:17,836 --> 00:32:20,897
+-She's glowing. She's gonna detonate.
+CAITLIN: Oh, my God.
+
+488
+00:32:21,072 --> 00:32:24,007
+-A mass that size, the explosion would be--
+Devastating.
+
+489
+00:32:24,176 --> 00:32:28,670
+-You have to get her away from the city.
+-But there's no time.
+
+490
+00:32:30,415 --> 00:32:32,440
+Can I run on water?
+
+491
+00:32:32,984 --> 00:32:37,114
+I built up enough speed to run up a building.
+How fast do I need to go to run on water?
+
+492
+00:32:37,289 --> 00:32:39,121
+Assuming your weight...
+
+493
+00:32:39,291 --> 00:32:43,091
+...450 pounds of force per step
+for vertical suspension.
+
+494
+00:32:43,261 --> 00:32:46,822
+-Accounting for fluid drag...
+Approximately 650 miles an hour.
+
+495
+00:32:46,998 --> 00:32:50,935
+You have to outrun the blast,
+or you'll die too.
+
+496
+00:34:15,253 --> 00:34:16,846
+<i>Nothing out of the ordinary occurred.</i>
+
+497
+00:34:17,022 --> 00:34:21,118
+<i>The military was simply conducting
+an underwater weapons test.</i>
+
+498
+00:34:21,293 --> 00:34:23,557
+<i>There is no need for panic or alarm.</i>
+
+499
+00:34:23,762 --> 00:34:26,231
+<i>Central City is safe, | guarantee you.</i>
+
+500
+00:34:26,398 --> 00:34:31,632
+He murdered Bette right in front of me,
+and there's nothing we can do to him?
+
+501
+00:34:31,803 --> 00:34:34,135
+Powerful men have a way
+of avoiding consequences.
+
+502
+00:34:35,707 --> 00:34:38,733
+-You gonna be okay?
+-Yeah.
+
+503
+00:34:38,910 --> 00:34:40,969
+You can walk on water.
+
+504
+00:34:41,146 --> 00:34:43,706
+Puts you in pretty interesting company.
+
+505
+00:34:57,329 --> 00:35:00,230
+If you came to do laundry,
+I already have a load in.
+
+506
+00:35:02,233 --> 00:35:06,795
+Uh, no, I came to talk.
+
+507
+00:35:07,405 --> 00:35:09,066
+[BARRY CLEARS THROAT]
+
+508
+00:35:09,574 --> 00:35:10,939
+I----
+
+509
+00:35:16,081 --> 00:35:17,480
+[SIGHS]
+
+510
+00:35:20,085 --> 00:35:21,348
+I was working a case
+
+511
+00:35:23,088 --> 00:35:26,353
+...someone I really thought
+I could help befriend...
+
+512
+00:35:26,524 --> 00:35:29,619
+...but they died.
+
+513
+00:35:29,828 --> 00:35:31,125
+Barry, I'm really sorry.
+
+514
+00:35:31,329 --> 00:35:35,095
+I didn't know her that well, but it still hurts.
+
+515
+00:35:36,134 --> 00:35:39,297
+And as bad as I feel right now...
+
+516
+00:35:39,471 --> 00:35:44,432
+...I know how much worse it is
+to lose someone who's family.
+
+517
+00:35:46,344 --> 00:35:49,439
+Iris, writing about this stuff...
+
+518
+00:35:49,614 --> 00:35:52,276
+...putting your name out there,
+it's dangerous.
+
+519
+00:35:53,485 --> 00:35:58,980
+So I'm asking you one last time,
+please stop.
+
+520
+00:35:59,157 --> 00:36:05,119
+And I am asking you one last time
+to tell me what is really going on with you.
+
+521
+00:36:05,463 --> 00:36:08,296
+Why am I the only one of us
+who's interested in this?
+
+522
+00:36:21,980 --> 00:36:27,316
+I guess just all this stuff with my family,
+l finally just...
+
+523
+00:36:27,819 --> 00:36:30,015
+...put it behind me.
+
+524
+00:36:30,188 --> 00:36:32,816
+I'm asking you to also.
+
+525
+00:36:35,160 --> 00:36:39,529
+That may have been how this started,
+but it's about something more for me now.
+
+526
+00:36:40,932 --> 00:36:44,493
+Whoever this Streak is,
+wherever he comes from...
+
+527
+00:36:44,669 --> 00:36:48,697
+...I am not stopping
+until the rest of the world believes in him.
+
+528
+00:36:59,517 --> 00:37:02,509
+Maybe we shouldn't see each other
+for a while.
+
+529
+00:37:06,357 --> 00:37:07,916
+Yeah.
+
+530
+00:37:27,746 --> 00:37:30,807
+Can I get another club soda, please?
+
+531
+00:37:35,386 --> 00:37:36,478
+Hey.
+
+532
+00:37:36,654 --> 00:37:40,147
+-Hey. What are you guys doing here?
+-We thought we should have a toast.
+
+533
+00:37:41,059 --> 00:37:42,891
+Doesn't work on me, remember?
+
+534
+00:37:43,061 --> 00:37:46,827
+Barry Allen, you of all people should know
+that nothing is impossible.
+
+535
+00:37:48,500 --> 00:37:52,164
+I distilled a highly fermented
+potent suspension.
+
+536
+00:37:52,337 --> 00:37:53,896
+It's basically SOC-proof.
+
+537
+00:37:55,073 --> 00:37:57,974
+I figured if anybody could use
+a drink tonight, it was you.
+
+538
+00:37:59,477 --> 00:38:01,241
+So here's to Bette.
+
+539
+00:38:03,181 --> 00:38:04,410
+Bette.
+
+540
+00:38:10,321 --> 00:38:11,584
+[COUGHING]
+
+541
+00:38:11,756 --> 00:38:13,952
+Whoa. Oh!
+
+542
+00:38:14,125 --> 00:38:16,321
+-That hits you quick.
+-Are you buzzed?
+
+543
+00:38:16,494 --> 00:38:18,087
+Um...
+
+544
+00:38:18,263 --> 00:38:21,426
+Yeah. Heh. Yeah, I'm buzzed for sure.
+
+545
+00:38:21,866 --> 00:38:22,924
+Whoa.
+
+546
+00:38:23,101 --> 00:38:25,536
+Oh, that is good stuff.
+
+547
+00:38:25,703 --> 00:38:26,761
+[BARRY CHUCKLES]
+
+548
+00:38:28,106 --> 00:38:29,267
+And it's gone.
+
+549
+00:38:30,608 --> 00:38:32,474
+-Right.
+-Work in progress.
+
+550
+00:38:32,644 --> 00:38:35,978
+BARRY: <i>For a guy who has experienced
+his fair share of mysteries...</i>
+
+551
+00:38:36,147 --> 00:38:41,449
+<i>...one mystery 1 still can't figure out
+is why some people come into our lives...</i>
+
+552
+00:38:41,619 --> 00:38:45,453
+<i>...why some people go,
+and others become a part of you.</i>
+
+553
+00:38:45,623 --> 00:38:49,218
+<i>Some friendships feel like they'll last forever.</i>
+
+554
+00:38:49,394 --> 00:38:51,226
+-Hey, sweetheart.
+-Hey.
+
+555
+00:38:51,396 --> 00:38:53,956
+There's dinner in the fridge.
+
+556
+00:38:54,566 --> 00:38:56,000
+Okay, thanks.
+
+557
+00:38:56,167 --> 00:38:59,296
+-Iris, about your blog--
+-I don't wanna talk about it, okay?
+
+558
+00:38:59,470 --> 00:39:02,997
+<i>BARRY:
+And others end far too soon.</i>
+
+559
+00:39:03,174 --> 00:39:06,804
+<i>Not every friendship is meant
+to last a lifetime.</i>
+
+560
+00:39:06,978 --> 00:39:11,472
+<i>What does last forever is the pain
+when that person is gone.</i>
+
+561
+00:39:21,860 --> 00:39:23,658
+[COMPUTER BEEPING]
+
+562
+00:39:33,438 --> 00:39:35,202
+<i>EILING:
+I was wrong about you, Harrison.</i>
+
+563
+00:39:35,940 --> 00:39:37,999
+You're still one step ahead.
+
+564
+00:39:38,176 --> 00:39:40,941
+Impressive for a man
+without the use of his legs.
+
+565
+00:39:41,579 --> 00:39:43,877
+I'm afraid I don't know
+what you're talking about.
+
+566
+00:39:44,082 --> 00:39:48,610
+A girl who can transform ordinary objects
+into explosives with the touch of her hand.
+
+567
+00:39:48,786 --> 00:39:53,519
+Today I saw a man who can move faster
+than the blink of an eye. Extraordinary.
+
+568
+00:39:53,691 --> 00:39:58,629
+The night your particle accelerator died
+was the night the impossible was born.
+
+569
+00:39:58,796 --> 00:40:01,356
+I think we should start working
+together again.
+
+570
+00:40:01,532 --> 00:40:02,727
+I think you should leave.
+
+571
+00:40:02,901 --> 00:40:05,199
+I can have a squadron of soldiers
+here in minutes.
+
+572
+00:40:05,370 --> 00:40:07,964
+You know I can have an army
+of press here...like that.
+
+573
+00:40:08,139 --> 00:40:10,233
+Believe me, general,
+I'd be more than happy...
+
+574
+00:40:10,408 --> 00:40:15,369
+...to testify to your involvement in activities
+that were less than humane.
+
+575
+00:40:15,546 --> 00:40:18,811
+Threaten me again,
+and I will end you, general.
+
+576
+00:40:18,983 --> 00:40:21,645
+And I am not talking about your career.
+
+577
+00:40:26,758 --> 00:40:29,557
+You know,
+I figured out your little secret, Wells.
+
+578
+00:40:30,828 --> 00:40:33,160
+Won't be long before the public
+catches on as well.
+
+579
+00:40:46,277 --> 00:40:51,238
+-This is everything we've worked to achieve.
+-The same goals, but not the <i>same</i> means.
+
+580
+00:40:51,783 --> 00:40:54,844
+I will not have this project end
+before it even begins.
+
+581
+00:40:55,019 --> 00:40:57,249
+And as long as he's on my premises...
+
+582
+00:40:57,422 --> 00:41:00,949
+...I will not have him subjected
+to that kind of cruelty anymore. We're done.
+
+583
+00:41:03,861 --> 00:41:05,590
+We're done.
+
+584
+00:41:06,097 --> 00:41:09,931
+General, get out.
+
+585
+00:41:30,488 --> 00:41:31,785
+Hey.
+
+586
+00:41:31,956 --> 00:41:33,549
+[CREATURE GROWLING AND GRUNTING]
+
+587
+00:41:33,725 --> 00:41:35,625
+It's okay.
+
+588
+00:41:36,794 --> 00:41:39,889
+It's okay, boy. It's okay.
+
+589
+00:41:40,465 --> 00:41:42,456
+He's gone.
+
+590
+00:41:42,633 --> 00:41:44,465
+Don't you worry.
+
+591
+00:41:46,137 --> 00:41:49,129
+I have a whole different future
+in mind for you.
+
+592
+00:42:21,572 --> 00:42:23,563
+[English - us - SDH]
+

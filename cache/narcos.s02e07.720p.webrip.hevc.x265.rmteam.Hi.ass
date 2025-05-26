@@ -1,0 +1,614 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: narcos.s02e07.720p.webrip.hevc.x265.rmteam
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:19.35,0:00:21.31,Default,,0,0,0,,[indistinct chatter on radio]
+Dialogue: 0,0:00:22.39,0:00:23.98,Default,,0,0,0,,[in Spanish]\NGood morning.
+Dialogue: 0,0:00:24.65,0:00:25.86,Default,,0,0,0,,Good morning, Mom.
+Dialogue: 0,0:00:27.77,0:00:30.21,Default,,0,0,0,,- Your cat bit me again.\N- You stole my pencils.
+Dialogue: 0,0:00:30.23,0:00:32.84,Default,,0,0,0,,- Why are you fighting?\N- Because he stole my pencils!
+Dialogue: 0,0:00:32.86,0:00:34.38,Default,,0,0,0,,- She's making it up.\N- Stop fighting.
+Dialogue: 0,0:00:34.41,0:00:38.22,Default,,0,0,0,,- Let's see.\N- Let's go, sweetie. What time is it?
+Dialogue: 0,0:00:38.24,0:00:41.10,Default,,0,0,0,,- 6:40 a.m.\N- God, I'm late again.
+Dialogue: 0,0:00:41.12,0:00:43.96,Default,,0,0,0,,Remember to ask your brother\Nwhat we talked about.
+Dialogue: 0,0:00:44.58,0:00:48.19,Default,,0,0,0,,- Tell him school starts next week.\N- Yes. I'll ask him, all right?
+Dialogue: 0,0:00:48.21,0:00:51.15,Default,,0,0,0,,I still have to buy the books, everything.
+Dialogue: 0,0:00:51.17,0:00:53.57,Default,,0,0,0,,I told you I'll ask him, my love,\Nall right?
+Dialogue: 0,0:00:53.59,0:00:58.41,Default,,0,0,0,,And you still haven't tied your shoes.\NSo, like I taught you, right?
+Dialogue: 0,0:00:58.43,0:01:01.91,Default,,0,0,0,,We have the rabbit ear,\Nwe go around the tree, and...?
+Dialogue: 0,0:01:01.93,0:01:03.33,Default,,0,0,0,,And it goes in the hole.
+Dialogue: 0,0:01:03.35,0:01:05.19,Default,,0,0,0,,[explosion thunders in distance]
+Dialogue: 0,0:01:07.73,0:01:10.48,Default,,0,0,0,,- [car alarms wailing]\N- That was a loud one.
+Dialogue: 0,0:01:14.45,0:01:18.62,Default,,0,0,0,,[Steve] You threaten a man's family,\Nand you find out what he's made of.
+Dialogue: 0,0:01:19.58,0:01:23.75,Default,,0,0,0,,Pablo Escobar was made of rage,\Nrevenge and terror.
+Dialogue: 0,0:01:25.79,0:01:29.52,Default,,0,0,0,,Unable to lash out directly\Nat his enemies in Cali,
+Dialogue: 0,0:01:29.54,0:01:32.40,Default,,0,0,0,,he went after their prized\Nlegitimate business,
+Dialogue: 0,0:01:32.42,0:01:36.84,Default,,0,0,0,,one they couldn't hide:\Ntheir beloved chain of drugstores.
+Dialogue: 0,0:01:37.47,0:01:42.45,Default,,0,0,0,,And he blew them to shit along with anyone\Nunlucky enough to be standing nearby.
+Dialogue: 0,0:01:42.47,0:01:45.06,Default,,0,0,0,,We're talking dozens of bombs.
+Dialogue: 0,0:01:45.56,0:01:50.50,Default,,0,0,0,,He put the city of Bogotá on edge\Nand the Colombian government on notice.
+Dialogue: 0,0:01:50.52,0:01:55.67,Default,,0,0,0,,Continue to ignore Los Pepes, refuse to\Nacknowledge their crimes, and you're next.
+Dialogue: 0,0:01:55.69,0:01:58.22,Default,,0,0,0,,LUIS LONDOÑO WHITE, KIDNAPPER OF THOSE\NSERVING PABLO ESCOBAR
+Dialogue: 0,0:01:58.24,0:01:59.97,Default,,0,0,0,,But terror brings more terror,
+Dialogue: 0,0:01:59.99,0:02:03.68,Default,,0,0,0,,and Los Pepes responded\Nwith their own special brand.
+Dialogue: 0,0:02:03.70,0:02:05.97,Default,,0,0,0,,We came up with a name for their displays.
+Dialogue: 0,0:02:06.00,0:02:08.85,Default,,0,0,0,,- [in Spanish] Sit him there.\N- [Steve] Colombian folk art.
+Dialogue: 0,0:02:08.87,0:02:10.19,Default,,0,0,0,,[in Spanish]\NOver here.
+Dialogue: 0,0:02:10.21,0:02:13.13,Default,,0,0,0,,[Steve]\NLike I said, you can't make this shit up.
+Dialogue: 0,0:02:14.26,0:02:18.74,Default,,0,0,0,,The point of all this?\NPsychopaths sending a message...
+Dialogue: 0,0:02:18.76,0:02:19.90,Default,,0,0,0,,[laughing]
+Dialogue: 0,0:02:19.93,0:02:21.89,Default,,0,0,0,,No matter how far you go...
+Dialogue: 0,0:02:22.56,0:02:24.49,Default,,0,0,0,,[in Spanish]\NLook at that ugly son of a bitch.
+Dialogue: 0,0:02:24.52,0:02:26.64,Default,,0,0,0,,We'll take it one step further.
+Dialogue: 0,0:02:28.35,0:02:30.79,Default,,0,0,0,,The gates of hell were officially opened.
+Dialogue: 0,0:02:30.81,0:02:33.92,Default,,0,0,0,,One... two... and three.
+Dialogue: 0,0:02:33.94,0:02:37.59,Default,,0,0,0,,And everyone was scrambling\Nto get out of the fire.
+Dialogue: 0,0:02:37.61,0:02:39.70,Default,,0,0,0,,Or climb into it.
+Dialogue: 0,0:02:40.32,0:02:43.37,Default,,0,0,0,,[Latin guitar theme music plays]
+Dialogue: 0,0:04:09.87,0:04:13.02,Default,,0,0,0,,[Hermilda in Spanish] This family\Nis the only thing I care about.
+Dialogue: 0,0:04:13.04,0:04:16.27,Default,,0,0,0,,- You're the one that...\N- [Tata] Me? Me, ma'am? Me?
+Dialogue: 0,0:04:16.29,0:04:19.94,Default,,0,0,0,,[Hermilda] We shouldn't leave, Tata.\N[Tata] All of this is your fault.
+Dialogue: 0,0:04:19.96,0:04:22.84,Default,,0,0,0,,If you'd listened to Pablo,\Nmy brother would still be alive.
+Dialogue: 0,0:04:24.26,0:04:28.78,Default,,0,0,0,,[Hermilda] Because you do that so well?\NDo you listen to him?
+Dialogue: 0,0:04:28.81,0:04:34.77,Default,,0,0,0,,When you're always criticizing him,\Ndoubting him, worrying.
+Dialogue: 0,0:04:36.65,0:04:37.94,Default,,0,0,0,,[whispers] Tata.
+Dialogue: 0,0:04:41.94,0:04:43.09,Default,,0,0,0,,[door closes]
+Dialogue: 0,0:04:43.11,0:04:47.37,Default,,0,0,0,,[Hermilda]\NI would never put this family in danger.
+Dialogue: 0,0:04:48.41,0:04:50.04,Default,,0,0,0,,Tell her, Pablo.
+Dialogue: 0,0:04:50.62,0:04:53.25,Default,,0,0,0,,Tell her it's not my fault, Pablo.
+Dialogue: 0,0:04:54.79,0:04:57.89,Default,,0,0,0,,- [whispers] I know, Mom.\N- This isn't my fault. Tell her, Pablo.
+Dialogue: 0,0:04:57.92,0:05:02.46,Default,,0,0,0,,It's not your fault. I know.\NIt's not your fault.
+Dialogue: 0,0:05:03.51,0:05:05.36,Default,,0,0,0,,[sobbing]
+Dialogue: 0,0:05:05.38,0:05:07.43,Default,,0,0,0,,Everything's all right, Mom.
+Dialogue: 0,0:05:08.76,0:05:10.35,Default,,0,0,0,,It wasn't your fault.
+Dialogue: 0,0:05:11.27,0:05:13.64,Default,,0,0,0,,[takes deep breath]
+Dialogue: 0,0:05:47.76,0:05:50.35,Default,,0,0,0,,[shaky exhale]
+Dialogue: 0,0:06:09.53,0:06:11.20,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:06:16.79,0:06:20.73,Default,,0,0,0,,- [flies buzzing]\N- [Judy] Look at these smiling faces.
+Dialogue: 0,0:06:20.75,0:06:23.06,Default,,0,0,0,,We didn't want to make you\Nuncomfortable, Judy.
+Dialogue: 0,0:06:23.09,0:06:28.09,Default,,0,0,0,,How considerate of you.\NSo that's why no one called me?
+Dialogue: 0,0:06:29.47,0:06:32.35,Default,,0,0,0,,Because this lab belongs to the Moncadas.\NMmm?
+Dialogue: 0,0:06:32.97,0:06:36.79,Default,,0,0,0,,So I was supposed to be notified\Nwhen it was taken back.
+Dialogue: 0,0:06:36.81,0:06:40.94,Default,,0,0,0,,- That wasn't made clear to us.\N- I'm making it clear now, Carlos.
+Dialogue: 0,0:06:42.31,0:06:45.92,Default,,0,0,0,,- What are we going to do with that?\N- All the cocaine is going to Cali.
+Dialogue: 0,0:06:45.94,0:06:48.11,Default,,0,0,0,,That is my cocaine.
+Dialogue: 0,0:06:48.78,0:06:53.76,Default,,0,0,0,,Look, Judy, we decided that not a single\Nkilo of cocaine will be moved in Medellín
+Dialogue: 0,0:06:53.78,0:06:56.64,Default,,0,0,0,,until Pablo Escobar is dead.
+Dialogue: 0,0:06:56.66,0:07:00.10,Default,,0,0,0,,That's our strategy. To asphyxiate him.
+Dialogue: 0,0:07:00.12,0:07:04.06,Default,,0,0,0,,That's the Cali cartel's strategy?
+Dialogue: 0,0:07:04.09,0:07:06.69,Default,,0,0,0,,To keep making money\Nwhile the rest of us go hungry?
+Dialogue: 0,0:07:06.71,0:07:11.47,Default,,0,0,0,,- You know we can't trust them.\N- No. Not them or any of you.
+Dialogue: 0,0:07:12.39,0:07:16.35,Default,,0,0,0,,We don't trust any drug trafficker.
+Dialogue: 0,0:07:19.02,0:07:23.73,Default,,0,0,0,,Well, let's not get personal, Carlos.\NAll right?
+Dialogue: 0,0:07:24.40,0:07:26.15,Default,,0,0,0,,We all need friends.
+Dialogue: 0,0:07:36.41,0:07:37.87,Default,,0,0,0,,Sir, would you like some?
+Dialogue: 0,0:07:43.08,0:07:45.21,Default,,0,0,0,,[low chatter on radio]
+Dialogue: 0,0:07:49.17,0:07:50.38,Default,,0,0,0,,[gasps]
+Dialogue: 0,0:07:56.89,0:07:58.85,Default,,0,0,0,,Go, go, go, go, go!
+Dialogue: 0,0:08:01.64,0:08:04.02,Default,,0,0,0,,[broken radio chatter continues]
+Dialogue: 0,0:08:05.77,0:08:06.94,Default,,0,0,0,,[man] Sir?
+Dialogue: 0,0:08:11.45,0:08:12.74,Default,,0,0,0,,Are you all right?
+Dialogue: 0,0:08:38.89,0:08:40.64,Default,,0,0,0,,[people chatter indistinctly]
+Dialogue: 0,0:08:42.18,0:08:43.85,Default,,0,0,0,,- [gasps]\N- Are you all right?
+Dialogue: 0,0:08:45.98,0:08:47.23,Default,,0,0,0,,[car honking]
+Dialogue: 0,0:08:56.03,0:08:59.20,Default,,0,0,0,,[siren approaching]
+Dialogue: 0,0:09:00.62,0:09:03.12,Default,,0,0,0,,[indistinct chatter]
+Dialogue: 0,0:09:11.05,0:09:14.36,Default,,0,0,0,,- [in Spanish] We're done working together.\N- What's bothering you?
+Dialogue: 0,0:09:14.38,0:09:18.22,Default,,0,0,0,,The killing of innocent civilians,\Nfor starters.
+Dialogue: 0,0:09:18.93,0:09:22.41,Default,,0,0,0,,Whether they're innocent or guilty,\NI don't decide.
+Dialogue: 0,0:09:22.43,0:09:24.18,Default,,0,0,0,,That's what priests are for, no?
+Dialogue: 0,0:09:31.53,0:09:35.15,Default,,0,0,0,,The Castaños are crazier than ever,\Nand that wasn't part of the plan.
+Dialogue: 0,0:09:36.57,0:09:38.24,Default,,0,0,0,,But it's working.
+Dialogue: 0,0:09:39.20,0:09:41.62,Default,,0,0,0,,Not if I stop providing you intel.
+Dialogue: 0,0:09:43.04,0:09:47.43,Default,,0,0,0,,For what it's worth, I am on your side.
+Dialogue: 0,0:09:47.46,0:09:49.39,Default,,0,0,0,,I don't like what's happening.
+Dialogue: 0,0:09:49.42,0:09:51.88,Default,,0,0,0,,Medellín is my home\Nand I love it very much.
+Dialogue: 0,0:09:53.88,0:09:56.09,Default,,0,0,0,,As far as the methods\Nof the Castaños go...
+Dialogue: 0,0:09:57.09,0:10:02.82,Default,,0,0,0,,well, those are the methods\Nthat have Pablo's people hiding like rats.
+Dialogue: 0,0:10:02.85,0:10:06.62,Default,,0,0,0,,Including that gonorrhea of a lawyer,\NFernando Duque.
+Dialogue: 0,0:10:06.64,0:10:11.25,Default,,0,0,0,,Our guys fired a whole fucking clip\Nat him, point blank.
+Dialogue: 0,0:10:11.27,0:10:15.49,Default,,0,0,0,,Can you believe that these sons of bitches\Ndidn't hit him once?
+Dialogue: 0,0:10:16.11,0:10:18.11,Default,,0,0,0,,I need you to help me find him.
+Dialogue: 0,0:10:20.70,0:10:23.72,Default,,0,0,0,,He's Pablo's mouthpiece\Nand his connection to the government.
+Dialogue: 0,0:10:23.74,0:10:27.72,Default,,0,0,0,,What we want is to exterminate this rat.
+Dialogue: 0,0:10:27.75,0:10:33.50,Default,,0,0,0,,That way, we'll get to Pablo\Nand we can end this madness, Peña.
+Dialogue: 0,0:10:46.31,0:10:47.54,Default,,0,0,0,,[doorbell ringing]
+Dialogue: 0,0:10:47.56,0:10:50.46,Default,,0,0,0,,I've told you! You have to... [stammers]
+Dialogue: 0,0:10:50.48,0:10:54.88,Default,,0,0,0,,What are you doing?\NYou have to bring the passports.
+Dialogue: 0,0:10:54.90,0:10:59.05,Default,,0,0,0,,Juliana... they're trying to kill me.\NWe have to get out of here.
+Dialogue: 0,0:10:59.07,0:11:02.03,Default,,0,0,0,,I think you're the one\Nwho needs to leave.
+Dialogue: 0,0:11:03.16,0:11:05.93,Default,,0,0,0,,[stammers]\NCan I see Simon, at least?
+Dialogue: 0,0:11:05.95,0:11:08.77,Default,,0,0,0,,- Where... Simon!\N- Stop, Fernando!
+Dialogue: 0,0:11:08.79,0:11:10.71,Default,,0,0,0,,Simon is at school.
+Dialogue: 0,0:11:11.83,0:11:17.21,Default,,0,0,0,,Besides, this isn't even your week.\NSo, please... leave.
+Dialogue: 0,0:11:24.60,0:11:26.06,Default,,0,0,0,,[door closes upstairs]
+Dialogue: 0,0:11:41.49,0:11:42.53,Default,,0,0,0,,[alarm disarms]
+Dialogue: 0,0:11:51.71,0:11:53.35,Default,,0,0,0,,[kids laughing, chattering]
+Dialogue: 0,0:11:53.38,0:11:55.90,Default,,0,0,0,,- Oh, what's going on?\N- How are you?
+Dialogue: 0,0:11:55.92,0:11:57.44,Default,,0,0,0,,- Bye, Anda!\N- Bye!
+Dialogue: 0,0:11:57.46,0:12:00.34,Default,,0,0,0,,Where's Mom? Why do you have her car?
+Dialogue: 0,0:12:01.13,0:12:02.30,Default,,0,0,0,,Get in.
+Dialogue: 0,0:12:05.22,0:12:07.51,Default,,0,0,0,,[chatter in Spanish over radio]
+Dialogue: 0,0:12:08.39,0:12:09.41,Default,,0,0,0,,[Javier knocks]
+Dialogue: 0,0:12:09.43,0:12:12.08,Default,,0,0,0,,[in English] Hey, I need you\Nto run a trace on this name.
+Dialogue: 0,0:12:12.10,0:12:13.69,Default,,0,0,0,,- Okay.\N- Find this guy.
+Dialogue: 0,0:12:14.73,0:12:16.57,Default,,0,0,0,,All right? You look tired.
+Dialogue: 0,0:12:21.95,0:12:22.99,Default,,0,0,0,,[in Spanish]\NCome in.
+Dialogue: 0,0:12:26.95,0:12:28.74,Default,,0,0,0,,Go on, son. Sit down.
+Dialogue: 0,0:12:30.62,0:12:33.29,Default,,0,0,0,,So, you're being reassigned...
+Dialogue: 0,0:12:34.33,0:12:38.21,Default,,0,0,0,,and you will be moved into the intel unit\Nthat was formed a couple of months ago.
+Dialogue: 0,0:12:41.21,0:12:42.84,Default,,0,0,0,,You'll be all right there.
+Dialogue: 0,0:12:44.89,0:12:47.26,Default,,0,0,0,,You're sending me to an office\Nbecause I made a mistake?
+Dialogue: 0,0:12:50.52,0:12:51.60,Default,,0,0,0,,Anything else?
+Dialogue: 0,0:12:59.57,0:13:01.07,Default,,0,0,0,,Yes, sir, Colonel.
+Dialogue: 0,0:13:07.74,0:13:11.12,Default,,0,0,0,,[door opens, closes]
+Dialogue: 0,0:13:21.46,0:13:23.13,Default,,0,0,0,,How are you, Papa?
+Dialogue: 0,0:13:27.84,0:13:29.36,Default,,0,0,0,,And you?
+Dialogue: 0,0:13:29.39,0:13:33.43,Default,,0,0,0,,- How long will we be there?\N- Not long.
+Dialogue: 0,0:13:34.94,0:13:38.69,Default,,0,0,0,,Just long enough for me\Nto get some things figured out here.
+Dialogue: 0,0:13:43.74,0:13:46.53,Default,,0,0,0,,Do you remember when\Nwe went to the United States?
+Dialogue: 0,0:13:48.41,0:13:50.97,Default,,0,0,0,,It's going to be an adventure,\Njust like that.
+Dialogue: 0,0:13:50.99,0:13:52.62,Default,,0,0,0,,Do they have Disney World there?
+Dialogue: 0,0:13:56.00,0:13:58.21,Default,,0,0,0,,Mmm, I don't think so.
+Dialogue: 0,0:14:13.93,0:14:18.19,Default,,0,0,0,,Listen to your mother\Nand your grandmother. All right?
+Dialogue: 0,0:14:21.23,0:14:24.78,Default,,0,0,0,,I made more than one reservation so\Nno one would know what flight you're on.
+Dialogue: 0,0:14:25.65,0:14:28.67,Default,,0,0,0,,I spoke to Fernando\Nand he said it's perfectly legal.
+Dialogue: 0,0:14:28.70,0:14:32.72,Default,,0,0,0,,You have every right to leave the country.
+Dialogue: 0,0:14:32.74,0:14:36.25,Default,,0,0,0,,- It's like a normal trip.\N- A normal trip?
+Dialogue: 0,0:14:36.87,0:14:38.83,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:14:41.50,0:14:42.92,Default,,0,0,0,,[Pablo] Mmm.
+Dialogue: 0,0:14:43.84,0:14:48.03,Default,,0,0,0,,Confess. Do you regret it?
+Dialogue: 0,0:14:48.05,0:14:50.34,Default,,0,0,0,,Marrying me, or what?
+Dialogue: 0,0:14:51.64,0:14:52.68,Default,,0,0,0,,Not for a second.
+Dialogue: 0,0:15:04.94,0:15:06.94,Default,,0,0,0,,[softly]\NThey may separate us...
+Dialogue: 0,0:15:09.15,0:15:12.49,Default,,0,0,0,,but they'll never be able to destroy us.
+Dialogue: 0,0:15:21.58,0:15:22.88,Default,,0,0,0,,Go.
+Dialogue: 0,0:15:33.76,0:15:36.95,Default,,0,0,0,,[whispers]\NThe little bunny. The little bunny.
+Dialogue: 0,0:15:36.97,0:15:39.14,Default,,0,0,0,,I'll take care of him, all right?
+Dialogue: 0,0:15:39.98,0:15:41.44,Default,,0,0,0,,Give me a kiss.
+Dialogue: 0,0:15:55.33,0:15:57.12,Default,,0,0,0,,[engine starts]
+Dialogue: 0,0:16:29.99,0:16:32.03,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:16:34.28,0:16:39.04,Default,,0,0,0,,[Steve] Pablo was right. The government\Ncouldn't stop his family from leaving.
+Dialogue: 0,0:16:39.66,0:16:43.92,Default,,0,0,0,,But if you remember, he had\Nsome bad history with Avianca Airlines.
+Dialogue: 0,0:16:46.67,0:16:49.15,Default,,0,0,0,,And they made sure as shit\Nthat everybody knew
+Dialogue: 0,0:16:49.17,0:16:51.63,Default,,0,0,0,,the Escobars were trying to fly the coop.
+Dialogue: 0,0:16:54.22,0:16:58.82,Default,,0,0,0,,[in English] What we know is that Escobar\Nbought tickets for his family
+Dialogue: 0,0:16:58.85,0:17:02.33,Default,,0,0,0,,on eight different outgoing flights\Nfrom Bogotá.
+Dialogue: 0,0:17:02.35,0:17:06.00,Default,,0,0,0,,Destinations ranging\Nfrom Barcelona to Toronto.
+Dialogue: 0,0:17:06.02,0:17:08.58,Default,,0,0,0,,Mr. President,\Nwe need to prevent that from happening.
+Dialogue: 0,0:17:08.61,0:17:12.29,Default,,0,0,0,,We need to keep the family in play.\NIf they're allowed to leave Colombia,
+Dialogue: 0,0:17:12.32,0:17:14.30,Default,,0,0,0,,we're gonna lose leverage\Nin the hunt for Escobar.
+Dialogue: 0,0:17:14.32,0:17:17.80,Default,,0,0,0,,Legally, there's no way we can stop them\Nfrom flying out of the country.
+Dialogue: 0,0:17:17.82,0:17:19.30,Default,,0,0,0,,By applying pressure behind the scenes,
+Dialogue: 0,0:17:19.33,0:17:21.51,Default,,0,0,0,,we can prevent the family\Nfrom being accepted upon arrival.
+Dialogue: 0,0:17:21.54,0:17:26.14,Default,,0,0,0,,And if they're kept in Colombia,\Nhe's gonna be worried about their safety.
+Dialogue: 0,0:17:26.17,0:17:32.36,Default,,0,0,0,,He'll be more likely to make phone\Ncontact, more likely to... make mistakes.
+Dialogue: 0,0:17:32.38,0:17:36.68,Default,,0,0,0,,Because they're more likely\Nto become victims of Los Pepes.
+Dialogue: 0,0:17:42.31,0:17:46.75,Default,,0,0,0,,Mr. President... if the family gets safe\Nhaven, there's no telling what comes next.
+Dialogue: 0,0:17:46.77,0:17:50.90,Default,,0,0,0,,Maybe Escobar surrenders,\Nmaybe he goes to war.
+Dialogue: 0,0:17:51.98,0:17:55.78,Default,,0,0,0,,The family is leverage. We have to use it.
+Dialogue: 0,0:18:05.79,0:18:06.79,Default,,0,0,0,,I agree.
+Dialogue: 0,0:18:09.50,0:18:13.98,Default,,0,0,0,,I want one of your people with them\Ngiving us updates, running interference,
+Dialogue: 0,0:18:14.01,0:18:17.05,Default,,0,0,0,,and have them find out\Nwhere they're going. And stick with them.
+Dialogue: 0,0:18:18.59,0:18:21.01,Default,,0,0,0,,[retreating footsteps]
+Dialogue: 0,0:18:25.10,0:18:26.68,Default,,0,0,0,,[phone rings]
+Dialogue: 0,0:18:31.86,0:18:33.54,Default,,0,0,0,,- Murphy.\N- Hey, it's Messina.
+Dialogue: 0,0:18:33.57,0:18:36.67,Default,,0,0,0,,I need you to grab your passport\Nand head to Bogotá International.
+Dialogue: 0,0:18:36.69,0:18:37.59,Default,,0,0,0,,Where?
+Dialogue: 0,0:18:37.61,0:18:41.01,Default,,0,0,0,,The Escobars are trying to flee the\Ncountry. Wherever they go, follow them.
+Dialogue: 0,0:18:41.03,0:18:44.39,Default,,0,0,0,,- Yeah. When?\N- Now. Once you spot them, check in.
+Dialogue: 0,0:18:44.41,0:18:47.33,Default,,0,0,0,,- And Murphy, keep this under wraps.\N- Yes, ma'am.
+Dialogue: 0,0:18:48.29,0:18:49.89,Default,,0,0,0,,Who was that?
+Dialogue: 0,0:18:49.92,0:18:51.21,Default,,0,0,0,,Messina.
+Dialogue: 0,0:18:53.71,0:18:56.34,Default,,0,0,0,,- Where you going?\N- Going out.
+Dialogue: 0,0:18:57.09,0:18:59.53,Default,,0,0,0,,- With your passport?\N- Yep.
+Dialogue: 0,0:18:59.55,0:19:01.72,Default,,0,0,0,,- Oh, that's all I get?\N- Yep.
+Dialogue: 0,0:19:04.10,0:19:06.77,Default,,0,0,0,,[indistinct chatter over PA]
+Dialogue: 0,0:19:12.02,0:19:15.63,Default,,0,0,0,,- Uh, I'd like to get some tickets, please.\N- For... which flight, sir?
+Dialogue: 0,0:19:15.65,0:19:17.65,Default,,0,0,0,,Let's see. Madrid, London...
+Dialogue: 0,0:19:32.00,0:19:34.52,Default,,0,0,0,,It's Murphy. Get me Messina.
+Dialogue: 0,0:19:34.54,0:19:38.15,Default,,0,0,0,,- Messina.\N- Hey, it's me. It's the Frankfurt flight.
+Dialogue: 0,0:19:38.17,0:19:39.88,Default,,0,0,0,,Germany. Shit.
+Dialogue: 0,0:19:40.51,0:19:43.99,Default,,0,0,0,,Yes, Mr. Foreign Minister, but I'm not\Ntalking about some Turkish date farmer
+Dialogue: 0,0:19:44.01,0:19:47.72,Default,,0,0,0,,looking to drive a taxi in Berlin.\NI'm talking about Pablo Escobar's family.
+Dialogue: 0,0:19:48.39,0:19:49.60,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:19:50.19,0:19:53.71,Default,,0,0,0,,No. No, they haven't committed any crimes.
+Dialogue: 0,0:19:53.73,0:19:57.00,Default,,0,0,0,,[Steve]\NDue to events in their fairly recent past,
+Dialogue: 0,0:19:57.03,0:20:00.65,Default,,0,0,0,,Germany had some of the softest\Nimmigration standards in Europe.
+Dialogue: 0,0:20:01.65,0:20:05.13,Default,,0,0,0,,If you had a pulse,\Nthey tended to let you in.
+Dialogue: 0,0:20:05.16,0:20:08.10,Default,,0,0,0,,Now maybe that was good for mankind,
+Dialogue: 0,0:20:08.12,0:20:11.35,Default,,0,0,0,,and it was certainly good\Nfor the Escobars.
+Dialogue: 0,0:20:11.37,0:20:13.48,Default,,0,0,0,,It was very bad for us.
+Dialogue: 0,0:20:13.50,0:20:15.54,Default,,0,0,0,,[opera music plays on radio]
+Dialogue: 0,0:20:22.13,0:20:25.18,Default,,0,0,0,,[in Spanish] Sergeant. Private\NHugo Martinez Jr. at your service, sir.
+Dialogue: 0,0:20:29.27,0:20:30.27,Default,,0,0,0,,[clears throat]
+Dialogue: 0,0:20:32.48,0:20:33.81,Default,,0,0,0,,The colonel's son.
+Dialogue: 0,0:20:36.86,0:20:38.94,Default,,0,0,0,,He said you have some\Ntechnical background.
+Dialogue: 0,0:20:40.94,0:20:43.53,Default,,0,0,0,,I took a couple\Nof engineering classes, sir.
+Dialogue: 0,0:20:44.07,0:20:47.20,Default,,0,0,0,,And I built a ham in my parents' house.
+Dialogue: 0,0:20:48.24,0:20:52.33,Default,,0,0,0,,Great. What do you know about RDF?
+Dialogue: 0,0:20:55.88,0:20:57.29,Default,,0,0,0,,The basic concept, sir.
+Dialogue: 0,0:20:58.71,0:21:00.13,Default,,0,0,0,,The basic concept.
+Dialogue: 0,0:21:03.97,0:21:05.09,Default,,0,0,0,,All right.
+Dialogue: 0,0:21:06.55,0:21:10.03,Default,,0,0,0,,Get acquainted.\NWe go out tomorrow afternoon.
+Dialogue: 0,0:21:10.06,0:21:11.66,Default,,0,0,0,,And don't worry.
+Dialogue: 0,0:21:11.68,0:21:15.73,Default,,0,0,0,,Unlike Carlos Castaño,\Nthis won't hit back.
+Dialogue: 0,0:21:31.08,0:21:33.93,Default,,0,0,0,,What's going on?\NI'm going to freeze to death out here.
+Dialogue: 0,0:21:33.96,0:21:35.47,Default,,0,0,0,,[man]\NThat's Bogotá. What do you expect?
+Dialogue: 0,0:21:35.50,0:21:39.90,Default,,0,0,0,,Hey! What the fuck is wrong with you?\NWhy are you not working?
+Dialogue: 0,0:21:39.92,0:21:42.23,Default,,0,0,0,,Get to work.\NI'm not paying you with candy.
+Dialogue: 0,0:21:42.26,0:21:44.98,Default,,0,0,0,,- Okay, okay.\N- [Blackie] Pass me the phone, boy.
+Dialogue: 0,0:21:45.01,0:21:48.70,Default,,0,0,0,,Make some fucking bombs.\NYou need an invitation to start working?
+Dialogue: 0,0:21:48.72,0:21:53.66,Default,,0,0,0,,- [men murmur indistinctly]\N- Hurry, boy! You get to work too!
+Dialogue: 0,0:21:53.68,0:21:55.70,Default,,0,0,0,,And don't smoke near the gunpowder.
+Dialogue: 0,0:21:55.73,0:21:56.79,Default,,0,0,0,,[grumbles]
+Dialogue: 0,0:21:56.81,0:21:58.66,Default,,0,0,0,,- [men chatter in Spanish]\N- [Blackie dialing]
+Dialogue: 0,0:21:58.69,0:22:00.23,Default,,0,0,0,,[line ringing]
+Dialogue: 0,0:22:01.82,0:22:05.13,Default,,0,0,0,,Hey, boss.\NI just came back from the airport.
+Dialogue: 0,0:22:05.15,0:22:09.01,Default,,0,0,0,,Ms. Tata, the kids and your mother\Nare on the plane, boss.
+Dialogue: 0,0:22:09.03,0:22:10.62,Default,,0,0,0,,Thank the Virgin Mary.
+Dialogue: 0,0:22:12.33,0:22:15.76,Default,,0,0,0,,That's the most important thing.\NThey're flying now.
+Dialogue: 0,0:22:15.79,0:22:17.35,Default,,0,0,0,,One more thing.
+Dialogue: 0,0:22:17.37,0:22:20.35,Default,,0,0,0,,We hit those fucking drugstores\Npretty hard.
+Dialogue: 0,0:22:20.38,0:22:23.06,Default,,0,0,0,,You tell us. Should we come home or...
+Dialogue: 0,0:22:23.09,0:22:27.03,Default,,0,0,0,,No. Stay put. We're not done yet.
+Dialogue: 0,0:22:27.05,0:22:29.49,Default,,0,0,0,,- I may need you again.\N- Mmm.
+Dialogue: 0,0:22:29.51,0:22:31.28,Default,,0,0,0,,Copy that, boss.
+Dialogue: 0,0:22:31.30,0:22:32.56,Default,,0,0,0,,Thank you, Blackie.
+Dialogue: 0,0:22:37.27,0:22:38.52,Default,,0,0,0,,[low grunt]
+Dialogue: 0,0:22:45.86,0:22:50.20,Default,,0,0,0,,Figure out... what...\Nwhat time it is in Germany.
+Dialogue: 0,0:22:51.74,0:22:53.20,Default,,0,0,0,,On it, boss.
+Dialogue: 0,0:23:04.75,0:23:06.21,Default,,0,0,0,,[Limón, voice distant]\NBoss! Boss!
+Dialogue: 0,0:23:06.92,0:23:10.01,Default,,0,0,0,,[indistinct chatter, echoing]
+Dialogue: 0,0:23:10.97,0:23:12.35,Default,,0,0,0,,[Limón]\NBoss!
+Dialogue: 0,0:23:22.15,0:23:25.44,Default,,0,0,0,,[practicing German phrases]
+Dialogue: 0,0:23:44.13,0:23:46.61,Default,,0,0,0,,[in English] Got a bump on your guy.\NAbout an hour ago.
+Dialogue: 0,0:23:46.63,0:23:51.69,Default,,0,0,0,,Credit card belonging to Fernando Duque.\NUsed twice, restaurants.
+Dialogue: 0,0:23:51.72,0:23:54.43,Default,,0,0,0,,Here, here, a couple streets over.
+Dialogue: 0,0:23:55.39,0:23:59.16,Default,,0,0,0,,Check this out.\NRan him through the CNP database.
+Dialogue: 0,0:23:59.18,0:24:02.08,Default,,0,0,0,,A complaint got filed this morning.\NYour boy's wanted.
+Dialogue: 0,0:24:02.10,0:24:05.02,Default,,0,0,0,,- For what?\N- Kidnapping and car theft.
+Dialogue: 0,0:24:05.65,0:24:08.65,Default,,0,0,0,,Filed by his ex-wife. It's a blue Volvo.
+Dialogue: 0,0:24:09.90,0:24:13.09,Default,,0,0,0,,He's running. And he's taking his kid.
+Dialogue: 0,0:24:13.11,0:24:14.87,Default,,0,0,0,,He's 14 years old. Fuck.
+Dialogue: 0,0:24:19.75,0:24:21.50,Default,,0,0,0,,[line ringing]
+Dialogue: 0,0:24:23.67,0:24:24.67,Default,,0,0,0,,[Javier]\NPeña.
+Dialogue: 0,0:24:25.29,0:24:27.77,Default,,0,0,0,,[in Spanish]\NAny word on our friend?
+Dialogue: 0,0:24:27.80,0:24:29.38,Default,,0,0,0,,Did you find him?
+Dialogue: 0,0:24:32.59,0:24:35.39,Default,,0,0,0,,- Peña?\N- Not yet.
+Dialogue: 0,0:24:54.03,0:24:55.70,Default,,0,0,0,,[phone rings]
+Dialogue: 0,0:24:56.78,0:24:58.68,Default,,0,0,0,,- Messina.\N- [Javier in English] Hey, boss.
+Dialogue: 0,0:24:58.70,0:25:02.72,Default,,0,0,0,,I think Fernando Duque's on the run.\NHe's got his kid with him.
+Dialogue: 0,0:25:02.75,0:25:05.73,Default,,0,0,0,,If he's that scared, maybe he's willing\Nto drop privilege and cooperate.
+Dialogue: 0,0:25:05.75,0:25:07.54,Default,,0,0,0,,Yeah, that's what I'm thinking. I...
+Dialogue: 0,0:25:09.05,0:25:11.19,Default,,0,0,0,,I might have an idea where he's holed up.
+Dialogue: 0,0:25:11.21,0:25:14.36,Default,,0,0,0,,If he comes through for us, you think\Nwe can get him out of the country?
+Dialogue: 0,0:25:14.38,0:25:17.78,Default,,0,0,0,,- If he'll cooperate, yes. Look into it.\N- You got it.
+Dialogue: 0,0:25:17.80,0:25:19.49,Default,,0,0,0,,- And Peña.\N- Yeah.
+Dialogue: 0,0:25:19.51,0:25:21.06,Default,,0,0,0,,How did all this come up?
+Dialogue: 0,0:25:22.89,0:25:26.50,Default,,0,0,0,,My CI knows a girl he sees.\NKind of fell into my lap.
+Dialogue: 0,0:25:26.52,0:25:30.11,Default,,0,0,0,,- Mmm-hmm. Get on it.\N- Yeah, boss.
+Dialogue: 0,0:25:33.65,0:25:35.53,Default,,0,0,0,,[Trujillo in Spanish]\NWhat's up, Peña?
+Dialogue: 0,0:25:36.41,0:25:38.03,Default,,0,0,0,,Are we getting a beer or what?
+Dialogue: 0,0:25:40.28,0:25:41.79,Default,,0,0,0,,Another day, brother.
+Dialogue: 0,0:25:43.37,0:25:44.81,Default,,0,0,0,,See you tomorrow.
+Dialogue: 0,0:25:44.83,0:25:45.92,Default,,0,0,0,,[Trujillo] Okay.
+Dialogue: 0,0:25:51.80,0:25:54.15,Default,,0,0,0,,[siren wails in distance]
+Dialogue: 0,0:25:54.17,0:25:56.09,Default,,0,0,0,,[low TV chatter]
+Dialogue: 0,0:25:59.05,0:26:00.61,Default,,0,0,0,,No, no, no. What are you doing, Simon?
+Dialogue: 0,0:26:00.64,0:26:04.06,Default,,0,0,0,,Leave it where it is.\NI'm listening to the news.
+Dialogue: 0,0:26:05.27,0:26:07.45,Default,,0,0,0,,What are we doing here?
+Dialogue: 0,0:26:07.48,0:26:09.94,Default,,0,0,0,,I told you. We're going on a trip.
+Dialogue: 0,0:26:10.44,0:26:12.48,Default,,0,0,0,,And what's happening? Where's my mom?
+Dialogue: 0,0:26:13.73,0:26:17.05,Default,,0,0,0,,Simon... calm down.\NI already spoke to your mother.
+Dialogue: 0,0:26:17.07,0:26:19.41,Default,,0,0,0,,You got yourself into trouble, didn't you?
+Dialogue: 0,0:26:21.24,0:26:22.99,Default,,0,0,0,,It's because you work for Pablo Escobar.
+Dialogue: 0,0:26:25.50,0:26:27.12,Default,,0,0,0,,That's why this is happening.
+Dialogue: 0,0:26:32.04,0:26:33.42,Default,,0,0,0,,You're his lawyer.
+Dialogue: 0,0:26:36.30,0:26:38.13,Default,,0,0,0,,What are we going to do now?
+Dialogue: 0,0:26:40.14,0:26:42.51,Default,,0,0,0,,I have a plan. Calm down.
+Dialogue: 0,0:26:43.39,0:26:47.73,Default,,0,0,0,,You don't have a plan, Dad.\NYou're a son of a bitch. A fucking thief.
+Dialogue: 0,0:26:48.77,0:26:52.15,Default,,0,0,0,,[softly]\NDid you say "son of a bitch"? "Thief"?
+Dialogue: 0,0:26:53.19,0:26:56.99,Default,,0,0,0,,I'm a lawyer. I'm a good lawyer.
+Dialogue: 0,0:26:58.36,0:27:02.43,Default,,0,0,0,,All of the money this family has,\Nwe have because I've been a good lawyer.
+Dialogue: 0,0:27:02.45,0:27:05.60,Default,,0,0,0,,- I do my job.\N- I want to call my mom.
+Dialogue: 0,0:27:05.62,0:27:07.76,Default,,0,0,0,,You want to call your mom?
+Dialogue: 0,0:27:07.79,0:27:11.27,Default,,0,0,0,,Do you want to call your mom,\Nor do you want to behave like a man?
+Dialogue: 0,0:27:11.29,0:27:15.11,Default,,0,0,0,,Are you going to be a pussy\Nand call your mom? That's a great idea.
+Dialogue: 0,0:27:15.13,0:27:18.69,Default,,0,0,0,,Let's call her so she can tell you where\Nall the money for your toys came from.
+Dialogue: 0,0:27:18.72,0:27:22.43,Default,,0,0,0,,Your room full of toys.\NWhere do you think it came from?
+Dialogue: 0,0:27:23.26,0:27:26.70,Default,,0,0,0,,Hmm? You didn't complain\Nduring the Christmases or the birthdays
+Dialogue: 0,0:27:26.72,0:27:29.04,Default,,0,0,0,,or when I bought you a motorcycle.
+Dialogue: 0,0:27:29.06,0:27:32.65,Default,,0,0,0,,But now you're complaining.\NVery well. Very well. It's over.
+Dialogue: 0,0:27:33.77,0:27:37.49,Default,,0,0,0,,It's over! Now that they're\Ngoing to kill me, it's over.
+Dialogue: 0,0:27:46.45,0:27:48.76,Default,,0,0,0,,[Simon sniffles softly]
+Dialogue: 0,0:27:48.79,0:27:51.25,Default,,0,0,0,,I'm sorry... Simon.
+Dialogue: 0,0:27:53.29,0:27:55.31,Default,,0,0,0,,[whispers]\NI didn't mean to say that.
+Dialogue: 0,0:27:55.34,0:27:56.55,Default,,0,0,0,,Forgive me.
+Dialogue: 0,0:27:57.84,0:28:00.80,Default,,0,0,0,,Everything will be all right.\NForgive me.
+Dialogue: 0,0:28:10.81,0:28:13.48,Default,,0,0,0,,[air hissing]
+Dialogue: 0,0:28:17.19,0:28:19.21,Default,,0,0,0,,Was it a heart attack or what?
+Dialogue: 0,0:28:19.24,0:28:20.69,Default,,0,0,0,,[Ricardo]\NYou fainted, Pablo.
+Dialogue: 0,0:28:24.57,0:28:26.74,Default,,0,0,0,,How many of those are you taking?
+Dialogue: 0,0:28:28.79,0:28:31.60,Default,,0,0,0,,I've had a terrible headache.
+Dialogue: 0,0:28:31.62,0:28:34.48,Default,,0,0,0,,- Those aren't any good, Pablo.\N- [removes blood pressure cuff]
+Dialogue: 0,0:28:34.50,0:28:37.04,Default,,0,0,0,,You shouldn't put so much shit\Nin your body.
+Dialogue: 0,0:28:39.38,0:28:44.65,Default,,0,0,0,,You're better off... taking these drops.\NThey're homeopathic.
+Dialogue: 0,0:28:44.68,0:28:47.97,Default,,0,0,0,,Three drops under your tongue\Nin the morning and two at night.
+Dialogue: 0,0:28:57.65,0:28:59.69,Default,,0,0,0,,Have you ever been to Disney World?
+Dialogue: 0,0:29:00.94,0:29:02.24,Default,,0,0,0,,I haven't.
+Dialogue: 0,0:29:04.45,0:29:06.16,Default,,0,0,0,,It's beautiful.
+Dialogue: 0,0:29:08.03,0:29:11.20,Default,,0,0,0,,It's very organized. Very clean.
+Dialogue: 0,0:29:15.33,0:29:17.33,Default,,0,0,0,,What's wrong with me, Ricardo?
+Dialogue: 0,0:29:18.54,0:29:20.31,Default,,0,0,0,,Stress.
+Dialogue: 0,0:29:20.34,0:29:21.94,Default,,0,0,0,,[Pablo] Mmm.
+Dialogue: 0,0:29:21.96,0:29:23.51,Default,,0,0,0,,Stress is dangerous.
+Dialogue: 0,0:29:24.18,0:29:26.09,Default,,0,0,0,,How's the weed working out?
+Dialogue: 0,0:29:27.47,0:29:30.06,Default,,0,0,0,,I haven't been smoking a lot.
+Dialogue: 0,0:29:31.64,0:29:36.71,Default,,0,0,0,,The first man who smoked marijuana\Nwas a Chinese emperor.
+Dialogue: 0,0:29:36.73,0:29:40.92,Default,,0,0,0,,He burned the plant because\Nhe was attracted to its smell.
+Dialogue: 0,0:29:40.94,0:29:44.53,Default,,0,0,0,,But when he inhaled the smoke,\Nhe saw a blue jay.
+Dialogue: 0,0:29:46.66,0:29:51.47,Default,,0,0,0,,And the bird told him\Nto conquer his neighboring empires.
+Dialogue: 0,0:29:51.49,0:29:53.08,Default,,0,0,0,,And that's what he did.
+Dialogue: 0,0:29:57.50,0:29:58.54,Default,,0,0,0,,All right.
+Dialogue: 0,0:30:00.50,0:30:02.84,Default,,0,0,0,,With you until death, Don Pablo.
+Dialogue: 0,0:30:03.96,0:30:05.30,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:30:07.26,0:30:10.60,Default,,0,0,0,,I'd like to stay and stand guard.
+Dialogue: 0,0:30:15.10,0:30:17.98,Default,,0,0,0,,All right. Thank you.
+Dialogue: 0,0:30:33.12,0:30:36.87,Default,,0,0,0,,Let's see, darling.\NColor inside the lines.
+Dialogue: 0,0:30:38.46,0:30:39.88,Default,,0,0,0,,There it is.
+Dialogue: 0,0:30:57.69,0:31:00.65,Default,,0,0,0,,[woman speaks in German over PA]
+Dialogue: 0,0:31:05.19,0:31:07.46,Default,,0,0,0,,[woman in English]\NAttention, ladies and gentlemen:
+Dialogue: 0,0:31:07.49,0:31:10.82,Default,,0,0,0,,We will be passing around\Nimmigration cards.
+Dialogue: 0,0:31:17.58,0:31:20.35,Default,,0,0,0,,[low chatter]
+Dialogue: 0,0:31:20.37,0:31:22.63,Default,,0,0,0,,[quietly in Spanish]\NThis is our stop.
+Dialogue: 0,0:31:27.46,0:31:29.61,Default,,0,0,0,,Foreign ministry isn't cooperating.\NWe need more time.
+Dialogue: 0,0:31:29.63,0:31:31.68,Default,,0,0,0,,Don't let them leave the airport.
+Dialogue: 0,0:31:32.26,0:31:35.72,Default,,0,0,0,,- They do, it's over.\N- Right, right, right. Talk to you soon.
+Dialogue: 0,0:31:46.86,0:31:48.96,Default,,0,0,0,,Sir, I'm with the United States DEA.
+Dialogue: 0,0:31:48.99,0:31:51.63,Default,,0,0,0,,There's passengers on this flight\Nwho can't be allowed into this country.
+Dialogue: 0,0:31:51.66,0:31:55.80,Default,,0,0,0,,Heard of Pablo Escobar? Cocaine? That's\Nhis family. You can't allow them in.
+Dialogue: 0,0:31:55.83,0:31:59.72,Default,,0,0,0,,Unless there is a problem with\Ntheir passports or any type of contraband,
+Dialogue: 0,0:31:59.75,0:32:00.93,Default,,0,0,0,,they may enter Germany.
+Dialogue: 0,0:32:00.96,0:32:03.69,Default,,0,0,0,,[murmuring indistinctly in Spanish]
+Dialogue: 0,0:32:03.71,0:32:07.52,Default,,0,0,0,,What about if they're transporting\Na large amount of foreign currency?
+Dialogue: 0,0:32:07.55,0:32:11.03,Default,,0,0,0,,- [man] You would be certain of this how?\N- I saw it. I saw it with my own eyes.
+Dialogue: 0,0:32:11.05,0:32:14.11,Default,,0,0,0,,I work with the DEA, been with\Nthis family, I've been tracking Escobar
+Dialogue: 0,0:32:14.14,0:32:17.12,Default,,0,0,0,,for a long goddamn fucking time.\NIt is in that bag.
+Dialogue: 0,0:32:17.14,0:32:19.53,Default,,0,0,0,,- [man] In which item of luggage?\N- [Steve] The maroon bag.
+Dialogue: 0,0:32:19.56,0:32:21.62,Default,,0,0,0,,- [man speaks in German]\N- Perdón?
+Dialogue: 0,0:32:21.64,0:32:24.16,Default,,0,0,0,,- [man in English] Do you speak English?\N- No.
+Dialogue: 0,0:32:24.19,0:32:27.23,Default,,0,0,0,,I'm a hundred percent certain.\NThat burgundy bag.
+Dialogue: 0,0:32:28.15,0:32:29.15,Default,,0,0,0,,Fucking hell.
+Dialogue: 0,0:32:29.78,0:32:32.96,Default,,0,0,0,,[speaks German]
+Dialogue: 0,0:32:32.99,0:32:36.76,Default,,0,0,0,,- Hello. Pablo Escobar? Familia Escobar?\N- Sí.
+Dialogue: 0,0:32:36.78,0:32:37.80,Default,,0,0,0,,[speaks in German]
+Dialogue: 0,0:32:37.83,0:32:40.56,Default,,0,0,0,,- [in English] You speak English? German?\N- No.
+Dialogue: 0,0:32:40.58,0:32:41.89,Default,,0,0,0,,[speaking German]
+Dialogue: 0,0:32:41.91,0:32:43.52,Default,,0,0,0,,- [in Spanish] What's going on?\N- What's happening?
+Dialogue: 0,0:32:43.54,0:32:44.89,Default,,0,0,0,,[man in English]\NCome with us.
+Dialogue: 0,0:32:44.92,0:32:47.27,Default,,0,0,0,,- [in Spanish] What's going on?\N- [Tata] Can you give me back my passport?
+Dialogue: 0,0:32:47.29,0:32:51.47,Default,,0,0,0,,[Steve] To be honest, I'd never actually\Nseen any cash in the bag.
+Dialogue: 0,0:32:53.84,0:32:55.45,Default,,0,0,0,,[in Spanish]\NThat money is ours.
+Dialogue: 0,0:32:55.47,0:32:58.41,Default,,0,0,0,,[Steve] But I knew Pablo\Nwould never let his wife go anywhere
+Dialogue: 0,0:32:58.43,0:33:00.91,Default,,0,0,0,,without some serious walking around money.
+Dialogue: 0,0:33:00.93,0:33:04.58,Default,,0,0,0,,- [Tata] Pablo, they're not letting us in.\N- No, no! They can't do that.
+Dialogue: 0,0:33:04.60,0:33:07.33,Default,,0,0,0,,- That's what they're doing.\N- They can't...
+Dialogue: 0,0:33:07.36,0:33:11.59,Default,,0,0,0,,Listen, Tata, that's illegal.\NThat's illegal. Don't worry.
+Dialogue: 0,0:33:11.61,0:33:12.92,Default,,0,0,0,,Don't worry, because...
+Dialogue: 0,0:33:12.95,0:33:17.01,Default,,0,0,0,,Do what you need to do to get us\Ninto Germany. I have to hang up.
+Dialogue: 0,0:33:17.03,0:33:19.76,Default,,0,0,0,,- [man speaks German]\N- [in Spanish] Don't touch me!
+Dialogue: 0,0:33:19.79,0:33:22.11,Default,,0,0,0,,- [in English] Please come now.\N- [Tata in Spanish] Let go!
+Dialogue: 0,0:33:22.71,0:33:24.12,Default,,0,0,0,,[grunts, hangs up]
+Dialogue: 0,0:33:41.77,0:33:43.73,Default,,0,0,0,,[car alarm blaring]
+Dialogue: 0,0:34:03.45,0:34:06.75,Default,,0,0,0,,[grunts, exhales]
+Dialogue: 0,0:34:08.17,0:34:10.17,Default,,0,0,0,,- [door opens]\N- No, no, no! No!
+Dialogue: 0,0:34:11.13,0:34:13.05,Default,,0,0,0,,- Shh.\N- [sharp breaths]
+Dialogue: 0,0:34:16.26,0:34:17.84,Default,,0,0,0,,Fernando Duque.
+Dialogue: 0,0:34:19.39,0:34:20.39,Default,,0,0,0,,Javier Peña.
+Dialogue: 0,0:34:22.43,0:34:24.33,Default,,0,0,0,,[in Spanish]\NIt took me one day to find you.
+Dialogue: 0,0:34:24.35,0:34:28.10,Default,,0,0,0,,If you don't want them to kill you,\Nyou need to start doing things better.
+Dialogue: 0,0:34:31.44,0:34:34.82,Default,,0,0,0,,[softly]\NPlease... get me out of here.
+Dialogue: 0,0:34:35.44,0:34:38.82,Default,,0,0,0,,Please get me out of Colombia. Do you know\Nwho I work for? Who I worked for?
+Dialogue: 0,0:34:39.45,0:34:41.58,Default,,0,0,0,,Well, our help isn't free.
+Dialogue: 0,0:34:43.37,0:34:46.33,Default,,0,0,0,,We need full cooperation.
+Dialogue: 0,0:34:47.62,0:34:48.87,Default,,0,0,0,,[Simon] Dad!
+Dialogue: 0,0:34:49.75,0:34:52.31,Default,,0,0,0,,Hey, Simon, it's all right.
+Dialogue: 0,0:34:52.34,0:34:56.17,Default,,0,0,0,,It's all right. Uh, go back inside.\NI'll come up soon.
+Dialogue: 0,0:34:59.26,0:35:03.93,Default,,0,0,0,,It's my son. He's... He's scared.
+Dialogue: 0,0:35:05.52,0:35:07.91,Default,,0,0,0,,First, we'll get you to Holguín.\NYou'll be safe...
+Dialogue: 0,0:35:07.94,0:35:11.66,Default,,0,0,0,,No, no, no! No. No, no.\NNo, we're staying here.
+Dialogue: 0,0:35:11.69,0:35:15.86,Default,,0,0,0,,There are cops working\Nfor Los Pepes everywhere.
+Dialogue: 0,0:35:17.44,0:35:21.45,Default,,0,0,0,,It would be better if you get us\Nto the United States at once.
+Dialogue: 0,0:35:23.49,0:35:26.39,Default,,0,0,0,,I'll cooperate with you.\N[stammers] Anything you want.
+Dialogue: 0,0:35:26.41,0:35:29.04,Default,,0,0,0,,I'll cooperate with you.\NPlease get us out of Colombia.
+Dialogue: 0,0:35:30.04,0:35:31.42,Default,,0,0,0,,Is that a deal?
+Dialogue: 0,0:35:34.71,0:35:35.75,Default,,0,0,0,,[silent]
+Dialogue: 0,0:35:37.38,0:35:38.67,Default,,0,0,0,,Do as I say.
+Dialogue: 0,0:35:39.38,0:35:43.22,Default,,0,0,0,,Start by hiding your fucking wife's car.
+Dialogue: 0,0:35:49.77,0:35:53.46,Default,,0,0,0,,[Steve] While the authorities were using\Nall the political pressure they could
+Dialogue: 0,0:35:53.48,0:35:55.92,Default,,0,0,0,,to keep Escobar's family in play,
+Dialogue: 0,0:35:55.94,0:35:59.80,Default,,0,0,0,,Pablo was practicing\Nhis own special form of diplomacy.
+Dialogue: 0,0:35:59.82,0:36:00.88,Default,,0,0,0,,[dialing phone]
+Dialogue: 0,0:36:00.90,0:36:03.42,Default,,0,0,0,,- [ringing]\N- First, he called the German embassy
+Dialogue: 0,0:36:03.45,0:36:04.58,Default,,0,0,0,,in Bogotá.
+Dialogue: 0,0:36:05.74,0:36:08.35,Default,,0,0,0,,[in Spanish]\NHello, German embassy.
+Dialogue: 0,0:36:08.37,0:36:13.85,Default,,0,0,0,,First of all, I'll kill every last German\Nson of a bitch that lives in Colombia.
+Dialogue: 0,0:36:13.88,0:36:18.06,Default,,0,0,0,,Then I will bomb Frankfurt, Munich...
+Dialogue: 0,0:36:18.09,0:36:21.15,Default,,0,0,0,,[Steve] Then he threatened to bomb\Na couple of Lufthansa planes.
+Dialogue: 0,0:36:21.18,0:36:26.07,Default,,0,0,0,,[Pablo] I'm going to shove bombs\Nup your asses, you bastard motherfuckers.
+Dialogue: 0,0:36:26.10,0:36:30.95,Default,,0,0,0,,Nazi, racist gonorrheas.\NI'm going to kill all of you. You hear?
+Dialogue: 0,0:36:30.98,0:36:32.91,Default,,0,0,0,,I'm going to kill all of you!
+Dialogue: 0,0:36:32.94,0:36:33.83,Default,,0,0,0,,[dialing]
+Dialogue: 0,0:36:33.85,0:36:36.50,Default,,0,0,0,,[Steve]\NThen he dialed up President Gaviria.
+Dialogue: 0,0:36:36.52,0:36:38.54,Default,,0,0,0,,Who couldn't take the call.
+Dialogue: 0,0:36:38.57,0:36:41.99,Default,,0,0,0,,Because he was already on the phone\Nwith the German ambassador.
+Dialogue: 0,0:36:45.91,0:36:50.83,Default,,0,0,0,,And then, Pablo did something\Nhe'd never done before in his life.
+Dialogue: 0,0:36:51.46,0:36:54.73,Default,,0,0,0,,He called a cop and he asked for help.
+Dialogue: 0,0:36:54.75,0:36:58.86,Default,,0,0,0,,Not just any cop,\Nbut the top cop in the country:
+Dialogue: 0,0:36:58.88,0:37:00.98,Default,,0,0,0,,Attorney General De Greiff.
+Dialogue: 0,0:37:01.01,0:37:07.05,Default,,0,0,0,,I once heard you say that I had the same\Nrights as any other Colombian citizen.
+Dialogue: 0,0:37:08.76,0:37:11.77,Default,,0,0,0,,I imagine that also applies to my family,\Ncorrect?
+Dialogue: 0,0:37:12.48,0:37:16.29,Default,,0,0,0,,The government hasn't done anything\Nto stop Los Pepes,
+Dialogue: 0,0:37:16.31,0:37:21.04,Default,,0,0,0,,those terrorists who have attacked\Nmy family and murdered my associates.
+Dialogue: 0,0:37:21.07,0:37:26.34,Default,,0,0,0,,Is that how the Colombian government\Nensures the rights of all its citizens?
+Dialogue: 0,0:37:26.37,0:37:30.93,Default,,0,0,0,,The president is trying to prevent\Nmy family from entering Germany
+Dialogue: 0,0:37:30.95,0:37:32.56,Default,,0,0,0,,and yet you do nothing about it.
+Dialogue: 0,0:37:32.58,0:37:38.02,Default,,0,0,0,,That man wants to dangle my family before\NLos Pepes and use my children as bait,
+Dialogue: 0,0:37:38.04,0:37:41.76,Default,,0,0,0,,and you, who call yourself a man\Nof principle, do nothing about it.
+Dialogue: 0,0:37:46.64,0:37:47.64,Default,,0,0,0,,[hangs up]
+Dialogue: 0,0:37:49.39,0:37:50.85,Default,,0,0,0,,[chatter in Spanish]
+Dialogue: 0,0:37:58.77,0:38:01.65,Default,,0,0,0,,- [static]\N- There's a lot of interference.
+Dialogue: 0,0:38:02.11,0:38:05.42,Default,,0,0,0,,Yes. Medellín has too many electrical\Nwires, phone wires, antennae.
+Dialogue: 0,0:38:05.45,0:38:08.45,Default,,0,0,0,,- That must be why.\N- What's your success rate?
+Dialogue: 0,0:38:09.32,0:38:11.93,Default,,0,0,0,,[sighs] To be honest,\Nwe haven't located a signal yet.
+Dialogue: 0,0:38:11.95,0:38:13.70,Default,,0,0,0,,Not one?
+Dialogue: 0,0:38:14.54,0:38:15.79,Default,,0,0,0,,Not one.
+Dialogue: 0,0:38:18.79,0:38:20.38,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:38:23.09,0:38:25.07,Default,,0,0,0,,Here's what we're going to do, Morales.
+Dialogue: 0,0:38:25.09,0:38:30.76,Default,,0,0,0,,Let's both start here: L9.329.
+Dialogue: 0,0:38:32.31,0:38:33.52,Default,,0,0,0,,There it is.
+Dialogue: 0,0:38:40.90,0:38:47.57,Default,,0,0,0,,I was talking to my police contact and\Nyou won't guess who's hiding the lawyer.
+Dialogue: 0,0:38:48.86,0:38:52.58,Default,,0,0,0,,None other than that son of a bitch, Peña.\NWhat do you think about that?
+Dialogue: 0,0:38:53.91,0:38:55.89,Default,,0,0,0,,Who's your contact?
+Dialogue: 0,0:38:55.91,0:39:00.67,Default,,0,0,0,,Who he is isn't important.\NThe important thing is that I trust him.
+Dialogue: 0,0:39:01.34,0:39:03.94,Default,,0,0,0,,And you know what\Nthe worst part of this is?
+Dialogue: 0,0:39:03.96,0:39:06.05,Default,,0,0,0,,We can no longer trust Peña.
+Dialogue: 0,0:39:06.76,0:39:09.01,Default,,0,0,0,,Then we'll have to put a bullet in him.
+Dialogue: 0,0:39:10.72,0:39:12.26,Default,,0,0,0,,No.
+Dialogue: 0,0:39:13.14,0:39:16.08,Default,,0,0,0,,We can't kill DEA agents.
+Dialogue: 0,0:39:16.10,0:39:18.06,Default,,0,0,0,,Oh, no? Why not?
+Dialogue: 0,0:39:21.10,0:39:23.73,Default,,0,0,0,,If it were up to me,\NI'd feed him to the crocodiles.
+Dialogue: 0,0:39:25.57,0:39:27.69,Default,,0,0,0,,[Fidel]\NBerna, look...
+Dialogue: 0,0:39:34.33,0:39:39.54,Default,,0,0,0,,Schedule a meeting with Peña,\Njust as you have been.
+Dialogue: 0,0:39:40.96,0:39:42.38,Default,,0,0,0,,We'll take care of the rest.
+Dialogue: 0,0:39:50.51,0:39:52.80,Default,,0,0,0,,[siren wailing in distance]
+Dialogue: 0,0:40:06.61,0:40:08.94,Default,,0,0,0,,[indistinct chatter]
+Dialogue: 0,0:40:16.41,0:40:18.16,Default,,0,0,0,,[engine revving]
+Dialogue: 0,0:40:44.98,0:40:46.54,Default,,0,0,0,,[in English]\NAgent Peña.
+Dialogue: 0,0:40:46.57,0:40:48.61,Default,,0,0,0,,[soft Latin music plays on radio]
+Dialogue: 0,0:40:49.61,0:40:51.95,Default,,0,0,0,,I don't think Don Berna's\Ngonna make it tonight.
+Dialogue: 0,0:41:04.37,0:41:06.06,Default,,0,0,0,,What is this?
+Dialogue: 0,0:41:06.08,0:41:07.71,Default,,0,0,0,,Just a friendly chat.
+Dialogue: 0,0:41:10.42,0:41:14.18,Default,,0,0,0,,You're making some very scary people\Npretty nervous, Javier.
+Dialogue: 0,0:41:16.01,0:41:18.45,Default,,0,0,0,,Which puts me in a spot because...
+Dialogue: 0,0:41:18.47,0:41:21.43,Default,,0,0,0,,I'm the one who suggested\Nthey approach you in the first place.
+Dialogue: 0,0:41:22.27,0:41:27.37,Default,,0,0,0,,Now, I don't know what you know\Nabout what it is I do,
+Dialogue: 0,0:41:27.40,0:41:29.38,Default,,0,0,0,,but understand this:
+Dialogue: 0,0:41:29.40,0:41:32.92,Default,,0,0,0,,I have our nation's\Nlong-term interests in mind.
+Dialogue: 0,0:41:32.94,0:41:35.01,Default,,0,0,0,,That's the beat I walk.
+Dialogue: 0,0:41:35.03,0:41:38.51,Default,,0,0,0,,And sitting here tonight,\Nthat means making sure the right folks
+Dialogue: 0,0:41:38.53,0:41:41.87,Default,,0,0,0,,are left standing when Escobar\Ngets his bullet.
+Dialogue: 0,0:41:45.54,0:41:47.63,Default,,0,0,0,,So do Uncle Sam a solid.
+Dialogue: 0,0:41:49.54,0:41:51.38,Default,,0,0,0,,Don't complicate that.
+Dialogue: 0,0:41:59.85,0:42:03.02,Default,,0,0,0,,These folks are prone\Nto emotional decision-making.
+Dialogue: 0,0:42:03.85,0:42:09.15,Default,,0,0,0,,Which can lead to bush league nonsense\Nlike... killing a federal agent.
+Dialogue: 0,0:42:12.11,0:42:13.82,Default,,0,0,0,,By the way, they found the lawyer.
+Dialogue: 0,0:42:14.65,0:42:16.45,Default,,0,0,0,,Even without your help, so...
+Dialogue: 0,0:42:37.47,0:42:40.05,Default,,0,0,0,,[low TV chatter]
+Dialogue: 0,0:43:34.90,0:43:37.49,Default,,0,0,0,,COURTESY OF LOS PEPES
+Dialogue: 0,0:43:40.99,0:43:44.55,Default,,0,0,0,,[in Spanish] Córdoba recovers,\Nwe'll have a goalie in place.
+Dialogue: 0,0:43:44.58,0:43:48.93,Default,,0,0,0,,Leonel Álvarez can do his thing\Nand move the ball along. Ooh-wee!
+Dialogue: 0,0:43:48.96,0:43:51.81,Default,,0,0,0,,[in English] Trujillo!\NYou follow me to the fucking hotel?
+Dialogue: 0,0:43:51.83,0:43:52.88,Default,,0,0,0,,Huh?
+Dialogue: 0,0:43:53.88,0:43:57.38,Default,,0,0,0,,[whispers in Spanish] Did you follow me\Nto the hotel? You told Berna?
+Dialogue: 0,0:43:58.67,0:43:59.94,Default,,0,0,0,,Let go.
+Dialogue: 0,0:43:59.97,0:44:01.76,Default,,0,0,0,,Tell me, asshole.
+Dialogue: 0,0:44:02.47,0:44:04.41,Default,,0,0,0,,- Let go! It's all right.\N- [man] What's the problem?
+Dialogue: 0,0:44:04.43,0:44:07.14,Default,,0,0,0,,[Trujillo]\NI'll catch up. Everything's fine.
+Dialogue: 0,0:44:08.77,0:44:10.23,Default,,0,0,0,,What's going on, Peña?
+Dialogue: 0,0:44:12.65,0:44:14.31,Default,,0,0,0,,Playing the fucking American?
+Dialogue: 0,0:44:16.07,0:44:18.19,Default,,0,0,0,,[softly]\NDid you see what they did to his son?
+Dialogue: 0,0:44:20.20,0:44:23.91,Default,,0,0,0,,How many families has Pablo Escobar\Ndestroyed, Peña? Do you know?
+Dialogue: 0,0:44:26.62,0:44:29.14,Default,,0,0,0,,You don't decide who lives and who dies.
+Dialogue: 0,0:44:29.16,0:44:33.29,Default,,0,0,0,,Don't be fucking stupid.\NThis is how we do it.
+Dialogue: 0,0:45:00.28,0:45:05.97,Default,,0,0,0,,[De Greiff] I understand that you're\Ntrying to prevent Escobar's family
+Dialogue: 0,0:45:05.99,0:45:07.18,Default,,0,0,0,,from entering Germany.
+Dialogue: 0,0:45:07.20,0:45:09.01,Default,,0,0,0,,Let's make something clear:
+Dialogue: 0,0:45:09.04,0:45:13.68,Default,,0,0,0,,If you've come to plead for them\Nas part of some deal, the only...
+Dialogue: 0,0:45:13.71,0:45:15.46,Default,,0,0,0,,No, Mr. President.
+Dialogue: 0,0:45:16.38,0:45:23.34,Default,,0,0,0,,I haven't come to plead for them.\NI've come to plead for you.
+Dialogue: 0,0:45:25.43,0:45:27.70,Default,,0,0,0,,For me? How so?
+Dialogue: 0,0:45:27.72,0:45:31.95,Default,,0,0,0,,I know that you want Escobar dead.
+Dialogue: 0,0:45:31.98,0:45:36.35,Default,,0,0,0,,And while I don't agree with that,\NI understand it.
+Dialogue: 0,0:45:37.36,0:45:41.61,Default,,0,0,0,,But this... this I can't understand.
+Dialogue: 0,0:45:42.49,0:45:45.76,Default,,0,0,0,,This isn't just wrong.
+Dialogue: 0,0:45:45.78,0:45:52.58,Default,,0,0,0,,It puts you, the president of Colombia,\Nin league with a death squad.
+Dialogue: 0,0:45:54.00,0:46:00.21,Default,,0,0,0,,Call the German chancellor.\NTell him to let the family in.
+Dialogue: 0,0:46:14.14,0:46:16.19,Default,,0,0,0,,[speaking in German]
+Dialogue: 0,0:46:19.48,0:46:23.53,Default,,0,0,0,,[man in Spanish] I'm sorry to inform you,\Nyour entry into Germany has been denied.
+Dialogue: 0,0:46:26.82,0:46:29.51,Default,,0,0,0,,I know my rights, sir.\NBut you don't understand.
+Dialogue: 0,0:46:29.53,0:46:31.84,Default,,0,0,0,,My children are in danger.\NSend me any place other than Colombia.
+Dialogue: 0,0:46:31.87,0:46:33.76,Default,,0,0,0,,[speaking in German]
+Dialogue: 0,0:46:33.79,0:46:39.19,Default,,0,0,0,,[in Spanish] Tell him the children are\Nunder age. We just want to live in peace.
+Dialogue: 0,0:46:39.21,0:46:40.56,Default,,0,0,0,,We just want to live in...
+Dialogue: 0,0:46:40.59,0:46:46.36,Default,,0,0,0,,No, no, no.\NTell him that's all we want to do.
+Dialogue: 0,0:46:46.38,0:46:48.55,Default,,0,0,0,,To live in peace.
+Dialogue: 0,0:46:49.47,0:46:53.07,Default,,0,0,0,,Get the children and your belongings.
+Dialogue: 0,0:46:53.10,0:46:54.18,Default,,0,0,0,,Please.
+Dialogue: 0,0:46:58.90,0:47:02.54,Default,,0,0,0,,[Hermilda] They kick us out of\Nthe country, and they keep the money, too.
+Dialogue: 0,0:47:02.57,0:47:05.54,Default,,0,0,0,,- [man speaks in German]\N- [Hermilda in Spanish] I know. I'm going.
+Dialogue: 0,0:47:05.57,0:47:08.71,Default,,0,0,0,,What is this?\NWhy are we being treated this way?
+Dialogue: 0,0:47:08.74,0:47:10.93,Default,,0,0,0,,[Tata]\NYou can't treat us like criminals.
+Dialogue: 0,0:47:10.95,0:47:12.20,Default,,0,0,0,,[man]\NLet's go.
+Dialogue: 0,0:48:41.08,0:48:42.42,Default,,0,0,0,,[clears throat]
+Dialogue: 0,0:48:54.14,0:48:55.55,Default,,0,0,0,,[Tata in Spanish]\NPardon me.
+Dialogue: 0,0:48:57.01,0:48:58.81,Default,,0,0,0,,I hope you enjoyed Germany.
+Dialogue: 0,0:49:09.07,0:49:11.32,Default,,0,0,0,,[plane approaching]
+Dialogue: 0,0:49:14.32,0:49:16.87,Default,,0,0,0,,[indistinct chatter over PA]
+Dialogue: 0,0:49:20.91,0:49:23.37,Default,,0,0,0,,- [in Spanish] How much for this?\N- Two thousand pesos.
+Dialogue: 0,0:49:25.75,0:49:27.04,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:49:28.84,0:49:31.26,Default,,0,0,0,,[Tata and Hermilda speak softly]
+Dialogue: 0,0:50:03.66,0:50:05.37,Default,,0,0,0,,[in Spanish]\NLadies.
+Dialogue: 0,0:50:08.21,0:50:09.59,Default,,0,0,0,,[vehicles racing up]
+Dialogue: 0,0:50:10.55,0:50:12.86,Default,,0,0,0,,- [tires screech]\N- Stop! National police!
+Dialogue: 0,0:50:12.88,0:50:14.44,Default,,0,0,0,,- DEA!\N- Get on the ground!
+Dialogue: 0,0:50:14.47,0:50:16.15,Default,,0,0,0,,[overlapping chatter in Spanish]
+Dialogue: 0,0:50:16.18,0:50:19.03,Default,,0,0,0,,It's all right, ma'am, we're with\Nthe national police. Come with us.
+Dialogue: 0,0:50:19.05,0:50:21.78,Default,,0,0,0,,The attorney general asked us\Nto put you under protective custody.
+Dialogue: 0,0:50:21.81,0:50:25.70,Default,,0,0,0,,Don't worry. Everything will be all right.\NCome with us. You'll be safe. Let's go.
+Dialogue: 0,0:50:25.73,0:50:29.69,Default,,0,0,0,,- Come with us.\N- Let's go. Quickly. Let's go!
+Dialogue: 0,0:50:31.11,0:50:33.07,Default,,0,0,0,,[tires screeching]
+Dialogue: 0,0:50:49.75,0:50:51.46,Default,,0,0,0,,[phone rings]
+Dialogue: 0,0:50:55.09,0:50:56.26,Default,,0,0,0,,How can I help you, boss?
+Dialogue: 0,0:50:58.59,0:51:02.49,Default,,0,0,0,,[Pablo] I want this faggot of a president\Nto know what happens
+Dialogue: 0,0:51:02.51,0:51:06.31,Default,,0,0,0,,when you're on the side\Nof those bastards, Los Pepes.
+Dialogue: 0,0:51:08.44,0:51:12.61,Default,,0,0,0,,I want to see blood.
+Dialogue: 0,0:51:14.40,0:51:17.65,Default,,0,0,0,,I want the sky to burn with gunpowder.
+Dialogue: 0,0:51:19.28,0:51:22.76,Default,,0,0,0,,I want you to put the biggest bomb\Nyou can get your hands on
+Dialogue: 0,0:51:22.78,0:51:26.20,Default,,0,0,0,,as close as you can to\Nthe Presidential Palace. Are we clear?
+Dialogue: 0,0:51:27.16,0:51:29.71,Default,,0,0,0,,[sighs]\NAs you wish, boss.
+Dialogue: 0,0:52:22.59,0:52:23.85,Default,,0,0,0,,[engine stops]
+Dialogue: 0,0:52:47.45,0:52:51.25,Default,,0,0,0,,- [street noise]\N- [pedestrians chattering]
+Dialogue: 0,0:52:59.84,0:53:02.47,Default,,0,0,0,,[father]\NMy love, let's go. Let's go.
+Dialogue: 0,0:53:06.60,0:53:10.20,Default,,0,0,0,,Do you want one? Yes? How much?
+Dialogue: 0,0:53:10.22,0:53:11.48,Default,,0,0,0,,[man]\NOne hundred pesos.
+Dialogue: 0,0:53:13.27,0:53:15.27,Default,,0,0,0,,- Here.\N- Thank you.
+Dialogue: 0,0:53:17.61,0:53:20.23,Default,,0,0,0,,[mother] Are we going that way?\N[father] That way, darling.
+Dialogue: 0,0:53:21.19,0:53:25.09,Default,,0,0,0,,You better be a doctor when you grow up.\NThis is very expensive.
+Dialogue: 0,0:53:25.11,0:53:27.62,Default,,0,0,0,,Elena! Elena, let's go!
+Dialogue: 0,0:53:35.21,0:53:37.48,Default,,0,0,0,,[loud rumbling in distance]
+Dialogue: 0,0:53:37.50,0:53:39.88,Default,,0,0,0,,[car alarms wailing outside]
+Dialogue: 0,0:53:42.01,0:53:45.22,Default,,0,0,0,,[Steve]\N220 pounds of C-4.
+Dialogue: 0,0:53:46.26,0:53:48.72,Default,,0,0,0,,Same as a bomb on an F-16.
+Dialogue: 0,0:53:50.64,0:53:52.35,Default,,0,0,0,,Dozens were killed.
+Dialogue: 0,0:53:53.14,0:53:57.23,Default,,0,0,0,,Scores were injured,\Nmany of them children.
+Dialogue: 0,0:53:58.48,0:54:00.90,Default,,0,0,0,,Pablo never took credit for the bomb.
+Dialogue: 0,0:54:02.86,0:54:04.36,Default,,0,0,0,,He didn't have to.
+Dialogue: 0,0:54:07.16,0:54:10.49,Default,,0,0,0,,- [woman sobbing nearby]\N- [siren wailing in distance]
+Dialogue: 0,0:54:19.42,0:54:21.17,Default,,0,0,0,,Elena?
+Dialogue: 0,0:54:21.30,0:54:23.09,Default,,0,0,0,,- [woman shouts nearby]\N- [moaning]
+Dialogue: 0,0:54:26.05,0:54:27.18,Default,,0,0,0,,Elena!
+Dialogue: 0,0:54:29.60,0:54:30.99,Default,,0,0,0,,Elena!
+Dialogue: 0,0:54:31.01,0:54:32.45,Default,,0,0,0,,[woman sobs nearby]
+Dialogue: 0,0:54:32.47,0:54:34.73,Default,,0,0,0,,[man shouts in Spanish]\NLift him up carefully!
+Dialogue: 0,0:54:45.49,0:54:46.95,Default,,0,0,0,,[father whimpers]

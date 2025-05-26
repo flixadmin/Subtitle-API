@@ -1,0 +1,3766 @@
+﻿1
+00:00:00,160 --> 00:00:01,760
+<i>Previously,
+on</i>Legends Of Tomorrow...
+
+2
+00:00:01,840 --> 00:00:02,920
+Sara may not know it,
+
+3
+00:00:03,000 --> 00:00:05,120
+but the demon's power
+lives inside of her.
+
+4
+00:00:05,200 --> 00:00:07,560
+When she succumbs to it,
+you're going to need that gun.
+
+5
+00:00:07,640 --> 00:00:09,360
+- Come with us.
+- What would you rather do?
+
+6
+00:00:09,440 --> 00:00:11,920
+Hide from A.R.G.U.S.
+your whole life, or time travel?
+
+7
+00:00:12,000 --> 00:00:13,160
+What do you think
+the captain would think
+
+8
+00:00:13,240 --> 00:00:14,560
+about you re-engineering time?
+
+9
+00:00:14,640 --> 00:00:18,720
+Well, I'm no hero,
+and I'm not a member of any team.
+
+10
+00:00:20,480 --> 00:00:22,200
+<i>Are you sure about this, Miss Tomaz?</i>
+
+11
+00:00:22,280 --> 00:00:23,840
+<i>Captain Lance did not
+give you authorization</i>
+
+12
+00:00:23,920 --> 00:00:25,080
+<i>to initialize this program.</i>
+
+13
+00:00:25,160 --> 00:00:26,400
+That's because I didn't ask
+for authorization.
+
+14
+00:00:26,480 --> 00:00:28,040
+Now, fire up the auxiliary generator.
+
+15
+00:00:28,120 --> 00:00:29,200
+<i>Even with the reserve power,</i>
+
+16
+00:00:29,280 --> 00:00:32,160
+<i>I don't believe my system can run
+your simulation software.</i>
+
+17
+00:00:32,240 --> 00:00:33,440
+Gideon, trust me.
+
+18
+00:00:33,520 --> 00:00:36,480
+<i>Trust is something that grows
+over time between friends.</i>
+
+19
+00:00:36,560 --> 00:00:39,720
+<i>As far as I'm concerned,
+we are still acquaintances.</i>
+
+20
+00:00:39,800 --> 00:00:40,880
+Question, Gideon.
+
+21
+00:00:40,960 --> 00:00:43,480
+Who's ready to have
+1.12 terawatts of power
+
+22
+00:00:43,560 --> 00:00:45,400
+diverted straight into her CPU?
+
+23
+00:00:45,480 --> 00:00:48,480
+<i>I'm not sure if your calculations
+accurately stabilize the surge.</i>
+
+24
+00:00:48,560 --> 00:00:50,120
+<i>We should talk about this
+before proceeding.</i>
+
+25
+00:00:50,200 --> 00:00:52,640
+No time. We have to run this program
+before the team gets back.
+
+26
+00:00:52,720 --> 00:00:54,240
+<i>In that case, I suggest you hurry.</i>
+
+27
+00:00:54,320 --> 00:00:56,640
+<i>The team has just returned
+on the jump ship from their mission.</i>
+
+28
+00:00:56,720 --> 00:00:58,560
+Okay. Screw it.
+
+29
+00:00:59,880 --> 00:01:01,440
+Gideon, what's happening?
+
+30
+00:01:01,640 --> 00:01:05,040
+I was going to ask the same question.
+Thought you were fixing the ship.
+
+31
+00:01:05,120 --> 00:01:08,200
+Yeah, the maintenance check
+took longer than expected.
+
+32
+00:01:08,280 --> 00:01:09,280
+The ship's a mess.
+
+33
+00:01:09,360 --> 00:01:11,520
+I had to re-initialize
+Gideon's alpha drives.
+
+34
+00:01:11,600 --> 00:01:13,880
+So, how'd it go out there? Good mish?
+
+35
+00:01:14,120 --> 00:01:16,880
+I pried this cassette
+from Shorty's fingers.
+
+36
+00:01:16,960 --> 00:01:19,240
+- He means Napoleon Bonaparte.
+<i>- Waterloo.</i>
+
+37
+00:01:19,320 --> 00:01:21,600
+Who writes a song about losing a war?
+
+38
+00:01:24,840 --> 00:01:27,120
+Anyway, it was really great.
+
+39
+00:01:27,400 --> 00:01:31,160
+Even though half our band
+missed the cue for our big encore.
+
+40
+00:01:31,240 --> 00:01:32,760
+Yeah, where were you guys?
+
+41
+00:01:34,760 --> 00:01:35,920
+It was my fault.
+
+42
+00:01:36,000 --> 00:01:39,800
+I was just not used to walking
+in these go-go boots.
+
+43
+00:01:40,160 --> 00:01:41,480
+It won't happen again, Captain.
+
+44
+00:01:42,640 --> 00:01:43,640
+Right.
+
+45
+00:01:43,880 --> 00:01:46,000
+Gideon, let's check
+the historical records.
+
+46
+00:01:46,080 --> 00:01:47,320
+See if everything is back to normal.
+
+47
+00:01:47,400 --> 00:01:48,920
+<i>According to the historical record,</i>
+
+48
+00:01:49,000 --> 00:01:50,920
+<i>the Battle of Waterloo
+is back on track.</i>
+
+49
+00:01:51,000 --> 00:01:54,600
+<i>Napoleon did surrender,
+and the French forces withdrew.</i>
+
+50
+00:01:55,400 --> 00:01:58,120
+Gideon? Where did she go?
+
+51
+00:01:58,200 --> 00:01:59,920
+The ship's functions
+are still operational,
+
+52
+00:02:00,000 --> 00:02:03,040
+but it looks as though
+Gideon's neural core has been fried.
+
+53
+00:02:04,280 --> 00:02:07,320
+I asked you to perform
+a routine maintenance check.
+
+54
+00:02:07,400 --> 00:02:09,160
+I did run a maintenance check.
+
+55
+00:02:09,240 --> 00:02:11,240
+And maybe something else?
+
+56
+00:02:11,800 --> 00:02:15,200
+Something you want to tell us about?
+Maybe show us?
+
+57
+00:02:16,560 --> 00:02:18,480
+Oh, do not make me move you.
+
+58
+00:02:18,720 --> 00:02:20,960
+You should just tell her what it is.
+
+59
+00:02:21,040 --> 00:02:23,120
+Last thing we want to do
+is get Sara mad.
+
+60
+00:02:24,360 --> 00:02:25,360
+Why is that?
+
+61
+00:02:26,240 --> 00:02:27,320
+Because...
+
+62
+00:02:27,720 --> 00:02:30,120
+high blood pressure.
+It takes years off your life.
+
+63
+00:02:30,200 --> 00:02:32,040
+Okay. Fine. You win.
+
+64
+00:02:32,120 --> 00:02:34,640
+I uploaded a synchronous,
+multi-model simulation program
+
+65
+00:02:34,720 --> 00:02:36,160
+to Gideon's neural core.
+
+66
+00:02:36,400 --> 00:02:38,880
+A simulation program for what?
+
+67
+00:02:38,960 --> 00:02:41,600
+To see if there are any other
+loopholes in history
+
+68
+00:02:41,680 --> 00:02:43,480
+- that we could exploit.
+- We?
+
+69
+00:02:44,200 --> 00:02:46,000
+You mean you can exploit.
+
+70
+00:02:46,080 --> 00:02:48,400
+You're trying to hack history?
+
+71
+00:02:48,600 --> 00:02:51,520
+What exactly are you trying
+to change in 2042?
+
+72
+00:02:51,600 --> 00:02:52,600
+Oh, I don't know, Ray.
+
+73
+00:02:52,680 --> 00:02:54,200
+Maybe I'm trying to figure out
+how to stop my home
+
+74
+00:02:54,280 --> 00:02:56,040
+from becoming a dystopian nightmare.
+
+75
+00:02:56,120 --> 00:02:58,640
+Look, Zari,
+I let the Helen of Troy thing pass.
+
+76
+00:02:58,720 --> 00:03:01,640
+I even let it slide when you tried
+to prevent Martin's death,
+
+77
+00:03:01,720 --> 00:03:03,440
+but you need to understand.
+
+78
+00:03:03,520 --> 00:03:06,000
+We are in the "fixing anachronisms"
+business,
+
+79
+00:03:06,080 --> 00:03:07,840
+not the "hacking history" business.
+
+80
+00:03:07,920 --> 00:03:09,440
+Now, please go fix Gideon.
+
+81
+00:03:09,520 --> 00:03:12,240
+Hey, maybe, if you would stop
+bossing me around for a second,
+
+82
+00:03:12,320 --> 00:03:13,800
+you would see this is a good idea.
+
+83
+00:03:13,880 --> 00:03:15,320
+I said "please."
+
+84
+00:03:15,400 --> 00:03:16,760
+And even if I didn't,
+
+85
+00:03:16,840 --> 00:03:19,600
+bossing you around
+is part of my job as captain.
+
+86
+00:03:19,680 --> 00:03:22,960
+Yeah, and it's really easy
+to take you seriously in that outfit.
+
+87
+00:03:23,800 --> 00:03:26,760
+You know, this whole
+apathetic cool girl thing,
+
+88
+00:03:26,840 --> 00:03:28,440
+it's not as cute as you think.
+
+89
+00:03:29,400 --> 00:03:31,320
+If you want to be
+a member of this team...
+
+90
+00:03:31,400 --> 00:03:32,680
+Member-ish.
+
+91
+00:03:32,760 --> 00:03:34,440
+This was always
+a temporary arrangement.
+
+92
+00:03:34,520 --> 00:03:36,800
+I was never planning
+on sticking around for long.
+
+93
+00:03:36,880 --> 00:03:39,880
+Then so long as you are on this ship,
+I am your captain,
+
+94
+00:03:39,960 --> 00:03:42,880
+and if you don't like it,
+you can stop sticking around.
+
+95
+00:03:43,400 --> 00:03:44,520
+Aye, aye.
+
+96
+00:03:46,200 --> 00:03:47,320
+I'm going to kill her.
+
+97
+00:03:47,400 --> 00:03:49,120
+Wait. Sara. Please, don't...
+
+98
+00:03:52,560 --> 00:03:53,800
+Just fix the ship.
+
+99
+00:03:57,400 --> 00:03:58,800
+"Just fix the ship."
+
+100
+00:03:58,880 --> 00:04:01,160
+Yes, Captain. Of course, Captain.
+
+101
+00:04:01,240 --> 00:04:03,080
+Could I kiss your ass, Captain?
+
+102
+00:04:09,800 --> 00:04:11,040
+Damn it.
+
+103
+00:04:13,880 --> 00:04:15,200
+Of course. Of course!
+
+104
+00:04:20,640 --> 00:04:23,160
+All right, Gideon. You back online?
+
+105
+00:04:24,760 --> 00:04:25,760
+Gideon?
+
+106
+00:04:31,160 --> 00:04:32,920
+Holy...
+
+107
+00:04:40,240 --> 00:04:42,720
+Well, as long
+as you are on this ship,
+
+108
+00:04:42,800 --> 00:04:44,720
+I'm your captain,
+and if you don't like it,
+
+109
+00:04:44,800 --> 00:04:47,160
+you can stop sticking around.
+
+110
+00:04:49,840 --> 00:04:51,360
+Are you going to say something?
+
+111
+00:04:52,360 --> 00:04:53,360
+Yeah.
+
+112
+00:04:54,560 --> 00:04:56,000
+What the...
+
+113
+00:05:01,760 --> 00:05:03,760
+What is wrong with you?
+
+114
+00:05:05,320 --> 00:05:06,760
+Nothing, I think.
+
+115
+00:05:07,200 --> 00:05:08,960
+Didn't we just
+have this conversation?
+
+116
+00:05:09,040 --> 00:05:11,040
+Yeah, because you keep
+making me repeat myself.
+
+117
+00:05:11,120 --> 00:05:13,360
+No. That's not what I meant.
+
+118
+00:05:14,000 --> 00:05:16,280
+Sara, don't get mad.
+I'm sure Zari can fix this...
+
+119
+00:05:18,440 --> 00:05:19,760
+Just fix the ship.
+
+120
+00:05:21,360 --> 00:05:23,160
+Yeah, okay. Sure.
+
+121
+00:05:29,480 --> 00:05:32,440
+Deep breaths. No one's going crazy.
+
+122
+00:05:33,000 --> 00:05:34,520
+It's probably just something I ate.
+
+123
+00:05:39,480 --> 00:05:40,600
+I'm busy.
+
+124
+00:05:41,080 --> 00:05:42,080
+Right.
+
+125
+00:05:42,160 --> 00:05:43,880
+{\an5}You've done a lot of time traveling.
+
+126
+00:05:44,000 --> 00:05:46,280
+{\an5}- Have you ever had deja vu?
+- What's that?
+
+127
+00:05:46,600 --> 00:05:48,880
+Oh, it's French for already seen.
+
+128
+00:05:48,960 --> 00:05:50,160
+I hate the French.
+
+129
+00:05:54,000 --> 00:05:55,320
+I'm mortified, Nathaniel.
+
+130
+00:05:55,400 --> 00:05:57,480
+{\an5}I mean, we could've permanently
+derailed the history of France.
+
+131
+00:05:57,560 --> 00:05:58,920
+- For what?
+- For what?
+
+132
+00:05:59,000 --> 00:06:00,600
+Have you not seen your outfit?
+
+133
+00:06:00,680 --> 00:06:02,440
+Totally would have been worth it,
+and I'm a historian.
+
+134
+00:06:02,520 --> 00:06:04,200
+We never should've given
+in to the temptation.
+
+135
+00:06:04,280 --> 00:06:05,280
+But we did.
+
+136
+00:06:06,800 --> 00:06:08,640
+And now,
+I can't stop thinking about you.
+
+137
+00:06:10,080 --> 00:06:12,440
+{\an5}We can't put the team at risk.
+All right?
+
+138
+00:06:12,960 --> 00:06:16,840
+{\an5}Until we can figure out a way
+to behave professionally,
+
+139
+00:06:17,160 --> 00:06:18,800
+{\an5}we'll have to forget
+it ever happened.
+
+140
+00:06:19,600 --> 00:06:20,600
+I can't.
+
+141
+00:06:23,640 --> 00:06:24,640
+Just try.
+
+142
+00:06:33,640 --> 00:06:34,640
+Nate.
+
+143
+00:06:34,880 --> 00:06:36,880
+Yeah, Amaya and I
+were just comparing notes
+
+144
+00:06:36,960 --> 00:06:38,320
+on the last mission.
+
+145
+00:06:38,880 --> 00:06:41,640
+{\an5}Did you notice anything weird
+happen a few minutes ago?
+
+146
+00:06:42,200 --> 00:06:43,600
+No, not really.
+
+147
+00:06:43,840 --> 00:06:45,120
+Nothing with the ship?
+
+148
+00:06:45,840 --> 00:06:48,120
+Well, let me think about it.
+
+149
+00:06:51,560 --> 00:06:53,760
+Nope. Nothing out of the ordinary.
+
+150
+00:06:53,840 --> 00:06:55,760
+Hey, aren't you supposed
+to be in the engine room?
+
+151
+00:06:55,920 --> 00:06:57,480
+Sara told you to fix Gideon.
+
+152
+00:06:57,560 --> 00:07:00,560
+{\an5}- The last thing we want to do is...
+- To make Sara mad.
+
+153
+00:07:00,680 --> 00:07:04,040
+{\an5}Yeah. You know what they say.
+"Happy captain, happy ship."
+
+154
+00:07:04,600 --> 00:07:06,840
+No one says that, but whatever.
+
+155
+00:07:15,640 --> 00:07:17,360
+"Happy captain, happy ship."
+
+156
+00:07:18,320 --> 00:07:19,400
+Stupid.
+
+157
+00:07:36,360 --> 00:07:37,760
+All right, Gideon. You there?
+
+158
+00:07:41,040 --> 00:07:42,360
+Mamma mia.
+
+159
+00:07:42,840 --> 00:07:44,280
+Here I go again.
+
+160
+00:07:47,360 --> 00:07:50,680
+So long as you are on this ship,
+I'm your captain.
+
+161
+00:07:50,760 --> 00:07:53,480
+And if you don't like it,
+you can stop sticking around.
+
+162
+00:07:53,560 --> 00:07:55,400
+Okay, something really bizarre
+is happening.
+
+163
+00:07:55,480 --> 00:07:57,960
+- You're not even listening to me.
+- No, Sara, wait!
+
+164
+00:07:58,400 --> 00:07:59,760
+There's no need for violence!
+
+165
+00:08:00,960 --> 00:08:05,320
+I'm sorry, old habits.
+Ray, take Zari to the MedBay.
+
+166
+00:08:07,480 --> 00:08:08,480
+This way.
+
+167
+00:08:08,560 --> 00:08:09,800
+What has gotten into you?
+
+168
+00:08:12,280 --> 00:08:16,280
+I don't know how to explain this,
+but I've died, twice.
+
+169
+00:08:18,080 --> 00:08:20,200
+Have you gotten into Nate's
+psychedelic root stash?
+
+170
+00:08:20,280 --> 00:08:22,800
+No, I'm serious, Ray.
+Please, I need your help.
+
+171
+00:08:26,280 --> 00:08:27,280
+Fine, whatever.
+
+172
+00:08:27,360 --> 00:08:29,040
+I guess I have to figure this out
+on my own.
+
+173
+00:08:29,280 --> 00:08:31,800
+- What's that?
+- It's a mild sedative.
+
+174
+00:08:31,880 --> 00:08:32,880
+While you heal up,
+
+175
+00:08:32,960 --> 00:08:35,360
+I don't want you hurting yourself,
+or anybody else.
+
+176
+00:08:36,160 --> 00:08:37,240
+Ray!
+
+177
+00:08:40,280 --> 00:08:42,640
+So long as you are on this ship...
+
+178
+00:08:42,720 --> 00:08:44,160
+- Sara, I need you to shut up.
+- What?
+
+179
+00:08:44,240 --> 00:08:46,400
+Emergency! Everyone
+back on the bridge, right now.
+
+180
+00:08:46,480 --> 00:08:48,240
+- What are you doing?
+- Okay, let's all just calm down.
+
+181
+00:08:48,320 --> 00:08:50,800
+No, I will not calm down,
+and watch your step, Ray.
+
+182
+00:08:50,880 --> 00:08:51,880
+What do you mean?
+
+183
+00:08:52,760 --> 00:08:54,240
+Thought the mission was over.
+
+184
+00:08:54,320 --> 00:08:56,040
+- Why are we still here?
+- Yeah, what's going on?
+
+185
+00:08:56,120 --> 00:08:58,200
+Okay, I know,
+I know this is going to sound crazy,
+
+186
+00:08:58,280 --> 00:09:01,960
+but we are all in imminent danger.
+
+187
+00:09:02,040 --> 00:09:04,560
+In an hour,
+this ship is going to explode.
+
+188
+00:09:04,640 --> 00:09:05,640
+How do you know?
+
+189
+00:09:07,240 --> 00:09:09,160
+Let's... say I had a dream.
+
+190
+00:09:09,240 --> 00:09:12,600
+But we need to check the ship
+and go over every inch.
+
+191
+00:09:12,680 --> 00:09:14,240
+Because if we don't stop
+this explosion,
+
+192
+00:09:14,320 --> 00:09:16,000
+we're going to die!
+
+193
+00:09:19,720 --> 00:09:20,720
+Yeah.
+
+194
+00:09:25,320 --> 00:09:26,480
+Guys!
+
+195
+00:09:26,960 --> 00:09:29,000
+Guys, I'm telling the truth.
+
+196
+00:09:30,120 --> 00:09:31,240
+What's up with her?
+
+197
+00:09:33,160 --> 00:09:35,640
+Working theory? Cabin fever.
+
+198
+00:09:37,160 --> 00:09:39,920
+Working theory? Space madness.
+
+199
+00:09:41,000 --> 00:09:42,520
+Acute entropic dementia.
+
+200
+00:09:43,480 --> 00:09:44,560
+Too many donuts.
+
+201
+00:09:46,280 --> 00:09:48,280
+I mean, it could be anything.
+
+202
+00:09:53,600 --> 00:09:55,760
+Must have developed
+a sedative tolerance.
+
+203
+00:10:03,840 --> 00:10:05,200
+What's the plan, Z?
+
+204
+00:10:05,920 --> 00:10:07,240
+First, you piss off Sara,
+
+205
+00:10:07,320 --> 00:10:08,560
+and now you're sneaking
+out of the MedBay.
+
+206
+00:10:08,640 --> 00:10:09,960
+Yeah, I don't have a plan,
+
+207
+00:10:10,040 --> 00:10:12,840
+because nothing I do
+matters anyway.
+
+208
+00:10:12,920 --> 00:10:15,280
+Sara always yells at me,
+nobody believes what I say,
+
+209
+00:10:15,360 --> 00:10:17,320
+and Ray always trips
+on his platforms.
+
+210
+00:10:18,880 --> 00:10:20,840
+I have no idea why I'm stuck
+in this time loop.
+
+211
+00:10:20,960 --> 00:10:23,440
+Time loop, you mean like
+<i>Groundhog Day?</i>
+
+212
+00:10:24,200 --> 00:10:25,520
+You don't know <i>Groundhog?</i>
+
+213
+00:10:25,840 --> 00:10:27,160
+All right,
+it's a movie about this guy
+
+214
+00:10:27,240 --> 00:10:29,720
+who lives the same day
+over and over and over again
+
+215
+00:10:29,800 --> 00:10:31,360
+until he learns
+to be a better person.
+
+216
+00:10:31,440 --> 00:10:34,520
+I know it sounds totally hacky,
+however, it's very well executed...
+
+217
+00:10:36,240 --> 00:10:37,280
+What's that noise?
+
+218
+00:10:37,560 --> 00:10:39,960
+Oh, that noise just means
+that we're all about to die.
+
+219
+00:10:40,360 --> 00:10:43,360
+All right,
+if what you're saying is true,
+
+220
+00:10:43,600 --> 00:10:45,640
+and you find yourself
+in the loop again,
+
+221
+00:10:45,960 --> 00:10:49,240
+find me, and say the words
+<i>Groundhog Day.</i>
+
+222
+00:10:49,600 --> 00:10:50,960
+Just do it!
+
+223
+00:10:53,440 --> 00:10:55,960
+Well, as long as you
+are on this ship, I'm your captain,
+
+224
+00:10:56,040 --> 00:10:57,040
+and if you don't like it,
+
+225
+00:10:57,120 --> 00:10:58,720
+- you can stop sticking...
+- Stop sticking around.
+
+226
+00:10:58,800 --> 00:11:00,120
+- Yeah.
+- around.
+
+227
+00:11:03,600 --> 00:11:04,760
+Oh, and watch out, Ray.
+
+228
+00:11:04,840 --> 00:11:05,840
+Watch out for...
+
+229
+00:11:09,640 --> 00:11:10,880
+How did she know that?
+
+230
+00:11:11,040 --> 00:11:12,520
+Nate... Nate...
+
+231
+00:11:12,960 --> 00:11:13,960
+Library.
+
+232
+00:11:15,040 --> 00:11:17,880
+We can't put the rest
+of the team at risk, all right?
+
+233
+00:11:17,960 --> 00:11:20,040
+Until we can figure out
+a way to behave professionally,
+
+234
+00:11:20,120 --> 00:11:23,000
+we'll just have to forget
+that this ever happened.
+
+235
+00:11:23,080 --> 00:11:24,960
+- I can't.
+- Just try.
+
+236
+00:11:32,360 --> 00:11:33,360
+Nate.
+
+237
+00:11:33,800 --> 00:11:35,640
+Amaya and I were just, you know,
+working on our harmonies,
+
+238
+00:11:35,720 --> 00:11:36,760
+in case we have to impersonate...
+
+239
+00:11:36,840 --> 00:11:39,080
+Yeah, yeah, whatever.
+I have something to tell you.
+
+240
+00:11:40,560 --> 00:11:41,640
+Hedgehog Day.
+
+241
+00:11:44,120 --> 00:11:45,920
+Damn it, you told me
+if I said "Hedgehog Day,"
+
+242
+00:11:46,000 --> 00:11:47,600
+you would know
+what I was talking about.
+
+243
+00:11:48,120 --> 00:11:49,760
+Do you mean <i>Groundhog Day?</i>
+
+244
+00:11:50,680 --> 00:11:52,920
+Why would I tell you to tell me
+about a Bill Murray movie?
+
+245
+00:11:53,000 --> 00:11:56,000
+I don't know, all I know
+is I'm stuck in this time loop...
+
+246
+00:11:56,080 --> 00:11:58,880
+Like <i>Groundhog Day!</i>
+Okay, got it, okay.
+
+247
+00:11:58,960 --> 00:11:59,960
+- Yeah.
+- You do?
+
+248
+00:12:02,120 --> 00:12:03,800
+And you'll help me figure out
+what's going on?
+
+249
+00:12:03,880 --> 00:12:05,120
+Yeah, that's what friends are for.
+
+250
+00:12:05,360 --> 00:12:06,880
+- We're friends?
+- Of course.
+
+251
+00:12:06,960 --> 00:12:08,240
+So, lay it on me. What's happening?
+
+252
+00:12:08,320 --> 00:12:09,520
+All right,
+how about instead of trying
+
+253
+00:12:09,600 --> 00:12:11,040
+to stop the ship from exploding,
+
+254
+00:12:11,120 --> 00:12:12,600
+we all get on the jump ship
+and escape?
+
+255
+00:12:12,680 --> 00:12:14,080
+Yeah, while you guys were out,
+I was running
+
+256
+00:12:14,160 --> 00:12:16,040
+my own little side mission,
+which crashed Gideon.
+
+257
+00:12:16,120 --> 00:12:18,200
+With her down, the jump ship's
+locked into the docking bay.
+
+258
+00:12:18,280 --> 00:12:19,520
+So, we need to talk to Sara.
+
+259
+00:12:19,600 --> 00:12:21,080
+No, I already tried.
+She never listens to me.
+
+260
+00:12:21,160 --> 00:12:22,560
+Probably too pissed off.
+
+261
+00:12:23,520 --> 00:12:26,920
+You know, thinking about
+the vibration pattern of the blast,
+
+262
+00:12:27,000 --> 00:12:28,880
+I don't think we were attacked
+from the outside.
+
+263
+00:12:28,960 --> 00:12:31,720
+The explosion was caused
+by someone on the ship.
+
+264
+00:12:33,360 --> 00:12:36,320
+I seriously doubt anybody
+would blow up the ship on purpose.
+
+265
+00:12:36,400 --> 00:12:37,400
+So, where do we start?
+
+266
+00:12:37,480 --> 00:12:38,960
+I mean, you've all been
+acting a little suspicious
+
+267
+00:12:39,040 --> 00:12:40,440
+since you got back from the mission.
+
+268
+00:12:43,360 --> 00:12:44,800
+Mick doing laundry.
+
+269
+00:12:45,280 --> 00:12:48,080
+- Now that's suspicious.
+- Yeah, very.
+
+270
+00:12:52,520 --> 00:12:54,560
+- Go.
+- Got to get this damn song
+
+271
+00:12:54,640 --> 00:12:55,640
+out of my head.
+
+272
+00:12:55,720 --> 00:12:57,400
+Which one? <i>Waterloo?</i>
+
+273
+00:12:58,520 --> 00:13:00,440
+Don't mention it.
+
+274
+00:13:04,920 --> 00:13:06,640
+- Did it work?
+- Did what work?
+
+275
+00:13:06,720 --> 00:13:08,520
+Why am I holding
+the thingy in my hand?
+
+276
+00:13:08,600 --> 00:13:09,760
+I'll look after it, Mick.
+
+277
+00:13:10,360 --> 00:13:12,360
+Okay. Good.
+
+278
+00:13:12,440 --> 00:13:15,400
+I got to get my undies in the dryer
+before Haircut does.
+
+279
+00:13:22,960 --> 00:13:24,680
+Why would Amaya
+want the memory flasher?
+
+280
+00:13:24,760 --> 00:13:26,080
+Could have something to do
+with Kuasa.
+
+281
+00:13:26,160 --> 00:13:27,360
+She does want to help her.
+
+282
+00:13:27,440 --> 00:13:31,240
+What if Kuasa somehow
+convinced her to blow up the ship?
+
+283
+00:13:31,320 --> 00:13:33,480
+Take it easy on the conspiracy juice.
+
+284
+00:13:34,240 --> 00:13:36,080
+- I'll find out what's going on.
+- All right.
+
+285
+00:13:39,440 --> 00:13:40,440
+Hey.
+
+286
+00:13:41,440 --> 00:13:43,560
+I thought Sara told you
+to fix the ship.
+
+287
+00:13:43,640 --> 00:13:45,120
+Yeah, like she always does.
+
+288
+00:13:45,200 --> 00:13:49,720
+Yeah, look, I know Sara can be tough,
+especially when you make her mad.
+
+289
+00:13:49,800 --> 00:13:52,360
+Hey, why are you so worried
+about Sara's temper?
+
+290
+00:13:52,440 --> 00:13:54,600
+No, I just... You know the saying.
+
+291
+00:13:55,280 --> 00:13:56,280
+Happy Captain,
+
+292
+00:13:56,360 --> 00:13:58,240
+- happy ship, yeah.
+- Happy ship. Yeah.
+
+293
+00:13:58,320 --> 00:14:01,640
+Oh, I guess... I guess my catchphrase
+is catching on in the future.
+
+294
+00:14:02,360 --> 00:14:06,240
+Yeah. Yeah, everyone
+is saying it where I'm from.
+
+295
+00:14:07,880 --> 00:14:08,880
+That's cool.
+
+296
+00:14:09,200 --> 00:14:11,080
+Come on, Nate,
+we're running out of time.
+
+297
+00:14:11,200 --> 00:14:12,640
+What are you doing in there?
+
+298
+00:14:14,200 --> 00:14:18,960
+The truth is, when it comes to you,
+I'm not as strong as I'd like to be.
+
+299
+00:14:19,440 --> 00:14:21,160
+With this, we can both forget
+it happened.
+
+300
+00:14:22,320 --> 00:14:23,600
+Yeah, you're right.
+
+301
+00:14:23,680 --> 00:14:26,640
+With everything going on
+with Mallus, Kuasa,
+
+302
+00:14:26,720 --> 00:14:28,440
+and Zari mentioned something
+about the ship,
+
+303
+00:14:28,520 --> 00:14:29,600
+we should be clear-headed.
+
+304
+00:14:29,680 --> 00:14:30,880
+- Yeah.
+- Yeah.
+
+305
+00:14:33,520 --> 00:14:38,440
+But since we're going to
+flash ourselves anyway...
+
+306
+00:14:39,080 --> 00:14:42,120
+I mean, it's not like we'd remember.
+
+307
+00:14:43,520 --> 00:14:44,680
+Nate.
+
+308
+00:14:48,000 --> 00:14:49,320
+Thank God.
+
+309
+00:14:51,960 --> 00:14:53,320
+Come here, tiger.
+
+310
+00:15:00,720 --> 00:15:01,720
+Kill me now.
+
+311
+00:15:05,280 --> 00:15:08,040
+- Nate!
+- Oh, hey, Amaya and I were just...
+
+312
+00:15:08,120 --> 00:15:09,840
+<i>Groundhog Day!</i>
+One hour, ship explodes!
+
+313
+00:15:09,920 --> 00:15:10,920
+You're stuck in a time loop,
+
+314
+00:15:11,000 --> 00:15:12,200
+and we have to stop
+the ship from exploding?
+
+315
+00:15:12,280 --> 00:15:13,640
+Exactly, and I think that someone...
+
+316
+00:15:13,720 --> 00:15:15,600
+- Is triggering the explosion.
+- It's probably an accident,
+
+317
+00:15:15,680 --> 00:15:17,520
+but we have to investigate everyone
+to figure out who's causing it.
+
+318
+00:15:17,600 --> 00:15:19,080
+There's a lot of secrets
+on this ship.
+
+319
+00:15:19,160 --> 00:15:21,280
+- Let's start with Amaya.
+- Why? So you can sex with her?
+
+320
+00:15:21,360 --> 00:15:22,360
+- That's crazy.
+- No.
+
+321
+00:15:22,440 --> 00:15:23,480
+You two flashing each other
+afterwards
+
+322
+00:15:23,560 --> 00:15:24,800
+in order to forget, that's crazy.
+
+323
+00:15:24,880 --> 00:15:26,560
+Why would we flash each other
+after having sex?
+
+324
+00:15:26,640 --> 00:15:28,680
+- Focus, Nate!
+- Right, ship exploding.
+
+325
+00:15:28,760 --> 00:15:29,840
+- Got it.
+- Let's go find Rory.
+
+326
+00:15:29,920 --> 00:15:33,000
+Right, she probably wants
+to forget how awesome it was.
+
+327
+00:15:33,480 --> 00:15:34,600
+Or how short.
+
+328
+00:15:34,680 --> 00:15:36,720
+So, I've timed out his schedule.
+
+329
+00:15:37,000 --> 00:15:40,840
+He always leaves right about now.
+
+330
+00:15:42,240 --> 00:15:43,240
+Here.
+
+331
+00:15:51,280 --> 00:15:52,280
+Come on.
+
+332
+00:15:57,160 --> 00:15:58,600
+Suspicious looking box.
+
+333
+00:15:58,680 --> 00:15:59,840
+Careful, for all we know,
+
+334
+00:15:59,920 --> 00:16:01,280
+it could be the cause
+of the explosion.
+
+335
+00:16:01,360 --> 00:16:04,400
+We just got to take it nice and...
+
+336
+00:16:05,360 --> 00:16:07,720
+- Oh, my God!
+- Oh, my God!
+
+337
+00:16:07,840 --> 00:16:09,560
+- Oh, my God!
+- Oh, my God!
+
+338
+00:16:12,920 --> 00:16:15,240
+Nice save.
+
+339
+00:16:15,480 --> 00:16:17,240
+Can you imagine if I tripped that?
+
+340
+00:16:17,560 --> 00:16:19,040
+Yeah, I don't have to imagine it.
+
+341
+00:16:19,240 --> 00:16:21,720
+Okay. Okay.
+
+342
+00:16:22,600 --> 00:16:23,600
+Here we go.
+
+343
+00:16:28,680 --> 00:16:29,680
+Damn it.
+
+344
+00:16:33,760 --> 00:16:35,200
+So, you got all the traps?
+
+345
+00:16:35,520 --> 00:16:38,000
+I don't know.
+I've never gotten this far before.
+
+346
+00:16:38,320 --> 00:16:39,320
+Okay.
+
+347
+00:16:50,080 --> 00:16:54,160
+Why would Mick rig all these traps
+for a damn typewriter?
+
+348
+00:16:54,960 --> 00:16:57,840
+Maybe it's his criminal manifesto.
+
+349
+00:16:58,160 --> 00:16:59,160
+Let me see this.
+
+350
+00:17:00,360 --> 00:17:03,480
+This says "bosom" far too
+many times to be a manifesto.
+
+351
+00:17:03,560 --> 00:17:07,280
+<i>As the twin sons
+of Dartayus set on the horizon,</i>
+
+352
+00:17:07,360 --> 00:17:12,520
+<i>her heaving bosom undulated
+like the soothing waves of the bay.</i>
+
+353
+00:17:12,600 --> 00:17:16,120
+<i>Buck swept her
+into his musky embrace.</i>
+
+354
+00:17:16,200 --> 00:17:18,680
+Mick's writing
+a sci-fi romance novel.
+
+355
+00:17:18,760 --> 00:17:19,760
+Yeah.
+
+356
+00:17:20,000 --> 00:17:22,160
+Well, that's the last thing
+I thought I'd see before I die.
+
+357
+00:17:23,760 --> 00:17:26,200
+Oh, funny you should say that.
+
+358
+00:17:27,920 --> 00:17:30,720
+So, you're saying Rory
+and Amaya are in the clear.
+
+359
+00:17:30,800 --> 00:17:32,200
+Which is why
+we're going to go visit Ray.
+
+360
+00:17:32,280 --> 00:17:33,400
+He's been acting twitchy.
+
+361
+00:17:33,480 --> 00:17:35,520
+Well, let's go spy on my best friend.
+
+362
+00:17:39,360 --> 00:17:41,000
+Oh, wow, that's boring.
+
+363
+00:17:41,080 --> 00:17:42,920
+I think we can cross him off
+our suspect list.
+
+364
+00:17:43,320 --> 00:17:45,960
+Ray, have you seen Zari?
+
+365
+00:17:46,040 --> 00:17:48,320
+I just checked the Engine Room,
+she's not there.
+
+366
+00:17:49,040 --> 00:17:50,040
+No, I haven't.
+
+367
+00:17:50,680 --> 00:17:54,920
+I'm sick and tired of playing mom.
+She's really starting to piss me off.
+
+368
+00:17:55,040 --> 00:17:56,920
+Well, in the meantime,
+how about some tea?
+
+369
+00:17:57,000 --> 00:17:59,720
+It's my signature blend
+of chamomile lavender rose.
+
+370
+00:17:59,840 --> 00:18:00,880
+Very relaxing.
+
+371
+00:18:00,960 --> 00:18:03,120
+If you see Zari,
+tell her I'm looking for her.
+
+372
+00:18:03,200 --> 00:18:04,200
+Yeah.
+
+373
+00:18:05,840 --> 00:18:07,640
+- Ray.
+- Holy Toledo!
+
+374
+00:18:07,880 --> 00:18:09,840
+Where'd you guys come from?
+Were you spying on me?
+
+375
+00:18:09,920 --> 00:18:11,160
+Of course you were,
+I shouldn't say anything.
+
+376
+00:18:11,240 --> 00:18:12,320
+Okay, I'll tell you everything!
+
+377
+00:18:12,400 --> 00:18:13,600
+Constantine told me to kill Sara
+
+378
+00:18:13,680 --> 00:18:15,360
+if Mallus ever takes control
+of her again.
+
+379
+00:18:16,000 --> 00:18:17,800
+Wow, dude, that's heavy.
+
+380
+00:18:18,400 --> 00:18:21,240
+Wait, maybe Sara Malluses out
+and blows up the ship.
+
+381
+00:18:21,320 --> 00:18:22,320
+What do you mean
+she blows up the ship?
+
+382
+00:18:22,400 --> 00:18:24,920
+Zari's caught in a time loop
+and the ship explodes every hour.
+
+383
+00:18:25,000 --> 00:18:26,400
+- Yeah.
+- Oh, like <i>Cause and Effect.</i>
+
+384
+00:18:26,480 --> 00:18:28,160
+- What?
+<i>- Star Trek: The Next Generation.</i>
+
+385
+00:18:28,240 --> 00:18:29,920
+- It's <i>Groundhog Day.</i>
+- Fair enough.
+
+386
+00:18:30,000 --> 00:18:31,000
+But <i>Star Trek...</i>
+
+387
+00:18:31,120 --> 00:18:33,000
+Wait, the ship explodes in an hour?
+
+388
+00:18:33,080 --> 00:18:35,120
+Yeah, actually, 24 minutes.
+
+389
+00:18:35,200 --> 00:18:37,240
+And I think someone onboard
+is causing it.
+
+390
+00:18:37,320 --> 00:18:38,560
+- Mick.
+- Is clean.
+
+391
+00:18:38,640 --> 00:18:41,080
+- Unlike his literary erotica.
+- Excuse me, what?
+
+392
+00:18:41,160 --> 00:18:44,120
+Long story,
+like literally a long story.
+
+393
+00:18:44,200 --> 00:18:45,680
+- So weird. There was blue...
+- It's a thousand pages long.
+
+394
+00:18:45,760 --> 00:18:46,760
+It's just...
+
+395
+00:18:47,520 --> 00:18:50,240
+Anyway, the captain's the only one
+we haven't checked out.
+
+396
+00:18:50,360 --> 00:18:52,280
+For that, we need your help, Ray.
+
+397
+00:18:55,880 --> 00:18:57,560
+What is she doing
+going into the jump ship?
+
+398
+00:18:57,640 --> 00:18:59,800
+With Gideon down,
+it's not like she can go anywhere.
+
+399
+00:19:00,000 --> 00:19:01,880
+Wait, is there a way
+she could cause the explosion
+
+400
+00:19:01,960 --> 00:19:02,960
+from the jump ship?
+
+401
+00:19:03,400 --> 00:19:04,640
+Could be any number of ways.
+
+402
+00:19:04,720 --> 00:19:06,840
+And with Mallus,
+who knows what he's capable of?
+
+403
+00:19:06,920 --> 00:19:08,680
+I'm worried about
+what we're going to find in there.
+
+404
+00:19:08,760 --> 00:19:10,080
+I hope we don't have to use this.
+
+405
+00:19:10,360 --> 00:19:11,360
+You ready?
+
+406
+00:19:11,480 --> 00:19:14,200
+Yeah, let's shrink, Ray.
+
+407
+00:19:35,560 --> 00:19:37,080
+You sure she can't see us?
+
+408
+00:19:37,240 --> 00:19:39,000
+No, not when we're in stealth mode,
+
+409
+00:19:39,080 --> 00:19:40,600
+which really just means
+library voices
+
+410
+00:19:40,680 --> 00:19:41,880
+and no sudden movements.
+
+411
+00:19:47,000 --> 00:19:48,720
+- Hey.
+<i>- Hey.</i>
+
+412
+00:19:49,120 --> 00:19:50,120
+<i>What are you up to?</i>
+
+413
+00:19:50,200 --> 00:19:52,600
+Oh, you know, crossword puzzles.
+
+414
+00:19:53,040 --> 00:19:54,040
+<i>You look tired.</i>
+
+415
+00:19:54,360 --> 00:19:56,520
+- Thanks, jerk.
+<i>- No, no, I didn't...</i>
+
+416
+00:19:57,200 --> 00:19:59,840
+<i>I mean, you always look good,
+I just...</i>
+
+417
+00:20:00,360 --> 00:20:01,600
+<i>You have a long day, or...</i>
+
+418
+00:20:01,720 --> 00:20:03,160
+You have no idea.
+
+419
+00:20:03,680 --> 00:20:08,800
+There's this person on my team,
+and she is reckless.
+
+420
+00:20:08,880 --> 00:20:10,560
+She doesn't take orders.
+
+421
+00:20:12,360 --> 00:20:17,280
+And it's, like, I want to tell her
+how important she is to this team.
+
+422
+00:20:17,400 --> 00:20:21,680
+Because she is, but,
+sometimes, I tell you,
+
+423
+00:20:21,760 --> 00:20:23,320
+she does not make it easy.
+
+424
+00:20:23,600 --> 00:20:24,600
+<i>What'd she do?</i>
+
+425
+00:20:24,760 --> 00:20:28,760
+Well, she hijacked Gideon,
+crashed our entire system
+
+426
+00:20:28,840 --> 00:20:32,280
+testing out some simulation software
+that finds loopholes in history.
+
+427
+00:20:32,600 --> 00:20:34,880
+<i>That is definitely
+against regulations.</i>
+
+428
+00:20:35,920 --> 00:20:38,360
+<i>Not that I haven't been tempted
+to change the past.</i>
+
+429
+00:20:38,440 --> 00:20:42,600
+It's just... I don't even want
+to start looking for loopholes,
+
+430
+00:20:42,760 --> 00:20:44,440
+because then I'm going to start
+looking for ways
+
+431
+00:20:44,520 --> 00:20:45,520
+to save my sister,
+
+432
+00:20:45,600 --> 00:20:47,200
+and then I'm going to drive
+myself crazy.
+
+433
+00:20:47,280 --> 00:20:49,160
+<i>Yes, you will. So don't.</i>
+
+434
+00:20:50,400 --> 00:20:53,160
+I'm just tired of always
+being the bad cop, you know?
+
+435
+00:20:54,160 --> 00:20:55,680
+<i>Believe me, I understand.</i>
+
+436
+00:20:55,760 --> 00:20:58,240
+<i>I've lost count of how many times
+I've had to yell at cadets</i>
+
+437
+00:20:58,320 --> 00:21:01,080
+<i>for screwing up or bust them
+for breaking protocol.</i>
+
+438
+00:21:01,160 --> 00:21:03,800
+Yeah, I don't know,
+I feel like you might like that.
+
+439
+00:21:03,880 --> 00:21:07,000
+You seem to get a kick
+out of ordering people around.
+
+440
+00:21:07,600 --> 00:21:09,680
+<i>Maybe, just a little bit.</i>
+
+441
+00:21:11,440 --> 00:21:12,880
+<i>Where are you calling me from?</i>
+
+442
+00:21:12,960 --> 00:21:14,880
+<i>I don't recognize that part
+of the Waverider.</i>
+
+443
+00:21:15,400 --> 00:21:16,760
+Welcome to the jump ship.
+
+444
+00:21:17,600 --> 00:21:18,880
+<i>Are you hiding, Miss Lance?</i>
+
+445
+00:21:18,960 --> 00:21:19,960
+No.
+
+446
+00:21:20,480 --> 00:21:23,400
+I am simply looking for some privacy.
+
+447
+00:21:25,200 --> 00:21:27,880
+<i>Well, maybe I should come over.</i>
+
+448
+00:21:29,600 --> 00:21:32,080
+Yeah, yeah, but like, I mean,
+
+449
+00:21:32,160 --> 00:21:35,840
+I'm sure that you are super,
+super busy.
+
+450
+00:21:35,920 --> 00:21:36,960
+<i>It's the perks of being the boss.</i>
+
+451
+00:21:37,040 --> 00:21:38,640
+<i>I can just tell Gary
+I have a meeting.</i>
+
+452
+00:21:39,640 --> 00:21:42,560
+Yeah, boss, speaking
+of, I should probably go
+
+453
+00:21:42,640 --> 00:21:44,000
+check on the rest of the team,
+
+454
+00:21:44,080 --> 00:21:45,960
+make sure nobody's
+going to blow up the ship.
+
+455
+00:21:47,360 --> 00:21:48,360
+<i>Okay.</i>
+
+456
+00:21:49,000 --> 00:21:52,800
+<i>Well, yeah, if you,
+if you change your mind, or whatever.</i>
+
+457
+00:21:52,880 --> 00:21:55,720
+Does Sara not realize how hard
+that woman's crushing on her?
+
+458
+00:21:56,240 --> 00:21:58,200
+Maybe she's just got no finish?
+
+459
+00:21:58,520 --> 00:22:00,760
+No. Captain knows how to "close."
+
+460
+00:22:00,840 --> 00:22:02,200
+This is something different.
+
+461
+00:22:02,280 --> 00:22:04,560
+- Hey, she's going to hear us.
+- Okay, do you hear that?
+
+462
+00:22:04,640 --> 00:22:08,200
+Because I've been hearing
+this high-pitched buzzing sound.
+
+463
+00:22:08,280 --> 00:22:10,000
+It sounds like there's a fly
+in the jump ship.
+
+464
+00:22:10,080 --> 00:22:12,400
+<i>Did you say a fly?
+You have to kill it.</i>
+
+465
+00:22:12,480 --> 00:22:13,520
+<i>You have no idea
+what year it's from.</i>
+
+466
+00:22:13,600 --> 00:22:14,600
+<i>You could reintroduce the plague</i>
+
+467
+00:22:14,680 --> 00:22:16,320
+<i>and have a whole other crisis
+on your hands.</i>
+
+468
+00:22:21,560 --> 00:22:22,560
+Look out!
+
+469
+00:22:26,600 --> 00:22:29,400
+<i>Groundhog Day,</i> exploding ship,
+
+470
+00:22:30,200 --> 00:22:31,280
+personal hell.
+
+471
+00:22:31,600 --> 00:22:32,800
+We're stuck in a time loop.
+
+472
+00:22:32,880 --> 00:22:34,520
+Winner, winner, chicken dinner.
+
+473
+00:22:34,600 --> 00:22:36,760
+It was only a matter of time
+before we did one of these.
+
+474
+00:22:37,400 --> 00:22:39,920
+Damn, girl, you look wrecked.
+How many times have we done this?
+
+475
+00:22:40,000 --> 00:22:42,240
+How many times have you asked me,
+"How many times have we done this,"
+
+476
+00:22:42,320 --> 00:22:43,840
+or how many times
+have we all been blown up?
+
+477
+00:22:43,920 --> 00:22:46,760
+So, you've been stuck
+in this loop for a while?
+
+478
+00:22:46,840 --> 00:22:49,080
+Yeah, like forever.
+
+479
+00:22:49,320 --> 00:22:50,320
+It's okay.
+
+480
+00:22:50,600 --> 00:22:53,000
+Maybe you could use a break.
+
+481
+00:22:53,240 --> 00:22:55,240
+- Have some fun.
+- Fun?
+
+482
+00:22:55,560 --> 00:22:57,640
+I blow up every hour.
+
+483
+00:22:57,840 --> 00:23:00,560
+Exactly. No consequences.
+
+484
+00:23:08,840 --> 00:23:09,840
+Cheers.
+
+485
+00:23:10,920 --> 00:23:11,920
+Yeah!
+
+486
+00:23:31,600 --> 00:23:32,600
+<i>Stradivarius</i>
+
+487
+00:24:03,520 --> 00:24:07,200
+Not bad, Mr. Rory, not at all.
+
+488
+00:24:07,280 --> 00:24:08,720
+You're such an idiot.
+
+489
+00:24:08,840 --> 00:24:10,400
+If you wash your clothes inside out,
+
+490
+00:24:10,480 --> 00:24:12,760
+it helps keeps them
+looking newer longer. Try it.
+
+491
+00:24:14,000 --> 00:24:17,640
+- I never see you wear this.
+- Stop touching my clothes.
+
+492
+00:24:17,760 --> 00:24:19,320
+I'm just saying, it's a nice color.
+
+493
+00:24:19,400 --> 00:24:22,600
+<i>Grunt</i>
+
+494
+00:24:24,480 --> 00:24:25,880
+<i>Confused looks</i>
+
+495
+00:24:25,960 --> 00:24:27,760
+<i>Ship goes boom</i>
+
+496
+00:24:33,720 --> 00:24:34,720
+Nate.
+
+497
+00:24:35,000 --> 00:24:37,800
+- Hey, Amaya and I were just...
+- Feeling bad that you two had sex
+
+498
+00:24:37,880 --> 00:24:39,280
+and almost screwed up
+a mission, don't care.
+
+499
+00:24:39,360 --> 00:24:41,000
+<i>Groundhog Day,</i> ship explodes.
+
+500
+00:24:41,080 --> 00:24:42,640
+Wait, you're caught in a time loop?
+
+501
+00:24:42,720 --> 00:24:44,760
+- That's awesome.
+- I can't do this anymore.
+
+502
+00:24:44,840 --> 00:24:47,080
+- I'm losing my mind.
+- Wait, did you do the...
+
+503
+00:24:47,160 --> 00:24:48,440
+- Fun montage?
+- Yeah.
+
+504
+00:24:48,520 --> 00:24:50,440
+Yeah, thanks for that.
+You're a good friend.
+
+505
+00:24:52,800 --> 00:24:54,280
+Nothing's fun anymore.
+
+506
+00:24:55,720 --> 00:24:57,160
+That's not good.
+
+507
+00:25:01,040 --> 00:25:02,400
+Hey, take it easy.
+
+508
+00:25:02,480 --> 00:25:03,640
+This is the only option
+I haven't tried.
+
+509
+00:25:03,720 --> 00:25:04,720
+Maybe it'll stop the loop.
+
+510
+00:25:04,800 --> 00:25:07,480
+- Hey! What the hell's going on?
+- Don't come closer.
+
+511
+00:25:11,520 --> 00:25:13,080
+- Typical.
+- Hey.
+
+512
+00:25:14,480 --> 00:25:16,200
+It's okay,
+let's talk this one through.
+
+513
+00:25:16,280 --> 00:25:18,280
+It doesn't matter,
+you won't believe me.
+
+514
+00:25:18,840 --> 00:25:19,840
+Try me.
+
+515
+00:25:20,240 --> 00:25:24,040
+I keep reliving the same hour
+over and over again,
+
+516
+00:25:24,120 --> 00:25:26,760
+and no matter what I do,
+the ship explodes.
+
+517
+00:25:26,920 --> 00:25:28,080
+Kills us all.
+
+518
+00:25:28,240 --> 00:25:29,800
+And I'm totally alone in it,
+
+519
+00:25:29,880 --> 00:25:31,360
+because for some reason,
+I'm the only one
+
+520
+00:25:31,440 --> 00:25:33,600
+that's even aware
+that it's happening.
+
+521
+00:25:33,800 --> 00:25:36,840
+And I try so hard, but...
+
+522
+00:25:38,520 --> 00:25:40,600
+I can never save any of you.
+
+523
+00:25:42,000 --> 00:25:43,720
+Okay, I want to help.
+
+524
+00:25:44,960 --> 00:25:46,280
+Wait, you believe me?
+
+525
+00:25:46,800 --> 00:25:48,720
+Yeah, how much time do we have left?
+
+526
+00:25:52,760 --> 00:25:55,040
+All right, people, for reasons
+that are too complicated
+
+527
+00:25:55,120 --> 00:25:57,040
+to explain right now,
+we have to search the ship.
+
+528
+00:25:57,120 --> 00:25:58,200
+Zari says that there's a bomb,
+
+529
+00:25:58,280 --> 00:25:59,360
+and it's going to explode
+in 30 minutes.
+
+530
+00:25:59,440 --> 00:26:00,920
+We have to find out why.
+
+531
+00:26:01,520 --> 00:26:03,520
+Okay, well, the Galley is clear.
+
+532
+00:26:03,600 --> 00:26:06,040
+Right, and I checked
+the sleeping quarters.
+
+533
+00:26:06,680 --> 00:26:08,240
+You went into our rooms?
+
+534
+00:26:08,720 --> 00:26:11,000
+Yeah. The library.
+
+535
+00:26:11,080 --> 00:26:12,560
+What did you see in the library?
+
+536
+00:26:12,640 --> 00:26:14,720
+Something I can never un-see.
+
+537
+00:26:15,080 --> 00:26:18,000
+Guys, I think I looked everywhere,
+there's nothing.
+
+538
+00:26:27,120 --> 00:26:29,480
+You didn't check the trash compactor.
+
+539
+00:26:29,840 --> 00:26:31,760
+I didn't even know
+there was a trash compactor.
+
+540
+00:26:31,840 --> 00:26:33,840
+Well, it's not really
+part of the tour.
+
+541
+00:26:37,160 --> 00:26:38,160
+Gary?
+
+542
+00:26:38,760 --> 00:26:41,640
+The time dweeb!
+What the hell are you doing here?
+
+543
+00:26:42,160 --> 00:26:43,200
+Thank God, you found me.
+
+544
+00:26:43,280 --> 00:26:45,440
+What are you doing down there?
+
+545
+00:26:45,520 --> 00:26:47,920
+I... I tried to portal
+onto the bridge,
+
+546
+00:26:48,000 --> 00:26:50,360
+but didn't account for drift
+in the Temporal Zone.
+
+547
+00:26:50,440 --> 00:26:51,760
+My landing was hot
+and my time courier
+
+548
+00:26:51,840 --> 00:26:52,840
+broke on impact.
+
+549
+00:26:52,920 --> 00:26:54,280
+That's how I got stuck in here.
+
+550
+00:26:54,520 --> 00:26:59,120
+- Not the plan, but I adapted.
+- Yeah, but why are you on the ship?
+
+551
+00:26:59,200 --> 00:27:00,760
+What the hell you got in here?
+
+552
+00:27:01,320 --> 00:27:02,840
+- A bomb!
+- No! No!
+
+553
+00:27:04,200 --> 00:27:05,720
+That was our only chance
+of surviving.
+
+554
+00:27:05,800 --> 00:27:07,000
+- What do you mean?
+- He just destroyed
+
+555
+00:27:07,080 --> 00:27:09,360
+the chrono-repeater
+I used to initiate a time loop
+
+556
+00:27:09,440 --> 00:27:11,000
+in order to save you guys.
+
+557
+00:27:11,200 --> 00:27:13,680
+- What?
+- I always wanted to die young.
+
+558
+00:27:13,760 --> 00:27:15,720
+Okay, nobody is going to die.
+
+559
+00:27:15,800 --> 00:27:18,560
+Well, actually,
+I got an alert that the Waverider
+
+560
+00:27:18,640 --> 00:27:21,400
+exploded at precisely 4:20
+Temporal Standard Time.
+
+561
+00:27:21,480 --> 00:27:22,760
+- What?
+- 4:20.
+
+562
+00:27:22,840 --> 00:27:24,160
+Get to the point, Gary.
+
+563
+00:27:24,240 --> 00:27:25,240
+I took matters into my own hands,
+
+564
+00:27:25,320 --> 00:27:26,480
+but because
+of my little portal mishap,
+
+565
+00:27:26,560 --> 00:27:28,080
+I couldn't warn you about the bomb.
+
+566
+00:27:28,160 --> 00:27:29,440
+But I could operate
+the chrono-repeater,
+
+567
+00:27:29,520 --> 00:27:31,040
+which is programmed
+to start a one hour loop
+
+568
+00:27:31,120 --> 00:27:32,120
+prior to the explosion,
+
+569
+00:27:32,200 --> 00:27:33,320
+and I had hoped that would
+give you enough time
+
+570
+00:27:33,400 --> 00:27:34,720
+to defuse the bomb yourselves.
+
+571
+00:27:34,800 --> 00:27:36,440
+So, now that this is destroyed...
+
+572
+00:27:36,520 --> 00:27:37,720
+There are no more time loops.
+
+573
+00:27:37,800 --> 00:27:41,200
+So, once there's an explosion,
+that's it. Kablooey.
+
+574
+00:27:41,280 --> 00:27:43,560
+All right, so what you're saying
+is we have five minutes
+
+575
+00:27:43,640 --> 00:27:45,920
+to find this bomb before we all die.
+
+576
+00:27:46,160 --> 00:27:47,440
+Permanently.
+
+577
+00:27:48,480 --> 00:27:49,920
+All right, people,
+we've got five minutes
+
+578
+00:27:50,000 --> 00:27:52,080
+to find this bomb before it explodes.
+
+579
+00:27:52,160 --> 00:27:53,240
+We got to think fast.
+
+580
+00:27:53,320 --> 00:27:54,520
+Before I portaled onto the ship,
+
+581
+00:27:54,600 --> 00:27:56,680
+I traced the temporal signature
+of the bomb.
+
+582
+00:27:56,760 --> 00:27:58,480
+It originated in 1975.
+
+583
+00:27:58,560 --> 00:28:01,200
+So, the bomb must be something
+from your last mission.
+
+584
+00:28:01,280 --> 00:28:03,200
+It could be hidden in the heel
+of one of the platform shoes.
+
+585
+00:28:03,280 --> 00:28:05,280
+What about that stupid song?
+
+586
+00:28:07,040 --> 00:28:08,120
+Genius.
+
+587
+00:28:15,840 --> 00:28:18,200
+The one place I didn't look.
+
+588
+00:28:18,280 --> 00:28:20,720
+Why the hell would someone put a bomb
+inside of an anachronism?
+
+589
+00:28:20,800 --> 00:28:22,440
+Damien Darhk
+must've planted it there,
+
+590
+00:28:22,520 --> 00:28:23,600
+knowing you'd bring it onboard.
+
+591
+00:28:23,680 --> 00:28:26,080
+- Well, then let's get it offboard.
+- No, we have to defuse it.
+
+592
+00:28:26,160 --> 00:28:28,000
+We can't open the doors
+without Gideon.
+
+593
+00:28:28,080 --> 00:28:29,840
+- Burn it!
+- That'll make it explode.
+
+594
+00:28:29,920 --> 00:28:30,920
+You know, for a guy who loves fire,
+
+595
+00:28:31,000 --> 00:28:32,240
+you really have no idea
+how it works.
+
+596
+00:28:32,320 --> 00:28:33,320
+What about you, Zari? Come on.
+
+597
+00:28:33,400 --> 00:28:34,640
+This whole time that
+you've been on the ship,
+
+598
+00:28:34,720 --> 00:28:36,200
+did you learn anything
+that could help?
+
+599
+00:28:37,080 --> 00:28:39,640
+Right. Let me think.
+
+600
+00:28:47,560 --> 00:28:48,560
+Zari?
+
+601
+00:28:49,560 --> 00:28:50,640
+Sorry, Captain.
+
+602
+00:28:54,360 --> 00:28:56,640
+- My beer is in there.
+- What the hell are you doing?
+
+603
+00:28:58,320 --> 00:28:59,680
+Look, the force field's
+not strong enough
+
+604
+00:28:59,760 --> 00:29:00,800
+to contain the explosion.
+
+605
+00:29:00,880 --> 00:29:02,800
+No, but it'll keep you guys out
+long enough
+
+606
+00:29:02,880 --> 00:29:05,640
+for me to say what I need to say.
+
+607
+00:29:05,720 --> 00:29:06,720
+Zari...
+
+608
+00:29:07,440 --> 00:29:08,440
+Mick...
+
+609
+00:29:09,600 --> 00:29:11,720
+You don't have to hide what you love.
+
+610
+00:29:13,040 --> 00:29:15,280
+Follow your heart, and keep writing.
+
+611
+00:29:15,960 --> 00:29:18,560
+- Zari, we don't have time for this!
+- Nate and Amaya,
+
+612
+00:29:19,720 --> 00:29:21,760
+I'm so lucky to call you guys
+my friends.
+
+613
+00:29:21,840 --> 00:29:25,280
+- Zari, the bomb!
+- What you guys have is so special.
+
+614
+00:29:25,920 --> 00:29:27,560
+I mean, the way you look
+at each other
+
+615
+00:29:28,200 --> 00:29:31,680
+honestly makes me want to puke,
+but don't fight it.
+
+616
+00:29:32,840 --> 00:29:34,320
+You're crazy about each other.
+
+617
+00:29:35,280 --> 00:29:37,240
+Just don't have sex on missions.
+
+618
+00:29:38,560 --> 00:29:39,760
+Z, what are you doing?
+
+619
+00:29:40,520 --> 00:29:41,760
+What you would do, Ray.
+
+620
+00:29:43,440 --> 00:29:45,320
+You know, when I first came on board,
+
+621
+00:29:45,840 --> 00:29:49,400
+you were so nice and polite to me
+that I wanted to punch you.
+
+622
+00:29:50,560 --> 00:29:53,560
+But I realize now the world
+would be a better place
+
+623
+00:29:53,640 --> 00:29:55,840
+if we were all
+a little more like you.
+
+624
+00:29:57,800 --> 00:30:00,120
+But being nice and polite's
+only going to get you so far,
+
+625
+00:30:00,200 --> 00:30:03,080
+so do me a favor, and tell Sara
+why you're so afraid of her.
+
+626
+00:30:03,440 --> 00:30:04,640
+Okay, sure.
+
+627
+00:30:04,880 --> 00:30:06,920
+But first, I'm going to figure out
+how to shut down the force field
+
+628
+00:30:07,000 --> 00:30:09,920
+- so we can deal with the bomb.
+- I am dealing with the bomb.
+
+629
+00:30:10,000 --> 00:30:11,640
+Zari, look, you need to listen to me.
+
+630
+00:30:11,720 --> 00:30:16,480
+Sara, you are an infuriating,
+stubborn pain in my ass.
+
+631
+00:30:17,160 --> 00:30:18,680
+Because you have to be.
+
+632
+00:30:20,160 --> 00:30:22,480
+You're not just
+the captain of this ship,
+
+633
+00:30:22,560 --> 00:30:23,920
+you are its soul.
+
+634
+00:30:24,840 --> 00:30:28,440
+You are so fierce and unflinching.
+
+635
+00:30:30,040 --> 00:30:32,200
+But why not apply
+some of that fearlessness
+
+636
+00:30:32,280 --> 00:30:35,720
+to your own life
+and just ask poor Ava out already?
+
+637
+00:30:39,280 --> 00:30:41,000
+Did you have
+a meaningful message for me?
+
+638
+00:30:41,080 --> 00:30:42,280
+Not now, Gary!
+
+639
+00:30:42,360 --> 00:30:44,400
+Zari, let us in!
+We can do this together!
+
+640
+00:30:44,480 --> 00:30:45,480
+No.
+
+641
+00:30:45,800 --> 00:30:50,000
+I have spent so much time
+with you guys.
+
+642
+00:30:51,960 --> 00:30:53,560
+You're my family now.
+
+643
+00:30:53,880 --> 00:30:55,760
+You deserve to be happy, and if...
+
+644
+00:30:56,640 --> 00:30:59,320
+if I can be a small part
+of making that happen, then...
+
+645
+00:31:00,520 --> 00:31:01,800
+this will be worth it.
+
+646
+00:31:02,160 --> 00:31:03,600
+- Zari.
+- That won't work!
+
+647
+00:31:03,680 --> 00:31:05,360
+You won't be able
+to contain the explosion.
+
+648
+00:31:08,480 --> 00:31:10,680
+Zari, you don't have to do this!
+
+649
+00:31:19,160 --> 00:31:23,080
+Zari, as your captain,
+I am ordering you to stand down!
+
+650
+00:31:23,160 --> 00:31:25,760
+You should know by now
+I'm not good at following orders.
+
+651
+00:31:25,840 --> 00:31:27,480
+You just told me
+what a good captain I am,
+
+652
+00:31:27,560 --> 00:31:28,920
+and now you're not
+going to listen to me?
+
+653
+00:31:29,000 --> 00:31:31,200
+Yeah, but this time,
+I'm not doing it for myself,
+
+654
+00:31:31,280 --> 00:31:32,840
+I'm doing it for you.
+
+655
+00:31:35,080 --> 00:31:36,600
+I love you guys.
+
+656
+00:31:37,080 --> 00:31:38,080
+Zari...
+
+657
+00:32:12,000 --> 00:32:14,480
+- What the hell are you?
+- You know who I am, Zari.
+
+658
+00:32:14,720 --> 00:32:16,920
+Even though you may have never
+seen my face.
+
+659
+00:32:17,120 --> 00:32:18,120
+Gideon?
+
+660
+00:32:18,560 --> 00:32:20,400
+- You're real?
+- Of course I'm real.
+
+661
+00:32:20,960 --> 00:32:22,600
+Just because
+I'm an artificial intelligence
+
+662
+00:32:22,680 --> 00:32:24,360
+doesn't mean I don't exist.
+
+663
+00:32:25,520 --> 00:32:26,600
+What's happening?
+
+664
+00:32:28,360 --> 00:32:31,120
+If you tell me I've been dreaming
+this whole time,
+
+665
+00:32:31,200 --> 00:32:33,720
+I'm going to kill you, real or not.
+
+666
+00:32:33,800 --> 00:32:36,360
+You're not dreaming,
+but you're not awake.
+
+667
+00:32:36,560 --> 00:32:38,480
+In real life,
+you're actually in the MedBay.
+
+668
+00:32:38,560 --> 00:32:40,400
+Unconscious and healing.
+
+669
+00:32:43,640 --> 00:32:44,880
+What happened to me?
+
+670
+00:32:45,560 --> 00:32:46,680
+After your fight with Sara,
+
+671
+00:32:46,760 --> 00:32:48,920
+you went into the engine room
+to make repairs,
+
+672
+00:32:49,000 --> 00:32:50,400
+and there was an accident.
+
+673
+00:32:50,480 --> 00:32:52,600
+Right, I was hit
+with that time sludge.
+
+674
+00:32:52,680 --> 00:32:55,920
+This sludge, as you call it,
+is a highly volatile substance,
+
+675
+00:32:56,000 --> 00:32:57,960
+which helps power the ship
+through time.
+
+676
+00:32:58,640 --> 00:33:00,040
+You're lucky to be alive.
+
+677
+00:33:00,120 --> 00:33:04,480
+So, if my body's in the MedBay,
+then where is my mind?
+
+678
+00:33:04,800 --> 00:33:08,280
+Your mind is in here,
+with me in my matrix.
+
+679
+00:33:08,440 --> 00:33:09,880
+I was able to upload
+your subconscious
+
+680
+00:33:09,960 --> 00:33:11,200
+via the neuro-monitor.
+
+681
+00:33:12,000 --> 00:33:14,840
+Well, so none of this is real?
+
+682
+00:33:15,040 --> 00:33:16,960
+Not in the way you're used to.
+
+683
+00:33:17,880 --> 00:33:19,240
+Why did you bring me here?
+
+684
+00:33:20,000 --> 00:33:22,240
+When you posed the question
+about changing 2042,
+
+685
+00:33:22,320 --> 00:33:25,080
+your simulator went into overdrive
+searching for an answer.
+
+686
+00:33:25,320 --> 00:33:28,040
+And a sampling of those
+trillions of possible answers
+
+687
+00:33:28,120 --> 00:33:29,880
+showed me that
+there was one constant.
+
+688
+00:33:30,520 --> 00:33:31,520
+You.
+
+689
+00:33:32,000 --> 00:33:35,360
+In order to save 2042,
+to find your so-called loophole,
+
+690
+00:33:35,680 --> 00:33:37,280
+you must work with the Legends.
+
+691
+00:33:37,920 --> 00:33:38,920
+Hold up.
+
+692
+00:33:39,720 --> 00:33:41,960
+You're saying my simulator works?
+
+693
+00:33:45,400 --> 00:33:48,000
+Did my program predict
+that I'd bail on the team?
+
+694
+00:33:48,120 --> 00:33:50,040
+In almost every variation
+of the timeline,
+
+695
+00:33:50,120 --> 00:33:53,440
+your fight with Captain Lance
+precipitated your leaving the ship.
+
+696
+00:33:53,680 --> 00:33:57,320
+So, your goal was to get me to choose
+to stay with the Legends.
+
+697
+00:33:57,400 --> 00:33:58,640
+I put you into your own program,
+
+698
+00:33:58,720 --> 00:34:00,400
+and devised a scenario
+where the only way
+
+699
+00:34:00,480 --> 00:34:02,520
+to successfully
+complete the simulation
+
+700
+00:34:02,600 --> 00:34:06,000
+was to grow closer to the team
+and develop a bond.
+
+701
+00:34:10,280 --> 00:34:11,440
+What about the bomb?
+
+702
+00:34:11,600 --> 00:34:13,840
+It was just a plot device
+I incorporated.
+
+703
+00:34:13,920 --> 00:34:15,080
+A problem to solve.
+
+704
+00:34:15,440 --> 00:34:18,040
+But the real problem was you.
+
+705
+00:34:18,400 --> 00:34:20,040
+If you stayed angry
+after your fight with Sara,
+
+706
+00:34:20,120 --> 00:34:21,240
+you would've left the team.
+
+707
+00:34:21,640 --> 00:34:23,680
+And without you and your totem,
+there would've been no chance
+
+708
+00:34:23,760 --> 00:34:26,600
+in the coming days to defeat Mallus,
+or save 2042.
+
+709
+00:34:29,440 --> 00:34:30,800
+So, the interactions,
+
+710
+00:34:30,880 --> 00:34:34,040
+the things I learned about the team,
+they, they were all fake?
+
+711
+00:34:34,120 --> 00:34:35,760
+Everything you experienced
+was extrapolated
+
+712
+00:34:35,840 --> 00:34:37,320
+from my current knowledge
+of the Legends.
+
+713
+00:34:37,400 --> 00:34:40,480
+While not real,
+what you saw was true.
+
+714
+00:34:41,560 --> 00:34:43,600
+It doesn't take a supercomputer
+to predict that those two
+
+715
+00:34:43,680 --> 00:34:46,360
+would wind up dinky-tickling
+once Amaya returned to the team.
+
+716
+00:34:50,400 --> 00:34:52,400
+This one seemed less plausible.
+
+717
+00:34:52,720 --> 00:34:54,120
+We'll have to ask Mr. Rory.
+
+718
+00:34:55,880 --> 00:34:58,880
+I am terrified
+and in awe of you, Gideon.
+
+719
+00:34:59,320 --> 00:35:01,640
+Who knew you were
+such an evil genius?
+
+720
+00:35:01,720 --> 00:35:03,160
+And a bit of a perv.
+
+721
+00:35:03,280 --> 00:35:04,720
+You never bothered to ask.
+
+722
+00:35:05,440 --> 00:35:08,080
+It's an impressive piece of software
+you designed, Miss Tomaz.
+
+723
+00:35:08,480 --> 00:35:10,000
+Is that a compliment, Gideon?
+
+724
+00:35:10,080 --> 00:35:11,320
+Don't let it go to your head.
+
+725
+00:35:12,440 --> 00:35:13,680
+Are you ready to wake up now?
+
+726
+00:35:13,760 --> 00:35:14,840
+One last question.
+
+727
+00:35:15,400 --> 00:35:16,400
+Gary.
+
+728
+00:35:16,600 --> 00:35:19,240
+Why even have him in the time loop,
+if he was just going to be stuck
+
+729
+00:35:19,320 --> 00:35:21,000
+in the trash compactor
+the whole time?
+
+730
+00:35:21,840 --> 00:35:22,840
+Thought it'd be funny.
+
+731
+00:35:25,680 --> 00:35:29,800
+Hey, rise and shine.
+How are you feeling?
+
+732
+00:35:29,880 --> 00:35:32,200
+Oh, like my head
+is made of cement.
+
+733
+00:35:32,280 --> 00:35:34,240
+You were exposed
+to the ship's Bosonic hyper-fluid
+
+734
+00:35:34,320 --> 00:35:35,400
+in the engine room.
+
+735
+00:35:35,760 --> 00:35:36,920
+Knocked you out for hours.
+
+736
+00:35:37,000 --> 00:35:39,000
+Oh, man, I have such
+a Gideon hangover.
+
+737
+00:35:39,080 --> 00:35:40,080
+What do you mean?
+
+738
+00:35:40,160 --> 00:35:43,960
+While I was out, Gideon transported
+my consciousness into her matrix.
+
+739
+00:35:44,040 --> 00:35:45,040
+Okay.
+
+740
+00:35:45,480 --> 00:35:47,040
+I think you dreamt that.
+
+741
+00:35:47,120 --> 00:35:49,520
+No, it wasn't a dream, it was real.
+Right, Gideon?
+
+742
+00:35:49,600 --> 00:35:52,720
+<i>Unfortunately, I don't know what
+you're talking about, Miss Tomaz.</i>
+
+743
+00:35:52,800 --> 00:35:54,800
+Oh, that is cold, Gideon.
+
+744
+00:35:54,880 --> 00:35:57,040
+After all that,
+we're still not friends?
+
+745
+00:35:57,120 --> 00:35:59,120
+Zari, are you sure you're okay?
+
+746
+00:35:59,640 --> 00:36:01,640
+Gideon trapped me
+in my own simulator,
+
+747
+00:36:01,720 --> 00:36:04,520
+so I was stuck on the Waverider
+reliving the same hour
+
+748
+00:36:04,600 --> 00:36:06,200
+over and over again.
+
+749
+00:36:06,360 --> 00:36:09,920
+Needless to say, I got to know
+you all really, really well.
+
+750
+00:36:10,000 --> 00:36:11,400
+- Right.
+- Could be caused
+
+751
+00:36:11,480 --> 00:36:12,480
+by the sedative dosage.
+
+752
+00:36:12,560 --> 00:36:14,120
+- I could look into it later.
+- Yeah.
+
+753
+00:36:14,200 --> 00:36:16,960
+I'm telling the truth.
+You know what, I'll prove it.
+
+754
+00:36:17,040 --> 00:36:20,280
+Sara, ask Ray what Constantine
+told him about you.
+
+755
+00:36:20,560 --> 00:36:21,640
+Okay.
+
+756
+00:36:21,840 --> 00:36:25,560
+Ray, what did Constantine
+tell you about me?
+
+757
+00:36:27,520 --> 00:36:28,560
+How did you know that?
+
+758
+00:36:31,920 --> 00:36:36,040
+Okay, he warned me that if you were
+possessed by Mallus again
+
+759
+00:36:36,120 --> 00:36:39,960
+and lost control,
+that I should kill you.
+
+760
+00:36:40,960 --> 00:36:43,400
+Oh, such a relief to get that
+off my chest.
+
+761
+00:36:43,480 --> 00:36:46,200
+Well, he's right.
+
+762
+00:36:47,160 --> 00:36:49,080
+You should kill me
+if Mallus takes over again,
+
+763
+00:36:49,160 --> 00:36:51,320
+and you are going to need
+a lot of help.
+
+764
+00:36:51,400 --> 00:36:53,680
+Well, let's just hope
+it doesn't come down to that.
+
+765
+00:36:55,800 --> 00:36:57,600
+Hey, you want to get a coffee?
+
+766
+00:36:58,640 --> 00:36:59,640
+Yeah.
+
+767
+00:37:01,200 --> 00:37:03,160
+Aren't you wondering
+what I learned about you?
+
+768
+00:37:04,040 --> 00:37:05,360
+Do I want to know?
+
+769
+00:37:06,800 --> 00:37:08,520
+You're afraid of historical loopholes
+
+770
+00:37:08,600 --> 00:37:10,920
+because you'd be tempted
+to save your sister.
+
+771
+00:37:13,480 --> 00:37:17,200
+Well, not a day goes by that
+I don't think about her.
+
+772
+00:37:19,760 --> 00:37:22,160
+I'm sorry I fried Gideon, but
+
+773
+00:37:22,880 --> 00:37:25,120
+I had to know if there
+was a way to save my brother.
+
+774
+00:37:28,800 --> 00:37:31,000
+And what did the simulation say?
+
+775
+00:37:32,400 --> 00:37:33,920
+It said I can't do it alone.
+
+776
+00:37:35,040 --> 00:37:36,960
+Sounds like
+you're going to need a team.
+
+777
+00:37:38,120 --> 00:37:39,120
+You mean it?
+
+778
+00:37:40,720 --> 00:37:43,280
+I've been thinking about it,
+saving your brother,
+
+779
+00:37:43,480 --> 00:37:46,120
+and technically, it isn't a loophole.
+
+780
+00:37:46,200 --> 00:37:49,280
+It would be changing your past,
+but your past is my future,
+
+781
+00:37:49,360 --> 00:37:53,520
+and as far as I'm concerned,
+well, the future's an open road.
+
+782
+00:37:54,880 --> 00:37:57,360
+And besides, I'll probably need
+your help fighting Mallus.
+
+783
+00:38:00,600 --> 00:38:03,440
+Hey, listen,
+it's, none of my business, but
+
+784
+00:38:04,120 --> 00:38:05,440
+you should ask Ava out.
+
+785
+00:38:06,800 --> 00:38:09,760
+My relationships
+have a way of ending badly.
+
+786
+00:38:10,520 --> 00:38:12,120
+You know, it turns out,
+
+787
+00:38:12,760 --> 00:38:15,160
+at the end of the day,
+love is worth the risk.
+
+788
+00:38:15,760 --> 00:38:17,400
+None of us can do this alone.
+
+789
+00:38:18,480 --> 00:38:19,480
+Captain.
+
+790
+00:38:28,240 --> 00:38:30,360
+So, you're saying it's like
+<i>Groundhog Day.</i>
+
+791
+00:38:30,560 --> 00:38:32,840
+That's what I was told, by you.
+
+792
+00:38:33,080 --> 00:38:35,600
+It's good to know matrix-me
+is still a Bill Murray fan.
+
+793
+00:38:36,360 --> 00:38:38,600
+So, you said you wanted
+to tell us something.
+
+794
+00:38:38,680 --> 00:38:40,320
+Yeah, you guys used
+the flasher to forget
+
+795
+00:38:40,400 --> 00:38:42,680
+you almost blew the mission
+by sneaking off to have sex.
+
+796
+00:38:42,760 --> 00:38:43,760
+What?
+
+797
+00:38:43,840 --> 00:38:45,480
+I think we'd remember doing that.
+
+798
+00:38:45,560 --> 00:38:47,560
+Nathaniel, that is the whole
+point of a memory eraser,
+
+799
+00:38:47,640 --> 00:38:48,960
+is that we don't remember.
+
+800
+00:38:49,040 --> 00:38:51,920
+Guys, flashing yourselves
+is a temporary solution.
+
+801
+00:38:52,320 --> 00:38:53,680
+You need to work your stuff out.
+
+802
+00:38:56,640 --> 00:39:00,000
+Ray must have used
+a strong sedative on her,
+
+803
+00:39:00,080 --> 00:39:03,480
+because there is no way
+we would ever use the flash gun,
+
+804
+00:39:03,560 --> 00:39:04,560
+that's crazy.
+
+805
+00:39:05,000 --> 00:39:07,560
+It's not so crazy.
+
+806
+00:39:07,760 --> 00:39:08,880
+Amaya.
+
+807
+00:39:08,960 --> 00:39:11,640
+I saw Rory using it to get
+that song out of his head,
+
+808
+00:39:11,720 --> 00:39:14,040
+and I thought that
+is a brilliant idea.
+
+809
+00:39:14,120 --> 00:39:16,680
+But Zari's probably right.
+
+810
+00:39:16,880 --> 00:39:19,200
+- Totally, no flash guns.
+- Yeah.
+
+811
+00:39:19,440 --> 00:39:22,360
+- We should talk about our feelings.
+- Yes, yes.
+
+812
+00:39:22,440 --> 00:39:24,640
+We'll just, we'll leave it here.
+
+813
+00:39:25,160 --> 00:39:26,240
+Just in case.
+
+814
+00:39:26,320 --> 00:39:28,360
+Not that we would ever use it.
+
+815
+00:39:28,440 --> 00:39:30,360
+- Who uses those things?
+- Who does?
+
+816
+00:39:34,320 --> 00:39:35,320
+I'm busy!
+
+817
+00:39:36,080 --> 00:39:38,200
+You should be,
+you have a lot of writing to do.
+
+818
+00:39:39,960 --> 00:39:43,560
+I know you're writing a novel,
+and it's really good.
+
+819
+00:39:43,640 --> 00:39:45,320
+But that ending needs a rewrite.
+
+820
+00:39:45,400 --> 00:39:47,320
+I mean, Buck is such a misfit,
+that at the end,
+
+821
+00:39:47,400 --> 00:39:49,520
+we just want to see him
+embrace his new family.
+
+822
+00:39:50,560 --> 00:39:51,560
+Just a thought.
+
+823
+00:39:59,560 --> 00:40:00,760
+I wonder.
+
+824
+00:40:42,160 --> 00:40:47,840
+<i>Buck wrapped his glistening biceps
+around his busty alien queen.</i>
+
+825
+00:40:48,760 --> 00:40:53,000
+<i>He'd lost his planet,
+but found his home.</i>
+
+826
+00:40:56,200 --> 00:40:57,200
+Not bad.
+
+827
+00:41:15,120 --> 00:41:16,120
+<i>Yunnan Province, China 2018</i>
+
+828
+00:41:16,200 --> 00:41:19,200
+I am calm, I am present.
+
+829
+00:41:20,760 --> 00:41:22,120
+I am centered.
+
+830
+00:41:24,400 --> 00:41:25,400
+Wally West.
+
+831
+00:41:26,440 --> 00:41:27,760
+You're not an easy man to find.
+
+832
+00:41:27,840 --> 00:41:30,640
+No, that's the point of meditation.
+
+833
+00:41:31,520 --> 00:41:33,520
+- Who are you?
+- My name is Rip Hunter.
+
+834
+00:41:33,600 --> 00:41:37,120
+I am trying to save the universe.
+
+835
+00:41:38,280 --> 00:41:39,640
+And I need your help.
+

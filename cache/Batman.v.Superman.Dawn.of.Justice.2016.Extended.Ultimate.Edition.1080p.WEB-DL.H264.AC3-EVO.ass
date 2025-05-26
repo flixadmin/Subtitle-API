@@ -1,0 +1,1603 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 0
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI Semibold,20,&H00FFFFFF,&HFFFFFFFF,&H28000000,&H28000000,0,0,0,0,100,100,0,0,1,0.6,0.6,2,10,10,20,1
+Style: Verdana [WHITE],Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.00,0:00:16.60,Default,,0,0,0,,{\an5\c&H51ab2b&}Improved by{\c&Hf8fc03&} {\b1}KID{\b0} {\c}\N\N{\an5\c&H51ab2b&}Resynced by{\c&Hf8fc03&} {\b1}KID{\b0} {\c}\N\N{\an5\c&H51ab2b&}Enjoy the movie(s) / show(s)
+Dialogue: 0,0:00:17.48,0:00:20.18,Default,,0,0,0,,{\i1}There was a time above.{\i0}
+Dialogue: 0,0:00:20.18,0:00:22.85,Default,,0,0,0,,{\i1}A time before.{\i0}
+Dialogue: 0,0:00:22.85,0:00:25.82,Default,,0,0,0,,{\i1}There were perfect things, {\i0}
+Dialogue: 0,0:00:25.82,0:00:28.12,Default,,0,0,0,,{\i1}diamond absolutes.{\i0}
+Dialogue: 0,0:00:29.06,0:00:31.53,Default,,0,0,0,,{\i1}How things fall.{\i0}
+Dialogue: 0,0:00:31.53,0:00:34.03,Default,,0,0,0,,{\i1}Things on earth.{\i0}
+Dialogue: 0,0:00:34.03,0:00:36.06,Default,,0,0,0,,{\i1}And what falls...{\i0}
+Dialogue: 0,0:00:36.07,0:00:37.16,Default,,0,0,0,,Master Wayne!
+Dialogue: 0,0:00:37.17,0:00:39.00,Default,,0,0,0,,{\i1}...is fallen.{\i0} Bruce!
+Dialogue: 0,0:00:41.04,0:00:42.44,Default,,0,0,0,,{\i1}Bruce, it's all right.{\i0}
+Dialogue: 0,0:00:44.71,0:00:46.37,Default,,0,0,0,,{\i1}Bruce, please.{\i0}
+Dialogue: 0,0:03:09.65,0:03:11.75,Default,,0,0,0,,Martha.
+Dialogue: 0,0:04:43.48,0:04:47.65,Default,,0,0,0,,{\i1}In the dream, they\Ntook me to the light.{\i0}
+Dialogue: 0,0:04:47.65,0:04:49.55,Default,,0,0,0,,{\i1}A beautiful lie.{\i0}
+Dialogue: 0,0:05:34.50,0:05:36.16,Default,,0,0,0,,{\i1}Jack.{\i0} Bruce.
+Dialogue: 0,0:05:36.17,0:05:37.93,Default,,0,0,0,,Jack, listen to me.
+Dialogue: 0,0:05:37.93,0:05:40.60,Default,,0,0,0,,I want you to get everyone\Nout of the building right now.
+Dialogue: 0,0:05:40.60,0:05:42.44,Default,,0,0,0,,{\i1}You understand?{\i0} Oh, my God.
+Dialogue: 0,0:05:42.44,0:05:44.14,Default,,0,0,0,,{\i1}Stay away from the windows!{\i0}
+Dialogue: 0,0:05:44.14,0:05:46.27,Default,,0,0,0,,Let's go. Come on. Start\Nmoving now, people. Let's go.
+Dialogue: 0,0:05:46.28,0:05:48.38,Default,,0,0,0,,The boss wants us out of the\Nbuilding, so let's make it happen.
+Dialogue: 0,0:05:48.38,0:05:50.58,Default,,0,0,0,,Jack. Jack!
+Dialogue: 0,0:07:30.71,0:07:32.98,Default,,0,0,0,,{\i1}We're sorry.{\i0}
+Dialogue: 0,0:07:32.98,0:07:37.45,Default,,0,0,0,,{\i1}All circuits are busy now. Will\Nyou please try your call again later?{\i0}
+Dialogue: 0,0:07:38.72,0:07:40.35,Default,,0,0,0,,Heavenly God,
+Dialogue: 0,0:07:41.39,0:07:44.32,Default,,0,0,0,,creator of heaven and earth,
+Dialogue: 0,0:07:44.33,0:07:46.03,Default,,0,0,0,,have mercy on my soul.
+Dialogue: 0,0:07:49.47,0:07:50.70,Default,,0,0,0,,Jack!
+Dialogue: 0,0:08:29.00,0:08:31.97,Default,,0,0,0,,Buddy hands! Everybody\Nshow me! Good job!
+Dialogue: 0,0:08:31.97,0:08:33.71,Default,,0,0,0,,Come on, guys.
+Dialogue: 0,0:08:35.98,0:08:37.58,Default,,0,0,0,,{\i1}Hold on tight.{\i0}
+Dialogue: 0,0:08:38.55,0:08:40.01,Default,,0,0,0,,{\i1}Come on, guys.{\i0}
+Dialogue: 0,0:08:41.18,0:08:42.62,Default,,0,0,0,,Go.
+Dialogue: 0,0:08:42.62,0:08:43.85,Default,,0,0,0,,{\i1}Mr. Wayne!{\i0}
+Dialogue: 0,0:08:43.85,0:08:47.35,Default,,0,0,0,,Mr. Wayne! I can't feel my legs.
+Dialogue: 0,0:08:47.36,0:08:48.79,Default,,0,0,0,,I can't feel my legs.
+Dialogue: 0,0:08:48.79,0:08:51.02,Default,,0,0,0,,We need help over here!
+Dialogue: 0,0:08:51.03,0:08:52.49,Default,,0,0,0,,Help me. I can't feel my legs.
+Dialogue: 0,0:08:52.49,0:08:55.00,Default,,0,0,0,,You're gonna be\Nokay. You hear me?
+Dialogue: 0,0:08:55.00,0:08:57.40,Default,,0,0,0,,Wallace? What do they\Ncall you, Wally? Huh?
+Dialogue: 0,0:08:59.50,0:09:00.63,Default,,0,0,0,,You're the boss, boss.
+Dialogue: 0,0:09:02.20,0:09:04.47,Default,,0,0,0,,All right. You're gonna be okay.
+Dialogue: 0,0:09:04.47,0:09:06.01,Default,,0,0,0,,Easy, easy. Come on.
+Dialogue: 0,0:09:09.18,0:09:11.41,Default,,0,0,0,,Oh, my God. I can't move my leg.
+Dialogue: 0,0:09:11.41,0:09:13.75,Default,,0,0,0,,{\i1}My God. I can't feel my legs.{\i0}
+Dialogue: 0,0:09:20.52,0:09:23.99,Default,,0,0,0,,It's okay. You're gonna be okay.
+Dialogue: 0,0:09:23.99,0:09:27.39,Default,,0,0,0,,You're okay. All right? Huh?
+Dialogue: 0,0:09:27.40,0:09:29.00,Default,,0,0,0,,You know what? We're\Ngonna find your Mom.
+Dialogue: 0,0:09:29.00,0:09:30.63,Default,,0,0,0,,Where is she?
+Dialogue: 0,0:11:33.15,0:11:35.19,Default,,0,0,0,,All that wind is bad luck.
+Dialogue: 0,0:11:35.19,0:11:37.22,Default,,0,0,0,,Blood in the sky.
+Dialogue: 0,0:11:37.23,0:11:38.76,Default,,0,0,0,,Oh, there she is!
+Dialogue: 0,0:11:46.97,0:11:48.23,Default,,0,0,0,,Miss Lane.
+Dialogue: 0,0:11:49.70,0:11:51.71,Default,,0,0,0,,{\i1}Miss Lane. Jimmy Olsen.{\i0}
+Dialogue: 0,0:11:51.71,0:11:53.87,Default,,0,0,0,,Photographer. Obviously.
+Dialogue: 0,0:11:53.88,0:11:55.31,Default,,0,0,0,,Where's Heron?
+Dialogue: 0,0:11:55.31,0:11:57.11,Default,,0,0,0,,Uh, trouble at the border.
+Dialogue: 0,0:11:59.25,0:12:02.38,Default,,0,0,0,,So, uh, how'd you land it?\NThis is, like, pioneer stuff.
+Dialogue: 0,0:12:02.38,0:12:04.72,Default,,0,0,0,,Amajagh's never\Ngiven an interview.
+Dialogue: 0,0:12:04.72,0:12:07.79,Default,,0,0,0,,You know what heron always says\Nwhen we're on assignment together?
+Dialogue: 0,0:12:09.09,0:12:10.66,Default,,0,0,0,,Not a goddamn thing.
+Dialogue: 0,0:12:10.66,0:12:12.79,Default,,0,0,0,,I like Heron.
+Dialogue: 0,0:12:26.37,0:12:27.74,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:12:33.75,0:12:36.52,Default,,0,0,0,,{\i1}Passports. Electronics.\NPhones. Camera.{\i0}
+Dialogue: 0,0:12:36.52,0:12:39.09,Default,,0,0,0,,Your fixer said that the\NGeneral approved photos.
+Dialogue: 0,0:13:04.95,0:13:06.11,Default,,0,0,0,,Um...
+Dialogue: 0,0:13:07.45,0:13:10.92,Default,,0,0,0,,Are you a terrorist, General?
+Dialogue: 0,0:13:10.92,0:13:13.75,Default,,0,0,0,,They did not tell me the\Ninterview was with a lady.
+Dialogue: 0,0:13:13.76,0:13:16.06,Default,,0,0,0,,I'm not a lady.\NI'm a journalist.
+Dialogue: 0,0:13:18.46,0:13:22.10,Default,,0,0,0,,{\i1}What I am is a man with nothing{\i0}
+Dialogue: 0,0:13:22.10,0:13:25.80,Default,,0,0,0,,{\i1}except a love of my people.{\i0}
+Dialogue: 0,0:13:25.80,0:13:27.80,Default,,0,0,0,,Who's paying for these\Nsecurity contractors, General?
+Dialogue: 0,0:13:27.80,0:13:30.70,Default,,0,0,0,,Who pays for the drones that\Npass over our heads at night?
+Dialogue: 0,0:13:32.44,0:13:34.11,Default,,0,0,0,,{\i1}One question begs another.{\i0}
+Dialogue: 0,0:13:34.11,0:13:35.78,Default,,0,0,0,,{\i1}Yes?{\i0}
+Dialogue: 0,0:13:35.78,0:13:37.61,Default,,0,0,0,,{\i1}Say what you're saying, General.{\i0}
+Dialogue: 0,0:13:37.61,0:13:39.91,Default,,0,0,0,,It's just a camera.
+Dialogue: 0,0:13:39.92,0:13:42.82,Default,,0,0,0,,The United States has declared its\Nneutrality in your country's civil war
+Dialogue: 0,0:13:42.82,0:13:45.79,Default,,0,0,0,,both in policy and in principle.
+Dialogue: 0,0:13:45.79,0:13:48.56,Default,,0,0,0,,Oh, don't open...\NYou just exposed...
+Dialogue: 0,0:13:50.93,0:13:53.16,Default,,0,0,0,,These pious American fictions...
+Dialogue: 0,0:13:53.16,0:13:54.83,Default,,0,0,0,,{\i1}...spoken like truth.{\i0}
+Dialogue: 0,0:13:54.83,0:13:56.90,Default,,0,0,0,,Okay. That's my film.
+Dialogue: 0,0:14:01.44,0:14:06.11,Default,,0,0,0,,Men with power obey neither\Npolicy nor principle, Miss Lane.
+Dialogue: 0,0:14:09.21,0:14:10.51,Default,,0,0,0,,{\i1}No one is different.{\i0}
+Dialogue: 0,0:14:11.48,0:14:13.61,Default,,0,0,0,,No one is neutral.
+Dialogue: 0,0:14:23.32,0:14:24.46,Default,,0,0,0,,CIA.
+Dialogue: 0,0:14:25.49,0:14:27.53,Default,,0,0,0,,They're tracking us!
+Dialogue: 0,0:14:27.53,0:14:29.43,Default,,0,0,0,,You!
+Dialogue: 0,0:14:33.53,0:14:34.87,Default,,0,0,0,,You're CIA?
+Dialogue: 0,0:14:34.87,0:14:36.40,Default,,0,0,0,,What? No. No!
+Dialogue: 0,0:14:36.40,0:14:38.54,Default,,0,0,0,,You brought him here!\NNo, he's a photographer.
+Dialogue: 0,0:14:40.21,0:14:41.88,Default,,0,0,0,,No!
+Dialogue: 0,0:14:46.68,0:14:48.25,Default,,0,0,0,,It's okay, Lois.
+Dialogue: 0,0:15:06.03,0:15:07.53,Default,,0,0,0,,Talon's down, sir.
+Dialogue: 0,0:15:07.54,0:15:09.74,Default,,0,0,0,,Python, we have lost\Nour asset on the ground.
+Dialogue: 0,0:15:09.74,0:15:11.91,Default,,0,0,0,,Repeat, we have lost\Nour asset on the ground.
+Dialogue: 0,0:15:11.91,0:15:14.91,Default,,0,0,0,,There's still a civilian in the\Ncompound. We'll extract her.
+Dialogue: 0,0:15:14.91,0:15:17.84,Default,,0,0,0,,{\i1}Negative. RPA to engage.\NStand down and get black.{\i0}
+Dialogue: 0,0:15:17.85,0:15:21.18,Default,,0,0,0,,There'll be friendlies\Nin the blast zone, so...
+Dialogue: 0,0:15:21.18,0:15:23.38,Default,,0,0,0,,Call off the goddamn drone.
+Dialogue: 0,0:15:23.39,0:15:26.02,Default,,0,0,0,,Stand down is an order. Python?
+Dialogue: 0,0:15:26.02,0:15:27.65,Default,,0,0,0,,Let's move!
+Dialogue: 0,0:15:35.76,0:15:37.53,Default,,0,0,0,,I...
+Dialogue: 0,0:15:37.53,0:15:38.97,Default,,0,0,0,,I didn't know.
+Dialogue: 0,0:15:38.97,0:15:43.94,Default,,0,0,0,,Ignorance is not the\Nsame as innocence,
+Dialogue: 0,0:15:43.94,0:15:45.31,Default,,0,0,0,,Miss Lane.
+Dialogue: 0,0:16:12.80,0:16:15.54,Default,,0,0,0,,Get up! Stand up!
+Dialogue: 0,0:16:27.78,0:16:29.82,Default,,0,0,0,,Quickly. He's coming.
+Dialogue: 0,0:16:42.63,0:16:44.66,Default,,0,0,0,,Inbound 2 Mikes.
+Dialogue: 0,0:16:44.67,0:16:47.17,Default,,0,0,0,,{\i1}Passing python now.{\i0}
+Dialogue: 0,0:16:55.18,0:16:56.41,Default,,0,0,0,,Move out!
+Dialogue: 0,0:17:03.82,0:17:06.52,Default,,0,0,0,,Target locked. You\Nare clear to engage.
+Dialogue: 0,0:17:06.52,0:17:08.22,Default,,0,0,0,,Armed hot and in range.
+Dialogue: 0,0:17:13.13,0:17:14.96,Default,,0,0,0,,{\i1}Three.{\i0}
+Dialogue: 0,0:17:16.86,0:17:18.90,Default,,0,0,0,,Two. One.
+Dialogue: 0,0:17:28.88,0:17:31.04,Default,,0,0,0,,Link's been hit.
+Dialogue: 0,0:17:31.05,0:17:32.61,Default,,0,0,0,,By what?
+Dialogue: 0,0:17:37.05,0:17:38.58,Default,,0,0,0,,Take one step,
+Dialogue: 0,0:17:38.59,0:17:40.49,Default,,0,0,0,,you will see the\Ninside of her head.
+Dialogue: 0,0:19:04.27,0:19:07.01,Default,,0,0,0,,{\i1}The women in the\Nvillage heard a noise.{\i0}
+Dialogue: 0,0:19:08.01,0:19:12.61,Default,,0,0,0,,Like the sky cracked open.
+Dialogue: 0,0:19:12.61,0:19:17.32,Default,,0,0,0,,He came down. Then came fire.
+Dialogue: 0,0:19:19.15,0:19:21.65,Default,,0,0,0,,{\i1}Even worse came after.{\i0}
+Dialogue: 0,0:19:21.66,0:19:23.99,Default,,0,0,0,,{\i1}The Government attacked.{\i0}
+Dialogue: 0,0:19:23.99,0:19:26.83,Default,,0,0,0,,{\i1}No mercy in the villages.{\i0}
+Dialogue: 0,0:19:26.83,0:19:29.40,Default,,0,0,0,,My parents tried to run.
+Dialogue: 0,0:19:33.87,0:19:37.20,Default,,0,0,0,,The world has been so caught\Nup with what Superman can do
+Dialogue: 0,0:19:37.21,0:19:40.67,Default,,0,0,0,,that no one has asked\Nwhat he should do.
+Dialogue: 0,0:19:42.81,0:19:45.98,Default,,0,0,0,,Let the record show that this\Ncommittee holds him responsible.
+Dialogue: 0,0:19:45.98,0:19:48.15,Default,,0,0,0,,{\i1}He'll never answer to you.{\i0}
+Dialogue: 0,0:19:48.15,0:19:50.82,Default,,0,0,0,,He answers to no one.
+Dialogue: 0,0:19:50.82,0:19:53.29,Default,,0,0,0,,Not even, I think, to God.
+Dialogue: 0,0:19:55.96,0:19:57.49,Default,,0,0,0,,{\i1}58 to nothing.{\i0}
+Dialogue: 0,0:19:57.49,0:19:59.69,Default,,0,0,0,,{\i1}Metropolis, again,\Nblowing out Gotham city.{\i0}
+Dialogue: 0,0:19:59.69,0:20:02.16,Default,,0,0,0,,{\i1}Really, only the diehards\Nare left in the stands.{\i0}
+Dialogue: 0,0:20:02.16,0:20:04.36,Default,,0,0,0,,{\i1}Delta Charlie 27. Reports of\Nscreams coming from vacant home{\i0}
+Dialogue: 0,0:20:04.37,0:20:06.30,Default,,0,0,0,,{\i1}at 1939 Harborway.{\i0}
+Dialogue: 0,0:20:06.30,0:20:07.83,Default,,0,0,0,,{\i1}Tom, it's been great\Nworking with you.{\i0}
+Dialogue: 0,0:20:07.84,0:20:10.14,Default,,0,0,0,,{\i1}I want to thank our\Nproducer and director.{\i0}
+Dialogue: 0,0:20:10.14,0:20:11.67,Default,,0,0,0,,{\i1}Now wait a second. I\Ndon't even want to suggest...{\i0}
+Dialogue: 0,0:20:11.67,0:20:12.54,Default,,0,0,0,,{\i1}Delta Charlie 27, respond.{\i0}
+Dialogue: 0,0:20:12.54,0:20:14.84,Default,,0,0,0,,Just take a knee.
+Dialogue: 0,0:20:14.84,0:20:16.91,Default,,0,0,0,,{\i1}They're lining up as if clarkson\Nis gonna throw it deep here.{\i0}
+Dialogue: 0,0:20:16.91,0:20:19.15,Default,,0,0,0,,{\i1}- Don't tell me, Dave.\N- Going to the end zone!{\i0}
+Dialogue: 0,0:20:19.15,0:20:21.35,Default,,0,0,0,,{\i1}- This is unnecessary.\N- Delta Charlie 27.{\i0}
+Dialogue: 0,0:20:21.35,0:20:23.18,Default,,0,0,0,,{\i1}- Zeke Baker is open.\N- Baker with a touchdown catch!{\i0}
+Dialogue: 0,0:20:23.18,0:20:24.85,Default,,0,0,0,,{\i1}I can't believe I\Njust watched that.{\i0}
+Dialogue: 0,0:20:24.85,0:20:26.42,Default,,0,0,0,,{\i1}Delta Charlie 27. Do you copy?{\i0}
+Dialogue: 0,0:20:27.19,0:20:28.75,Default,,0,0,0,,10-4. We're on it.
+Dialogue: 0,0:20:28.76,0:20:30.99,Default,,0,0,0,,{\i1}And now a fight breaks out.{\i0}
+Dialogue: 0,0:20:30.99,0:20:34.23,Default,,0,0,0,,{\i1}Gotham city, you know how\Nthey are about their football team.{\i0}
+Dialogue: 0,0:20:34.23,0:20:37.20,Default,,0,0,0,,{\i1}Things could get\Nugly in the city tonight.{\i0}
+Dialogue: 0,0:21:17.90,0:21:20.61,Default,,0,0,0,,Go.
+Dialogue: 0,0:21:32.12,0:21:33.65,Default,,0,0,0,,It's okay.
+Dialogue: 0,0:21:33.66,0:21:35.25,Default,,0,0,0,,It's okay.
+Dialogue: 0,0:21:35.26,0:21:38.06,Default,,0,0,0,,We're gonna help.\NWe're here to help.
+Dialogue: 0,0:21:38.06,0:21:40.49,Default,,0,0,0,,We're gonna get you\Nout of here. Okay?
+Dialogue: 0,0:21:50.50,0:21:52.04,Default,,0,0,0,,I don't understand.
+Dialogue: 0,0:21:56.78,0:21:58.68,Default,,0,0,0,,{\i1}Please don't. Please don't.{\i0}
+Dialogue: 0,0:22:06.92,0:22:10.52,Default,,0,0,0,,{\i1}Please. I don't know who he is.{\i0}
+Dialogue: 0,0:22:13.63,0:22:15.03,Default,,0,0,0,,{\i1}I don't know who he is!{\i0}
+Dialogue: 0,0:22:18.00,0:22:19.87,Default,,0,0,0,,{\i1}No!{\i0}
+Dialogue: 0,0:22:39.35,0:22:41.25,Default,,0,0,0,,{\i1}Oh, fuck.{\i0}
+Dialogue: 0,0:23:20.93,0:23:22.53,Default,,0,0,0,,Christ!
+Dialogue: 0,0:23:22.53,0:23:24.10,Default,,0,0,0,,I saw him.
+Dialogue: 0,0:23:24.10,0:23:25.90,Default,,0,0,0,,{\i1}I never saw him\Nbefore. I... I didn't know.{\i0}
+Dialogue: 0,0:23:25.90,0:23:27.70,Default,,0,0,0,,You almost took my face off.
+Dialogue: 0,0:23:27.70,0:23:30.14,Default,,0,0,0,,How about you don't\Nshoot the good guys, huh?
+Dialogue: 0,0:23:30.74,0:23:33.37,Default,,0,0,0,,Oh. Oh.
+Dialogue: 0,0:23:33.37,0:23:35.67,Default,,0,0,0,,{\i1}Jesus Christ.{\i0}
+Dialogue: 0,0:23:35.68,0:23:37.28,Default,,0,0,0,,{\i1}He branded him.{\i0}
+Dialogue: 0,0:25:07.33,0:25:09.17,Default,,0,0,0,,Hey. Hey.
+Dialogue: 0,0:25:09.17,0:25:10.44,Default,,0,0,0,,I was gonna cook.
+Dialogue: 0,0:25:10.44,0:25:12.07,Default,,0,0,0,,Surprise you.
+Dialogue: 0,0:25:16.84,0:25:19.58,Default,,0,0,0,,They held hearings\Nabout what happened.
+Dialogue: 0,0:25:20.85,0:25:22.31,Default,,0,0,0,,{\i1}They're saying\Nthat...{\i0} I don't care.
+Dialogue: 0,0:25:22.32,0:25:24.72,Default,,0,0,0,,I don't care what\Nthey're saying.
+Dialogue: 0,0:25:26.35,0:25:28.29,Default,,0,0,0,,The woman I love could\Nhave been blown up or shot.
+Dialogue: 0,0:25:28.29,0:25:29.99,Default,,0,0,0,,{\i1}Think of what could\Nhave happened.{\i0}
+Dialogue: 0,0:25:29.99,0:25:32.46,Default,,0,0,0,,Well, think about\Nwhat did happen.
+Dialogue: 0,0:25:32.46,0:25:34.86,Default,,0,0,0,,I didn't kill those men,\Nif that's what they think.
+Dialogue: 0,0:25:34.86,0:25:36.63,Default,,0,0,0,,{\i1}If that's what you're saying.{\i0}
+Dialogue: 0,0:25:36.63,0:25:39.06,Default,,0,0,0,,No, I'm saying I want to\Nunderstand what happened.
+Dialogue: 0,0:25:40.83,0:25:42.80,Default,,0,0,0,,I'm saying thank\Nyou for saving my life.
+Dialogue: 0,0:25:42.80,0:25:44.60,Default,,0,0,0,,{\i1}I'm saying there's a cost.{\i0}
+Dialogue: 0,0:25:53.55,0:25:55.55,Default,,0,0,0,,I just don't know\Nif it's possible.
+Dialogue: 0,0:25:56.68,0:25:58.45,Default,,0,0,0,,Don't know if what's possible?
+Dialogue: 0,0:26:01.69,0:26:03.76,Default,,0,0,0,,For you to love me and be you.
+Dialogue: 0,0:26:31.35,0:26:32.75,Default,,0,0,0,,Clark!
+Dialogue: 0,0:26:34.09,0:26:36.36,Default,,0,0,0,,Clark, you're going\Nto flood the apartment.
+Dialogue: 0,0:26:36.36,0:26:38.52,Default,,0,0,0,,Mmm-hmm.
+Dialogue: 0,0:27:11.29,0:27:13.56,Default,,0,0,0,,You still working?
+Dialogue: 0,0:27:13.56,0:27:15.96,Default,,0,0,0,,You're getting slow\Nin your old age, Alfred.
+Dialogue: 0,0:27:15.96,0:27:19.33,Default,,0,0,0,,Comes to us all, Master Wayne.
+Dialogue: 0,0:27:19.33,0:27:22.03,Default,,0,0,0,,Even you got too\Nold to die young.
+Dialogue: 0,0:27:23.57,0:27:25.87,Default,,0,0,0,,And not for lack of trying.
+Dialogue: 0,0:27:27.97,0:27:30.28,Default,,0,0,0,,{\i1}Funnel-ferry butterbar.\NFunnel-ferry butterbar.{\i0}
+Dialogue: 0,0:27:30.28,0:27:32.31,Default,,0,0,0,,{\i1}Funnel-ferry butterbar.\NFunnel-ferry...{\i0}
+Dialogue: 0,0:27:32.31,0:27:34.48,Default,,0,0,0,,There's nothing wrong\Nwith the microphone.
+Dialogue: 0,0:27:34.48,0:27:37.62,Default,,0,0,0,,It's this new layer of armor.
+Dialogue: 0,0:27:37.62,0:27:39.55,Default,,0,0,0,,I'll just have to rewire.
+Dialogue: 0,0:27:41.12,0:27:45.99,Default,,0,0,0,,So, last night was productive?
+Dialogue: 0,0:27:45.99,0:27:49.93,Default,,0,0,0,,No. He's too low-level.\NHe knew nothing.
+Dialogue: 0,0:27:49.93,0:27:52.36,Default,,0,0,0,,This is the man\Nwho knows things.
+Dialogue: 0,0:27:52.37,0:27:56.27,Default,,0,0,0,,Anatoli Knyazev. He's Russian.
+Dialogue: 0,0:27:56.27,0:27:57.80,Default,,0,0,0,,Contracts all over the globe,
+Dialogue: 0,0:27:57.81,0:27:59.17,Default,,0,0,0,,{\i1}but he's based out\Nof the port of Gotham.{\i0}
+Dialogue: 0,0:27:59.17,0:28:00.97,Default,,0,0,0,,{\i1}Weapons and human trafficking.{\i0}
+Dialogue: 0,0:28:00.98,0:28:02.84,Default,,0,0,0,,{\i1}So the white\NPortuguese is a Russian.{\i0}
+Dialogue: 0,0:28:02.84,0:28:04.98,Default,,0,0,0,,{\i1}That's the theory.{\i0}
+Dialogue: 0,0:28:04.98,0:28:09.62,Default,,0,0,0,,No. The theory is that the Russian\Nwill lead me to the man himself.
+Dialogue: 0,0:28:09.62,0:28:13.62,Default,,0,0,0,,If he is, indeed, a "him."
+Dialogue: 0,0:28:13.62,0:28:15.02,Default,,0,0,0,,You don't even\Nknow if he exists.
+Dialogue: 0,0:28:15.02,0:28:16.56,Default,,0,0,0,,Could be a Phantasm.
+Dialogue: 0,0:28:16.56,0:28:19.79,Default,,0,0,0,,One that wants to bring\Na dirty bomb into Gotham?
+Dialogue: 0,0:28:19.79,0:28:21.59,Default,,0,0,0,,Ah, high-stakes round.
+Dialogue: 0,0:28:25.03,0:28:26.57,Default,,0,0,0,,{\i1}New rules.{\i0}
+Dialogue: 0,0:28:29.50,0:28:31.17,Default,,0,0,0,,We're criminals, Alfred.
+Dialogue: 0,0:28:31.17,0:28:33.71,Default,,0,0,0,,We've always been\Ncriminals. Nothing's changed.
+Dialogue: 0,0:28:35.01,0:28:36.88,Default,,0,0,0,,Oh, yes, it has, sir.
+Dialogue: 0,0:28:38.48,0:28:40.11,Default,,0,0,0,,Everything's changed.
+Dialogue: 0,0:28:44.85,0:28:46.79,Default,,0,0,0,,{\i1}Men fall from the sky.{\i0}
+Dialogue: 0,0:28:47.75,0:28:50.39,Default,,0,0,0,,The Gods hurl thunderbolts.
+Dialogue: 0,0:28:51.26,0:28:53.13,Default,,0,0,0,,{\i1}Innocents die.{\i0}
+Dialogue: 0,0:28:54.36,0:28:57.03,Default,,0,0,0,,{\i1}That's how it starts, sir.{\i0}
+Dialogue: 0,0:28:57.03,0:28:59.20,Default,,0,0,0,,{\i1}The fever. The rage.{\i0}
+Dialogue: 0,0:28:59.20,0:29:02.13,Default,,0,0,0,,The feeling of powerlessness.
+Dialogue: 0,0:29:04.04,0:29:08.14,Default,,0,0,0,,It turns good men cruel.
+Dialogue: 0,0:29:19.42,0:29:22.09,Default,,0,0,0,,{\i1}John, get D.{\i0}
+Dialogue: 0,0:29:22.09,0:29:24.86,Default,,0,0,0,,Ooh. Ah. Ahoy, ahoy! I\Ndid not know you were here.
+Dialogue: 0,0:29:24.86,0:29:26.93,Default,,0,0,0,,Man on the Marquee.\NYeah, don't believe it.
+Dialogue: 0,0:29:26.93,0:29:28.56,Default,,0,0,0,,My father named the\Ncompany after himself.
+Dialogue: 0,0:29:28.56,0:29:30.76,Default,,0,0,0,,He was the Lex in front of\Nthe Corp. How you doin'?
+Dialogue: 0,0:29:30.77,0:29:32.36,Default,,0,0,0,,Oh, really great.
+Dialogue: 0,0:29:32.37,0:29:34.93,Default,,0,0,0,,Really great? Good.\NGood. Uh, follow me.
+Dialogue: 0,0:29:34.94,0:29:37.64,Default,,0,0,0,,No, uh, Dad started saying\Nthat he named the company,
+Dialogue: 0,0:29:37.64,0:29:39.44,Default,,0,0,0,,uh, after his kid\Nat investor pitches.
+Dialogue: 0,0:29:39.44,0:29:41.74,Default,,0,0,0,,Rich old ladies. They thought\Nit was very cute, you know?
+Dialogue: 0,0:29:41.74,0:29:43.61,Default,,0,0,0,,"Write check for Lex."
+Dialogue: 0,0:29:43.61,0:29:46.78,Default,,0,0,0,,You know, Dad was\Nborn in East Germany.
+Dialogue: 0,0:29:46.78,0:29:49.11,Default,,0,0,0,,He grew up eating,\Nuh, stale crackers.
+Dialogue: 0,0:29:49.12,0:29:51.32,Default,,0,0,0,,And every other Saturday,\Nhe had to march in a parade
+Dialogue: 0,0:29:51.32,0:29:53.39,Default,,0,0,0,,and wave flowers at Tyrants.
+Dialogue: 0,0:29:53.39,0:29:57.12,Default,,0,0,0,,So, I think it was\NProvidence that his son, me,
+Dialogue: 0,0:29:57.12,0:29:58.72,Default,,0,0,0,,would end up with this.
+Dialogue: 0,0:29:58.73,0:30:01.33,Default,,0,0,0,,One of my rebuild\NMetropolis crews found it.
+Dialogue: 0,0:30:01.33,0:30:03.93,Default,,0,0,0,,{\i1}Little souvenir from the\NKryptonian world engine.{\i0}
+Dialogue: 0,0:30:03.93,0:30:05.76,Default,,0,0,0,,What does a rock have to\Ndo with homeland security?
+Dialogue: 0,0:30:05.77,0:30:07.77,Default,,0,0,0,,Homeland security? Hmm.
+Dialogue: 0,0:30:07.77,0:30:11.47,Default,,0,0,0,,No, no, no, ma'am,\Nplanetary security.
+Dialogue: 0,0:30:11.47,0:30:13.51,Default,,0,0,0,,{\i1}The fragment is of a\Nradioactive xenomineral.{\i0}
+Dialogue: 0,0:30:13.51,0:30:16.31,Default,,0,0,0,,{\i1}We suspected it might\Nhave bio-interactions, {\i0}
+Dialogue: 0,0:30:16.31,0:30:19.31,Default,,0,0,0,,so we took the sample to amriid,
+Dialogue: 0,0:30:19.31,0:30:22.45,Default,,0,0,0,,where they keep the remains\Nof the Kryptonian decedent.
+Dialogue: 0,0:30:22.45,0:30:25.95,Default,,0,0,0,,And, when we exposed\NGeneral Zod to the mineral,
+Dialogue: 0,0:30:25.95,0:30:28.15,Default,,0,0,0,,this happened.
+Dialogue: 0,0:30:28.16,0:30:32.62,Default,,0,0,0,,{\i1}Profound biodegradation.\NDecaying Kryptonian cells.{\i0}
+Dialogue: 0,0:30:32.63,0:30:34.16,Default,,0,0,0,,We concluded the mineral\Ncould be weaponized
+Dialogue: 0,0:30:34.16,0:30:35.69,Default,,0,0,0,,if a large enough\Nsample was found.
+Dialogue: 0,0:30:35.70,0:30:39.33,Default,,0,0,0,,And then, among\Nthe fishes, a whale.
+Dialogue: 0,0:30:39.33,0:30:40.83,Default,,0,0,0,,{\i1}Ah!{\i0}
+Dialogue: 0,0:30:40.84,0:30:43.34,Default,,0,0,0,,{\i1}Lying at the bottom\Nof the Indian ocean.{\i0}
+Dialogue: 0,0:30:43.34,0:30:45.50,Default,,0,0,0,,Emerald city.
+Dialogue: 0,0:30:45.51,0:30:47.44,Default,,0,0,0,,{\i1}Beautiful.{\i0}
+Dialogue: 0,0:30:47.44,0:30:49.01,Default,,0,0,0,,{\i1}Now, rocky is radioactive, {\i0}
+Dialogue: 0,0:30:49.01,0:30:52.11,Default,,0,0,0,,but what he needs from\Nyou is an import license.
+Dialogue: 0,0:30:52.11,0:30:54.85,Default,,0,0,0,,And why would we want\Nto weaponize this material?
+Dialogue: 0,0:30:54.85,0:30:56.01,Default,,0,0,0,,{\i1}As a deterrent.{\i0}
+Dialogue: 0,0:30:56.02,0:30:57.52,Default,,0,0,0,,A silver bullet to\Nkeep in reserve,
+Dialogue: 0,0:30:57.52,0:30:58.78,Default,,0,0,0,,to use against the Kryptonians,
+Dialogue: 0,0:30:58.79,0:31:00.69,Default,,0,0,0,,so the day does not come, Madam,
+Dialogue: 0,0:31:00.69,0:31:02.49,Default,,0,0,0,,when your children are waving\Ndaisies at a reviewing stand.
+Dialogue: 0,0:31:02.49,0:31:04.19,Default,,0,0,0,,Last I looked, the\Nonly one of those
+Dialogue: 0,0:31:04.19,0:31:05.82,Default,,0,0,0,,flying around up\Nhere was Superman.
+Dialogue: 0,0:31:05.83,0:31:09.03,Default,,0,0,0,,Ha-ha, yes. Superman.\NYeah, but there are, uh...
+Dialogue: 0,0:31:09.03,0:31:10.46,Default,,0,0,0,,{\i1}There are more of them.{\i0}
+Dialogue: 0,0:31:10.46,0:31:11.83,Default,,0,0,0,,The metahuman thesis.
+Dialogue: 0,0:31:11.83,0:31:13.23,Default,,0,0,0,,{\i1}Yes, the metahuman thesis.{\i0}
+Dialogue: 0,0:31:13.23,0:31:14.63,Default,,0,0,0,,{\i1}More likely than not{\i0}
+Dialogue: 0,0:31:14.64,0:31:16.74,Default,,0,0,0,,these exceptional\Nbeings live among us.
+Dialogue: 0,0:31:16.74,0:31:19.54,Default,,0,0,0,,The basis of our myths.\NGods among men upon
+Dialogue: 0,0:31:19.54,0:31:21.04,Default,,0,0,0,,our little blue planet here.
+Dialogue: 0,0:31:23.38,0:31:25.18,Default,,0,0,0,,Now, you don't have\Nto use a silver bullet.
+Dialogue: 0,0:31:25.18,0:31:27.71,Default,,0,0,0,,But if you forge one...
+Dialogue: 0,0:31:27.72,0:31:29.41,Default,,0,0,0,,Well, then
+Dialogue: 0,0:31:29.42,0:31:32.08,Default,,0,0,0,,we don't have to depend\Nupon the kindness of monsters.
+Dialogue: 0,0:31:36.36,0:31:39.83,Default,,0,0,0,,There are ways we\Ncan help each other.
+Dialogue: 0,0:31:39.83,0:31:42.06,Default,,0,0,0,,Would you step\Ninto my office here?
+Dialogue: 0,0:31:45.90,0:31:47.70,Default,,0,0,0,,Yes.
+Dialogue: 0,0:31:47.70,0:31:49.47,Default,,0,0,0,,What's your wish list?
+Dialogue: 0,0:31:52.01,0:31:53.61,Default,,0,0,0,,Uh...
+Dialogue: 0,0:31:53.61,0:31:56.11,Default,,0,0,0,,Access to the wreck of the\Ncrashed Kryptonian ship?
+Dialogue: 0,0:31:58.24,0:31:59.44,Default,,0,0,0,,Done.
+Dialogue: 0,0:32:48.56,0:32:51.26,Default,,0,0,0,,The complete remains of\Nthe dead alien for testing.
+Dialogue: 0,0:32:52.97,0:32:54.20,Default,,0,0,0,,You want Zod's body?
+Dialogue: 0,0:32:55.47,0:32:56.87,Default,,0,0,0,,Okay.
+Dialogue: 0,0:33:10.78,0:33:13.65,Default,,0,0,0,,Mmm.
+Dialogue: 0,0:33:32.61,0:33:34.24,Default,,0,0,0,,It's cherry.
+Dialogue: 0,0:33:36.84,0:33:38.41,Default,,0,0,0,,Mmm-mmm.
+Dialogue: 0,0:33:40.45,0:33:42.15,Default,,0,0,0,,{\i1}Because the time has come{\i0}
+Dialogue: 0,0:33:42.15,0:33:45.45,Default,,0,0,0,,{\i1}for the world to hear\Nthe other side of the story.{\i0}
+Dialogue: 0,0:33:45.45,0:33:48.69,Default,,0,0,0,,{\i1}They say that Superman is a\Nhero. Okay, but whose hero?{\i0}
+Dialogue: 0,0:33:48.69,0:33:50.99,Default,,0,0,0,,{\i1}If Superman were here right now, {\i0}
+Dialogue: 0,0:33:50.99,0:33:53.13,Default,,0,0,0,,{\i1}what would you\Nwant to say to him?{\i0}
+Dialogue: 0,0:33:53.13,0:33:55.53,Default,,0,0,0,,{\i1}That my family, too, had dreams.{\i0}
+Dialogue: 0,0:33:57.20,0:33:59.36,Default,,0,0,0,,{\i1}To look him in his eye{\i0}
+Dialogue: 0,0:33:59.37,0:34:02.47,Default,,0,0,0,,{\i1}and ask him how he decides...{\i0}
+Dialogue: 0,0:34:02.47,0:34:03.87,Default,,0,0,0,,{\i1}...which lives count.{\i0}
+Dialogue: 0,0:34:04.64,0:34:06.41,Default,,0,0,0,,{\i1}And which ones do not.{\i0}
+Dialogue: 0,0:35:16.24,0:35:18.01,Default,,0,0,0,,Sir, get down.
+Dialogue: 0,0:35:19.61,0:35:21.98,Default,,0,0,0,,Sir, I said get down!
+Dialogue: 0,0:35:21.98,0:35:25.45,Default,,0,0,0,,{\i1}Now!{\i0}
+Dialogue: 0,0:35:25.45,0:35:27.02,Default,,0,0,0,,{\i1}Can we get some backup here?{\i0}
+Dialogue: 0,0:35:27.95,0:35:29.92,Default,,0,0,0,,{\i1}Hey! Hey! Don't do it!{\i0}
+Dialogue: 0,0:35:29.92,0:35:31.12,Default,,0,0,0,,{\i1}Hey!{\i0}
+Dialogue: 0,0:35:33.46,0:35:36.06,Default,,0,0,0,,Lois! Crime lab, on three.
+Dialogue: 0,0:35:37.80,0:35:39.26,Default,,0,0,0,,- This is Lane.\N{\i1}- Kent.{\i0}
+Dialogue: 0,0:35:39.27,0:35:40.90,Default,,0,0,0,,You're sports today.
+Dialogue: 0,0:35:40.90,0:35:43.10,Default,,0,0,0,,I want you to go to\NGotham, follow up on football.
+Dialogue: 0,0:35:43.10,0:35:47.91,Default,,0,0,0,,"Underdog dreams dashed: Ten\Nyards between Gotham and glory."
+Dialogue: 0,0:35:47.91,0:35:50.28,Default,,0,0,0,,Oh, um, watch yourself\Nover there in Gotham.
+Dialogue: 0,0:35:50.28,0:35:51.72,Default,,0,0,0,,Don't let them take\Nyour lunch money.
+Dialogue: 0,0:35:52.91,0:35:54.81,Default,,0,0,0,,Hey. Are you guys watching this?
+Dialogue: 0,0:35:54.82,0:35:56.62,Default,,0,0,0,,{\i1}Emergency responders\Nquickly created{\i0}
+Dialogue: 0,0:35:56.62,0:35:58.98,Default,,0,0,0,,{\i1}a precautionary perimeter\Naround heroes park{\i0}
+Dialogue: 0,0:35:58.99,0:36:01.69,Default,,0,0,0,,{\i1}while they brought the man\Ndown from this beloved monument.{\i0}
+Dialogue: 0,0:36:01.69,0:36:05.16,Default,,0,0,0,,{\i1}The suspect has been identified\Nas Wallace Vernon Keefe.{\i0}
+Dialogue: 0,0:36:05.16,0:36:06.42,Default,,0,0,0,,{\i1}I work for Bruce Wayne!{\i0}
+Dialogue: 0,0:36:06.43,0:36:08.19,Default,,0,0,0,,{\i1}I work for Bruce Wayne!{\i0}
+Dialogue: 0,0:36:08.20,0:36:10.60,Default,,0,0,0,,{\i1}He'll be arraigned on\Ncharges of vandalism, {\i0}
+Dialogue: 0,0:36:10.60,0:36:12.13,Default,,0,0,0,,{\i1}resisting arrest, {\i0}
+Dialogue: 0,0:36:12.13,0:36:14.27,Default,,0,0,0,,{\i1}and the felony charge\Nof making terrorist threats.{\i0}
+Dialogue: 0,0:36:14.27,0:36:16.33,Default,,0,0,0,,{\i1}That carries up to\N40 years in prison.{\i0}
+Dialogue: 0,0:36:16.34,0:36:17.54,Default,,0,0,0,,Poor son of a bitch.
+Dialogue: 0,0:36:17.54,0:36:19.64,Default,,0,0,0,,{\i1}Metropolis News 8.{\i0}
+Dialogue: 0,0:36:19.64,0:36:21.27,Default,,0,0,0,,Jenny. Hmm.
+Dialogue: 0,0:36:21.28,0:36:24.48,Default,,0,0,0,,{\c&H00FFFF&}Headline{\c&HFFFFFF&}: "End of love\Naffair with man in the sky,
+Dialogue: 0,0:36:24.48,0:36:26.04,Default,,0,0,0,,{\i1}"question mark (?)." {\i0}
+Dialogue: 0,0:36:27.05,0:36:28.28,Default,,0,0,0,,Okay.
+Dialogue: 0,0:37:09.86,0:37:10.92,Default,,0,0,0,,Is she in?
+Dialogue: 0,0:37:12.19,0:37:13.59,Default,,0,0,0,,No, she's been gone.
+Dialogue: 0,0:37:13.59,0:37:15.89,Default,,0,0,0,,{\i1}What'd she do, officer?{\i0}
+Dialogue: 0,0:37:15.90,0:37:18.10,Default,,0,0,0,,Oh, I'm not a cop.
+Dialogue: 0,0:37:18.10,0:37:19.43,Default,,0,0,0,,I'm a reporter.
+Dialogue: 0,0:37:21.57,0:37:23.24,Default,,0,0,0,,The young lady living here...
+Dialogue: 0,0:37:23.24,0:37:25.17,Default,,0,0,0,,She hasn't been back.
+Dialogue: 0,0:37:25.17,0:37:26.91,Default,,0,0,0,,In fact, if she's smart, then\Nshe's got out of this city.
+Dialogue: 0,0:37:26.91,0:37:30.01,Default,,0,0,0,,And you need to get\Nout of here before dark.
+Dialogue: 0,0:37:30.01,0:37:31.51,Default,,0,0,0,,Unless you want to run into him.
+Dialogue: 0,0:37:31.51,0:37:33.28,Default,,0,0,0,,{\i1}Don't listen to that nonsense.{\i0}
+Dialogue: 0,0:37:33.28,0:37:36.92,Default,,0,0,0,,Only people scared of him,\Npeople who got reason to be.
+Dialogue: 0,0:37:36.92,0:37:38.75,Default,,0,0,0,,Scared of who?
+Dialogue: 0,0:37:38.75,0:37:41.12,Default,,0,0,0,,There's a new\Nkind of mean in him.
+Dialogue: 0,0:37:41.92,0:37:43.52,Default,,0,0,0,,He is angry.
+Dialogue: 0,0:37:45.12,0:37:46.52,Default,,0,0,0,,And he's hunting.
+Dialogue: 0,0:37:50.30,0:37:51.93,Default,,0,0,0,,{\i1}Show 'em what you got!{\i0}
+Dialogue: 0,0:37:51.93,0:37:53.77,Default,,0,0,0,,Let's go. Come on!
+Dialogue: 0,0:37:57.04,0:37:58.34,Default,,0,0,0,,Throw a punch, will ya?
+Dialogue: 0,0:37:59.77,0:38:02.14,Default,,0,0,0,,Let's go! Come on!
+Dialogue: 0,0:38:25.30,0:38:26.53,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:38:35.44,0:38:37.81,Default,,0,0,0,,The house treats\Nluck like an insult.
+Dialogue: 0,0:38:37.81,0:38:40.65,Default,,0,0,0,,Good luck for one is always\Nhis brother's misfortune.
+Dialogue: 0,0:38:45.19,0:38:46.82,Default,,0,0,0,,Three nights with\Na Bolshoi Ballerina,
+Dialogue: 0,0:38:46.82,0:38:48.59,Default,,0,0,0,,that line was all she taught me.
+Dialogue: 0,0:38:48.59,0:38:51.59,Default,,0,0,0,,Not all, I'm sure. Good evening.
+Dialogue: 0,0:38:56.83,0:38:59.00,Default,,0,0,0,,{\i1}It's like a one-man\Nreign of terror.{\i0}
+Dialogue: 0,0:38:59.00,0:39:02.83,Default,,0,0,0,,This Bat vigilante has been\Nconsistently targeting the port
+Dialogue: 0,0:39:02.84,0:39:04.84,Default,,0,0,0,,and the adjacent\Nprojects and tenements.
+Dialogue: 0,0:39:04.84,0:39:06.84,Default,,0,0,0,,And, as far as I can tell, the\Ncops are actually helping him.
+Dialogue: 0,0:39:06.84,0:39:09.81,Default,,0,0,0,,"Crime wave in Gotham."
+Dialogue: 0,0:39:09.81,0:39:13.01,Default,,0,0,0,,{\c&H80FFFF&}Other breaking\Nnews{\c&HFFFFFF&}: "Water, wet."
+Dialogue: 0,0:39:13.01,0:39:14.61,Default,,0,0,0,,Did you file the football yet?
+Dialogue: 0,0:39:14.61,0:39:16.51,Default,,0,0,0,,Why aren't we covering this?
+Dialogue: 0,0:39:16.52,0:39:18.52,Default,,0,0,0,,{\i1}Poor people don't buy papers?{\i0}
+Dialogue: 0,0:39:18.52,0:39:20.65,Default,,0,0,0,,People don't buy\Npapers, period, Kent.
+Dialogue: 0,0:39:20.65,0:39:22.05,Default,,0,0,0,,Perry, when you assign a story,
+Dialogue: 0,0:39:22.06,0:39:23.82,Default,,0,0,0,,you're making a choice\Nabout who matters.
+Dialogue: 0,0:39:23.82,0:39:25.19,Default,,0,0,0,,And who's worth it.
+Dialogue: 0,0:39:25.19,0:39:26.99,Default,,0,0,0,,Good morning, Smallville.
+Dialogue: 0,0:39:26.99,0:39:30.66,Default,,0,0,0,,The American conscience died\Nwith Robert, Martin, and John.
+Dialogue: 0,0:39:30.66,0:39:33.83,Default,,0,0,0,,{\i1}Sorry. I'm sorry.{\i0}
+Dialogue: 0,0:39:33.83,0:39:36.94,Default,,0,0,0,,No match. My guys in the\Ncrime lab never seen one before.
+Dialogue: 0,0:39:38.54,0:39:40.41,Default,,0,0,0,,It's called a bullet. You\Nshoot people with them.
+Dialogue: 0,0:39:40.41,0:39:41.91,Default,,0,0,0,,Recovered from the scene
+Dialogue: 0,0:39:41.91,0:39:43.58,Default,,0,0,0,,of the firefight in the desert.
+Dialogue: 0,0:39:43.58,0:39:45.88,Default,,0,0,0,,Not sold anywhere\Ncommercially in the world,
+Dialogue: 0,0:39:45.88,0:39:47.08,Default,,0,0,0,,even black market.
+Dialogue: 0,0:39:47.08,0:39:48.48,Default,,0,0,0,,{\i1}So?{\i0}
+Dialogue: 0,0:39:48.48,0:39:50.38,Default,,0,0,0,,So who gave\Nprototype military rounds
+Dialogue: 0,0:39:50.38,0:39:51.85,Default,,0,0,0,,to Tuareg fighters\Nin the Sahara?
+Dialogue: 0,0:39:51.85,0:39:53.49,Default,,0,0,0,,You're the reporter. Tell me.
+Dialogue: 0,0:39:53.49,0:39:55.25,Default,,0,0,0,,I think that the us government\Nis arming the rebels
+Dialogue: 0,0:39:55.26,0:39:56.89,Default,,0,0,0,,{\i1}while claiming to support\Nthe elected government.{\i0}
+Dialogue: 0,0:39:56.89,0:39:58.56,Default,,0,0,0,,The ask, Lois.
+Dialogue: 0,0:40:03.73,0:40:05.49,Default,,0,0,0,,Flight to D.C. tonight.\NCouple of days there.
+Dialogue: 0,0:40:05.73,0:40:06.83,Default,,0,0,0,,Go.
+Dialogue: 0,0:40:06.83,0:40:09.17,Default,,0,0,0,,Coach. No extra legroom.
+Dialogue: 0,0:40:11.90,0:40:13.00,Default,,0,0,0,,Economy plus.
+Dialogue: 0,0:40:13.01,0:40:14.27,Default,,0,0,0,,Coach!
+Dialogue: 0,0:40:15.74,0:40:17.91,Default,,0,0,0,,So, why didn't you tell me?
+Dialogue: 0,0:40:20.85,0:40:22.18,Default,,0,0,0,,You're digging up snakes, Lo.
+Dialogue: 0,0:40:23.58,0:40:25.18,Default,,0,0,0,,It's kind of dangerous.
+Dialogue: 0,0:40:25.19,0:40:27.12,Default,,0,0,0,,That is why I didn't tell you.
+Dialogue: 0,0:40:27.12,0:40:28.60,Default,,0,0,0,,Lane, don't you\Nhave a plane to catch?
+Dialogue: 0,0:40:29.59,0:40:30.66,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,0:40:32.39,0:40:34.73,Default,,0,0,0,,Benefit for the\Nlibrary of Metropolis.
+Dialogue: 0,0:40:34.73,0:40:37.76,Default,,0,0,0,,Someone on the committee\Nrequested that Clark Kent cover it.
+Dialogue: 0,0:40:37.76,0:40:41.00,Default,,0,0,0,,Probably some old charity\Ncrone who's got a thing for nerds.
+Dialogue: 0,0:40:51.44,0:40:52.78,Default,,0,0,0,,{\i1}Senator.{\i0}
+Dialogue: 0,0:40:53.75,0:40:55.45,Default,,0,0,0,,Little bourbon before lunch?
+Dialogue: 0,0:40:55.45,0:40:57.58,Default,,0,0,0,,My driver's\Noutside. I can't stay.
+Dialogue: 0,0:40:57.58,0:40:59.45,Default,,0,0,0,,No bourbon?
+Dialogue: 0,0:40:59.45,0:41:00.95,Default,,0,0,0,,Kentucky girl like yourself?
+Dialogue: 0,0:41:01.82,0:41:03.46,Default,,0,0,0,,Hmm.
+Dialogue: 0,0:41:03.46,0:41:06.32,Default,,0,0,0,,My Dad always said\Nthat Kentucky mash
+Dialogue: 0,0:41:06.33,0:41:08.29,Default,,0,0,0,,was the secret to health.
+Dialogue: 0,0:41:08.30,0:41:09.96,Default,,0,0,0,,Mmm.
+Dialogue: 0,0:41:10.96,0:41:12.40,Default,,0,0,0,,This was his room.
+Dialogue: 0,0:41:14.47,0:41:16.17,Default,,0,0,0,,I kept it just the same.
+Dialogue: 0,0:41:18.24,0:41:19.47,Default,,0,0,0,,Mmm.
+Dialogue: 0,0:41:22.27,0:41:25.81,Default,,0,0,0,,"Maybe one day Dad'll come back\Nif I just keep everything the same."
+Dialogue: 0,0:41:25.81,0:41:27.38,Default,,0,0,0,,That is silly.
+Dialogue: 0,0:41:29.15,0:41:31.48,Default,,0,0,0,,The magical thinking\Nof orphan boys.
+Dialogue: 0,0:41:31.49,0:41:34.22,Default,,0,0,0,,I'm blocking the import\Nlicense for your mineral.
+Dialogue: 0,0:41:41.99,0:41:43.93,Default,,0,0,0,,The redcapes are coming.
+Dialogue: 0,0:41:45.43,0:41:47.60,Default,,0,0,0,,The redcapes are coming.
+Dialogue: 0,0:41:47.60,0:41:48.67,Default,,0,0,0,,Hmm...
+Dialogue: 0,0:41:51.81,0:41:53.20,Default,,0,0,0,,You and your hearings.
+Dialogue: 0,0:41:57.21,0:41:59.74,Default,,0,0,0,,Galloping through\Nthe streets to warn us.
+Dialogue: 0,0:42:01.48,0:42:02.88,Default,,0,0,0,,One if by land,
+Dialogue: 0,0:42:02.88,0:42:04.88,Default,,0,0,0,,two if by air.
+Dialogue: 0,0:42:04.89,0:42:06.25,Default,,0,0,0,,Mmm.
+Dialogue: 0,0:42:11.02,0:42:14.03,Default,,0,0,0,,Do you know the oldest\Nlie in America, Senator?
+Dialogue: 0,0:42:14.03,0:42:15.23,Default,,0,0,0,,Can I call you June?
+Dialogue: 0,0:42:15.23,0:42:18.03,Default,,0,0,0,,You can call me\Nwhatever you like.
+Dialogue: 0,0:42:18.03,0:42:20.73,Default,,0,0,0,,Take a bucket of piss and\Ncall it granny's peach tea.
+Dialogue: 0,0:42:20.73,0:42:22.30,Default,,0,0,0,,Mmm-hmm.
+Dialogue: 0,0:42:22.30,0:42:23.74,Default,,0,0,0,,Take a weapon of assassination
+Dialogue: 0,0:42:23.74,0:42:25.44,Default,,0,0,0,,and call it deterrence.
+Dialogue: 0,0:42:27.37,0:42:29.21,Default,,0,0,0,,You won't fool a fly or me.
+Dialogue: 0,0:42:30.91,0:42:32.78,Default,,0,0,0,,I'm not gonna drink it.
+Dialogue: 0,0:42:37.52,0:42:39.82,Default,,0,0,0,,You don't think Dad\Nwould mind, do you?
+Dialogue: 0,0:42:39.82,0:42:44.76,Default,,0,0,0,,If I changed just... Just\None thing in this room?
+Dialogue: 0,0:42:47.06,0:42:49.59,Default,,0,0,0,,Because that should\Nbe upside-down.
+Dialogue: 0,0:42:51.73,0:42:53.83,Default,,0,0,0,,We know better now, don't we?
+Dialogue: 0,0:42:53.83,0:42:56.97,Default,,0,0,0,,The Devils don't come\Nfrom Hell beneath us. No.
+Dialogue: 0,0:42:58.00,0:43:00.10,Default,,0,0,0,,No, they come from the sky.
+Dialogue: 0,0:44:56.39,0:44:57.72,Default,,0,0,0,,Oh.
+Dialogue: 0,0:44:57.72,0:44:59.56,Default,,0,0,0,,I hope the next\Ngeneration of Waynes
+Dialogue: 0,0:44:59.56,0:45:03.46,Default,,0,0,0,,won't inherit an\Nempty wine cellar.
+Dialogue: 0,0:45:03.46,0:45:06.60,Default,,0,0,0,,Not that there's likely\Nto be a next generation.
+Dialogue: 0,0:45:07.87,0:45:09.13,Default,,0,0,0,,{\i1}Thank you, sir.{\i0}
+Dialogue: 0,0:45:12.17,0:45:15.74,Default,,0,0,0,,This is every call made\Nfrom the Russian's phone.
+Dialogue: 0,0:45:15.74,0:45:18.21,Default,,0,0,0,,Two mentions of business\Nwith the white Portuguese.
+Dialogue: 0,0:45:18.21,0:45:21.15,Default,,0,0,0,,And it's continually\Ntransmitting blacked-out data
+Dialogue: 0,0:45:21.15,0:45:22.81,Default,,0,0,0,,to the personal residence
+Dialogue: 0,0:45:22.82,0:45:24.48,Default,,0,0,0,,of Alexander Luthor.
+Dialogue: 0,0:45:24.48,0:45:28.35,Default,,0,0,0,,You think Lex Luthor\Nis the white Portuguese?
+Dialogue: 0,0:45:30.02,0:45:32.36,Default,,0,0,0,,I can't see that he needs the\Nincome from imported arms.
+Dialogue: 0,0:45:32.36,0:45:34.39,Default,,0,0,0,,Regardless, I'll need to\Nput a leech at his house,
+Dialogue: 0,0:45:34.39,0:45:35.73,Default,,0,0,0,,and I'm gonna need the suit.
+Dialogue: 0,0:45:35.73,0:45:37.83,Default,,0,0,0,,The bat interrogated six people
+Dialogue: 0,0:45:37.83,0:45:39.83,Default,,0,0,0,,and came away with nothing.
+Dialogue: 0,0:45:41.67,0:45:43.90,Default,,0,0,0,,It was Bruce Wayne\Nthat got the information.
+Dialogue: 0,0:45:43.90,0:45:47.07,Default,,0,0,0,,Well, Bruce Wayne can't\Nbreak into Lex Luthor's house.
+Dialogue: 0,0:45:47.07,0:45:48.81,Default,,0,0,0,,Bruce Wayne won't have to.
+Dialogue: 0,0:45:50.68,0:45:52.08,Default,,0,0,0,,He's been invited.
+Dialogue: 0,0:47:05.12,0:47:07.49,Default,,0,0,0,,Who's that?
+Dialogue: 0,0:47:07.49,0:47:09.92,Default,,0,0,0,,You must be new to the\N"let them eat cake" beat.
+Dialogue: 0,0:47:09.92,0:47:12.69,Default,,0,0,0,,That is Bruce Wayne.
+Dialogue: 0,0:47:12.69,0:47:14.93,Default,,0,0,0,,{\i1}Philanthropist, bibliophile...{\i0}
+Dialogue: 0,0:47:14.93,0:47:18.13,Default,,0,0,0,,True friend of the\Nlibrary of Metropolis.
+Dialogue: 0,0:47:18.13,0:47:19.53,Default,,0,0,0,,Mr. Lex Luthor.
+Dialogue: 0,0:47:19.53,0:47:22.23,Default,,0,0,0,,Me? Ah. Okay.
+Dialogue: 0,0:47:26.54,0:47:29.11,Default,,0,0,0,,Nicky. Uh...
+Dialogue: 0,0:47:29.11,0:47:31.34,Default,,0,0,0,,{\i1}You're embarrassing me. Um...{\i0}
+Dialogue: 0,0:47:31.34,0:47:33.38,Default,,0,0,0,,{\i1}Speech, speech. Uh...{\i0}
+Dialogue: 0,0:47:33.38,0:47:35.01,Default,,0,0,0,,{\i1}Blah, blah, blah. Uh...{\i0}
+Dialogue: 0,0:47:35.71,0:47:37.48,Default,,0,0,0,,{\i1}Open bar.{\i0}
+Dialogue: 0,0:47:37.48,0:47:39.48,Default,,0,0,0,,{\i1}The end.{\i0}
+Dialogue: 0,0:47:39.49,0:47:42.22,Default,,0,0,0,,{\i1}Uh...{\i0}
+Dialogue: 0,0:47:42.22,0:47:45.22,Default,,0,0,0,,The word "philanthropist"\Ncomes from the Greek.
+Dialogue: 0,0:47:45.23,0:47:46.82,Default,,0,0,0,,Meaning a lover of humanity.
+Dialogue: 0,0:47:46.83,0:47:49.89,Default,,0,0,0,,{\i1}Uh, it was coined\Nabout 2,500 years ago.{\i0}
+Dialogue: 0,0:47:49.90,0:47:51.66,Default,,0,0,0,,All right. Where\Nam I going, Alfred?
+Dialogue: 0,0:47:51.66,0:47:53.83,Default,,0,0,0,,Go past the elevator.
+Dialogue: 0,0:47:53.83,0:47:55.37,Default,,0,0,0,,Do a left.
+Dialogue: 0,0:47:56.17,0:47:58.54,Default,,0,0,0,,{\i1}That's right, must be.{\i0}
+Dialogue: 0,0:47:58.54,0:48:00.87,Default,,0,0,0,,{\i1}It's in the service\Ncorridor in the basement.{\i0}
+Dialogue: 0,0:48:00.87,0:48:02.34,Default,,0,0,0,,{\i1}Go down the stairs.{\i0}
+Dialogue: 0,0:48:02.34,0:48:04.64,Default,,0,0,0,,{\i1}Gods and men.\NPrometheus went with us.{\i0}
+Dialogue: 0,0:48:04.64,0:48:07.38,Default,,0,0,0,,And he ruined Zeus'\Nplan to destroy mankind,
+Dialogue: 0,0:48:07.38,0:48:08.94,Default,,0,0,0,,and for that he was\Ngiven a thunderbolt.
+Dialogue: 0,0:48:09.98,0:48:12.22,Default,,0,0,0,,{\i1}Hmm, that seems unfair.{\i0}
+Dialogue: 0,0:48:12.22,0:48:15.22,Default,,0,0,0,,{\i1}Um... on a serious note,\Nthe library of Metropolis...{\i0}
+Dialogue: 0,0:48:15.22,0:48:17.15,Default,,0,0,0,,Go to the stairs. You saw them\Non your way in. Down the stairs.
+Dialogue: 0,0:48:17.16,0:48:20.89,Default,,0,0,0,,{\i1}But at one time, Dad\Ncould not buy them. No.{\i0}
+Dialogue: 0,0:48:20.89,0:48:23.03,Default,,0,0,0,,{\i1}My father could not\Nafford books growing up.{\i0}
+Dialogue: 0,0:48:23.03,0:48:25.51,Default,,0,0,0,,{\i1}He had to root through the\Ngarbage for yesterday's newspaper.{\i0}
+Dialogue: 0,0:48:27.00,0:48:28.80,Default,,0,0,0,,All right. You got the\Nkitchens on your right.
+Dialogue: 0,0:48:29.90,0:48:31.54,Default,,0,0,0,,{\i1}Do a left.{\i0}
+Dialogue: 0,0:48:31.54,0:48:33.77,Default,,0,0,0,,Right in front of you.\NThat's where you want to be.
+Dialogue: 0,0:48:50.46,0:48:51.92,Default,,0,0,0,,May I help you, Mr. Wayne?
+Dialogue: 0,0:48:51.93,0:48:54.29,Default,,0,0,0,,Uh, I just...
+Dialogue: 0,0:48:54.29,0:48:57.06,Default,,0,0,0,,I thought the bathroom\Nwas down here. I must have...
+Dialogue: 0,0:48:57.06,0:49:00.77,Default,,0,0,0,,That last martini was\Ntwo too many, I think.
+Dialogue: 0,0:49:00.77,0:49:02.23,Default,,0,0,0,,Men's room is upstairs.
+Dialogue: 0,0:49:02.24,0:49:03.83,Default,,0,0,0,,Great. I'm okay.
+Dialogue: 0,0:49:04.77,0:49:06.00,Default,,0,0,0,,I like those shoes.
+Dialogue: 0,0:49:10.88,0:49:12.78,Default,,0,0,0,,I can't stay down here, Alfred.
+Dialogue: 0,0:49:12.78,0:49:14.25,Default,,0,0,0,,{\i1}Go upstairs and socialize.{\i0}
+Dialogue: 0,0:49:14.25,0:49:15.95,Default,,0,0,0,,Some young lady from Metropolis
+Dialogue: 0,0:49:15.95,0:49:17.28,Default,,0,0,0,,will make you honest.
+Dialogue: 0,0:49:19.12,0:49:21.32,Default,,0,0,0,,In your dreams, Alfred.
+Dialogue: 0,0:49:21.32,0:49:22.82,Default,,0,0,0,,{\i1}Books are knowledge, {\i0}
+Dialogue: 0,0:49:22.82,0:49:26.39,Default,,0,0,0,,and knowledge is\Npower, and I am...
+Dialogue: 0,0:49:26.39,0:49:27.99,Default,,0,0,0,,No. Uh, um...
+Dialogue: 0,0:49:27.99,0:49:31.00,Default,,0,0,0,,No. What am I? I...\NWhat was I saying? No.
+Dialogue: 0,0:49:33.13,0:49:34.73,Default,,0,0,0,,The bittersweet pain among men
+Dialogue: 0,0:49:34.73,0:49:38.60,Default,,0,0,0,,is having knowledge\Nwith no power, because...
+Dialogue: 0,0:49:38.60,0:49:41.54,Default,,0,0,0,,Because that is\Nparadoxical! And, um...
+Dialogue: 0,0:49:43.98,0:49:45.98,Default,,0,0,0,,Thank you for coming.
+Dialogue: 0,0:49:47.41,0:49:49.01,Default,,0,0,0,,{\i1}Please drink. Drink.{\i0}
+Dialogue: 0,0:49:57.86,0:50:02.16,Default,,0,0,0,,Mr. Wayne? Mr. Wayne?\NClark Kent, {\i1}Daily Planet.{\i0}
+Dialogue: 0,0:50:02.16,0:50:04.26,Default,,0,0,0,,Uh, my foundation has\Nalready issued a statement
+Dialogue: 0,0:50:04.26,0:50:06.33,Default,,0,0,0,,in support of books.
+Dialogue: 0,0:50:06.33,0:50:08.50,Default,,0,0,0,,Sir? Um...
+Dialogue: 0,0:50:08.50,0:50:11.20,Default,,0,0,0,,Wow. Pretty girl. Bad\Nhabit. Don't quote me.
+Dialogue: 0,0:50:11.20,0:50:12.87,Default,,0,0,0,,All right?
+Dialogue: 0,0:50:12.87,0:50:15.84,Default,,0,0,0,,What's your position on\Nthe Bat vigilante in Gotham?
+Dialogue: 0,0:50:15.84,0:50:18.54,Default,,0,0,0,,{\i1}Daily Planet.{\i0} Do I own this\None? Or is that the other guy?
+Dialogue: 0,0:50:18.54,0:50:22.15,Default,,0,0,0,,Civil liberties are being\Ntrampled on in your city.
+Dialogue: 0,0:50:22.15,0:50:23.51,Default,,0,0,0,,Good people are living in fear.
+Dialogue: 0,0:50:26.32,0:50:28.49,Default,,0,0,0,,Don't believe\Neverything you hear, son.
+Dialogue: 0,0:50:28.49,0:50:31.86,Default,,0,0,0,,I've seen it, Mr. Wayne.\NHe thinks he's above the law.
+Dialogue: 0,0:50:34.99,0:50:38.23,Default,,0,0,0,,{\i1}The Daily Planet{\i0} criticizing those\Nwho think they're above the law
+Dialogue: 0,0:50:38.23,0:50:42.40,Default,,0,0,0,,is a little hypocritical,\Nwouldn't you say?
+Dialogue: 0,0:50:42.40,0:50:45.17,Default,,0,0,0,,Considering every time your\Nhero saves a cat out of a tree,
+Dialogue: 0,0:50:45.17,0:50:47.47,Default,,0,0,0,,you write a puff piece editorial
+Dialogue: 0,0:50:47.47,0:50:50.21,Default,,0,0,0,,about an alien\Nwho, if he wanted to,
+Dialogue: 0,0:50:50.21,0:50:52.98,Default,,0,0,0,,could burn the whole place down.
+Dialogue: 0,0:50:52.98,0:50:55.81,Default,,0,0,0,,There wouldn't be a damn\Nthing we could do to stop him.
+Dialogue: 0,0:50:57.85,0:51:00.89,Default,,0,0,0,,Most of the world doesn't\Nshare your opinion, Mr. Wayne.
+Dialogue: 0,0:51:00.89,0:51:04.36,Default,,0,0,0,,Maybe it's the\NGotham city in me.
+Dialogue: 0,0:51:04.36,0:51:05.82,Default,,0,0,0,,We just have a bad history
+Dialogue: 0,0:51:05.83,0:51:07.59,Default,,0,0,0,,with freaks dressed like clowns.
+Dialogue: 0,0:51:09.53,0:51:11.10,Default,,0,0,0,,{\i1}Boys! Um!{\i0}
+Dialogue: 0,0:51:11.10,0:51:13.70,Default,,0,0,0,,Bruce Wayne\Nmeets Clark Kent. Ha!
+Dialogue: 0,0:51:13.70,0:51:15.70,Default,,0,0,0,,I love it. I love bringing\Npeople together.
+Dialogue: 0,0:51:15.70,0:51:16.73,Default,,0,0,0,,How are we?
+Dialogue: 0,0:51:16.74,0:51:18.50,Default,,0,0,0,,Lex. Hello. Good.
+Dialogue: 0,0:51:18.50,0:51:21.01,Default,,0,0,0,,Hi, hello, Lex, it\Nis a pleasure. Ow!
+Dialogue: 0,0:51:21.01,0:51:22.61,Default,,0,0,0,,Wow! That is a good grip!
+Dialogue: 0,0:51:22.61,0:51:25.41,Default,,0,0,0,,You should not pick a\Nfight with this person. Huh.
+Dialogue: 0,0:51:25.41,0:51:27.71,Default,,0,0,0,,So, after all these years, we\Nfinally got you over to Metropolis.
+Dialogue: 0,0:51:27.71,0:51:29.88,Default,,0,0,0,,Well, I thought I'd\Ncome drink you dry.
+Dialogue: 0,0:51:29.88,0:51:31.88,Default,,0,0,0,,Well, you're welcome. You should\Nhop the Harbor more often, though.
+Dialogue: 0,0:51:31.88,0:51:33.22,Default,,0,0,0,,I'd love to show you my labs.
+Dialogue: 0,0:51:33.22,0:51:35.69,Default,,0,0,0,,Maybe we could\Npartner on something.
+Dialogue: 0,0:51:35.69,0:51:38.59,Default,,0,0,0,,My R and D is up to\Nall sorts of no good.
+Dialogue: 0,0:51:42.59,0:51:43.96,Default,,0,0,0,,That's seven minutes.
+Dialogue: 0,0:51:43.96,0:51:45.40,Default,,0,0,0,,{\i1}Looks like the\Ntransfer's complete.{\i0}
+Dialogue: 0,0:51:46.47,0:51:47.77,Default,,0,0,0,,Mr. Luthor. Yes?
+Dialogue: 0,0:51:47.77,0:51:49.60,Default,,0,0,0,,The Governor. Governor.
+Dialogue: 0,0:51:49.60,0:51:51.10,Default,,0,0,0,,Excuse me. Next time.
+Dialogue: 0,0:51:51.10,0:51:52.44,Default,,0,0,0,,Governor! Hi!
+Dialogue: 0,0:51:52.44,0:51:54.14,Default,,0,0,0,,Lex, it's good to see you.
+Dialogue: 0,0:52:32.41,0:52:33.48,Default,,0,0,0,,Excuse me.
+Dialogue: 0,0:53:39.71,0:53:42.21,Default,,0,0,0,,{\i1}We, as a population\Non this planet, {\i0}
+Dialogue: 0,0:53:42.22,0:53:43.71,Default,,0,0,0,,{\i1}have been looking for a savior.{\i0}
+Dialogue: 0,0:53:43.72,0:53:46.15,Default,,0,0,0,,{\i1}90% of people believe\Nin a higher power, {\i0}
+Dialogue: 0,0:53:46.15,0:53:47.59,Default,,0,0,0,,{\i1}and every religion believes{\i0}
+Dialogue: 0,0:53:47.59,0:53:49.55,Default,,0,0,0,,{\i1}in some sort of\Nmessianic figure.{\i0}
+Dialogue: 0,0:53:49.56,0:53:52.72,Default,,0,0,0,,{\i1}And when this savior character\Nactually comes to earth, {\i0}
+Dialogue: 0,0:53:52.73,0:53:55.06,Default,,0,0,0,,{\i1}we want to make him\Nabide by our rules?{\i0}
+Dialogue: 0,0:53:55.06,0:53:57.19,Default,,0,0,0,,{\i1}We have to understand\Nthat this a paradigm shift.{\i0}
+Dialogue: 0,0:53:57.20,0:53:59.73,Default,,0,0,0,,{\i1}We have to start\Nthinking beyond politics.{\i0}
+Dialogue: 0,0:53:59.73,0:54:02.40,Default,,0,0,0,,{\i1}Are there any moral\Nconstraints on this person?{\i0}
+Dialogue: 0,0:54:02.40,0:54:04.40,Default,,0,0,0,,{\i1}We have international law.{\i0}
+Dialogue: 0,0:54:04.40,0:54:07.57,Default,,0,0,0,,{\i1}On this earth, every\Nact is a political act.{\i0}
+Dialogue: 0,0:54:07.57,0:54:09.41,Default,,0,0,0,,{\i1}Is it really surprising{\i0}
+Dialogue: 0,0:54:09.41,0:54:11.78,Default,,0,0,0,,{\i1}that the most powerful\Nman in the world{\i0}
+Dialogue: 0,0:54:11.78,0:54:14.95,Default,,0,0,0,,{\i1}should be a figure\Nof controversy?{\i0}
+Dialogue: 0,0:54:14.95,0:54:17.51,Default,,0,0,0,,{\i1}Uh, to have an\Nindividual engaging{\i0}
+Dialogue: 0,0:54:17.52,0:54:19.92,Default,,0,0,0,,{\i1}in these state-level\Ninterventions{\i0}
+Dialogue: 0,0:54:19.92,0:54:22.05,Default,,0,0,0,,{\i1}should give us all pause.{\i0}
+Dialogue: 0,0:54:22.05,0:54:24.29,Default,,0,0,0,,{\i1}Human beings have\Na horrible track record{\i0}
+Dialogue: 0,0:54:24.29,0:54:26.56,Default,,0,0,0,,{\i1}of following people\Nwith great power{\i0}
+Dialogue: 0,0:54:26.56,0:54:28.26,Default,,0,0,0,,{\i1}down paths that led to{\i0}
+Dialogue: 0,0:54:28.26,0:54:30.26,Default,,0,0,0,,{\i1}huge human atrocities.{\i0}
+Dialogue: 0,0:54:30.26,0:54:32.80,Default,,0,0,0,,{\i1}We have always created\Nicons in our own image.{\i0}
+Dialogue: 0,0:54:32.80,0:54:36.27,Default,,0,0,0,,{\i1}What we've done is we\Nproject ourselves onto him.{\i0}
+Dialogue: 0,0:54:36.27,0:54:39.97,Default,,0,0,0,,{\i1}The fact is, maybe he's not some\Nsort of Devil or Jesus character.{\i0}
+Dialogue: 0,0:54:39.97,0:54:42.44,Default,,0,0,0,,{\i1}Maybe he's just a guy\Ntrying to do the right thing.{\i0}
+Dialogue: 0,0:54:42.44,0:54:45.61,Default,,0,0,0,,{\c&HFF0080&}Neil deGrasse Tyson{\c&HFFFFFF&}: {\i1}We're talking\Nabout a being whose very existence{\i0}
+Dialogue: 0,0:54:45.61,0:54:50.15,Default,,0,0,0,,{\i1}challenges our own sense\Nof priority in the universe.{\i0}
+Dialogue: 0,0:54:50.15,0:54:51.62,Default,,0,0,0,,{\i1}And you go back to copernicus, {\i0}
+Dialogue: 0,0:54:51.62,0:54:53.12,Default,,0,0,0,,{\i1}where he restored the sun{\i0}
+Dialogue: 0,0:54:53.12,0:54:54.62,Default,,0,0,0,,{\i1}in the center of\Nthe known universe, {\i0}
+Dialogue: 0,0:54:54.62,0:54:56.12,Default,,0,0,0,,{\i1}displacing earth.{\i0}
+Dialogue: 0,0:54:56.12,0:54:57.96,Default,,0,0,0,,{\i1}And you get to\Ndarwinian evolution, {\i0}
+Dialogue: 0,0:54:57.96,0:55:00.12,Default,,0,0,0,,{\i1}and you find out we're\Nnot special on this earth, {\i0}
+Dialogue: 0,0:55:00.13,0:55:02.96,Default,,0,0,0,,{\i1}we're just one\Namong other lifeforms.{\i0}
+Dialogue: 0,0:55:02.96,0:55:04.83,Default,,0,0,0,,{\i1}And now we learn\Nthat we're not even{\i0}
+Dialogue: 0,0:55:04.83,0:55:06.30,Default,,0,0,0,,{\i1}special in the entire universe{\i0}
+Dialogue: 0,0:55:06.30,0:55:09.17,Default,,0,0,0,,{\i1}because there is Superman.{\i0}
+Dialogue: 0,0:55:09.17,0:55:12.84,Default,,0,0,0,,{\i1}There he is. An alien among us.{\i0}
+Dialogue: 0,0:55:12.84,0:55:14.94,Default,,0,0,0,,{\i1}We're not alone.{\i0}
+Dialogue: 0,0:55:14.94,0:55:17.14,Default,,0,0,0,,{\i1}Are you, as a United\NStates Senator, {\i0}
+Dialogue: 0,0:55:17.14,0:55:21.58,Default,,0,0,0,,{\i1}personally comfortable\Nsaying to a grieving parent, {\i0}
+Dialogue: 0,0:55:21.58,0:55:25.15,Default,,0,0,0,,{\i1}"Superman could\Nhave saved your child, {\i0}
+Dialogue: 0,0:55:25.15,0:55:29.35,Default,,0,0,0,,{\i1}"but on principle, we\Ndid not want him to act"?{\i0}
+Dialogue: 0,0:55:29.36,0:55:31.32,Default,,0,0,0,,{\i1}I'm not saying he shouldn't act.{\i0}
+Dialogue: 0,0:55:31.32,0:55:33.26,Default,,0,0,0,,{\i1}I'm saying he\Nshouldn't act unilaterally.{\i0}
+Dialogue: 0,0:55:33.26,0:55:35.49,Default,,0,0,0,,{\i1}What are we talking\Nabout here, then?{\i0}
+Dialogue: 0,0:55:35.49,0:55:38.20,Default,,0,0,0,,{\i1}Must there be a Superman?{\i0}
+Dialogue: 0,0:55:40.37,0:55:41.57,Default,,0,0,0,,{\i1}There is.{\i0}
+Dialogue: 0,0:55:54.55,0:55:55.65,Default,,0,0,0,,{\i1}Hello?{\i0}
+Dialogue: 0,0:55:55.65,0:55:57.01,Default,,0,0,0,,{\i1}Mom?{\i0}
+Dialogue: 0,0:55:57.02,0:55:58.25,Default,,0,0,0,,Clark!
+Dialogue: 0,0:55:59.02,0:56:00.65,Default,,0,0,0,,What is it?
+Dialogue: 0,0:56:00.65,0:56:01.89,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:56:01.89,0:56:04.12,Default,,0,0,0,,{\i1}No. Nothing. I just...{\i0}
+Dialogue: 0,0:56:07.06,0:56:08.29,Default,,0,0,0,,Hi.
+Dialogue: 0,0:56:10.70,0:56:11.76,Default,,0,0,0,,Hi.
+Dialogue: 0,0:56:14.23,0:56:16.10,Default,,0,0,0,,How come Dad never left Kansas?
+Dialogue: 0,0:56:20.31,0:56:22.04,Default,,0,0,0,,Well, he just...
+Dialogue: 0,0:56:22.04,0:56:24.54,Default,,0,0,0,,You know how he was.
+Dialogue: 0,0:56:24.54,0:56:26.54,Default,,0,0,0,,"What do I need to travel for?
+Dialogue: 0,0:56:26.55,0:56:28.11,Default,,0,0,0,,"I'm already there."
+Dialogue: 0,0:56:30.48,0:56:32.12,Default,,0,0,0,,Just wish it was more simple.
+Dialogue: 0,0:56:34.82,0:56:36.22,Default,,0,0,0,,My baby boy.
+Dialogue: 0,0:56:38.06,0:56:40.46,Default,,0,0,0,,Nothing was ever simple.
+Dialogue: 0,0:56:47.83,0:56:49.43,Default,,0,0,0,,An odd little duck.
+Dialogue: 0,0:56:51.60,0:56:52.90,Default,,0,0,0,,{\i1}Hmm!{\i0}
+Dialogue: 0,0:56:52.91,0:56:54.30,Default,,0,0,0,,I've never seen\Na metal like this.
+Dialogue: 0,0:56:56.21,0:56:59.21,Default,,0,0,0,,Could be Darpa Black Box.
+Dialogue: 0,0:56:59.21,0:57:00.88,Default,,0,0,0,,Who could find out?
+Dialogue: 0,0:57:00.88,0:57:02.85,Default,,0,0,0,,Nobody who'd want to.
+Dialogue: 0,0:57:02.85,0:57:05.72,Default,,0,0,0,,Maybe they gave them out\Nto the rebels to test in theater.
+Dialogue: 0,0:57:05.72,0:57:08.92,Default,,0,0,0,,Using live soldiers\Nas Guinea pigs?
+Dialogue: 0,0:57:08.92,0:57:11.79,Default,,0,0,0,,This is what makes\Nyou such a good reporter.
+Dialogue: 0,0:57:11.79,0:57:13.09,Default,,0,0,0,,Stuff like this\Nstill shocks you.
+Dialogue: 0,0:57:35.78,0:57:37.11,Default,,0,0,0,,It don't come off!
+Dialogue: 0,0:57:37.12,0:57:39.22,Default,,0,0,0,,It don't come off!
+Dialogue: 0,0:57:39.22,0:57:41.45,Default,,0,0,0,,Prisoner transfer!
+Dialogue: 0,0:57:41.45,0:57:43.72,Default,,0,0,0,,You can't put me in General,\Nman. They gonna kill me.
+Dialogue: 0,0:57:43.72,0:57:45.32,Default,,0,0,0,,Hey, you can't\Nbring me to General.
+Dialogue: 0,0:57:45.32,0:57:46.62,Default,,0,0,0,,You should be thanking\Nthe tax payers of Metropolis
+Dialogue: 0,0:57:46.63,0:57:48.39,Default,,0,0,0,,for taking in your branded ass.
+Dialogue: 0,0:57:48.39,0:57:49.99,Default,,0,0,0,,Sign here, please.\NI'm marked, man.
+Dialogue: 0,0:57:50.00,0:57:51.63,Default,,0,0,0,,You know what they do to\Npeople with this on them?
+Dialogue: 0,0:57:51.63,0:57:53.16,Default,,0,0,0,,He's only a criminal.
+Dialogue: 0,0:57:53.17,0:57:54.67,Default,,0,0,0,,This way! Let's go!\NThey're gonna kill me!
+Dialogue: 0,0:57:54.67,0:57:55.97,Default,,0,0,0,,{\i1}- They're gonna kill me!{\i0}\N- Let's go!
+Dialogue: 0,0:57:55.97,0:57:57.07,Default,,0,0,0,,Keefe.
+Dialogue: 0,0:57:57.07,0:57:58.80,Default,,0,0,0,,You made bail.
+Dialogue: 0,0:57:58.80,0:57:59.87,Default,,0,0,0,,Open two.
+Dialogue: 0,0:58:05.61,0:58:06.84,Default,,0,0,0,,Who paid?
+Dialogue: 0,0:58:18.82,0:58:20.32,Default,,0,0,0,,Who the hell are you?
+Dialogue: 0,0:58:25.83,0:58:27.20,Default,,0,0,0,,Just a man.
+Dialogue: 0,0:58:27.20,0:58:29.40,Default,,0,0,0,,Yeah? Well, what\Nthe fuck do you want?
+Dialogue: 0,0:58:34.47,0:58:35.75,Default,,0,0,0,,To help you stand for something.
+Dialogue: 0,0:58:40.98,0:58:42.61,Default,,0,0,0,,Your three o'clock's here.
+Dialogue: 0,0:58:52.56,0:58:55.26,Default,,0,0,0,,He made me half a man.
+Dialogue: 0,0:58:56.90,0:58:58.90,Default,,0,0,0,,My wife
+Dialogue: 0,0:58:58.90,0:59:01.10,Default,,0,0,0,,walked out on me.
+Dialogue: 0,0:59:03.13,0:59:06.27,Default,,0,0,0,,I can't even piss standing up.
+Dialogue: 0,0:59:07.37,0:59:08.94,Default,,0,0,0,,{\i1}Let me face him.{\i0}
+Dialogue: 0,0:59:11.08,0:59:12.41,Default,,0,0,0,,You'll take care of it?
+Dialogue: 0,0:59:14.08,0:59:15.28,Default,,0,0,0,,Good.
+Dialogue: 0,0:59:40.91,0:59:41.97,Default,,0,0,0,,What?
+Dialogue: 0,1:00:00.53,1:00:02.43,Default,,0,0,0,,Wrong room, Miss.
+Dialogue: 0,1:00:02.43,1:00:03.89,Default,,0,0,0,,Secretary Swanwick,
+Dialogue: 0,1:00:03.90,1:00:05.54,Default,,0,0,0,,you haven't been\Nreturning my phone calls.
+Dialogue: 0,1:00:07.30,1:00:09.43,Default,,0,0,0,,Miss Lane, if you'd\Nlike an interview,
+Dialogue: 0,1:00:09.44,1:00:12.07,Default,,0,0,0,,Major Farris is just\Noutside that door.
+Dialogue: 0,1:00:12.07,1:00:13.97,Default,,0,0,0,,You're treating\Nme like a stranger?
+Dialogue: 0,1:00:15.54,1:00:17.44,Default,,0,0,0,,I'm treating you\Nlike a reporter.
+Dialogue: 0,1:00:17.44,1:00:21.21,Default,,0,0,0,,All right. Is the us providing\Nexperimental military arms
+Dialogue: 0,1:00:21.21,1:00:23.05,Default,,0,0,0,,to rebels in Africa?
+Dialogue: 0,1:00:23.05,1:00:25.62,Default,,0,0,0,,You know, with balls like yours,
+Dialogue: 0,1:00:25.62,1:00:27.55,Default,,0,0,0,,you belong in here.
+Dialogue: 0,1:00:27.55,1:00:30.75,Default,,0,0,0,,What's your source\Non this? A tin foil hat?
+Dialogue: 0,1:00:30.76,1:00:32.79,Default,,0,0,0,,No, not tin. But it's metal.
+Dialogue: 0,1:00:32.79,1:00:34.63,Default,,0,0,0,,Fired in the Superman incident.
+Dialogue: 0,1:00:34.63,1:00:37.06,Default,,0,0,0,,Experts at the\NPentagon can't ID it.
+Dialogue: 0,1:00:37.06,1:00:38.30,Default,,0,0,0,,We haven't been told the truth.
+Dialogue: 0,1:00:38.30,1:00:39.60,Default,,0,0,0,,Here's the truth.
+Dialogue: 0,1:00:39.60,1:00:41.06,Default,,0,0,0,,A reporter got\Ngreedy for a scoop
+Dialogue: 0,1:00:41.07,1:00:42.47,Default,,0,0,0,,and went where\Nshe shouldn't have.
+Dialogue: 0,1:00:42.47,1:00:44.64,Default,,0,0,0,,Superman acted like\Nsome rogue combatant
+Dialogue: 0,1:00:44.64,1:00:47.30,Default,,0,0,0,,to rescue her, and people died.
+Dialogue: 0,1:00:47.31,1:00:50.04,Default,,0,0,0,,Don't invent a conspiracy\Ntheory to put back his Halo.
+Dialogue: 0,1:00:51.31,1:00:52.48,Default,,0,0,0,,Or yours.
+Dialogue: 0,1:00:53.65,1:00:54.98,Default,,0,0,0,,- Major.\N{\i1}- Sir.{\i0}
+Dialogue: 0,1:00:56.18,1:00:57.61,Default,,0,0,0,,{\i1}So.{\i0}
+Dialogue: 0,1:00:57.62,1:01:00.15,Default,,0,0,0,,I logged into your\Ndropbox to find copy.
+Dialogue: 0,1:01:00.15,1:01:02.52,Default,,0,0,0,,There's copy all right.
+Dialogue: 0,1:01:02.52,1:01:06.46,Default,,0,0,0,,But nothing about\Nfootball. Nothing about, uh,
+Dialogue: 0,1:01:06.46,1:01:09.76,Default,,0,0,0,,the friends of the\NMetropolis library,
+Dialogue: 0,1:01:09.76,1:01:12.66,Default,,0,0,0,,just the goddamn\NGotham Bat thing
+Dialogue: 0,1:01:12.67,1:01:14.70,Default,,0,0,0,,I told you not to pursue.
+Dialogue: 0,1:01:14.70,1:01:16.70,Default,,0,0,0,,If the police won't help, the\Npress has to do the right thing.
+Dialogue: 0,1:01:16.70,1:01:18.60,Default,,0,0,0,,You don't get to decide\Nwhat the right thing is.
+Dialogue: 0,1:01:18.60,1:01:21.00,Default,,0,0,0,,When the {\i1}Planet{\i0} was founded,\Nit stood for something, Perry.
+Dialogue: 0,1:01:21.01,1:01:24.84,Default,,0,0,0,,And so could you if it\Nwas 1938, but it's not 1938.
+Dialogue: 0,1:01:24.84,1:01:28.11,Default,,0,0,0,,WPA ain't hiring no more.\NApples don't cost a nickel.
+Dialogue: 0,1:01:28.11,1:01:31.11,Default,,0,0,0,,Not in here, not out\Nthere. You drop this thing!
+Dialogue: 0,1:01:33.69,1:01:36.42,Default,,0,0,0,,Nobody cares about Clark\NKent taking on the Batman.
+Dialogue: 0,1:01:38.66,1:01:40.46,Default,,0,0,0,,{\i1}So apparently Superman{\i0}
+Dialogue: 0,1:01:40.46,1:01:42.83,Default,,0,0,0,,{\i1}doesn't want us to think of\Nhim as American anymore.{\i0}
+Dialogue: 0,1:01:42.83,1:01:44.23,Default,,0,0,0,,{\i1}And really, why would we?{\i0}
+Dialogue: 0,1:01:44.23,1:01:46.16,Default,,0,0,0,,{\i1}Aside from the red\Nand blue costume.{\i0}
+Dialogue: 0,1:01:46.17,1:01:47.96,Default,,0,0,0,,{\i1}And, I don't know,\Nthe fact that he has{\i0}
+Dialogue: 0,1:01:47.97,1:01:50.47,Default,,0,0,0,,{\i1}one-third of the USA's\Ninitials on his chest.{\i0}
+Dialogue: 0,1:01:50.47,1:01:52.07,Default,,0,0,0,,{\i1}I assume the only\Nreason he's not wearing{\i0}
+Dialogue: 0,1:01:52.07,1:01:55.04,Default,,0,0,0,,{\i1}the declaration of\Nindependence as a cape is...{\i0}
+Dialogue: 0,1:01:55.04,1:01:56.67,Default,,0,0,0,,{\i1}He thinks it's too on-the-nose.{\i0}
+Dialogue: 0,1:01:56.68,1:01:58.64,Default,,0,0,0,,{\i1}What is going on back here?{\i0} No.
+Dialogue: 0,1:01:58.64,1:02:00.18,Default,,0,0,0,,Guys, come on. Let's go.
+Dialogue: 0,1:02:00.18,1:02:01.65,Default,,0,0,0,,{\i1}Get yourselves together\Nand get out there.{\i0}
+Dialogue: 0,1:02:01.65,1:02:03.05,Default,,0,0,0,,{\i1}Get those glasses\Non those trays.{\i0}
+Dialogue: 0,1:02:03.05,1:02:04.37,Default,,0,0,0,,{\i1}We got thirsty people out there.{\i0}
+Dialogue: 0,1:02:13.09,1:02:14.89,Default,,0,0,0,,I wonder, would you excuse us?
+Dialogue: 0,1:02:14.89,1:02:17.73,Default,,0,0,0,,There's something I'd\Nlike to show you. I'm sorry.
+Dialogue: 0,1:02:17.73,1:02:21.03,Default,,0,0,0,,Now some scholars insist\Nthat it never happened...
+Dialogue: 0,1:02:21.03,1:02:23.03,Default,,0,0,0,,But I believe it's the action
+Dialogue: 0,1:02:23.04,1:02:27.90,Default,,0,0,0,,perfectly in keeping with a king\Nwho was also a psychopathic killer.
+Dialogue: 0,1:02:27.91,1:02:31.68,Default,,0,0,0,,For me, it's the culmination\Nof 40 years curating.
+Dialogue: 0,1:02:31.68,1:02:34.68,Default,,0,0,0,,And I can't believe it,\Nbut I've finally got it here.
+Dialogue: 0,1:02:35.95,1:02:38.01,Default,,0,0,0,,It's the sword of Alexander.
+Dialogue: 0,1:02:39.42,1:02:42.32,Default,,0,0,0,,It's the blade that\Ncut the Gordian Knot.
+Dialogue: 0,1:02:44.86,1:02:46.22,Default,,0,0,0,,It's a Triumph.
+Dialogue: 0,1:02:46.23,1:02:47.69,Default,,0,0,0,,Yes.
+Dialogue: 0,1:02:47.69,1:02:49.09,Default,,0,0,0,,{\i1}- Enjoy.\N- Thank you.{\i0}
+Dialogue: 0,1:02:56.77,1:02:58.47,Default,,0,0,0,,It's a fake.
+Dialogue: 0,1:02:58.47,1:03:01.27,Default,,0,0,0,,The real one was sold\Nin '98 on the black market.
+Dialogue: 0,1:03:01.27,1:03:02.44,Default,,0,0,0,,And now it hangs...
+Dialogue: 0,1:03:02.44,1:03:04.78,Default,,0,0,0,,Over the bed of\Nthe Sultan of Hajar.
+Dialogue: 0,1:03:08.05,1:03:09.68,Default,,0,0,0,,Excuse me.
+Dialogue: 0,1:03:10.62,1:03:12.72,Default,,0,0,0,,Excuse me, Miss.
+Dialogue: 0,1:03:12.72,1:03:15.95,Default,,0,0,0,,The other night you took\Nsomething that doesn't belong to you.
+Dialogue: 0,1:03:15.95,1:03:18.12,Default,,0,0,0,,Stealing's not polite.
+Dialogue: 0,1:03:18.12,1:03:20.79,Default,,0,0,0,,Is it stealing if you\Nsteal from another thief?
+Dialogue: 0,1:03:22.63,1:03:24.26,Default,,0,0,0,,Who are you?
+Dialogue: 0,1:03:24.26,1:03:26.83,Default,,0,0,0,,Someone interested in\Nthe same man you are.
+Dialogue: 0,1:03:27.83,1:03:29.77,Default,,0,0,0,,Is that right?
+Dialogue: 0,1:03:29.77,1:03:32.84,Default,,0,0,0,,I believe Mr. Luthor has a\Nphotograph that belongs to me.
+Dialogue: 0,1:03:32.84,1:03:34.34,Default,,0,0,0,,Did you get it?
+Dialogue: 0,1:03:34.34,1:03:36.84,Default,,0,0,0,,As it happens, no, I didn't.
+Dialogue: 0,1:03:36.84,1:03:39.98,Default,,0,0,0,,The data you copied has\Nmilitary-grade encryption.
+Dialogue: 0,1:03:41.28,1:03:43.51,Default,,0,0,0,,You know, I bet with that dress,
+Dialogue: 0,1:03:43.52,1:03:46.45,Default,,0,0,0,,9 out of 10 men will let\Nyou get away with anything.
+Dialogue: 0,1:03:46.45,1:03:47.95,Default,,0,0,0,,But you're the 10th?
+Dialogue: 0,1:03:47.95,1:03:50.35,Default,,0,0,0,,I'm guessing I'm the first
+Dialogue: 0,1:03:50.36,1:03:52.72,Default,,0,0,0,,to see through that\Nbabe-in-the-woods act.
+Dialogue: 0,1:03:53.79,1:03:55.46,Default,,0,0,0,,You don't know me,
+Dialogue: 0,1:03:55.46,1:03:57.09,Default,,0,0,0,,but I've known a\Nfew women like you.
+Dialogue: 0,1:04:00.60,1:04:03.53,Default,,0,0,0,,Oh, I don't think you've\Never known a woman like me.
+Dialogue: 0,1:04:05.20,1:04:08.31,Default,,0,0,0,,You know, it's true what\Nthey say about little boys.
+Dialogue: 0,1:04:08.31,1:04:11.07,Default,,0,0,0,,Born with no natural\Ninclination to share.
+Dialogue: 0,1:04:12.28,1:04:14.51,Default,,0,0,0,,I didn't steal your drive.
+Dialogue: 0,1:04:14.51,1:04:16.78,Default,,0,0,0,,I borrowed it.
+Dialogue: 0,1:04:16.78,1:04:19.75,Default,,0,0,0,,You'll find it in the glove\Ncompartment of your car.
+Dialogue: 0,1:04:20.99,1:04:22.09,Default,,0,0,0,,Mr. Wayne.
+Dialogue: 0,1:06:15.33,1:06:16.47,Default,,0,0,0,,Did you get it?
+Dialogue: 0,1:06:16.47,1:06:17.80,Default,,0,0,0,,The rock?
+Dialogue: 0,1:06:17.80,1:06:19.14,Default,,0,0,0,,Yeah, we got it.
+Dialogue: 0,1:06:44.93,1:06:46.03,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,1:06:47.70,1:06:50.70,Default,,0,0,0,,Get down! Get down now!
+Dialogue: 0,1:07:06.52,1:07:07.62,Default,,0,0,0,,No!
+Dialogue: 0,1:09:01.80,1:09:03.50,Default,,0,0,0,,She was my world.
+Dialogue: 0,1:09:05.14,1:09:07.04,Default,,0,0,0,,And you took her from me.
+Dialogue: 0,1:09:17.48,1:09:19.52,Default,,0,0,0,,{\i1}Bruce!{\i0}
+Dialogue: 0,1:09:19.52,1:09:22.59,Default,,0,0,0,,Bruce! Listen to me now!
+Dialogue: 0,1:09:25.86,1:09:27.99,Default,,0,0,0,,It's Lois!
+Dialogue: 0,1:09:27.99,1:09:29.93,Default,,0,0,0,,It's Lois Lane!
+Dialogue: 0,1:09:30.63,1:09:32.20,Default,,0,0,0,,{\i1}She's the key!{\i0}
+Dialogue: 0,1:09:34.00,1:09:36.60,Default,,0,0,0,,Am I too soon?
+Dialogue: 0,1:09:38.00,1:09:40.50,Default,,0,0,0,,I'm too soon!
+Dialogue: 0,1:09:40.51,1:09:42.84,Default,,0,0,0,,{\i1}You're right about him!{\i0}
+Dialogue: 0,1:09:42.84,1:09:45.68,Default,,0,0,0,,{\i1}You've always\Nbeen right about him!{\i0}
+Dialogue: 0,1:09:45.68,1:09:48.04,Default,,0,0,0,,Fear him! Fear him!
+Dialogue: 0,1:09:48.85,1:09:49.95,Default,,0,0,0,,Find us, Bruce!
+Dialogue: 0,1:09:51.02,1:09:52.62,Default,,0,0,0,,{\i1}You have to find us!{\i0}
+Dialogue: 0,1:10:56.91,1:10:59.02,Default,,0,0,0,,{\i1}The{\i0} white Portuguese\N{\i1}is not a man.{\i0}
+Dialogue: 0,1:10:59.02,1:11:00.12,Default,,0,0,0,,{\i1}It's a ship.{\i0}
+Dialogue: 0,1:11:02.79,1:11:06.02,Default,,0,0,0,,Master Wayne,\Nsince the age of seven
+Dialogue: 0,1:11:06.02,1:11:08.09,Default,,0,0,0,,you have been to\Nthe art of deception
+Dialogue: 0,1:11:08.09,1:11:10.69,Default,,0,0,0,,as Mozart to the harpsichord.
+Dialogue: 0,1:11:10.70,1:11:14.46,Default,,0,0,0,,But you've never been\Ntoo hot at lying to me.
+Dialogue: 0,1:11:16.40,1:11:19.37,Default,,0,0,0,,The {\i1}white Portuguese{\i0} is\Nnot carrying a dirty bomb.
+Dialogue: 0,1:11:19.37,1:11:21.00,Default,,0,0,0,,{\i1}What is it carrying?{\i0}
+Dialogue: 0,1:11:22.24,1:11:23.54,Default,,0,0,0,,It's a weapon.
+Dialogue: 0,1:11:24.38,1:11:26.11,Default,,0,0,0,,It's a rock.
+Dialogue: 0,1:11:26.11,1:11:29.71,Default,,0,0,0,,A mineral capable of\Nweakening Kryptonian cells.
+Dialogue: 0,1:11:29.71,1:11:31.45,Default,,0,0,0,,{\i1}The first sample big\Nenough to mean something{\i0}
+Dialogue: 0,1:11:31.45,1:11:33.48,Default,,0,0,0,,turned up in the Indian\Nocean three months ago.
+Dialogue: 0,1:11:33.49,1:11:35.45,Default,,0,0,0,,It is now aboard\Nthe {\i1}white Portuguese{\i0}
+Dialogue: 0,1:11:35.45,1:11:37.95,Default,,0,0,0,,being delivered to Lex Luthor.
+Dialogue: 0,1:11:37.96,1:11:39.99,Default,,0,0,0,,Who I am going to steal it from.
+Dialogue: 0,1:11:39.99,1:11:41.92,Default,,0,0,0,,To keep it out of\NLuthor's hands.
+Dialogue: 0,1:11:41.93,1:11:43.19,Default,,0,0,0,,To destroy it.
+Dialogue: 0,1:11:44.63,1:11:45.70,Default,,0,0,0,,No.
+Dialogue: 0,1:11:48.47,1:11:50.90,Default,,0,0,0,,You're gonna go to war?
+Dialogue: 0,1:11:50.90,1:11:56.91,Default,,0,0,0,,That son of a bitch brought\Nthe war to us two years ago.
+Dialogue: 0,1:11:56.91,1:12:00.51,Default,,0,0,0,,Jesus, Alfred. Count the\Ndead. Thousands of people.
+Dialogue: 0,1:12:01.78,1:12:04.61,Default,,0,0,0,,What's next? Millions?
+Dialogue: 0,1:12:04.62,1:12:07.28,Default,,0,0,0,,He has the power to wipe\Nout the entire human race,
+Dialogue: 0,1:12:07.29,1:12:09.85,Default,,0,0,0,,and if we believe there's even a\N1% chance that he is our enemy,
+Dialogue: 0,1:12:09.85,1:12:13.02,Default,,0,0,0,,we have to take it as\Nan absolute certainty.
+Dialogue: 0,1:12:13.02,1:12:14.42,Default,,0,0,0,,And we have to destroy him.
+Dialogue: 0,1:12:14.43,1:12:17.09,Default,,0,0,0,,But he is not our enemy.
+Dialogue: 0,1:12:17.93,1:12:19.96,Default,,0,0,0,,Not today.
+Dialogue: 0,1:12:19.96,1:12:22.67,Default,,0,0,0,,20 years in Gotham, Alfred.
+Dialogue: 0,1:12:22.67,1:12:24.60,Default,,0,0,0,,We've seen what\Npromises are worth.
+Dialogue: 0,1:12:25.80,1:12:27.44,Default,,0,0,0,,How many good guys are left.
+Dialogue: 0,1:12:28.84,1:12:30.51,Default,,0,0,0,,How many stayed that way.
+Dialogue: 0,1:12:33.44,1:12:34.94,Default,,0,0,0,,14 hours.
+Dialogue: 0,1:12:37.51,1:12:40.05,Default,,0,0,0,,My name is Clark Kent.\NI'm from the {\i1}Daily Planet.{\i0}
+Dialogue: 0,1:12:43.69,1:12:48.02,Default,,0,0,0,,I'm trying to find out what\Nhappened to an inmate, a Santos.
+Dialogue: 0,1:12:48.03,1:12:49.59,Default,,0,0,0,,I can't give out\Nthat information.
+Dialogue: 0,1:13:07.21,1:13:08.54,Default,,0,0,0,,Mommy!
+Dialogue: 0,1:13:12.48,1:13:14.88,Default,,0,0,0,,Mrs. Santos?
+Dialogue: 0,1:13:14.89,1:13:17.35,Default,,0,0,0,,{\i1}May I ask you a few questions?{\i0}
+Dialogue: 0,1:13:17.36,1:13:19.16,Default,,0,0,0,,He wasn't my husband.
+Dialogue: 0,1:13:19.16,1:13:20.56,Default,,0,0,0,,But I know what he did.
+Dialogue: 0,1:13:21.69,1:13:23.86,Default,,0,0,0,,But he was a father.
+Dialogue: 0,1:13:23.86,1:13:25.83,Default,,0,0,0,,He was that, too.
+Dialogue: 0,1:13:25.83,1:13:27.43,Default,,0,0,0,,They took him out\Nof Gotham Central.
+Dialogue: 0,1:13:27.43,1:13:29.67,Default,,0,0,0,,They moved him to Metropolis.
+Dialogue: 0,1:13:29.67,1:13:31.57,Default,,0,0,0,,But inside they know.
+Dialogue: 0,1:13:31.57,1:13:34.07,Default,,0,0,0,,They know the mark all\Nover. Guards don't care.
+Dialogue: 0,1:13:34.07,1:13:35.47,Default,,0,0,0,,Bat's the judge.
+Dialogue: 0,1:13:36.54,1:13:38.24,Default,,0,0,0,,One man decides who lives.
+Dialogue: 0,1:13:38.24,1:13:40.74,Default,,0,0,0,,How is that justice? Talk to me.
+Dialogue: 0,1:13:40.75,1:13:43.78,Default,,0,0,0,,Help me change it.\NWith what? Your pen?
+Dialogue: 0,1:13:43.78,1:13:46.72,Default,,0,0,0,,A man like that,\Nwords don't stop him.
+Dialogue: 0,1:13:46.72,1:13:48.18,Default,,0,0,0,,You know stops him?
+Dialogue: 0,1:13:48.85,1:13:50.12,Default,,0,0,0,,A fist.
+Dialogue: 0,1:13:54.09,1:13:55.36,Default,,0,0,0,,{\i1}Kent, I want to talk to you.{\i0}
+Dialogue: 0,1:13:57.90,1:13:59.43,Default,,0,0,0,,Kent!
+Dialogue: 0,1:13:59.43,1:14:01.60,Default,,0,0,0,,Where does he go?\NWhere does he go, Jenny?
+Dialogue: 0,1:14:01.60,1:14:03.60,Default,,0,0,0,,I don't... I don't know.
+Dialogue: 0,1:14:03.60,1:14:04.80,Default,,0,0,0,,Clicks his heels three times,
+Dialogue: 0,1:14:04.80,1:14:06.50,Default,,0,0,0,,goes back to Kansas, I suppose.
+Dialogue: 0,1:14:08.41,1:14:09.57,Default,,0,0,0,,Son of a...
+Dialogue: 0,1:14:21.59,1:14:22.82,Default,,0,0,0,,{\i1}Turn it!{\i0}
+Dialogue: 0,1:14:22.82,1:14:24.35,Default,,0,0,0,,{\i1}Turn it!{\i0}
+Dialogue: 0,1:15:07.80,1:15:09.23,Default,,0,0,0,,Move out!
+Dialogue: 0,1:15:45.07,1:15:46.30,Default,,0,0,0,,Go, go, go, go!
+Dialogue: 0,1:16:25.34,1:16:26.41,Default,,0,0,0,,No!
+Dialogue: 0,1:17:51.46,1:17:52.86,Default,,0,0,0,,Where is he?
+Dialogue: 0,1:19:12.74,1:19:15.44,Default,,0,0,0,,Next time they shine\Nyour light in the sky,
+Dialogue: 0,1:19:15.45,1:19:17.28,Default,,0,0,0,,don't go to it.
+Dialogue: 0,1:19:17.28,1:19:19.68,Default,,0,0,0,,The Bat is dead. Bury it.
+Dialogue: 0,1:19:21.28,1:19:22.59,Default,,0,0,0,,Consider this mercy.
+Dialogue: 0,1:19:24.79,1:19:26.19,Default,,0,0,0,,{\i1}Tell me.{\i0}
+Dialogue: 0,1:19:30.59,1:19:32.13,Default,,0,0,0,,{\i1}Do you bleed?{\i0}
+Dialogue: 0,1:19:40.77,1:19:42.10,Default,,0,0,0,,{\i1}You will.{\i0}
+Dialogue: 0,1:21:24.37,1:21:27.21,Default,,0,0,0,,I don't have a halo\Nover me, Mr. Secretary.
+Dialogue: 0,1:21:27.21,1:21:29.25,Default,,0,0,0,,I went into the\Ndesert, people died.
+Dialogue: 0,1:21:29.25,1:21:31.38,Default,,0,0,0,,It keeps me awake. It should.
+Dialogue: 0,1:21:37.19,1:21:38.89,Default,,0,0,0,,If you think that\NSuperman is a murderer,
+Dialogue: 0,1:21:38.89,1:21:40.89,Default,,0,0,0,,then throw it away.
+Dialogue: 0,1:21:40.89,1:21:42.79,Default,,0,0,0,,But I don't believe\Nyou think that.
+Dialogue: 0,1:21:45.86,1:21:48.90,Default,,0,0,0,,{\i1}How do we determine what's good?{\i0}
+Dialogue: 0,1:21:48.90,1:21:51.73,Default,,0,0,0,,In a democracy,\Ngood is a conversation,
+Dialogue: 0,1:21:51.74,1:21:54.60,Default,,0,0,0,,{\i1}not a unilateral decision.{\i0}
+Dialogue: 0,1:21:54.61,1:21:57.27,Default,,0,0,0,,So I urge Superman to come
+Dialogue: 0,1:21:57.28,1:21:59.07,Default,,0,0,0,,{\i1}to this hill of the\Npeople tomorrow{\i0}
+Dialogue: 0,1:21:59.08,1:22:01.78,Default,,0,0,0,,{\i1}to see those who have suffered.{\i0}
+Dialogue: 0,1:22:01.78,1:22:05.05,Default,,0,0,0,,{\i1}The world needs to know\Nwhat happened in that desert.{\i0}
+Dialogue: 0,1:22:05.05,1:22:07.55,Default,,0,0,0,,{\i1}And to know what he stands for.{\i0}
+Dialogue: 0,1:22:07.55,1:22:09.75,Default,,0,0,0,,{\i1}How far will he take his power?{\i0}
+Dialogue: 0,1:22:11.29,1:22:15.16,Default,,0,0,0,,{\i1}Does he act by our\Nwill or by his own?{\i0}
+Dialogue: 0,1:22:22.93,1:22:25.83,Default,,0,0,0,,{\i1}People hate what\Nthey don't understand.{\i0}
+Dialogue: 0,1:22:27.44,1:22:31.11,Default,,0,0,0,,But they see what you do,\Nand they know who you are.
+Dialogue: 0,1:22:32.61,1:22:35.95,Default,,0,0,0,,You're not a killer, a threat.
+Dialogue: 0,1:22:37.38,1:22:39.68,Default,,0,0,0,,I never wanted this\Nworld to have you.
+Dialogue: 0,1:22:43.12,1:22:46.49,Default,,0,0,0,,Be their hero, Clark.\NBe their monument.
+Dialogue: 0,1:22:46.49,1:22:48.49,Default,,0,0,0,,Be their angel.
+Dialogue: 0,1:22:48.49,1:22:50.36,Default,,0,0,0,,Be anything they need you to be.
+Dialogue: 0,1:22:51.09,1:22:52.80,Default,,0,0,0,,Or be none of it.
+Dialogue: 0,1:22:54.76,1:22:56.80,Default,,0,0,0,,You don't owe\Nthis world a thing.
+Dialogue: 0,1:22:57.97,1:22:59.64,Default,,0,0,0,,You never did.
+Dialogue: 0,1:23:02.07,1:23:05.34,Default,,0,0,0,,{\i1}This is Deniros. Transfer\Navailable to Kane Avenue.{\i0}
+Dialogue: 0,1:23:05.34,1:23:06.81,Default,,0,0,0,,{\i1}Please, mind your step.{\i0}
+Dialogue: 0,1:23:36.81,1:23:39.11,Default,,0,0,0,,{\i1}I have to speak to\Nthe Senator today.{\i0}
+Dialogue: 0,1:23:39.11,1:23:40.68,Default,,0,0,0,,{\i1}You cannot see\Nthe Senator today.{\i0}
+Dialogue: 0,1:23:40.68,1:23:42.18,Default,,0,0,0,,{\i1}I need to speak to\Nher before the hearing.{\i0}
+Dialogue: 0,1:23:42.18,1:23:44.11,Default,,0,0,0,,{\i1}Do you understand\Nhow important this is?{\i0}
+Dialogue: 0,1:23:44.12,1:23:45.65,Default,,0,0,0,,{\i1}I cannot let you\Nsee the Senator.{\i0}
+Dialogue: 0,1:23:45.65,1:23:47.45,Default,,0,0,0,,{\i1}Please, I need to speak to her.{\i0}
+Dialogue: 0,1:23:47.45,1:23:50.35,Default,,0,0,0,,{\i1}Please, Madam. I beg of\Nyou! Please don't do this!{\i0}
+Dialogue: 0,1:23:50.35,1:23:51.85,Default,,0,0,0,,{\i1}This is so important!{\i0}
+Dialogue: 0,1:23:51.86,1:23:54.39,Default,,0,0,0,,{\i1}Come with me. Don't touch me!{\i0}
+Dialogue: 0,1:23:54.39,1:23:56.59,Default,,0,0,0,,Please! I'm sorry.\NShe wouldn't leave.
+Dialogue: 0,1:23:58.36,1:24:01.16,Default,,0,0,0,,I didn't tell you the truth.
+Dialogue: 0,1:24:01.17,1:24:04.07,Default,,0,0,0,,C.I. Thinks the\Ndesert was a setup.
+Dialogue: 0,1:24:04.07,1:24:06.24,Default,,0,0,0,,Somebody wanted\NSuperman to look guilty.
+Dialogue: 0,1:24:07.04,1:24:09.04,Default,,0,0,0,,The bullet?
+Dialogue: 0,1:24:17.41,1:24:18.88,Default,,0,0,0,,The metal was developed\Nby a private company.
+Dialogue: 0,1:24:18.88,1:24:20.18,Default,,0,0,0,,What company?
+Dialogue: 0,1:24:20.18,1:24:21.78,Default,,0,0,0,,LexCorp.
+Dialogue: 0,1:24:22.89,1:24:24.72,Default,,0,0,0,,Lex Luthor?
+Dialogue: 0,1:24:24.72,1:24:27.24,Default,,0,0,0,,He also had private security\Ncontractors at the desert compound.
+Dialogue: 0,1:24:31.53,1:24:33.03,Default,,0,0,0,,Go on record.
+Dialogue: 0,1:24:33.03,1:24:36.73,Default,,0,0,0,,Not a chance. It's classified.
+Dialogue: 0,1:24:36.73,1:24:37.93,Default,,0,0,0,,I happen to like my job.
+Dialogue: 0,1:24:37.94,1:24:39.70,Default,,0,0,0,,It doesn't make sense.
+Dialogue: 0,1:24:39.70,1:24:41.77,Default,,0,0,0,,You said that the ambush was\Narranged to frame Superman,
+Dialogue: 0,1:24:41.77,1:24:44.11,Default,,0,0,0,,but how could they know\Nthat he'd show up in the...
+Dialogue: 0,1:24:50.71,1:24:52.95,Default,,0,0,0,,In the middle of the\Ndesert. Thank you.
+Dialogue: 0,1:24:56.25,1:24:59.86,Default,,0,0,0,,The Senate hearing is expected\Nto get underway any minute now.
+Dialogue: 0,1:24:59.86,1:25:02.09,Default,,0,0,0,,And of course the big\Nunknown in all of this is
+Dialogue: 0,1:25:02.09,1:25:03.59,Default,,0,0,0,,will Superman show up?
+Dialogue: 0,1:25:03.59,1:25:04.59,Default,,0,0,0,,That is what they're\Nreally waiting to see.
+Dialogue: 0,1:25:04.60,1:25:05.89,Default,,0,0,0,,Mr. Keefe. Mr. Keefe.
+Dialogue: 0,1:25:05.90,1:25:07.43,Default,,0,0,0,,Soledad o'Brien, {\i1}in the Moment.{\i0}
+Dialogue: 0,1:25:07.43,1:25:08.93,Default,,0,0,0,,Quick question for you.
+Dialogue: 0,1:25:08.93,1:25:10.30,Default,,0,0,0,,You're heading in to\Nmeet with the Senators.
+Dialogue: 0,1:25:10.30,1:25:12.10,Default,,0,0,0,,What will you tell them?
+Dialogue: 0,1:25:12.10,1:25:15.04,Default,,0,0,0,,{\i1}I've come here to\Ntell them to wake up.{\i0}
+Dialogue: 0,1:25:15.04,1:25:17.21,Default,,0,0,0,,{\i1}This is flesh and blood.{\i0}
+Dialogue: 0,1:25:17.21,1:25:18.64,Default,,0,0,0,,{\i1}He has delivered a war here.{\i0}
+Dialogue: 0,1:25:18.64,1:25:20.88,Default,,0,0,0,,{\i1}And this...{\i0}
+Dialogue: 0,1:25:20.88,1:25:22.24,Default,,0,0,0,,{\i1}This is what war looks like.{\i0}
+Dialogue: 0,1:25:22.25,1:25:24.41,Default,,0,0,0,,{\i1}I have nothing.{\i0}
+Dialogue: 0,1:25:24.42,1:25:26.78,Default,,0,0,0,,{\i1}There are plenty of people, sir,\Nwho would say he's their hero.{\i0}
+Dialogue: 0,1:25:26.78,1:25:28.45,Default,,0,0,0,,{\i1}He is not a hero.{\i0}
+Dialogue: 0,1:25:28.45,1:25:31.45,Default,,0,0,0,,Grace, can you get\NGreg up here, please?
+Dialogue: 0,1:25:31.46,1:25:33.66,Default,,0,0,0,,Right now.
+Dialogue: 0,1:25:33.66,1:25:35.72,Default,,0,0,0,,An anonymous source\Ncan verify everything
+Dialogue: 0,1:25:35.73,1:25:37.46,Default,,0,0,0,,I told you about what\Nhappened in Nairomi.
+Dialogue: 0,1:25:37.46,1:25:40.10,Default,,0,0,0,,An anonymous source? {\i1}Run it.{\i0}
+Dialogue: 0,1:25:40.10,1:25:42.23,Default,,0,0,0,,Luthor engineered the desert.
+Dialogue: 0,1:25:42.23,1:25:44.40,Default,,0,0,0,,It was an ambush for Superman.
+Dialogue: 0,1:25:44.40,1:25:45.97,Default,,0,0,0,,Trust your reporter.\NThink Watergate.
+Dialogue: 0,1:25:45.97,1:25:48.10,Default,,0,0,0,,{\i1}Yeah, and you\Nneed to think litigate.{\i0}
+Dialogue: 0,1:25:48.11,1:25:50.64,Default,,0,0,0,,{\i1}If you're wrong, Luthor will\Nsue the paper out of existence.{\i0}
+Dialogue: 0,1:25:50.64,1:25:51.81,Default,,0,0,0,,{\i1}You need proof.{\i0}
+Dialogue: 0,1:25:51.81,1:25:53.34,Default,,0,0,0,,No. It needs to run now.
+Dialogue: 0,1:25:53.34,1:25:55.01,Default,,0,0,0,,{\i1}Before the hearing.{\i0}
+Dialogue: 0,1:25:55.01,1:25:56.51,Default,,0,0,0,,{\i1}If Superman knows, it\Nmight change what he says.{\i0}
+Dialogue: 0,1:25:56.51,1:25:58.78,Default,,0,0,0,,I am not going to risk the paper
+Dialogue: 0,1:25:58.78,1:26:00.48,Default,,0,0,0,,so that you can\Npass notes in class
+Dialogue: 0,1:26:00.48,1:26:01.75,Default,,0,0,0,,to the man that rescued you.
+Dialogue: 0,1:26:01.75,1:26:03.32,Default,,0,0,0,,{\c&HC0C0C0&}McGraw{\c&HFFFFFF&}: {\i1}He paid her?{\i0}
+Dialogue: 0,1:26:03.32,1:26:06.12,Default,,0,0,0,,Not only paid her.\NHe threatened her.
+Dialogue: 0,1:26:06.12,1:26:08.52,Default,,0,0,0,,Gave her a script to learn.
+Dialogue: 0,1:26:08.53,1:26:11.29,Default,,0,0,0,,Her parents are alive back home.
+Dialogue: 0,1:26:11.30,1:26:13.30,Default,,0,0,0,,But the girl's got a conscience.
+Dialogue: 0,1:26:13.30,1:26:16.17,Default,,0,0,0,,He's been using the committee\Nas his puppet theater. Senator!
+Dialogue: 0,1:26:16.93,1:26:18.33,Default,,0,0,0,,Hi, you.
+Dialogue: 0,1:26:18.34,1:26:19.70,Default,,0,0,0,,Don't go anywhere.\NI want to talk to you.
+Dialogue: 0,1:26:19.70,1:26:21.70,Default,,0,0,0,,Uh, you know what?\NMercy, you go in
+Dialogue: 0,1:26:21.71,1:26:23.87,Default,,0,0,0,,and make sure no\None takes my seat.
+Dialogue: 0,1:26:23.87,1:26:25.14,Default,,0,0,0,,So what you been up to?
+Dialogue: 0,1:26:25.14,1:26:26.94,Default,,0,0,0,,I'm just here to tell my story.
+Dialogue: 0,1:26:26.94,1:26:28.48,Default,,0,0,0,,That I was willing to finance\Na Kryptonian deterrent,
+Dialogue: 0,1:26:28.48,1:26:30.15,Default,,0,0,0,,but a certain junior\NSenator from Kentucky
+Dialogue: 0,1:26:30.15,1:26:32.21,Default,,0,0,0,,decided to block it.
+Dialogue: 0,1:26:32.22,1:26:35.85,Default,,0,0,0,,Yes, the chair of the committee\Non Superman is soft on security.
+Dialogue: 0,1:26:35.85,1:26:38.52,Default,,0,0,0,,Greg, why hasn't he been getting\Nour checks? He is, Mr. Wayne.
+Dialogue: 0,1:26:38.52,1:26:41.19,Default,,0,0,0,,He gets a check from the\Nvictims fund every month.
+Dialogue: 0,1:26:41.19,1:26:43.69,Default,,0,0,0,,He returns them.
+Dialogue: 0,1:26:43.69,1:26:45.23,Default,,0,0,0,,{\i1}...who lost both his legs{\i0}
+Dialogue: 0,1:26:45.23,1:26:47.70,Default,,0,0,0,,{\i1}in those horrific\Nevents in Metropolis{\i0}
+Dialogue: 0,1:26:47.70,1:26:49.40,Default,,0,0,0,,{\i1}that happened two years ago.{\i0}
+Dialogue: 0,1:26:49.40,1:26:50.60,Default,,0,0,0,,Jesus.
+Dialogue: 0,1:26:52.67,1:26:54.34,Default,,0,0,0,,Why haven't I seen this?
+Dialogue: 0,1:26:54.34,1:26:56.37,Default,,0,0,0,,{\i1}I'm sorry. I'll get\Nto the bottom of it.{\i0}
+Dialogue: 0,1:26:56.37,1:26:59.07,Default,,0,0,0,,{\i1}And there he is.\NSuperman is here.{\i0}
+Dialogue: 0,1:26:59.08,1:27:01.34,Default,,0,0,0,,{\i1}He is actually at the\NUnited States Capitol.{\i0}
+Dialogue: 0,1:27:01.35,1:27:03.48,Default,,0,0,0,,{\i1}This is really a\Nhistoric moment.{\i0}
+Dialogue: 0,1:27:03.48,1:27:05.81,Default,,0,0,0,,{\i1}Now we expect that\NSuperman will give{\i0}
+Dialogue: 0,1:27:05.82,1:27:07.88,Default,,0,0,0,,{\i1}some kind of a\Nstatement to the Senate, {\i0}
+Dialogue: 0,1:27:07.89,1:27:10.62,Default,,0,0,0,,{\i1}to the American people,\Nand, of course, to the world.{\i0}
+Dialogue: 0,1:27:11.39,1:27:12.89,Default,,0,0,0,,He's here. He came.
+Dialogue: 0,1:27:12.89,1:27:15.39,Default,,0,0,0,,He's above the Capitol. Ah.
+Dialogue: 0,1:27:15.39,1:27:18.06,Default,,0,0,0,,You are gonna be on the\Nhot seat in there, Junebug.
+Dialogue: 0,1:27:18.06,1:27:19.73,Default,,0,0,0,,I grew up on a farm.
+Dialogue: 0,1:27:19.73,1:27:22.20,Default,,0,0,0,,I know how to wrestle a pig.
+Dialogue: 0,1:27:22.20,1:27:24.40,Default,,0,0,0,,Do you know the oldest\Nlie in America, Senator?
+Dialogue: 0,1:27:25.44,1:27:27.30,Default,,0,0,0,,It's that power can be innocent.
+Dialogue: 0,1:27:29.41,1:27:30.64,Default,,0,0,0,,Good luck.
+Dialogue: 0,1:28:06.54,1:28:08.71,Default,,0,0,0,,Oh, Miss...
+Dialogue: 0,1:28:08.71,1:28:10.51,Default,,0,0,0,,Rudy, she's good to go.
+Dialogue: 0,1:28:18.96,1:28:20.06,Default,,0,0,0,,Get out!
+Dialogue: 0,1:28:23.33,1:28:26.16,Default,,0,0,0,,Get out! Get out!\NSuperman! Superman!
+Dialogue: 0,1:28:33.27,1:28:35.37,Default,,0,0,0,,Another one came this\Nmorning, Mr. Wayne.
+Dialogue: 0,1:29:14.54,1:29:17.48,Default,,0,0,0,,Let me say at the outset\Nthat I'm grateful to our witness
+Dialogue: 0,1:29:17.48,1:29:20.35,Default,,0,0,0,,for coming before us today.
+Dialogue: 0,1:29:20.35,1:29:23.12,Default,,0,0,0,,This is how a democracy works.
+Dialogue: 0,1:29:23.12,1:29:25.85,Default,,0,0,0,,We talk to each other.
+Dialogue: 0,1:29:25.86,1:29:31.36,Default,,0,0,0,,We act by the consent\Nof the governed, sir.
+Dialogue: 0,1:29:31.36,1:29:34.70,Default,,0,0,0,,{\i1}I have sat here before to\Nsay that shadow interventions{\i0}
+Dialogue: 0,1:29:34.70,1:29:37.70,Default,,0,0,0,,{\i1}will not be tolerated\Nby this committee.{\i0}
+Dialogue: 0,1:29:37.70,1:29:39.23,Default,,0,0,0,,{\i1}Neither will lies.{\i0}
+Dialogue: 0,1:29:40.87,1:29:44.31,Default,,0,0,0,,Because today\Nis a day for truth.
+Dialogue: 0,1:29:46.14,1:29:47.78,Default,,0,0,0,,Because only by speaking...
+Dialogue: 0,1:29:58.22,1:30:02.39,Default,,0,0,0,,Only by working\Ntogether can we...
+Dialogue: 0,1:30:08.50,1:30:09.77,Default,,0,0,0,,Can we...
+Dialogue: 0,1:30:19.68,1:30:23.01,Default,,0,0,0,,Can we create a free, and a...
+Dialogue: 0,1:30:52.08,1:30:53.34,Default,,0,0,0,,{\i1}Oh, my God!{\i0}
+Dialogue: 0,1:31:18.24,1:31:20.00,Default,,0,0,0,,{\i1}We're back at the\NNation's Capitol, {\i0}
+Dialogue: 0,1:31:20.00,1:31:21.70,Default,,0,0,0,,{\i1}where something is happening.{\i0}
+Dialogue: 0,1:31:39.69,1:31:40.92,Default,,0,0,0,,{\i1}Excuse me.{\i0}
+Dialogue: 0,1:31:41.82,1:31:44.16,Default,,0,0,0,,Excuse me, officer.
+Dialogue: 0,1:31:44.16,1:31:46.66,Default,,0,0,0,,Member of the press.\NCan you let me in, please?
+Dialogue: 0,1:31:54.60,1:31:56.20,Default,,0,0,0,,Breathe slowly and deeply.
+Dialogue: 0,1:31:56.21,1:31:57.91,Default,,0,0,0,,You're gonna be fine.
+Dialogue: 0,1:32:05.52,1:32:10.35,Default,,0,0,0,,Thank you. I'm gonna\Nneed a little room to work.
+Dialogue: 0,1:32:10.35,1:32:13.82,Default,,0,0,0,,{\i1}Ma'am, it appears you've\Nsuffered a head injury.{\i0}
+Dialogue: 0,1:32:13.82,1:32:16.79,Default,,0,0,0,,I'm gonna need you to\Nfollow my light with your eyes.
+Dialogue: 0,1:33:06.91,1:33:08.44,Default,,0,0,0,,{\i1}Master Wayne.{\i0}
+Dialogue: 0,1:33:11.51,1:33:14.42,Default,,0,0,0,,Mr. Wayne!
+Dialogue: 0,1:33:14.42,1:33:18.62,Default,,0,0,0,,{\i1}...in the Senate hearing room\Nwhere Superman was testifying.{\i0}
+Dialogue: 0,1:33:18.62,1:33:21.52,Default,,0,0,0,,{\i1}This is a catastrophic\Nsituation at our Nation's Capitol.{\i0}
+Dialogue: 0,1:33:21.53,1:33:23.19,Default,,0,0,0,,{\i1}We don't have exact numbers yet, {\i0}
+Dialogue: 0,1:33:23.19,1:33:25.26,Default,,0,0,0,,{\i1}but I can tell you that\Nmore than a dozen people{\i0}
+Dialogue: 0,1:33:25.26,1:33:26.93,Default,,0,0,0,,{\i1}have died in this explosion.{\i0}
+Dialogue: 0,1:33:26.93,1:33:28.36,Default,,0,0,0,,{\i1}First responders\Nare at the scene.{\i0}
+Dialogue: 0,1:33:28.37,1:33:30.77,Default,,0,0,0,,{\i1}They are still\Nbringing victims out.{\i0}
+Dialogue: 0,1:33:30.77,1:33:34.60,Default,,0,0,0,,{\i1}Now initially, Superman was\Nhelping bring victims out after the blast{\i0}
+Dialogue: 0,1:33:34.61,1:33:36.81,Default,,0,0,0,,{\i1}but he seems to\Nhave disappeared...{\i0}
+Dialogue: 0,1:33:36.81,1:33:38.64,Default,,0,0,0,,{\i1}...raising questions.{\i0}
+Dialogue: 0,1:33:38.64,1:33:41.38,Default,,0,0,0,,{\i1}Carrie Birmingham, reporting\Nlive from the Nation's Capital.{\i0}
+Dialogue: 0,1:33:41.38,1:33:44.21,Default,,0,0,0,,{\i1}Capitol police are now confirming\Nthat the blast was caused{\i0}
+Dialogue: 0,1:33:44.21,1:33:46.31,Default,,0,0,0,,{\i1}by an explosive device\Ninside the hearing room.{\i0}
+Dialogue: 0,1:34:11.81,1:34:14.01,Default,,0,0,0,,{\i1}Run that one more time for me.{\i0}
+Dialogue: 0,1:34:14.01,1:34:17.08,Default,,0,0,0,,Can you enhance\Nthat? There you go, sir.
+Dialogue: 0,1:34:55.95,1:34:58.22,Default,,0,0,0,,{\i1}Capitol police are\Nconfirming to CNN{\i0}
+Dialogue: 0,1:34:58.22,1:34:59.79,Default,,0,0,0,,{\i1}that the suspected bomber is.{\i0}
+Dialogue: 0,1:34:59.79,1:35:02.32,Default,,0,0,0,,{\i1}Wallace Vernon Keefe.\NNow these sources...{\i0}
+Dialogue: 0,1:35:02.33,1:35:04.36,Default,,0,0,0,,Clark, it's me again. Can you...
+Dialogue: 0,1:35:04.36,1:35:06.53,Default,,0,0,0,,{\i1}...could have gotten the\Nexplosive device into the hearing{\i0}
+Dialogue: 0,1:35:06.53,1:35:08.90,Default,,0,0,0,,{\i1}by concealing them\Ninside his wheelchair.{\i0}
+Dialogue: 0,1:35:08.90,1:35:10.83,Default,,0,0,0,,{\i1}As for Superman,\Nhe was in the room, {\i0}
+Dialogue: 0,1:35:10.83,1:35:12.33,Default,,0,0,0,,{\i1}but obviously\Nfailed to stop him.{\i0}
+Dialogue: 0,1:35:12.34,1:35:14.80,Default,,0,0,0,,I didn't see it, lo.
+Dialogue: 0,1:35:14.81,1:35:16.87,Default,,0,0,0,,I was standing right\Nthere and I didn't see it.
+Dialogue: 0,1:35:16.87,1:35:18.54,Default,,0,0,0,,Clark, there are\Npeople behind this.
+Dialogue: 0,1:35:18.54,1:35:20.78,Default,,0,0,0,,I'm afraid I didn't see it\Nbecause I wasn't looking.
+Dialogue: 0,1:35:24.21,1:35:26.35,Default,,0,0,0,,All this time,
+Dialogue: 0,1:35:26.35,1:35:28.92,Default,,0,0,0,,I've been living my life\Nthe way my father saw it.
+Dialogue: 0,1:35:30.05,1:35:31.72,Default,,0,0,0,,Righting wrongs for a ghost.
+Dialogue: 0,1:35:34.52,1:35:36.39,Default,,0,0,0,,Thinking I'm here to do good.
+Dialogue: 0,1:35:40.70,1:35:43.10,Default,,0,0,0,,Superman was never real.
+Dialogue: 0,1:35:43.10,1:35:45.80,Default,,0,0,0,,Just the dream of a\Nfarmer from Kansas.
+Dialogue: 0,1:35:47.40,1:35:50.91,Default,,0,0,0,,That farmer's dream\Nis all some people have.
+Dialogue: 0,1:35:50.91,1:35:52.67,Default,,0,0,0,,It's all that gives them hope.
+Dialogue: 0,1:36:04.05,1:36:05.95,Default,,0,0,0,,This means something.
+Dialogue: 0,1:36:07.26,1:36:10.19,Default,,0,0,0,,It did on my world.
+Dialogue: 0,1:36:10.19,1:36:12.16,Default,,0,0,0,,My world doesn't exist anymore.
+Dialogue: 0,1:37:31.27,1:37:33.11,Default,,0,0,0,,{\i1}Welcome.{\i0}
+Dialogue: 0,1:37:33.11,1:37:38.68,Default,,0,0,0,,{\i1}Analysis reveals ship\Noperating at 37% efficiency.{\i0}
+Dialogue: 0,1:37:38.68,1:37:40.68,Default,,0,0,0,,{\i1}Would you like to\Nassume command?{\i0}
+Dialogue: 0,1:37:41.35,1:37:43.35,Default,,0,0,0,,Yes, I would.
+Dialogue: 0,1:37:43.35,1:37:45.49,Default,,0,0,0,,Yes, I would.
+Dialogue: 0,1:37:45.49,1:37:48.72,Default,,0,0,0,,{\i1}Very well. Let's begin.{\i0}
+Dialogue: 0,1:37:48.73,1:37:53.70,Default,,0,0,0,,{\i1}The Kryptonian archive contains\Nknowledge from 100,000 different worlds.{\i0}
+Dialogue: 0,1:37:53.70,1:37:55.16,Default,,0,0,0,,Good.
+Dialogue: 0,1:37:55.17,1:37:56.36,Default,,0,0,0,,Teach me.
+Dialogue: 0,1:40:27.18,1:40:28.68,Default,,0,0,0,,{\i1}Alexander Luthor, {\i0}
+Dialogue: 0,1:40:28.69,1:40:31.39,Default,,0,0,0,,{\i1}your security override\Nhas been accepted.{\i0}
+Dialogue: 0,1:40:31.39,1:40:34.19,Default,,0,0,0,,{\i1}Genesis chamber ready\Nto analyze genetic sample.{\i0}
+Dialogue: 0,1:40:37.69,1:40:40.80,Default,,0,0,0,,{\i1}Acknowledging presence\Nof genetic material.{\i0}
+Dialogue: 0,1:40:40.80,1:40:42.03,Default,,0,0,0,,{\i1}Analyzing.{\i0}
+Dialogue: 0,1:40:44.87,1:40:48.74,Default,,0,0,0,,{\i1}I've identified the host\Nas General Zod of Kandor.{\i0}
+Dialogue: 0,1:41:04.55,1:41:07.22,Default,,0,0,0,,{\i1}Acknowledging presence\Nof foreign genetic material.{\i0}
+Dialogue: 0,1:41:07.22,1:41:09.42,Default,,0,0,0,,{\i1}Analyzing.{\i0}
+Dialogue: 0,1:41:09.43,1:41:11.79,Default,,0,0,0,,You flew too close to the sun.
+Dialogue: 0,1:41:14.06,1:41:15.96,Default,,0,0,0,,Now look at you.
+Dialogue: 0,1:41:17.23,1:41:20.67,Default,,0,0,0,,{\i1}Advising. Action forbidden.{\i0}
+Dialogue: 0,1:41:20.67,1:41:22.74,Default,,0,0,0,,{\i1}It has been decreed\Nby the council of Krypton{\i0}
+Dialogue: 0,1:41:22.74,1:41:26.24,Default,,0,0,0,,{\i1}that none will ever again\Ngive life to a deformity{\i0}
+Dialogue: 0,1:41:26.24,1:41:28.28,Default,,0,0,0,,{\i1}so hateful to sight and memory.{\i0}
+Dialogue: 0,1:41:28.28,1:41:31.11,Default,,0,0,0,,{\i1}The desecration without name.{\i0}
+Dialogue: 0,1:41:31.11,1:41:33.48,Default,,0,0,0,,And where is the\Ncouncil of Krypton?
+Dialogue: 0,1:41:34.42,1:41:35.62,Default,,0,0,0,,{\i1}Destroyed, sir.{\i0}
+Dialogue: 0,1:41:36.79,1:41:38.92,Default,,0,0,0,,Then proceed.
+Dialogue: 0,1:41:38.92,1:41:43.32,Default,,0,0,0,,{\i1}Very well. Preparing chrysalis\Nand commencing metamorphosis.{\i0}
+Dialogue: 0,1:41:45.86,1:41:47.60,Default,,0,0,0,,{\i1}"And so we are left to wonder{\i0}
+Dialogue: 0,1:41:47.60,1:41:51.07,Default,,0,0,0,,"if Superman was aware\Nof the threat and did nothing,
+Dialogue: 0,1:41:51.07,1:41:54.24,Default,,0,0,0,,"was he then complicit\Nin the capitol tragedy?"
+Dialogue: 0,1:41:54.24,1:41:55.87,Default,,0,0,0,,Still no Kent?
+Dialogue: 0,1:41:55.87,1:41:57.44,Default,,0,0,0,,{\i1}"His disappearance\Nraises questions."{\i0}
+Dialogue: 0,1:41:57.44,1:41:59.44,Default,,0,0,0,,No.
+Dialogue: 0,1:41:59.44,1:42:01.38,Default,,0,0,0,,{\i1}There are still so many\Nunanswered questions.{\i0}
+Dialogue: 0,1:42:01.38,1:42:03.28,Default,,0,0,0,,{\i1}Chief among them, whether\NSuperman was involved{\i0}
+Dialogue: 0,1:42:03.28,1:42:05.05,Default,,0,0,0,,{\i1}in the planning of this attack.{\i0}
+Dialogue: 0,1:42:05.05,1:42:07.32,Default,,0,0,0,,{\i1}I mean, here's an individual\Nwho has unlimited power, {\i0}
+Dialogue: 0,1:42:07.32,1:42:10.45,Default,,0,0,0,,{\i1}yet did nothing to stop the bomber\Njust a few feet away from him.{\i0}
+Dialogue: 0,1:42:10.45,1:42:13.12,Default,,0,0,0,,{\i1}It just doesn't add\Nup for investigators.{\i0}
+Dialogue: 0,1:42:13.12,1:42:14.62,Default,,0,0,0,,{\i1}Burn him, burn him, burn him.{\i0}
+Dialogue: 0,1:42:14.62,1:42:17.19,Default,,0,0,0,,{\i1}Burn him, burn him, burn him.{\i0}
+Dialogue: 0,1:42:39.52,1:42:42.55,Default,,0,0,0,,For twenty American,\Nhe didn't see you.
+Dialogue: 0,1:42:43.69,1:42:44.75,Default,,0,0,0,,Same for me.
+Dialogue: 0,1:42:55.96,1:42:59.17,Default,,0,0,0,,{\i1}Now one FBI official\Nfamiliar with this case{\i0}
+Dialogue: 0,1:42:59.17,1:43:01.34,Default,,0,0,0,,{\i1}told me they found quote, {\i0}
+Dialogue: 0,1:43:01.34,1:43:04.77,Default,,0,0,0,,{\i1}"a jackpot of bomb-making\Nmaterials inside Keefe's apartment."{\i0}
+Dialogue: 0,1:43:04.77,1:43:07.11,Default,,0,0,0,,{\i1}What they need\Nto determine now is{\i0}
+Dialogue: 0,1:43:07.11,1:43:09.84,Default,,0,0,0,,{\i1}whether he had any help in the\Nplanning and execution of the bombing.{\i0}
+Dialogue: 0,1:43:09.85,1:43:12.05,Default,,0,0,0,,{\i1}And they haven't\Nruled out the idea{\i0}
+Dialogue: 0,1:43:12.05,1:43:15.15,Default,,0,0,0,,{\i1}that Superman was\Na co-conspirator.{\i0}
+Dialogue: 0,1:43:15.15,1:43:17.68,Default,,0,0,0,,{\i1}Now, my sources are\Ntelling me they are getting{\i0}
+Dialogue: 0,1:43:17.69,1:43:19.85,Default,,0,0,0,,{\i1}a barrage of anonymous\Nand credible tips{\i0}
+Dialogue: 0,1:43:19.86,1:43:22.29,Default,,0,0,0,,{\i1}with all roads in\Nthis investigation{\i0}
+Dialogue: 0,1:43:22.29,1:43:24.73,Default,,0,0,0,,{\i1}leading to the\NKryptonian visitor.{\i0}
+Dialogue: 0,1:44:01.76,1:44:03.90,Default,,0,0,0,,All right, Lois. You gotta go.
+Dialogue: 0,1:44:20.58,1:44:22.48,Default,,0,0,0,,He didn't know he was gonna die.
+Dialogue: 0,1:44:24.25,1:44:25.75,Default,,0,0,0,,He just bought groceries.
+Dialogue: 0,1:44:25.76,1:44:27.96,Default,,0,0,0,,The wheelchair and\Nthe bullet from the desert
+Dialogue: 0,1:44:27.96,1:44:29.72,Default,,0,0,0,,were made from the same metal.
+Dialogue: 0,1:44:29.73,1:44:31.29,Default,,0,0,0,,I know. The desert. The hearing.
+Dialogue: 0,1:44:31.29,1:44:34.20,Default,,0,0,0,,Everywhere Superman\Ngoes, Luthor wants death.
+Dialogue: 0,1:44:34.20,1:44:36.46,Default,,0,0,0,,{\i1}But, Luthor goes\Nthrough all of that trouble...{\i0}
+Dialogue: 0,1:44:36.47,1:44:37.90,Default,,0,0,0,,Creates a bomb\Nout of a wheelchair,
+Dialogue: 0,1:44:37.90,1:44:39.80,Default,,0,0,0,,and then alters it\Nto reduce the blast?
+Dialogue: 0,1:44:39.80,1:44:41.64,Default,,0,0,0,,What do you mean?
+Dialogue: 0,1:44:41.64,1:44:44.27,Default,,0,0,0,,The inside of the chair\Nwas lined with lead.
+Dialogue: 0,1:44:46.78,1:44:48.41,Default,,0,0,0,,You couldn't stop it.
+Dialogue: 0,1:44:48.41,1:44:50.68,Default,,0,0,0,,You couldn't see it.
+Dialogue: 0,1:45:33.19,1:45:34.59,Default,,0,0,0,,Something, isn't it?
+Dialogue: 0,1:45:36.46,1:45:38.43,Default,,0,0,0,,We men of Kansas\Nlive on a pancake,
+Dialogue: 0,1:45:38.43,1:45:40.03,Default,,0,0,0,,so we come to the mountains.
+Dialogue: 0,1:45:41.53,1:45:45.33,Default,,0,0,0,,All downhill from here,\Ndown to the floodplain.
+Dialogue: 0,1:45:45.34,1:45:47.23,Default,,0,0,0,,Farm at the bottom of the world.
+Dialogue: 0,1:45:49.17,1:45:52.21,Default,,0,0,0,,I remember one season\Nthe water came bad.
+Dialogue: 0,1:45:52.21,1:45:54.14,Default,,0,0,0,,I couldn't have been 12.
+Dialogue: 0,1:45:54.14,1:45:57.14,Default,,0,0,0,,Dad had out the shovels\Nand we went at it all night.
+Dialogue: 0,1:45:57.15,1:45:59.31,Default,,0,0,0,,We worked till,\NI think, I fainted.
+Dialogue: 0,1:45:59.32,1:46:01.12,Default,,0,0,0,,But we managed\Nto stop the water.
+Dialogue: 0,1:46:02.35,1:46:05.39,Default,,0,0,0,,We saved the farm.
+Dialogue: 0,1:46:05.39,1:46:08.59,Default,,0,0,0,,Your grandma baked me\Na cake. Said I was a hero.
+Dialogue: 0,1:46:11.03,1:46:12.76,Default,,0,0,0,,Later that day we found out
+Dialogue: 0,1:46:14.03,1:46:15.20,Default,,0,0,0,,we blocked the water all right.
+Dialogue: 0,1:46:15.20,1:46:17.70,Default,,0,0,0,,We sent it upstream.
+Dialogue: 0,1:46:17.70,1:46:21.24,Default,,0,0,0,,The whole lang farm washed away.
+Dialogue: 0,1:46:21.24,1:46:24.24,Default,,0,0,0,,{\i1}While I ate my hero cake,\Ntheir horses were drowning.{\i0}
+Dialogue: 0,1:46:27.08,1:46:29.88,Default,,0,0,0,,I used to hear them\Nwailing in my sleep.
+Dialogue: 0,1:46:33.25,1:46:35.22,Default,,0,0,0,,Did the nightmares ever stop?
+Dialogue: 0,1:46:37.52,1:46:38.89,Default,,0,0,0,,Yeah.
+Dialogue: 0,1:46:39.89,1:46:41.82,Default,,0,0,0,,When I met your mother.
+Dialogue: 0,1:46:43.83,1:46:46.66,Default,,0,0,0,,She gave me faith that\Nthere's good in this world.
+Dialogue: 0,1:46:49.06,1:46:51.47,Default,,0,0,0,,{\i1}She was my world.{\i0}
+Dialogue: 0,1:46:54.07,1:46:55.67,Default,,0,0,0,,I miss you, son.
+Dialogue: 0,1:47:00.58,1:47:02.64,Default,,0,0,0,,I miss you too, Dad.
+Dialogue: 0,1:47:22.43,1:47:23.86,Default,,0,0,0,,You know you can't win this.
+Dialogue: 0,1:47:25.77,1:47:27.37,Default,,0,0,0,,It's suicide.
+Dialogue: 0,1:47:30.11,1:47:33.17,Default,,0,0,0,,I'm older now than\Nmy father ever was.
+Dialogue: 0,1:47:35.48,1:47:39.28,Default,,0,0,0,,This may be the only\Nthing I do that matters.
+Dialogue: 0,1:47:39.28,1:47:43.22,Default,,0,0,0,,20 years of fighting\Ncriminals amounts to nothing?
+Dialogue: 0,1:47:43.22,1:47:45.95,Default,,0,0,0,,Criminals are\Nlike weeds, Alfred.
+Dialogue: 0,1:47:45.96,1:47:48.36,Default,,0,0,0,,Pull one up, another\Ngrows in its place.
+Dialogue: 0,1:47:50.43,1:47:52.63,Default,,0,0,0,,This is about the\Nfuture of the world.
+Dialogue: 0,1:47:54.40,1:47:56.03,Default,,0,0,0,,This is my legacy.
+Dialogue: 0,1:47:57.27,1:47:59.63,Default,,0,0,0,,My father sat me\Ndown right here.
+Dialogue: 0,1:47:59.64,1:48:01.80,Default,,0,0,0,,Told me what Wayne\Nmanor was built on.
+Dialogue: 0,1:48:01.80,1:48:05.31,Default,,0,0,0,,Railroads, real\Nestates, and oil.
+Dialogue: 0,1:48:05.31,1:48:08.98,Default,,0,0,0,,The first generation made their\Nfortune trading with the French.
+Dialogue: 0,1:48:08.98,1:48:10.68,Default,,0,0,0,,Pelts and skins.
+Dialogue: 0,1:48:14.48,1:48:16.22,Default,,0,0,0,,They were hunters.
+Dialogue: 0,1:48:32.60,1:48:36.37,Default,,0,0,0,,So falls the house of Wayne.
+Dialogue: 0,1:48:36.37,1:48:38.17,Default,,0,0,0,,{\i1}We gotta wait for more evidence, {\i0}
+Dialogue: 0,1:48:38.17,1:48:40.14,Default,,0,0,0,,{\i1}but the question still remains, {\i0}
+Dialogue: 0,1:48:40.14,1:48:42.01,Default,,0,0,0,,{\i1}where is he?{\i0}
+Dialogue: 0,1:48:42.01,1:48:44.35,Default,,0,0,0,,{\i1}If Superman was not involved, {\i0}
+Dialogue: 0,1:48:44.35,1:48:47.72,Default,,0,0,0,,{\i1}if he's got nothing to hide,\Nthen why hasn't he been seen{\i0}
+Dialogue: 0,1:48:47.72,1:48:49.65,Default,,0,0,0,,{\i1}since the day of this tragedy?{\i0}
+Dialogue: 0,1:48:49.65,1:48:51.72,Default,,0,0,0,,{\i1}You can't point a finger and...{\i0}
+Dialogue: 0,1:48:51.72,1:48:53.62,Default,,0,0,0,,{\i1}I'm not pointing anything,\NWarren. Look. Ten fingers, see?{\i0}
+Dialogue: 0,1:48:53.62,1:48:55.29,Default,,0,0,0,,{\i1}If there is going\Nto be a criminal...{\i0}
+Dialogue: 0,1:50:24.05,1:50:25.85,Default,,0,0,0,,The night is here.
+Dialogue: 0,1:50:56.48,1:50:57.54,Default,,0,0,0,,Excuse me.
+Dialogue: 0,1:50:59.75,1:51:00.98,Default,,0,0,0,,Don't I know...
+Dialogue: 0,1:52:04.08,1:52:07.92,Default,,0,0,0,,Plain lo in the\Nmorning. Lola in slacks.
+Dialogue: 0,1:52:09.15,1:52:10.28,Default,,0,0,0,,Lois Lane.
+Dialogue: 0,1:52:12.56,1:52:14.52,Default,,0,0,0,,Mmm. Come see the view.
+Dialogue: 0,1:52:14.52,1:52:15.72,Default,,0,0,0,,Um...
+Dialogue: 0,1:52:15.73,1:52:16.89,Default,,0,0,0,,Mmm-mmm.
+Dialogue: 0,1:52:16.89,1:52:19.09,Default,,0,0,0,,Now the secret to the height
+Dialogue: 0,1:52:19.10,1:52:21.40,Default,,0,0,0,,is the building material.
+Dialogue: 0,1:52:21.40,1:52:24.90,Default,,0,0,0,,It's light metals which\Nsway a bit in the wind.
+Dialogue: 0,1:52:25.90,1:52:26.97,Default,,0,0,0,,Hmm.
+Dialogue: 0,1:52:29.57,1:52:32.91,Default,,0,0,0,,And you know something about\NLexCorp metals, don't you, Miss Lane?
+Dialogue: 0,1:52:32.91,1:52:34.78,Default,,0,0,0,,I've proven what you've done.
+Dialogue: 0,1:52:34.78,1:52:36.88,Default,,0,0,0,,Wow, you're feisty.
+Dialogue: 0,1:52:36.88,1:52:39.38,Default,,0,0,0,,Unfortunately,\Nthat will blow away.
+Dialogue: 0,1:52:39.38,1:52:41.42,Default,,0,0,0,,Like sand in the desert.
+Dialogue: 0,1:52:41.42,1:52:42.55,Default,,0,0,0,,You're psychotic.
+Dialogue: 0,1:52:42.55,1:52:44.02,Default,,0,0,0,,That is a three-syllable word
+Dialogue: 0,1:52:44.02,1:52:46.55,Default,,0,0,0,,for any thought too\Nbig for little minds.
+Dialogue: 0,1:52:46.56,1:52:49.36,Default,,0,0,0,,Hmm. Next category: Circles.
+Dialogue: 0,1:52:49.36,1:52:54.13,Default,,0,0,0,,Round and round and round\Nthey go to find Superman.
+Dialogue: 0,1:52:54.13,1:52:56.26,Default,,0,0,0,,Wrong category,\Nboy. No, no, triangles.
+Dialogue: 0,1:52:56.27,1:52:57.87,Default,,0,0,0,,Yes, Euclid's\Ntriangle inequality.
+Dialogue: 0,1:52:57.87,1:53:00.07,Default,,0,0,0,,The shortest distance\Nbetween any two points
+Dialogue: 0,1:53:00.07,1:53:01.87,Default,,0,0,0,,is a straight path.
+Dialogue: 0,1:53:01.87,1:53:04.81,Default,,0,0,0,,And I believe the\Nstraightest path to Superman
+Dialogue: 0,1:53:04.81,1:53:06.31,Default,,0,0,0,,is a pretty little road...
+Dialogue: 0,1:53:06.31,1:53:08.74,Default,,0,0,0,,Mmm. Called Lois Lane.
+Dialogue: 0,1:53:31.27,1:53:32.70,Default,,0,0,0,,You came back.
+Dialogue: 0,1:53:33.57,1:53:34.90,Default,,0,0,0,,You came back.
+Dialogue: 0,1:53:54.16,1:53:56.36,Default,,0,0,0,,Boy, do we have\Nproblems up here!
+Dialogue: 0,1:54:00.93,1:54:03.33,Default,,0,0,0,,The problem of...\Nof evil in the world.
+Dialogue: 0,1:54:03.33,1:54:05.53,Default,,0,0,0,,Uh, the problem\Nof absolute virtue.
+Dialogue: 0,1:54:05.53,1:54:07.70,Default,,0,0,0,,I'll take you in\Nwithout breaking you.
+Dialogue: 0,1:54:07.70,1:54:09.50,Default,,0,0,0,,Which is more than you deserve.
+Dialogue: 0,1:54:09.51,1:54:11.97,Default,,0,0,0,,The problem of you on\Ntop of everything else.
+Dialogue: 0,1:54:11.97,1:54:13.67,Default,,0,0,0,,You above all.
+Dialogue: 0,1:54:13.68,1:54:16.18,Default,,0,0,0,,Ah, because that's what God is.
+Dialogue: 0,1:54:16.18,1:54:20.25,Default,,0,0,0,,Horus. Apollo. Jehovah. Kal-El.
+Dialogue: 0,1:54:21.18,1:54:24.55,Default,,0,0,0,,Clark Joseph Kent.
+Dialogue: 0,1:54:26.32,1:54:30.52,Default,,0,0,0,,See, what we call God depends\Nupon our tribe, Clark-Joe.
+Dialogue: 0,1:54:30.53,1:54:33.66,Default,,0,0,0,,Because God is\Ntribal. God takes sides.
+Dialogue: 0,1:54:33.66,1:54:35.66,Default,,0,0,0,,No man in the sky\Nintervened when I was a boy
+Dialogue: 0,1:54:35.66,1:54:38.70,Default,,0,0,0,,to deliver me from Daddy's\Nfist and abominations. Mmm.
+Dialogue: 0,1:54:38.70,1:54:42.50,Default,,0,0,0,,I figured out way back,\Nif God is all-powerful,
+Dialogue: 0,1:54:42.50,1:54:43.94,Default,,0,0,0,,he cannot be all-good.
+Dialogue: 0,1:54:45.64,1:54:47.21,Default,,0,0,0,,And if he is all-good,
+Dialogue: 0,1:54:47.21,1:54:49.54,Default,,0,0,0,,then he cannot be all-powerful.
+Dialogue: 0,1:54:49.55,1:54:51.14,Default,,0,0,0,,And neither can you be.
+Dialogue: 0,1:54:52.35,1:54:54.38,Default,,0,0,0,,They need to see\Nthe fraud you are.
+Dialogue: 0,1:54:54.98,1:54:56.28,Default,,0,0,0,,With their eyes.
+Dialogue: 0,1:54:57.55,1:55:00.42,Default,,0,0,0,,The blood on your hands.
+Dialogue: 0,1:55:00.42,1:55:01.59,Default,,0,0,0,,What have you done?
+Dialogue: 0,1:55:01.59,1:55:03.49,Default,,0,0,0,,Hmm. And tonight, they will.
+Dialogue: 0,1:55:03.49,1:55:07.66,Default,,0,0,0,,Yes. Because you, my\Nfriend, have a date. Hmm.
+Dialogue: 0,1:55:07.66,1:55:09.16,Default,,0,0,0,,Across the bay.
+Dialogue: 0,1:55:09.16,1:55:11.73,Default,,0,0,0,,Ripe fruit, his hate.\NTwo years growing.
+Dialogue: 0,1:55:11.73,1:55:13.77,Default,,0,0,0,,But it did not take much\Nto push him over, actually.
+Dialogue: 0,1:55:13.77,1:55:15.34,Default,,0,0,0,,Little red notes, big bang.
+Dialogue: 0,1:55:15.34,1:55:18.07,Default,,0,0,0,,You let your family die!
+Dialogue: 0,1:55:18.07,1:55:23.78,Default,,0,0,0,,{\i1}And now you will fly to\Nhim. And you will battle him.{\i0}
+Dialogue: 0,1:55:23.78,1:55:25.35,Default,,0,0,0,,To the death.
+Dialogue: 0,1:55:26.58,1:55:29.62,Default,,0,0,0,,Black and blue. Fight night!
+Dialogue: 0,1:55:29.62,1:55:33.12,Default,,0,0,0,,The greatest gladiator match\Nin the history of the world.
+Dialogue: 0,1:55:33.12,1:55:35.96,Default,,0,0,0,,God versus man.
+Dialogue: 0,1:55:35.96,1:55:38.86,Default,,0,0,0,,Day versus night.
+Dialogue: 0,1:55:38.86,1:55:41.93,Default,,0,0,0,,Son of Krypton\Nversus Bat of Gotham.
+Dialogue: 0,1:55:41.93,1:55:44.20,Default,,0,0,0,,You think I'll\Nfight him for you?
+Dialogue: 0,1:55:44.20,1:55:46.97,Default,,0,0,0,,Hmm, yes, I do. I think\Nyou will fight-fight-fight
+Dialogue: 0,1:55:46.97,1:55:48.94,Default,,0,0,0,,for that special\Nlady in your life.
+Dialogue: 0,1:55:48.94,1:55:51.24,Default,,0,0,0,,She's safe on the\Nground. How about you?
+Dialogue: 0,1:55:51.24,1:55:54.88,Default,,0,0,0,,Close, but I am not\Ntalking about Lois.
+Dialogue: 0,1:55:54.88,1:55:59.28,Default,,0,0,0,,No. Every boy's special\Nlady is his mother.
+Dialogue: 0,1:56:04.95,1:56:07.45,Default,,0,0,0,,Martha, Martha, Martha.
+Dialogue: 0,1:56:07.96,1:56:09.42,Default,,0,0,0,,Hmm.
+Dialogue: 0,1:56:09.43,1:56:13.39,Default,,0,0,0,,Why, the mother of a flying\Ndemon must be a witch.
+Dialogue: 0,1:56:13.40,1:56:16.26,Default,,0,0,0,,The punishment for\Nwitches, what is that?
+Dialogue: 0,1:56:16.27,1:56:18.40,Default,,0,0,0,,That's right. Death by fire.
+Dialogue: 0,1:56:20.44,1:56:22.00,Default,,0,0,0,,Mmm.
+Dialogue: 0,1:56:27.98,1:56:30.01,Default,,0,0,0,,Where is she?
+Dialogue: 0,1:56:30.01,1:56:31.81,Default,,0,0,0,,I don't know! I would\Nnot let them tell me!
+Dialogue: 0,1:56:31.81,1:56:34.31,Default,,0,0,0,,Uh-uh-uh! If you\Nkill me, Martha dies.
+Dialogue: 0,1:56:34.32,1:56:36.48,Default,,0,0,0,,And if you fly away,\Nmmm, Martha also dies.
+Dialogue: 0,1:56:36.49,1:56:39.49,Default,,0,0,0,,But if you kill the bat...
+Dialogue: 0,1:56:39.49,1:56:40.92,Default,,0,0,0,,Martha lives.
+Dialogue: 0,1:56:45.83,1:56:49.10,Default,,0,0,0,,There we go. There we go. Hmm.
+Dialogue: 0,1:56:51.67,1:56:55.60,Default,,0,0,0,,And now God bends to my will.
+Dialogue: 0,1:57:01.28,1:57:04.18,Default,,0,0,0,,Ooh, now the cameras\Nare waiting at your ship.
+Dialogue: 0,1:57:04.18,1:57:06.45,Default,,0,0,0,,For the world to see\Nthe holes in the Holy.
+Dialogue: 0,1:57:06.45,1:57:07.95,Default,,0,0,0,,Yes, the almighty comes clean
+Dialogue: 0,1:57:07.95,1:57:09.32,Default,,0,0,0,,about how dirty he\Nis when it counts.
+Dialogue: 0,1:57:09.32,1:57:11.02,Default,,0,0,0,,To save Martha,
+Dialogue: 0,1:57:11.02,1:57:12.69,Default,,0,0,0,,bring me the head of the Bat.
+Dialogue: 0,1:57:16.19,1:57:17.49,Default,,0,0,0,,Ah.
+Dialogue: 0,1:57:17.49,1:57:20.36,Default,,0,0,0,,Mother of God, would\Nyou look at the time?
+Dialogue: 0,1:57:20.36,1:57:22.70,Default,,0,0,0,,When you came\Nhere, you had an hour.
+Dialogue: 0,1:57:23.97,1:57:25.87,Default,,0,0,0,,Now it's less.
+Dialogue: 0,1:58:27.53,1:58:29.23,Default,,0,0,0,,{\i1}Brooke Baldwin is on the scene.{\i0}
+Dialogue: 0,1:58:29.23,1:58:31.47,Default,,0,0,0,,{\i1}Brooke, you're live on the\Nair. What are you seeing?{\i0}
+Dialogue: 0,1:58:31.47,1:58:33.03,Default,,0,0,0,,There's something\Nhappening at the ship.
+Dialogue: 0,1:58:34.44,1:58:37.24,Default,,0,0,0,,It's sending massive\Npower surges.
+Dialogue: 0,1:58:37.24,1:58:39.07,Default,,0,0,0,,{\i1}Police helicopters\Nsurrounding the area.{\i0}
+Dialogue: 0,1:58:39.07,1:58:41.81,Default,,0,0,0,,{\i1}They've created a barricade\Naround this containment center.{\i0}
+Dialogue: 0,1:58:41.81,1:58:43.41,Default,,0,0,0,,{\i1}And we're trying to\Nget a little bit closer here{\i0}
+Dialogue: 0,1:58:43.41,1:58:45.11,Default,,0,0,0,,{\i1}to find out what's going on.{\i0}
+Dialogue: 0,1:58:45.11,1:58:47.11,Default,,0,0,0,,{\i1}It is absolute chaos.\NYou can see that lightning, {\i0}
+Dialogue: 0,1:58:47.12,1:58:48.78,Default,,0,0,0,,{\i1}those surges of electricity.{\i0}
+Dialogue: 0,1:58:48.78,1:58:52.05,Default,,0,0,0,,{\i1}They seem to be getting\Nstronger by the minute.{\i0}
+Dialogue: 0,1:58:52.05,1:58:54.79,Default,,0,0,0,,{\i1}Daily Planet.{\i0}
+Dialogue: 0,1:58:54.79,1:58:59.16,Default,,0,0,0,,Lois. I have to go to Gotham\Nto convince him to help me.
+Dialogue: 0,1:58:59.16,1:59:00.23,Default,,0,0,0,,Who?
+Dialogue: 0,1:59:02.60,1:59:04.63,Default,,0,0,0,,Or he has to die.
+Dialogue: 0,1:59:04.63,1:59:05.87,Default,,0,0,0,,Clark.
+Dialogue: 0,1:59:09.24,1:59:11.40,Default,,0,0,0,,No one stays good in this world.
+Dialogue: 0,1:59:20.35,1:59:24.35,Default,,0,0,0,,{\i1}But as of right now, much of the\Ncity remains in the dark tonight.{\i0}
+Dialogue: 0,1:59:24.35,1:59:28.69,Default,,0,0,0,,{\i1}Much chaos. Much confusing happening\Non the streets of Metropolis tonight.{\i0}
+Dialogue: 0,1:59:28.69,1:59:30.86,Default,,0,0,0,,{\i1}Those helicopters are\Nstill surrounding the area.{\i0}
+Dialogue: 0,1:59:30.86,1:59:33.39,Default,,0,0,0,,{\i1}I don't know if you can still\Nsee those bolts of lightning...{\i0}
+Dialogue: 0,2:01:35.25,2:01:40.29,Default,,0,0,0,,{\i1}2400 hours and 2 minutes.\NSubject declining rapidly.{\i0}
+Dialogue: 0,2:01:40.29,2:01:42.36,Default,,0,0,0,,{\i1}All procedural\Ninterventions have failed.{\i0}
+Dialogue: 0,2:01:43.22,2:01:44.79,Default,,0,0,0,,{\i1}Outcome{\i0}
+Dialogue: 0,2:01:47.40,2:01:48.66,Default,,0,0,0,,{\i1}will be death.{\i0}
+Dialogue: 0,2:01:57.34,2:02:00.14,Default,,0,0,0,,{\i1}Dr. Silas stone suspending\Nall clinical protocol.{\i0}
+Dialogue: 0,2:02:00.14,2:02:06.88,Default,,0,0,0,,{\i1}US gov, object 6-19-82\Nis successfully activated.{\i0}
+Dialogue: 0,2:02:28.50,2:02:29.80,Default,,0,0,0,,{\i1}I need a chopper to Gotham.{\i0}
+Dialogue: 0,2:02:29.81,2:02:31.20,Default,,0,0,0,,Call the heliport.
+Dialogue: 0,2:02:31.21,2:02:32.97,Default,,0,0,0,,Chopper? We can\Nbarely afford a bicycle.
+Dialogue: 0,2:02:32.97,2:02:34.14,Default,,0,0,0,,You wanna chase a story?
+Dialogue: 0,2:02:34.14,2:02:35.44,Default,,0,0,0,,Go to the ship.
+Dialogue: 0,2:02:35.44,2:02:36.81,Default,,0,0,0,,Superman's probably\Nthere already.
+Dialogue: 0,2:02:36.81,2:02:39.58,Default,,0,0,0,,Perry, it's not for a story.
+Dialogue: 0,2:02:44.45,2:02:46.15,Default,,0,0,0,,Jenny, get her a\Nchopper to Gotham.
+Dialogue: 0,2:02:46.15,2:02:48.69,Default,,0,0,0,,And forget the heliport.\NPut it on the Goddamn roof.
+Dialogue: 0,2:02:48.69,2:02:50.19,Default,,0,0,0,,On the roof, Lois!
+Dialogue: 0,2:02:52.86,2:02:54.53,Default,,0,0,0,,Where are we headed?
+Dialogue: 0,2:02:54.53,2:02:55.73,Default,,0,0,0,,There!
+Dialogue: 0,2:03:11.71,2:03:14.75,Default,,0,0,0,,{\i1}Well, here I am.{\i0}
+Dialogue: 0,2:03:16.08,2:03:17.45,Default,,0,0,0,,Bruce. Please.
+Dialogue: 0,2:03:19.22,2:03:22.09,Default,,0,0,0,,I was wrong. You\Nhave to listen to me.
+Dialogue: 0,2:03:22.09,2:03:23.32,Default,,0,0,0,,Lex wants us to...
+Dialogue: 0,2:03:38.74,2:03:41.07,Default,,0,0,0,,You don't understand.
+Dialogue: 0,2:03:41.08,2:03:42.44,Default,,0,0,0,,There's no time!
+Dialogue: 0,2:03:44.08,2:03:45.25,Default,,0,0,0,,{\i1}I understand.{\i0}
+Dialogue: 0,2:05:01.76,2:05:03.32,Default,,0,0,0,,Stay down!
+Dialogue: 0,2:05:03.33,2:05:05.76,Default,,0,0,0,,If I wanted it, you'd\Nbe dead already.
+Dialogue: 0,2:05:43.83,2:05:45.13,Default,,0,0,0,,{\i1}Breathe it in.{\i0}
+Dialogue: 0,2:05:47.90,2:05:49.77,Default,,0,0,0,,{\i1}That's fear.{\i0}
+Dialogue: 0,2:05:52.67,2:05:54.11,Default,,0,0,0,,{\i1}You're not brave.{\i0}
+Dialogue: 0,2:05:58.41,2:05:59.95,Default,,0,0,0,,{\i1}Men are brave.{\i0}
+Dialogue: 0,2:09:49.71,2:09:54.38,Default,,0,0,0,,{\i1}I bet your parents taught\Nyou that you mean something.{\i0}
+Dialogue: 0,2:09:54.38,2:09:56.05,Default,,0,0,0,,{\i1}That you're here for a reason.{\i0}
+Dialogue: 0,2:09:57.55,2:10:01.25,Default,,0,0,0,,{\i1}My parents taught\Nme a different lesson, {\i0}
+Dialogue: 0,2:10:01.26,2:10:03.72,Default,,0,0,0,,{\i1}dying in the gutter{\i0}
+Dialogue: 0,2:10:03.73,2:10:05.73,Default,,0,0,0,,{\i1}for no reason at all.{\i0}
+Dialogue: 0,2:10:22.48,2:10:25.14,Default,,0,0,0,,{\i1}They taught me the\Nworld only makes sense{\i0}
+Dialogue: 0,2:10:25.15,2:10:27.21,Default,,0,0,0,,{\i1}if you force it to.{\i0}
+Dialogue: 0,2:11:05.55,2:11:07.45,Default,,0,0,0,,{\i1}You were never a God.{\i0}
+Dialogue: 0,2:11:10.22,2:11:12.39,Default,,0,0,0,,{\i1}You were never even a man.{\i0}
+Dialogue: 0,2:11:19.33,2:11:22.70,Default,,0,0,0,,You're letting him kill Martha.
+Dialogue: 0,2:11:28.34,2:11:30.14,Default,,0,0,0,,{\i1}What does that mean?{\i0}
+Dialogue: 0,2:11:31.35,2:11:32.91,Default,,0,0,0,,{\i1}Why did you say that name?{\i0}
+Dialogue: 0,2:11:34.18,2:11:36.75,Default,,0,0,0,,Find him.
+Dialogue: 0,2:11:37.99,2:11:39.69,Default,,0,0,0,,Save.
+Dialogue: 0,2:11:39.69,2:11:41.39,Default,,0,0,0,,{\i1}Martha.{\i0}
+Dialogue: 0,2:11:44.32,2:11:45.73,Default,,0,0,0,,{\i1}Martha.{\i0}
+Dialogue: 0,2:12:16.52,2:12:18.42,Default,,0,0,0,,Martha.
+Dialogue: 0,2:12:22.63,2:12:23.80,Default,,0,0,0,,{\i1}Why did you say that name?{\i0}
+Dialogue: 0,2:12:25.73,2:12:27.57,Default,,0,0,0,,{\i1}Martha! Why did\Nyou say that name?{\i0}
+Dialogue: 0,2:12:27.57,2:12:28.87,Default,,0,0,0,,Clark! Stop!
+Dialogue: 0,2:12:28.87,2:12:30.24,Default,,0,0,0,,Please! Stop!
+Dialogue: 0,2:12:30.24,2:12:31.90,Default,,0,0,0,,{\i1}Why did you say that name?{\i0}
+Dialogue: 0,2:12:31.91,2:12:34.37,Default,,0,0,0,,It's his mother's name!
+Dialogue: 0,2:12:34.38,2:12:36.64,Default,,0,0,0,,It's his mother's name.
+Dialogue: 0,2:13:08.24,2:13:09.78,Default,,0,0,0,,{\i1}We're not getting any answers.{\i0}
+Dialogue: 0,2:13:09.78,2:13:11.31,Default,,0,0,0,,We're still right outside\Nthe containment center.
+Dialogue: 0,2:13:11.31,2:13:12.51,Default,,0,0,0,,A dangerous situation.
+Dialogue: 0,2:13:12.51,2:13:13.95,Default,,0,0,0,,Military and police personnel
+Dialogue: 0,2:13:13.95,2:13:15.51,Default,,0,0,0,,{\i1}surrounding the area.{\i0}
+Dialogue: 0,2:13:31.03,2:13:32.30,Default,,0,0,0,,{\i1}Luthor.{\i0}
+Dialogue: 0,2:13:32.30,2:13:34.77,Default,,0,0,0,,He wanted your life for hers.
+Dialogue: 0,2:13:35.97,2:13:37.80,Default,,0,0,0,,She's losing time.
+Dialogue: 0,2:13:37.81,2:13:40.71,Default,,0,0,0,,The scout ship seems to be\Ndrawing power from the city.
+Dialogue: 0,2:13:40.71,2:13:42.27,Default,,0,0,0,,It's got to be Lex.
+Dialogue: 0,2:13:42.28,2:13:45.01,Default,,0,0,0,,{\i1}They need you at\Nthat ship. I'll find her.{\i0}
+Dialogue: 0,2:13:45.01,2:13:47.11,Default,,0,0,0,,My mother needs me. {\i1}Wait.{\i0}
+Dialogue: 0,2:13:48.22,2:13:50.65,Default,,0,0,0,,{\i1}I'll make you a promise.{\i0}
+Dialogue: 0,2:13:50.65,2:13:52.92,Default,,0,0,0,,{\i1}Martha won't die tonight.{\i0}
+Dialogue: 0,2:14:19.65,2:14:21.01,Default,,0,0,0,,{\i1}Master Wayne.{\i0}
+Dialogue: 0,2:14:21.02,2:14:22.25,Default,,0,0,0,,{\i1}Alfred.{\i0}
+Dialogue: 0,2:14:22.25,2:14:24.02,Default,,0,0,0,,Uh, I'm sorry for listening in,
+Dialogue: 0,2:14:24.02,2:14:25.55,Default,,0,0,0,,but I've tracked\Nthe Russian's phone
+Dialogue: 0,2:14:25.55,2:14:27.22,Default,,0,0,0,,to a warehouse near the port.
+Dialogue: 0,2:14:27.22,2:14:28.75,Default,,0,0,0,,{\i1}You're locked onto it.{\i0}
+Dialogue: 0,2:14:28.76,2:14:30.32,Default,,0,0,0,,{\i1}I don't deserve you, Alfred.{\i0}
+Dialogue: 0,2:14:30.32,2:14:32.79,Default,,0,0,0,,No, sir. You don't.
+Dialogue: 0,2:14:53.55,2:14:55.48,Default,,0,0,0,,I'm afraid this is goodbye.
+Dialogue: 0,2:14:57.38,2:15:01.59,Default,,0,0,0,,And every time we say\Ngoodbye, you die a little.
+Dialogue: 0,2:15:14.73,2:15:16.54,Default,,0,0,0,,- Take it down.\N- Go! Go!
+Dialogue: 0,2:15:39.89,2:15:41.23,Default,,0,0,0,,{\i1}You have to take it, Alfred.{\i0}
+Dialogue: 0,2:15:41.90,2:15:43.80,Default,,0,0,0,,Ah, right.
+Dialogue: 0,2:15:43.80,2:15:45.87,Default,,0,0,0,,Commencing drone mode.
+Dialogue: 0,2:15:48.84,2:15:50.67,Default,,0,0,0,,Thermal imaging is showing me
+Dialogue: 0,2:15:50.67,2:15:53.27,Default,,0,0,0,,two dozen hostiles\Non the third floor.
+Dialogue: 0,2:15:53.27,2:15:55.67,Default,,0,0,0,,Why don't I drop you\Noff on the second?
+Dialogue: 0,2:19:00.76,2:19:02.49,Default,,0,0,0,,Drop it.
+Dialogue: 0,2:19:04.16,2:19:06.07,Default,,0,0,0,,I said drop it!
+Dialogue: 0,2:19:07.03,2:19:08.37,Default,,0,0,0,,I'll kill her.
+Dialogue: 0,2:19:10.20,2:19:12.44,Default,,0,0,0,,Believe me, I'll do it.
+Dialogue: 0,2:19:15.31,2:19:16.44,Default,,0,0,0,,{\i1}I believe you.{\i0}
+Dialogue: 0,2:19:28.82,2:19:31.86,Default,,0,0,0,,{\i1}It's okay. I'm a\Nfriend of your son's.{\i0}
+Dialogue: 0,2:19:31.86,2:19:34.76,Default,,0,0,0,,I figured. The cape.
+Dialogue: 0,2:20:02.86,2:20:04.39,Default,,0,0,0,,"Late, late," says\Nthe white rabbit.
+Dialogue: 0,2:20:04.39,2:20:06.19,Default,,0,0,0,,{\i1}40 seconds to animation.{\i0}
+Dialogue: 0,2:20:06.19,2:20:07.83,Default,,0,0,0,,Right, wabbit?
+Dialogue: 0,2:20:07.83,2:20:11.60,Default,,0,0,0,,Hmm. Out of tricks, out of time.
+Dialogue: 0,2:20:12.67,2:20:15.17,Default,,0,0,0,,And one Bat head short.
+Dialogue: 0,2:20:15.17,2:20:17.00,Default,,0,0,0,,{\i1}30 seconds to animation.{\i0}
+Dialogue: 0,2:20:17.00,2:20:18.77,Default,,0,0,0,,Ah. That'll be the cook.
+Dialogue: 0,2:20:18.77,2:20:19.94,Default,,0,0,0,,Excuse me.
+Dialogue: 0,2:20:19.94,2:20:22.88,Default,,0,0,0,,Uh, Gotham roast. Well done.
+Dialogue: 0,2:20:22.88,2:20:25.04,Default,,0,0,0,,Hello. Break the bad news.
+Dialogue: 0,2:20:25.05,2:20:27.95,Default,,0,0,0,,{\i1}I'd rather do the\Nbreaking in person.{\i0}
+Dialogue: 0,2:20:27.95,2:20:29.68,Default,,0,0,0,,{\i1}20 seconds to animation.{\i0}
+Dialogue: 0,2:20:29.68,2:20:30.75,Default,,0,0,0,,You've lost.
+Dialogue: 0,2:20:31.72,2:20:32.95,Default,,0,0,0,,I don't know how to lose.
+Dialogue: 0,2:20:32.95,2:20:34.12,Default,,0,0,0,,You'll learn.
+Dialogue: 0,2:20:34.12,2:20:35.75,Default,,0,0,0,,I'll learn.
+Dialogue: 0,2:20:35.76,2:20:38.26,Default,,0,0,0,,I don't hate the sinner.
+Dialogue: 0,2:20:38.26,2:20:40.36,Default,,0,0,0,,- I hate the sin.\N{\i1}- 10 seconds to animation.{\i0}
+Dialogue: 0,2:20:40.36,2:20:43.03,Default,,0,0,0,,And yours, my\Nfriend, is existing.
+Dialogue: 0,2:20:43.86,2:20:45.46,Default,,0,0,0,,I cannot let you win.
+Dialogue: 0,2:20:45.47,2:20:46.73,Default,,0,0,0,,I gave the bat a\Nfighting chance to do it,
+Dialogue: 0,2:20:46.73,2:20:47.80,Default,,0,0,0,,but he was not strong enough.
+Dialogue: 0,2:20:47.80,2:20:49.80,Default,,0,0,0,,So, if man won't kill God...
+Dialogue: 0,2:20:49.80,2:20:51.97,Default,,0,0,0,,{\i1}...two, one.{\i0}
+Dialogue: 0,2:20:53.64,2:20:54.74,Default,,0,0,0,,...the Devil will do it!
+Dialogue: 0,2:21:11.46,2:21:12.89,Default,,0,0,0,,Perry!
+Dialogue: 0,2:21:12.89,2:21:15.56,Default,,0,0,0,,All right. Stay calm, everybody!
+Dialogue: 0,2:21:15.56,2:21:17.00,Default,,0,0,0,,{\i1}We're getting reports\Nthere are total blackouts{\i0}
+Dialogue: 0,2:21:17.00,2:21:19.77,Default,,0,0,0,,{\i1}in the north and to the\Nnorthwest of the city.{\i0}
+Dialogue: 0,2:21:19.77,2:21:21.17,Default,,0,0,0,,{\i1}Federal authorities\Nare trying to determine{\i0}
+Dialogue: 0,2:21:21.17,2:21:23.47,Default,,0,0,0,,{\i1}if this is part of a\Nlarger terrorist attack.{\i0}
+Dialogue: 0,2:21:27.84,2:21:30.94,Default,,0,0,0,,Ancient Kryptonian deformity.
+Dialogue: 0,2:21:30.95,2:21:34.68,Default,,0,0,0,,Hmm. Blood of my blood.
+Dialogue: 0,2:21:41.19,2:21:43.36,Default,,0,0,0,,Born to destroy you.
+Dialogue: 0,2:21:46.09,2:21:48.16,Default,,0,0,0,,Your Doomsday.
+Dialogue: 0,2:22:11.28,2:22:14.09,Default,,0,0,0,,Now God is good
+Dialogue: 0,2:22:14.62,2:22:16.09,Default,,0,0,0,,as dead.
+Dialogue: 0,2:22:19.29,2:22:20.59,Default,,0,0,0,,Oh!
+Dialogue: 0,2:23:39.71,2:23:41.11,Default,,0,0,0,,Potus joining.
+Dialogue: 0,2:23:41.11,2:23:42.47,Default,,0,0,0,,Mr. President.
+Dialogue: 0,2:23:42.48,2:23:44.14,Default,,0,0,0,,{\i1}What the hell is it, Calvin?{\i0}
+Dialogue: 0,2:23:44.14,2:23:45.81,Default,,0,0,0,,{\i1}These are live\Nimages from the top{\i0}
+Dialogue: 0,2:23:45.81,2:23:48.05,Default,,0,0,0,,{\i1}of the LexCorp tower\Nin downtown Metropolis.{\i0}
+Dialogue: 0,2:23:48.05,2:23:49.88,Default,,0,0,0,,{\i1}Military aircraft\Nare on the scene.{\i0}
+Dialogue: 0,2:24:01.80,2:24:03.76,Default,,0,0,0,,Are you hurt, Ma'am? I'm okay.
+Dialogue: 0,2:24:03.76,2:24:05.50,Default,,0,0,0,,Good. You're gonna\Nbe all right, okay?
+Dialogue: 0,2:24:15.31,2:24:18.18,Default,,0,0,0,,{\i1}This thing emerged from\Nthe Kryptonian crash site{\i0}
+Dialogue: 0,2:24:18.18,2:24:19.98,Default,,0,0,0,,{\i1}just moments ago.{\i0}
+Dialogue: 0,2:24:19.98,2:24:21.98,Default,,0,0,0,,{\i1}Thankfully though,\Nthe work day is over{\i0}
+Dialogue: 0,2:24:21.98,2:24:24.52,Default,,0,0,0,,{\i1}in the downtown\Ncore. It's nearly empty.{\i0}
+Dialogue: 0,2:24:24.52,2:24:28.25,Default,,0,0,0,,{\i1}Now military aircraft. Those\Nare apache helicopters.{\i0}
+Dialogue: 0,2:24:28.26,2:24:30.76,Default,,0,0,0,,{\i1}They have now just\Narrived. The images that...{\i0}
+Dialogue: 0,2:25:06.99,2:25:10.20,Default,,0,0,0,,{\i1}We've, uh... We just lost\Nconnection with Metropolis 8 news.{\i0}
+Dialogue: 0,2:25:10.20,2:25:12.53,Default,,0,0,0,,{\i1}Now, it's not clear\Nwhat just happened.{\i0}
+Dialogue: 0,2:25:16.14,2:25:17.70,Default,,0,0,0,,{\i1}What's happening there, Alfred?{\i0}
+Dialogue: 0,2:25:19.54,2:25:21.51,Default,,0,0,0,,How best to describe it?
+Dialogue: 0,2:25:21.51,2:25:23.41,Default,,0,0,0,,{\i1}Metropolis airspace\Nhas been closed briefly.{\i0}
+Dialogue: 0,2:25:23.41,2:25:24.98,Default,,0,0,0,,Excuse me?
+Dialogue: 0,2:25:24.98,2:25:25.68,Default,,0,0,0,,{\i1}We kindly ask that\Nyou stay in your seats.{\i0}
+Dialogue: 0,2:25:25.68,2:25:27.05,Default,,0,0,0,,Excuse me?
+Dialogue: 0,2:25:27.05,2:25:28.45,Default,,0,0,0,,Miss Prince?
+Dialogue: 0,2:25:42.90,2:25:44.90,Default,,0,0,0,,Sir. Look, they've\Ncleared the city.
+Dialogue: 0,2:25:44.90,2:25:46.57,Default,,0,0,0,,Looks like he's\Ntaking it into space.
+Dialogue: 0,2:25:46.57,2:25:48.40,Default,,0,0,0,,We can go straight to\Nkey red, Mr. President.
+Dialogue: 0,2:25:48.40,2:25:50.04,Default,,0,0,0,,Not yet. Are you crazy?
+Dialogue: 0,2:25:50.04,2:25:51.34,Default,,0,0,0,,They're high enough\Nthat we can nuke 'em
+Dialogue: 0,2:25:51.34,2:25:52.70,Default,,0,0,0,,with no casualties, sir.
+Dialogue: 0,2:25:52.71,2:25:55.64,Default,,0,0,0,,One casualty,\NMr. President. Superman.
+Dialogue: 0,2:25:58.21,2:25:59.58,Default,,0,0,0,,{\i1}God have mercy on us all.{\i0}
+Dialogue: 0,2:26:05.92,2:26:07.95,Default,,0,0,0,,Key is hot. Key is hot.
+Dialogue: 0,2:26:07.96,2:26:09.99,Default,,0,0,0,,Red birds are\Narmed to deploy, sir.
+Dialogue: 0,2:26:11.26,2:26:12.56,Default,,0,0,0,,{\i1}Fire at will.{\i0}
+Dialogue: 0,2:26:12.56,2:26:14.59,Default,,0,0,0,,Three, two, one...
+Dialogue: 0,2:27:03.61,2:27:04.91,Default,,0,0,0,,{\i1}Oh, God.{\i0}
+Dialogue: 0,2:27:27.13,2:27:28.50,Default,,0,0,0,,Projectile 1. Impact.
+Dialogue: 0,2:27:28.50,2:27:30.54,Default,,0,0,0,,Stryker's island,\Neast of Metropolis.
+Dialogue: 0,2:27:30.54,2:27:31.84,Default,,0,0,0,,That's uninhabited.
+Dialogue: 0,2:27:31.84,2:27:33.37,Default,,0,0,0,,Projectile 2...
+Dialogue: 0,2:27:38.95,2:27:41.15,Default,,0,0,0,,No apparent reentry.
+Dialogue: 0,2:27:41.15,2:27:43.11,Default,,0,0,0,,{\i1}Projectile 2?{\i0}
+Dialogue: 0,2:27:43.12,2:27:48.95,Default,,0,0,0,,Superman, Mr. President.\NProjectile 2 was Superman.
+Dialogue: 0,2:27:48.96,2:27:50.26,Default,,0,0,0,,Sir.
+Dialogue: 0,2:27:50.96,2:27:52.09,Default,,0,0,0,,It's moving.
+Dialogue: 0,2:28:33.53,2:28:35.23,Default,,0,0,0,,{\i1}The shockwaves\Nare getting stronger.{\i0}
+Dialogue: 0,2:28:35.24,2:28:38.40,Default,,0,0,0,,Every time we hit it, we\Nmake it more powerful.
+Dialogue: 0,2:28:38.41,2:28:41.07,Default,,0,0,0,,We can't attack.
+Dialogue: 0,2:28:41.07,2:28:43.54,Default,,0,0,0,,{\i1}What are you saying, Calvin?{\i0}
+Dialogue: 0,2:28:43.54,2:28:45.78,Default,,0,0,0,,I'm saying it's unkillable.
+Dialogue: 0,2:29:13.27,2:29:15.61,Default,,0,0,0,,Master Wayne, are\Nyou receiving me?
+Dialogue: 0,2:29:15.61,2:29:16.78,Default,,0,0,0,,{\i1}Alfred.{\i0}
+Dialogue: 0,2:29:16.78,2:29:18.61,Default,,0,0,0,,{\i1}It's Kryptonian.{\i0}
+Dialogue: 0,2:29:18.61,2:29:21.31,Default,,0,0,0,,{\i1}Only kryptonite\Nweapons can kill it.{\i0}
+Dialogue: 0,2:29:21.32,2:29:24.48,Default,,0,0,0,,They might. If you had any left.
+Dialogue: 0,2:29:24.48,2:29:27.95,Default,,0,0,0,,{\i1}I got one round left.{\i0}
+Dialogue: 0,2:29:27.96,2:29:32.12,Default,,0,0,0,,{\i1}The spear. Alfred, the\Nspear. It's pure kryptonite.{\i0}
+Dialogue: 0,2:29:32.13,2:29:33.89,Default,,0,0,0,,{\i1}It's back in Gotham.{\i0}
+Dialogue: 0,2:29:33.89,2:29:36.76,Default,,0,0,0,,{\i1}If I can penetrate the\Nskin, the spear will kill it.{\i0}
+Dialogue: 0,2:29:36.76,2:29:38.43,Default,,0,0,0,,It would in theory.
+Dialogue: 0,2:29:38.43,2:29:40.93,Default,,0,0,0,,{\i1}I've gotta get it to chase\Nme back to the city.{\i0}
+Dialogue: 0,2:29:40.93,2:29:42.67,Default,,0,0,0,,{\i1}Back to the kryptonite.{\i0}
+Dialogue: 0,2:30:43.33,2:30:44.93,Default,,0,0,0,,{\i1}Oh, shit.{\i0}
+Dialogue: 0,2:31:34.35,2:31:36.41,Default,,0,0,0,,Why did you bring\Nhim back to the city?
+Dialogue: 0,2:31:36.42,2:31:37.92,Default,,0,0,0,,{\i1}The port is abandoned.{\i0}
+Dialogue: 0,2:31:37.92,2:31:39.78,Default,,0,0,0,,{\i1}There's a weapon\Nhere that can kill it.{\i0}
+Dialogue: 0,2:31:52.36,2:31:53.63,Default,,0,0,0,,Did you find the spear?
+Dialogue: 0,2:31:54.60,2:31:56.37,Default,,0,0,0,,{\i1}I've been a little busy.{\i0}
+Dialogue: 0,2:31:56.37,2:31:59.67,Default,,0,0,0,,This thing, this creature,\Nseems to feed on energy.
+Dialogue: 0,2:32:01.74,2:32:04.64,Default,,0,0,0,,This thing is from\Nanother world.
+Dialogue: 0,2:32:05.31,2:32:06.64,Default,,0,0,0,,My world.
+Dialogue: 0,2:32:06.65,2:32:09.31,Default,,0,0,0,,I've killed things from\Nother worlds before.
+Dialogue: 0,2:32:10.95,2:32:12.15,Default,,0,0,0,,Is she with you?
+Dialogue: 0,2:32:13.12,2:32:15.02,Default,,0,0,0,,{\i1}I thought she was with you.{\i0}
+Dialogue: 0,2:35:53.47,2:35:55.01,Default,,0,0,0,,Clark!
+Dialogue: 0,2:35:55.01,2:35:56.37,Default,,0,0,0,,Clark!
+Dialogue: 0,2:36:03.85,2:36:04.92,Default,,0,0,0,,Clark!
+Dialogue: 0,2:36:15.40,2:36:17.30,Default,,0,0,0,,Clark!
+Dialogue: 0,2:36:17.30,2:36:18.93,Default,,0,0,0,,Clark! Are you all right?
+Dialogue: 0,2:36:56.74,2:36:58.47,Default,,0,0,0,,I love you.
+Dialogue: 0,2:37:02.07,2:37:05.51,Default,,0,0,0,,No. No, Clark, you can't.
+Dialogue: 0,2:37:07.25,2:37:09.18,Default,,0,0,0,,This is my world.
+Dialogue: 0,2:37:09.18,2:37:10.65,Default,,0,0,0,,No, Clark, don't.
+Dialogue: 0,2:37:14.25,2:37:16.62,Default,,0,0,0,,You are my world.
+Dialogue: 0,2:37:16.62,2:37:17.76,Default,,0,0,0,,No.
+Dialogue: 0,2:37:20.93,2:37:22.66,Default,,0,0,0,,Please. Clark!
+Dialogue: 0,2:44:28.62,2:44:29.69,Default,,0,0,0,,Hi.
+Dialogue: 0,2:44:36.70,2:44:39.43,Default,,0,0,0,,Clark had this sent here,\Nso he could surprise you.
+Dialogue: 0,2:47:06.51,2:47:08.68,Default,,0,0,0,,"The dead shall live.
+Dialogue: 0,2:47:09.51,2:47:12.75,Default,,0,0,0,,"My slain shall rise again.
+Dialogue: 0,2:47:15.72,2:47:18.59,Default,,0,0,0,,"Awake and sing,\Nye that dwell in dust.
+Dialogue: 0,2:47:20.03,2:47:23.36,Default,,0,0,0,,"For thy dew is like\Nthe dew of morning.
+Dialogue: 0,2:47:25.20,2:47:30.13,Default,,0,0,0,,"And the earth shall\Ngive birth to her dead."
+Dialogue: 0,2:47:37.54,2:47:40.21,Default,,0,0,0,,Ah, I need a ride\Nback to the house.
+Dialogue: 0,2:47:40.21,2:47:42.91,Default,,0,0,0,,I forgot my checkbook\Nto pay the funeral director.
+Dialogue: 0,2:47:42.92,2:47:45.05,Default,,0,0,0,,They said it's\Nall taken care of.
+Dialogue: 0,2:47:45.05,2:47:46.12,Default,,0,0,0,,By whom?
+Dialogue: 0,2:47:47.05,2:47:48.79,Default,,0,0,0,,Anonymous donor.
+Dialogue: 0,2:48:32.60,2:48:36.77,Default,,0,0,0,,All those circuses back\Neast burying an empty box.
+Dialogue: 0,2:48:36.77,2:48:38.84,Default,,0,0,0,,They don't know\Nhow to honor him,
+Dialogue: 0,2:48:39.87,2:48:41.67,Default,,0,0,0,,except as a soldier.
+Dialogue: 0,2:48:43.44,2:48:46.78,Default,,0,0,0,,I've failed him in life.
+Dialogue: 0,2:48:48.25,2:48:52.05,Default,,0,0,0,,I won't fail him in death.
+Dialogue: 0,2:48:52.05,2:48:54.72,Default,,0,0,0,,Help me find the\Nothers like you.
+Dialogue: 0,2:48:54.72,2:48:56.65,Default,,0,0,0,,Perhaps they don't\Nwant to be found.
+Dialogue: 0,2:48:57.59,2:49:00.39,Default,,0,0,0,,They will. And they'll fight.
+Dialogue: 0,2:49:01.59,2:49:03.56,Default,,0,0,0,,We have to stand together.
+Dialogue: 0,2:49:11.30,2:49:14.54,Default,,0,0,0,,100 years ago, I walked\Naway from mankind.
+Dialogue: 0,2:49:16.61,2:49:18.58,Default,,0,0,0,,From a century of horrors.
+Dialogue: 0,2:49:22.15,2:49:25.85,Default,,0,0,0,,Man made a world where\Nstanding together is impossible.
+Dialogue: 0,2:49:28.92,2:49:30.85,Default,,0,0,0,,Men are still good.
+Dialogue: 0,2:49:33.32,2:49:36.23,Default,,0,0,0,,{\i1}We fight. We kill.{\i0}
+Dialogue: 0,2:49:37.43,2:49:39.83,Default,,0,0,0,,{\i1}We betray one another.{\i0}
+Dialogue: 0,2:49:41.70,2:49:43.77,Default,,0,0,0,,{\i1}But we can rebuild.{\i0}
+Dialogue: 0,2:49:45.00,2:49:46.87,Default,,0,0,0,,{\i1}We can do better.{\i0}
+Dialogue: 0,2:49:48.14,2:49:50.17,Default,,0,0,0,,{\i1}We will.{\i0}
+Dialogue: 0,2:49:50.18,2:49:51.38,Default,,0,0,0,,{\i1}We have to.{\i0}
+Dialogue: 0,2:50:14.47,2:50:16.03,Default,,0,0,0,,The others like me.
+Dialogue: 0,2:50:16.04,2:50:18.30,Default,,0,0,0,,Why did you say\Nthey'll have to fight?
+Dialogue: 0,2:50:23.71,2:50:25.94,Default,,0,0,0,,Just a feeling.
+Dialogue: 0,2:50:37.16,2:50:39.76,Default,,0,0,0,,Prisoner A-C-23-19-40.
+Dialogue: 0,2:50:39.76,2:50:42.49,Default,,0,0,0,,The Warden wants to speak\Nto you, so stand to your feet.
+Dialogue: 0,2:50:44.10,2:50:46.00,Default,,0,0,0,,I'm gonna say\Nthis one more time.
+Dialogue: 0,2:50:46.00,2:50:48.80,Default,,0,0,0,,The Warden wants to speak\Nto you, so stand to your feet.
+Dialogue: 0,2:50:56.67,2:50:58.58,Default,,0,0,0,,Turn around and face the wall.
+Dialogue: 0,2:51:00.61,2:51:03.01,Default,,0,0,0,,Place your forehead\Nagainst the wall.
+Dialogue: 0,2:51:03.02,2:51:04.92,Default,,0,0,0,,Put your hands behind your back,
+Dialogue: 0,2:51:04.92,2:51:06.98,Default,,0,0,0,,so that I can come\Nin and restrain you.
+Dialogue: 0,2:51:35.28,2:51:38.22,Default,,0,0,0,,{\i1}Whatever you do,\Nwherever you go, {\i0}
+Dialogue: 0,2:51:38.22,2:51:40.32,Default,,0,0,0,,{\i1}I'll be watching you.{\i0}
+Dialogue: 0,2:51:40.95,2:51:42.35,Default,,0,0,0,,Oh...
+Dialogue: 0,2:51:43.79,2:51:45.36,Default,,0,0,0,,Look at us.
+Dialogue: 0,2:51:46.46,2:51:48.76,Default,,0,0,0,,This is how it all caves in.
+Dialogue: 0,2:51:48.76,2:51:54.16,Default,,0,0,0,,Civilization on the Wayne\Nmanor's out the window.
+Dialogue: 0,2:51:54.17,2:51:55.73,Default,,0,0,0,,Mmm?
+Dialogue: 0,2:51:58.24,2:52:01.14,Default,,0,0,0,,But who would believe me? I...
+Dialogue: 0,2:52:01.14,2:52:03.57,Default,,0,0,0,,I'm insane.
+Dialogue: 0,2:52:04.84,2:52:07.01,Default,,0,0,0,,I'm not even fit to stand trial.
+Dialogue: 0,2:52:07.01,2:52:08.95,Default,,0,0,0,,That's right.
+Dialogue: 0,2:52:08.95,2:52:12.78,Default,,0,0,0,,We have hospitals that treat\Nthe mentally ill with compassion.
+Dialogue: 0,2:52:14.09,2:52:16.09,Default,,0,0,0,,But that's not\Nwhere you're going.
+Dialogue: 0,2:52:16.09,2:52:19.59,Default,,0,0,0,,I arranged for you to get transferred\Nto Arkham Asylum in Gotham.
+Dialogue: 0,2:52:20.99,2:52:23.53,Default,,0,0,0,,I still have some friends there.
+Dialogue: 0,2:52:23.53,2:52:25.16,Default,,0,0,0,,They're expecting you.
+Dialogue: 0,2:52:29.67,2:52:33.90,Default,,0,0,0,,But the bell's\Nalready been rung.
+Dialogue: 0,2:52:36.37,2:52:37.84,Default,,0,0,0,,And they've heard it.
+Dialogue: 0,2:52:39.68,2:52:41.45,Default,,0,0,0,,Out in the dark.
+Dialogue: 0,2:52:41.45,2:52:44.11,Default,,0,0,0,,Among the stars. Hmm.
+Dialogue: 0,2:52:47.19,2:52:50.75,Default,,0,0,0,,Ding dong, the God is dead.
+Dialogue: 0,2:53:00.13,2:53:02.93,Default,,0,0,0,,But a bell cannot be unrung!
+Dialogue: 0,2:53:04.24,2:53:07.77,Default,,0,0,0,,He's hungry. He's found us.
+Dialogue: 0,2:53:08.97,2:53:10.74,Default,,0,0,0,,And he's coming!
+Dialogue: 0,2:53:13.88,2:53:16.45,Default,,0,0,0,,Ding, ding, ding, ding,\Nding, ding, ding, ding, ding.
+Dialogue: 0,2:53:18.65,2:53:21.62,Default,,0,0,0,,Ding, ding, ding, ding,\Nding, ding, ding, ding, ding.
+Dialogue: 0,2:53:23.49,2:53:26.79,Default,,0,0,0,,Ding, ding, ding, ding,\Nding, ding, ding, ding, ding.
+Dialogue: 0,2:53:28.09,2:53:31.13,Default,,0,0,0,,{\i1}Ding, ding, ding, ding, ding.{\i0}
+Dialogue: 0,2:53:33.16,2:53:37.93,Default,,0,0,0,,{\i1}Ding, ding, ding, ding,\Nding, ding, ding, ding, ding.{\i0}
+Dialogue: 0,2:53:37.94,2:53:41.10,Default,,0,0,0,,{\i1}Ding, ding, ding, ding,\Nding, ding, ding, ding, ding.{\i0}
+Dialogue: 0,2:54:52.65,2:54:54.65,Default,,0,0,0,,{\an5\c&H51ab2b&}Improved by{\c&Hf8fc03&} {\b1}KID{\b0} {\c}\N\N{\an5\c&H51ab2b&}Resynced by{\c&Hf8fc03&} {\b1}KID{\b0} {\c}\N\N{\an5\c&H51ab2b&}Enjoy the movie(s) / show(s)

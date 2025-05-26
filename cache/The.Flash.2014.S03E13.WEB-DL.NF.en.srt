@@ -1,0 +1,4606 @@
+﻿1
+00:00:01,209 --> 00:00:02,544
+<i>Barry:
+My name is Barry Allen,</i>
+
+2
+00:00:02,586 --> 00:00:04,505
+<i>and I am
+the fastest man alive.</i>
+
+3
+00:00:04,546 --> 00:00:06,924
+<i>To the outside world, I'm
+an ordinary forensic scientist,</i>
+
+4
+00:00:06,966 --> 00:00:09,677
+<i>but secretly, with the help
+of my friends at S.T.A.R. Labs,</i>
+
+5
+00:00:09,718 --> 00:00:12,888
+<i>I fight crime and find
+other meta-humans like me.</i>
+
+6
+00:00:12,930 --> 00:00:15,599
+<i>In an attempt to stop
+the evil speedster Savitar,</i>
+
+7
+00:00:15,641 --> 00:00:17,852
+<i>I was accidentally thrust
+into the future,</i>
+
+8
+00:00:17,893 --> 00:00:20,312
+<i>and I saw him murder
+the woman that I love.</i>
+
+9
+00:00:20,354 --> 00:00:21,856
+<i>But I won't let that happen.</i>
+
+10
+00:00:21,897 --> 00:00:23,691
+<i>I'm gonna do everything
+in my power</i>
+
+11
+00:00:23,732 --> 00:00:25,901
+<i>to change the future,
+and I'm the only one</i>
+
+12
+00:00:25,943 --> 00:00:27,736
+<i>fast enough to keep her alive.</i>
+
+13
+00:00:27,778 --> 00:00:30,614
+<i>I am The Flash.</i>
+
+14
+00:00:30,656 --> 00:00:32,616
+<i>Previously on "The Flash"...</i>
+
+15
+00:00:32,658 --> 00:00:33,617
+It's definitely a meta.
+
+16
+00:00:33,659 --> 00:00:34,869
+I think this is someone new.
+
+17
+00:00:36,954 --> 00:00:38,914
+- I'm Cisco, by the way.
+You must be Gypsy.
+
+18
+00:00:38,956 --> 00:00:41,876
+So is this good-bye, then?
+- For now.
+
+19
+00:00:41,917 --> 00:00:43,168
+- Caitlin, you do not
+want to do this.
+
+20
+00:00:43,210 --> 00:00:45,629
+- Time for me to own
+who I really am.
+
+21
+00:00:45,671 --> 00:00:47,214
+- You're one of the strongest
+people I've ever known.
+
+22
+00:00:47,255 --> 00:00:48,215
+You can win this fight.
+
+23
+00:00:48,256 --> 00:00:49,884
+[warbling tone]
+
+24
+00:00:49,925 --> 00:00:51,593
+- Jesse!
+- No, no.
+
+25
+00:00:51,635 --> 00:00:53,094
+- What's wrong?
+- Grodd.
+
+26
+00:00:53,136 --> 00:00:54,596
+He's got my dad.
+
+27
+00:00:54,638 --> 00:00:57,016
+He has him in Gorilla City.
+
+28
+00:00:57,057 --> 00:01:00,435
+<i>[dramatic music]</i>
+
+29
+00:01:00,477 --> 00:01:01,896
+[creature roaring]
+
+30
+00:01:01,937 --> 00:01:02,897
+<i>♪ ♪</i>
+
+31
+00:01:02,938 --> 00:01:04,857
+- [grunting and panting]
+
+32
+00:01:04,899 --> 00:01:06,901
+[creature roaring]
+
+33
+00:01:06,942 --> 00:01:09,945
+<i>♪ ♪</i>
+
+34
+00:01:09,987 --> 00:01:12,489
+[creature shrieking]
+
+35
+00:01:12,531 --> 00:01:18,620
+<i>♪ ♪</i>
+
+36
+00:01:18,662 --> 00:01:20,121
+[creature roaring]
+
+37
+00:01:23,458 --> 00:01:24,960
+- It's been two weeks
+since he disappeared.
+
+38
+00:01:25,002 --> 00:01:27,046
+I mean, no one's seen
+or heard from him since.
+
+39
+00:01:27,086 --> 00:01:29,048
+- Slow down.
+Just start from the beginning.
+
+40
+00:01:29,088 --> 00:01:31,592
+Okay, why did your dad
+go to Gorilla City?
+
+41
+00:01:31,633 --> 00:01:33,092
+- Wait, can we slow down
+even further?
+
+42
+00:01:33,134 --> 00:01:34,386
+What the hell is
+a Gorilla City?
+
+43
+00:01:34,428 --> 00:01:36,221
+- Okay, so...
+[clears throat]
+
+44
+00:01:36,263 --> 00:01:38,682
+There are sentient,
+highly intelligent
+
+45
+00:01:38,724 --> 00:01:40,392
+evolved gorillas in Earth-2.
+
+46
+00:01:40,434 --> 00:01:43,144
+And they all live in a city
+deep in the heart of Africa.
+
+47
+00:01:43,186 --> 00:01:45,355
+- We sent Grodd there when
+he went after Fay Wray here.
+
+48
+00:01:45,397 --> 00:01:46,565
+- Grodd's there?
+
+49
+00:01:46,607 --> 00:01:47,357
+- Mm.
+
+50
+00:01:47,399 --> 00:01:48,442
+- Why on Earth, any Earth,
+
+51
+00:01:48,483 --> 00:01:49,777
+would your father
+want to go there?
+
+52
+00:01:49,818 --> 00:01:51,194
+- I mean, we received
+a mathematical cryptogram
+
+53
+00:01:51,236 --> 00:01:52,446
+at our S.T.A.R. Labs.
+
+54
+00:01:52,487 --> 00:01:53,989
+It was highly complex.
+
+55
+00:01:54,031 --> 00:01:56,199
+It took a week to decode it,
+but my dad and I did.
+
+56
+00:01:56,241 --> 00:01:57,659
+- What did it say?
+
+57
+00:01:57,701 --> 00:01:59,828
+- It was an invitation
+
+58
+00:01:59,870 --> 00:02:02,247
+from the gorillas
+to my dad.
+
+59
+00:02:02,289 --> 00:02:03,498
+- Why Harry?
+
+60
+00:02:03,540 --> 00:02:05,125
+- They wanted to meet him.
+
+61
+00:02:05,166 --> 00:02:08,503
+So he mounted an expedition
+with ten other people,
+
+62
+00:02:08,545 --> 00:02:09,964
+and they went into the jungle.
+
+63
+00:02:10,005 --> 00:02:11,882
+But they failed
+multiple check-ins,
+
+64
+00:02:11,924 --> 00:02:14,802
+and a search party
+went in after them.
+
+65
+00:02:14,843 --> 00:02:17,178
+But all they found
+were the bodies...
+
+66
+00:02:17,220 --> 00:02:18,806
+all of them beaten to death.
+
+67
+00:02:18,847 --> 00:02:21,516
+<i>[somber music]</i>
+
+68
+00:02:21,558 --> 00:02:23,560
+But no one's seen my dad.
+
+69
+00:02:23,602 --> 00:02:25,938
+<i>♪ ♪</i>
+
+70
+00:02:25,980 --> 00:02:27,773
+I mean, is he...
+- No.
+
+71
+00:02:27,815 --> 00:02:29,775
+No, he's alive.
+They...
+
+72
+00:02:29,817 --> 00:02:31,652
+they went to a lot of trouble
+to get him there.
+
+73
+00:02:31,693 --> 00:02:32,987
+They need him for something.
+
+74
+00:02:33,028 --> 00:02:34,863
+We're gonna figure out
+what that is.
+
+75
+00:02:34,905 --> 00:02:37,365
+- Oh! There you guys are.
+
+76
+00:02:37,407 --> 00:02:38,450
+I've been looking
+all over for you.
+
+77
+00:02:38,492 --> 00:02:39,868
+Are we going for coffee
+or what?
+
+78
+00:02:39,910 --> 00:02:42,955
+- Dad!
+- Ah, oh.
+
+79
+00:02:42,997 --> 00:02:46,291
+Yes, that's how you say
+good morning, people...
+
+80
+00:02:46,333 --> 00:02:47,835
+with hugs.
+Hi!
+
+81
+00:02:47,876 --> 00:02:49,962
+- Jesse, that's not
+who you think it is.
+
+82
+00:02:50,004 --> 00:02:51,713
+This is H.R.
+
+83
+00:02:51,755 --> 00:02:54,049
+You met him briefly before
+you left last time.
+
+84
+00:02:54,091 --> 00:02:55,467
+- At your service, madame.
+
+85
+00:02:55,509 --> 00:02:57,094
+- He's Harry's replacement.
+
+86
+00:02:57,136 --> 00:02:58,512
+- Some would say improvement.
+
+87
+00:02:58,553 --> 00:03:00,681
+- Um, this is Harry's daughter.
+
+88
+00:03:00,722 --> 00:03:02,599
+- Yeah.
+- He's been kidnapped.
+
+89
+00:03:02,641 --> 00:03:04,768
+- He...I didn't know.
+I'm so s...
+
+90
+00:03:04,810 --> 00:03:06,603
+I thought...
+- Sorry about that.
+
+91
+00:03:06,645 --> 00:03:07,980
+- I'm sorry, too.
+
+92
+00:03:08,022 --> 00:03:09,773
+I'm sorry I took the smile
+from your face.
+
+93
+00:03:13,819 --> 00:03:15,696
+- What are you
+thinking about?
+
+94
+00:03:15,737 --> 00:03:18,782
+- [sighs]
+The future.
+
+95
+00:03:18,824 --> 00:03:21,200
+This headline from the future:
+
+96
+00:03:21,242 --> 00:03:23,244
+the city's still recovering
+from a gorilla attack.
+
+97
+00:03:23,286 --> 00:03:24,746
+- So you're thinking
+this headline
+
+98
+00:03:24,788 --> 00:03:27,082
+and Harry being taken
+are tied together.
+
+99
+00:03:27,124 --> 00:03:29,501
+- I mean, it can't be
+a coincidence, right?
+
+100
+00:03:29,543 --> 00:03:31,170
+Harry getting lured
+to Gorilla City?
+
+101
+00:03:31,210 --> 00:03:32,963
+Grodd must be planning
+something.
+
+102
+00:03:33,005 --> 00:03:35,049
+- Seems like he's planning
+to come back to this Earth.
+
+103
+00:03:35,090 --> 00:03:36,842
+- And not alone,
+by the sound of it.
+
+104
+00:03:36,884 --> 00:03:38,760
+- If we rescue Harry,
+then maybe that stops
+
+105
+00:03:38,802 --> 00:03:40,095
+whatever Grodd's planning here,
+
+106
+00:03:40,137 --> 00:03:41,680
+and maybe that changes
+the future.
+
+107
+00:03:41,722 --> 00:03:43,098
+- Which would change my future.
+
+108
+00:03:43,140 --> 00:03:44,224
+Joe: Mm.
+
+109
+00:03:44,265 --> 00:03:46,143
+So we save Harry,
+we save Iris.
+
+110
+00:03:46,185 --> 00:03:47,435
+But you're not sure.
+
+111
+00:03:47,477 --> 00:03:48,896
+- No, but...
+
+112
+00:03:48,937 --> 00:03:50,689
+I'm going either way.
+
+113
+00:03:50,731 --> 00:03:53,525
+Harry's my friend.
+I'm not gonna just abandon him.
+
+114
+00:03:53,567 --> 00:03:55,152
+I'm going back to Earth-2.
+
+115
+00:03:55,194 --> 00:03:57,654
+- And I suppose you'll want
+somebody to come with you
+
+116
+00:03:57,696 --> 00:03:59,656
+who's gonna open
+those breaches for you?
+
+117
+00:03:59,698 --> 00:04:02,117
+- We had so much fun
+last time.
+
+118
+00:04:02,159 --> 00:04:05,412
+- Fun-ish.
+I'm in.
+
+119
+00:04:05,453 --> 00:04:06,830
+- I'm gonna come too.
+
+120
+00:04:06,872 --> 00:04:08,415
+I have a special connection
+with Grodd.
+
+121
+00:04:08,456 --> 00:04:10,084
+Maybe we can use that
+to get through to him.
+
+122
+00:04:10,125 --> 00:04:12,419
+- Yes, okay.
+- Great, yeah, I'm coming too.
+
+123
+00:04:12,460 --> 00:04:14,421
+- No.
+I'm sorry, Jesse, no.
+
+124
+00:04:14,462 --> 00:04:16,506
+- Look, I didn't come here
+for you to take all the risk.
+
+125
+00:04:16,548 --> 00:04:17,507
+I'm going to help.
+
+126
+00:04:17,549 --> 00:04:18,842
+- Your dad would kill me
+
+127
+00:04:18,884 --> 00:04:19,927
+if I let you come along.
+
+128
+00:04:19,968 --> 00:04:20,969
+- I'm a Speedster now, okay?
+
+129
+00:04:21,011 --> 00:04:22,345
+I can take care of myself.
+
+130
+00:04:22,387 --> 00:04:23,680
+- I know, which is
+exactly why
+
+131
+00:04:23,722 --> 00:04:24,932
+I need you to stay here.
+
+132
+00:04:24,973 --> 00:04:26,641
+I mean, this city
+needs protecting
+
+133
+00:04:26,683 --> 00:04:28,185
+while we're gone.
+
+134
+00:04:28,227 --> 00:04:30,353
+Besides, maybe you can teach
+Wally a thing or two.
+
+135
+00:04:31,772 --> 00:04:33,481
+- Wait, what is he
+talking about?
+
+136
+00:04:33,523 --> 00:04:34,983
+- Um...
+
+137
+00:04:35,025 --> 00:04:37,778
+[vibrating]
+- Wow.
+
+138
+00:04:37,819 --> 00:04:39,404
+So you're...
+you're a Speedster now
+
+139
+00:04:39,446 --> 00:04:41,364
+- Yeah, we're both
+Speedsters now.
+
+140
+00:04:41,406 --> 00:04:43,951
+- Great, yeah,
+that's, uh...
+
+141
+00:04:43,992 --> 00:04:46,286
+[clears throat]
+That's awesome.
+
+142
+00:04:49,123 --> 00:04:51,959
+- I, um...I thought she'd be
+more excited than that.
+
+143
+00:04:54,962 --> 00:04:57,839
+- Hey, Julian, would you maybe
+be able to cover for me
+
+144
+00:04:57,881 --> 00:05:00,050
+at work for the next few days?
+
+145
+00:05:00,092 --> 00:05:01,218
+- Few days? Why?
+
+146
+00:05:01,260 --> 00:05:03,804
+- I...I just, um,
+have a thing...
+
+147
+00:05:03,845 --> 00:05:05,097
+we're...it's just...
+
+148
+00:05:05,139 --> 00:05:06,140
+it's Flash stuff.
+
+149
+00:05:06,181 --> 00:05:07,390
+- Such as?
+
+150
+00:05:07,432 --> 00:05:09,101
+- [exhales sharply]
+
+151
+00:05:09,143 --> 00:05:10,811
+A friends of ours is lost
+
+152
+00:05:10,852 --> 00:05:12,353
+on a parallel Earth,
+
+153
+00:05:12,395 --> 00:05:14,522
+and we're gonna go get him back.
+
+154
+00:05:14,564 --> 00:05:15,983
+- A parallel Earth?
+- Yeah.
+
+155
+00:05:16,024 --> 00:05:19,987
+- This is the...
+this is the multiverse.
+
+156
+00:05:20,028 --> 00:05:21,362
+[exhales]
+
+157
+00:05:21,404 --> 00:05:22,739
+I'm fascinated.
+
+158
+00:05:22,781 --> 00:05:24,699
+And do you often travel
+to other Earths?
+
+159
+00:05:24,741 --> 00:05:26,952
+- No, I...
+well, when I have to.
+
+160
+00:05:26,994 --> 00:05:29,704
+Look, Julian, will you
+just tell Singh that,
+
+161
+00:05:29,746 --> 00:05:31,623
+I don't know, I'm under
+the weather or something?
+
+162
+00:05:31,665 --> 00:05:34,126
+It's...you know, it is kind of
+what we do on Team Flash.
+
+163
+00:05:34,168 --> 00:05:35,543
+We cover for each other.
+
+164
+00:05:35,585 --> 00:05:37,129
+- What does Caitlin think of all
+this multiverse hopping?
+
+165
+00:05:37,171 --> 00:05:39,714
+Does she approve?
+- She's coming with me.
+
+166
+00:05:39,756 --> 00:05:41,549
+- You're letting her go?
+- It's her choice.
+
+167
+00:05:41,591 --> 00:05:43,885
+- Allen, it's not
+a wise move, surely.
+
+168
+00:05:43,927 --> 00:05:45,846
+She can barely control
+her cold powers as is.
+
+169
+00:05:45,887 --> 00:05:48,556
+I mean...
+- We might need her for Grodd.
+
+170
+00:05:48,598 --> 00:05:50,892
+- Grodd? Gr...
+
+171
+00:05:50,934 --> 00:05:52,186
+Telepathic gorilla?
+
+172
+00:05:52,227 --> 00:05:53,812
+- Yeah.
+- Where...where are you going?
+
+173
+00:05:53,854 --> 00:05:55,189
+Are you going
+to Planet of the Apes?
+
+174
+00:05:55,230 --> 00:05:56,690
+- No, it's just a city
+of them, okay?
+
+175
+00:05:56,731 --> 00:05:58,066
+Will you cover for me?
+
+176
+00:05:58,108 --> 00:05:59,526
+- Are you going
+to Planet of the Apes?
+
+177
+00:05:59,567 --> 00:06:01,028
+- I'm not going
+to Planet of the Apes, okay?
+
+178
+00:06:01,069 --> 00:06:02,445
+Calm down.
+Will you cover for me?
+
+179
+00:06:02,487 --> 00:06:03,697
+- I got you.
+Yeah, of course.
+
+180
+00:06:03,738 --> 00:06:05,032
+- Okay, thank you.
+See you in a few days.
+
+181
+00:06:05,073 --> 00:06:07,034
+- All right, now.
+
+182
+00:06:09,870 --> 00:06:11,913
+<i>- And make sure Wally doesn't...
+- I won't.</i>
+
+183
+00:06:11,955 --> 00:06:13,748
+- Because, you know, sometimes
+he can be a little...
+
+184
+00:06:13,790 --> 00:06:14,749
+- Barry...
+- You know,
+
+185
+00:06:14,791 --> 00:06:15,750
+if given the opportunity...
+
+186
+00:06:15,792 --> 00:06:17,127
+- Barry, I am very good
+
+187
+00:06:17,169 --> 00:06:18,295
+at bossing my little brother
+around, okay?
+
+188
+00:06:18,337 --> 00:06:19,671
+Don't worry.
+- All right.
+
+189
+00:06:19,713 --> 00:06:21,340
+- Just please don't do
+anything stupid.
+
+190
+00:06:21,380 --> 00:06:23,925
+- You mean like voluntarily
+going to a city of super apes?
+
+191
+00:06:23,967 --> 00:06:26,636
+- I'm being serious.
+Rescue Harry.
+
+192
+00:06:26,678 --> 00:06:29,723
+But other than that, you...you
+don't have to do this for me.
+
+193
+00:06:29,764 --> 00:06:31,766
+- Everything I do is for you.
+
+194
+00:06:34,561 --> 00:06:36,146
+- Good.
+
+195
+00:06:36,188 --> 00:06:37,856
+- Y'all know Wally
+can hear you, right?
+
+196
+00:06:37,898 --> 00:06:39,566
+- Sorry, Wally.
+
+197
+00:06:39,607 --> 00:06:40,859
+- Be safe.
+
+198
+00:06:40,901 --> 00:06:42,986
+Hey, you see anything hinky,
+you run.
+
+199
+00:06:43,028 --> 00:06:44,529
+Listen to me.
+I don't need to tell you that.
+
+200
+00:06:44,571 --> 00:06:47,366
+- I promise.
+- All right.
+
+201
+00:06:47,406 --> 00:06:48,533
+[sighs]
+
+202
+00:06:48,575 --> 00:06:52,120
+- [laughing]
+- Detective.
+
+203
+00:06:52,162 --> 00:06:53,412
+- [laughs]
+- Hmm.
+
+204
+00:06:53,454 --> 00:06:55,790
+[giggles]
+Indiana Jones much?
+
+205
+00:06:55,832 --> 00:06:58,126
+- Cisco, my friend,
+this is not my first expedition,
+
+206
+00:06:58,168 --> 00:07:00,628
+and believe me,
+this is the perfect attire.
+
+207
+00:07:00,670 --> 00:07:02,339
+- Wait, Julian,
+what's going on?
+
+208
+00:07:02,381 --> 00:07:04,258
+I thought you were gonna
+cover for me.
+
+209
+00:07:04,299 --> 00:07:05,842
+- I spoke to Captain Singh.
+He thinks
+
+210
+00:07:05,884 --> 00:07:08,511
+we're at a morphology conference
+up in Bludhaven.
+
+211
+00:07:08,553 --> 00:07:11,056
+So if it's all the same
+to you...
+
+212
+00:07:11,098 --> 00:07:12,349
+- All right.
+
+213
+00:07:12,391 --> 00:07:13,641
+- You don't have to come,
+Julian.
+
+214
+00:07:13,683 --> 00:07:15,269
+You don't even know Harry.
+
+215
+00:07:15,310 --> 00:07:17,854
+- [chuckles] A chance to travel
+to another dimension...
+
+216
+00:07:17,896 --> 00:07:19,356
+I mean, I wasn't
+gonna miss that.
+
+217
+00:07:19,398 --> 00:07:21,024
+- We're not going sightseeing.
+
+218
+00:07:23,068 --> 00:07:25,195
+- Neither am I.
+
+219
+00:07:25,237 --> 00:07:26,238
+- Well, damn.
+
+220
+00:07:26,280 --> 00:07:28,198
+- All right, Jesse, Wally,
+
+221
+00:07:28,240 --> 00:07:30,117
+you make sure this city's safe
+while I'm gone, all right?
+
+222
+00:07:30,158 --> 00:07:31,910
+- We will.
+
+223
+00:07:31,952 --> 00:07:33,494
+- Hey, Barry.
+
+224
+00:07:33,536 --> 00:07:35,622
+If you...if you see my dad,
+just tell him...
+
+225
+00:07:35,663 --> 00:07:36,957
+- You'll see him
+real soon, Jesse.
+
+226
+00:07:36,998 --> 00:07:38,666
+Speedster's honor.
+
+227
+00:07:38,708 --> 00:07:40,127
+<i>[dramatic music]</i>
+
+228
+00:07:40,168 --> 00:07:43,297
+All right, let's do this.
+- Okay.
+
+229
+00:07:43,338 --> 00:07:45,882
+Earth-2, here we come.
+
+230
+00:07:45,924 --> 00:07:48,843
+[warbling tone]
+
+231
+00:07:48,885 --> 00:07:56,226
+<i>♪ ♪</i>
+
+232
+00:07:56,268 --> 00:07:58,937
+[energy surging]
+
+233
+00:08:00,730 --> 00:08:02,149
+[panting] How was that?
+
+234
+00:08:02,190 --> 00:08:05,110
+- Bloody brilliant.
+- [laughs]
+
+235
+00:08:05,152 --> 00:08:06,945
+- Wow.
+
+236
+00:08:06,987 --> 00:08:08,488
+[creatures grunting]
+
+237
+00:08:08,529 --> 00:08:09,781
+- Well, we made it.
+
+238
+00:08:09,823 --> 00:08:12,617
+[creatures grunting]
+
+239
+00:08:12,659 --> 00:08:13,868
+<i>♪ ♪</i>
+
+240
+00:08:13,910 --> 00:08:15,620
+- Welcome to the jungle,
+baby.
+
+241
+00:08:15,662 --> 00:08:19,540
+<i>♪ ♪</i>
+
+242
+00:08:26,298 --> 00:08:28,300
+- [sighs]
+Earth-2 Africa.
+
+243
+00:08:28,342 --> 00:08:29,926
+Not hot.
+
+244
+00:08:29,968 --> 00:08:31,928
+Guess global warming's
+not really a thing here.
+
+245
+00:08:31,970 --> 00:08:34,473
+[bug buzzing, hand slaps]
+But bugs are.
+
+246
+00:08:34,514 --> 00:08:35,849
+- Someone please
+help me out.
+
+247
+00:08:35,890 --> 00:08:37,892
+How exactly does saving
+someone on this Earth
+
+248
+00:08:37,934 --> 00:08:39,560
+prevent an attack on ours?
+
+249
+00:08:39,602 --> 00:08:41,104
+- If Grodd is planning
+to attack,
+
+250
+00:08:41,146 --> 00:08:43,064
+he's gonna need to open
+a breach to our Earth,
+
+251
+00:08:43,106 --> 00:08:44,899
+and the only one over here
+that can open one is...
+
+252
+00:08:44,941 --> 00:08:47,110
+- Harrison Wells.
+- Harrison Wells, yeah.
+
+253
+00:08:47,152 --> 00:08:48,903
+So if we save him
+from Grodd,
+
+254
+00:08:48,945 --> 00:08:50,822
+then he can't get
+to our Earth,
+
+255
+00:08:50,864 --> 00:08:52,866
+the attack never happens,
+we change the future,
+
+256
+00:08:52,907 --> 00:08:55,660
+and we're one step closer
+to saving Iris.
+
+257
+00:08:59,414 --> 00:09:01,375
+[footsteps tapping]
+- Hey.
+
+258
+00:09:01,416 --> 00:09:03,418
+You want to go for a run?
+
+259
+00:09:03,460 --> 00:09:06,880
+- Uh, yeah, yeah.
+Maybe later.
+
+260
+00:09:06,921 --> 00:09:08,298
+- Are you okay?
+
+261
+00:09:08,340 --> 00:09:10,425
+- Yeah. Yeah, I'm fine.
+
+262
+00:09:10,467 --> 00:09:12,427
+- Look, I know I haven't been
+great at keeping in touch.
+
+263
+00:09:12,469 --> 00:09:14,721
+It's just everything's
+been so crazy
+
+264
+00:09:14,762 --> 00:09:16,931
+trying to train with Barry
+and shadowing him,
+
+265
+00:09:16,973 --> 00:09:19,851
+and I just haven't had that
+much time for other things.
+
+266
+00:09:19,893 --> 00:09:21,102
+- Yeah, or other people.
+
+267
+00:09:21,144 --> 00:09:22,729
+- That is not what I meant.
+
+268
+00:09:22,770 --> 00:09:25,940
+- No, look, I...I get it.
+Trust me.
+
+269
+00:09:25,982 --> 00:09:27,817
+It's not easy
+being a hero, is it?
+
+270
+00:09:27,859 --> 00:09:30,570
+- No, but I love
+every minute of it.
+
+271
+00:09:32,113 --> 00:09:33,990
+- Great.
+
+272
+00:09:34,032 --> 00:09:35,825
+- Are you sure you're okay?
+
+273
+00:09:35,867 --> 00:09:37,244
+Because...
+- Yeah.
+
+274
+00:09:37,285 --> 00:09:38,953
+I'm just worried about my dad.
+
+275
+00:09:38,995 --> 00:09:41,956
+<i>[pensive music]</i>
+
+276
+00:09:41,998 --> 00:09:45,126
+<i>♪ ♪</i>
+
+277
+00:09:45,168 --> 00:09:46,378
+- Hey.
+- [whispers] Hey.
+
+278
+00:09:46,420 --> 00:09:48,922
+<i>♪ ♪</i>
+
+279
+00:09:48,963 --> 00:09:51,841
+- I hope we didn't
+interrupt you two.
+
+280
+00:09:51,883 --> 00:09:55,554
+- [sighs] Nope.
+Nothing to interrupt.
+
+281
+00:09:55,595 --> 00:09:56,804
+- Mm.
+- Aren't you...
+
+282
+00:09:56,846 --> 00:09:58,348
+you aren't happy she's back?
+
+283
+00:09:58,390 --> 00:10:00,225
+- I am.
+I just wish she felt the same.
+
+284
+00:10:00,267 --> 00:10:02,519
+Ever since she got here, she's
+been acting so weird with me.
+
+285
+00:10:02,561 --> 00:10:04,854
+I...I don't know if it's
+because I have powers
+
+286
+00:10:04,896 --> 00:10:06,773
+or if it's just me.
+
+287
+00:10:06,814 --> 00:10:08,733
+- Wally, she's probably
+still just upset
+
+288
+00:10:08,775 --> 00:10:10,360
+because her father's
+missing, right?
+
+289
+00:10:10,402 --> 00:10:11,819
+- Yeah, it's hard to focus
+on other things
+
+290
+00:10:11,861 --> 00:10:14,072
+when something like that
+is weighing you down.
+
+291
+00:10:14,114 --> 00:10:15,365
+- Yeah, Wally.
+She'll be fine.
+
+292
+00:10:15,407 --> 00:10:17,033
+Just give her some time,
+
+293
+00:10:17,075 --> 00:10:19,244
+and then, you know,
+lock it down.
+
+294
+00:10:19,286 --> 00:10:21,162
+- Uhh, lock it down, hmm?
+- Yeah.
+
+295
+00:10:21,204 --> 00:10:22,414
+What, you think
+I didn't notice
+
+296
+00:10:22,456 --> 00:10:24,082
+that your Facebook profile
+still says "single"?
+
+297
+00:10:24,124 --> 00:10:26,126
+- What? I mean, technically,
+I'm still single.
+
+298
+00:10:26,167 --> 00:10:28,086
+[alarms beeping]
+
+299
+00:10:30,088 --> 00:10:31,672
+- What was it?
+
+300
+00:10:31,714 --> 00:10:33,508
+- Ugh, robbery in progress
+at O'Sullivan Bank.
+
+301
+00:10:33,550 --> 00:10:34,884
+- You two go.
+
+302
+00:10:34,926 --> 00:10:36,470
+<i>[rousing music]</i>
+
+303
+00:10:36,511 --> 00:10:37,887
+[whooshing]
+
+304
+00:10:37,929 --> 00:10:39,389
+[papers rustling]
+
+305
+00:10:39,431 --> 00:10:43,310
+<i>♪ ♪</i>
+
+306
+00:10:43,351 --> 00:10:45,770
+- Come on, let's go.
+[whooshing]
+
+307
+00:10:45,812 --> 00:10:48,189
+- Didn't hear the news, huh?
+- What news?
+
+308
+00:10:48,231 --> 00:10:50,442
+- [laughs] That you don't
+mess with Kid Flash.
+
+309
+00:10:50,484 --> 00:10:51,985
+- We got to get back
+to our friends.
+
+310
+00:10:52,026 --> 00:10:53,111
+They're expecting us.
+
+311
+00:10:53,153 --> 00:10:54,654
+- Yeah, they picked
+some real winners.
+
+312
+00:10:54,695 --> 00:10:58,074
+- I know, which is more
+than I can say for you two.
+
+313
+00:10:58,116 --> 00:10:59,159
+<i>♪ ♪</i>
+
+314
+00:10:59,200 --> 00:11:00,577
+- Be right back.
+
+315
+00:11:00,619 --> 00:11:02,120
+[whooshing]
+
+316
+00:11:02,162 --> 00:11:03,913
+[blows thudding,
+men grunting and groaning]
+
+317
+00:11:03,955 --> 00:11:05,582
+[whooshing]
+
+318
+00:11:05,624 --> 00:11:07,708
+Sorry, I...
+I had to stretch my legs.
+
+319
+00:11:07,750 --> 00:11:09,043
+- Mm.
+- Hey, guys, come out.
+
+320
+00:11:09,085 --> 00:11:10,753
+[indistinct chatter, applause]
+
+321
+00:11:10,795 --> 00:11:13,423
+- Oh, it's...it's nothing
+to see here, guys.
+
+322
+00:11:13,465 --> 00:11:15,758
+It's just a couple fools getting
+their asses handed to 'em.
+
+323
+00:11:15,800 --> 00:11:17,218
+[applause]
+Thank you.
+
+324
+00:11:17,260 --> 00:11:18,345
+Oh, my gosh, thank you.
+
+325
+00:11:18,386 --> 00:11:20,888
+[laughs]
+[applause continues]
+
+326
+00:11:20,930 --> 00:11:23,433
+<i>♪ ♪</i>
+
+327
+00:11:23,475 --> 00:11:26,894
+[device beeping]
+
+328
+00:11:26,936 --> 00:11:28,146
+- Ah.
+
+329
+00:11:28,188 --> 00:11:30,857
+[sighing]
+
+330
+00:11:30,898 --> 00:11:32,359
+Want some water?
+
+331
+00:11:32,400 --> 00:11:34,444
+- I'm okay, thanks.
+
+332
+00:11:34,486 --> 00:11:37,447
+- It's important to stay
+hydrated on a parallel Earth.
+
+333
+00:11:37,489 --> 00:11:40,699
+- So weird being back here
+on this alternate universe.
+
+334
+00:11:40,741 --> 00:11:42,369
+This is where
+I met my doppelganger,
+
+335
+00:11:42,410 --> 00:11:43,537
+the evil one.
+
+336
+00:11:43,578 --> 00:11:45,121
+Killer Frost.
+- Ah.
+
+337
+00:11:45,163 --> 00:11:48,791
+- She's the one I'm always
+afraid of becoming.
+
+338
+00:11:48,833 --> 00:11:50,377
+- And where is she now?
+
+339
+00:11:50,418 --> 00:11:52,795
+- Dead.
+
+340
+00:11:52,837 --> 00:11:54,631
+- That's not gonna happen
+to you, Caitlin.
+
+341
+00:11:54,673 --> 00:11:56,591
+<i>[pensive music]</i>
+
+342
+00:11:56,633 --> 00:11:58,176
+- I'm glad you came
+with us, Julian.
+
+343
+00:11:58,218 --> 00:12:00,845
+You're a nice addition
+to the team.
+
+344
+00:12:00,887 --> 00:12:02,681
+- Yeah, well,
+
+345
+00:12:02,721 --> 00:12:04,807
+I live for danger.
+
+346
+00:12:04,849 --> 00:12:07,185
+[device beeping]
+
+347
+00:12:07,227 --> 00:12:08,769
+- We're close, guys.
+
+348
+00:12:08,811 --> 00:12:11,772
+<i>[tense music]</i>
+
+349
+00:12:11,814 --> 00:12:16,944
+<i>♪ ♪</i>
+
+350
+00:12:16,986 --> 00:12:19,030
+[beeping continues]
+
+351
+00:12:19,072 --> 00:12:20,407
+[device trilling]
+
+352
+00:12:20,448 --> 00:12:21,700
+- Do you hear that?
+
+353
+00:12:21,740 --> 00:12:23,451
+- This is it.
+
+354
+00:12:23,493 --> 00:12:31,251
+<i>♪ ♪</i>
+
+355
+00:12:31,292 --> 00:12:33,752
+[trilling continues]
+
+356
+00:12:33,794 --> 00:12:36,755
+<i>[foreboding music]</i>
+
+357
+00:12:36,797 --> 00:12:38,466
+<i>♪ ♪</i>
+
+358
+00:12:38,508 --> 00:12:39,884
+- It's a trap.
+
+359
+00:12:39,926 --> 00:12:41,844
+[darts whizzing]
+Ugh!
+
+360
+00:12:41,886 --> 00:12:43,137
+[all groaning]
+
+361
+00:12:43,179 --> 00:12:46,140
+<i>[dramatic music]</i>
+
+362
+00:12:46,182 --> 00:12:51,312
+<i>♪ ♪</i>
+
+363
+00:12:51,354 --> 00:12:53,314
+<i>- [echoing] Welcome, Caitlin.</i>
+
+364
+00:12:53,356 --> 00:12:55,900
+<i>Knew you'd come...</i>
+
+365
+00:12:55,942 --> 00:12:57,611
+<i>Flash.</i>
+
+366
+00:13:00,572 --> 00:13:03,742
+<i>[dramatic music]</i>
+
+367
+00:13:03,782 --> 00:13:06,453
+[gorillas grunting]
+
+368
+00:13:06,494 --> 00:13:13,418
+<i>♪ ♪</i>
+
+369
+00:13:15,836 --> 00:13:18,797
+<i>[eerie music]</i>
+
+370
+00:13:18,839 --> 00:13:21,092
+<i>♪ ♪</i>
+
+371
+00:13:21,134 --> 00:13:22,761
+[distant roaring]
+
+372
+00:13:22,801 --> 00:13:25,012
+- [groans]
+
+373
+00:13:27,181 --> 00:13:28,975
+[creature growls]
+
+374
+00:13:29,016 --> 00:13:31,645
+<i>[foreboding music]</i>
+
+375
+00:13:31,686 --> 00:13:34,147
+- [sighs]
+
+376
+00:13:34,188 --> 00:13:36,149
+- You guys all right?
+
+377
+00:13:36,190 --> 00:13:37,400
+- Yeah, I'm okay.
+
+378
+00:13:37,442 --> 00:13:38,943
+- Yeah, me too.
+
+379
+00:13:38,985 --> 00:13:41,613
+- I've lost my gun,
+but I'm all right.
+
+380
+00:13:41,655 --> 00:13:43,990
+- Well, looks like you're gonna
+have to phase us out of here.
+
+381
+00:13:44,031 --> 00:13:45,492
+<i>♪ ♪</i>
+
+382
+00:13:45,533 --> 00:13:48,453
+[faint buzzing]
+
+383
+00:13:48,495 --> 00:13:49,454
+[buzzing fades]
+
+384
+00:13:49,496 --> 00:13:51,080
+- I can't. I...
+
+385
+00:13:51,122 --> 00:13:53,249
+I don't know.
+Something's holding me back.
+
+386
+00:13:53,291 --> 00:13:55,460
+Can you open a breach?
+
+387
+00:13:55,502 --> 00:13:58,879
+[warbling tone]
+
+388
+00:13:58,921 --> 00:14:00,131
+[warbling fades]
+
+389
+00:14:00,173 --> 00:14:01,633
+- No dice.
+- Yeah.
+
+390
+00:14:01,675 --> 00:14:04,719
+I don't think it's the cell.
+I...
+
+391
+00:14:04,761 --> 00:14:07,639
+Grodd must be dampening
+our powers somehow.
+
+392
+00:14:07,681 --> 00:14:08,889
+- Okay.
+
+393
+00:14:08,931 --> 00:14:11,559
+[footsteps thudding]
+
+394
+00:14:11,601 --> 00:14:14,895
+<i>♪ ♪</i>
+
+395
+00:14:14,937 --> 00:14:17,607
+- Harry?
+
+396
+00:14:17,649 --> 00:14:18,983
+[sighs]
+
+397
+00:14:19,025 --> 00:14:19,984
+You're all right.
+
+398
+00:14:20,026 --> 00:14:22,278
+- Wells. Hey!
+
+399
+00:14:22,320 --> 00:14:23,571
+You got to help us
+get out of here
+
+400
+00:14:23,613 --> 00:14:25,072
+before the gorillas come back.
+
+401
+00:14:27,158 --> 00:14:28,702
+- Hello, Flash.
+
+402
+00:14:28,743 --> 00:14:31,371
+[growling and screeching]
+
+403
+00:14:31,412 --> 00:14:33,289
+- Grodd.
+- What?
+
+404
+00:14:33,331 --> 00:14:35,542
+That's Grodd the gorilla?
+He's talking through Wells?
+
+405
+00:14:35,583 --> 00:14:37,251
+That's a...a thing?
+- Yeah.
+
+406
+00:14:37,293 --> 00:14:39,003
+Yeah, sort of trips you out
+at first, but trust me,
+
+407
+00:14:39,045 --> 00:14:40,046
+you get used to it.
+
+408
+00:14:40,087 --> 00:14:42,882
+- Grodd, let him go.
+
+409
+00:14:42,923 --> 00:14:45,009
+This is between you and me.
+
+410
+00:14:45,051 --> 00:14:47,637
+- Not yet.
+
+411
+00:14:47,679 --> 00:14:49,764
+I need him.
+- For what?
+
+412
+00:14:49,806 --> 00:14:51,349
+Why'd you lure him here?
+
+413
+00:14:51,391 --> 00:14:53,267
+- For you.
+
+414
+00:14:53,309 --> 00:14:55,770
+Need your help.
+
+415
+00:14:55,812 --> 00:14:59,106
+- Help? Got a funny way
+of asking for it.
+
+416
+00:14:59,148 --> 00:15:00,734
+- You sent me here!
+
+417
+00:15:00,775 --> 00:15:02,443
+Remember?
+
+418
+00:15:02,485 --> 00:15:05,029
+[growling]
+
+419
+00:15:05,071 --> 00:15:06,364
+[roaring]
+
+420
+00:15:06,406 --> 00:15:07,990
+To live in this hell!
+
+421
+00:15:08,032 --> 00:15:10,451
+Where I am forced to serve
+
+422
+00:15:10,493 --> 00:15:12,953
+under the rule of Solovar.
+
+423
+00:15:12,995 --> 00:15:14,205
+- Who's Solovar?
+
+424
+00:15:14,247 --> 00:15:15,956
+- Leader of Gorilla Kind.
+
+425
+00:15:15,998 --> 00:15:18,000
+Ruler of Gorilla City.
+
+426
+00:15:18,042 --> 00:15:20,503
+And now...
+
+427
+00:15:20,545 --> 00:15:22,463
+he wants to rule the humans.
+
+428
+00:15:22,505 --> 00:15:25,425
+He will bring war
+to your Earth.
+
+429
+00:15:25,466 --> 00:15:28,010
+- Why?
+- He has seen many conflicts
+
+430
+00:15:28,052 --> 00:15:30,930
+between gorillas and humans.
+
+431
+00:15:30,971 --> 00:15:33,182
+He is afraid the humans
+will attack,
+
+432
+00:15:33,224 --> 00:15:35,101
+but now that you're here,
+
+433
+00:15:35,142 --> 00:15:37,604
+he will bring the fight to you.
+
+434
+00:15:37,645 --> 00:15:39,814
+- So you lured us here
+to stop him?
+
+435
+00:15:39,856 --> 00:15:42,692
+- As trespassers...
+
+436
+00:15:42,734 --> 00:15:45,319
+you will be sent
+to the arena
+
+437
+00:15:45,361 --> 00:15:47,614
+and executed.
+
+438
+00:15:47,655 --> 00:15:49,365
+- What? How about a signpost
+at the front?
+
+439
+00:15:49,407 --> 00:15:50,991
+"All trespassers
+will be executed."
+
+440
+00:15:51,033 --> 00:15:52,243
+That wouldn't be
+the worst idea, would it?
+
+441
+00:15:52,285 --> 00:15:54,913
+- Will be Solovar's great honor
+
+442
+00:15:54,954 --> 00:15:57,164
+to kill you...
+
+443
+00:15:57,206 --> 00:15:58,541
+himself.
+
+444
+00:15:58,583 --> 00:16:01,461
+- Mm.
+- But, Flash...
+
+445
+00:16:01,502 --> 00:16:04,839
+if he were to be defeated,
+
+446
+00:16:04,881 --> 00:16:07,842
+the other gorillas
+would see his weakness
+
+447
+00:16:07,884 --> 00:16:10,303
+and would no longer
+follow him.
+
+448
+00:16:10,344 --> 00:16:12,305
+- Well, I'm not
+gonna kill anyone,
+
+449
+00:16:12,346 --> 00:16:13,598
+not even a gorilla.
+
+450
+00:16:13,640 --> 00:16:15,349
+- Kill or be killed!
+
+451
+00:16:15,391 --> 00:16:18,185
+This is the only law
+Gorilla Kind understands.
+
+452
+00:16:18,227 --> 00:16:20,146
+- How do you benefit
+from this, Grodd?
+
+453
+00:16:20,187 --> 00:16:21,731
+- Solovar falls.
+
+454
+00:16:21,773 --> 00:16:23,691
+I take his place.
+
+455
+00:16:23,733 --> 00:16:26,110
+I rule the gorillas,
+
+456
+00:16:26,152 --> 00:16:30,197
+and I promise to keep them
+in Gorilla City.
+
+457
+00:16:30,239 --> 00:16:32,909
+<i>♪ ♪</i>
+
+458
+00:16:32,951 --> 00:16:34,702
+- How do we know
+we can trust you?
+
+459
+00:16:34,744 --> 00:16:37,371
+- Because...
+
+460
+00:16:37,413 --> 00:16:39,958
+even though you sent me away,
+
+461
+00:16:39,999 --> 00:16:43,628
+your Earth is still my home.
+
+462
+00:16:43,670 --> 00:16:46,255
+And there are those among you
+
+463
+00:16:46,297 --> 00:16:48,716
+I will never forget.
+
+464
+00:16:48,758 --> 00:16:52,470
+[ringing]
+
+465
+00:16:52,512 --> 00:16:55,974
+[footsteps thudding]
+
+466
+00:16:56,015 --> 00:16:57,809
+<i>- [echoing] Kill Solovar,</i>
+
+467
+00:16:57,851 --> 00:17:01,437
+<i>and Central City
+will be spared.</i>
+
+468
+00:17:01,479 --> 00:17:05,149
+<i>Fail, and see your home</i>
+
+469
+00:17:05,191 --> 00:17:07,694
+<i>turned to ash.</i>
+
+470
+00:17:07,735 --> 00:17:09,570
+<i>[dramatic musical flourish]</i>
+
+471
+00:17:12,406 --> 00:17:13,658
+- Hey, Jesse,
+you got a sec?
+
+472
+00:17:16,118 --> 00:17:18,955
+Did I do something wrong?
+
+473
+00:17:18,997 --> 00:17:20,707
+- [sighs] I don't...
+I don't think so.
+
+474
+00:17:20,748 --> 00:17:23,167
+- Okay, then why are you
+being so cold with me?
+
+475
+00:17:23,209 --> 00:17:24,669
+Jesse, come on,
+you can talk to me.
+
+476
+00:17:24,711 --> 00:17:27,505
+I know that this is about
+more than just your dad.
+
+477
+00:17:30,925 --> 00:17:32,218
+- [sighs]
+
+478
+00:17:32,259 --> 00:17:33,928
+<i>[pensive music]</i>
+
+479
+00:17:33,970 --> 00:17:37,097
+Look, I guess...
+
+480
+00:17:37,139 --> 00:17:41,728
+I guess I thought one day we'd
+figure out a way to be together.
+
+481
+00:17:41,769 --> 00:17:44,731
+You know, but now that you have
+your powers, it's...
+
+482
+00:17:44,772 --> 00:17:46,566
+It's like I never
+hear from you.
+
+483
+00:17:46,607 --> 00:17:49,986
+- Jesse, if...if you would,
+
+484
+00:17:50,028 --> 00:17:51,362
+I want you to stay.
+
+485
+00:17:51,404 --> 00:17:53,656
+- I can't.
+- Why?
+
+486
+00:17:53,698 --> 00:17:54,908
+Because of your dad?
+
+487
+00:17:54,949 --> 00:17:56,409
+Because Barry
+is going to find him.
+
+488
+00:17:56,450 --> 00:17:58,118
+- Look, you don't know that,
+okay?
+
+489
+00:17:58,160 --> 00:18:00,496
+You don't.
+
+490
+00:18:00,538 --> 00:18:02,916
+<i>♪ ♪</i>
+
+491
+00:18:02,957 --> 00:18:06,419
+[sighs] When I first
+got my power,
+
+492
+00:18:06,460 --> 00:18:08,838
+you were so lost
+not having yours.
+
+493
+00:18:08,880 --> 00:18:11,716
+You know, and I thought
+maybe part of the reason
+
+494
+00:18:11,758 --> 00:18:13,509
+why you liked me was...
+
+495
+00:18:13,551 --> 00:18:15,469
+'cause you were attracted
+to the speed and not me.
+
+496
+00:18:15,511 --> 00:18:17,555
+- [chuckles]
+- I know, I know, okay?
+
+497
+00:18:17,597 --> 00:18:19,515
+But I saw you
+out there today...
+
+498
+00:18:19,557 --> 00:18:23,019
+being Kid Flash.
+
+499
+00:18:23,061 --> 00:18:24,687
+Okay, and you were complete,
+Wally.
+
+500
+00:18:24,729 --> 00:18:26,856
+You were scary complete.
+
+501
+00:18:26,898 --> 00:18:29,316
+- I could have all
+the speed in the world.
+
+502
+00:18:29,358 --> 00:18:33,112
+I'm not complete without you.
+
+503
+00:18:33,153 --> 00:18:34,363
+<i>♪ ♪</i>
+
+504
+00:18:34,405 --> 00:18:35,740
+Stay.
+
+505
+00:18:35,782 --> 00:18:42,705
+<i>♪ ♪</i>
+
+506
+00:18:56,385 --> 00:19:00,098
+[insects buzzing and trilling,
+creatures roaring faintly]
+
+507
+00:19:00,139 --> 00:19:03,977
+- Barry, do you really think
+you could kill this Solovar?
+
+508
+00:19:04,018 --> 00:19:06,020
+Do you think you could
+take a life?
+
+509
+00:19:07,814 --> 00:19:11,150
+[footsteps booming,
+creatures growling]
+
+510
+00:19:11,191 --> 00:19:14,153
+<i>[dramatic music]</i>
+
+511
+00:19:14,194 --> 00:19:22,120
+<i>♪ ♪</i>
+
+512
+00:19:22,161 --> 00:19:23,621
+<i>- It is as I feared.</i>
+
+513
+00:19:23,663 --> 00:19:26,624
+<i>The humans court war
+with Gorilla Kind.</i>
+
+514
+00:19:26,666 --> 00:19:28,835
+<i>Why did you not tell me,
+Grodd,</i>
+
+515
+00:19:28,876 --> 00:19:31,337
+<i>more humans
+had entered the city?</i>
+
+516
+00:19:31,378 --> 00:19:34,256
+<i>- I was about to inform you,
+Solovar.</i>
+
+517
+00:19:34,298 --> 00:19:36,050
+- [roaring]
+
+518
+00:19:36,092 --> 00:19:40,387
+<i>Why? Why are you here?</i>
+
+519
+00:19:40,429 --> 00:19:42,807
+<i>To study us like animals?</i>
+
+520
+00:19:42,849 --> 00:19:45,309
+<i>Make us your pets?</i>
+- No, no.
+
+521
+00:19:45,351 --> 00:19:47,728
+I'm...I...
+[sighs]
+
+522
+00:19:47,770 --> 00:19:50,731
+We came here in peace.
+[stammers]
+
+523
+00:19:50,773 --> 00:19:52,191
+We entered your city
+by mistake.
+
+524
+00:19:52,232 --> 00:19:54,861
+Uh, we mean you no harm.
+
+525
+00:19:54,902 --> 00:19:56,904
+Please...
+
+526
+00:19:56,946 --> 00:19:58,781
+just let me and my friends go,
+and I promise,
+
+527
+00:19:58,823 --> 00:20:00,116
+we'll never come
+back here again.
+
+528
+00:20:00,158 --> 00:20:03,369
+[ringing]
+
+529
+00:20:07,040 --> 00:20:09,042
+- My brethren have seen you.
+
+530
+00:20:11,293 --> 00:20:13,921
+Your fate is sealed.
+
+531
+00:20:13,963 --> 00:20:16,049
+You will all die by my hand...
+
+532
+00:20:16,090 --> 00:20:18,843
+in the arena...
+
+533
+00:20:18,885 --> 00:20:21,721
+so that all will know
+that Solovar's justice
+
+534
+00:20:21,762 --> 00:20:24,140
+is wise and swift.
+
+535
+00:20:24,182 --> 00:20:29,187
+<i>♪ ♪</i>
+
+536
+00:20:29,228 --> 00:20:32,982
+- All right,
+I'll make you a deal.
+
+537
+00:20:33,024 --> 00:20:35,609
+I'll fight you in the arena...
+just me.
+
+538
+00:20:35,651 --> 00:20:39,405
+But if I beat you,
+you let my friends go,
+
+539
+00:20:39,446 --> 00:20:41,281
+and you leave us alone
+for good.
+
+540
+00:20:41,323 --> 00:20:43,492
+- [grunting]
+
+541
+00:20:43,534 --> 00:20:46,954
+- I accept.
+
+542
+00:20:46,996 --> 00:20:50,499
+Humans and their arrogance.
+
+543
+00:20:50,541 --> 00:20:52,710
+First you will suffer.
+
+544
+00:20:52,752 --> 00:20:55,504
+Then I will
+grant you each...
+
+545
+00:20:55,546 --> 00:20:57,215
+a horrible death.
+
+546
+00:20:57,256 --> 00:21:04,180
+<i>♪ ♪</i>
+
+547
+00:21:09,268 --> 00:21:12,230
+<i>[dramatic music]</i>
+
+548
+00:21:12,271 --> 00:21:16,776
+<i>♪ ♪</i>
+
+549
+00:21:16,817 --> 00:21:20,238
+[gorillas growling
+and screeching]
+
+550
+00:21:20,279 --> 00:21:27,203
+<i>♪ ♪</i>
+
+551
+00:21:38,047 --> 00:21:42,509
+[gorillas growling
+and screeching]
+
+552
+00:21:42,551 --> 00:21:45,138
+- Speedster versus
+super gorilla.
+
+553
+00:21:45,179 --> 00:21:47,347
+Best worst video game ever.
+
+554
+00:21:47,389 --> 00:21:50,476
+- Do you really think that
+Barry can beat Solovar?
+
+555
+00:21:50,517 --> 00:21:53,020
+- Well, he'd better,
+for all of our sakes.
+
+556
+00:21:53,062 --> 00:21:54,981
+[horns blaring]
+- It's starting.
+
+557
+00:21:55,022 --> 00:21:57,066
+[gorillas growling
+and screeching]
+
+558
+00:21:57,108 --> 00:22:00,278
+[horns blaring]
+
+559
+00:22:00,319 --> 00:22:04,406
+<i>♪ ♪</i>
+
+560
+00:22:04,448 --> 00:22:05,992
+<i>- After you die,</i>
+
+561
+00:22:06,033 --> 00:22:09,078
+<i>your friends will follow you
+into the black.</i>
+
+562
+00:22:09,120 --> 00:22:11,164
+- We'll see.
+- Okay, Barry.
+
+563
+00:22:11,205 --> 00:22:12,539
+I got a plan for you.
+
+564
+00:22:12,581 --> 00:22:14,917
+It's all about
+the speed punches.
+
+565
+00:22:14,959 --> 00:22:18,296
+- Speed punches.
+Come on, Barry.
+
+566
+00:22:18,337 --> 00:22:20,256
+- [roaring]
+
+567
+00:22:22,008 --> 00:22:24,969
+<i>[suspenseful music]</i>
+
+568
+00:22:25,011 --> 00:22:29,515
+<i>♪ ♪</i>
+
+569
+00:22:29,556 --> 00:22:32,268
+[gorillas growling
+and screeching]
+
+570
+00:22:32,310 --> 00:22:39,233
+<i>♪ ♪</i>
+
+571
+00:22:47,658 --> 00:22:50,410
+- [moans]
+<i>- Change of plan, Barry.</i>
+
+572
+00:22:50,452 --> 00:22:51,620
+It's all about
+the running away.
+
+573
+00:22:51,662 --> 00:22:53,331
+[footsteps thudding]
+
+574
+00:22:53,371 --> 00:22:54,957
+[whooshing]
+
+575
+00:22:54,999 --> 00:22:56,625
+- [roaring]
+
+576
+00:22:56,667 --> 00:22:59,212
+<i>♪ ♪</i>
+
+577
+00:22:59,253 --> 00:23:00,754
+- What about a lightning throw?
+
+578
+00:23:00,796 --> 00:23:02,589
+- Yes, Barry, lightning throw!
+
+579
+00:23:02,631 --> 00:23:04,758
+- Worth a shot!
+
+580
+00:23:04,800 --> 00:23:11,724
+<i>♪ ♪</i>
+
+581
+00:23:19,523 --> 00:23:21,775
+- [roaring]
+
+582
+00:23:21,817 --> 00:23:28,741
+<i>♪ ♪</i>
+
+583
+00:23:34,705 --> 00:23:36,665
+[heavy crash]
+
+584
+00:23:36,707 --> 00:23:43,630
+<i>♪ ♪</i>
+
+585
+00:23:47,134 --> 00:23:48,510
+- That's 0 for two.
+
+586
+00:23:48,552 --> 00:23:49,970
+- [whispers] Come on, Barry,
+get up.
+
+587
+00:23:50,012 --> 00:23:52,848
+- [groaning]
+
+588
+00:23:52,890 --> 00:23:55,768
+- All my days, this is quite
+the reversal of our fortune.
+
+589
+00:23:55,809 --> 00:23:59,230
+<i>[suspenseful music]</i>
+
+590
+00:23:59,272 --> 00:24:01,274
+- Reversal...
+
+591
+00:24:01,315 --> 00:24:02,858
+<i>♪ ♪</i>
+
+592
+00:24:02,900 --> 00:24:05,152
+Barry, it's time
+to pull a reverse Flash.
+
+593
+00:24:05,194 --> 00:24:08,655
+- [roaring]
+
+594
+00:24:08,697 --> 00:24:09,907
+- Do it!
+
+595
+00:24:09,949 --> 00:24:13,911
+[energy pulsing]
+
+596
+00:24:13,953 --> 00:24:16,914
+<i>[rousing music]</i>
+
+597
+00:24:16,956 --> 00:24:23,461
+<i>♪ ♪</i>
+
+598
+00:24:23,503 --> 00:24:25,298
+- [laughing]
+He did it!
+
+599
+00:24:25,339 --> 00:24:27,007
+He actually did it.
+
+600
+00:24:27,049 --> 00:24:28,301
+He bloody well did it.
+
+601
+00:24:28,342 --> 00:24:30,552
+- [panting]
+
+602
+00:24:30,594 --> 00:24:32,763
+[gorillas grunting
+and screeching]
+
+603
+00:24:32,805 --> 00:24:37,475
+<i>♪ ♪</i>
+
+604
+00:24:37,517 --> 00:24:40,896
+I won't kill him!
+
+605
+00:24:40,938 --> 00:24:41,981
+I won't!
+
+606
+00:24:42,022 --> 00:24:44,108
+- [grunting]
+
+607
+00:24:44,150 --> 00:24:46,152
+- I know you all fear humans!
+
+608
+00:24:46,193 --> 00:24:49,280
+[panting]
+
+609
+00:24:49,322 --> 00:24:51,907
+You think we want war
+with Gorilla Kind!
+
+610
+00:24:51,949 --> 00:24:54,160
+[sighs]
+
+611
+00:24:54,201 --> 00:24:56,162
+We don't!
+
+612
+00:24:56,203 --> 00:24:57,746
+[panting]
+
+613
+00:24:57,788 --> 00:25:01,375
+We're not all murderers
+and killers!
+
+614
+00:25:01,417 --> 00:25:03,585
+We only want peace!
+
+615
+00:25:03,627 --> 00:25:05,379
+<i>♪ ♪</i>
+
+616
+00:25:05,421 --> 00:25:09,467
+Which is why
+I'm sparing your leader!
+
+617
+00:25:09,507 --> 00:25:11,051
+We call it mercy!
+
+618
+00:25:11,093 --> 00:25:12,303
+- [growling]
+
+619
+00:25:12,345 --> 00:25:13,387
+<i>[echoing] Take him out.</i>
+
+620
+00:25:13,429 --> 00:25:15,722
+[dart whizzes]
+- [grunts]
+
+621
+00:25:15,764 --> 00:25:18,725
+<i>[ominous musical flourish]</i>
+
+622
+00:25:18,767 --> 00:25:21,854
+<i>♪ ♪</i>
+
+623
+00:25:26,484 --> 00:25:29,569
+[water dripping]
+
+624
+00:25:29,611 --> 00:25:34,033
+[gorillas grunting faintly]
+
+625
+00:25:34,074 --> 00:25:36,160
+[groaning]
+
+626
+00:25:36,202 --> 00:25:39,413
+Oh...what happened?
+
+627
+00:25:39,455 --> 00:25:40,831
+- Congratulations.
+
+628
+00:25:40,873 --> 00:25:43,917
+You won.
+
+629
+00:25:43,959 --> 00:25:45,252
+- What about Harry?
+
+630
+00:25:45,294 --> 00:25:47,087
+- He's still catatonic.
+
+631
+00:25:47,129 --> 00:25:50,049
+- [groans]
+
+632
+00:25:50,090 --> 00:25:52,885
+[ringing]
+
+633
+00:25:52,926 --> 00:25:55,888
+[groans]
+
+634
+00:25:55,929 --> 00:25:58,724
+- Flash.
+- I won.
+
+635
+00:25:58,765 --> 00:26:01,894
+Solovar promised
+to let us go.
+
+636
+00:26:01,935 --> 00:26:04,104
+- No.
+
+637
+00:26:04,146 --> 00:26:06,357
+- No? What do you...
+
+638
+00:26:06,399 --> 00:26:07,733
+I don't understand.
+
+639
+00:26:07,774 --> 00:26:10,236
+- Solovar's words
+mean nothing now.
+
+640
+00:26:10,277 --> 00:26:12,863
+- You never had any intentions
+of letting us go, did you?
+
+641
+00:26:12,905 --> 00:26:15,573
+- I told you I needed you.
+
+642
+00:26:15,615 --> 00:26:17,993
+I could not defeat
+Solovar in combat,
+
+643
+00:26:18,035 --> 00:26:19,453
+but you could.
+
+644
+00:26:19,495 --> 00:26:23,499
+You did, and now I am
+the ruler of Gorilla City,
+
+645
+00:26:23,541 --> 00:26:25,583
+and all the gorillas
+will follow me.
+
+646
+00:26:25,625 --> 00:26:28,170
+<i>[ominous music]</i>
+
+647
+00:26:28,212 --> 00:26:31,382
+- Solovar never wanted
+to attack Central City.
+
+648
+00:26:31,424 --> 00:26:32,674
+You do.
+
+649
+00:26:32,716 --> 00:26:34,718
+- You took my home
+away from me,
+
+650
+00:26:34,760 --> 00:26:37,096
+and now I will take it back!
+
+651
+00:26:37,137 --> 00:26:39,306
+The gorillas saw
+what you did, Flash.
+
+652
+00:26:39,348 --> 00:26:41,599
+They saw you defeat Solovar,
+
+653
+00:26:41,641 --> 00:26:44,103
+and now they<i>are</i>
+afraid of humans
+
+654
+00:26:44,144 --> 00:26:46,355
+and will do anything I order,
+
+655
+00:26:46,397 --> 00:26:48,482
+and I will order them
+to invade your Earth,
+
+656
+00:26:48,524 --> 00:26:50,276
+and your city will burn.
+
+657
+00:26:50,317 --> 00:26:51,860
+- You were planning
+this the whole time.
+
+658
+00:26:51,902 --> 00:26:54,488
+- Yes.
+
+659
+00:26:54,530 --> 00:26:56,156
+Father taught me well.
+
+660
+00:26:56,198 --> 00:27:00,286
+Always think ahead.
+
+661
+00:27:00,327 --> 00:27:02,329
+And I had plenty of time
+to think
+
+662
+00:27:02,371 --> 00:27:04,915
+in cages built by you
+
+663
+00:27:04,957 --> 00:27:07,126
+and then by Solovar.
+
+664
+00:27:07,167 --> 00:27:09,086
+- Then why don't
+you just kill us?
+
+665
+00:27:09,128 --> 00:27:11,838
+Huh? Since we already did
+your damn dirty work for you.
+
+666
+00:27:11,880 --> 00:27:13,257
+- Still need you.
+
+667
+00:27:13,299 --> 00:27:14,800
+- I'm not doing
+anything for you.
+
+668
+00:27:14,841 --> 00:27:17,635
+- Not you, Flash.
+
+669
+00:27:17,677 --> 00:27:18,887
+<i>You.</i>
+
+670
+00:27:18,929 --> 00:27:22,308
+<i>[eerie music]</i>
+
+671
+00:27:22,349 --> 00:27:23,683
+- Me?
+
+672
+00:27:23,725 --> 00:27:27,146
+- You will open the breach
+to First Earth.
+
+673
+00:27:27,187 --> 00:27:29,398
+My army will cross that breach,
+
+674
+00:27:29,440 --> 00:27:32,025
+and all the humans
+in Central City
+
+675
+00:27:32,067 --> 00:27:35,571
+will burn before Gorilla Kind!
+
+676
+00:27:35,613 --> 00:27:38,449
+- Grodd, you are smart,
+
+677
+00:27:38,491 --> 00:27:40,576
+maybe smarter than all of us,
+
+678
+00:27:40,618 --> 00:27:43,203
+smart enough to know
+that you cannot do this.
+
+679
+00:27:43,245 --> 00:27:44,955
+Intelligence and violence,
+
+680
+00:27:44,997 --> 00:27:46,540
+they're opposites
+from each other.
+
+681
+00:27:46,582 --> 00:27:49,001
+What you want to do,
+it's not logical,
+
+682
+00:27:49,042 --> 00:27:51,920
+not for someone
+as wise as you are.
+
+683
+00:27:51,962 --> 00:27:53,713
+- You forget, Flash,
+
+684
+00:27:53,755 --> 00:27:55,215
+I am an animal.
+
+685
+00:27:55,257 --> 00:27:57,176
+I am a gorilla.
+
+686
+00:27:57,217 --> 00:27:59,803
+Kill or be killed!
+
+687
+00:27:59,845 --> 00:28:00,804
+- I'm gonna
+get out of this cell,
+
+688
+00:28:00,846 --> 00:28:01,888
+and I'm gonna stop you.
+
+689
+00:28:01,930 --> 00:28:03,307
+[ringing]
+
+690
+00:28:03,349 --> 00:28:04,642
+[body thuds]
+
+691
+00:28:04,682 --> 00:28:08,228
+- [sighs]
+- [roaring]
+
+692
+00:28:08,270 --> 00:28:11,231
+<i>No, you won't.</i>
+
+693
+00:28:11,273 --> 00:28:13,942
+<i>You will die.</i>
+
+694
+00:28:13,984 --> 00:28:15,735
+<i>[dramatic musical flourish]</i>
+
+695
+00:28:18,989 --> 00:28:20,949
+[insects trilling and buzzing]
+
+696
+00:28:20,991 --> 00:28:24,662
+[low warbling]
+
+697
+00:28:24,702 --> 00:28:27,665
+<i>[dramatic music]</i>
+
+698
+00:28:27,705 --> 00:28:32,545
+<i>♪ ♪</i>
+
+699
+00:28:32,586 --> 00:28:34,547
+- Snow?
+- You okay?
+
+700
+00:28:34,588 --> 00:28:36,549
+- I...
+
+701
+00:28:36,590 --> 00:28:39,051
+I have a headache, I guess.
+
+702
+00:28:39,092 --> 00:28:40,511
+[sniffs]
+Ugh!
+
+703
+00:28:40,553 --> 00:28:41,887
+[exhales sharply]
+And I think...
+
+704
+00:28:41,928 --> 00:28:43,222
+I...is that me?
+I smell.
+
+705
+00:28:43,263 --> 00:28:45,307
+- That counts as okay.
+
+706
+00:28:45,349 --> 00:28:46,766
+- Jesse, my daughter.
+Where's...
+
+707
+00:28:46,808 --> 00:28:48,018
+- She's fine.
+She's on Earth-1.
+
+708
+00:28:48,060 --> 00:28:49,811
+She's totally fine.
+
+709
+00:28:49,853 --> 00:28:51,313
+- [sighs]
+
+710
+00:28:54,858 --> 00:28:56,276
+Barry?
+
+711
+00:28:56,318 --> 00:28:57,861
+Cisco.
+
+712
+00:28:59,821 --> 00:29:01,574
+You guys all came for me?
+
+713
+00:29:01,615 --> 00:29:04,159
+- A city of evil genius apes.
+
+714
+00:29:04,201 --> 00:29:05,619
+Sounded like fun.
+
+715
+00:29:05,661 --> 00:29:08,330
+- Well, I don't
+deserve it, but...
+
+716
+00:29:08,372 --> 00:29:11,584
+thank you, Snow;
+thank you, Barry,
+
+717
+00:29:11,625 --> 00:29:14,253
+Cisco...
+
+718
+00:29:14,294 --> 00:29:17,548
+Indiana.
+
+719
+00:29:17,590 --> 00:29:19,675
+- It's Julian Albert,
+thank you.
+
+720
+00:29:19,717 --> 00:29:22,844
+And I came along for...
+
+721
+00:29:22,886 --> 00:29:24,263
+I live for danger.
+
+722
+00:29:24,304 --> 00:29:26,139
+- Looks like you came
+to the right place.
+
+723
+00:29:26,181 --> 00:29:28,434
+- I still can't phase
+through the bars.
+
+724
+00:29:28,475 --> 00:29:31,103
+We have to find a way out
+of here so we can stop him.
+
+725
+00:29:31,144 --> 00:29:33,897
+- You keep saying that,
+but what if we can't get out?
+
+726
+00:29:33,939 --> 00:29:35,857
+What if we're stuck here?
+What if this is the way...
+
+727
+00:29:35,899 --> 00:29:37,859
+- Well, we can't think
+like that.
+
+728
+00:29:37,901 --> 00:29:40,571
+<i>♪ ♪</i>
+
+729
+00:29:40,613 --> 00:29:42,155
+While there's life,
+there's hope.
+
+730
+00:29:42,197 --> 00:29:44,491
+<i>♪ ♪</i>
+
+731
+00:29:44,533 --> 00:29:45,825
+- And if there isn't life?
+
+732
+00:29:45,867 --> 00:29:48,328
+- What is that supposed to mean?
+
+733
+00:29:48,370 --> 00:29:50,247
+- Grodd needs me
+to open the breach
+
+734
+00:29:50,289 --> 00:29:51,665
+so he can attack Earth-1.
+
+735
+00:29:51,707 --> 00:29:53,584
+What if I wasn't alive
+to do that?
+
+736
+00:29:53,626 --> 00:29:54,960
+- You planning on dying?
+
+737
+00:29:55,001 --> 00:29:57,796
+- Only if you kill me.
+- [scoffs]
+
+738
+00:29:57,837 --> 00:30:01,049
+- Look, this is something
+we have to consider.
+
+739
+00:30:01,091 --> 00:30:03,176
+Right now, I can't think
+of any other way to stop them.
+
+740
+00:30:03,218 --> 00:30:05,262
+They'd have no other way
+of getting to Central City.
+
+741
+00:30:05,304 --> 00:30:06,972
+- He's right.
+
+742
+00:30:07,013 --> 00:30:09,475
+Cisco's death would change
+the newspaper headline
+
+743
+00:30:09,516 --> 00:30:11,560
+in the future.
+
+744
+00:30:11,602 --> 00:30:13,228
+- Headline?
+- It's a long story.
+
+745
+00:30:13,270 --> 00:30:15,981
+- But it would also make
+another one come true,
+
+746
+00:30:16,022 --> 00:30:18,358
+the one about Killer Frost.
+
+747
+00:30:18,400 --> 00:30:19,985
+<i>♪ ♪</i>
+
+748
+00:30:20,026 --> 00:30:21,570
+- You want me to kill you?
+
+749
+00:30:21,612 --> 00:30:23,071
+- Think about it.
+
+750
+00:30:23,113 --> 00:30:24,823
+Grodd doesn't know
+you have cold powers.
+
+751
+00:30:24,864 --> 00:30:26,908
+You might be able to use them.
+- Cold powers?
+
+752
+00:30:26,950 --> 00:30:29,703
+She...you have cold powers?
+
+753
+00:30:29,745 --> 00:30:31,955
+I knew it.
+I knew that you and I
+
+754
+00:30:31,997 --> 00:30:33,666
+did not get Barry
+out of that mirror.
+
+755
+00:30:33,707 --> 00:30:35,459
+- Wait, now.
+Caitlin.
+
+756
+00:30:35,501 --> 00:30:37,002
+If you kill someone,
+
+757
+00:30:37,043 --> 00:30:38,671
+there's no going back.
+
+758
+00:30:38,712 --> 00:30:40,756
+You'll be Killer Frost
+for the rest of your life.
+
+759
+00:30:40,798 --> 00:30:43,133
+Now, I did not come all this way
+to see that happen.
+
+760
+00:30:43,175 --> 00:30:45,761
+<i>[pensive music]</i>
+
+761
+00:30:45,803 --> 00:30:48,221
+- Did you come here because
+you "live for danger"
+
+762
+00:30:48,263 --> 00:30:50,599
+or to protect me?
+
+763
+00:30:50,641 --> 00:30:52,685
+<i>♪ ♪</i>
+
+764
+00:30:52,726 --> 00:30:54,645
+- I just don't want to see you
+become something you're not.
+
+765
+00:30:54,687 --> 00:30:56,104
+<i>♪ ♪</i>
+
+766
+00:30:56,146 --> 00:30:57,981
+- Okay, Cisco.
+
+767
+00:30:58,023 --> 00:31:00,400
+I'm not gonna kill you, and
+neither is anyone else, okay?
+
+768
+00:31:00,442 --> 00:31:02,068
+So let's come up
+with the next best plan
+
+769
+00:31:02,110 --> 00:31:04,112
+that doesn't involve
+murdering one of our friends.
+
+770
+00:31:04,154 --> 00:31:07,282
+- No, Cisco's right.
+
+771
+00:31:07,324 --> 00:31:10,202
+It's the only way.
+
+772
+00:31:10,243 --> 00:31:12,496
+One of us has to die.
+
+773
+00:31:12,538 --> 00:31:15,957
+<i>[somber music]</i>
+
+774
+00:31:15,999 --> 00:31:19,002
+- [humming]
+
+775
+00:31:19,044 --> 00:31:22,715
+[tapping rhythmically]
+
+776
+00:31:22,756 --> 00:31:24,216
+Ho!
+
+777
+00:31:24,257 --> 00:31:26,926
+Hey.
+- Hi.
+
+778
+00:31:26,968 --> 00:31:29,429
+- What you doing up there?
+
+779
+00:31:29,471 --> 00:31:31,431
+- Just, uh, hanging out.
+
+780
+00:31:31,473 --> 00:31:33,767
+- What're you...
+what're you thinking about?
+
+781
+00:31:33,809 --> 00:31:35,644
+- [sighs]
+Wally.
+
+782
+00:31:35,686 --> 00:31:38,438
+He wants me
+to stay here with him.
+
+783
+00:31:38,480 --> 00:31:40,023
+- Ah.
+[chuckles]
+
+784
+00:31:40,065 --> 00:31:41,983
+Yeah, he does.
+[laughs]
+
+785
+00:31:42,025 --> 00:31:44,236
+Guy is no dummy.
+Congratulations.
+
+786
+00:31:44,277 --> 00:31:46,196
+Oh, that's great.
+Love...
+
+787
+00:31:46,238 --> 00:31:47,656
+Nothing like young love.
+
+788
+00:31:47,698 --> 00:31:49,032
+- Yeah, I just...
+I don't...
+
+789
+00:31:49,074 --> 00:31:51,410
+I don't know
+if it's the right thing.
+
+790
+00:31:51,451 --> 00:31:52,703
+- Why?
+
+791
+00:31:52,745 --> 00:31:54,996
+- He's on his own journey.
+
+792
+00:31:55,038 --> 00:31:58,041
+Besides, my dad just got
+captured by gorillas.
+
+793
+00:31:58,083 --> 00:31:59,668
+And if...if he does come back,
+
+794
+00:31:59,710 --> 00:32:01,628
+how could I ever
+tell him I'm leaving?
+
+795
+00:32:01,670 --> 00:32:03,171
+- Well, 'cause you're human.
+
+796
+00:32:03,213 --> 00:32:04,673
+That's...that's how.
+
+797
+00:32:04,715 --> 00:32:05,674
+That's what we do.
+
+798
+00:32:05,716 --> 00:32:06,925
+Look, my point is this.
+
+799
+00:32:06,966 --> 00:32:08,218
+When it comes to love,
+
+800
+00:32:08,260 --> 00:32:10,178
+you got to go for it.
+
+801
+00:32:10,220 --> 00:32:12,222
+You know?
+Everything else be damned.
+
+802
+00:32:12,264 --> 00:32:14,099
+'Cause if you don't,
+
+803
+00:32:14,140 --> 00:32:15,934
+you're gonna end up being
+the kind of person that lives
+
+804
+00:32:15,975 --> 00:32:18,978
+the rest of their life
+with regret.
+
+805
+00:32:19,020 --> 00:32:21,398
+I mean, I know that telling your
+dad that, you know, you're...
+
+806
+00:32:21,440 --> 00:32:23,149
+you're switching Earths,
+
+807
+00:32:23,191 --> 00:32:25,402
+that's gonna be a difficult
+conversation to have,
+
+808
+00:32:25,444 --> 00:32:27,404
+but one that you've to go for
+
+809
+00:32:27,446 --> 00:32:29,615
+if you want to be happy.
+
+810
+00:32:29,656 --> 00:32:31,742
+But that's, you know,
+just my opinion.
+
+811
+00:32:31,784 --> 00:32:33,159
+What do I know?
+
+812
+00:32:33,201 --> 00:32:35,662
+I'm just a handsomer guy
+than your dad
+
+813
+00:32:35,704 --> 00:32:36,914
+with a song in his heart.
+
+814
+00:32:36,955 --> 00:32:38,707
+Good luck, Jesse.
+
+815
+00:32:38,749 --> 00:32:42,461
+<i>♪ ♪</i>
+
+816
+00:32:42,502 --> 00:32:44,296
+- [sighs deeply]
+
+817
+00:32:44,337 --> 00:32:47,299
+[footsteps thudding]
+
+818
+00:32:47,340 --> 00:32:50,302
+<i>[tense music]</i>
+
+819
+00:32:50,343 --> 00:32:54,556
+<i>♪ ♪</i>
+
+820
+00:32:54,598 --> 00:32:57,559
+[footsteps continue]
+
+821
+00:32:57,601 --> 00:33:00,270
+<i>♪ ♪</i>
+
+822
+00:33:00,312 --> 00:33:02,439
+[deep growl]
+
+823
+00:33:02,481 --> 00:33:06,318
+- [voice breaking] He started
+coughing...violently.
+
+824
+00:33:06,359 --> 00:33:08,654
+And then he clutched his side
+and keeled over.
+
+825
+00:33:08,695 --> 00:33:10,029
+- [grunts]
+
+826
+00:33:10,071 --> 00:33:12,073
+- The injury...
+
+827
+00:33:12,115 --> 00:33:14,159
+it must have ruptured
+one of his kidneys.
+
+828
+00:33:14,200 --> 00:33:15,869
+<i>♪ ♪</i>
+
+829
+00:33:15,911 --> 00:33:18,163
+He went into shock.
+
+830
+00:33:18,204 --> 00:33:21,333
+His heart stopped.
+
+831
+00:33:21,374 --> 00:33:23,293
+I couldn't resuscitate him.
+
+832
+00:33:23,335 --> 00:33:25,963
+[door clanging]
+
+833
+00:33:26,004 --> 00:33:28,423
+- [growling]
+
+834
+00:33:28,465 --> 00:33:30,300
+<i>♪ ♪</i>
+
+835
+00:33:30,342 --> 00:33:33,052
+<i>Cold.</i>
+
+836
+00:33:33,094 --> 00:33:35,054
+- [sobs]
+He's dead.
+
+837
+00:33:35,096 --> 00:33:37,307
+- [growling]
+
+838
+00:33:37,349 --> 00:33:40,268
+<i>He was of no use
+to me anyway.</i>
+
+839
+00:33:40,310 --> 00:33:41,854
+[roars]
+
+840
+00:33:41,895 --> 00:33:44,857
+<i>[ominous music]</i>
+
+841
+00:33:44,898 --> 00:33:51,822
+<i>♪ ♪</i>
+
+842
+00:33:55,742 --> 00:33:58,495
+[growling]
+
+843
+00:34:05,126 --> 00:34:07,713
+- [whispering]
+He's gone, Barry.
+
+844
+00:34:07,754 --> 00:34:08,964
+Grodd is gone.
+
+845
+00:34:09,006 --> 00:34:11,967
+<i>[pensive music]</i>
+
+846
+00:34:12,009 --> 00:34:16,763
+<i>♪ ♪</i>
+
+847
+00:34:16,805 --> 00:34:18,891
+[low trilling]
+
+848
+00:34:18,932 --> 00:34:20,350
+- Come on, mate.
+
+849
+00:34:20,392 --> 00:34:23,854
+<i>♪ ♪</i>
+
+850
+00:34:23,896 --> 00:34:26,314
+<i>[dramatic music]</i>
+
+851
+00:34:26,356 --> 00:34:29,026
+- [gasping]
+
+852
+00:34:29,067 --> 00:34:32,445
+<i>♪ ♪</i>
+
+853
+00:34:32,487 --> 00:34:33,697
+- Yo, it worked!
+
+854
+00:34:33,739 --> 00:34:35,114
+- Shh!
+
+855
+00:34:35,156 --> 00:34:36,449
+- [softly] It worked.
+
+856
+00:34:36,491 --> 00:34:38,159
+- Allen, Allen,
+you all right, mate?
+
+857
+00:34:38,201 --> 00:34:40,286
+- Yeah.
+Yeah, I'm good.
+
+858
+00:34:40,328 --> 00:34:41,997
+- I didn't freeze
+you too much, did I?
+
+859
+00:34:42,039 --> 00:34:43,957
+- [gasping, exhales sharply]
+
+860
+00:34:43,999 --> 00:34:46,543
+No. I'm good.
+
+861
+00:34:46,585 --> 00:34:48,211
+- Well, then...
+
+862
+00:34:48,253 --> 00:34:49,629
+let's get the hell
+out of here.
+
+863
+00:34:49,671 --> 00:34:50,630
+- Yeah.
+
+864
+00:34:50,672 --> 00:34:53,050
+[grunting]
+
+865
+00:34:53,091 --> 00:34:58,680
+<i>♪ ♪</i>
+
+866
+00:34:58,722 --> 00:35:00,223
+Go!
+
+867
+00:35:00,265 --> 00:35:02,642
+- All right.
+- [whispers] Hallelujah.
+
+868
+00:35:02,684 --> 00:35:04,811
+- [gasps]
+
+869
+00:35:04,853 --> 00:35:06,897
+[gasps]
+Let's go.
+
+870
+00:35:06,939 --> 00:35:12,694
+<i>♪ ♪</i>
+
+871
+00:35:12,736 --> 00:35:13,946
+[grunts]
+All right.
+
+872
+00:35:13,987 --> 00:35:15,363
+We should be far enough out
+
+873
+00:35:15,405 --> 00:35:16,740
+that you should be able
+to use your powers.
+
+874
+00:35:16,782 --> 00:35:18,450
+- We need a breach
+open right now.
+
+875
+00:35:18,491 --> 00:35:20,118
+- Guys, we got to go before
+they realize we're gone!
+
+876
+00:35:20,159 --> 00:35:21,745
+[distant roars]
+- It's too late for that.
+
+877
+00:35:21,787 --> 00:35:23,329
+[gorillas roaring,
+footsteps pounding]
+
+878
+00:35:23,371 --> 00:35:25,624
+- Run!
+- Run!
+
+879
+00:35:25,665 --> 00:35:27,542
+- Open a breach!
+
+880
+00:35:27,584 --> 00:35:29,419
+- Time to warp out
+of this madhouse.
+
+881
+00:35:29,461 --> 00:35:30,420
+<i>[suspenseful music]</i>
+
+882
+00:35:30,462 --> 00:35:32,089
+- All right, go.
+
+883
+00:35:32,130 --> 00:35:34,424
+[grunting]
+
+884
+00:35:34,466 --> 00:35:36,468
+[warbling tone]
+
+885
+00:35:36,509 --> 00:35:38,303
+- [roaring]
+
+886
+00:35:38,344 --> 00:35:41,932
+<i>[ominous music]</i>
+
+887
+00:35:41,974 --> 00:35:43,892
+[roaring]
+
+888
+00:35:48,187 --> 00:35:50,523
+<i>[reflective music]</i>
+
+889
+00:35:50,565 --> 00:35:53,318
+- Hey, gang, who wants to take
+their mind off their troubles
+
+890
+00:35:53,359 --> 00:35:55,403
+with a "sure to take your mind
+off your troubles" game
+
+891
+00:35:55,445 --> 00:35:56,655
+of charades?
+I'll go first.
+
+892
+00:35:56,696 --> 00:35:57,948
+Okay, ah, let's see.
+
+893
+00:35:57,990 --> 00:35:59,407
+Movie...I mean...
+
+894
+00:35:59,449 --> 00:36:00,784
+one word.
+[shivering]
+
+895
+00:36:00,826 --> 00:36:03,829
+[electronic beeping]
+
+896
+00:36:03,870 --> 00:36:05,538
+<i>♪ ♪</i>
+
+897
+00:36:05,580 --> 00:36:08,333
+- Dad!
+
+898
+00:36:08,374 --> 00:36:09,459
+- [sighs]
+
+899
+00:36:09,501 --> 00:36:11,044
+[laughing]
+
+900
+00:36:11,086 --> 00:36:12,295
+Aww.
+
+901
+00:36:12,337 --> 00:36:15,048
+- You okay?
+- Good, yeah.
+
+902
+00:36:15,090 --> 00:36:16,341
+I'm sorry you guys missed it.
+
+903
+00:36:16,382 --> 00:36:17,592
+- I ain't.
+
+904
+00:36:17,634 --> 00:36:19,177
+- Ohhh.
+
+905
+00:36:19,218 --> 00:36:20,846
+- Word of advice:
+
+906
+00:36:20,887 --> 00:36:22,639
+don't volunteer
+for these things.
+
+907
+00:36:22,681 --> 00:36:24,223
+Nothing ever tries to rip you
+limb from limb
+
+908
+00:36:24,265 --> 00:36:25,517
+if you don't volunteer.
+
+909
+00:36:25,558 --> 00:36:28,103
+- I'm fine.
+I'm so fine, thanks...
+
+910
+00:36:28,145 --> 00:36:29,688
+thanks to our friends,
+
+911
+00:36:29,729 --> 00:36:31,773
+our good friends.
+
+912
+00:36:31,815 --> 00:36:32,816
+- You're welcome, Harry.
+
+913
+00:36:32,858 --> 00:36:34,609
+- Wow, I...I think...
+
+914
+00:36:34,651 --> 00:36:36,486
+I just forgot
+how handsome you were.
+
+915
+00:36:36,528 --> 00:36:38,655
+- Oh, I forgot.
+
+916
+00:36:38,697 --> 00:36:40,490
+He's...you're still here.
+
+917
+00:36:40,532 --> 00:36:43,035
+- Yeah.
+Still here.
+
+918
+00:36:43,076 --> 00:36:46,746
+- I guess we have your tactical
+and technical genius
+
+919
+00:36:46,788 --> 00:36:49,374
+to thank for getting us
+out of that fix.
+
+920
+00:36:49,415 --> 00:36:51,459
+- No, no, nah.
+
+921
+00:36:51,501 --> 00:36:54,087
+- Nah?
+- Nah.
+
+922
+00:36:54,129 --> 00:36:55,881
+You were completely
+right about him.
+
+923
+00:36:55,922 --> 00:36:57,423
+He's a total fraud.
+He's not even a scientist.
+
+924
+00:36:57,465 --> 00:36:58,842
+And I'm sure
+you couldn't even remember
+
+925
+00:36:58,884 --> 00:37:00,510
+an ATM code if you tried.
+
+926
+00:37:00,552 --> 00:37:02,261
+- [scoffs] All those...
+all those numbers.
+
+927
+00:37:02,303 --> 00:37:04,430
+- It's only four digits.
+Why is he still here?
+
+928
+00:37:04,472 --> 00:37:08,267
+- Because we couldn't
+do it without him.
+
+929
+00:37:08,309 --> 00:37:10,311
+- I thank you, Francisco.
+
+930
+00:37:10,353 --> 00:37:11,771
+- Fran...Francisco?
+
+931
+00:37:11,813 --> 00:37:13,023
+- Don't ask.
+
+932
+00:37:13,065 --> 00:37:14,482
+- Yo, so what actually happened?
+
+933
+00:37:14,524 --> 00:37:16,442
+You fight some really
+super-smart apes, or what?
+
+934
+00:37:16,484 --> 00:37:18,820
+- Yeah.
+Yeah, we did.
+
+935
+00:37:18,862 --> 00:37:21,364
+And they were smart,
+but today, at least,
+
+936
+00:37:21,406 --> 00:37:23,324
+we were a bit smarter.
+
+937
+00:37:23,366 --> 00:37:25,994
+<i>[dramatic musical flourish]</i>
+
+938
+00:37:38,423 --> 00:37:39,632
+- How's he doing?
+
+939
+00:37:39,674 --> 00:37:41,676
+- He's gonna be okay.
+
+940
+00:37:43,553 --> 00:37:45,513
+He's got some
+cuts and bruises,
+
+941
+00:37:45,555 --> 00:37:48,767
+but Caitlin said he just needs
+food and a little sleep.
+
+942
+00:37:48,808 --> 00:37:50,393
+- Okay.
+
+943
+00:37:50,435 --> 00:37:52,229
+- Hey, I'm...
+
+944
+00:37:52,270 --> 00:37:55,982
+I'm sorry for being
+an epic basket case lately.
+
+945
+00:37:56,024 --> 00:37:59,318
+- My, um...my dad
+was kidnapped once,
+
+946
+00:37:59,360 --> 00:38:01,320
+and it turns your world.
+
+947
+00:38:03,073 --> 00:38:07,077
+- You turn my world, Wally.
+
+948
+00:38:07,119 --> 00:38:11,164
+Look, I...I need you to be
+honest about something.
+
+949
+00:38:11,206 --> 00:38:13,499
+- Of course.
+
+950
+00:38:13,541 --> 00:38:17,587
+- When my dad wakes up,
+if I tell him that I love him
+
+951
+00:38:17,629 --> 00:38:20,173
+and I'll always be
+his daughter
+
+952
+00:38:20,215 --> 00:38:24,594
+but that I want
+to move to Earth-1,
+
+953
+00:38:24,636 --> 00:38:25,804
+what would you think about...
+
+954
+00:38:25,845 --> 00:38:28,807
+<i>[tender music]</i>
+
+955
+00:38:28,848 --> 00:38:32,269
+<i>♪ ♪</i>
+
+956
+00:38:32,310 --> 00:38:35,230
+- That's what I think of that.
+
+957
+00:38:35,272 --> 00:38:37,690
+- I'm glad we think alike.
+
+958
+00:38:37,732 --> 00:38:40,318
+- [clears throat
+and coughs]
+
+959
+00:38:40,359 --> 00:38:41,653
+I see you're...
+
+960
+00:38:41,694 --> 00:38:43,446
+you took my love advice.
+
+961
+00:38:43,488 --> 00:38:45,031
+You know, when it comes
+to scientific advice,
+
+962
+00:38:45,073 --> 00:38:46,699
+mine is sometimes specious,
+
+963
+00:38:46,741 --> 00:38:48,118
+but when it comes
+to affairs of the heart,
+
+964
+00:38:48,160 --> 00:38:51,037
+well, I consider myself
+a genius.
+
+965
+00:38:51,079 --> 00:38:52,538
+- Okay, yeah,
+we're gonna go now.
+
+966
+00:38:52,580 --> 00:38:53,665
+- Yeah.
+- Yeah.
+
+967
+00:38:53,706 --> 00:38:55,416
+- Okay, great.
+
+968
+00:38:55,458 --> 00:38:58,336
+Congratulations.
+I'm happy for you.
+
+969
+00:38:58,377 --> 00:38:59,629
+Invite me to the wedding.
+
+970
+00:38:59,671 --> 00:39:00,922
+[slurps]
+
+971
+00:39:02,715 --> 00:39:04,884
+He's gonna be so pissed.
+
+972
+00:39:04,926 --> 00:39:06,678
+<i>[whimsical music]</i>
+
+973
+00:39:08,721 --> 00:39:10,640
+- Caitlin.
+
+974
+00:39:10,682 --> 00:39:12,725
+Wait.
+
+975
+00:39:12,767 --> 00:39:14,060
+[sighs]
+
+976
+00:39:14,102 --> 00:39:15,353
+Listen, if I overstepped,
+
+977
+00:39:15,394 --> 00:39:18,690
+then I apologize.
+
+978
+00:39:18,731 --> 00:39:20,441
+Just, after drinks
+the other night...
+
+979
+00:39:20,483 --> 00:39:24,029
+- You were willing
+to risk your life for me?
+
+980
+00:39:24,070 --> 00:39:26,698
+- I've been doing a lot
+of silly things recently.
+
+981
+00:39:26,739 --> 00:39:28,825
+I thought adding one more to
+the list wouldn't do any harm.
+
+982
+00:39:28,867 --> 00:39:30,243
+- I like you, Julian.
+
+983
+00:39:30,285 --> 00:39:31,244
+I do.
+
+984
+00:39:31,286 --> 00:39:33,913
+And I like that you like me.
+
+985
+00:39:33,955 --> 00:39:36,082
+But I'm also afraid
+of my powers...
+
+986
+00:39:36,124 --> 00:39:38,001
+and not what they
+could do to me,
+
+987
+00:39:38,043 --> 00:39:40,962
+but what they could do to anyone
+who gets close to me.
+
+988
+00:39:41,004 --> 00:39:42,380
+- Caitlin, I'm not afraid.
+
+989
+00:39:42,421 --> 00:39:44,049
+- You should be.
+
+990
+00:39:44,090 --> 00:39:46,176
+Fear me, Julian.
+
+991
+00:39:46,218 --> 00:39:48,636
+It's not a threat,
+just...
+
+992
+00:39:48,678 --> 00:39:50,055
+good advice.
+
+993
+00:39:50,096 --> 00:39:53,266
+<i>[gentle music]</i>
+
+994
+00:39:53,308 --> 00:39:55,601
+- Okay, fine.
+
+995
+00:39:55,643 --> 00:39:58,604
+I'll fear you.
+
+996
+00:39:58,646 --> 00:40:01,733
+You know what really
+helps me when I'm scared?
+
+997
+00:40:01,774 --> 00:40:03,318
+- What?
+
+998
+00:40:03,360 --> 00:40:05,820
+- Just a good fillet steak...
+
+999
+00:40:05,862 --> 00:40:08,156
+bit of béarnaise
+on the side,
+
+1000
+00:40:08,198 --> 00:40:09,490
+mashed potatoes...
+
+1001
+00:40:09,532 --> 00:40:10,575
+does the trick ever time.
+
+1002
+00:40:10,616 --> 00:40:12,035
+- Really?
+- I promise.
+
+1003
+00:40:12,077 --> 00:40:13,661
+I think we should find
+a local steak house
+
+1004
+00:40:13,703 --> 00:40:17,415
+and be terrified together.
+
+1005
+00:40:17,456 --> 00:40:18,708
+<i>♪ ♪</i>
+
+1006
+00:40:18,750 --> 00:40:21,502
+- Sure.
+Together it is.
+
+1007
+00:40:21,544 --> 00:40:22,545
+- [chuckles]
+
+1008
+00:40:22,587 --> 00:40:27,300
+<i>♪ ♪</i>
+
+1009
+00:40:29,635 --> 00:40:32,513
+- Well...
+- Hmm.
+
+1010
+00:40:32,555 --> 00:40:34,557
+- We did it.
+- You did it.
+
+1011
+00:40:34,599 --> 00:40:37,936
+- No, uh, we all did it.
+
+1012
+00:40:37,977 --> 00:40:43,066
+We changed the future
+without changing who we are.
+
+1013
+00:40:43,108 --> 00:40:44,776
+If we can keep doing this,
+
+1014
+00:40:44,817 --> 00:40:46,485
+we can stop Savitar.
+
+1015
+00:40:46,527 --> 00:40:48,738
+Wherever he is, however
+he's gonna come at us,
+
+1016
+00:40:48,780 --> 00:40:50,073
+I can stop him.
+
+1017
+00:40:50,115 --> 00:40:51,574
+I know it now.
+
+1018
+00:40:51,616 --> 00:40:53,952
+- How do you do that?
+- Do what?
+
+1019
+00:40:53,993 --> 00:40:57,455
+- Stay positive in the face
+of overwhelming odds.
+
+1020
+00:40:57,496 --> 00:40:59,999
+- [chuckles]
+
+1021
+00:41:00,041 --> 00:41:03,002
+Because I plan on living
+a long life with you,
+
+1022
+00:41:03,044 --> 00:41:05,255
+and nothing's gonna take
+that away from me.
+
+1023
+00:41:05,297 --> 00:41:07,090
+- Good.
+
+1024
+00:41:07,132 --> 00:41:09,175
+<i>[tender music]</i>
+
+1025
+00:41:09,217 --> 00:41:10,802
+So does that mean
+no more nightmares?
+
+1026
+00:41:10,843 --> 00:41:13,471
+You're finally gonna get
+some sleep tonight?
+
+1027
+00:41:13,512 --> 00:41:17,016
+- Well...that last part
+is entirely up to you.
+
+1028
+00:41:17,058 --> 00:41:19,227
+- Oh.
+[chuckles]
+
+1029
+00:41:19,269 --> 00:41:23,940
+<i>♪ ♪</i>
+
+1030
+00:41:26,859 --> 00:41:28,069
+<i>[dramatic music]</i>
+
+1031
+00:41:28,111 --> 00:41:29,695
+[gorillas growling]
+
+1032
+00:41:29,737 --> 00:41:34,284
+<i>- Like I told Flash,
+always think ahead.</i>
+
+1033
+00:41:34,326 --> 00:41:37,287
+<i>Now you will open the breaches</i>
+
+1034
+00:41:37,329 --> 00:41:39,247
+<i>and very soon,</i>
+
+1035
+00:41:39,289 --> 00:41:44,043
+<i>Central City
+will fall before Grodd.</i>
+
+1036
+00:41:44,085 --> 00:41:47,922
+<i>♪ ♪</i>
+
+1037
+00:42:09,944 --> 00:42:11,279
+- Greg, move your head.
+

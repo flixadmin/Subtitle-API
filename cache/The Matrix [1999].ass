@@ -1,0 +1,1492 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 0
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+PlayResX: 1920
+PlayResY: 800
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Verdana,55,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:30.00,Default,,0,0,0,,{\c&H51b101&\fs144\fnThe Matrix I}THE{\c}{\fn\fs}\N{\c&H51b101&\fs277\fnThe Matrix I}MATRIX{\c}{\fn\fs}\N{\c&H429201&\ fs77 \fnThe Matrix I}abcdefg 1999 hijklmt
+Dialogue: 0,0:00:49.20,0:00:52.62,Default,,0,0,0,,{\i1}Is everything in place?\N- You weren't supposed to relieve me.{\i0}
+Dialogue: 0,0:00:52.88,0:00:55.50,Default,,0,0,0,,{\i1}I know, but I felt like taking a shift.{\i0}
+Dialogue: 0,0:00:56.04,0:00:58.66,Default,,0,0,0,,{\i1}You like him, don't you? You like watching him.{\i0}
+Dialogue: 0,0:00:58.67,0:01:01.67,Default,,0,0,0,,{\i1}Don't be ridiculous.\N- We're gonna kill him. You understand?{\i0}
+Dialogue: 0,0:01:01.93,0:01:04.42,Default,,0,0,0,,{\i1}Morpheus believes he is the One.{\i0}
+Dialogue: 0,0:01:04.68,0:01:07.84,Default,,0,0,0,,{\i1}Do you?\N- It doesn't matter what I believe.{\i0}
+Dialogue: 0,0:01:07.85,0:01:09.47,Default,,0,0,0,,{\i1}You don't, do you?{\i0}
+Dialogue: 0,0:01:09.73,0:01:11.80,Default,,0,0,0,,{\i1}Did you hear that?\N- Hear what?{\i0}
+Dialogue: 0,0:01:12.06,0:01:13.64,Default,,0,0,0,,{\i1}Are you sure this line is clean?{\i0}
+Dialogue: 0,0:01:13.90,0:01:15.89,Default,,0,0,0,,{\i1}Yeah, of course I'm sure.{\i0}
+Dialogue: 0,0:01:16.23,0:01:17.69,Default,,0,0,0,,{\i1}I better go.{\i0}
+Dialogue: 0,0:01:55.65,0:01:57.44,Default,,0,0,0,,Freeze! Police!\N- Hands on your head!
+Dialogue: 0,0:01:57.98,0:01:59.06,Default,,0,0,0,,Do it! Do it now!
+Dialogue: 0,0:02:20.46,0:02:21.96,Default,,0,0,0,,Lieutenant.
+Dialogue: 0,0:02:21.97,0:02:23.08,Default,,0,0,0,,Oh, shit.
+Dialogue: 0,0:02:23.93,0:02:27.13,Default,,0,0,0,,Lieutenant, you were given specific orders.
+Dialogue: 0,0:02:27.39,0:02:29.09,Default,,0,0,0,,I'm just doing my job.
+Dialogue: 0,0:02:29.72,0:02:34.14,Default,,0,0,0,,You give me that "juris-my-dick-tion" crap, you can cram it up your ass.
+Dialogue: 0,0:02:34.60,0:02:37.09,Default,,0,0,0,,The orders were for your protection.
+Dialogue: 0,0:02:38.61,0:02:40.81,Default,,0,0,0,,I think we can handle one little girl.
+Dialogue: 0,0:02:45.95,0:02:47.69,Default,,0,0,0,,I sent two units!
+Dialogue: 0,0:02:47.95,0:02:49.53,Default,,0,0,0,,They're bringing her down now!
+Dialogue: 0,0:02:49.79,0:02:52.90,Default,,0,0,0,,No, Lieutenant, your men are already dead.
+Dialogue: 0,0:03:21.98,0:03:23.06,Default,,0,0,0,,Shit.
+Dialogue: 0,0:03:25.70,0:03:28.31,Default,,0,0,0,,Morpheus, the line was traced. I don't know how.
+Dialogue: 0,0:03:28.32,0:03:29.90,Default,,0,0,0,,{\i1}I know. They cut the hard line.{\i0}
+Dialogue: 0,0:03:30.16,0:03:32.32,Default,,0,0,0,,{\i1}There's no time. Get to another exit.{\i0}
+Dialogue: 0,0:03:32.58,0:03:35.20,Default,,0,0,0,,Are there any Agents?\N- {\i1}Yes.{\i0}
+Dialogue: 0,0:03:35.21,0:03:36.61,Default,,0,0,0,,Goddamn it.
+Dialogue: 0,0:03:36.62,0:03:38.41,Default,,0,0,0,,{\i1}You have to focus, Trinity.{\i0}
+Dialogue: 0,0:03:38.42,0:03:40.79,Default,,0,0,0,,{\i1}There's a phone at Wells and Lake.{\i0}
+Dialogue: 0,0:03:41.17,0:03:42.83,Default,,0,0,0,,{\i1}You can make it.{\i0}
+Dialogue: 0,0:03:43.09,0:03:44.75,Default,,0,0,0,,All right.\N- {\i1}Go.{\i0}
+Dialogue: 0,0:04:46.90,0:04:47.93,Default,,0,0,0,,That's impossible.
+Dialogue: 0,0:05:22.94,0:05:24.98,Default,,0,0,0,,Get up, Trinity. Just get up.
+Dialogue: 0,0:05:25.61,0:05:26.81,Default,,0,0,0,,Get up.
+Dialogue: 0,0:05:39.72,0:05:41.63,Default,,0,0,0,,[TELEPHONE RINGING]
+Dialogue: 0,0:05:45.88,0:05:47.47,Default,,0,0,0,,[TELEPHONE RINGING]
+Dialogue: 0,0:06:12.70,0:06:14.19,Default,,0,0,0,,She got out.
+Dialogue: 0,0:06:14.49,0:06:15.77,Default,,0,0,0,,It doesn't matter.
+Dialogue: 0,0:06:16.04,0:06:18.11,Default,,0,0,0,,The informant is real.
+Dialogue: 0,0:06:19.46,0:06:21.36,Default,,0,0,0,,We have the name of their next target.
+Dialogue: 0,0:06:21.37,0:06:23.03,Default,,0,0,0,,The name is Neo.
+Dialogue: 0,0:06:26.34,0:06:27.83,Default,,0,0,0,,We'll need a search running.
+Dialogue: 0,0:06:28.13,0:06:30.04,Default,,0,0,0,,It has already begun.
+Dialogue: 0,0:06:39.11,0:06:44.11,Default,,0,0,0,,[ ♪ MASSIVE ATTACK - "DISSOLVED GIRL" ♪ ]
+Dialogue: 0,0:07:24.81,0:07:26.01,Default,,0,0,0,,What?
+Dialogue: 0,0:07:31.78,0:07:33.27,Default,,0,0,0,,What the hell?
+Dialogue: 0,0:07:40.91,0:07:42.87,Default,,0,0,0,,"Follow the white rabbit."
+Dialogue: 0,0:07:54.72,0:07:55.88,Default,,0,0,0,,Who is it?
+Dialogue: 0,0:07:56.14,0:07:57.42,Default,,0,0,0,,It's Choi.
+Dialogue: 0,0:08:02.72,0:08:04.31,Default,,0,0,0,,Yeah. [SOFTY] Yeah.
+Dialogue: 0,0:08:10.94,0:08:12.11,Default,,0,0,0,,You're two hours late.
+Dialogue: 0,0:08:12.70,0:08:14.44,Default,,0,0,0,,I know. It's her fault.
+Dialogue: 0,0:08:14.74,0:08:16.78,Default,,0,0,0,,You got the money?
+Dialogue: 0,0:08:17.83,0:08:18.99,Default,,0,0,0,,Two grand.
+Dialogue: 0,0:08:19.87,0:08:20.98,Default,,0,0,0,,Hold on.
+Dialogue: 0,0:08:38.68,0:08:40.05,Default,,0,0,0,,Hallelujah.
+Dialogue: 0,0:08:40.31,0:08:43.42,Default,,0,0,0,,You're my savior. My own personal Jesus Christ.
+Dialogue: 0,0:08:43.43,0:08:45.55,Default,,0,0,0,,You get caught using that...
+Dialogue: 0,0:08:45.56,0:08:47.68,Default,,0,0,0,,I know. This never happened. You don't exist.
+Dialogue: 0,0:08:48.81,0:08:50.89,Default,,0,0,0,,Right.\N- Something wrong, man?
+Dialogue: 0,0:08:51.15,0:08:53.19,Default,,0,0,0,,You look a little whiter than usual.
+Dialogue: 0,0:08:54.32,0:08:56.48,Default,,0,0,0,,My computer, it...
+Dialogue: 0,0:08:59.49,0:09:04.04,Default,,0,0,0,,Ever have that feeling where you're not sure if you're awake or dreaming?
+Dialogue: 0,0:09:04.83,0:09:07.58,Default,,0,0,0,,All the time. It's called mescaline.
+Dialogue: 0,0:09:08.08,0:09:10.21,Default,,0,0,0,,It's the only way to fly.
+Dialogue: 0,0:09:11.09,0:09:13.58,Default,,0,0,0,,It just sounds like you need to unplug, man.
+Dialogue: 0,0:09:14.34,0:09:16.38,Default,,0,0,0,,You know, get some R&R?
+Dialogue: 0,0:09:16.76,0:09:20.51,Default,,0,0,0,,What do you think, Dujour? Should we take him with us?
+Dialogue: 0,0:09:22.52,0:09:23.92,Default,,0,0,0,,Definitely.
+Dialogue: 0,0:09:23.93,0:09:27.10,Default,,0,0,0,,No, I can't. I have work tomorrow.
+Dialogue: 0,0:09:27.65,0:09:28.76,Default,,0,0,0,,Come on.
+Dialogue: 0,0:09:29.02,0:09:31.64,Default,,0,0,0,,It'll be fun. I promise.
+Dialogue: 0,0:09:38.16,0:09:39.65,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:09:40.49,0:09:42.45,Default,,0,0,0,,Sure. I'll go.
+Dialogue: 0,0:09:42.46,0:09:47.46,Default,,0,0,0,,[ ♪ ROB ZOMBIE - "DRAGULA" ♪ ]
+Dialogue: 0,0:10:09.69,0:10:11.02,Default,,0,0,0,,Hello, Neo.
+Dialogue: 0,0:10:12.57,0:10:16.07,Default,,0,0,0,,How do you know that name?\N- I know a lot about you.
+Dialogue: 0,0:10:16.95,0:10:19.02,Default,,0,0,0,,Who are you?\N- My name is Trinity.
+Dialogue: 0,0:10:19.86,0:10:21.05,Default,,0,0,0,,Trinity.
+Dialogue: 0,0:10:21.06,0:10:23.18,Default,,0,0,0,,[ ♪ THE PRODIGY - "MINDFIELDS" ♪ ]
+Dialogue: 0,0:10:23.19,0:10:26.35,Default,,0,0,0,,The Trinity? That cracked the IRS D-base?
+Dialogue: 0,0:10:26.36,0:10:28.11,Default,,0,0,0,,That was a long time ago.
+Dialogue: 0,0:10:28.12,0:10:29.29,Default,,0,0,0,,Jesus.
+Dialogue: 0,0:10:29.30,0:10:30.49,Default,,0,0,0,,What?
+Dialogue: 0,0:10:30.50,0:10:32.60,Default,,0,0,0,,I just thought, erm...
+Dialogue: 0,0:10:34.05,0:10:35.39,Default,,0,0,0,,you were a guy.
+Dialogue: 0,0:10:35.40,0:10:36.86,Default,,0,0,0,,Most guys do.
+Dialogue: 0,0:10:38.13,0:10:40.34,Default,,0,0,0,,That was you on my computer.
+Dialogue: 0,0:10:40.97,0:10:42.08,Default,,0,0,0,,How did you do that?
+Dialogue: 0,0:10:42.72,0:10:45.43,Default,,0,0,0,,Right now, all I can tell you...
+Dialogue: 0,0:10:46.06,0:10:47.60,Default,,0,0,0,,is that you're in danger.
+Dialogue: 0,0:10:48.06,0:10:50.47,Default,,0,0,0,,I brought you here to warn you.\N- Of what?
+Dialogue: 0,0:10:51.06,0:10:52.72,Default,,0,0,0,,They're watching you, Neo.
+Dialogue: 0,0:10:53.32,0:10:55.72,Default,,0,0,0,,Who is?\N- Please just listen.
+Dialogue: 0,0:10:59.24,0:11:01.06,Default,,0,0,0,,I know why you're here, Neo.
+Dialogue: 0,0:11:01.87,0:11:03.82,Default,,0,0,0,,I know what you've been doing.
+Dialogue: 0,0:11:04.08,0:11:05.95,Default,,0,0,0,,I know why you hardly sleep...
+Dialogue: 0,0:11:06.25,0:11:09.36,Default,,0,0,0,,why you live alone and why, night after night...
+Dialogue: 0,0:11:09.62,0:11:11.95,Default,,0,0,0,,you sit at your computer.
+Dialogue: 0,0:11:13.13,0:11:14.67,Default,,0,0,0,,You're looking for him.
+Dialogue: 0,0:11:15.46,0:11:18.46,Default,,0,0,0,,I know, because I was once looking for the same thing.
+Dialogue: 0,0:11:18.97,0:11:21.09,Default,,0,0,0,,And when he found me...
+Dialogue: 0,0:11:21.72,0:11:24.80,Default,,0,0,0,,he told me I wasn't really looking for him...
+Dialogue: 0,0:11:25.72,0:11:27.47,Default,,0,0,0,,I was looking for an answer.
+Dialogue: 0,0:11:28.10,0:11:31.22,Default,,0,0,0,,It's the question that drives us, Neo.
+Dialogue: 0,0:11:31.90,0:11:34.57,Default,,0,0,0,,It's the question that brought you here.
+Dialogue: 0,0:11:36.65,0:11:38.27,Default,,0,0,0,,You know the question...
+Dialogue: 0,0:11:38.28,0:11:39.77,Default,,0,0,0,,just as I did.
+Dialogue: 0,0:11:41.32,0:11:43.19,Default,,0,0,0,,What is the Matrix?
+Dialogue: 0,0:11:43.20,0:11:45.65,Default,,0,0,0,,The answer is out there, Neo.
+Dialogue: 0,0:11:46.33,0:11:48.32,Default,,0,0,0,,It's looking for you.
+Dialogue: 0,0:11:49.12,0:11:51.07,Default,,0,0,0,,And it will find you...
+Dialogue: 0,0:11:51.08,0:11:53.07,Default,,0,0,0,,if you want it to.
+Dialogue: 0,0:11:59.54,0:12:01.08,Default,,0,0,0,,Oh, shit.
+Dialogue: 0,0:12:01.09,0:12:02.21,Default,,0,0,0,,Oh shit, shit.
+Dialogue: 0,0:12:12.48,0:12:15.31,Default,,0,0,0,,You have a problem with authority, Mr. Anderson.
+Dialogue: 0,0:12:15.57,0:12:17.55,Default,,0,0,0,,You believe that you are special...
+Dialogue: 0,0:12:17.56,0:12:19.87,Default,,0,0,0,,that, somehow, the rules do not apply to you.
+Dialogue: 0,0:12:20.32,0:12:22.31,Default,,0,0,0,,Obviously, you are mistaken.
+Dialogue: 0,0:12:25.28,0:12:28.50,Default,,0,0,0,,This company is one of the top software companies in the world...
+Dialogue: 0,0:12:28.51,0:12:32.03,Default,,0,0,0,,because every single employee understands that they are part of a whole.
+Dialogue: 0,0:12:32.04,0:12:36.67,Default,,0,0,0,,Thus, if an employee has a problem, the company has a problem.
+Dialogue: 0,0:12:38.92,0:12:42.13,Default,,0,0,0,,The time has come to make a choice, Mr. Anderson.
+Dialogue: 0,0:12:43.01,0:12:46.88,Default,,0,0,0,,Either you choose to be at your desk {\i1}on time{\i0} from this day forth...
+Dialogue: 0,0:12:47.51,0:12:50.09,Default,,0,0,0,,or you choose to find another job.
+Dialogue: 0,0:12:50.98,0:12:52.30,Default,,0,0,0,,Do I make myself clear?
+Dialogue: 0,0:12:52.56,0:12:54.97,Default,,0,0,0,,Yes, Mr. Rhineheart. Perfectly clear.
+Dialogue: 0,0:13:03.45,0:13:05.44,Default,,0,0,0,,Thomas Anderson?
+Dialogue: 0,0:13:06.58,0:13:07.99,Default,,0,0,0,,Yeah, that's me.
+Dialogue: 0,0:13:16.00,0:13:17.16,Default,,0,0,0,,Great.
+Dialogue: 0,0:13:18.59,0:13:19.75,Default,,0,0,0,,Have a nice day.
+Dialogue: 0,0:13:35.79,0:13:36.55,Default,,0,0,0,,Hello?
+Dialogue: 0,0:13:36.56,0:13:39.90,Default,,0,0,0,,{\i1}Hello, Neo. Do you know who this is?{\i0}
+Dialogue: 0,0:13:42.15,0:13:43.90,Default,,0,0,0,,Morpheus.\N- {\i1}Yes.{\i0}
+Dialogue: 0,0:13:44.16,0:13:46.15,Default,,0,0,0,,{\i1}I've been looking for you.{\i0}
+Dialogue: 0,0:13:46.41,0:13:49.57,Default,,0,0,0,,{\i1}I don't know if you're ready to see what I want to show you.{\i0}
+Dialogue: 0,0:13:49.83,0:13:52.99,Default,,0,0,0,,{\i1}But unfortunately, you and I have run out of time.{\i0}
+Dialogue: 0,0:13:53.25,0:13:56.95,Default,,0,0,0,,{\i1}They're coming for you, Neo, and I don't know what they're going to do.{\i0}
+Dialogue: 0,0:13:57.21,0:13:58.78,Default,,0,0,0,,Who's coming for me?
+Dialogue: 0,0:13:58.79,0:14:00.87,Default,,0,0,0,,{\i1}Stand up and see for yourself.{\i0}
+Dialogue: 0,0:14:01.13,0:14:03.92,Default,,0,0,0,,What? Right now?\N- {\i1}Yes.{\i0}
+Dialogue: 0,0:14:04.18,0:14:05.42,Default,,0,0,0,,{\i1}Now.{\i0}
+Dialogue: 0,0:14:06.30,0:14:08.18,Default,,0,0,0,,{\i1}Do it slowly.{\i0}
+Dialogue: 0,0:14:08.60,0:14:09.79,Default,,0,0,0,,{\i1}The elevator.{\i0}
+Dialogue: 0,0:14:14.69,0:14:16.48,Default,,0,0,0,,Oh, shit!
+Dialogue: 0,0:14:21.26,0:14:22.50,Default,,0,0,0,,What the hell do they want from me?
+Dialogue: 0,0:14:22.51,0:14:26.02,Default,,0,0,0,,{\i1}I don't know. If you don't want to find out, get out of there.{\i0}
+Dialogue: 0,0:14:26.03,0:14:27.23,Default,,0,0,0,,How?
+Dialogue: 0,0:14:27.24,0:14:30.33,Default,,0,0,0,,{\i1}I can guide you, but you must do exactly as I say.{\i0}
+Dialogue: 0,0:14:31.20,0:14:33.19,Default,,0,0,0,,{\i1}The cubicle across from you is empty.{\i0}
+Dialogue: 0,0:14:36.33,0:14:38.46,Default,,0,0,0,,But what if they...\N- {\i1}Go. Now.{\i0}
+Dialogue: 0,0:14:45.22,0:14:47.59,Default,,0,0,0,,{\i1}Stay here for just a moment.{\i0}
+Dialogue: 0,0:14:54.81,0:14:57.80,Default,,0,0,0,,{\i1}When I tell you, go to the end of the row...{\i0}
+Dialogue: 0,0:14:57.81,0:15:00.01,Default,,0,0,0,,{\i1}to the office at the end of the hall.{\i0}
+Dialogue: 0,0:15:00.02,0:15:02.40,Default,,0,0,0,,{\i1}Stay as low as you can.{\i0}
+Dialogue: 0,0:15:04.78,0:15:05.81,Default,,0,0,0,,{\i1}Go. Now.{\i0}
+Dialogue: 0,0:15:20.21,0:15:23.74,Default,,0,0,0,,{\i1}Good. Now, outside there is a scaffold.{\i0}
+Dialogue: 0,0:15:26.47,0:15:28.79,Default,,0,0,0,,How do you know this?\N- {\i1}We don't have time.{\i0}
+Dialogue: 0,0:15:29.05,0:15:31.89,Default,,0,0,0,,{\i1}To your left there's a window. Go to it.{\i0}
+Dialogue: 0,0:15:34.14,0:15:35.68,Default,,0,0,0,,{\i1}Open it.{\i0}
+Dialogue: 0,0:15:36.52,0:15:38.55,Default,,0,0,0,,{\i1}Take the scaffold to the roof.{\i0}
+Dialogue: 0,0:15:38.56,0:15:41.14,Default,,0,0,0,,No way! No way! This is crazy!
+Dialogue: 0,0:15:41.40,0:15:43.77,Default,,0,0,0,,{\i1}There are two ways out of this building.{\i0}
+Dialogue: 0,0:15:44.03,0:15:47.81,Default,,0,0,0,,{\i1}One is that scaffold. The other is in their custody.{\i0}
+Dialogue: 0,0:15:48.07,0:15:51.28,Default,,0,0,0,,{\i1}You take a chance either way. I leave it to you.{\i0}
+Dialogue: 0,0:15:54.87,0:15:56.61,Default,,0,0,0,,This is insane!
+Dialogue: 0,0:15:57.79,0:15:59.66,Default,,0,0,0,,Why is this happening to me?
+Dialogue: 0,0:15:59.96,0:16:01.58,Default,,0,0,0,,What'd I do?
+Dialogue: 0,0:16:01.96,0:16:04.71,Default,,0,0,0,,I'm nobody. I didn't do anything.
+Dialogue: 0,0:16:05.30,0:16:06.76,Default,,0,0,0,,I'm gonna die.
+Dialogue: 0,0:16:16.56,0:16:17.59,Default,,0,0,0,,Shit!
+Dialogue: 0,0:16:37.87,0:16:38.99,Default,,0,0,0,,Oh, shit!
+Dialogue: 0,0:16:43.96,0:16:45.75,Default,,0,0,0,,I can't do this.
+Dialogue: 0,0:16:58.35,0:16:59.43,Default,,0,0,0,,Shit.
+Dialogue: 0,0:17:48.69,0:17:53.52,Default,,0,0,0,,As you can see, we've had our eye on you for some time now, Mr. Anderson.
+Dialogue: 0,0:17:54.83,0:17:57.73,Default,,0,0,0,,It seems that you've been living...
+Dialogue: 0,0:17:57.74,0:17:59.87,Default,,0,0,0,,two lives.
+Dialogue: 0,0:18:01.29,0:18:03.78,Default,,0,0,0,,In one life, you're Thomas A. Anderson...
+Dialogue: 0,0:18:04.04,0:18:07.38,Default,,0,0,0,,program writer for a respectable software company.
+Dialogue: 0,0:18:08.42,0:18:11.71,Default,,0,0,0,,You have a social security number. You pay your taxes.
+Dialogue: 0,0:18:12.18,0:18:13.42,Default,,0,0,0,,And you...
+Dialogue: 0,0:18:15.01,0:18:18.63,Default,,0,0,0,,help your landlady carry out her garbage.
+Dialogue: 0,0:18:21.14,0:18:24.26,Default,,0,0,0,,The other life is lived in computers...
+Dialogue: 0,0:18:24.56,0:18:27.52,Default,,0,0,0,,where you go by the hacker alias "Neo"...
+Dialogue: 0,0:18:27.78,0:18:32.57,Default,,0,0,0,,and are guilty of virtually every computer crime we have a law for.
+Dialogue: 0,0:18:33.87,0:18:35.82,Default,,0,0,0,,One of these lives...
+Dialogue: 0,0:18:36.08,0:18:37.90,Default,,0,0,0,,has a future.
+Dialogue: 0,0:18:38.24,0:18:40.24,Default,,0,0,0,,And one of them does not.
+Dialogue: 0,0:18:43.96,0:18:47.79,Default,,0,0,0,,I'm going to be as forthcoming as I can be, Mr. Anderson.
+Dialogue: 0,0:18:48.80,0:18:50.12,Default,,0,0,0,,You're here...
+Dialogue: 0,0:18:50.47,0:18:52.71,Default,,0,0,0,,because we need your help.
+Dialogue: 0,0:18:56.35,0:18:59.59,Default,,0,0,0,,We know that you've been contacted by a certain...
+Dialogue: 0,0:18:59.60,0:19:01.39,Default,,0,0,0,,individual.
+Dialogue: 0,0:19:02.31,0:19:06.35,Default,,0,0,0,,A man who calls himself "Morpheus."
+Dialogue: 0,0:19:07.36,0:19:11.35,Default,,0,0,0,,Whatever you think you know about this man is irrelevant.
+Dialogue: 0,0:19:11.61,0:19:14.02,Default,,0,0,0,,He is considered by many authorities...
+Dialogue: 0,0:19:14.28,0:19:17.32,Default,,0,0,0,,to be the most dangerous man alive.
+Dialogue: 0,0:19:20.08,0:19:21.28,Default,,0,0,0,,My colleagues...
+Dialogue: 0,0:19:21.71,0:19:24.62,Default,,0,0,0,,believe that I am wasting my time with you.
+Dialogue: 0,0:19:24.92,0:19:28.33,Default,,0,0,0,,But I believe you wish to do the right thing.
+Dialogue: 0,0:19:28.63,0:19:32.13,Default,,0,0,0,,We're willing to wipe the slate clean...
+Dialogue: 0,0:19:32.51,0:19:34.63,Default,,0,0,0,,give you a fresh start.
+Dialogue: 0,0:19:35.14,0:19:38.05,Default,,0,0,0,,All we're asking in return is your cooperation...
+Dialogue: 0,0:19:38.31,0:19:41.80,Default,,0,0,0,,in bringing a known terrorist to justice.
+Dialogue: 0,0:19:43.19,0:19:44.43,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:19:45.73,0:19:47.81,Default,,0,0,0,,That sounds like a really good deal.
+Dialogue: 0,0:19:49.44,0:19:51.18,Default,,0,0,0,,But I got a better one.
+Dialogue: 0,0:19:51.44,0:19:52.94,Default,,0,0,0,,How about...
+Dialogue: 0,0:19:53.36,0:19:55.35,Default,,0,0,0,,I give you the finger...
+Dialogue: 0,0:19:57.95,0:19:59.99,Default,,0,0,0,,and you give me my phone call.
+Dialogue: 0,0:20:02.16,0:20:03.99,Default,,0,0,0,,Mr. Anderson...
+Dialogue: 0,0:20:07.96,0:20:09.20,Default,,0,0,0,,you disappoint me.
+Dialogue: 0,0:20:09.46,0:20:12.08,Default,,0,0,0,,You can't scare me with this gestapo crap.
+Dialogue: 0,0:20:12.34,0:20:13.71,Default,,0,0,0,,I know my rights.
+Dialogue: 0,0:20:13.97,0:20:15.46,Default,,0,0,0,,I want my phone call.
+Dialogue: 0,0:20:16.05,0:20:18.21,Default,,0,0,0,,Tell me, Mr. Anderson...
+Dialogue: 0,0:20:19.10,0:20:20.51,Default,,0,0,0,,what good is a phone call...
+Dialogue: 0,0:20:20.77,0:20:24.35,Default,,0,0,0,,if you're unable to speak?
+Dialogue: 0,0:20:58.14,0:21:00.34,Default,,0,0,0,,You're going to help us, Mr. Anderson...
+Dialogue: 0,0:21:01.06,0:21:03.13,Default,,0,0,0,,whether you want to or not.
+Dialogue: 0,0:22:01.45,0:22:04.94,Default,,0,0,0,,{\i1}This line is tapped, so I must be brief.{\i0}
+Dialogue: 0,0:22:04.95,0:22:09.49,Default,,0,0,0,,{\i1}They got to you first, but they've underestimated how important you are.{\i0}
+Dialogue: 0,0:22:09.50,0:22:11.33,Default,,0,0,0,,{\i1}If they knew what I know...{\i0}
+Dialogue: 0,0:22:11.59,0:22:13.58,Default,,0,0,0,,{\i1}you would probably be dead.{\i0}
+Dialogue: 0,0:22:14.59,0:22:18.29,Default,,0,0,0,,What are you talking about? What is happening to me?
+Dialogue: 0,0:22:18.55,0:22:23.38,Default,,0,0,0,,{\i1}You are the One, Neo. You may have spent the last few years...{\i0}
+Dialogue: 0,0:22:23.64,0:22:26.59,Default,,0,0,0,,{\i1}looking for me, but I've spent my entire life...{\i0}
+Dialogue: 0,0:22:26.85,0:22:28.34,Default,,0,0,0,,{\i1}looking for you.{\i0}
+Dialogue: 0,0:22:29.90,0:22:32.05,Default,,0,0,0,,{\i1}Now, do you still want to meet?{\i0}
+Dialogue: 0,0:22:33.02,0:22:35.89,Default,,0,0,0,,Yes.\N- {\i1}Then go to the Adams Street bridge.{\i0}
+Dialogue: 0,0:22:46.12,0:22:47.32,Default,,0,0,0,,Get in.
+Dialogue: 0,0:22:59.59,0:23:03.21,Default,,0,0,0,,What's this?\N- It's necessary, Neo. For our protection.
+Dialogue: 0,0:23:03.47,0:23:05.63,Default,,0,0,0,,From what?\N- From you.
+Dialogue: 0,0:23:07.18,0:23:08.64,Default,,0,0,0,,Take off your shirt.
+Dialogue: 0,0:23:08.98,0:23:10.93,Default,,0,0,0,,Stop the car.
+Dialogue: 0,0:23:14.57,0:23:15.97,Default,,0,0,0,,Listen, coppertop.
+Dialogue: 0,0:23:15.98,0:23:17.98,Default,,0,0,0,,We don't have time for 20 Questions.
+Dialogue: 0,0:23:18.49,0:23:20.86,Default,,0,0,0,,Right now, there's only one rule:
+Dialogue: 0,0:23:21.16,0:23:22.48,Default,,0,0,0,,Our way...
+Dialogue: 0,0:23:22.82,0:23:23.90,Default,,0,0,0,,or the highway.
+Dialogue: 0,0:23:30.42,0:23:31.53,Default,,0,0,0,,Fine.
+Dialogue: 0,0:23:33.42,0:23:35.87,Default,,0,0,0,,Please, Neo, you have to trust me.
+Dialogue: 0,0:23:36.46,0:23:39.08,Default,,0,0,0,,Why?\N- Because you have been down there.
+Dialogue: 0,0:23:39.84,0:23:41.04,Default,,0,0,0,,You know that road.
+Dialogue: 0,0:23:42.05,0:23:43.71,Default,,0,0,0,,You know exactly where it ends.
+Dialogue: 0,0:23:45.89,0:23:48.13,Default,,0,0,0,,And I know that's not where you want to be.
+Dialogue: 0,0:24:02.32,0:24:03.86,Default,,0,0,0,,Apoc, lights.
+Dialogue: 0,0:24:06.37,0:24:08.53,Default,,0,0,0,,Lie back. Lift up your shirt.
+Dialogue: 0,0:24:10.45,0:24:12.70,Default,,0,0,0,,What's that?\N- You're bugged.
+Dialogue: 0,0:24:20.47,0:24:21.92,Default,,0,0,0,,Try and relax.
+Dialogue: 0,0:24:28.22,0:24:29.39,Default,,0,0,0,,Come on.
+Dialogue: 0,0:24:30.60,0:24:32.64,Default,,0,0,0,,Come on.
+Dialogue: 0,0:24:33.27,0:24:35.31,Default,,0,0,0,,It's on the move.
+Dialogue: 0,0:24:36.02,0:24:37.22,Default,,0,0,0,,Come on, you shit.
+Dialogue: 0,0:24:39.07,0:24:41.31,Default,,0,0,0,,You're gonna lose it.\N- No, I'm not.
+Dialogue: 0,0:24:41.32,0:24:42.56,Default,,0,0,0,,Clear!
+Dialogue: 0,0:24:51.16,0:24:53.29,Default,,0,0,0,,Jesus Christ! That thing's real?!
+Dialogue: 0,0:25:27.03,0:25:28.36,Default,,0,0,0,,This is it.
+Dialogue: 0,0:25:31.70,0:25:34.16,Default,,0,0,0,,Let me give you one piece of advice.
+Dialogue: 0,0:25:35.12,0:25:36.78,Default,,0,0,0,,Be honest.
+Dialogue: 0,0:25:38.38,0:25:40.58,Default,,0,0,0,,He knows more than you can imagine.
+Dialogue: 0,0:25:49.31,0:25:50.63,Default,,0,0,0,,At last.
+Dialogue: 0,0:25:52.18,0:25:53.26,Default,,0,0,0,,Welcome, Neo.
+Dialogue: 0,0:25:54.48,0:25:56.39,Default,,0,0,0,,As you no doubt have guessed...
+Dialogue: 0,0:25:56.65,0:25:57.89,Default,,0,0,0,,I am Morpheus.
+Dialogue: 0,0:25:58.94,0:26:00.52,Default,,0,0,0,,It's an honor to meet you.
+Dialogue: 0,0:26:00.98,0:26:02.01,Default,,0,0,0,,No...
+Dialogue: 0,0:26:02.61,0:26:03.89,Default,,0,0,0,,the honor is mine.
+Dialogue: 0,0:26:04.82,0:26:07.31,Default,,0,0,0,,Please, come. Sit.
+Dialogue: 0,0:26:22.42,0:26:24.05,Default,,0,0,0,,I imagine...
+Dialogue: 0,0:26:24.47,0:26:27.22,Default,,0,0,0,,that right now you're feeling a bit like Alice...
+Dialogue: 0,0:26:28.93,0:26:31.34,Default,,0,0,0,,tumbling down the rabbit hole? Hm?
+Dialogue: 0,0:26:32.27,0:26:34.17,Default,,0,0,0,,You could say that.
+Dialogue: 0,0:26:34.18,0:26:36.81,Default,,0,0,0,,I can see it in your eyes.
+Dialogue: 0,0:26:37.40,0:26:40.68,Default,,0,0,0,,You have the look of a man who accepts what he sees...
+Dialogue: 0,0:26:40.94,0:26:43.18,Default,,0,0,0,,because he's expecting to wake up.
+Dialogue: 0,0:26:44.61,0:26:47.23,Default,,0,0,0,,Ironically, this is not far from the truth.
+Dialogue: 0,0:26:47.91,0:26:50.40,Default,,0,0,0,,Do you believe in fate, Neo?
+Dialogue: 0,0:26:50.70,0:26:52.99,Default,,0,0,0,,No.\N- Why not?
+Dialogue: 0,0:26:53.25,0:26:56.03,Default,,0,0,0,,I don't like the idea that I'm not in control of my life.
+Dialogue: 0,0:26:57.12,0:27:00.46,Default,,0,0,0,,I know exactly what you mean.
+Dialogue: 0,0:27:04.76,0:27:07.13,Default,,0,0,0,,Let me tell you why you're here.
+Dialogue: 0,0:27:08.18,0:27:09.72,Default,,0,0,0,,You know something.
+Dialogue: 0,0:27:10.26,0:27:11.89,Default,,0,0,0,,What you know, you can't explain.
+Dialogue: 0,0:27:12.39,0:27:13.97,Default,,0,0,0,,But you feel it.
+Dialogue: 0,0:27:14.56,0:27:16.47,Default,,0,0,0,,You felt it your entire life.
+Dialogue: 0,0:27:17.26,0:27:18.85,Default,,0,0,0,,That there's something's wrong with the world.
+Dialogue: 0,0:27:18.86,0:27:21.72,Default,,0,0,0,,You don't know what, but it's there.
+Dialogue: 0,0:27:21.73,0:27:24.18,Default,,0,0,0,,Like a splinter in your mind...
+Dialogue: 0,0:27:24.19,0:27:26.07,Default,,0,0,0,,driving you mad.
+Dialogue: 0,0:27:26.99,0:27:29.74,Default,,0,0,0,,It is this feeling that has brought you to me.
+Dialogue: 0,0:27:32.28,0:27:34.11,Default,,0,0,0,,Do you know what I'm talking about?
+Dialogue: 0,0:27:35.95,0:27:37.28,Default,,0,0,0,,The Matrix?
+Dialogue: 0,0:27:39.79,0:27:41.45,Default,,0,0,0,,Do you want to know...
+Dialogue: 0,0:27:41.92,0:27:43.91,Default,,0,0,0,,what it is?
+Dialogue: 0,0:27:46.30,0:27:48.17,Default,,0,0,0,,The Matrix is everywhere.
+Dialogue: 0,0:27:48.43,0:27:50.13,Default,,0,0,0,,It is all around us.
+Dialogue: 0,0:27:50.39,0:27:52.34,Default,,0,0,0,,Even now, in this very room.
+Dialogue: 0,0:27:53.18,0:27:55.63,Default,,0,0,0,,You can see it when you look out your window...
+Dialogue: 0,0:27:55.64,0:27:57.97,Default,,0,0,0,,or when you turn on your television.
+Dialogue: 0,0:27:58.39,0:28:00.93,Default,,0,0,0,,You can feel it when you go to work...
+Dialogue: 0,0:28:02.48,0:28:04.14,Default,,0,0,0,,when you go to church...
+Dialogue: 0,0:28:04.57,0:28:06.64,Default,,0,0,0,,when you pay your taxes.
+Dialogue: 0,0:28:07.78,0:28:10.94,Default,,0,0,0,,It is the world that has been pulled over your eyes...
+Dialogue: 0,0:28:10.95,0:28:12.53,Default,,0,0,0,,to blind you from the truth.
+Dialogue: 0,0:28:14.74,0:28:15.99,Default,,0,0,0,,What truth?
+Dialogue: 0,0:28:20.25,0:28:22.73,Default,,0,0,0,,That you are a slave, Neo.
+Dialogue: 0,0:28:23.29,0:28:26.02,Default,,0,0,0,,Like everyone else, you were born into bondage...
+Dialogue: 0,0:28:26.03,0:28:30.36,Default,,0,0,0,,born into a prison that you cannot smell or taste or touch.
+Dialogue: 0,0:28:30.80,0:28:32.08,Default,,0,0,0,,A prison...
+Dialogue: 0,0:28:32.35,0:28:33.81,Default,,0,0,0,,for your mind.
+Dialogue: 0,0:28:38.55,0:28:40.47,Default,,0,0,0,,[MORPHEUS SIGHS]
+Dialogue: 0,0:28:40.48,0:28:42.80,Default,,0,0,0,,Unfortunately, no one can be...
+Dialogue: 0,0:28:43.15,0:28:45.52,Default,,0,0,0,,told what the Matrix is.
+Dialogue: 0,0:28:48.99,0:28:50.86,Default,,0,0,0,,You have to see it for yourself.
+Dialogue: 0,0:29:00.37,0:29:02.66,Default,,0,0,0,,This is your last chance.
+Dialogue: 0,0:29:02.92,0:29:05.24,Default,,0,0,0,,After this, there is no turning back.
+Dialogue: 0,0:29:05.71,0:29:07.21,Default,,0,0,0,,You take the blue pill...
+Dialogue: 0,0:29:07.51,0:29:10.54,Default,,0,0,0,,the story ends, you wake up in your bed and believe...
+Dialogue: 0,0:29:10.80,0:29:12.83,Default,,0,0,0,,whatever you want to believe.
+Dialogue: 0,0:29:12.84,0:29:14.17,Default,,0,0,0,,You take the red pill...
+Dialogue: 0,0:29:14.43,0:29:16.39,Default,,0,0,0,,you stay in Wonderland...
+Dialogue: 0,0:29:16.89,0:29:19.59,Default,,0,0,0,,and I show you how deep the rabbit hole goes.
+Dialogue: 0,0:29:29.49,0:29:30.68,Default,,0,0,0,,Remember...
+Dialogue: 0,0:29:31.53,0:29:34.57,Default,,0,0,0,,all I'm offering is the truth. Nothing more.
+Dialogue: 0,0:29:48.88,0:29:50.21,Default,,0,0,0,,Follow me.
+Dialogue: 0,0:29:52.76,0:29:54.42,Default,,0,0,0,,Apoc, are we on-line?
+Dialogue: 0,0:29:54.68,0:29:56.05,Default,,0,0,0,,Almost.
+Dialogue: 0,0:29:59.39,0:30:01.43,Default,,0,0,0,,Time is always against us.
+Dialogue: 0,0:30:01.81,0:30:03.30,Default,,0,0,0,,Please take a seat there.
+Dialogue: 0,0:30:21.50,0:30:23.52,Default,,0,0,0,,You did all this?\N- Uh-mm.
+Dialogue: 0,0:30:27.55,0:30:29.54,Default,,0,0,0,,The pill you took is part of a trace program.
+Dialogue: 0,0:30:30.26,0:30:32.68,Default,,0,0,0,,It's designed to disrupts your input/output carrier signal...
+Dialogue: 0,0:30:32.69,0:30:34.78,Default,,0,0,0,,so we can pinpoint your location.
+Dialogue: 0,0:30:35.26,0:30:36.29,Default,,0,0,0,,What does that mean?
+Dialogue: 0,0:30:36.89,0:30:39.05,Default,,0,0,0,,It means buckle your seat belt, Dorothy...
+Dialogue: 0,0:30:39.39,0:30:40.72,Default,,0,0,0,,because Kansas...
+Dialogue: 0,0:30:41.04,0:30:42.06,Default,,0,0,0,,is going bye-bye.
+Dialogue: 0,0:30:42.07,0:30:43.60,Default,,0,0,0,,[THUNDER]
+Dialogue: 0,0:31:19.93,0:31:21.31,Default,,0,0,0,,Did you...?
+Dialogue: 0,0:31:32.32,0:31:36.40,Default,,0,0,0,,Have you ever had a dream, Neo, that you were so sure was real?
+Dialogue: 0,0:31:37.87,0:31:40.44,Default,,0,0,0,,What if you were unable to wake from that dream?
+Dialogue: 0,0:31:40.70,0:31:43.19,Default,,0,0,0,,How would you know the difference between the dream world...
+Dialogue: 0,0:31:43.83,0:31:45.24,Default,,0,0,0,,and the real world?
+Dialogue: 0,0:31:46.88,0:31:49.25,Default,,0,0,0,,This can't be.\N- Be what?
+Dialogue: 0,0:31:49.96,0:31:51.46,Default,,0,0,0,,Be real?
+Dialogue: 0,0:31:55.43,0:31:57.37,Default,,0,0,0,,It's going into replication.\N- Apoc?
+Dialogue: 0,0:31:57.38,0:32:00.09,Default,,0,0,0,,Still nothing.\N- NEO: It's cold.
+Dialogue: 0,0:32:00.10,0:32:01.47,Default,,0,0,0,,It's cold!
+Dialogue: 0,0:32:05.35,0:32:07.01,Default,,0,0,0,,Tank, we'll need a signal soon.
+Dialogue: 0,0:32:08.56,0:32:11.18,Default,,0,0,0,,I got a fibrillation.\N- Apoc, location.
+Dialogue: 0,0:32:11.44,0:32:12.90,Default,,0,0,0,,Targeting almost there.
+Dialogue: 0,0:32:16.20,0:32:17.85,Default,,0,0,0,,He's going into arrest.
+Dialogue: 0,0:32:17.86,0:32:20.36,Default,,0,0,0,,Lock. I got him!\N- Now, Tank, now!
+Dialogue: 0,0:33:08.00,0:33:09.93,Default,,0,0,0,,Holy shit.
+Dialogue: 0,0:34:29.17,0:34:30.07,Default,,0,0,0,,Whoa.
+Dialogue: 0,0:35:17.63,0:35:18.71,Default,,0,0,0,,Welcome...
+Dialogue: 0,0:35:19.05,0:35:20.96,Default,,0,0,0,,to the real world.
+Dialogue: 0,0:35:22.39,0:35:24.21,Default,,0,0,0,,We've done it, Trinity.
+Dialogue: 0,0:35:24.47,0:35:26.25,Default,,0,0,0,,We found him.
+Dialogue: 0,0:35:26.26,0:35:29.05,Default,,0,0,0,,I hope you're right.\N- I don't have to hope.
+Dialogue: 0,0:35:29.64,0:35:31.22,Default,,0,0,0,,I know it.
+Dialogue: 0,0:35:36.40,0:35:37.43,Default,,0,0,0,,Am I dead?
+Dialogue: 0,0:35:37.94,0:35:40.10,Default,,0,0,0,,Far from it.
+Dialogue: 0,0:35:54.08,0:35:55.49,Default,,0,0,0,,He still needs a lot of work.
+Dialogue: 0,0:35:57.04,0:35:58.12,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:35:58.38,0:36:00.59,Default,,0,0,0,,Your muscles atrophied. We're rebuilding them.
+Dialogue: 0,0:36:01.17,0:36:02.72,Default,,0,0,0,,Why do my eyes hurt?
+Dialogue: 0,0:36:03.43,0:36:05.30,Default,,0,0,0,,You've never used them before.
+Dialogue: 0,0:36:09.27,0:36:12.02,Default,,0,0,0,,Rest, Neo. The answers are coming.
+Dialogue: 0,0:37:22.89,0:37:24.88,Default,,0,0,0,,[METAL DOOR OPENS]
+Dialogue: 0,0:37:26.59,0:37:28.17,Default,,0,0,0,,Morpheus, what's happened to me?
+Dialogue: 0,0:37:28.93,0:37:32.80,Default,,0,0,0,,What is this place?\N- More important than "what" is "when."
+Dialogue: 0,0:37:33.52,0:37:36.84,Default,,0,0,0,,When?\N- You believe it's the year 1999...
+Dialogue: 0,0:37:36.85,0:37:39.10,Default,,0,0,0,,when in fact, it's closer to 2199.
+Dialogue: 0,0:37:40.23,0:37:42.98,Default,,0,0,0,,I can't tell you exactly what year it is...
+Dialogue: 0,0:37:43.24,0:37:44.86,Default,,0,0,0,,because we honestly don't know.
+Dialogue: 0,0:37:45.36,0:37:48.44,Default,,0,0,0,,There's nothing I can say that will explain it for you.
+Dialogue: 0,0:37:48.45,0:37:49.61,Default,,0,0,0,,Come with me.
+Dialogue: 0,0:37:49.91,0:37:51.19,Default,,0,0,0,,See for yourself.
+Dialogue: 0,0:37:51.58,0:37:53.33,Default,,0,0,0,,MORPHEUS: This is my ship.
+Dialogue: 0,0:37:53.79,0:37:56.71,Default,,0,0,0,,The Nebuchadnezzar. It's a hovercraft.
+Dialogue: 0,0:37:59.54,0:38:01.29,Default,,0,0,0,,This is the main deck.
+Dialogue: 0,0:38:07.14,0:38:08.30,Default,,0,0,0,,This is the core...
+Dialogue: 0,0:38:10.81,0:38:14.55,Default,,0,0,0,,where we broadcast our pirate signal and hack into the Matrix.
+Dialogue: 0,0:38:17.94,0:38:21.10,Default,,0,0,0,,Most of my crew you already know.
+Dialogue: 0,0:38:26.11,0:38:27.52,Default,,0,0,0,,This is Apoc...
+Dialogue: 0,0:38:28.32,0:38:29.65,Default,,0,0,0,,Switch...
+Dialogue: 0,0:38:31.24,0:38:32.81,Default,,0,0,0,,and Cypher.\N- Hi.
+Dialogue: 0,0:38:32.82,0:38:36.52,Default,,0,0,0,,The ones you don't know: Tank and his big brother, Dozer.
+Dialogue: 0,0:38:37.27,0:38:39.68,Default,,0,0,0,,The little one behind you is Mouse.
+Dialogue: 0,0:38:44.17,0:38:47.82,Default,,0,0,0,,You wanted to know... what the Matrix is, Neo?
+Dialogue: 0,0:38:48.30,0:38:49.50,Default,,0,0,0,,Trinity.
+Dialogue: 0,0:39:10.53,0:39:12.11,Default,,0,0,0,,Try to relax.
+Dialogue: 0,0:39:17.00,0:39:18.82,Default,,0,0,0,,This will feel a little weird.
+Dialogue: 0,0:39:30.80,0:39:31.97,Default,,0,0,0,,This...
+Dialogue: 0,0:39:32.35,0:39:34.05,Default,,0,0,0,,is the Construct.
+Dialogue: 0,0:39:34.47,0:39:36.84,Default,,0,0,0,,It's our loading program.
+Dialogue: 0,0:39:36.85,0:39:39.55,Default,,0,0,0,,We can load anything, from clothing...
+Dialogue: 0,0:39:39.56,0:39:40.94,Default,,0,0,0,,to equipment...
+Dialogue: 0,0:39:41.23,0:39:42.56,Default,,0,0,0,,weapons...
+Dialogue: 0,0:39:43.19,0:39:45.02,Default,,0,0,0,,training simulations...
+Dialogue: 0,0:39:45.40,0:39:47.94,Default,,0,0,0,,anything we need.
+Dialogue: 0,0:39:50.74,0:39:53.15,Default,,0,0,0,,Right now we're inside a computer program?
+Dialogue: 0,0:39:53.45,0:39:55.36,Default,,0,0,0,,Is it really so hard to believe?
+Dialogue: 0,0:39:55.87,0:39:58.49,Default,,0,0,0,,Your clothes are different. The plugs in your arms and head are gone.
+Dialogue: 0,0:39:59.71,0:40:01.78,Default,,0,0,0,,Your hair has changed.
+Dialogue: 0,0:40:02.17,0:40:05.50,Default,,0,0,0,,Your appearance now is what we call "residual self-image."
+Dialogue: 0,0:40:06.21,0:40:08.83,Default,,0,0,0,,It is the mental projection of your digital self.
+Dialogue: 0,0:40:12.31,0:40:13.08,Default,,0,0,0,,This...?
+Dialogue: 0,0:40:14.89,0:40:16.16,Default,,0,0,0,,This isn't real?
+Dialogue: 0,0:40:16.17,0:40:17.71,Default,,0,0,0,,What is "real"?
+Dialogue: 0,0:40:18.15,0:40:20.39,Default,,0,0,0,,How do you define "real"?
+Dialogue: 0,0:40:20.74,0:40:22.80,Default,,0,0,0,,If you're talking about what you can feel...
+Dialogue: 0,0:40:22.81,0:40:25.45,Default,,0,0,0,,what you can smell, what you can taste and see...
+Dialogue: 0,0:40:25.46,0:40:29.48,Default,,0,0,0,,then "real" is simply electrical signals interpreted by your brain.
+Dialogue: 0,0:40:33.45,0:40:35.86,Default,,0,0,0,,This is the world that you know.
+Dialogue: 0,0:40:37.29,0:40:40.32,Default,,0,0,0,,The world as it was at the end of the 20th century.
+Dialogue: 0,0:40:42.71,0:40:47.04,Default,,0,0,0,,It exists now only as part of a neural-interactive simulation...
+Dialogue: 0,0:40:47.30,0:40:48.54,Default,,0,0,0,,that we call the Matrix.
+Dialogue: 0,0:40:53.09,0:40:55.93,Default,,0,0,0,,You've been living in a dream world, Neo.
+Dialogue: 0,0:40:56.89,0:40:58.00,Default,,0,0,0,,This is the world...
+Dialogue: 0,0:40:58.31,0:41:00.10,Default,,0,0,0,,as it exists today.
+Dialogue: 0,0:41:13.11,0:41:16.07,Default,,0,0,0,,Welcome to "the desert...
+Dialogue: 0,0:41:16.95,0:41:18.53,Default,,0,0,0,,of the real."
+Dialogue: 0,0:41:21.92,0:41:24.62,Default,,0,0,0,,We have only bits and pieces of information.
+Dialogue: 0,0:41:24.63,0:41:26.22,Default,,0,0,0,,But what we know for certain...
+Dialogue: 0,0:41:26.23,0:41:28.52,Default,,0,0,0,,is that at some point in the early 21st century...
+Dialogue: 0,0:41:28.53,0:41:32.13,Default,,0,0,0,,all of mankind was united in celebration.
+Dialogue: 0,0:41:32.14,0:41:37.71,Default,,0,0,0,,We marveled at our own magnificence as we gave birth to AI.
+Dialogue: 0,0:41:37.72,0:41:38.83,Default,,0,0,0,,AI.
+Dialogue: 0,0:41:39.81,0:41:41.42,Default,,0,0,0,,You mean Artificial Intelligence.
+Dialogue: 0,0:41:41.43,0:41:45.85,Default,,0,0,0,,A singular consciousness that spawned an entire race of machines.
+Dialogue: 0,0:41:46.79,0:41:50.65,Default,,0,0,0,,We don't know who struck first, us or them.
+Dialogue: 0,0:41:50.66,0:41:53.86,Default,,0,0,0,,But we know that it was us that scorched the sky.
+Dialogue: 0,0:41:55.45,0:41:57.95,Default,,0,0,0,,At the time, they were dependent on solar power...
+Dialogue: 0,0:41:57.96,0:42:01.66,Default,,0,0,0,,and it was believed that they would be unable to survive...
+Dialogue: 0,0:42:01.67,0:42:05.16,Default,,0,0,0,,without an energy source as abundant as the sun.
+Dialogue: 0,0:42:05.17,0:42:10.05,Default,,0,0,0,,Throughout human history, we have been dependent on machines to survive.
+Dialogue: 0,0:42:11.63,0:42:15.84,Default,,0,0,0,,Fate, it seems, is not without a sense of irony.
+Dialogue: 0,0:42:19.06,0:42:23.47,Default,,0,0,0,,The human body generates more bioelectricity than a 120-volt battery.
+Dialogue: 0,0:42:23.73,0:42:27.86,Default,,0,0,0,,And over 25,000 BTUs of body heat.
+Dialogue: 0,0:42:29.78,0:42:31.93,Default,,0,0,0,,Combined with a form of fusion...
+Dialogue: 0,0:42:32.28,0:42:37.11,Default,,0,0,0,,the machines had found all the energy they would ever need.
+Dialogue: 0,0:42:41.16,0:42:44.91,Default,,0,0,0,,There are fields, Neo, endless fields...
+Dialogue: 0,0:42:45.17,0:42:48.42,Default,,0,0,0,,where human beings are no longer born.
+Dialogue: 0,0:42:49.13,0:42:50.95,Default,,0,0,0,,We are grown.
+Dialogue: 0,0:42:57.01,0:42:59.58,Default,,0,0,0,,For the longest time, I wouldn't believe it.
+Dialogue: 0,0:42:59.85,0:43:02.52,Default,,0,0,0,,And then I saw the fields with my own eyes...
+Dialogue: 0,0:43:03.85,0:43:05.72,Default,,0,0,0,,watched them liquefy the dead...
+Dialogue: 0,0:43:05.73,0:43:09.06,Default,,0,0,0,,so they could be fed intravenously to the living.
+Dialogue: 0,0:43:09.61,0:43:13.85,Default,,0,0,0,,And standing there, facing the pure, horrifying precision...
+Dialogue: 0,0:43:14.11,0:43:17.03,Default,,0,0,0,,I came to realize the obviousness of the truth.
+Dialogue: 0,0:43:19.66,0:43:21.45,Default,,0,0,0,,What is the Matrix?
+Dialogue: 0,0:43:22.66,0:43:23.69,Default,,0,0,0,,Control.
+Dialogue: 0,0:43:25.08,0:43:28.45,Default,,0,0,0,,The Matrix is a computer-generated dream world...
+Dialogue: 0,0:43:29.25,0:43:32.34,Default,,0,0,0,,built to keep us under control...
+Dialogue: 0,0:43:33.51,0:43:36.67,Default,,0,0,0,,in order to change a human being...
+Dialogue: 0,0:43:37.30,0:43:38.46,Default,,0,0,0,,into this.
+Dialogue: 0,0:43:39.85,0:43:40.96,Default,,0,0,0,,No.
+Dialogue: 0,0:43:42.60,0:43:44.18,Default,,0,0,0,,I don't believe it.
+Dialogue: 0,0:43:44.56,0:43:45.76,Default,,0,0,0,,It's not possible.
+Dialogue: 0,0:43:46.49,0:43:48.67,Default,,0,0,0,,I didn't say it would be easy, Neo.
+Dialogue: 0,0:43:49.96,0:43:51.23,Default,,0,0,0,,I just said it would be the truth.
+Dialogue: 0,0:43:51.24,0:43:52.82,Default,,0,0,0,,Stop!
+Dialogue: 0,0:43:53.09,0:43:54.28,Default,,0,0,0,,Let me out!
+Dialogue: 0,0:43:54.95,0:43:56.85,Default,,0,0,0,,Let me out! I want out!
+Dialogue: 0,0:43:58.82,0:44:01.73,Default,,0,0,0,,Easy, Neo. Easy.\N- Get this thing out of me.
+Dialogue: 0,0:44:01.74,0:44:03.40,Default,,0,0,0,,Get this thing out of me!
+Dialogue: 0,0:44:05.21,0:44:06.70,Default,,0,0,0,,Don't touch me!
+Dialogue: 0,0:44:06.96,0:44:08.58,Default,,0,0,0,,Stay away from me!
+Dialogue: 0,0:44:09.00,0:44:10.49,Default,,0,0,0,,I don't believe it.
+Dialogue: 0,0:44:11.21,0:44:12.41,Default,,0,0,0,,I don't believe it.
+Dialogue: 0,0:44:12.67,0:44:14.41,Default,,0,0,0,,I don't believe it.
+Dialogue: 0,0:44:14.42,0:44:17.92,Default,,0,0,0,,He's gonna pop.\N- Breathe, Neo. Just breathe.
+Dialogue: 0,0:44:36.32,0:44:38.11,Default,,0,0,0,,I can't go back, can I?
+Dialogue: 0,0:44:38.70,0:44:40.02,Default,,0,0,0,,No.
+Dialogue: 0,0:44:41.20,0:44:42.40,Default,,0,0,0,,But if you could...
+Dialogue: 0,0:44:43.24,0:44:44.74,Default,,0,0,0,,would you really want to?
+Dialogue: 0,0:44:47.41,0:44:49.34,Default,,0,0,0,,I feel I owe you an apology.
+Dialogue: 0,0:44:49.35,0:44:50.72,Default,,0,0,0,,We have a rule.
+Dialogue: 0,0:44:51.15,0:44:54.66,Default,,0,0,0,,We never free a mind once it's reached a certain age.
+Dialogue: 0,0:44:54.67,0:44:57.96,Default,,0,0,0,,It's dangerous. The mind has trouble letting go.
+Dialogue: 0,0:44:58.22,0:45:00.51,Default,,0,0,0,,I've seen it before, and I'm sorry.
+Dialogue: 0,0:45:01.55,0:45:03.63,Default,,0,0,0,,I did what I did because...
+Dialogue: 0,0:45:04.35,0:45:05.81,Default,,0,0,0,,I had to.
+Dialogue: 0,0:45:14.23,0:45:18.31,Default,,0,0,0,,When the Matrix was first built, there was a man born inside...
+Dialogue: 0,0:45:18.82,0:45:22.61,Default,,0,0,0,,who had the ability to change whatever he wanted...
+Dialogue: 0,0:45:22.99,0:45:25.91,Default,,0,0,0,,to remake the Matrix as he saw fit.
+Dialogue: 0,0:45:27.66,0:45:31.12,Default,,0,0,0,,It was he who freed the first of us...
+Dialogue: 0,0:45:32.00,0:45:33.63,Default,,0,0,0,,taught us the truth.
+Dialogue: 0,0:45:35.09,0:45:38.17,Default,,0,0,0,,As long as the Matrix exists...
+Dialogue: 0,0:45:38.51,0:45:40.58,Default,,0,0,0,,the human race will never be free.
+Dialogue: 0,0:45:44.81,0:45:46.35,Default,,0,0,0,,After he died...
+Dialogue: 0,0:45:47.10,0:45:49.80,Default,,0,0,0,,the Oracle prophesied his return...
+Dialogue: 0,0:45:50.35,0:45:53.56,Default,,0,0,0,,and that his coming would hail the destruction of the Matrix...
+Dialogue: 0,0:45:53.82,0:45:55.48,Default,,0,0,0,,end the war...
+Dialogue: 0,0:45:55.82,0:45:57.01,Default,,0,0,0,,bring freedom to our people.
+Dialogue: 0,0:45:58.40,0:46:03.03,Default,,0,0,0,,That is why there are those of us who\Nspent our lives searching the Matrix...
+Dialogue: 0,0:46:03.37,0:46:04.94,Default,,0,0,0,,looking for him.
+Dialogue: 0,0:46:07.37,0:46:09.45,Default,,0,0,0,,I did what I did because...
+Dialogue: 0,0:46:11.08,0:46:13.21,Default,,0,0,0,,I believe that search is over.
+Dialogue: 0,0:46:18.30,0:46:19.71,Default,,0,0,0,,Get some rest.
+Dialogue: 0,0:46:20.34,0:46:22.13,Default,,0,0,0,,You're going to need it.
+Dialogue: 0,0:46:24.89,0:46:26.84,Default,,0,0,0,,For what?
+Dialogue: 0,0:46:28.98,0:46:30.14,Default,,0,0,0,,Your training.
+Dialogue: 0,0:46:48.45,0:46:50.16,Default,,0,0,0,,Morning. Did you sleep?
+Dialogue: 0,0:46:51.04,0:46:52.24,Default,,0,0,0,,You will tonight.
+Dialogue: 0,0:46:52.63,0:46:54.17,Default,,0,0,0,,I guarantee it.
+Dialogue: 0,0:46:55.67,0:46:57.58,Default,,0,0,0,,I'm Tank. I'll be your operator.
+Dialogue: 0,0:46:58.05,0:47:00.45,Default,,0,0,0,,You don't have any...\N- Holes? Nope.
+Dialogue: 0,0:47:01.38,0:47:06.09,Default,,0,0,0,,Me and my brother, Dozer, are 100% pure, old-fashioned, homegrown human.
+Dialogue: 0,0:47:06.35,0:47:07.54,Default,,0,0,0,,Born free right here...
+Dialogue: 0,0:47:08.10,0:47:09.67,Default,,0,0,0,,in the real world.
+Dialogue: 0,0:47:09.68,0:47:11.34,Default,,0,0,0,,Genuine child of Zion.
+Dialogue: 0,0:47:12.19,0:47:14.64,Default,,0,0,0,,Zion?\N- If the war was over tomorrow...
+Dialogue: 0,0:47:14.90,0:47:16.31,Default,,0,0,0,,Zion's where the party would be.
+Dialogue: 0,0:47:16.82,0:47:18.10,Default,,0,0,0,,It's a city?
+Dialogue: 0,0:47:18.36,0:47:21.53,Default,,0,0,0,,The last human city. The only place we have left.
+Dialogue: 0,0:47:23.11,0:47:24.36,Default,,0,0,0,,Where is it?
+Dialogue: 0,0:47:25.74,0:47:27.36,Default,,0,0,0,,Deep underground...
+Dialogue: 0,0:47:27.37,0:47:29.53,Default,,0,0,0,,near the Earth's core, where it's still warm.
+Dialogue: 0,0:47:31.16,0:47:33.04,Default,,0,0,0,,You live long enough, you might see it.
+Dialogue: 0,0:47:35.29,0:47:36.88,Default,,0,0,0,,Goddamn! I...
+Dialogue: 0,0:47:37.37,0:47:40.57,Default,,0,0,0,,I gotta tell you, I'm fairly excited to see what you're capable of...
+Dialogue: 0,0:47:40.58,0:47:42.32,Default,,0,0,0,,if Morpheus is right and all.
+Dialogue: 0,0:47:42.63,0:47:45.38,Default,,0,0,0,,We're not supposed to talk about this, but...
+Dialogue: 0,0:47:45.64,0:47:47.05,Default,,0,0,0,,if you are...
+Dialogue: 0,0:47:48.14,0:47:50.13,Default,,0,0,0,,it's a very exciting time.
+Dialogue: 0,0:47:51.18,0:47:53.89,Default,,0,0,0,,We got a lot to do. We gotta get to it.
+Dialogue: 0,0:47:56.38,0:47:57.15,Default,,0,0,0,,Now...
+Dialogue: 0,0:47:57.93,0:48:01.25,Default,,0,0,0,,We're supposed to start with these operation programs first.
+Dialogue: 0,0:48:01.74,0:48:05.19,Default,,0,0,0,,That's major boring {\i1}shit{\i0}. Let's do something more fun.
+Dialogue: 0,0:48:05.53,0:48:07.03,Default,,0,0,0,,How about...
+Dialogue: 0,0:48:08.58,0:48:10.32,Default,,0,0,0,,combat training?
+Dialogue: 0,0:48:16.38,0:48:17.83,Default,,0,0,0,,"Ju Jitsu"?
+Dialogue: 0,0:48:18.71,0:48:20.37,Default,,0,0,0,,I'm going to learn Ju Jitsu?
+Dialogue: 0,0:48:31.73,0:48:32.92,Default,,0,0,0,,Holy shit!
+Dialogue: 0,0:48:33.18,0:48:35.51,Default,,0,0,0,,"Hey, Mikey, I think he likes it."
+Dialogue: 0,0:48:35.85,0:48:37.13,Default,,0,0,0,,How about some more?
+Dialogue: 0,0:48:37.40,0:48:38.68,Default,,0,0,0,,Hell, yes.
+Dialogue: 0,0:48:40.69,0:48:41.81,Default,,0,0,0,,Hell, yeah.
+Dialogue: 0,0:48:53.91,0:48:55.32,Default,,0,0,0,,How is he?
+Dialogue: 0,0:48:55.33,0:48:57.54,Default,,0,0,0,,Ten hours straight. He's a machine.
+Dialogue: 0,0:49:08.72,0:49:10.10,Default,,0,0,0,,I know Kung Fu.
+Dialogue: 0,0:49:11.76,0:49:12.80,Default,,0,0,0,,Show me.
+Dialogue: 0,0:49:14.56,0:49:16.30,Default,,0,0,0,,This is a sparring program...
+Dialogue: 0,0:49:16.56,0:49:19.35,Default,,0,0,0,,similar to the programmed reality of the Matrix.
+Dialogue: 0,0:49:19.61,0:49:22.29,Default,,0,0,0,,It has the same basic rules. Rules like gravity.
+Dialogue: 0,0:49:22.30,0:49:26.29,Default,,0,0,0,,What you must learn is that these rules are no\Ndifferent than the rules of a computer system.
+Dialogue: 0,0:49:26.30,0:49:27.90,Default,,0,0,0,,Some of them can be bent.
+Dialogue: 0,0:49:27.91,0:49:30.36,Default,,0,0,0,,Others can be broken.
+Dialogue: 0,0:49:30.74,0:49:31.99,Default,,0,0,0,,Understand?
+Dialogue: 0,0:49:33.29,0:49:35.82,Default,,0,0,0,,Then hit me, if you can.
+Dialogue: 0,0:50:14.70,0:50:15.87,Default,,0,0,0,,Good!
+Dialogue: 0,0:50:16.62,0:50:17.79,Default,,0,0,0,,Adaptation.
+Dialogue: 0,0:50:18.08,0:50:19.28,Default,,0,0,0,,Improvisation.
+Dialogue: 0,0:50:19.58,0:50:20.91,Default,,0,0,0,,But your weakness...
+Dialogue: 0,0:50:21.17,0:50:22.58,Default,,0,0,0,,is not your technique.
+Dialogue: 0,0:50:22.59,0:50:27.59,Default,,0,0,0,,[ ♪ LUNATIC CALM - "LEAVE YOU FAR BEHIND ♪ ]
+Dialogue: 0,0:50:29.51,0:50:31.59,Default,,0,0,0,,Morpheus is fighting Neo.
+Dialogue: 0,0:51:43.88,0:51:45.04,Default,,0,0,0,,How did I beat you?
+Dialogue: 0,0:51:51.64,0:51:52.71,Default,,0,0,0,,You're too fast.
+Dialogue: 0,0:51:53.26,0:51:54.59,Default,,0,0,0,,Do you believe that...
+Dialogue: 0,0:51:54.97,0:51:57.46,Default,,0,0,0,,my being stronger or faster...
+Dialogue: 0,0:51:57.72,0:52:01.39,Default,,0,0,0,,has anything to do with my muscles in this place?
+Dialogue: 0,0:52:05.44,0:52:07.23,Default,,0,0,0,,You think you're breathing air?
+Dialogue: 0,0:52:20.75,0:52:21.95,Default,,0,0,0,,Again!
+Dialogue: 0,0:52:33.43,0:52:35.83,Default,,0,0,0,,Jesus Christ, he's fast!
+Dialogue: 0,0:52:36.10,0:52:38.30,Default,,0,0,0,,His neuro-kinetics are way above normal.
+Dialogue: 0,0:52:43.77,0:52:45.47,Default,,0,0,0,,What are you waiting for?
+Dialogue: 0,0:52:45.48,0:52:47.44,Default,,0,0,0,,You're faster than this.
+Dialogue: 0,0:52:49.65,0:52:52.10,Default,,0,0,0,,Don't think you are.
+Dialogue: 0,0:52:52.11,0:52:53.77,Default,,0,0,0,,Know you are.
+Dialogue: 0,0:53:04.17,0:53:07.00,Default,,0,0,0,,Come on! Stop trying to hit me, and hit me!
+Dialogue: 0,0:53:16.89,0:53:18.63,Default,,0,0,0,,I don't believe it.
+Dialogue: 0,0:53:20.18,0:53:22.31,Default,,0,0,0,,I know what you're trying to do.
+Dialogue: 0,0:53:23.98,0:53:26.14,Default,,0,0,0,,I'm trying to free your mind, Neo.
+Dialogue: 0,0:53:26.48,0:53:28.56,Default,,0,0,0,,But I can only show you the door.
+Dialogue: 0,0:53:29.15,0:53:31.02,Default,,0,0,0,,You have to walk through it.
+Dialogue: 0,0:53:33.36,0:53:35.49,Default,,0,0,0,,Tank, load the jump program.
+Dialogue: 0,0:53:47.09,0:53:49.79,Default,,0,0,0,,You have to let it all go, Neo. Fear...
+Dialogue: 0,0:53:50.34,0:53:52.50,Default,,0,0,0,,doubt and disbelief.
+Dialogue: 0,0:53:53.68,0:53:56.38,Default,,0,0,0,,Free your mind.
+Dialogue: 0,0:54:04.52,0:54:05.74,Default,,0,0,0,,Whoa.
+Dialogue: 0,0:54:12.57,0:54:14.28,Default,,0,0,0,,Okey-dokey.
+Dialogue: 0,0:54:16.37,0:54:17.53,Default,,0,0,0,,Free my mind.
+Dialogue: 0,0:54:17.99,0:54:19.11,Default,,0,0,0,,What if he makes it?
+Dialogue: 0,0:54:19.37,0:54:22.07,Default,,0,0,0,,No one's ever made their first jump.\N- I know.
+Dialogue: 0,0:54:23.41,0:54:25.87,Default,,0,0,0,,But what if he does?\N- He won't.
+Dialogue: 0,0:54:26.37,0:54:27.78,Default,,0,0,0,,Come on.
+Dialogue: 0,0:54:27.79,0:54:28.96,Default,,0,0,0,,All right.
+Dialogue: 0,0:54:29.42,0:54:31.46,Default,,0,0,0,,No problem. Free my mind.
+Dialogue: 0,0:54:32.26,0:54:35.04,Default,,0,0,0,,Free my mind. No problem. Right.
+Dialogue: 0,0:54:54.45,0:54:56.10,Default,,0,0,0,,What does that mean?
+Dialogue: 0,0:54:56.49,0:54:58.32,Default,,0,0,0,,It doesn't mean anything.
+Dialogue: 0,0:54:58.91,0:55:01.48,Default,,0,0,0,,Everybody falls the first time.
+Dialogue: 0,0:55:01.95,0:55:03.23,Default,,0,0,0,,Right, Trin?
+Dialogue: 0,0:55:23.93,0:55:26.55,Default,,0,0,0,,I thought it wasn't real.\N- Your mind makes it real.
+Dialogue: 0,0:55:29.81,0:55:32.22,Default,,0,0,0,,If you're killed in the Matrix...
+Dialogue: 0,0:55:32.23,0:55:33.26,Default,,0,0,0,,you die here?
+Dialogue: 0,0:55:33.90,0:55:36.36,Default,,0,0,0,,The body cannot live without the mind.
+Dialogue: 0,0:56:06.85,0:56:10.22,Default,,0,0,0,,I don't remember you ever bringing me dinner.
+Dialogue: 0,0:56:13.32,0:56:16.15,Default,,0,0,0,,There is something about him, isn't there?
+Dialogue: 0,0:56:16.78,0:56:18.67,Default,,0,0,0,,Don't tell me you're a believer now?
+Dialogue: 0,0:56:19.41,0:56:22.61,Default,,0,0,0,,I just keep wondering, if Morpheus is so sure...
+Dialogue: 0,0:56:22.87,0:56:24.94,Default,,0,0,0,,why doesn't he take him to see the Oracle?
+Dialogue: 0,0:56:25.45,0:56:28.37,Default,,0,0,0,,Morpheus will take him when he's ready.
+Dialogue: 0,0:56:33.30,0:56:38.29,Default,,0,0,0,,[ ♪ ROB DOUGAN - "CLUBBED TO DEATH" ♪ ]
+Dialogue: 0,0:56:38.30,0:56:39.85,Default,,0,0,0,,The Matrix is a system, Neo.
+Dialogue: 0,0:56:41.47,0:56:43.32,Default,,0,0,0,,That system is our enemy.
+Dialogue: 0,0:56:43.33,0:56:46.01,Default,,0,0,0,,But when you're inside, and look around, what do you see?
+Dialogue: 0,0:56:46.02,0:56:49.81,Default,,0,0,0,,Businessmen, teachers, lawyers, carpenters.
+Dialogue: 0,0:56:50.23,0:56:52.80,Default,,0,0,0,,The very minds of the people we are trying to save.
+Dialogue: 0,0:56:53.07,0:56:56.02,Default,,0,0,0,,But until we do, these people are a part of that system...
+Dialogue: 0,0:56:56.28,0:56:59.56,Default,,0,0,0,,and that makes them our enemy. You have to understand...
+Dialogue: 0,0:56:59.82,0:57:03.40,Default,,0,0,0,,most of these people are not ready to be unplugged.
+Dialogue: 0,0:57:03.41,0:57:05.23,Default,,0,0,0,,And many of them are so inert...
+Dialogue: 0,0:57:05.24,0:57:07.65,Default,,0,0,0,,so hopelessly dependent on the system...
+Dialogue: 0,0:57:07.91,0:57:10.62,Default,,0,0,0,,that they will fight to protect it.
+Dialogue: 0,0:57:12.13,0:57:15.87,Default,,0,0,0,,Were you listening to me or looking at the woman in the red dress?
+Dialogue: 0,0:57:16.76,0:57:17.79,Default,,0,0,0,,Look again.
+Dialogue: 0,0:57:19.05,0:57:20.13,Default,,0,0,0,,Freeze it.
+Dialogue: 0,0:57:24.66,0:57:25.43,Default,,0,0,0,,This?
+Dialogue: 0,0:57:26.77,0:57:28.39,Default,,0,0,0,,This isn't the Matrix?
+Dialogue: 0,0:57:30.19,0:57:34.02,Default,,0,0,0,,It's another training program designed to teach you one thing:
+Dialogue: 0,0:57:34.65,0:57:37.06,Default,,0,0,0,,If you are not one of us, you are one of them.
+Dialogue: 0,0:57:37.61,0:57:40.40,Default,,0,0,0,,What are they?\N- Sentient programs.
+Dialogue: 0,0:57:41.16,0:57:45.45,Default,,0,0,0,,They can move in and out of any software still hardwired to their system.
+Dialogue: 0,0:57:45.83,0:57:49.19,Default,,0,0,0,,That means that anyone we haven't unplugged...
+Dialogue: 0,0:57:49.54,0:57:50.87,Default,,0,0,0,,is potentially an Agent.
+Dialogue: 0,0:57:51.83,0:57:53.66,Default,,0,0,0,,Inside the Matrix...
+Dialogue: 0,0:57:54.25,0:57:55.96,Default,,0,0,0,,they are everyone...
+Dialogue: 0,0:57:56.30,0:57:58.00,Default,,0,0,0,,and they are no one.
+Dialogue: 0,0:57:58.26,0:58:01.62,Default,,0,0,0,,We have survived by hiding and running from them...
+Dialogue: 0,0:58:01.63,0:58:03.26,Default,,0,0,0,,but they are the gatekeepers.
+Dialogue: 0,0:58:03.58,0:58:06.23,Default,,0,0,0,,They're guarding all the doors and holding all the keys.
+Dialogue: 0,0:58:06.24,0:58:09.97,Default,,0,0,0,,Which means, sooner or later, someone is going to have to fight them.
+Dialogue: 0,0:58:09.98,0:58:11.26,Default,,0,0,0,,Someone?
+Dialogue: 0,0:58:11.27,0:58:12.68,Default,,0,0,0,,I won't lie to you, Neo.
+Dialogue: 0,0:58:13.15,0:58:17.97,Default,,0,0,0,,Every single man or woman who has stood their ground, {\i1}everyone{\i0} who has fought an Agent has died.
+Dialogue: 0,0:58:18.23,0:58:20.99,Default,,0,0,0,,But where they have failed, you will succeed.
+Dialogue: 0,0:58:21.40,0:58:22.10,Default,,0,0,0,,Why?
+Dialogue: 0,0:58:22.11,0:58:24.65,Default,,0,0,0,,I've seen an Agent punch through a concrete wall.
+Dialogue: 0,0:58:24.66,0:58:28.24,Default,,0,0,0,,Men have emptied entire clips at them and hit nothing but air.
+Dialogue: 0,0:58:28.50,0:58:33.27,Default,,0,0,0,,Yet their strength and speed are still\Nbased in a world that is built on rules.
+Dialogue: 0,0:58:33.28,0:58:34.74,Default,,0,0,0,,Because of that...
+Dialogue: 0,0:58:34.75,0:58:38.12,Default,,0,0,0,,they will never be as strong or as fast as you can be.
+Dialogue: 0,0:58:42.43,0:58:44.30,Default,,0,0,0,,What are you telling me?
+Dialogue: 0,0:58:45.01,0:58:46.47,Default,,0,0,0,,That I can dodge bullets?
+Dialogue: 0,0:58:48.47,0:58:49.85,Default,,0,0,0,,No, Neo.
+Dialogue: 0,0:58:50.35,0:58:53.27,Default,,0,0,0,,I'm trying to tell you that when you're ready...
+Dialogue: 0,0:58:54.15,0:58:55.52,Default,,0,0,0,,you won't have to.
+Dialogue: 0,0:58:56.90,0:58:58.22,Default,,0,0,0,,[MOBILE RINGING]
+Dialogue: 0,0:59:00.40,0:59:01.43,Default,,0,0,0,,TANK: {\i1}We got trouble.{\i0}
+Dialogue: 0,0:59:19.75,0:59:22.21,Default,,0,0,0,,Did Zion send the warning?\N- No, another ship.
+Dialogue: 0,0:59:25.47,0:59:26.75,Default,,0,0,0,,Shit.
+Dialogue: 0,0:59:27.01,0:59:30.09,Default,,0,0,0,,Squiddy's sweeping in quick.\N- Squiddy?
+Dialogue: 0,0:59:30.10,0:59:33.30,Default,,0,0,0,,A sentinel. A killing machine designed for one thing.
+Dialogue: 0,0:59:33.56,0:59:34.76,Default,,0,0,0,,Search and destroy.
+Dialogue: 0,0:59:36.10,0:59:37.27,Default,,0,0,0,,Set her down there.
+Dialogue: 0,0:59:59.09,1:00:01.21,Default,,0,0,0,,How are we doing, Tank?
+Dialogue: 0,1:00:08.76,1:00:09.93,Default,,0,0,0,,Power off-line.
+Dialogue: 0,1:00:10.43,1:00:12.59,Default,,0,0,0,,EMP armed...
+Dialogue: 0,1:00:12.60,1:00:14.47,Default,,0,0,0,,and ready.\N- EMP?
+Dialogue: 0,1:00:14.77,1:00:16.64,Default,,0,0,0,,Electro-Magnetic Pulse.
+Dialogue: 0,1:00:16.90,1:00:20.01,Default,,0,0,0,,Disables any electrical system in the blast radius.
+Dialogue: 0,1:00:20.02,1:00:22.23,Default,,0,0,0,,It's the only weapon we have against the machines.
+Dialogue: 0,1:00:28.03,1:00:31.15,Default,,0,0,0,,Where are we?\N- Their old service and waste systems.
+Dialogue: 0,1:00:32.50,1:00:33.74,Default,,0,0,0,,Sewers.
+Dialogue: 0,1:00:33.75,1:00:36.45,Default,,0,0,0,,There used to be cities that spanned hundreds of miles.
+Dialogue: 0,1:00:36.96,1:00:38.87,Default,,0,0,0,,Now these sewers are all that's left.
+Dialogue: 0,1:00:39.13,1:00:40.45,Default,,0,0,0,,Quiet.
+Dialogue: 0,1:01:21.13,1:01:23.25,Default,,0,0,0,,Whoa! Neo!
+Dialogue: 0,1:01:24.45,1:01:26.46,Default,,0,0,0,,You scared the bejesus out of me.
+Dialogue: 0,1:01:27.66,1:01:29.57,Default,,0,0,0,,Sorry.\N- It's okay.
+Dialogue: 0,1:01:32.43,1:01:35.10,Default,,0,0,0,,Is that...?\N- The Matrix?
+Dialogue: 0,1:01:35.56,1:01:36.61,Default,,0,0,0,,Yeah.
+Dialogue: 0,1:01:38.27,1:01:41.68,Default,,0,0,0,,Do you always look at it encoded?\N- Well, you have to.
+Dialogue: 0,1:01:41.69,1:01:44.77,Default,,0,0,0,,The image translators work for the construct program.
+Dialogue: 0,1:01:45.03,1:01:48.44,Default,,0,0,0,,But there's way too much information to decode the Matrix.
+Dialogue: 0,1:01:48.70,1:01:51.65,Default,,0,0,0,,You get used to it. I don't even see the code.
+Dialogue: 0,1:01:51.91,1:01:55.32,Default,,0,0,0,,All I see is blonde, brunette, redhead.
+Dialogue: 0,1:01:56.50,1:01:57.87,Default,,0,0,0,,Do you...
+Dialogue: 0,1:01:58.17,1:01:59.24,Default,,0,0,0,,want a drink?
+Dialogue: 0,1:01:59.50,1:02:00.53,Default,,0,0,0,,Sure.
+Dialogue: 0,1:02:04.09,1:02:05.55,Default,,0,0,0,,You know...
+Dialogue: 0,1:02:06.47,1:02:08.25,Default,,0,0,0,,I know what you're thinking.
+Dialogue: 0,1:02:08.26,1:02:10.38,Default,,0,0,0,,Because right now I'm thinking the same thing.
+Dialogue: 0,1:02:10.68,1:02:14.01,Default,,0,0,0,,Actually, I've been thinking it ever since I got here.
+Dialogue: 0,1:02:15.93,1:02:18.93,Default,,0,0,0,,Why, oh, why didn't I take the blue pill?
+Dialogue: 0,1:02:31.32,1:02:33.23,Default,,0,0,0,,Good shit, huh?
+Dialogue: 0,1:02:33.58,1:02:34.77,Default,,0,0,0,,Dozer makes it.
+Dialogue: 0,1:02:35.24,1:02:36.65,Default,,0,0,0,,It's good for two things:
+Dialogue: 0,1:02:36.66,1:02:39.75,Default,,0,0,0,,Degreasing engines and killing brain cells.
+Dialogue: 0,1:02:40.75,1:02:42.96,Default,,0,0,0,,So can I ask you something?
+Dialogue: 0,1:02:45.96,1:02:47.59,Default,,0,0,0,,Did he tell you why he did it?
+Dialogue: 0,1:02:50.22,1:02:52.04,Default,,0,0,0,,Why you're here?
+Dialogue: 0,1:02:55.72,1:02:57.47,Default,,0,0,0,,Jesus!
+Dialogue: 0,1:02:58.68,1:03:00.59,Default,,0,0,0,,What a mind job.
+Dialogue: 0,1:03:02.02,1:03:04.81,Default,,0,0,0,,So you're here to save the world.
+Dialogue: 0,1:03:06.32,1:03:08.39,Default,,0,0,0,,What do you say to something like that?
+Dialogue: 0,1:03:13.58,1:03:14.95,Default,,0,0,0,,A little piece of advice.
+Dialogue: 0,1:03:16.75,1:03:18.16,Default,,0,0,0,,You see an Agent...
+Dialogue: 0,1:03:18.50,1:03:20.78,Default,,0,0,0,,you do what we do:
+Dialogue: 0,1:03:21.12,1:03:22.67,Default,,0,0,0,,Run.
+Dialogue: 0,1:03:23.00,1:03:24.74,Default,,0,0,0,,You run your ass off.
+Dialogue: 0,1:03:32.01,1:03:33.72,Default,,0,0,0,,Thanks for the drink.
+Dialogue: 0,1:03:38.43,1:03:39.60,Default,,0,0,0,,Sweet dreams.
+Dialogue: 0,1:03:43.61,1:03:47.02,Default,,0,0,0,,SMITH: Do we have a deal, Mr. Reagan?
+Dialogue: 0,1:03:47.69,1:03:48.81,Default,,0,0,0,,You know...
+Dialogue: 0,1:03:50.24,1:03:52.69,Default,,0,0,0,,I know this steak doesn't exist.
+Dialogue: 0,1:03:53.70,1:03:56.69,Default,,0,0,0,,I know that when I put it in my mouth...
+Dialogue: 0,1:03:56.70,1:03:59.79,Default,,0,0,0,,the Matrix is telling my brain that it is...
+Dialogue: 0,1:04:00.08,1:04:01.19,Default,,0,0,0,,juicy...
+Dialogue: 0,1:04:01.50,1:04:03.21,Default,,0,0,0,,and delicious.
+Dialogue: 0,1:04:06.13,1:04:07.37,Default,,0,0,0,,After nine years...
+Dialogue: 0,1:04:08.42,1:04:09.96,Default,,0,0,0,,you know what I realize?
+Dialogue: 0,1:04:17.81,1:04:19.00,Default,,0,0,0,,Ignorance is bliss.
+Dialogue: 0,1:04:24.06,1:04:25.89,Default,,0,0,0,,Then we have a deal.
+Dialogue: 0,1:04:28.40,1:04:30.31,Default,,0,0,0,,I don't want to remember nothing.
+Dialogue: 0,1:04:30.57,1:04:33.11,Default,,0,0,0,,Nothing. You understand?
+Dialogue: 0,1:04:37.16,1:04:38.95,Default,,0,0,0,,And I want to be rich.
+Dialogue: 0,1:04:40.29,1:04:42.99,Default,,0,0,0,,You know, someone important.
+Dialogue: 0,1:04:44.50,1:04:45.61,Default,,0,0,0,,Like an actor.
+Dialogue: 0,1:04:46.84,1:04:49.96,Default,,0,0,0,,Whatever you want, Mr. Reagan.
+Dialogue: 0,1:04:52.13,1:04:53.67,Default,,0,0,0,,Okay.
+Dialogue: 0,1:04:54.05,1:04:56.46,Default,,0,0,0,,You get my body back in a power plant...
+Dialogue: 0,1:04:56.85,1:04:58.59,Default,,0,0,0,,reinsert me into the Matrix...
+Dialogue: 0,1:04:58.93,1:05:00.34,Default,,0,0,0,,I'll get you what you want.
+Dialogue: 0,1:05:00.60,1:05:02.59,Default,,0,0,0,,Access codes to the Zion mainframe.
+Dialogue: 0,1:05:02.85,1:05:05.01,Default,,0,0,0,,No. I told you, I don't know them.
+Dialogue: 0,1:05:07.98,1:05:09.97,Default,,0,0,0,,I can get you the man who does.
+Dialogue: 0,1:05:10.73,1:05:12.53,Default,,0,0,0,,Morpheus.
+Dialogue: 0,1:05:22.62,1:05:26.07,Default,,0,0,0,,Here you go, buddy. Breakfast of champions.
+Dialogue: 0,1:05:27.42,1:05:30.45,Default,,0,0,0,,Close your eyes, it feels like you're eating runny eggs.
+Dialogue: 0,1:05:30.46,1:05:32.66,Default,,0,0,0,,Or a bowl of snot.
+Dialogue: 0,1:05:32.67,1:05:34.25,Default,,0,0,0,,You know what it reminds me of?
+Dialogue: 0,1:05:36.09,1:05:38.42,Default,,0,0,0,,Tastee Wheat. Did you ever eat Tastee Wheat?
+Dialogue: 0,1:05:39.06,1:05:40.76,Default,,0,0,0,,No, but technically, neither did you.
+Dialogue: 0,1:05:41.02,1:05:43.05,Default,,0,0,0,,That's exactly my point. Exactly.
+Dialogue: 0,1:05:43.31,1:05:44.68,Default,,0,0,0,,Because you have to wonder...
+Dialogue: 0,1:05:44.94,1:05:48.43,Default,,0,0,0,,how do the machines really know what Tastee Wheat tasted like?
+Dialogue: 0,1:05:48.44,1:05:49.85,Default,,0,0,0,,Maybe they got it wrong.
+Dialogue: 0,1:05:50.11,1:05:53.31,Default,,0,0,0,,Maybe what I think Tastee Wheat tasted like actually tasted like...
+Dialogue: 0,1:05:53.61,1:05:55.60,Default,,0,0,0,,oatmeal or tuna fish.
+Dialogue: 0,1:05:55.99,1:05:58.82,Default,,0,0,0,,That makes you wonder. Take chicken, for example.
+Dialogue: 0,1:05:59.08,1:06:01.07,Default,,0,0,0,,Maybe they didn't know what to make it taste like...
+Dialogue: 0,1:06:01.33,1:06:03.61,Default,,0,0,0,,which is why it tastes like everything.
+Dialogue: 0,1:06:03.62,1:06:05.41,Default,,0,0,0,,And maybe they...\N- Shut up.
+Dialogue: 0,1:06:07.04,1:06:08.74,Default,,0,0,0,,It's a single-celled protein...
+Dialogue: 0,1:06:08.75,1:06:11.79,Default,,0,0,0,,combined with synthetic aminos, vitamins and minerals.
+Dialogue: 0,1:06:12.05,1:06:13.29,Default,,0,0,0,,Everything the body needs.
+Dialogue: 0,1:06:13.55,1:06:16.42,Default,,0,0,0,,It doesn't have everything the body needs.
+Dialogue: 0,1:06:19.18,1:06:22.26,Default,,0,0,0,,I understand you've run through the Agent training program.
+Dialogue: 0,1:06:23.37,1:06:25.41,Default,,0,0,0,,You know, I wrote that program.
+Dialogue: 0,1:06:25.80,1:06:27.07,Default,,0,0,0,,Here it comes.
+Dialogue: 0,1:06:27.08,1:06:29.03,Default,,0,0,0,,What did you think of her?\N- Of who?
+Dialogue: 0,1:06:29.52,1:06:32.56,Default,,0,0,0,,The woman in the red dress. I designed her.
+Dialogue: 0,1:06:32.90,1:06:35.65,Default,,0,0,0,,She doesn't talk very much...
+Dialogue: 0,1:06:35.91,1:06:39.85,Default,,0,0,0,,but if you'd like to meet her, I can arrange a more personal milieu.
+Dialogue: 0,1:06:40.12,1:06:41.92,Default,,0,0,0,,The digital pimp hard at work.
+Dialogue: 0,1:06:41.93,1:06:44.18,Default,,0,0,0,,Pay no attention to these hypocrites, Neo.
+Dialogue: 0,1:06:45.29,1:06:47.36,Default,,0,0,0,,To deny our own impulses...
+Dialogue: 0,1:06:47.37,1:06:50.75,Default,,0,0,0,,is to deny the very thing that makes us human.
+Dialogue: 0,1:06:52.54,1:06:53.92,Default,,0,0,0,,Dozer, when you're done...
+Dialogue: 0,1:06:54.18,1:06:55.59,Default,,0,0,0,,bring the ship up to broadcast depth.
+Dialogue: 0,1:06:56.18,1:06:57.50,Default,,0,0,0,,We're going in.
+Dialogue: 0,1:06:58.18,1:06:59.59,Default,,0,0,0,,I'm taking Neo to see her.
+Dialogue: 0,1:07:04.22,1:07:05.25,Default,,0,0,0,,See who?
+Dialogue: 0,1:07:05.81,1:07:06.95,Default,,0,0,0,,The Oracle.
+Dialogue: 0,1:07:06.96,1:07:11.96,Default,,0,0,0,,[ ♪ MEAT BEAT MANIFESTO - "PRIME AUDIO SOUP" ♪ ]
+Dialogue: 0,1:07:12.57,1:07:14.11,Default,,0,0,0,,Everyone, please observe...
+Dialogue: 0,1:07:14.44,1:07:17.65,Default,,0,0,0,,the "fasten seat belt" and "no smoking" signs have been turned on.
+Dialogue: 0,1:07:17.66,1:07:21.02,Default,,0,0,0,,Sit back and enjoy your flight.
+Dialogue: 0,1:07:38.16,1:07:40.39,Default,,0,0,0,,[TELEPHONE RINGING]
+Dialogue: 0,1:07:45.35,1:07:46.38,Default,,0,0,0,,We're in.
+Dialogue: 0,1:08:02.12,1:08:03.23,Default,,0,0,0,,We'll be back in an hour.
+Dialogue: 0,1:08:18.05,1:08:19.46,Default,,0,0,0,,Unbelievable...
+Dialogue: 0,1:08:20.30,1:08:21.63,Default,,0,0,0,,isn't it?
+Dialogue: 0,1:08:25.22,1:08:27.05,Default,,0,0,0,,God!\N- What?
+Dialogue: 0,1:08:27.73,1:08:29.10,Default,,0,0,0,,I used to eat there.
+Dialogue: 0,1:08:31.36,1:08:32.98,Default,,0,0,0,,Really good noodles.
+Dialogue: 0,1:08:37.78,1:08:40.27,Default,,0,0,0,,I have these memories from my life.
+Dialogue: 0,1:08:42.74,1:08:44.40,Default,,0,0,0,,None of them happened.
+Dialogue: 0,1:08:45.04,1:08:46.36,Default,,0,0,0,,What does that mean?
+Dialogue: 0,1:08:46.62,1:08:48.83,Default,,0,0,0,,That the Matrix cannot tell you who you are.
+Dialogue: 0,1:08:49.75,1:08:50.95,Default,,0,0,0,,But an oracle can?
+Dialogue: 0,1:08:51.42,1:08:52.61,Default,,0,0,0,,That's different.
+Dialogue: 0,1:08:57.38,1:08:59.54,Default,,0,0,0,,Did you go to her?
+Dialogue: 0,1:09:00.13,1:09:01.30,Default,,0,0,0,,Yes.
+Dialogue: 0,1:09:01.80,1:09:03.18,Default,,0,0,0,,What did she tell you?
+Dialogue: 0,1:09:06.43,1:09:07.93,Default,,0,0,0,,She told me...
+Dialogue: 0,1:09:08.98,1:09:10.14,Default,,0,0,0,,What?
+Dialogue: 0,1:09:13.94,1:09:15.27,Default,,0,0,0,,We're here.
+Dialogue: 0,1:09:15.75,1:09:17.94,Default,,0,0,0,,Neo, come with me.
+Dialogue: 0,1:09:37.92,1:09:40.58,Default,,0,0,0,,So is this the same oracle that made...
+Dialogue: 0,1:09:40.59,1:09:41.75,Default,,0,0,0,,the prophecy?
+Dialogue: 0,1:09:42.01,1:09:46.34,Default,,0,0,0,,Yes. She's very old. She's been with us since the beginning.
+Dialogue: 0,1:09:46.81,1:09:48.80,Default,,0,0,0,,The beginning?\N- Of the Resistance.
+Dialogue: 0,1:09:51.06,1:09:53.43,Default,,0,0,0,,And she knows what? Everything?
+Dialogue: 0,1:09:55.48,1:09:57.39,Default,,0,0,0,,She would say she knows enough.
+Dialogue: 0,1:09:58.53,1:10:00.32,Default,,0,0,0,,And she's never wrong.
+Dialogue: 0,1:10:02.53,1:10:05.70,Default,,0,0,0,,Try not to think of it in terms of right and wrong.
+Dialogue: 0,1:10:06.03,1:10:07.61,Default,,0,0,0,,She is a guide, Neo.
+Dialogue: 0,1:10:07.99,1:10:09.87,Default,,0,0,0,,She can help you to find the path.
+Dialogue: 0,1:10:10.46,1:10:11.62,Default,,0,0,0,,She helped you?
+Dialogue: 0,1:10:14.13,1:10:15.45,Default,,0,0,0,,What did she tell you?
+Dialogue: 0,1:10:17.92,1:10:20.13,Default,,0,0,0,,That I would find the One.
+Dialogue: 0,1:10:33.27,1:10:35.39,Default,,0,0,0,,I told you I can only show you the door.
+Dialogue: 0,1:10:36.11,1:10:38.18,Default,,0,0,0,,You have to walk through it.
+Dialogue: 0,1:10:41.99,1:10:43.31,Default,,0,0,0,,Hello, Neo.
+Dialogue: 0,1:10:43.32,1:10:44.98,Default,,0,0,0,,You're right on time.
+Dialogue: 0,1:10:52.91,1:10:56.70,Default,,0,0,0,,Make yourself at home, Morpheus. Neo, come with me.
+Dialogue: 0,1:11:02.38,1:11:03.96,Default,,0,0,0,,These are the other Potentials.
+Dialogue: 0,1:11:04.22,1:11:05.76,Default,,0,0,0,,You can wait here.
+Dialogue: 0,1:11:46.59,1:11:49.13,Default,,0,0,0,,Do not try and bend the spoon.
+Dialogue: 0,1:11:49.51,1:11:51.64,Default,,0,0,0,,That's impossible.
+Dialogue: 0,1:11:52.47,1:11:56.47,Default,,0,0,0,,Instead, only try to realize the truth.
+Dialogue: 0,1:11:57.02,1:11:58.64,Default,,0,0,0,,What truth?
+Dialogue: 0,1:11:58.65,1:12:00.31,Default,,0,0,0,,There is no spoon.
+Dialogue: 0,1:12:02.90,1:12:04.23,Default,,0,0,0,,There is no spoon?
+Dialogue: 0,1:12:04.49,1:12:08.98,Default,,0,0,0,,Then you'll see that it is not the spoon that bends. It is only yourself.
+Dialogue: 0,1:12:25.01,1:12:26.50,Default,,0,0,0,,The Oracle will you see now.
+Dialogue: 0,1:12:37.19,1:12:38.73,Default,,0,0,0,,I know you're Neo.
+Dialogue: 0,1:12:39.36,1:12:40.52,Default,,0,0,0,,Be right with you.
+Dialogue: 0,1:12:41.57,1:12:43.94,Default,,0,0,0,,You're the Oracle?\N- Bingo.
+Dialogue: 0,1:12:46.65,1:12:49.52,Default,,0,0,0,,Not quite what you were expecting, right?
+Dialogue: 0,1:12:50.58,1:12:52.73,Default,,0,0,0,,Almost done.
+Dialogue: 0,1:12:55.44,1:12:57.47,Default,,0,0,0,,Smell good, don't they?
+Dialogue: 0,1:12:58.71,1:12:59.48,Default,,0,0,0,,Yeah.
+Dialogue: 0,1:12:59.74,1:13:01.62,Default,,0,0,0,,I'd ask you to sit down...
+Dialogue: 0,1:13:01.63,1:13:04.00,Default,,0,0,0,,but you're not going to anyway.
+Dialogue: 0,1:13:04.59,1:13:07.46,Default,,0,0,0,,And don't worry about the vase.\N- What vase?
+Dialogue: 0,1:13:10.60,1:13:11.76,Default,,0,0,0,,That vase.
+Dialogue: 0,1:13:12.72,1:13:13.75,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,1:13:14.02,1:13:15.89,Default,,0,0,0,,I said, don't worry about it.
+Dialogue: 0,1:13:17.06,1:13:19.02,Default,,0,0,0,,I'll get one of my kids to fix it.
+Dialogue: 0,1:13:19.78,1:13:20.76,Default,,0,0,0,,How did you know?
+Dialogue: 0,1:13:20.77,1:13:22.89,Default,,0,0,0,,Ohh...
+Dialogue: 0,1:13:22.90,1:13:26.68,Default,,0,0,0,,What's really going to bake your noodle later on is...
+Dialogue: 0,1:13:27.03,1:13:29.98,Default,,0,0,0,,would you still have broken it if I hadn't said anything?
+Dialogue: 0,1:13:34.79,1:13:36.70,Default,,0,0,0,,You're cuter than I thought.
+Dialogue: 0,1:13:39.75,1:13:41.99,Default,,0,0,0,,I can see why she likes you.
+Dialogue: 0,1:13:42.88,1:13:44.20,Default,,0,0,0,,Who?
+Dialogue: 0,1:13:44.21,1:13:46.04,Default,,0,0,0,,Not too bright, though.
+Dialogue: 0,1:13:49.34,1:13:52.43,Default,,0,0,0,,You know why Morpheus brought you to see me.
+Dialogue: 0,1:13:54.56,1:13:55.72,Default,,0,0,0,,So...
+Dialogue: 0,1:13:56.68,1:13:58.06,Default,,0,0,0,,what do you think?
+Dialogue: 0,1:13:59.90,1:14:01.64,Default,,0,0,0,,Do you think you are the One?
+Dialogue: 0,1:14:03.76,1:14:05.19,Default,,0,0,0,,Honestly, I don't know.
+Dialogue: 0,1:14:08.07,1:14:09.48,Default,,0,0,0,,You know what that means?
+Dialogue: 0,1:14:10.32,1:14:11.49,Default,,0,0,0,,It's Latin.
+Dialogue: 0,1:14:11.87,1:14:14.07,Default,,0,0,0,,Means, "Know thyself."
+Dialogue: 0,1:14:15.82,1:14:18.06,Default,,0,0,0,,I'm gonna let you in on a little secret.
+Dialogue: 0,1:14:19.75,1:14:23.58,Default,,0,0,0,,Being the One is just like being in love.
+Dialogue: 0,1:14:24.30,1:14:27.41,Default,,0,0,0,,No one can tell you you're in love. You just know it...
+Dialogue: 0,1:14:27.42,1:14:28.54,Default,,0,0,0,,through and through.
+Dialogue: 0,1:14:28.88,1:14:31.33,Default,,0,0,0,,Balls to bones.
+Dialogue: 0,1:14:33.47,1:14:35.35,Default,,0,0,0,,Well...
+Dialogue: 0,1:14:36.27,1:14:38.34,Default,,0,0,0,,I'd better have a look at you.
+Dialogue: 0,1:14:39.69,1:14:41.18,Default,,0,0,0,,Open your mouth. Say, "Ah."
+Dialogue: 0,1:14:55.58,1:14:57.24,Default,,0,0,0,,Okay...
+Dialogue: 0,1:14:57.87,1:15:02.83,Default,,0,0,0,,Now I'm supposed to say, "Hmm, that's interesting, but..."
+Dialogue: 0,1:15:03.33,1:15:04.45,Default,,0,0,0,,Then you say:
+Dialogue: 0,1:15:05.04,1:15:06.32,Default,,0,0,0,,But what?
+Dialogue: 0,1:15:06.59,1:15:10.54,Default,,0,0,0,,But you already know what I'm going to tell you.
+Dialogue: 0,1:15:11.97,1:15:14.92,Default,,0,0,0,,I'm not the One.\N- Sorry, kid.
+Dialogue: 0,1:15:16.56,1:15:18.55,Default,,0,0,0,,You got the gift...
+Dialogue: 0,1:15:19.56,1:15:21.77,Default,,0,0,0,,but it looks like you're waiting for something.
+Dialogue: 0,1:15:26.65,1:15:30.60,Default,,0,0,0,,What?\N- Your next life, maybe. Who knows?
+Dialogue: 0,1:15:31.20,1:15:33.44,Default,,0,0,0,,That's the way these things go.
+Dialogue: 0,1:15:34.32,1:15:36.90,Default,,0,0,0,,What's funny?\N- Morpheus.
+Dialogue: 0,1:15:37.71,1:15:38.60,Default,,0,0,0,,He, uh...
+Dialogue: 0,1:15:40.37,1:15:42.32,Default,,0,0,0,,He almost had me convinced.
+Dialogue: 0,1:15:42.33,1:15:43.45,Default,,0,0,0,,I know.
+Dialogue: 0,1:15:45.00,1:15:47.12,Default,,0,0,0,,Poor Morpheus.
+Dialogue: 0,1:15:49.51,1:15:52.63,Default,,0,0,0,,Without him, we're lost.
+Dialogue: 0,1:15:54.18,1:15:56.34,Default,,0,0,0,,What do you mean, "without him"?
+Dialogue: 0,1:16:00.35,1:16:02.26,Default,,0,0,0,,Are you sure you want to hear this?
+Dialogue: 0,1:16:04.48,1:16:07.23,Default,,0,0,0,,Morpheus believes in you, Neo.
+Dialogue: 0,1:16:08.94,1:16:11.10,Default,,0,0,0,,And no one, not you, not even me...
+Dialogue: 0,1:16:11.36,1:16:13.60,Default,,0,0,0,,can convince him otherwise.
+Dialogue: 0,1:16:13.99,1:16:16.36,Default,,0,0,0,,He believes it so blindly...
+Dialogue: 0,1:16:16.66,1:16:20.99,Default,,0,0,0,,that he's going to sacrifice his life to save yours.
+Dialogue: 0,1:16:21.25,1:16:25.20,Default,,0,0,0,,What?\N- You're going to have to make a choice.
+Dialogue: 0,1:16:25.83,1:16:29.42,Default,,0,0,0,,In the one hand, you'll have Morpheus' life.
+Dialogue: 0,1:16:29.92,1:16:32.79,Default,,0,0,0,,And in the other hand, you'll have your own.
+Dialogue: 0,1:16:34.22,1:16:36.51,Default,,0,0,0,,One of you is going to die.
+Dialogue: 0,1:16:38.60,1:16:41.88,Default,,0,0,0,,Which one will be up to you.
+Dialogue: 0,1:16:43.27,1:16:45.18,Default,,0,0,0,,I'm sorry, kiddo. I really am.
+Dialogue: 0,1:16:45.44,1:16:47.10,Default,,0,0,0,,You have a good soul.
+Dialogue: 0,1:16:48.19,1:16:50.89,Default,,0,0,0,,And I hate giving good people bad news.
+Dialogue: 0,1:16:54.03,1:16:55.73,Default,,0,0,0,,Don't worry about it.
+Dialogue: 0,1:16:55.74,1:16:58.15,Default,,0,0,0,,As soon as you step outside that door...
+Dialogue: 0,1:16:58.41,1:17:00.53,Default,,0,0,0,,you'll start feeling better.
+Dialogue: 0,1:17:01.25,1:17:05.03,Default,,0,0,0,,You'll remember you don't believe in any of this fate crap.
+Dialogue: 0,1:17:05.88,1:17:08.63,Default,,0,0,0,,You're in control of your own life.
+Dialogue: 0,1:17:09.46,1:17:10.74,Default,,0,0,0,,Remember?
+Dialogue: 0,1:17:12.63,1:17:14.29,Default,,0,0,0,,Here...
+Dialogue: 0,1:17:15.51,1:17:17.05,Default,,0,0,0,,take a cookie.
+Dialogue: 0,1:17:17.60,1:17:20.93,Default,,0,0,0,,I promise, by the time you're done eating it...
+Dialogue: 0,1:17:21.89,1:17:24.26,Default,,0,0,0,,you'll feel right as rain.
+Dialogue: 0,1:17:33.49,1:17:34.81,Default,,0,0,0,,What was said...
+Dialogue: 0,1:17:35.45,1:17:36.91,Default,,0,0,0,,was for you...
+Dialogue: 0,1:17:37.45,1:17:39.28,Default,,0,0,0,,and for you alone.
+Dialogue: 0,1:18:02.22,1:18:03.34,Default,,0,0,0,,They're on the way.
+Dialogue: 0,1:18:33.13,1:18:34.16,Default,,0,0,0,,What is that?
+Dialogue: 0,1:18:48.94,1:18:50.88,Default,,0,0,0,,Oh, déjà vu.
+Dialogue: 0,1:18:53.86,1:18:55.08,Default,,0,0,0,,What did you just say?
+Dialogue: 0,1:18:55.09,1:18:57.17,Default,,0,0,0,,Nothing. Just had a little déjà vu.
+Dialogue: 0,1:18:57.18,1:18:58.80,Default,,0,0,0,,What did you see?\N- What happened?
+Dialogue: 0,1:18:59.99,1:19:02.15,Default,,0,0,0,,A black cat went past us...
+Dialogue: 0,1:19:02.63,1:19:04.35,Default,,0,0,0,,then another that looked just like it.
+Dialogue: 0,1:19:04.36,1:19:06.23,Default,,0,0,0,,How much like it? Was it the same cat?
+Dialogue: 0,1:19:07.14,1:19:08.70,Default,,0,0,0,,Might have been, I'm not sure.
+Dialogue: 0,1:19:08.71,1:19:09.90,Default,,0,0,0,,Switch, Apoc.
+Dialogue: 0,1:19:14.43,1:19:17.13,Default,,0,0,0,,What is it?\N- A déjà vu is usually a glitch in the Matrix...
+Dialogue: 0,1:19:17.14,1:19:19.03,Default,,0,0,0,,It happens when they change something.
+Dialogue: 0,1:19:19.04,1:19:20.35,Default,,0,0,0,,[SWITCH COCKS GUN]
+Dialogue: 0,1:19:22.76,1:19:23.79,Default,,0,0,0,,Oh, my God.
+Dialogue: 0,1:19:25.64,1:19:27.72,Default,,0,0,0,,Let's go.
+Dialogue: 0,1:19:31.86,1:19:33.60,Default,,0,0,0,,They cut the hard line. It's a trap! Get out!
+Dialogue: 0,1:19:39.15,1:19:40.35,Default,,0,0,0,,Oh, no.
+Dialogue: 0,1:19:41.82,1:19:42.86,Default,,0,0,0,,TANK: Oh, no.
+Dialogue: 0,1:19:53.42,1:19:54.68,Default,,0,0,0,,[YELLS]
+Dialogue: 0,1:20:20.19,1:20:21.85,Default,,0,0,0,,Ohh, that's what they changed.
+Dialogue: 0,1:20:21.86,1:20:23.49,Default,,0,0,0,,We're trapped. There's no way out.
+Dialogue: 0,1:20:23.50,1:20:25.56,Default,,0,0,0,,Be calm. Give me your phone.
+Dialogue: 0,1:20:25.57,1:20:27.33,Default,,0,0,0,,They'll be able to track it.
+Dialogue: 0,1:20:27.34,1:20:28.75,Default,,0,0,0,,We have no choice.
+Dialogue: 0,1:20:30.12,1:20:31.70,Default,,0,0,0,,Operator.\N- MORPEUS: {\i1}Tank...{\i0}
+Dialogue: 0,1:20:31.71,1:20:34.55,Default,,0,0,0,,{\i1}find a structural drawing of this building. Find it fast.{\i0}
+Dialogue: 0,1:20:42.34,1:20:44.92,Default,,0,0,0,,Got it!\N- {\i1}I need the main wet-wall.{\i0}
+Dialogue: 0,1:20:47.93,1:20:49.22,Default,,0,0,0,,8th floor.
+Dialogue: 0,1:20:49.23,1:20:50.80,Default,,0,0,0,,They're on the 8th floor.
+Dialogue: 0,1:20:51.10,1:20:52.56,Default,,0,0,0,,Switch, straight ahead.
+Dialogue: 0,1:20:53.40,1:20:54.46,Default,,0,0,0,,Neo...
+Dialogue: 0,1:21:00.61,1:21:02.77,Default,,0,0,0,,I hope the Oracle gave you some good news.
+Dialogue: 0,1:21:11.04,1:21:12.53,Default,,0,0,0,,Now left. That's it.
+Dialogue: 0,1:21:12.83,1:21:13.86,Default,,0,0,0,,Good.
+Dialogue: 0,1:21:23.59,1:21:24.87,Default,,0,0,0,,Where are they?
+Dialogue: 0,1:22:25.32,1:22:26.49,Default,,0,0,0,,They're in the walls.
+Dialogue: 0,1:22:27.95,1:22:29.11,Default,,0,0,0,,In the walls!
+Dialogue: 0,1:22:50.52,1:22:52.22,Default,,0,0,0,,It's an Agent!
+Dialogue: 0,1:22:54.93,1:22:56.18,Default,,0,0,0,,[YELLS]
+Dialogue: 0,1:22:59.36,1:23:01.14,Default,,0,0,0,,Morpheus!
+Dialogue: 0,1:23:01.15,1:23:04.32,Default,,0,0,0,,You must get Neo out! He's all that matters!
+Dialogue: 0,1:23:04.61,1:23:05.81,Default,,0,0,0,,No, Morpheus! Don't!
+Dialogue: 0,1:23:06.07,1:23:07.77,Default,,0,0,0,,Trinity, go!
+Dialogue: 0,1:23:07.78,1:23:09.16,Default,,0,0,0,,Go!
+Dialogue: 0,1:23:15.37,1:23:17.28,Default,,0,0,0,,We can't leave him!\N- We have to!
+Dialogue: 0,1:23:41.86,1:23:44.17,Default,,0,0,0,,Cypher... come on!
+Dialogue: 0,1:23:48.32,1:23:52.16,Default,,0,0,0,,The great Morpheus. We meet at last.
+Dialogue: 0,1:23:52.70,1:23:53.82,Default,,0,0,0,,And you are?
+Dialogue: 0,1:23:54.08,1:23:55.82,Default,,0,0,0,,A Smith.
+Dialogue: 0,1:23:56.08,1:23:57.36,Default,,0,0,0,,Agent Smith.
+Dialogue: 0,1:23:57.96,1:24:00.00,Default,,0,0,0,,You all look the same to me.
+Dialogue: 0,1:24:55.64,1:24:56.92,Default,,0,0,0,,Take him.
+Dialogue: 0,1:25:03.69,1:25:04.73,Default,,0,0,0,,No!
+Dialogue: 0,1:25:10.16,1:25:12.43,Default,,0,0,0,,Operator.\N- CYPHER: {\i1}Yeah, I need an exit, fast.{\i0}
+Dialogue: 0,1:25:12.44,1:25:14.07,Default,,0,0,0,,{\i1}Cypher?{\i0}\N- Yeah...
+Dialogue: 0,1:25:14.08,1:25:16.99,Default,,0,0,0,,There was an accident. Goddamn car accident.
+Dialogue: 0,1:25:17.33,1:25:19.36,Default,,0,0,0,,{\i1}All of a sudden, boom.{\i0}
+Dialogue: 0,1:25:19.37,1:25:20.99,Default,,0,0,0,,Somebody up there still likes me.
+Dialogue: 0,1:25:21.00,1:25:22.25,Default,,0,0,0,,I got you.
+Dialogue: 0,1:25:22.75,1:25:24.66,Default,,0,0,0,,{\i1}Just get me out of here fast.{\i0}
+Dialogue: 0,1:25:24.92,1:25:27.83,Default,,0,0,0,,Nearest exit, Franklin and Erie. An old TV repair shop.
+Dialogue: 0,1:25:27.84,1:25:28.87,Default,,0,0,0,,Right.
+Dialogue: 0,1:25:32.01,1:25:33.59,Default,,0,0,0,,Operator.\N- TRINITY: {\i1}Tank, it's me.{\i0}
+Dialogue: 0,1:25:33.85,1:25:35.01,Default,,0,0,0,,Is Morpheus alive?
+Dialogue: 0,1:25:35.39,1:25:36.67,Default,,0,0,0,,Is Morpheus alive, Tank?
+Dialogue: 0,1:25:37.10,1:25:39.22,Default,,0,0,0,,{\i1}Yes. They're moving him. I don't know where to yet.{\i0}
+Dialogue: 0,1:25:39.23,1:25:42.68,Default,,0,0,0,,He's alive. We need an exit.\N- You're not far from Cypher.
+Dialogue: 0,1:25:42.94,1:25:44.51,Default,,0,0,0,,{\i1}Cypher?{\i0}\N- I know.
+Dialogue: 0,1:25:44.52,1:25:46.60,Default,,0,0,0,,I sent him to Franklin and Erie.\N- Got it.
+Dialogue: 0,1:25:55.70,1:25:56.90,Default,,0,0,0,,Got him.
+Dialogue: 0,1:26:07.84,1:26:08.87,Default,,0,0,0,,Where are they?
+Dialogue: 0,1:26:09.13,1:26:10.38,Default,,0,0,0,,Making the call.
+Dialogue: 0,1:26:11.05,1:26:12.21,Default,,0,0,0,,Good.
+Dialogue: 0,1:26:13.11,1:26:15.07,Default,,0,0,0,,[TELEPHONE RINGING]
+Dialogue: 0,1:26:23.90,1:26:25.84,Default,,0,0,0,,[RINGING]
+Dialogue: 0,1:26:25.85,1:26:27.55,Default,,0,0,0,,You first, Neo.
+Dialogue: 0,1:26:29.78,1:26:31.02,Default,,0,0,0,,Shit!
+Dialogue: 0,1:26:34.47,1:26:35.60,Default,,0,0,0,,Tank.
+Dialogue: 0,1:26:36.26,1:26:37.35,Default,,0,0,0,,No!
+Dialogue: 0,1:26:37.36,1:26:38.53,Default,,0,0,0,,[YELLS]
+Dialogue: 0,1:26:39.71,1:26:41.86,Default,,0,0,0,,I don't know. It just went dead.
+Dialogue: 0,1:27:08.69,1:27:10.05,Default,,0,0,0,,CYPHER: {\i1}Hello, Trinity.{\i0}
+Dialogue: 0,1:27:10.41,1:27:12.00,Default,,0,0,0,,Cypher? Where's Tank?
+Dialogue: 0,1:27:17.24,1:27:18.27,Default,,0,0,0,,You know...
+Dialogue: 0,1:27:20.00,1:27:22.12,Default,,0,0,0,,for a long time...
+Dialogue: 0,1:27:23.33,1:27:26.25,Default,,0,0,0,,I thought I was in love with you.
+Dialogue: 0,1:27:27.00,1:27:29.04,Default,,0,0,0,,{\i1}I used to dream about you.{\i0}
+Dialogue: 0,1:27:30.13,1:27:33.08,Default,,0,0,0,,You're a beautiful woman, Trinity.
+Dialogue: 0,1:27:33.09,1:27:35.46,Default,,0,0,0,,{\i1}Too bad things had to turn out this way.{\i0}
+Dialogue: 0,1:27:35.97,1:27:37.05,Default,,0,0,0,,You killed them.
+Dialogue: 0,1:27:37.56,1:27:39.05,Default,,0,0,0,,What?\N- Oh, God.
+Dialogue: 0,1:27:39.31,1:27:40.72,Default,,0,0,0,,I'm tired, Trinity.
+Dialogue: 0,1:27:42.14,1:27:44.02,Default,,0,0,0,,I'm tired of this war...
+Dialogue: 0,1:27:44.31,1:27:47.15,Default,,0,0,0,,tired of fighting. I'm tired of this ship...
+Dialogue: 0,1:27:47.48,1:27:52.11,Default,,0,0,0,,of being cold, of eating the same goddamn goop every day.
+Dialogue: 0,1:27:54.41,1:27:55.44,Default,,0,0,0,,But most of all...
+Dialogue: 0,1:27:56.03,1:27:59.40,Default,,0,0,0,,{\i1}I'm tired of that jackoff and all of his bullshit.{\i0}
+Dialogue: 0,1:28:00.54,1:28:01.82,Default,,0,0,0,,Surprise, asshole!
+Dialogue: 0,1:28:02.37,1:28:04.82,Default,,0,0,0,,I bet you never saw this coming...
+Dialogue: 0,1:28:04.83,1:28:05.86,Default,,0,0,0,,did you?
+Dialogue: 0,1:28:08.17,1:28:10.54,Default,,0,0,0,,God, I wish I could be there...
+Dialogue: 0,1:28:11.13,1:28:12.63,Default,,0,0,0,,when they break you.
+Dialogue: 0,1:28:13.68,1:28:16.84,Default,,0,0,0,,I wish I could walk in just when it happens...
+Dialogue: 0,1:28:17.55,1:28:19.50,Default,,0,0,0,,so right then...
+Dialogue: 0,1:28:19.51,1:28:20.84,Default,,0,0,0,,you'd know it was me.
+Dialogue: 0,1:28:21.27,1:28:24.22,Default,,0,0,0,,You gave them Morpheus.\N- {\i1}He lied to us, Trinity.{\i0}
+Dialogue: 0,1:28:24.81,1:28:26.31,Default,,0,0,0,,He tricked us!
+Dialogue: 0,1:28:26.86,1:28:28.85,Default,,0,0,0,,If you had told us the truth...
+Dialogue: 0,1:28:29.11,1:28:31.98,Default,,0,0,0,,we would've told you to shove that red pill up your ass!
+Dialogue: 0,1:28:32.24,1:28:35.52,Default,,0,0,0,,That is not true, Cypher. He set us free.\N- {\i1}"Free"?{\i0}
+Dialogue: 0,1:28:35.78,1:28:37.49,Default,,0,0,0,,You call this free?
+Dialogue: 0,1:28:39.91,1:28:42.40,Default,,0,0,0,,All I do is what he tells me to do.
+Dialogue: 0,1:28:44.00,1:28:46.91,Default,,0,0,0,,If I had to choose between that and the Matrix...
+Dialogue: 0,1:28:48.09,1:28:49.28,Default,,0,0,0,,I choose the Matrix.
+Dialogue: 0,1:28:49.54,1:28:51.20,Default,,0,0,0,,The Matrix isn't real.
+Dialogue: 0,1:28:51.46,1:28:52.87,Default,,0,0,0,,{\i1}I disagree, Trinity.{\i0}
+Dialogue: 0,1:28:53.13,1:28:55.37,Default,,0,0,0,,I think the Matrix...
+Dialogue: 0,1:28:55.72,1:28:58.29,Default,,0,0,0,,can be more real than this world.
+Dialogue: 0,1:29:00.47,1:29:02.96,Default,,0,0,0,,All I do is pull the plug here.
+Dialogue: 0,1:29:03.23,1:29:04.55,Default,,0,0,0,,But there...
+Dialogue: 0,1:29:05.10,1:29:07.39,Default,,0,0,0,,{\i1}you have to watch Apoc die.{\i0}
+Dialogue: 0,1:29:08.94,1:29:10.06,Default,,0,0,0,,Trinity
+Dialogue: 0,1:29:12.01,1:29:12.78,Default,,0,0,0,,No!
+Dialogue: 0,1:29:15.15,1:29:17.40,Default,,0,0,0,,{\i1}Welcome to the real world, huh, baby.{\i0}
+Dialogue: 0,1:29:17.41,1:29:18.36,Default,,0,0,0,,But you're out, Cypher.
+Dialogue: 0,1:29:18.37,1:29:21.13,Default,,0,0,0,,{\i1}You can't go back.{\i0}\N- Oh no, that's what you think.
+Dialogue: 0,1:29:21.14,1:29:22.78,Default,,0,0,0,,{\i1}They'll reinsert my body.{\i0}
+Dialogue: 0,1:29:22.79,1:29:24.05,Default,,0,0,0,,{\i1}I go back to sleep.{\i0}
+Dialogue: 0,1:29:24.06,1:29:26.66,Default,,0,0,0,,{\i1}And when I wake up, I won't remember a goddamn thing.{\i0}
+Dialogue: 0,1:29:26.67,1:29:27.95,Default,,0,0,0,,By the way...
+Dialogue: 0,1:29:27.96,1:29:30.88,Default,,0,0,0,,if you have anything terribly important to say to Switch...
+Dialogue: 0,1:29:31.38,1:29:34.12,Default,,0,0,0,,{\i1}I suggest you say it now.{\i0}\N- Oh no, please don't.
+Dialogue: 0,1:29:34.13,1:29:35.76,Default,,0,0,0,,Not like this.
+Dialogue: 0,1:29:37.47,1:29:39.09,Default,,0,0,0,,Not like this.
+Dialogue: 0,1:29:43.56,1:29:44.59,Default,,0,0,0,,Too late.
+Dialogue: 0,1:29:45.06,1:29:46.88,Default,,0,0,0,,Goddamn you, Cypher!
+Dialogue: 0,1:29:46.89,1:29:48.77,Default,,0,0,0,,Don't hate me, Trinity.
+Dialogue: 0,1:29:49.15,1:29:51.02,Default,,0,0,0,,I'm just a messenger.
+Dialogue: 0,1:29:51.44,1:29:54.61,Default,,0,0,0,,And right now, I'm going to prove it to you.
+Dialogue: 0,1:29:55.70,1:29:57.35,Default,,0,0,0,,If Morpheus was right...
+Dialogue: 0,1:29:57.91,1:29:59.78,Default,,0,0,0,,there's no way I can pull this plug.
+Dialogue: 0,1:30:00.37,1:30:02.36,Default,,0,0,0,,{\i1}I mean, if Neo is the One...{\i0}
+Dialogue: 0,1:30:02.37,1:30:04.37,Default,,0,0,0,,{\i1}then there'd have to be some kind...{\i0}
+Dialogue: 0,1:30:04.38,1:30:06.96,Default,,0,0,0,,of a miracle... to stop me.
+Dialogue: 0,1:30:07.54,1:30:09.03,Default,,0,0,0,,Right?
+Dialogue: 0,1:30:09.04,1:30:12.57,Default,,0,0,0,,I mean, how can he be the One... if he's dead?
+Dialogue: 0,1:30:13.76,1:30:16.00,Default,,0,0,0,,{\i1}You never did answer me before...{\i0}
+Dialogue: 0,1:30:16.30,1:30:18.62,Default,,0,0,0,,{\i1}if you bought into Morpheus ' bullshit.{\i0}
+Dialogue: 0,1:30:19.01,1:30:19.94,Default,,0,0,0,,{\i1}Come on.{\i0}
+Dialogue: 0,1:30:19.95,1:30:22.21,Default,,0,0,0,,All I want is a little yes or no.
+Dialogue: 0,1:30:23.60,1:30:25.92,Default,,0,0,0,,Look into his eyes...
+Dialogue: 0,1:30:26.69,1:30:28.18,Default,,0,0,0,,{\i1}those big, pretty eyes...{\i0}
+Dialogue: 0,1:30:30.94,1:30:32.27,Default,,0,0,0,,and tell me...
+Dialogue: 0,1:30:32.98,1:30:34.26,Default,,0,0,0,,{\i1}yes...{\i0}
+Dialogue: 0,1:30:34.57,1:30:35.94,Default,,0,0,0,,{\i1}or no.{\i0}
+Dialogue: 0,1:30:37.24,1:30:38.34,Default,,0,0,0,,Yes.
+Dialogue: 0,1:30:38.35,1:30:39.27,Default,,0,0,0,,{\i1}No!{\i0}
+Dialogue: 0,1:30:39.28,1:30:40.50,Default,,0,0,0,,I don't believe it.
+Dialogue: 0,1:30:41.82,1:30:46.44,Default,,0,0,0,,Believe it or not, you piece of shit, you're still gonna burn!
+Dialogue: 0,1:30:50.26,1:30:51.09,Default,,0,0,0,,Pugh!
+Dialogue: 0,1:30:53.57,1:30:55.74,Default,,0,0,0,,[TELEPHONE RINGING]
+Dialogue: 0,1:30:57.37,1:30:59.61,Default,,0,0,0,,[RINGING]
+Dialogue: 0,1:31:01.23,1:31:02.73,Default,,0,0,0,,[RING]
+Dialogue: 0,1:31:04.68,1:31:05.93,Default,,0,0,0,,You first.
+Dialogue: 0,1:31:13.98,1:31:15.01,Default,,0,0,0,,You're hurt.
+Dialogue: 0,1:31:15.36,1:31:16.44,Default,,0,0,0,,I'll be all right.
+Dialogue: 0,1:31:19.24,1:31:20.40,Default,,0,0,0,,Dozer?
+Dialogue: 0,1:31:38.67,1:31:41.05,Default,,0,0,0,,SMITH: Have you ever stood and stared at it?
+Dialogue: 0,1:31:41.93,1:31:45.05,Default,,0,0,0,,Marveled at its beauty...
+Dialogue: 0,1:31:45.43,1:31:47.67,Default,,0,0,0,,its genius?
+Dialogue: 0,1:31:48.85,1:31:50.97,Default,,0,0,0,,Billions of people...
+Dialogue: 0,1:31:50.98,1:31:53.73,Default,,0,0,0,,just living out their lives.
+Dialogue: 0,1:31:54.77,1:31:56.43,Default,,0,0,0,,Oblivious.
+Dialogue: 0,1:32:01.03,1:32:03.90,Default,,0,0,0,,Did you know that the first Matrix...
+Dialogue: 0,1:32:04.16,1:32:08.87,Default,,0,0,0,,was designed to be a perfect human world where none suffered...
+Dialogue: 0,1:32:09.33,1:32:12.25,Default,,0,0,0,,where everyone would be happy.
+Dialogue: 0,1:32:12.79,1:32:14.53,Default,,0,0,0,,It was a disaster.
+Dialogue: 0,1:32:14.54,1:32:18.87,Default,,0,0,0,,No one would accept the program. Entire crops were lost.
+Dialogue: 0,1:32:19.76,1:32:21.50,Default,,0,0,0,,Some believe that...
+Dialogue: 0,1:32:21.76,1:32:26.33,Default,,0,0,0,,we lacked the programming language to describe your perfect world.
+Dialogue: 0,1:32:26.34,1:32:29.51,Default,,0,0,0,,But I believe that, as a species...
+Dialogue: 0,1:32:29.52,1:32:33.59,Default,,0,0,0,,human beings define their reality through misery...
+Dialogue: 0,1:32:33.60,1:32:35.22,Default,,0,0,0,,and suffering.
+Dialogue: 0,1:32:35.23,1:32:37.57,Default,,0,0,0,,So the perfect world was a dream...
+Dialogue: 0,1:32:37.58,1:32:42.82,Default,,0,0,0,,that your primitive cerebrum kept trying to wake up from.
+Dialogue: 0,1:32:44.37,1:32:48.03,Default,,0,0,0,,Which is why the Matrix was redesigned to this.
+Dialogue: 0,1:32:48.50,1:32:51.66,Default,,0,0,0,,The peak of your civilization.
+Dialogue: 0,1:32:51.92,1:32:54.16,Default,,0,0,0,,I say, "your civilization"...
+Dialogue: 0,1:32:54.42,1:32:58.79,Default,,0,0,0,,because as soon as we started thinking for you,\Nit really became our civilization...
+Dialogue: 0,1:32:58.80,1:33:02.41,Default,,0,0,0,,which is, of course, what this is all about.
+Dialogue: 0,1:33:03.22,1:33:05.79,Default,,0,0,0,,Evolution, Morpheus.
+Dialogue: 0,1:33:06.10,1:33:07.42,Default,,0,0,0,,Evolution.
+Dialogue: 0,1:33:09.72,1:33:11.60,Default,,0,0,0,,Like the dinosaur.
+Dialogue: 0,1:33:13.77,1:33:15.39,Default,,0,0,0,,Look out that window.
+Dialogue: 0,1:33:16.11,1:33:18.23,Default,,0,0,0,,You had your time.
+Dialogue: 0,1:33:18.94,1:33:22.86,Default,,0,0,0,,The future is our world, Morpheus.
+Dialogue: 0,1:33:23.20,1:33:25.57,Default,,0,0,0,,The future is our time.
+Dialogue: 0,1:33:25.71,1:33:26.72,Default,,0,0,0,,[DOOR OPENS]
+Dialogue: 0,1:33:29.89,1:33:31.14,Default,,0,0,0,,There could be a problem.
+Dialogue: 0,1:33:31.97,1:33:33.55,Default,,0,0,0,,NEO: What are they doing to him?
+Dialogue: 0,1:33:33.83,1:33:35.51,Default,,0,0,0,,They're breaking into his mind.
+Dialogue: 0,1:33:35.54,1:33:37.86,Default,,0,0,0,,It's like hacking a computer. All it takes is time.
+Dialogue: 0,1:33:37.96,1:33:39.28,Default,,0,0,0,,How much time?
+Dialogue: 0,1:33:39.42,1:33:42.67,Default,,0,0,0,,Depends on the mind. But eventually, it'll crack...
+Dialogue: 0,1:33:42.80,1:33:45.69,Default,,0,0,0,,and his alpha patterns will change from this...
+Dialogue: 0,1:33:45.70,1:33:46.95,Default,,0,0,0,,to this.
+Dialogue: 0,1:33:47.55,1:33:50.67,Default,,0,0,0,,When it does, Morpheus will tell them anything they want to know.
+Dialogue: 0,1:33:50.68,1:33:51.71,Default,,0,0,0,,What do they want?
+Dialogue: 0,1:33:51.98,1:33:56.26,Default,,0,0,0,,The leader of every ship is given codes to Zion's mainframe computer.
+Dialogue: 0,1:33:56.27,1:33:59.43,Default,,0,0,0,,If an Agent got the codes and got into Zion's mainframe...
+Dialogue: 0,1:33:59.44,1:34:02.40,Default,,0,0,0,,they could destroy us. We can't let that happen.
+Dialogue: 0,1:34:02.41,1:34:03.35,Default,,0,0,0,,Trinity...
+Dialogue: 0,1:34:03.36,1:34:05.15,Default,,0,0,0,,Zion's more important than me...
+Dialogue: 0,1:34:05.16,1:34:06.52,Default,,0,0,0,,or you...
+Dialogue: 0,1:34:06.53,1:34:07.73,Default,,0,0,0,,or even Morpheus.
+Dialogue: 0,1:34:11.54,1:34:13.60,Default,,0,0,0,,Well, there has to be something we can do.
+Dialogue: 0,1:34:13.62,1:34:15.61,Default,,0,0,0,,There is. We pull the plug.
+Dialogue: 0,1:34:18.71,1:34:20.45,Default,,0,0,0,,You're going to kill him?
+Dialogue: 0,1:34:20.71,1:34:21.88,Default,,0,0,0,,Kill Morpheus?
+Dialogue: 0,1:34:22.75,1:34:24.37,Default,,0,0,0,,We don't have any other choice.
+Dialogue: 0,1:34:29.72,1:34:30.49,Default,,0,0,0,,[GROANS]
+Dialogue: 0,1:34:30.93,1:34:34.09,Default,,0,0,0,,Never send a human to do a machine's job.
+Dialogue: 0,1:34:34.39,1:34:36.12,Default,,0,0,0,,If indeed the insider has failed...
+Dialogue: 0,1:34:36.13,1:34:39.65,Default,,0,0,0,,they'll sever the connection as soon as possible, unless...
+Dialogue: 0,1:34:39.67,1:34:41.52,Default,,0,0,0,,They're dead. In either case...
+Dialogue: 0,1:34:41.53,1:34:45.31,Default,,0,0,0,,We have no choice. Continue as planned. Deploy the sentinels.
+Dialogue: 0,1:34:45.32,1:34:46.40,Default,,0,0,0,,Immediately.
+Dialogue: 0,1:34:51.66,1:34:54.33,Default,,0,0,0,,Morpheus, you were more than a leader to us.
+Dialogue: 0,1:34:55.29,1:34:57.50,Default,,0,0,0,,You were... a father.
+Dialogue: 0,1:34:59.04,1:35:01.00,Default,,0,0,0,,We'll miss you always.
+Dialogue: 0,1:35:07.76,1:35:09.09,Default,,0,0,0,,Stop!
+Dialogue: 0,1:35:10.30,1:35:11.76,Default,,0,0,0,,I don't believe this is happening.
+Dialogue: 0,1:35:11.96,1:35:13.99,Default,,0,0,0,,Neo, this has to be done.\N- Does it?
+Dialogue: 0,1:35:14.60,1:35:15.98,Default,,0,0,0,,I don't know. I...
+Dialogue: 0,1:35:16.31,1:35:18.05,Default,,0,0,0,,This can't be just coincidence.
+Dialogue: 0,1:35:18.06,1:35:20.22,Default,,0,0,0,,What are you talking about?\N- The Oracle.
+Dialogue: 0,1:35:20.48,1:35:22.27,Default,,0,0,0,,She told me this would happen.
+Dialogue: 0,1:35:22.69,1:35:23.88,Default,,0,0,0,,She told me...
+Dialogue: 0,1:35:25.15,1:35:27.18,Default,,0,0,0,,that I would have to make a choice.
+Dialogue: 0,1:35:27.32,1:35:28.57,Default,,0,0,0,,What choice?
+Dialogue: 0,1:35:31.53,1:35:34.03,Default,,0,0,0,,What... What are you doing?\N- I'm going in.
+Dialogue: 0,1:35:34.37,1:35:35.68,Default,,0,0,0,,No, you're not.
+Dialogue: 0,1:35:36.31,1:35:37.10,Default,,0,0,0,,I have to.
+Dialogue: 0,1:35:37.11,1:35:40.72,Default,,0,0,0,,Neo, Morpheus sacrificed himself so that we could get you out.
+Dialogue: 0,1:35:40.79,1:35:42.70,Default,,0,0,0,,There is no way that you're going back in.
+Dialogue: 0,1:35:43.30,1:35:46.55,Default,,0,0,0,,Morpheus did what he did because he believed I'm something I'm not.
+Dialogue: 0,1:35:48.18,1:35:51.43,Default,,0,0,0,,What?\N- I'm not the One, Trinity.
+Dialogue: 0,1:35:51.81,1:35:54.76,Default,,0,0,0,,The Oracle hit me with that too.\N- No, you have to be.
+Dialogue: 0,1:35:55.02,1:35:57.69,Default,,0,0,0,,I'm sorry, I'm not. I'm just another guy.
+Dialogue: 0,1:35:58.35,1:35:59.60,Default,,0,0,0,,No, Neo, that's not true.
+Dialogue: 0,1:36:00.19,1:36:01.52,Default,,0,0,0,,It can't be true.
+Dialogue: 0,1:36:01.86,1:36:03.98,Default,,0,0,0,,Why?
+Dialogue: 0,1:36:06.53,1:36:08.39,Default,,0,0,0,,Neo, this is loco.
+Dialogue: 0,1:36:08.40,1:36:11.02,Default,,0,0,0,,They've got Morpheus in a military-controlled building.
+Dialogue: 0,1:36:11.03,1:36:14.39,Default,,0,0,0,,Even {\i1}if{\i0} you somehow got inside, those are Agents holding him.
+Dialogue: 0,1:36:14.71,1:36:15.69,Default,,0,0,0,,Three of them.
+Dialogue: 0,1:36:16.68,1:36:20.58,Default,,0,0,0,,I want Morpheus back too, but what you're talking about is suicide.
+Dialogue: 0,1:36:20.59,1:36:23.70,Default,,0,0,0,,I know that's what it looks like... but it's not.
+Dialogue: 0,1:36:23.71,1:36:26.08,Default,,0,0,0,,I can't explain to you why it's not.
+Dialogue: 0,1:36:27.17,1:36:28.82,Default,,0,0,0,,Morpheus believed something...
+Dialogue: 0,1:36:29.16,1:36:31.20,Default,,0,0,0,,and he was ready to give his life for what he believed.
+Dialogue: 0,1:36:31.21,1:36:32.92,Default,,0,0,0,,I understand that now.
+Dialogue: 0,1:36:33.34,1:36:34.61,Default,,0,0,0,,That's why I have to go.
+Dialogue: 0,1:36:34.62,1:36:35.54,Default,,0,0,0,,Why?
+Dialogue: 0,1:36:35.55,1:36:37.10,Default,,0,0,0,,Because I believe in something.
+Dialogue: 0,1:36:37.37,1:36:38.54,Default,,0,0,0,,What?
+Dialogue: 0,1:36:39.44,1:36:41.37,Default,,0,0,0,,I believe I can bring him back.
+Dialogue: 0,1:36:58.41,1:37:00.46,Default,,0,0,0,,What are you doing?\N- Going with you.
+Dialogue: 0,1:37:00.65,1:37:02.82,Default,,0,0,0,,No, you're not.\N- "No"?
+Dialogue: 0,1:37:03.68,1:37:05.63,Default,,0,0,0,,Let me tell you what I believe.
+Dialogue: 0,1:37:06.13,1:37:08.71,Default,,0,0,0,,I believe Morpheus means more to me than he does to you.
+Dialogue: 0,1:37:08.91,1:37:12.74,Default,,0,0,0,,I believe if you are really serious about\Nsaving him, you're going to need my help.
+Dialogue: 0,1:37:13.39,1:37:15.74,Default,,0,0,0,,And since I am the ranking officer on this ship...
+Dialogue: 0,1:37:15.75,1:37:18.79,Default,,0,0,0,,if you don't like it, I believe you can go to hell.
+Dialogue: 0,1:37:19.45,1:37:21.72,Default,,0,0,0,,Because you aren't going anywhere else.
+Dialogue: 0,1:37:22.15,1:37:23.85,Default,,0,0,0,,Tank...
+Dialogue: 0,1:37:23.86,1:37:25.02,Default,,0,0,0,,load us up.
+Dialogue: 0,1:37:34.62,1:37:37.90,Default,,0,0,0,,I'd like to share a revelation that I've had...
+Dialogue: 0,1:37:38.33,1:37:40.11,Default,,0,0,0,,during my time here.
+Dialogue: 0,1:37:40.12,1:37:44.12,Default,,0,0,0,,It came to me when I tried to classify your species...
+Dialogue: 0,1:37:44.38,1:37:46.87,Default,,0,0,0,,and I realized that...
+Dialogue: 0,1:37:46.88,1:37:49.17,Default,,0,0,0,,you're not actually mammals.
+Dialogue: 0,1:37:51.38,1:37:53.84,Default,,0,0,0,,Every mammal on this planet...
+Dialogue: 0,1:37:54.30,1:37:59.34,Default,,0,0,0,,instinctively develops a natural equilibrium\Nwith the surrounding environment.
+Dialogue: 0,1:37:59.35,1:38:01.18,Default,,0,0,0,,But you humans do not.
+Dialogue: 0,1:38:01.73,1:38:05.26,Default,,0,0,0,,You move to an area and you multiply...
+Dialogue: 0,1:38:05.52,1:38:10.02,Default,,0,0,0,,and multiply until every natural resource is consumed.
+Dialogue: 0,1:38:10.36,1:38:12.44,Default,,0,0,0,,The only way you can survive...
+Dialogue: 0,1:38:12.74,1:38:15.69,Default,,0,0,0,,is to spread to another area.
+Dialogue: 0,1:38:21.12,1:38:24.36,Default,,0,0,0,,There is another organism on this planet, that...
+Dialogue: 0,1:38:24.37,1:38:26.33,Default,,0,0,0,,follows the same pattern.
+Dialogue: 0,1:38:26.84,1:38:28.50,Default,,0,0,0,,Do you know what it is?
+Dialogue: 0,1:38:28.88,1:38:30.71,Default,,0,0,0,,A virus.
+Dialogue: 0,1:38:32.05,1:38:35.09,Default,,0,0,0,,Human beings are a disease.
+Dialogue: 0,1:38:35.47,1:38:37.25,Default,,0,0,0,,A cancer of this planet.
+Dialogue: 0,1:38:37.26,1:38:39.39,Default,,0,0,0,,You are a plague.
+Dialogue: 0,1:38:39.93,1:38:42.89,Default,,0,0,0,,And we are the cure.
+Dialogue: 0,1:38:43.90,1:38:45.31,Default,,0,0,0,,Okay, so what do you need?
+Dialogue: 0,1:38:45.94,1:38:47.05,Default,,0,0,0,,Besides a miracle.
+Dialogue: 0,1:38:47.65,1:38:48.85,Default,,0,0,0,,Guns.
+Dialogue: 0,1:38:49.57,1:38:50.90,Default,,0,0,0,,Lots of guns.
+Dialogue: 0,1:39:01.05,1:39:01.89,Default,,0,0,0,,Neo...
+Dialogue: 0,1:39:03.75,1:39:06.29,Default,,0,0,0,,No one has ever done anything like this.
+Dialogue: 0,1:39:07.50,1:39:09.41,Default,,0,0,0,,That's why it's going to work.
+Dialogue: 0,1:39:13.51,1:39:15.47,Default,,0,0,0,,Why isn't the serum working?
+Dialogue: 0,1:39:16.05,1:39:18.34,Default,,0,0,0,,Perhaps we're asking the wrong questions.
+Dialogue: 0,1:39:20.43,1:39:21.68,Default,,0,0,0,,Leave me with him.
+Dialogue: 0,1:39:24.27,1:39:25.38,Default,,0,0,0,,Now.
+Dialogue: 0,1:39:36.62,1:39:38.19,Default,,0,0,0,,Hold on, Morpheus.
+Dialogue: 0,1:39:38.45,1:39:41.16,Default,,0,0,0,,They're coming for you. They're coming.
+Dialogue: 0,1:39:43.54,1:39:45.66,Default,,0,0,0,,Can you hear me, Morpheus?
+Dialogue: 0,1:39:45.92,1:39:48.59,Default,,0,0,0,,I'm going to be honest...
+Dialogue: 0,1:39:48.96,1:39:50.16,Default,,0,0,0,,with you.
+Dialogue: 0,1:39:54.55,1:39:55.96,Default,,0,0,0,,I...
+Dialogue: 0,1:39:56.72,1:39:57.96,Default,,0,0,0,,hate...
+Dialogue: 0,1:39:58.22,1:40:00.18,Default,,0,0,0,,this place...
+Dialogue: 0,1:40:00.52,1:40:02.80,Default,,0,0,0,,this... zoo...
+Dialogue: 0,1:40:03.06,1:40:04.17,Default,,0,0,0,,this prison...
+Dialogue: 0,1:40:04.44,1:40:08.05,Default,,0,0,0,,this reality, whatever you want to call it.
+Dialogue: 0,1:40:08.06,1:40:10.34,Default,,0,0,0,,I can't stand it any longer.
+Dialogue: 0,1:40:10.90,1:40:12.77,Default,,0,0,0,,It's the smell.
+Dialogue: 0,1:40:14.15,1:40:16.03,Default,,0,0,0,,If there is such a thing.
+Dialogue: 0,1:40:16.36,1:40:19.65,Default,,0,0,0,,I feel saturated by it.
+Dialogue: 0,1:40:21.16,1:40:23.57,Default,,0,0,0,,I can taste...
+Dialogue: 0,1:40:24.41,1:40:26.45,Default,,0,0,0,,your stink.
+Dialogue: 0,1:40:26.71,1:40:30.70,Default,,0,0,0,,And every time I do, I fear that I have somehow been infected by it.
+Dialogue: 0,1:40:30.71,1:40:32.50,Default,,0,0,0,,It's repulsive.
+Dialogue: 0,1:40:32.51,1:40:33.88,Default,,0,0,0,,Isn't it?
+Dialogue: 0,1:40:36.05,1:40:38.34,Default,,0,0,0,,I must get out of here.
+Dialogue: 0,1:40:38.76,1:40:41.21,Default,,0,0,0,,I must get free.
+Dialogue: 0,1:40:41.22,1:40:44.09,Default,,0,0,0,,And in this mind is the key.
+Dialogue: 0,1:40:44.35,1:40:46.01,Default,,0,0,0,,My key.
+Dialogue: 0,1:40:46.27,1:40:49.14,Default,,0,0,0,,Once Zion is destroyed, there is no need for me to be here.
+Dialogue: 0,1:40:49.40,1:40:51.02,Default,,0,0,0,,Do you understand?
+Dialogue: 0,1:40:51.32,1:40:52.93,Default,,0,0,0,,I need the codes.
+Dialogue: 0,1:40:52.94,1:40:55.27,Default,,0,0,0,,I have to get inside Zion...
+Dialogue: 0,1:40:55.61,1:40:58.10,Default,,0,0,0,,and you have to tell me how.
+Dialogue: 0,1:40:58.53,1:41:00.65,Default,,0,0,0,,You're going to tell me...
+Dialogue: 0,1:41:00.66,1:41:02.82,Default,,0,0,0,,or you're going to die.
+Dialogue: 0,1:41:23.02,1:41:27.06,Default,,0,0,0,,Please remove any metallic items you're carrying. Keys, loose change.
+Dialogue: 0,1:41:30.06,1:41:31.09,Default,,0,0,0,,Holy shit!
+Dialogue: 0,1:41:43.20,1:41:45.91,Default,,0,0,0,,Backup. Send backup.
+Dialogue: 0,1:42:09.80,1:42:11.37,Default,,0,0,0,,Freeze!
+Dialogue: 0,1:42:13.70,1:42:18.70,Default,,0,0,0,,[ ♪ PROPELLERHEADS - "SPYBREAK" ♪ ]
+Dialogue: 0,1:44:15.29,1:44:16.55,Default,,0,0,0,,[ELEVATOR BELL]
+Dialogue: 0,1:44:25.91,1:44:28.03,Default,,0,0,0,,What were you doing?
+Dialogue: 0,1:44:28.74,1:44:30.02,Default,,0,0,0,,He doesn't know.
+Dialogue: 0,1:44:30.29,1:44:31.78,Default,,0,0,0,,Know what?
+Dialogue: 0,1:44:59.86,1:45:02.35,Default,,0,0,0,,I think they're trying to save him.
+Dialogue: 0,1:45:17.21,1:45:18.95,Default,,0,0,0,,There is no spoon.
+Dialogue: 0,1:45:48.58,1:45:50.73,Default,,0,0,0,,Find them and destroy them!
+Dialogue: 0,1:45:52.37,1:45:54.24,Default,,0,0,0,,I repeat. We're under attack!
+Dialogue: 0,1:46:26.37,1:46:27.47,Default,,0,0,0,,Trinity!
+Dialogue: 0,1:46:28.39,1:46:29.24,Default,,0,0,0,,Help!
+Dialogue: 0,1:46:51.10,1:46:52.30,Default,,0,0,0,,Only human.
+Dialogue: 0,1:46:53.39,1:46:55.27,Default,,0,0,0,,Dodge this.
+Dialogue: 0,1:47:07.57,1:47:09.11,Default,,0,0,0,,How did you do that?\N- Do what?
+Dialogue: 0,1:47:09.49,1:47:13.40,Default,,0,0,0,,You moved like they do. I've never seen anyone move that fast.
+Dialogue: 0,1:47:14.54,1:47:15.91,Default,,0,0,0,,It wasn't fast enough.
+Dialogue: 0,1:47:18.67,1:47:19.95,Default,,0,0,0,,Can you fly that thing?
+Dialogue: 0,1:47:21.29,1:47:23.09,Default,,0,0,0,,Not yet.
+Dialogue: 0,1:47:25.77,1:47:29.52,Default,,0,0,0,,Operator.\N- {\i1}Tank, I need a pilot program for a B-212 helicopter.{\i0}
+Dialogue: 0,1:47:30.26,1:47:31.54,Default,,0,0,0,,{\i1}Hurry.{\i0}
+Dialogue: 0,1:47:39.48,1:47:41.10,Default,,0,0,0,,Let's go.
+Dialogue: 0,1:47:56.20,1:47:57.28,Default,,0,0,0,,No.
+Dialogue: 0,1:48:48.88,1:48:51.50,Default,,0,0,0,,Morpheus, get up. Get up, get up.
+Dialogue: 0,1:49:29.55,1:49:31.29,Default,,0,0,0,,He's not going to make it.
+Dialogue: 0,1:49:40.39,1:49:41.42,Default,,0,0,0,,Got you.
+Dialogue: 0,1:51:30.34,1:51:31.75,Default,,0,0,0,,I knew it.
+Dialogue: 0,1:51:32.26,1:51:33.58,Default,,0,0,0,,He's the One.
+Dialogue: 0,1:51:49.57,1:51:51.77,Default,,0,0,0,,Do you believe it now, Trinity?
+Dialogue: 0,1:51:54.72,1:51:55.77,Default,,0,0,0,,Morpheus...
+Dialogue: 0,1:51:57.70,1:51:59.05,Default,,0,0,0,,The Oracle.
+Dialogue: 0,1:51:59.83,1:52:02.02,Default,,0,0,0,,She told me...\N- She told you...
+Dialogue: 0,1:52:02.58,1:52:04.36,Default,,0,0,0,,exactly what you needed to hear.
+Dialogue: 0,1:52:04.46,1:52:05.78,Default,,0,0,0,,That's all.
+Dialogue: 0,1:52:06.83,1:52:09.93,Default,,0,0,0,,Neo, sooner or later you're going to realize, just as I did...
+Dialogue: 0,1:52:10.28,1:52:12.57,Default,,0,0,0,,there's a difference between knowing the path...
+Dialogue: 0,1:52:13.17,1:52:14.65,Default,,0,0,0,,and walking the path.
+Dialogue: 0,1:52:17.51,1:52:19.19,Default,,0,0,0,,Operator.\N- MORPHEUS: {\i1}Tank...{\i0}
+Dialogue: 0,1:52:19.64,1:52:22.51,Default,,0,0,0,,Goddamn, it's good to hear your voice, sir.\N- {\i1}We need an exit.{\i0}
+Dialogue: 0,1:52:22.52,1:52:25.43,Default,,0,0,0,,Got one ready. Subway station, State and Balboa.
+Dialogue: 0,1:52:37.66,1:52:39.23,Default,,0,0,0,,Damn it!
+Dialogue: 0,1:52:39.49,1:52:40.69,Default,,0,0,0,,The trace was completed.
+Dialogue: 0,1:52:40.95,1:52:44.53,Default,,0,0,0,,We have their position.\N- Sentinels are standing by.
+Dialogue: 0,1:52:46.25,1:52:47.73,Default,,0,0,0,,Order the strike.
+Dialogue: 0,1:52:47.74,1:52:50.05,Default,,0,0,0,,[SIRENS IN THE BACKGROUND]
+Dialogue: 0,1:52:54.30,1:52:56.34,Default,,0,0,0,,They're not out yet.
+Dialogue: 0,1:52:57.15,1:52:59.59,Default,,0,0,0,,[TELEPHONE RINGING]
+Dialogue: 0,1:53:03.17,1:53:05.25,Default,,0,0,0,,[RINGING]
+Dialogue: 0,1:53:07.48,1:53:08.81,Default,,0,0,0,,You first, Morpheus.
+Dialogue: 0,1:53:09.18,1:53:10.14,Default,,0,0,0,,[RING]
+Dialogue: 0,1:53:29.50,1:53:31.79,Default,,0,0,0,,Neo, I want to tell you something...
+Dialogue: 0,1:53:35.05,1:53:39.00,Default,,0,0,0,,but I'm afraid of what it could mean if I do.
+Dialogue: 0,1:53:39.17,1:53:41.39,Default,,0,0,0,,[RINGING]
+Dialogue: 0,1:53:42.60,1:53:47.41,Default,,0,0,0,,Everything the Oracle told me has come true.\N- [RINGING]
+Dialogue: 0,1:53:48.65,1:53:50.19,Default,,0,0,0,,Everything, but this.
+Dialogue: 0,1:53:51.10,1:53:52.72,Default,,0,0,0,,[RINGING]\N- But what?
+Dialogue: 0,1:53:57.17,1:53:59.23,Default,,0,0,0,,[RINGING]
+Dialogue: 0,1:54:03.26,1:54:04.37,Default,,0,0,0,,[RINGING]
+Dialogue: 0,1:54:10.02,1:54:10.79,Default,,0,0,0,,[RING]
+Dialogue: 0,1:54:18.09,1:54:18.86,Default,,0,0,0,,Neo.
+Dialogue: 0,1:54:19.05,1:54:20.84,Default,,0,0,0,,What the hell just happened?\N- An Agent.
+Dialogue: 0,1:54:20.85,1:54:22.90,Default,,0,0,0,,You have to send me back.\N- I can't.
+Dialogue: 0,1:54:24.89,1:54:26.88,Default,,0,0,0,,Mr. Anderson.
+Dialogue: 0,1:54:29.06,1:54:30.44,Default,,0,0,0,,Run, Neo. Run.
+Dialogue: 0,1:54:35.73,1:54:37.60,Default,,0,0,0,,What is he doing?
+Dialogue: 0,1:54:37.61,1:54:38.86,Default,,0,0,0,,He's beginning to believe.
+Dialogue: 0,1:55:05.85,1:55:07.22,Default,,0,0,0,,You're empty.
+Dialogue: 0,1:55:07.81,1:55:09.09,Default,,0,0,0,,So are you.
+Dialogue: 0,1:55:42.26,1:55:45.26,Default,,0,0,0,,I'm going to enjoy watching you die...
+Dialogue: 0,1:55:46.39,1:55:47.42,Default,,0,0,0,,Mr. Anderson.
+Dialogue: 0,1:56:28.39,1:56:30.47,Default,,0,0,0,,Jesus, he's killing him.
+Dialogue: 0,1:57:56.65,1:57:58.77,Default,,0,0,0,,You hear that, Mr. Anderson?
+Dialogue: 0,1:57:59.52,1:58:02.52,Default,,0,0,0,,That is the sound of inevitability.
+Dialogue: 0,1:58:05.11,1:58:08.45,Default,,0,0,0,,It is the sound of your death.
+Dialogue: 0,1:58:09.37,1:58:11.69,Default,,0,0,0,,Goodbye, Mr. Anderson.
+Dialogue: 0,1:58:11.95,1:58:13.58,Default,,0,0,0,,My name...
+Dialogue: 0,1:58:16.58,1:58:18.62,Default,,0,0,0,,is Neo.
+Dialogue: 0,1:58:50.87,1:58:52.99,Default,,0,0,0,,What happened?\N- I don't know. I lost him.
+Dialogue: 0,1:58:53.14,1:58:55.15,Default,,0,0,0,,[ALARM BLARING]
+Dialogue: 0,1:58:55.58,1:58:56.93,Default,,0,0,0,,Holy shit.
+Dialogue: 0,1:59:09.01,1:59:10.47,Default,,0,0,0,,Sentinels.
+Dialogue: 0,1:59:11.22,1:59:13.46,Default,,0,0,0,,How long?\N- 5, maybe 6 minutes.
+Dialogue: 0,1:59:15.52,1:59:17.68,Default,,0,0,0,,Tank, charge the EMP.
+Dialogue: 0,1:59:17.94,1:59:21.30,Default,,0,0,0,,We can't use that until he's out.\N- I know, Trinity. Don't worry.
+Dialogue: 0,1:59:22.06,1:59:23.47,Default,,0,0,0,,He's gonna make it.
+Dialogue: 0,1:59:23.48,1:59:25.60,Default,,0,0,0,,Flat or pumps? No, just...
+Dialogue: 0,1:59:25.61,1:59:28.48,Default,,0,0,0,,What the shit? That's my phone!
+Dialogue: 0,1:59:28.91,1:59:30.48,Default,,0,0,0,,That guy took my phone!
+Dialogue: 0,1:59:33.14,1:59:35.02,Default,,0,0,0,,Got him! He's on the run.
+Dialogue: 0,1:59:35.35,1:59:36.57,Default,,0,0,0,,NEO: {\i1}Mr. Wizard...{\i0}
+Dialogue: 0,1:59:36.71,1:59:38.32,Default,,0,0,0,,get me the hell outta here!
+Dialogue: 0,1:59:38.33,1:59:39.40,Default,,0,0,0,,{\i1}I got a patch on an old exit.{\i0}
+Dialogue: 0,1:59:39.41,1:59:40.62,Default,,0,0,0,,Wabash and Lake.
+Dialogue: 0,1:59:44.25,1:59:45.91,Default,,0,0,0,,Oh, shit!
+Dialogue: 0,2:00:06.74,2:00:08.73,Default,,0,0,0,,Help! Need a little help!
+Dialogue: 0,2:00:10.36,2:00:11.56,Default,,0,0,0,,{\i1}The door.{\i0}
+Dialogue: 0,2:00:27.55,2:00:29.04,Default,,0,0,0,,{\i1}The door on your left.{\i0}
+Dialogue: 0,2:00:29.97,2:00:31.21,Default,,0,0,0,,{\i1}Your other left!{\i0}
+Dialogue: 0,2:00:37.93,2:00:39.18,Default,,0,0,0,,{\i1}The back door.{\i0}
+Dialogue: 0,2:00:59.96,2:01:01.07,Default,,0,0,0,,Oh, no.
+Dialogue: 0,2:01:02.75,2:01:04.24,Default,,0,0,0,,Here they come.
+Dialogue: 0,2:01:33.03,2:01:34.28,Default,,0,0,0,,He's going to make it.
+Dialogue: 0,2:01:44.50,2:01:47.62,Default,,0,0,0,,{\i1}The fire escape at the end of the alley, room 303.{\i0}
+Dialogue: 0,2:02:22.54,2:02:23.82,Default,,0,0,0,,They're inside.
+Dialogue: 0,2:02:26.08,2:02:27.20,Default,,0,0,0,,Hurry, Neo.
+Dialogue: 0,2:02:30.46,2:02:32.21,Default,,0,0,0,,[TELEPHONE RINGING]
+Dialogue: 0,2:02:35.54,2:02:37.29,Default,,0,0,0,,[RINGING]
+Dialogue: 0,2:02:39.41,2:02:41.42,Default,,0,0,0,,[MUFFLED GUNSHOT]
+Dialogue: 0,2:02:49.44,2:02:51.57,Default,,0,0,0,,[RINGING]
+Dialogue: 0,2:02:56.04,2:02:57.45,Default,,0,0,0,,[RINGING]
+Dialogue: 0,2:03:12.07,2:03:13.67,Default,,0,0,0,,[RINGING]
+Dialogue: 0,2:03:18.24,2:03:20.07,Default,,0,0,0,,[FLATLINE]
+Dialogue: 0,2:03:23.27,2:03:24.55,Default,,0,0,0,,It can't be.
+Dialogue: 0,2:03:32.36,2:03:33.73,Default,,0,0,0,,Check him.
+Dialogue: 0,2:03:37.74,2:03:39.28,Default,,0,0,0,,He's gone.
+Dialogue: 0,2:03:46.00,2:03:48.41,Default,,0,0,0,,Goodbye, Mr. Anderson.
+Dialogue: 0,2:03:56.33,2:03:57.29,Default,,0,0,0,,Neo...
+Dialogue: 0,2:03:58.51,2:04:00.47,Default,,0,0,0,,I'm not afraid anymore.
+Dialogue: 0,2:04:01.98,2:04:06.19,Default,,0,0,0,,The Oracle told me that I'd fall in love with that man.
+Dialogue: 0,2:04:07.21,2:04:09.48,Default,,0,0,0,,The man that I love would be the One.
+Dialogue: 0,2:04:12.15,2:04:14.11,Default,,0,0,0,,So you see...
+Dialogue: 0,2:04:14.82,2:04:16.81,Default,,0,0,0,,you can't be dead.
+Dialogue: 0,2:04:18.41,2:04:20.23,Default,,0,0,0,,You can't be...
+Dialogue: 0,2:04:21.79,2:04:23.94,Default,,0,0,0,,because I love you.
+Dialogue: 0,2:04:25.79,2:04:27.50,Default,,0,0,0,,You hear me?
+Dialogue: 0,2:04:28.63,2:04:30.29,Default,,0,0,0,,I love you.
+Dialogue: 0,2:04:54.23,2:04:55.31,Default,,0,0,0,,Now, get up.
+Dialogue: 0,2:05:04.08,2:05:05.16,Default,,0,0,0,,No.
+Dialogue: 0,2:05:31.65,2:05:32.93,Default,,0,0,0,,How?
+Dialogue: 0,2:05:33.82,2:05:34.85,Default,,0,0,0,,He is the One.
+Dialogue: 0,2:07:01.82,2:07:02.99,Default,,0,0,0,,Neo!
+Dialogue: 0,2:07:04.99,2:07:06.36,Default,,0,0,0,,[RINGING]
+Dialogue: 0,2:07:14.35,2:07:15.75,Default,,0,0,0,,Now!
+Dialogue: 0,2:07:53.16,2:07:54.55,Default,,0,0,0,,[TELEPHONE RINGING]
+Dialogue: 0,2:07:54.56,2:07:56.56,Default,,0,0,0,,[BEEPING]
+Dialogue: 0,2:07:57.20,2:07:58.61,Default,,0,0,0,,[RINGING]
+Dialogue: 0,2:07:59.34,2:08:01.29,Default,,0,0,0,,NEO: {\i1}I know you're out there.{\i0}
+Dialogue: 0,2:08:01.30,2:08:03.12,Default,,0,0,0,,{\i1}I can feel you now.{\i0}
+Dialogue: 0,2:08:03.55,2:08:05.58,Default,,0,0,0,,{\i1}I know that you're afraid.{\i0}
+Dialogue: 0,2:08:05.59,2:08:07.17,Default,,0,0,0,,{\i1}You're afraid of us.{\i0}
+Dialogue: 0,2:08:07.51,2:08:09.34,Default,,0,0,0,,{\i1}You're afraid of change.{\i0}
+Dialogue: 0,2:08:10.56,2:08:12.05,Default,,0,0,0,,{\i1}I don't know the future.{\i0}
+Dialogue: 0,2:08:12.31,2:08:14.88,Default,,0,0,0,,{\i1}I didn't come here to tell you how this is going to end.{\i0}
+Dialogue: 0,2:08:15.15,2:08:18.10,Default,,0,0,0,,{\i1}I came here to tell you how it's going to begin.{\i0}
+Dialogue: 0,2:08:19.07,2:08:20.64,Default,,0,0,0,,{\i1}I'm gonna hang up this phone.{\i0}
+Dialogue: 0,2:08:20.90,2:08:24.23,Default,,0,0,0,,{\i1}And then I'm gonna show these people what you don't want them to see.{\i0}
+Dialogue: 0,2:08:24.24,2:08:26.11,Default,,0,0,0,,{\i1}I'm going to show them a world...{\i0}
+Dialogue: 0,2:08:26.37,2:08:28.11,Default,,0,0,0,,{\i1}without you.{\i0}
+Dialogue: 0,2:08:28.41,2:08:32.03,Default,,0,0,0,,{\i1}A world without rules and controls, without borders or boundaries.{\i0}
+Dialogue: 0,2:08:32.29,2:08:35.99,Default,,0,0,0,,{\i1}A world where anything is possible.{\i0}
+Dialogue: 0,2:08:38.63,2:08:40.20,Default,,0,0,0,,{\i1}Where we go from there...{\i0}
+Dialogue: 0,2:08:40.21,2:08:42.17,Default,,0,0,0,,is a choice I leave to you.
+Dialogue: 0,2:08:46.33,2:08:51.33,Default,,0,0,0,,[ ♪ RAGE AGAINST THE MACHINE - "WAKE UP" ♪ ]
+Dialogue: 0,2:09:24.97,2:16:18.67,Default,,0,0,0,,{\c&H81b2c8&\fs433\fnThe Matrix I}#{\c}{\fn\fs\c&H0000ff&\fs433\fnThe Matrix I}${\c}{\fn\fs\c&H81b2c8&\fs433\fnThe Matrix I}%{\c}{\fn\fs\c&Hfd6d28&\fs433\fnThe Matrix I}&
+Dialogue: 0,2:09:24.97,2:09:26.17,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ COME ON! ♪
+Dialogue: 0,2:09:34.77,2:09:38.02,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ COME ON, ALTHOUGH YA TRY TO DISCREDIT ♪
+Dialogue: 0,2:09:38.03,2:09:39.46,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ YA STILL NEVER EDIT ♪
+Dialogue: 0,2:09:39.47,2:09:41.06,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ THE NEEDLE, I’LL THREAD IT ♪
+Dialogue: 0,2:09:41.07,2:09:42.31,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ RADICALLY POETIC ♪
+Dialogue: 0,2:09:42.32,2:09:45.53,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ STANDIN’ WITH THE FURY THAT THEY HAD IN ’66 ♪
+Dialogue: 0,2:09:45.54,2:09:46.95,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ AND LIKE E-DOUBLE I’M MAD ♪
+Dialogue: 0,2:09:46.96,2:09:49.25,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ STILL KNEE-DEEP IN THE SYSTEM’S SHIT ♪
+Dialogue: 0,2:09:49.26,2:09:51.40,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ HOOVER, HE WAS A BODY REMOVER ♪
+Dialogue: 0,2:09:51.41,2:09:52.65,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ I’LL GIVE YA A DOSE ♪
+Dialogue: 0,2:09:52.66,2:09:54.07,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ BUT IT’LL NEVER COME CLOSE ♪
+Dialogue: 0,2:09:54.08,2:09:56.94,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ TO THE RAGE BUILT UP INSIDE OF ME ♪
+Dialogue: 0,2:09:57.46,2:10:00.25,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ FIST IN THE AIR, IN THE LAND OF HYPOCRISY ♪
+Dialogue: 0,2:10:00.26,2:10:02.72,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ MOVEMENTS COME AND MOVEMENTS GO ♪
+Dialogue: 0,2:10:02.73,2:10:04.14,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ LEADERS SPEAK, MOVEMENTS CEASE ♪
+Dialogue: 0,2:10:04.15,2:10:05.57,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ WHEN THEIR HEADS ARE FLOWN ♪
+Dialogue: 0,2:10:06.03,2:10:06.95,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ‘CAUSE ALL THESE PUNKS ♪
+Dialogue: 0,2:10:06.96,2:10:08.50,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ GOT BULLETS IN THEIR HEADS ♪
+Dialogue: 0,2:10:08.51,2:10:11.55,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ DEPARTMENTS OF POLICE ♪\N♪ THE JUDGES, THE FEDS ♪
+Dialogue: 0,2:10:11.56,2:10:13.88,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ NETWORKS AT WORK, KEEPIN’ PEOPLE CALM ♪
+Dialogue: 0,2:10:13.89,2:10:15.46,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ YOU KNOW THEY WENT AFTER KING ♪
+Dialogue: 0,2:10:15.47,2:10:17.21,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ WHEN HE SPOKE OUT ON VIETNAM ♪
+Dialogue: 0,2:10:17.40,2:10:19.68,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ HE TURNED THE POWER TO THE HAVE-NOTS ♪
+Dialogue: 0,2:10:20.55,2:10:22.48,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ AND THEN CAME THE SHOT ♪
+Dialogue: 0,2:10:43.80,2:10:44.77,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ YEAH! ♪
+Dialogue: 0,2:10:48.60,2:10:59.60,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ WAKE UP! WAKE UP! WAKE UP! WAKE UP! ♪
+Dialogue: 0,2:11:00.10,2:11:03.33,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ WAKE UP! ♪
+Dialogue: 0,2:11:15.34,2:11:21.19,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ HOW LONG? NOT LONG ♪\N♪ CAUSE WHAT YOU REAP IS WHAT YOU SOW ♪
+Dialogue: 0,2:11:24.09,2:11:29.09,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}[ ♪ MARILYN MANSON - "ROCK IS DEAD" ♪ ]
+Dialogue: 0,2:11:38.38,2:11:41.93,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ALL SIMPLE MONKEYS WITH ALIEN BABIES ♪
+Dialogue: 0,2:11:41.94,2:11:45.52,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ AMPHETAMINES FOR BOYS ♪\N♪ CRUCIFIXES FOR LADIES ♪
+Dialogue: 0,2:11:45.53,2:11:48.88,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ SAMPLED AND SOULLESS ♪\N♪ WORLDWIDE AND REAL WEBBED ♪
+Dialogue: 0,2:11:48.89,2:11:52.44,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ YOU SELL ALL THE LIVING ♪\N♪ FOR MORE SAFER DEAD ♪
+Dialogue: 0,2:11:52.45,2:11:56.02,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ANYTHING TO BELONG ♪
+Dialogue: 0,2:11:56.74,2:11:59.71,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ANYTHING TO BELONG ♪
+Dialogue: 0,2:11:59.72,2:12:03.15,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ROCK IS DEADER THAN DEAD ♪
+Dialogue: 0,2:12:03.16,2:12:06.44,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ SHOCK IS ALL IN YOUR HEAD ♪
+Dialogue: 0,2:12:06.45,2:12:10.19,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ YOUR SEX AND YOUR DOPE ♪\N♪ IS ALL THAT WE'RE FED ♪
+Dialogue: 0,2:12:10.20,2:12:14.47,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ SO FUCK ALL YOUR PROTESTS ♪\N♪ AND PUT THEM TO BED ♪
+Dialogue: 0,2:12:17.46,2:12:21.08,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ GOD IS IN THE TV ♪
+Dialogue: 0,2:12:21.09,2:12:24.68,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ROCK! LA, LA, LA, LA, LA, LA ♪
+Dialogue: 0,2:12:24.69,2:12:28.09,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ROCK! LA, LA, LA, LA, LA ♪
+Dialogue: 0,2:12:28.10,2:12:31.80,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ROCK! LA, LA, LA, LA, LA, LA ♪
+Dialogue: 0,2:12:31.81,2:12:35.49,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ROCK! LA, LA, LA, LA, LA ♪
+Dialogue: 0,2:12:42.35,2:12:45.86,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ONE THOUSAND MOTHERS ARE PRAYING FOR IT ♪
+Dialogue: 0,2:12:45.87,2:12:49.41,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ WE'RE SO FULL OF HOPE AND SO FULL OF SHIT ♪
+Dialogue: 0,2:12:49.42,2:12:53.16,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ BUILD A NEW GOD TO MEDICATE AND TO APE ♪
+Dialogue: 0,2:12:53.17,2:12:57.92,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ SELL US ERSATZ DRESSED UP AND REAL FAKE ♪
+Dialogue: 0,2:12:57.93,2:13:00.09,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ANYTHING TO BELONG ♪
+Dialogue: 0,2:13:00.90,2:13:03.59,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ANYTHING TO BELONG ♪
+Dialogue: 0,2:13:03.82,2:13:07.24,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ROCK IS DEADER THAN DEAD ♪
+Dialogue: 0,2:13:07.25,2:13:10.69,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ SHOCK IS ALL IN YOUR HEAD ♪
+Dialogue: 0,2:13:10.70,2:13:14.09,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ YOUR SEX AND YOUR DOPE ♪\N♪ IS ALL THAT WE'RE FED ♪
+Dialogue: 0,2:13:14.10,2:13:18.62,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ SO FUCK ALL YOUR PROTESTS ♪\N♪ AND PUT THEM TO BED ♪
+Dialogue: 0,2:13:21.57,2:13:25.07,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ GOD IS IN THE TV ♪
+Dialogue: 0,2:13:25.08,2:13:28.76,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ROCK! LA, LA, LA, LA, LA, LA ♪
+Dialogue: 0,2:13:28.77,2:13:31.93,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ROCK! LA, LA, LA, LA, LA ♪
+Dialogue: 0,2:13:32.26,2:13:35.75,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ROCK! LA, LA, LA, LA, LA, LA ♪
+Dialogue: 0,2:13:35.76,2:13:39.30,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ROCK! LA, LA, LA, LA, LA ♪
+Dialogue: 0,2:13:40.38,2:13:43.05,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ LA, LA, LA, LA, LA ♪
+Dialogue: 0,2:13:43.92,2:13:47.00,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ LA, LA, LA, LA, LA, LA ♪
+Dialogue: 0,2:13:47.51,2:13:50.63,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ LA, LA, LA, LA, LA ♪
+Dialogue: 0,2:13:51.05,2:13:53.88,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ LA, LA, LA, LA, LA, LA ♪
+Dialogue: 0,2:14:00.82,2:14:04.28,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ROCK IS DEADER THAN DEAD ♪
+Dialogue: 0,2:14:04.29,2:14:07.82,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ SHOCK IS ALL IN YOUR HEAD ♪
+Dialogue: 0,2:14:07.83,2:14:11.27,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ YOUR SEX AND YOUR DOPE ♪\N♪ IS ALL THAT WE'RE FED ♪
+Dialogue: 0,2:14:11.28,2:14:14.92,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ SO FUCK ALL YOUR PROTESTS ♪\N♪ AND PUT THEM TO BED ♪
+Dialogue: 0,2:14:14.93,2:14:18.62,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ ROCK (ROCK) IS DEADER THAN DEAD ♪
+Dialogue: 0,2:14:18.63,2:14:21.97,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ SHOCK (SHOCK) IS ALL IN YOUR HEAD ♪
+Dialogue: 0,2:14:21.98,2:14:25.55,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ YOUR SEX AND YOUR DOPE ♪\N♪ IS ALL THAT WE'RE FED ♪
+Dialogue: 0,2:14:25.56,2:14:29.55,Default,,0,0,0,,{\an8\fs44\fnThe Matrix I}♪ SO FUCK ALL YOUR PROTESTS ♪\N♪ AND PUT THEM TO BED ♪

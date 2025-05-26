@@ -1,0 +1,7296 @@
+﻿1
+00:00:17,852 --> 00:00:19,437
+I'm John Dykstra.
+
+2
+00:00:19,645 --> 00:00:23,524
+Here today with me are Scott Stokdyk
+and Anthony LaMolinara.
+
+3
+00:00:23,691 --> 00:00:25,776
+Anthony was director of animation.
+
+4
+00:00:25,943 --> 00:00:30,198
+Scott's the visual effects supervisor
+for SPI. Imageworks.
+
+5
+00:00:30,448 --> 00:00:34,577
+And I am the visual effects designer.
+
+6
+00:00:37,788 --> 00:00:41,334
+This title sequence was done
+by Imaginary Forces.
+
+7
+00:00:50,384 --> 00:00:55,264
+The important part of the relationship
+between the people in visual effects...
+
+8
+00:00:55,431 --> 00:01:00,436
+...and the people who were doing the
+title sequence was obviously the web.
+
+9
+00:01:00,686 --> 00:01:06,067
+We worked with them to come up with
+a web that gave the impression...
+
+10
+00:01:06,317 --> 00:01:10,363
+...of the web that's in the movie,
+but keep the stylized quality...
+
+11
+00:01:10,529 --> 00:01:15,409
+...that our director wanted to have
+for the title sequence.
+
+12
+00:01:45,189 --> 00:01:48,734
+Some of the volumes
+that you see here...
+
+13
+00:01:48,901 --> 00:01:52,697
+...the Spider-Man character, the hand,
+the Goblin's face...
+
+14
+00:01:52,947 --> 00:01:58,536
+...was interpreted from the geometry
+that we used for our virtual character.
+
+15
+00:01:58,786 --> 00:02:02,206
+They simplified it and put it
+into the sequence.
+
+16
+00:02:02,373 --> 00:02:05,793
+They were trying for
+something that wasn't real.
+
+17
+00:02:06,002 --> 00:02:10,631
+They wanted a stylized version
+of the web and the characters.
+
+18
+00:02:10,798 --> 00:02:11,924
+They succeeded.
+
+19
+00:02:12,091 --> 00:02:16,053
+- So we shared. There you are.
+- Yeah, there I am. That's me.
+
+20
+00:02:16,220 --> 00:02:19,473
+- "Visual effects designed by."
+- Yeah.
+
+21
+00:02:21,642 --> 00:02:25,396
+We shared a couple models,
+passed some models over.
+
+22
+00:02:34,864 --> 00:02:37,825
+I hope we get to do the next one.
+
+23
+00:02:39,243 --> 00:02:42,830
+- The next set of titles.
+- The next opening sequence.
+
+24
+00:02:49,045 --> 00:02:53,674
+It's interesting, because
+it's this sort of period graphic...
+
+25
+00:02:53,841 --> 00:03:00,097
+...that goes on the front of a movie
+that is fairly starkly real.
+
+26
+00:03:07,313 --> 00:03:12,902
+If we did these as photo-realistic
+webs for this whole sequence...
+
+27
+00:03:13,069 --> 00:03:16,280
+...it would have taken months.
+
+28
+00:03:18,199 --> 00:03:23,788
+This is the transition from
+our stylized web into the real web.
+
+29
+00:03:23,996 --> 00:03:26,499
+The opening scene of the film.
+
+30
+00:03:26,749 --> 00:03:30,169
+The background for this
+was shot in New York...
+
+31
+00:03:30,378 --> 00:03:35,174
+...and they overlaid the synthetic web
+from the title sequence...
+
+32
+00:03:35,341 --> 00:03:39,637
+...across the cross-dissolve
+to create the opening sequence.
+
+33
+00:03:40,638 --> 00:03:42,848
+Originally, wasn't it...
+
+34
+00:03:43,015 --> 00:03:48,396
+...a cross-dissolve behind her head,
+where the bus materialized?
+
+35
+00:03:48,646 --> 00:03:54,110
+There were a couple of different ideas
+of introducing the opening sequence...
+
+36
+00:03:54,276 --> 00:03:57,988
+...introducing Mary Jane,
+whom the story is about...
+
+37
+00:03:58,155 --> 00:04:01,867
+...as is said in the monologue.
+
+38
+00:04:02,118 --> 00:04:03,702
+But this was the...
+
+39
+00:04:04,370 --> 00:04:08,791
+This was chosen as the best means
+to make that transition...
+
+40
+00:04:09,041 --> 00:04:14,964
+...because it didn't leave us looking
+at her for a huge amount of time.
+
+41
+00:04:15,131 --> 00:04:19,343
+- Don't even think about it.
+- You're so lame, Parker.
+
+42
+00:04:25,558 --> 00:04:29,270
+That's a good look for Tobey
+with those glasses.
+
+43
+00:04:32,064 --> 00:04:34,483
+And like that.
+
+44
+00:04:37,445 --> 00:04:39,613
+We shot all of this stuff...
+
+45
+00:04:39,780 --> 00:04:44,535
+Throughout the film, we used
+live-action locations in New York.
+
+46
+00:04:46,036 --> 00:04:52,001
+In some cases we shot in Los Angeles
+to be substituted for New York.
+
+47
+00:04:52,668 --> 00:04:57,423
+And sometimes we created components
+completely synthetically...
+
+48
+00:04:57,631 --> 00:05:01,844
+...that are added into both locations
+in Los Angeles and New York...
+
+49
+00:05:02,094 --> 00:05:05,764
+...to create our version
+of New York City.
+
+50
+00:05:11,687 --> 00:05:15,524
+- Can we drive around the corner?
+- Why?
+
+51
+00:05:15,733 --> 00:05:17,526
+The entrance is right there.
+
+52
+00:05:17,693 --> 00:05:21,405
+Dad, this is public school.
+I can't show up in a Rolls.
+
+53
+00:05:21,614 --> 00:05:23,949
+I should trade my car for a Jetta...
+
+54
+00:05:24,200 --> 00:05:27,661
+Lot of setup here. Lot of exposition.
+
+55
+00:05:28,370 --> 00:05:31,790
+One of the things
+that we're gonna talk about...
+
+56
+00:05:32,333 --> 00:05:37,254
+Working with Sam was terrific.
+He's a very collaborative director.
+
+57
+00:05:37,421 --> 00:05:40,382
+Using his version of the script...
+
+58
+00:05:41,050 --> 00:05:45,387
+...the script that he approved
+and interpreted to us...
+
+59
+00:05:45,596 --> 00:05:50,726
+...we started creating the preliminary
+visual effects for this movie.
+
+60
+00:05:51,185 --> 00:05:57,399
+Sam not only welcomed...
+
+61
+00:05:57,566 --> 00:06:00,486
+...contributions from people
+on the crew...
+
+62
+00:06:00,653 --> 00:06:02,071
+...he encouraged it.
+
+63
+00:06:02,488 --> 00:06:06,992
+He was the arbiter of all the stuff
+used in the film, as the director...
+
+64
+00:06:07,243 --> 00:06:13,624
+...but everybody got the feeling that
+they had a vested interest in this...
+
+65
+00:06:13,874 --> 00:06:17,920
+...in some very small part
+as a filmmaker...
+
+66
+00:06:18,087 --> 00:06:22,258
+...as well as whatever
+their particular job was.
+
+67
+00:06:22,424 --> 00:06:25,844
+I think that comes through
+in the sense of this movie.
+
+68
+00:06:26,095 --> 00:06:29,348
+I think it trickled on down
+through the whole crew.
+
+69
+00:06:29,557 --> 00:06:34,478
+Our CG supervisors, Ken Hahn,
+Peter Nofz and Dan Eaton...
+
+70
+00:06:34,728 --> 00:06:40,442
+...they at different points had input
+into the process, which was nice.
+
+71
+00:06:43,279 --> 00:06:45,239
+It's unreal.
+
+72
+00:06:45,406 --> 00:06:49,201
+Getting close to our first
+effects shot. Any minute now.
+
+73
+00:06:49,410 --> 00:06:50,869
+The atomic spider.
+
+74
+00:06:51,287 --> 00:06:54,915
+One of the things about this story
+is it's a period piece.
+
+75
+00:06:55,124 --> 00:06:59,837
+In the original origin, the character's
+bitten by an irradiated spider.
+
+76
+00:07:00,045 --> 00:07:03,465
+We now know, if you get bitten
+by an irradiated spider...
+
+77
+00:07:03,674 --> 00:07:07,094
+...you'll probably get
+radiation poisoning.
+
+78
+00:07:07,261 --> 00:07:12,266
+But in those days it imbued the
+character with superhuman capabilities.
+
+79
+00:07:12,516 --> 00:07:18,856
+Rather than use a sort of old saw
+for this superhero transition...
+
+80
+00:07:19,064 --> 00:07:22,443
+...Sam brought the story
+into a contemporary vein...
+
+81
+00:07:22,693 --> 00:07:28,490
+...by using the DNA basis.
+
+82
+00:07:28,699 --> 00:07:33,120
+Genetics, this genome-splicing
+capability...
+
+83
+00:07:33,287 --> 00:07:38,334
+...as the component to cause
+the transition from our normal kid...
+
+84
+00:07:38,584 --> 00:07:42,546
+...to the superhero character,
+Spider-Man.
+
+85
+00:07:42,755 --> 00:07:48,469
+That contemporary science brings
+the film into a contemporary sense.
+
+86
+00:07:50,137 --> 00:07:53,849
+When she describes the characteristics
+of all these spiders...
+
+87
+00:07:54,016 --> 00:07:57,811
+...we think about what Spider-Man
+will do with those powers.
+
+88
+00:07:58,062 --> 00:08:02,608
+It'll be a spider
+trapped in a man's body...
+
+89
+00:08:03,734 --> 00:08:06,737
+...dying to get out.
+
+90
+00:08:06,945 --> 00:08:10,658
+Over five painstaking years,
+Columbia's research facility...
+
+91
+00:08:10,866 --> 00:08:14,662
+- You gonna talk to her now?
+- Oh, no. Come on.
+
+92
+00:08:14,828 --> 00:08:17,414
+That's part of how
+Spider-Man moves.
+
+93
+00:08:17,665 --> 00:08:21,669
+His molecular structure
+has been changed after this bite...
+
+94
+00:08:21,919 --> 00:08:27,466
+...so that he no longer moves according
+to the physical rules we know...
+
+95
+00:08:27,716 --> 00:08:32,721
+...with human bodies, but something
+combined between human and spider.
+
+96
+00:08:34,139 --> 00:08:38,143
+- Like a Spider-Man?
+- Just like that.
+
+97
+00:08:38,310 --> 00:08:42,690
+One of the things I point out
+in the live-action material:
+
+98
+00:08:42,940 --> 00:08:45,567
+The personality of these characters...
+
+99
+00:08:45,734 --> 00:08:50,197
+...both Tobey and Willem...
+
+100
+00:08:50,364 --> 00:08:54,702
+...they are the basis...
+
+101
+00:08:54,910 --> 00:08:58,997
+...for our hero and our villain.
+
+102
+00:08:59,164 --> 00:09:02,876
+Their postures, positions
+and body language...
+
+103
+00:09:03,085 --> 00:09:06,755
+...are an important part
+of defining them as a character.
+
+104
+00:09:06,922 --> 00:09:11,218
+Keeping an eye on that, trying to
+integrate that into the characters...
+
+105
+00:09:11,468 --> 00:09:14,847
+...once they are masked
+and dressed in costume...
+
+106
+00:09:15,097 --> 00:09:19,560
+...was a very important part of
+making the character seem...
+
+107
+00:09:19,727 --> 00:09:23,522
+...like he was an extension
+of the actor...
+
+108
+00:09:23,689 --> 00:09:26,817
+...as we have seen him
+without the costume.
+
+109
+00:09:31,488 --> 00:09:34,491
+Here's Tobey getting ready
+to take his photo.
+
+110
+00:09:34,742 --> 00:09:38,746
+You did a lot of photography
+a long time ago, didn't you, John?
+
+111
+00:09:38,912 --> 00:09:41,039
+Oh, yeah. That was me, actually.
+
+112
+00:09:41,290 --> 00:09:45,419
+I got bitten by a spider.
+It bit me in my visual-effects lobe.
+
+113
+00:09:45,586 --> 00:09:48,630
+Trying to get the girls
+by taking their picture.
+
+114
+00:09:48,881 --> 00:09:53,469
+I did fashion photography when
+I was in college. It was terrific.
+
+115
+00:09:54,303 --> 00:09:57,723
+You do a headsheet.
+
+116
+00:09:57,931 --> 00:10:01,518
+- There's our first effects shot.
+- There you go.
+
+117
+00:10:01,727 --> 00:10:05,230
+- The beautiful crawling spider.
+- That pesky spider.
+
+118
+00:10:06,315 --> 00:10:11,069
+A close-up is coming up,
+which was a lot harder on many levels.
+
+119
+00:10:11,278 --> 00:10:13,781
+That was a real spider, and...
+
+120
+00:10:15,741 --> 00:10:16,784
+Stand by.
+
+121
+00:10:17,034 --> 00:10:20,662
+This guy let the spider crawl
+on his hand. It isn't Tobey.
+
+122
+00:10:20,871 --> 00:10:23,373
+The guy who did the spider shot quit.
+
+123
+00:10:23,582 --> 00:10:26,835
+This bite is so short.
+It was a much longer shot...
+
+124
+00:10:27,044 --> 00:10:30,672
+...and we just see a little snippet
+of the actual bite.
+
+125
+00:10:31,340 --> 00:10:36,220
+It actually sits on his hand
+and grinds into his fangs for a while.
+
+126
+00:10:38,305 --> 00:10:41,058
+Parker, let's do it.
+
+127
+00:10:41,391 --> 00:10:47,981
+To get that close-up of that hand
+that the close-up spider was on...
+
+128
+00:10:48,190 --> 00:10:53,320
+- John, you want to talk about that?
+- Yes, I'd be pleased to.
+
+129
+00:10:53,487 --> 00:10:54,947
+First matte painting.
+
+130
+00:10:55,197 --> 00:11:00,828
+The close-up of the hand was done
+with a very special piece of optics...
+
+131
+00:11:00,994 --> 00:11:03,914
+...designed for photo-microscopy...
+
+132
+00:11:04,122 --> 00:11:07,042
+...which is microscopic photography.
+
+133
+00:11:07,292 --> 00:11:11,046
+We used special strobe lights
+to illuminate the hand...
+
+134
+00:11:11,296 --> 00:11:16,844
+...to give us enough brightness to make
+the entire hand be in relative focus.
+
+135
+00:11:17,094 --> 00:11:22,182
+It was recorded at high speed to out
+down on the quivering of the hand...
+
+136
+00:11:22,391 --> 00:11:24,893
+...so we could put
+our CG spider on there.
+
+137
+00:11:25,143 --> 00:11:27,688
+I talked over the guy
+landing the glider.
+
+138
+00:11:27,855 --> 00:11:30,941
+We were just looking
+at our first effects.
+
+139
+00:11:31,149 --> 00:11:34,736
+There's a practical glider,
+but we added effects.
+
+140
+00:11:34,945 --> 00:11:38,866
+We added heat distortion,
+thrusters coming out the bottom...
+
+141
+00:11:40,951 --> 00:11:42,870
+And heat distortion.
+
+142
+00:11:43,120 --> 00:11:45,539
+One thing that's interesting:
+
+143
+00:11:45,747 --> 00:11:49,376
+Sam's concept for this movie
+was for it to be real.
+
+144
+00:11:49,585 --> 00:11:52,963
+It's not Metropolis. It's not Gotham.
+It's New York...
+
+145
+00:11:53,213 --> 00:11:57,759
+...right down to the pigeon droppings
+and the rust underneath the pipes.
+
+146
+00:11:58,010 --> 00:12:04,600
+Throughout the film,
+he'd ask us to pursue...
+
+147
+00:12:04,766 --> 00:12:10,272
+...a very "real" effect
+in all of these environments.
+
+148
+00:12:10,439 --> 00:12:13,692
+The toughest thing to do
+when we made virtual versions...
+
+149
+00:12:13,901 --> 00:12:19,114
+...of the characters and the objects
+was putting in high-frequency noise.
+
+150
+00:12:19,323 --> 00:12:24,119
+By that, I mean the dirt and debris...
+
+151
+00:12:24,745 --> 00:12:26,872
+...that populates our real life.
+
+152
+00:12:27,080 --> 00:12:30,459
+Dust bunnies under the bed,
+stains on the wall...
+
+153
+00:12:30,709 --> 00:12:33,337
+...the pigeon droppings
+on the windowsill.
+
+154
+00:12:33,503 --> 00:12:38,216
+That's tough for a computer to do
+because it's random, a chaotic event.
+
+155
+00:12:38,467 --> 00:12:43,805
+So although we were successful...
+
+156
+00:12:44,056 --> 00:12:46,433
+Scott can talk about
+the procedures...
+
+157
+00:12:46,683 --> 00:12:52,272
+...but we had our artists go back in
+and add dirt to many sequences...
+
+158
+00:12:52,481 --> 00:12:59,154
+...to give you the visual cues that
+this is real, not computer-generated.
+
+159
+00:13:00,238 --> 00:13:05,827
+A lot of texture work on this movie.
+Many thousand textures.
+
+160
+00:13:06,036 --> 00:13:09,498
+We figured out there were
+62,000 textures painted.
+
+161
+00:13:09,748 --> 00:13:13,460
+A texture is a...?
+
+162
+00:13:13,835 --> 00:13:18,882
+It's basically just a color map
+that's mapped onto objects...
+
+163
+00:13:19,132 --> 00:13:22,636
+...and represents its texture,
+if you will.
+
+164
+00:13:22,803 --> 00:13:25,806
+It represents its look...
+
+165
+00:13:26,223 --> 00:13:29,309
+Like taking the textures
+from Tobey's face...
+
+166
+00:13:29,476 --> 00:13:33,647
+...and laying them on
+the model of Tobey's face...
+
+167
+00:13:33,814 --> 00:13:38,193
+...to achieve the look and try
+to make it look realistic.
+
+168
+00:13:38,360 --> 00:13:43,865
+- The texture is basically a photograph.
+- Starts out as a photograph.
+
+169
+00:13:44,199 --> 00:13:47,786
+A photograph of the surface
+you want to reproduce...
+
+170
+00:13:47,953 --> 00:13:51,373
+...in the computer environment.
+
+171
+00:13:51,581 --> 00:13:53,333
+The artists add to it...
+
+172
+00:13:53,500 --> 00:13:57,129
+...and then that photograph
+could be shrink-wrapped...
+
+173
+00:13:57,295 --> 00:14:01,717
+...or vacuum-formed onto the shape,
+which we call the geometry...
+
+174
+00:14:01,883 --> 00:14:05,387
+...of the person or the object
+that we're creating.
+
+175
+00:14:05,637 --> 00:14:08,849
+Since the photograph contains
+all of that detail...
+
+176
+00:14:09,099 --> 00:14:11,643
+...you get that in your
+representation.
+
+177
+00:14:11,810 --> 00:14:15,147
+This is not Tobey Maguire's body.
+
+178
+00:14:17,107 --> 00:14:18,775
+But he'd love to have it.
+
+179
+00:14:18,942 --> 00:14:22,195
+It was Tobey's head
+mapped onto that body.
+
+180
+00:14:22,362 --> 00:14:27,367
+It was a big tracking job.
+And color-correction job too.
+
+181
+00:14:28,285 --> 00:14:30,495
+<i>In this recombination lab...</i>
+
+182
+00:14:34,916 --> 00:14:39,546
+We did some digital color-timing
+on many of these sequences.
+
+183
+00:14:39,713 --> 00:14:45,886
+When you take original photography
+and bring it into the computer...
+
+184
+00:14:46,344 --> 00:14:49,556
+...you have to make adjustments
+to the color...
+
+185
+00:14:49,723 --> 00:14:53,643
+...to make sure when you take it
+out of the computer...
+
+186
+00:14:53,894 --> 00:14:57,189
+...it will look like
+the original photography.
+
+187
+00:14:57,355 --> 00:15:01,985
+This is a nice matte painting.
+The OSCORP image.
+
+188
+00:15:02,194 --> 00:15:04,905
+Done by Ivo,
+one of our matte painters.
+
+189
+00:15:05,155 --> 00:15:11,703
+The image from the computer
+needs to cut back into the movie...
+
+190
+00:15:11,953 --> 00:15:14,081
+...adjacent to original negatives.
+
+191
+00:15:14,331 --> 00:15:20,545
+Rather than make it significantly
+different from the original photography...
+
+192
+00:15:20,712 --> 00:15:24,591
+...we try and make it match
+the original photography...
+
+193
+00:15:24,758 --> 00:15:28,970
+...so when they do color correction,
+everything falls into place.
+
+194
+00:15:29,137 --> 00:15:35,477
+But in many sequences, especially
+with cross-dissolves and fades...
+
+195
+00:15:35,727 --> 00:15:39,564
+...you have scene-to-scene
+color timing that's critical.
+
+196
+00:15:39,815 --> 00:15:43,527
+So we did an awful lot
+of digital color adjustment...
+
+197
+00:15:43,777 --> 00:15:48,115
+...throughout those montage sequences.
+
+198
+00:15:48,323 --> 00:15:52,452
+I was wrong before. Ivo,
+the head of our matte department...
+
+199
+00:15:52,661 --> 00:15:56,081
+...painted the daytime
+OSCORP lab exterior...
+
+200
+00:15:56,248 --> 00:15:59,334
+...and Dave Bleisch
+painted the nighttime version.
+
+201
+00:16:01,419 --> 00:16:08,260
+Norman Osborn is put into this thing,
+this dramatic moment...
+
+202
+00:16:08,426 --> 00:16:11,930
+...and he goes, "It's cold!"
+when he straps him in.
+
+203
+00:16:12,097 --> 00:16:15,517
+I think that's pretty interesting.
+
+204
+00:16:16,101 --> 00:16:20,021
+We're coming up to the green gas
+modification shots.
+
+205
+00:16:20,188 --> 00:16:25,902
+They didn't want to shoot with
+toxic green gas, for some reason.
+
+206
+00:16:26,111 --> 00:16:27,612
+I don't understand it.
+
+207
+00:16:27,779 --> 00:16:32,492
+So our friends at Digiscope
+did a handful of shots...
+
+208
+00:16:32,659 --> 00:16:36,872
+...maybe 10 to 15 color-correction
+shots on the gas.
+
+209
+00:16:49,050 --> 00:16:53,138
+Started out as white smoke
+and got turned into green.
+
+210
+00:16:57,851 --> 00:16:59,102
+Norman?
+
+211
+00:17:00,020 --> 00:17:03,690
+One of the things Anthony
+talked about earlier was...
+
+212
+00:17:03,857 --> 00:17:08,570
+...characters going from being
+human to superhuman.
+
+213
+00:17:08,778 --> 00:17:12,532
+One of the things that people
+talked about...
+
+214
+00:17:12,699 --> 00:17:17,579
+...was whether or not we used
+motion capture for our characters.
+
+215
+00:17:18,288 --> 00:17:21,750
+Although I have an opinion,
+Anthony's might differ.
+
+216
+00:17:21,917 --> 00:17:25,420
+I think motion capture's
+an interesting technique...
+
+217
+00:17:25,629 --> 00:17:31,301
+...to get the detail that defines
+a person's body language.
+
+218
+00:17:31,551 --> 00:17:36,848
+Motion capture is essentially a series
+of measurement points attached...
+
+219
+00:17:37,057 --> 00:17:38,808
+...to a person's body.
+
+220
+00:17:39,017 --> 00:17:42,354
+You have that person
+go through a series of moves...
+
+221
+00:17:42,562 --> 00:17:45,148
+...and then you record those points.
+
+222
+00:17:45,357 --> 00:17:50,695
+It allows you to then animate a
+synthetic version of that character.
+
+223
+00:17:50,904 --> 00:17:56,910
+When we did our motion capture,
+we got great high-frequency detail...
+
+224
+00:17:57,077 --> 00:18:00,330
+...in terms of defining
+a character's personality.
+
+225
+00:18:00,580 --> 00:18:05,543
+But if you have a character
+jump off a three-foot-high box...
+
+226
+00:18:05,794 --> 00:18:08,672
+...that high-frequency detail
+gives away...
+
+227
+00:18:08,838 --> 00:18:11,841
+...that all he did was jump off a box.
+
+228
+00:18:12,092 --> 00:18:18,473
+So the animators have to expand
+the personality of this leap...
+
+229
+00:18:18,640 --> 00:18:21,768
+...into something for a 100-foot fall.
+
+230
+00:18:21,935 --> 00:18:28,525
+Although the motion capture for
+high-frequency detail was very good...
+
+231
+00:18:28,733 --> 00:18:30,860
+...that same detail was a giveaway...
+
+232
+00:18:31,069 --> 00:18:35,198
+...when we made him
+do superhuman things.
+
+233
+00:18:35,365 --> 00:18:39,286
+That's Tobey's real body, by the way.
+
+234
+00:18:39,536 --> 00:18:41,162
+Superhuman.
+
+235
+00:18:41,329 --> 00:18:47,002
+As a result, the principal characters,
+Goblin and Spider-Man...
+
+236
+00:18:47,252 --> 00:18:50,005
+...were key-frame animated...
+
+237
+00:18:50,171 --> 00:18:52,757
+To use the high-frequency detail...
+
+238
+00:18:52,924 --> 00:18:55,176
+...we had to do so much adjustment...
+
+239
+00:18:55,343 --> 00:19:01,182
+...it would take longer to do it that
+way than to animate it from the top.
+
+240
+00:19:05,020 --> 00:19:08,398
+Another thing about motion capture...
+
+241
+00:19:08,565 --> 00:19:12,319
+...as the technology exists right now,
+it is cumbersome.
+
+242
+00:19:12,485 --> 00:19:16,156
+You have to dress up in a Lycra suit...
+
+243
+00:19:16,323 --> 00:19:19,909
+...and have these big, reflective balls
+stuck all over you.
+
+244
+00:19:20,118 --> 00:19:23,580
+You can't go outside a 30-by-30 area.
+
+245
+00:19:23,872 --> 00:19:27,834
+There's a lot of new technology
+that's being developed.
+
+246
+00:19:28,043 --> 00:19:31,921
+Hopefully, it'll be
+a little less restrictive...
+
+247
+00:19:32,088 --> 00:19:35,383
+...in how you capture the data,
+and the setup for it.
+
+248
+00:19:35,633 --> 00:19:40,513
+Not that it'll necessarily influence
+our choice of doing motion capture.
+
+249
+00:19:40,764 --> 00:19:45,810
+I always tell people how pissed off
+the gorilla got in Hollow Man...
+
+250
+00:19:46,061 --> 00:19:50,982
+- ...when we stuck those balls on him.
+- And shaved him. Or her.
+
+251
+00:19:51,149 --> 00:19:55,320
+We missed it. There were two
+beautiful wire removals there.
+
+252
+00:19:55,487 --> 00:19:59,366
+Him flying out, the doctor flying out,
+and Willem flying out.
+
+253
+00:19:59,532 --> 00:20:01,743
+As far as motion capture goes...
+
+254
+00:20:01,910 --> 00:20:06,915
+...even if, say, a guy from
+Cirque du Soleil...
+
+255
+00:20:07,123 --> 00:20:10,001
+...could swing down
+between the buildings...
+
+256
+00:20:10,210 --> 00:20:14,714
+...the technology's not there
+to capture that in that distance.
+
+257
+00:20:14,964 --> 00:20:19,761
+Yeah, it's too big. When you compress
+that action into a small space...
+
+258
+00:20:19,928 --> 00:20:22,639
+...it looks compressed
+into a small space.
+
+259
+00:20:22,806 --> 00:20:27,352
+So the accuracy of the capture
+is also a curse.
+
+260
+00:20:27,560 --> 00:20:32,524
+If you don't use a real actor you can tell
+just because of the way he moves.
+
+261
+00:20:33,775 --> 00:20:36,194
+Anything Spider-Man would do...
+
+262
+00:20:36,361 --> 00:20:39,864
+...shooting a web one way,
+then changing directions...
+
+263
+00:20:40,031 --> 00:20:41,825
+The G-force on his body...
+
+264
+00:20:42,075 --> 00:20:47,038
+...if it didn't rip his arm out,
+would rip his whole body in half.
+
+265
+00:20:47,247 --> 00:20:50,333
+It's impossible for a person to do...
+
+266
+00:20:50,500 --> 00:20:55,255
+...and therefore impossible
+for a real person to fake.
+
+267
+00:20:56,256 --> 00:20:59,717
+Tobey looking at his hands
+is a precursor...
+
+268
+00:20:59,884 --> 00:21:03,179
+...to the close-up of his hands
+that comes up.
+
+269
+00:21:04,848 --> 00:21:06,724
+Dad, are you all right?
+
+270
+00:21:07,767 --> 00:21:11,813
+- Dad's been out for a fun night.
+- Exactly.
+
+271
+00:21:12,021 --> 00:21:16,401
+A couple of other things,
+just definitions.
+
+272
+00:21:16,568 --> 00:21:23,074
+One, we decided that the Spider-Man
+character wanted to be...
+
+273
+00:21:23,241 --> 00:21:26,828
+...a mechanism by which
+the audience experiences...
+
+274
+00:21:26,995 --> 00:21:30,540
+...what it's like to swing
+between buildings.
+
+275
+00:21:30,748 --> 00:21:34,961
+At the end of the film,
+Sam wanted the audience...
+
+276
+00:21:35,170 --> 00:21:37,589
+...to feel they had been Spider-Man.
+
+277
+00:21:38,006 --> 00:21:43,553
+The animators worked with a camera
+as well as the character...
+
+278
+00:21:43,720 --> 00:21:48,016
+...much like a skydiving team works.
+
+279
+00:21:48,224 --> 00:21:52,145
+The guy doing the performance
+is photographed...
+
+280
+00:21:52,312 --> 00:21:55,607
+...by his partner,
+the skydiving photographer.
+
+281
+00:21:55,773 --> 00:21:58,651
+We're gonna see some webs
+in a minute.
+
+282
+00:21:59,235 --> 00:22:02,572
+Lot of web shots.
+One of our guys...
+
+283
+00:22:02,822 --> 00:22:07,160
+This is a mechanical rig,
+where he catches all this stuff.
+
+284
+00:22:07,410 --> 00:22:09,245
+Yeah. He actually did that.
+
+285
+00:22:11,206 --> 00:22:16,711
+Pretty good. Take 156.
+
+286
+00:22:18,213 --> 00:22:19,923
+At any rate...
+
+287
+00:22:20,507 --> 00:22:24,511
+...we decided that Spider-Man,
+when he swung through the city...
+
+288
+00:22:24,719 --> 00:22:27,305
+...would have his own
+cameraman with him.
+
+289
+00:22:27,722 --> 00:22:30,975
+The cameraman had the same
+abilities as Spider-Man...
+
+290
+00:22:31,184 --> 00:22:33,436
+...and was able to operate the camera.
+
+291
+00:22:33,728 --> 00:22:39,526
+The cameraman gets better over the
+course of the film as does Spider-Man.
+
+292
+00:22:39,817 --> 00:22:43,071
+He gets more adept
+at doing the photography.
+
+293
+00:22:43,279 --> 00:22:47,075
+That's another way we added
+this sense of reality to things.
+
+294
+00:22:47,325 --> 00:22:51,496
+This is a practical...
+The first one's a practical web.
+
+295
+00:22:53,581 --> 00:22:56,209
+That's a real one, and then this...
+
+296
+00:22:56,417 --> 00:22:58,169
+That last one's a CG.
+
+297
+00:22:59,128 --> 00:23:03,800
+The first one was our effects shot.
+That's practical, and then...
+
+298
+00:23:04,008 --> 00:23:06,636
+I can't even tell anymore.
+
+299
+00:23:06,803 --> 00:23:09,722
+Our guy, Theo,
+set up this great web system...
+
+300
+00:23:10,515 --> 00:23:14,769
+...including the dynamics and shading,
+just to be multipurposed.
+
+301
+00:23:14,978 --> 00:23:20,650
+To work for small webs, and to work
+for the large-scale webs he swings on.
+
+302
+00:23:20,858 --> 00:23:25,822
+This fight scene coming up,
+as well as Wirework that's in this...
+
+303
+00:23:25,989 --> 00:23:29,367
+There is a wire attached,
+lifting him up in the air...
+
+304
+00:23:29,534 --> 00:23:34,914
+...or supporting him so he can
+lean back and not lose his balance.
+
+305
+00:23:35,123 --> 00:23:39,961
+A lot of these shots were speeded up
+in certain sections of this shot...
+
+306
+00:23:40,128 --> 00:23:42,797
+...to give them more force,
+like the punch.
+
+307
+00:23:42,964 --> 00:23:44,882
+John should talk about this.
+
+308
+00:23:45,049 --> 00:23:46,884
+Well, this is spider sense.
+
+309
+00:23:47,051 --> 00:23:51,180
+It's made up of all of the components
+that you want to see...
+
+310
+00:23:51,347 --> 00:23:54,100
+...when you think about
+what Spider-Man can do.
+
+311
+00:23:54,267 --> 00:23:58,062
+It's expanded time.
+Why don't you talk about the fight?
+
+312
+00:23:59,105 --> 00:24:04,193
+We took part of the punch and sped
+it up so that there's more force...
+
+313
+00:24:04,402 --> 00:24:08,281
+...and slowed it down at the right
+moment so it's not so obvious.
+
+314
+00:24:08,489 --> 00:24:12,702
+And the one long shot where we see
+that arm just glide by him...
+
+315
+00:24:12,910 --> 00:24:15,872
+...and Tobey sees everything
+in slow motion.
+
+316
+00:24:16,039 --> 00:24:18,625
+That's another idea
+of the spider sense.
+
+317
+00:24:18,791 --> 00:24:22,670
+He's in one temporal realm,
+they're all in a different one.
+
+318
+00:24:24,922 --> 00:24:28,009
+And here, for example,
+when he grabs Flash's arm.
+
+319
+00:24:28,217 --> 00:24:32,263
+It's speeded up, then back
+to real speed as he holds it...
+
+320
+00:24:32,430 --> 00:24:35,391
+...and then it's speeded up again
+for the punch.
+
+321
+00:24:35,642 --> 00:24:36,893
+Which one?
+
+322
+00:24:37,935 --> 00:24:44,567
+There were so many shots that were
+sped up and slowed down.
+
+323
+00:24:46,653 --> 00:24:49,822
+Both Stan and Bob
+liked experimenting with that.
+
+324
+00:24:50,031 --> 00:24:53,493
+- We tried a little bit of it too.
+- All right.
+
+325
+00:24:53,993 --> 00:24:57,705
+Spider sense, by its very definition,
+is time expansion.
+
+326
+00:24:57,872 --> 00:25:02,543
+Spider-Man slows everything down to
+inspect all these potential threats.
+
+327
+00:25:02,710 --> 00:25:08,216
+The beginning of this, where you saw
+the fly being inspected...
+
+328
+00:25:08,383 --> 00:25:11,552
+...were events that he had
+no control over.
+
+329
+00:25:11,761 --> 00:25:16,015
+His spider sense, which is newly
+developed, checked out all this stuff.
+
+330
+00:25:16,182 --> 00:25:18,643
+It gives you a sense
+of his ineptitude.
+
+331
+00:25:18,851 --> 00:25:22,730
+Next is a sequence where you see
+his first experimentation...
+
+332
+00:25:22,897 --> 00:25:25,483
+...with his newfound powers.
+
+333
+00:25:25,650 --> 00:25:30,363
+That's the spider's
+genetic modification to his wrist.
+
+334
+00:25:30,988 --> 00:25:34,742
+It's not exactly where
+the spinneret ought to be, but...
+
+335
+00:25:35,326 --> 00:25:39,038
+We figured putting it in
+the right place might be a mistake.
+
+336
+00:25:39,414 --> 00:25:42,750
+There's the big microscopic hair shot.
+
+337
+00:25:42,917 --> 00:25:47,088
+- This is how he climbs up the wall.
+- That was Theo's shot too.
+
+338
+00:25:47,255 --> 00:25:51,926
+A lot of tight tracking work
+to get those to work too.
+
+339
+00:25:52,093 --> 00:25:56,472
+Here are our first real
+digital environment shots, actually.
+
+340
+00:25:56,639 --> 00:26:01,561
+They're extension shots.
+That's a fake alley floor there.
+
+341
+00:26:01,728 --> 00:26:03,312
+And there.
+
+342
+00:26:05,690 --> 00:26:11,070
+When we look up on the side,
+it's all building extensions.
+
+343
+00:26:12,155 --> 00:26:15,867
+This was the beginning of
+the personality for this camera.
+
+344
+00:26:16,033 --> 00:26:22,081
+The idea that the camera actually rose
+with him, kind of stayed with him.
+
+345
+00:26:22,290 --> 00:26:27,712
+Keeping the camera with the character,
+as opposed to watching him from afar.
+
+346
+00:26:31,340 --> 00:26:33,342
+Most of this is Wirework.
+
+347
+00:26:33,885 --> 00:26:35,970
+It's our video-game shots.
+
+348
+00:26:36,137 --> 00:26:39,390
+We were going to use a stuntman,
+but they decided...
+
+349
+00:26:39,557 --> 00:26:45,646
+...that it was not practical to do.
+It was a little too dangerous.
+
+350
+00:26:45,855 --> 00:26:48,858
+Here's the first webs that he shoots.
+
+351
+00:26:49,025 --> 00:26:51,736
+He's figuring how
+to control his webs...
+
+352
+00:26:51,944 --> 00:26:56,949
+...and how to dictate where they go.
+
+353
+00:26:57,784 --> 00:26:59,869
+Up, up and away, web.
+
+354
+00:27:01,412 --> 00:27:05,333
+So the web, this is Theo's work...
+
+355
+00:27:05,500 --> 00:27:08,503
+...has a huge range of personalities.
+
+356
+00:27:08,711 --> 00:27:13,800
+It comes out of his wrist, it's
+thin and willowy in some cases.
+
+357
+00:27:13,966 --> 00:27:16,260
+It's big and strong in others.
+
+358
+00:27:16,427 --> 00:27:20,014
+It has to spread into an actual
+spider web in some cases...
+
+359
+00:27:20,223 --> 00:27:24,310
+...and in other cases it's a lump
+on somebody's face.
+
+360
+00:27:24,519 --> 00:27:27,897
+An enormous effort went into
+defining the web.
+
+361
+00:27:28,064 --> 00:27:33,361
+If you think about real webs, the
+biggest problem is, they're invisible.
+
+362
+00:27:33,528 --> 00:27:36,989
+If bugs could see the webs,
+they wouldn't fly into them.
+
+363
+00:27:37,156 --> 00:27:42,245
+We knew that, in order to meet
+the expectations of an audience...
+
+364
+00:27:42,453 --> 00:27:46,040
+...who knows of spider webs
+as just glints...
+
+365
+00:27:46,249 --> 00:27:51,420
+...we had to figure out a way to make
+the web like a spider web...
+
+366
+00:27:51,629 --> 00:27:56,259
+...in that it had what we called a
+sundog defining it by highlight...
+
+367
+00:27:56,425 --> 00:28:00,847
+...and keep enough volume
+to feel it was strong enough...
+
+368
+00:28:01,013 --> 00:28:04,684
+...to do whatever it was
+we were asking the web to do.
+
+369
+00:28:04,892 --> 00:28:09,146
+There are a number of practical webs
+intercut with our CG ones.
+
+370
+00:28:09,313 --> 00:28:13,192
+The web had to be flexible
+enough to look practical...
+
+371
+00:28:13,359 --> 00:28:16,028
+...or go away from that
+when we needed to.
+
+372
+00:28:16,195 --> 00:28:20,950
+That last shot where he was swinging
+on the web and hits the wall...
+
+373
+00:28:21,534 --> 00:28:28,040
+We'll see him almost do the same thing
+when he's in his homemade spidey suit.
+
+374
+00:28:28,249 --> 00:28:31,711
+Then he just misses it
+at the last moment.
+
+375
+00:28:31,878 --> 00:28:33,880
+Gotten a little better.
+
+376
+00:28:34,088 --> 00:28:36,007
+We've got this character arc.
+
+377
+00:28:36,173 --> 00:28:40,052
+He's not so facile
+when he first gains that capability.
+
+378
+00:28:40,219 --> 00:28:43,723
+Over the course of the film,
+he gets better and better.
+
+379
+00:28:43,890 --> 00:28:48,895
+You see that happen. Also, the way
+he is followed through the film...
+
+380
+00:28:49,061 --> 00:28:52,607
+The camera work also gets
+better and better.
+
+381
+00:28:52,773 --> 00:28:57,737
+So everybody's kind of got this same
+learning curve.
+
+382
+00:28:59,655 --> 00:29:02,408
+I guess you can always hear us.
+
+383
+00:29:02,575 --> 00:29:04,869
+Everybody shouts.
+
+384
+00:29:05,286 --> 00:29:06,621
+Your aunt and uncle don't.
+
+385
+00:29:06,787 --> 00:29:09,457
+When we were shooting this stuff...
+
+386
+00:29:09,624 --> 00:29:13,461
+...you see these scenes that last
+two or three minutes...
+
+387
+00:29:13,628 --> 00:29:17,673
+...yet it takes an entire night
+to shoot this stuff.
+
+388
+00:29:17,882 --> 00:29:21,177
+This was a situation where
+color correction was used.
+
+389
+00:29:21,761 --> 00:29:26,599
+Over the course of the evening,
+we went from dusk to night to dawn.
+
+390
+00:29:26,766 --> 00:29:28,893
+And it wasn't shot in continuity.
+
+391
+00:29:29,060 --> 00:29:32,438
+In some cases,
+they're taking light out of a scene.
+
+392
+00:29:32,605 --> 00:29:38,486
+In other cases, they're adding light
+to make it all consistent throughout.
+
+393
+00:29:41,614 --> 00:29:45,242
+A difficult problem
+when he was on the roof...
+
+394
+00:29:45,451 --> 00:29:51,165
+...is that the actual size it needs
+to be to see it in the distance...
+
+395
+00:29:51,332 --> 00:29:55,670
+...is gigantic as opposed to
+what it really would be.
+
+396
+00:29:55,836 --> 00:29:59,215
+Yet I buy it when I see it on screen.
+
+397
+00:29:59,382 --> 00:30:02,426
+The illusion in the service
+of the story.
+
+398
+00:30:02,969 --> 00:30:07,431
+It's cinemagraphic license,
+making the web change size.
+
+399
+00:30:07,598 --> 00:30:11,227
+Also, depending on the background...
+
+400
+00:30:11,394 --> 00:30:15,690
+...we had to do different things
+if it went over a bright sky.
+
+401
+00:30:15,856 --> 00:30:18,901
+The whiter specular hits
+wouldn't show up as much.
+
+402
+00:30:19,068 --> 00:30:24,657
+You had to get some dark in there,
+and sundogs running down too.
+
+403
+00:30:24,824 --> 00:30:31,080
+The web had several different states.
+It's liquid when shot from his wrist.
+
+404
+00:30:31,247 --> 00:30:34,709
+As it attached to things,
+it did a catalyzation...
+
+405
+00:30:34,875 --> 00:30:39,922
+...which was a change of state,
+like water becoming ice.
+
+406
+00:30:40,089 --> 00:30:45,761
+When it changed state, there was a
+difference to the visual personality.
+
+407
+00:30:45,928 --> 00:30:50,808
+You can see when it strikes a building
+when he swings through the city...
+
+408
+00:30:50,975 --> 00:30:56,647
+...the web has a transition that occurs
+once it's stuck to a surface.
+
+409
+00:30:56,814 --> 00:31:02,153
+He also seems, through some
+psycho-physio process...
+
+410
+00:31:02,319 --> 00:31:05,990
+...to make the web come out and have
+different consistencies.
+
+411
+00:31:06,157 --> 00:31:11,704
+One time it would be hard as steel,
+another it would be elastic...
+
+412
+00:31:11,871 --> 00:31:16,167
+...and he could pull on it and
+pop himself up to a building.
+
+413
+00:31:20,129 --> 00:31:23,549
+Just like a mutant spider could,
+I'm sure.
+
+414
+00:31:24,216 --> 00:31:26,135
+Absolutely.
+
+415
+00:31:30,639 --> 00:31:34,185
+Hey, M.J.! Come take a ride
+in my new birthday present.
+
+416
+00:31:35,269 --> 00:31:36,562
+Come on.
+
+417
+00:31:37,646 --> 00:31:38,981
+I gotta go.
+
+418
+00:31:40,066 --> 00:31:45,279
+Something I'd like to do in the sequel
+is put Tobey's idiosyncrasies...
+
+419
+00:31:45,446 --> 00:31:49,408
+...into the digital actor.
+
+420
+00:31:50,076 --> 00:31:54,705
+There's another alleyway.
+Lots of alleyways in this movie.
+
+421
+00:31:57,249 --> 00:31:58,501
+Cool car.
+
+422
+00:32:06,842 --> 00:32:10,721
+John was talking about the performance
+of the digital actor.
+
+423
+00:32:10,888 --> 00:32:13,766
+In this film, we're almost
+working backward.
+
+424
+00:32:13,933 --> 00:32:18,479
+Usually you work
+from the facial expression down...
+
+425
+00:32:18,646 --> 00:32:22,024
+...as far as the hierarchy
+of what gives the expression.
+
+426
+00:32:22,191 --> 00:32:25,569
+In this case,
+there is no facial expression.
+
+427
+00:32:25,736 --> 00:32:31,117
+Spider-Man maybe has a jaw moving.
+Goblin has nothing.
+
+428
+00:32:31,283 --> 00:32:33,702
+It's a very big challenge...
+
+429
+00:32:33,869 --> 00:32:37,706
+...to try to let this digital actor...
+
+430
+00:32:37,873 --> 00:32:41,127
+...emote from body movement.
+
+431
+00:32:42,419 --> 00:32:47,466
+Goblin is certainly more complex
+than Spider-Man...
+
+432
+00:32:47,633 --> 00:32:53,264
+...with his Shakespearean moves
+and psychotic personality...
+
+433
+00:32:53,430 --> 00:32:57,143
+...that goes from kind to sadistic.
+
+434
+00:32:57,309 --> 00:33:02,106
+That was a very big challenge,
+something we'll develop more next time.
+
+435
+00:33:02,273 --> 00:33:08,195
+The interesting thing about
+the personality of this character...
+
+436
+00:33:08,362 --> 00:33:12,408
+Sam asked, and maybe
+you can give input...
+
+437
+00:33:12,575 --> 00:33:17,663
+...that we use some of the classic
+Spider-Man poses...
+
+438
+00:33:17,872 --> 00:33:21,709
+...to brand this character
+from the comic books.
+
+439
+00:33:21,917 --> 00:33:26,130
+I know the animators
+had that stuff as reference.
+
+440
+00:33:26,297 --> 00:33:30,885
+Do you have a sense of
+how you integrated that stuff?
+
+441
+00:33:31,051 --> 00:33:34,513
+Certainly, we worked
+from all of the comics...
+
+442
+00:33:34,680 --> 00:33:41,061
+...then tried to figure out what pose
+works best in a given situation.
+
+443
+00:33:41,228 --> 00:33:44,648
+If he's perched,
+waiting for something.
+
+444
+00:33:44,815 --> 00:33:47,943
+In the last swing,
+there are a lot of...
+
+445
+00:33:48,110 --> 00:33:52,364
+...typical key Spider-Man poses.
+
+446
+00:33:52,531 --> 00:33:55,075
+When his hands are raised
+over his head...
+
+447
+00:33:55,242 --> 00:33:59,580
+...his wrists are arched and
+his fingers are in a formation.
+
+448
+00:33:59,747 --> 00:34:03,667
+That's a good example of these poses.
+
+449
+00:34:03,834 --> 00:34:07,630
+It comes from the storyboard artist
+and animators...
+
+450
+00:34:07,796 --> 00:34:11,091
+...on up through me, you, Sam...
+
+451
+00:34:11,258 --> 00:34:15,971
+...and everybody else who's
+watching this film on a daily basis.
+
+452
+00:34:16,222 --> 00:34:21,143
+The other interesting thing...
+You talked about Willem Dafoe.
+
+453
+00:34:21,310 --> 00:34:27,441
+When we started defining what the
+Goblin would be like as a character...
+
+454
+00:34:27,608 --> 00:34:31,654
+...we started with this conveyance,
+the Goblin glider.
+
+455
+00:34:31,820 --> 00:34:37,660
+We built a simulator,
+a motion base with a glider attached.
+
+456
+00:34:37,826 --> 00:34:41,247
+It boiled down to something
+like a mechanical bull...
+
+457
+00:34:41,413 --> 00:34:45,376
+...only you had to stand on it.
+It was an ankle-breaker.
+
+458
+00:34:45,542 --> 00:34:48,921
+We worked with the stunt people
+to figure out a way...
+
+459
+00:34:49,088 --> 00:34:54,218
+...to come up with something
+to give them a timing choreography...
+
+460
+00:34:54,426 --> 00:34:57,096
+...so when it moved,
+they'd anticipate it...
+
+461
+00:34:57,263 --> 00:35:03,519
+...and position themselves to look
+as if they're affecting the machine.
+
+462
+00:35:03,686 --> 00:35:08,607
+Interestingly, we weren't successful
+with the stunt people...
+
+463
+00:35:08,774 --> 00:35:15,364
+...but when Willem Dafoe showed up
+and started to define the character...
+
+464
+00:35:15,531 --> 00:35:21,453
+...they stuck him on the machine,
+and within 15 minutes of riding...
+
+465
+00:35:21,620 --> 00:35:27,459
+...he didn't put new moves in,
+he's just reacting to the machine...
+
+466
+00:35:27,626 --> 00:35:33,257
+...he managed to come up with
+these terrific moves for the Goblin.
+
+467
+00:35:33,424 --> 00:35:38,137
+I don't know how you feel about it,
+Anthony, but for me...
+
+468
+00:35:38,304 --> 00:35:42,224
+...when I saw him on the machine,
+I was encouraged...
+
+469
+00:35:42,391 --> 00:35:47,021
+...as to how well the character
+was going to work on the glider.
+
+470
+00:35:47,187 --> 00:35:50,190
+That was the first experience...
+
+471
+00:35:50,357 --> 00:35:53,986
+...of seeing the actor
+define the character for us...
+
+472
+00:35:54,194 --> 00:35:57,031
+- ...to bring to the screen.
+- Go ahead.
+
+473
+00:35:57,197 --> 00:36:01,493
+This sequence is interesting
+for color correction...
+
+474
+00:36:01,660 --> 00:36:06,415
+...because their skin tones
+were so different.
+
+475
+00:36:06,582 --> 00:36:10,502
+Ben had a more ruddy,
+reddish complexion.
+
+476
+00:36:10,669 --> 00:36:16,175
+Tobey leaned toward olive tones and
+went green, if you weren't careful.
+
+477
+00:36:16,967 --> 00:36:21,513
+Especially in two-shots, where they're
+together. This was tricky.
+
+478
+00:36:24,850 --> 00:36:27,519
+I remember when Willem came in.
+
+479
+00:36:27,686 --> 00:36:32,232
+The pumpkin bombs
+pop out of the glider...
+
+480
+00:36:32,399 --> 00:36:37,780
+...and when he had his mask on,
+he couldn't see where they came from.
+
+481
+00:36:37,988 --> 00:36:43,202
+He had to learn how to catch the bombs
+just by feel...
+
+482
+00:36:43,369 --> 00:36:46,246
+...or having his hand
+in the right place.
+
+483
+00:36:46,830 --> 00:36:52,419
+He ended up doing the work
+that a stuntman would normally do.
+
+484
+00:36:53,587 --> 00:36:59,301
+He dedicated himself to creating
+body-language personality for Goblin.
+
+485
+00:36:59,510 --> 00:37:05,682
+He was so studious in terms
+of his positions in every situation...
+
+486
+00:37:05,849 --> 00:37:09,853
+...as to whether or not it was
+appropriate for the Goblin.
+
+487
+00:37:14,108 --> 00:37:18,821
+A lot of effects guys tried to go in
+and be extras in the movie.
+
+488
+00:37:19,029 --> 00:37:22,408
+One guy, Jeff Wolverton,
+made it into this match...
+
+489
+00:37:22,574 --> 00:37:25,077
+...holding a Bone Saw sign.
+
+490
+00:37:25,411 --> 00:37:29,998
+- Is that him in the bikini?
+- Yeah, that's him on the left.
+
+491
+00:37:32,793 --> 00:37:38,132
+I haven't spotted him, but I'm going
+to go frame-by-frame on the DVD.
+
+492
+00:37:40,926 --> 00:37:43,345
+It's the guy trying to pitch a film.
+
+493
+00:37:43,512 --> 00:37:48,183
+The thing I didn't realize the first
+couple times I saw this movie...
+
+494
+00:37:48,350 --> 00:37:52,438
+...is that it's Bruce Campbell
+in a cameo as the announcer.
+
+495
+00:37:52,604 --> 00:37:57,943
+Bruce is the hero from Sam's movies.
+
+496
+00:37:58,152 --> 00:38:01,280
+And you're participating
+under your own free will?
+
+497
+00:38:01,447 --> 00:38:05,492
+Down the hall to the ramp.
+May God be with you. Next.
+
+498
+00:38:08,370 --> 00:38:13,750
+Here's a case where it's
+a reverse of the norm.
+
+499
+00:38:13,959 --> 00:38:19,506
+Usually, they couldn't do what
+they needed to do with a stuntman...
+
+500
+00:38:19,673 --> 00:38:21,884
+...so we did it digitally.
+
+501
+00:38:22,050 --> 00:38:24,136
+In this sequence...
+
+502
+00:38:24,303 --> 00:38:30,267
+...they did most everything
+with the actor or a stuntman.
+
+503
+00:38:30,476 --> 00:38:34,271
+Wouldn't you like to have
+done Bone Saw CG, though?
+
+504
+00:38:34,438 --> 00:38:36,064
+That would've been fun.
+
+505
+00:38:36,231 --> 00:38:39,818
+$3000 will be paid to...
+
+506
+00:38:40,736 --> 00:38:43,739
+- What's your name, kid?
+- The Human Spider.
+
+507
+00:38:44,323 --> 00:38:46,700
+That's it? That's the best you got?
+
+508
+00:38:46,867 --> 00:38:48,994
+- Yeah.
+- Oh, that sucks.
+
+509
+00:38:49,161 --> 00:38:53,665
+The sum of $3000 will be paid to...
+
+510
+00:38:53,832 --> 00:38:56,293
+...the terrifying, the deadly...
+
+511
+00:38:56,460 --> 00:38:59,630
+There's some web work
+coming up in this sequence...
+
+512
+00:38:59,796 --> 00:39:03,008
+...and it's more of an
+elastic-type web.
+
+513
+00:39:03,175 --> 00:39:06,470
+Anthony mentioned
+the different characteristics.
+
+514
+00:39:06,637 --> 00:39:09,723
+In this sequence, Tobey uses...
+
+515
+00:39:09,973 --> 00:39:15,187
+...that web as just a very springy
+substance to help him do some flips.
+
+516
+00:39:15,395 --> 00:39:17,356
+Almost like bungee cord.
+
+517
+00:39:18,899 --> 00:39:25,072
+This is another place, although
+they did this actual work on-stage...
+
+518
+00:39:25,239 --> 00:39:31,078
+...this is another case where
+the Cirque du Soleil performers...
+
+519
+00:39:31,245 --> 00:39:33,539
+...or performances were used.
+
+520
+00:39:33,705 --> 00:39:39,044
+The idea of the multiple webs
+sort of like some of the stuff...
+
+521
+00:39:39,253 --> 00:39:45,259
+...that they do on multiple bungee
+cords in Cirque du Soleil performances.
+
+522
+00:39:45,467 --> 00:39:46,677
+Cage!
+
+523
+00:39:48,845 --> 00:39:51,807
+There were some speed up
+of some shots in here too.
+
+524
+00:39:51,974 --> 00:39:55,727
+Some skip-framing,
+or different software sometimes...
+
+525
+00:39:55,894 --> 00:39:59,565
+...to speed it up and make it
+look a little smoother.
+
+526
+00:39:59,773 --> 00:40:03,485
+...Please lock
+the cage doors at this time.
+
+527
+00:40:04,194 --> 00:40:08,490
+This is some kind of mistake.
+I didn't sign up for a cage match!
+
+528
+00:40:09,658 --> 00:40:12,160
+Unlock the thing! Take the chain off!
+
+529
+00:40:12,369 --> 00:40:14,162
+Hey, freak show!
+
+530
+00:40:14,371 --> 00:40:16,999
+You're going nowhere.
+
+531
+00:40:17,165 --> 00:40:19,543
+I got you for three minutes.
+
+532
+00:40:19,710 --> 00:40:22,004
+Three minutes of playtime.
+
+533
+00:40:26,592 --> 00:40:29,678
+When we did tests
+of our homemade costume...
+
+534
+00:40:29,886 --> 00:40:33,348
+...we used some of this photography...
+
+535
+00:40:33,557 --> 00:40:37,102
+...to check how our CG version
+costume would light.
+
+536
+00:40:37,311 --> 00:40:40,397
+We really liked the dramatic
+lighting here.
+
+537
+00:40:40,606 --> 00:40:45,027
+And it made for a good color
+comparison kind of check.
+
+538
+00:40:50,741 --> 00:40:52,284
+Smash him!
+
+539
+00:40:54,119 --> 00:40:55,996
+One of the things that...
+
+540
+00:40:57,664 --> 00:41:03,003
+Back to this Green Goblin thing
+we were talking about before...
+
+541
+00:41:03,211 --> 00:41:06,590
+One thing we did to make
+the Green Goblin feel...
+
+542
+00:41:06,798 --> 00:41:09,593
+...as if he were a
+contemporary character...
+
+543
+00:41:09,801 --> 00:41:13,138
+...is the motions of him
+on his glider.
+
+544
+00:41:13,347 --> 00:41:17,851
+Rather than looking like he's
+standing on top of a small airplane...
+
+545
+00:41:18,060 --> 00:41:20,479
+...and flying straight and level...
+
+546
+00:41:20,687 --> 00:41:23,982
+...we gave him the sense of motion
+you get...
+
+547
+00:41:24,191 --> 00:41:28,487
+...from skateboarding and
+surfing and snowboarding.
+
+548
+00:41:28,654 --> 00:41:33,158
+That kind of finesse that the
+characters have in movement...
+
+549
+00:41:33,325 --> 00:41:39,289
+...you see in sports to bring this
+into a contemporary vein as well.
+
+550
+00:41:39,456 --> 00:41:43,710
+Yeah, the Goblin's glider
+is sort of like his pet.
+
+551
+00:41:43,877 --> 00:41:49,216
+Some kind of pet
+that he can call at will...
+
+552
+00:41:49,383 --> 00:41:54,805
+...and watches out for him,
+and comes back to him.
+
+553
+00:41:54,971 --> 00:41:59,267
+We had to give the feeling
+like he controlled it...
+
+554
+00:41:59,434 --> 00:42:04,356
+...not completely by body movement.
+A thought process was going on...
+
+555
+00:42:04,523 --> 00:42:10,987
+...as if he had to just lean and it
+knew where to go, as opposed to...
+
+556
+00:42:11,196 --> 00:42:14,199
+...just pushing it around by leaning.
+
+557
+00:42:14,366 --> 00:42:19,287
+It was partially the understanding
+of the Goblin and him as one.
+
+558
+00:42:19,454 --> 00:42:22,457
+- What the hell...?
+- Put the money in the bag.
+
+559
+00:42:24,292 --> 00:42:25,627
+Hurry UP!
+
+560
+00:42:31,967 --> 00:42:34,052
+Hey! He stole the gate!
+
+561
+00:42:34,219 --> 00:42:36,179
+Stop that guy!
+
+562
+00:42:36,471 --> 00:42:39,015
+Stop him! He's got my money!
+
+563
+00:42:39,182 --> 00:42:43,186
+I like this costume.
+It had interesting detail work...
+
+564
+00:42:43,353 --> 00:42:45,647
+...when we made our CG version.
+
+565
+00:42:45,814 --> 00:42:49,025
+One of the first things we did
+were the shoes...
+
+566
+00:42:49,192 --> 00:42:52,112
+...which you don't really see here.
+
+567
+00:42:52,279 --> 00:42:57,159
+But he had these red Nike sneakers
+we sort of did on a turntable...
+
+568
+00:42:57,325 --> 00:43:00,495
+...flying around a screen
+to try to balance...
+
+569
+00:43:00,662 --> 00:43:04,458
+...how the colors and lighting
+looked on it.
+
+570
+00:43:04,624 --> 00:43:07,627
+The interesting thing about
+a movie like this...
+
+571
+00:43:07,794 --> 00:43:11,882
+...because it took two years,
+we had to make promises...
+
+572
+00:43:12,048 --> 00:43:17,554
+...we weren't certain that we could
+fulfill at the beginning of this film.
+
+573
+00:43:17,721 --> 00:43:21,391
+As any film of this scope,
+it's a living document.
+
+574
+00:43:21,558 --> 00:43:24,978
+It has to be able to change
+over the course of time.
+
+575
+00:43:25,145 --> 00:43:28,982
+The homemade costume
+was something...
+
+576
+00:43:29,149 --> 00:43:31,860
+...that evolved over the course
+of time.
+
+577
+00:43:32,027 --> 00:43:35,655
+The homemade costume wasn't
+in the first script...
+
+578
+00:43:35,822 --> 00:43:39,242
+...certainly not as it ended up
+being in the film.
+
+579
+00:43:40,202 --> 00:43:43,497
+And this is something
+that we had to embrace.
+
+580
+00:43:43,705 --> 00:43:47,125
+It was different than
+our hero character costume:
+
+581
+00:43:47,292 --> 00:43:51,630
+It's baggy and floppy and has folds
+and the wind affects it.
+
+582
+00:43:51,797 --> 00:43:54,132
+So it was actually more challenging...
+
+583
+00:43:54,299 --> 00:43:58,678
+...than the more polished,
+finished version of Spider-Man.
+
+584
+00:43:58,845 --> 00:44:02,641
+Definitely. We had to build
+an extra layer, basically...
+
+585
+00:44:02,808 --> 00:44:06,937
+...on top of our slick costume
+and do a cloth simulation.
+
+586
+00:44:07,103 --> 00:44:10,565
+John Lee did that and had to add in...
+
+587
+00:44:10,774 --> 00:44:14,694
+...all the effects where he's flying
+and get those ripples...
+
+588
+00:44:14,903 --> 00:44:17,739
+...and the Wind's amplitude
+and frequency...
+
+589
+00:44:17,906 --> 00:44:20,367
+...to just give him a sense of motion.
+
+590
+00:44:23,328 --> 00:44:26,665
+Multilayers of wrinkles,
+wrinkling in there.
+
+591
+00:44:26,832 --> 00:44:31,586
+You can see on this sweatshirt
+how many wrinkles and folds there are.
+
+592
+00:44:31,753 --> 00:44:35,006
+This is a little thicker
+than our costume...
+
+593
+00:44:35,173 --> 00:44:39,010
+...but those kind of details
+really give it realism.
+
+594
+00:44:39,177 --> 00:44:43,765
+The guys who did the cloth came up
+with a garment workers' stamp...
+
+595
+00:44:43,932 --> 00:44:48,061
+- ...they put on dailies.
+- Migrant textile workers of Imageworks.
+
+596
+00:44:48,228 --> 00:44:51,731
+An interesting thing about
+this cloth:
+
+597
+00:44:51,898 --> 00:44:57,487
+When you make these costumes, you
+end up using the same techniques...
+
+598
+00:44:57,654 --> 00:44:59,573
+...real patternmakers use.
+
+599
+00:44:59,739 --> 00:45:05,328
+So this cloth you see here was
+fitted to the body of the character.
+
+600
+00:45:05,495 --> 00:45:11,877
+If it doesn't fit right in the chest,
+it might come back and take a pleat.
+
+601
+00:45:12,043 --> 00:45:13,962
+We re-tailor it, basically.
+
+602
+00:45:14,129 --> 00:45:18,133
+And it's actually tailoring
+the way a real tailor works.
+
+603
+00:45:18,300 --> 00:45:21,469
+That wall crawl is a great shot
+by Spencer Cook.
+
+604
+00:45:21,636 --> 00:45:25,432
+It shows what we came to
+for the character's movement.
+
+605
+00:45:25,682 --> 00:45:29,311
+First we tried suspending
+him from a track...
+
+606
+00:45:29,519 --> 00:45:35,483
+...and let him crawl along the surface,
+A stuntman or Tobey.
+
+607
+00:45:35,650 --> 00:45:40,322
+But there's no way you can
+get the correct weight distribution.
+
+608
+00:45:40,488 --> 00:45:44,034
+You lift one hand,
+they've got two feet and one arm...
+
+609
+00:45:44,200 --> 00:45:47,954
+...the way that pulls on the body,
+it didn't look right.
+
+610
+00:45:48,163 --> 00:45:51,416
+Here's the shot
+when he just misses the wall.
+
+611
+00:45:51,583 --> 00:45:53,293
+The camera follows him.
+
+612
+00:45:53,460 --> 00:45:56,212
+In one of those shots we had a bus...
+
+613
+00:45:56,421 --> 00:46:00,425
+...and on top there's lettering.
+We put "PT13" on there.
+
+614
+00:46:00,592 --> 00:46:06,556
+PT13 was just one of our first building
+tests. It was an homage to that.
+
+615
+00:46:06,765 --> 00:46:11,019
+The thing about this fabric
+in this sequence...
+
+616
+00:46:11,227 --> 00:46:14,898
+I think I heard you
+talking about this, Anthony.
+
+617
+00:46:15,106 --> 00:46:17,567
+The fabric enhances
+the sense of motion.
+
+618
+00:46:17,734 --> 00:46:21,029
+The idea that it's fluttering
+helps the animators...
+
+619
+00:46:21,196 --> 00:46:23,907
+...keep a sense of motion
+in the character.
+
+620
+00:46:24,074 --> 00:46:27,452
+The fabric gives an impression
+of the wind moving.
+
+621
+00:46:27,619 --> 00:46:31,623
+It makes the animation...
+It complements it.
+
+622
+00:46:31,831 --> 00:46:34,709
+It makes you aware of
+how much clothing...
+
+623
+00:46:34,876 --> 00:46:39,381
+...is what tells you the kind
+of movement a person is making.
+
+624
+00:46:40,215 --> 00:46:46,012
+There was a huge section of CG
+buildings earlier in this sequence.
+
+625
+00:46:46,221 --> 00:46:51,559
+A lot of work went into it by Ken Hahn,
+Francisco, Laurence, Dan Abrams...
+
+626
+00:46:51,726 --> 00:46:54,813
+...a bunch of really great lighters.
+
+627
+00:46:55,021 --> 00:46:57,232
+We did a couple of things here.
+
+628
+00:46:57,399 --> 00:47:01,778
+One of them is this business
+of adding New York...
+
+629
+00:47:03,154 --> 00:47:07,450
+...into Los Angeles and adding
+New York into New York.
+
+630
+00:47:07,617 --> 00:47:11,955
+The buildings you see in some
+of these sequences are from L.A...
+
+631
+00:47:12,122 --> 00:47:14,708
+...and some are from New York.
+
+632
+00:47:14,916 --> 00:47:18,253
+And there are buildings
+that have been added...
+
+633
+00:47:18,420 --> 00:47:20,964
+...so you're gonna see more of that.
+
+634
+00:47:21,131 --> 00:47:26,386
+Here's the first animated shot in the
+film. This shadow across the ceiling.
+
+635
+00:47:26,553 --> 00:47:30,265
+- That was the very first shot.
+- One of our first finals.
+
+636
+00:47:30,432 --> 00:47:32,934
+Not that one. That's a live action.
+
+637
+00:47:33,101 --> 00:47:35,520
+This one.
+
+638
+00:47:37,689 --> 00:47:40,025
+He's animated, funny enough.
+
+639
+00:47:40,191 --> 00:47:43,028
+The rolling bear animation.
+
+640
+00:47:43,194 --> 00:47:46,489
+We did quite a few different
+versions of that.
+
+641
+00:47:54,539 --> 00:47:58,043
+That must have been an
+interesting thing to animate.
+
+642
+00:47:58,251 --> 00:48:03,590
+Indirect animation. You animate the
+character and then cast his shadow.
+
+643
+00:48:03,757 --> 00:48:06,885
+Because you've got to go
+by silhouettes.
+
+644
+00:48:07,052 --> 00:48:12,140
+What looks right from one angle
+doesn't look right from another.
+
+645
+00:48:12,640 --> 00:48:13,975
+<i>Stop that guy!</i>
+
+646
+00:48:14,809 --> 00:48:18,229
+You had a version of the character
+you were using...
+
+647
+00:48:18,396 --> 00:48:24,027
+...and he was in an impossible pose
+to make a feasible-looking shadow.
+
+648
+00:48:24,194 --> 00:48:27,280
+It wasn't our final
+physiquing on the character...
+
+649
+00:48:27,739 --> 00:48:32,077
+...so his shape wasn't perfect.
+You had to manipulate that a bit.
+
+650
+00:48:37,707 --> 00:48:42,003
+That was some of Koji's
+earliest physiquing there.
+
+651
+00:48:42,170 --> 00:48:44,756
+Part of an eight-month process.
+
+652
+00:48:44,923 --> 00:48:49,636
+"Physiquing" being the creation
+of the model of the character.
+
+653
+00:48:49,803 --> 00:48:55,517
+Actually, the Goblin and Spider-Man
+were set up by two different people...
+
+654
+00:48:55,725 --> 00:48:59,020
+...and set up in different ways.
+
+655
+00:48:59,687 --> 00:49:05,443
+Koji's version, Koji Morihiro,
+set up Spider-Man.
+
+656
+00:49:05,610 --> 00:49:10,031
+He approaches it differently...
+
+657
+00:49:10,198 --> 00:49:14,661
+...than JJ Blumenkrantz
+did on Goblin.
+
+658
+00:49:15,370 --> 00:49:19,541
+One of our guys, Alberto,
+helped set up the Goblin system...
+
+659
+00:49:19,707 --> 00:49:25,213
+...which was based on an underlying
+skeleton and muscle system.
+
+660
+00:49:25,380 --> 00:49:31,553
+The Goblin also had, in addition
+to having a skin over Willem's skin...
+
+661
+00:49:31,719 --> 00:49:36,683
+...it had a hard exoskeleton
+that had a little bit of flux in it...
+
+662
+00:49:36,850 --> 00:49:39,102
+...but basically, like, slid...
+
+663
+00:49:39,269 --> 00:49:43,940
+...slid up and down
+his arms and his chest.
+
+664
+00:49:44,107 --> 00:49:48,528
+So it had to be a different technique
+than our Spider-Man.
+
+665
+00:49:48,695 --> 00:49:53,533
+The definition of the physical form
+of the peoples' bodies...
+
+666
+00:49:53,700 --> 00:49:56,286
+...also included a muscle system.
+
+667
+00:49:56,452 --> 00:50:00,415
+So when they flexed,
+you could see a change displacement...
+
+668
+00:50:00,582 --> 00:50:03,376
+...in the forms of their body.
+
+669
+00:50:03,543 --> 00:50:07,547
+The legs, the contours of their thighs
+and chests and arms.
+
+670
+00:50:07,714 --> 00:50:12,886
+There was also breathing. Anthony had
+access to breathing controls.
+
+671
+00:50:13,094 --> 00:50:17,265
+Those are the kinds of subtle details
+that tell the audience...
+
+672
+00:50:17,432 --> 00:50:22,854
+...that this is a live character,
+as opposed to a CG simulation.
+
+673
+00:50:23,062 --> 00:50:26,274
+A lot of that work was based on
+reference footage...
+
+674
+00:50:26,482 --> 00:50:30,028
+...we took of the actors and stunt
+doubles at the start.
+
+675
+00:50:30,195 --> 00:50:33,781
+We put them through calisthenics
+and range-of-motion tests...
+
+676
+00:50:33,948 --> 00:50:39,120
+...and basically took up days of their
+time to get all of that set up work.
+
+677
+00:50:39,287 --> 00:50:43,750
+But it paid off. I mean, just having
+video reference...
+
+678
+00:50:43,958 --> 00:50:47,712
+...of how the quads flex,
+and the deltoids and biceps.
+
+679
+00:50:47,879 --> 00:50:52,175
+All through the body,
+how muscles distort their volumes.
+
+680
+00:50:52,342 --> 00:50:55,428
+It was really useful.
+
+681
+00:50:56,137 --> 00:51:01,100
+And it had to be there because when
+he's in that custom-made costume...
+
+682
+00:51:01,309 --> 00:51:06,314
+...that's the only real feeling you get
+of this character being alive.
+
+683
+00:51:06,481 --> 00:51:10,360
+Because the suit is tight,
+there's no clothing to flow...
+
+684
+00:51:10,526 --> 00:51:13,488
+...and give the sense
+of movement.
+
+685
+00:51:13,696 --> 00:51:20,203
+So it's more difficult to bring
+the character to life in that costume.
+
+686
+00:51:23,373 --> 00:51:27,752
+I keep thinking of that shot
+in the fire building later...
+
+687
+00:51:27,919 --> 00:51:31,130
+...where Spencer animated him landing.
+
+688
+00:51:31,297 --> 00:51:36,886
+It's just such a nice, subtle flex
+in his quads on his legs as he lands.
+
+689
+00:51:37,053 --> 00:51:43,059
+It didn't make the out, but it gave a
+sense of the weight of the landing.
+
+690
+00:51:43,434 --> 00:51:48,022
+When we first started doing the work
+on this movie...
+
+691
+00:51:48,231 --> 00:51:51,442
+...we did a test as a proof of concept.
+
+692
+00:51:51,609 --> 00:51:56,614
+And we used a model of a body that
+came from another environment.
+
+693
+00:51:56,781 --> 00:52:01,411
+It wasn't the real character, but we
+put a Spider-Man costume on him...
+
+694
+00:52:01,577 --> 00:52:07,292
+...and had him climb up the side
+of a set piece, a piece of set wall.
+
+695
+00:52:07,458 --> 00:52:12,130
+And when we did the test, we shot
+the set wall with a camera move...
+
+696
+00:52:12,297 --> 00:52:15,049
+...with a stuntman crawling
+on his belly...
+
+697
+00:52:15,216 --> 00:52:19,095
+...using a rig we'd designed
+to let him slide on the surface.
+
+698
+00:52:19,262 --> 00:52:22,265
+The mechanical effects guys
+put that together.
+
+699
+00:52:22,432 --> 00:52:26,269
+Then we shot the same camera move
+without the character.
+
+700
+00:52:28,479 --> 00:52:33,067
+Then we took the version of the wall
+without the character on it...
+
+701
+00:52:33,234 --> 00:52:39,741
+...and created a CGI version using
+this existing model of this person.
+
+702
+00:52:39,907 --> 00:52:43,536
+Then Anthony and the guys...
+Did Spencer animate that?
+
+703
+00:52:43,703 --> 00:52:45,538
+- That first test?
+- Yeah.
+
+704
+00:52:45,705 --> 00:52:49,917
+Anyway, so we took this in
+and showed it to them.
+
+705
+00:52:50,084 --> 00:52:54,005
+I don't know who the lighters were.
+It was our first...
+
+706
+00:52:54,172 --> 00:52:56,924
+That was a long time ago.
+
+707
+00:52:57,091 --> 00:53:01,804
+- I think Greg Anderson was involved.
+- So we gave it our best shot.
+
+708
+00:53:01,971 --> 00:53:06,142
+This was before we'd worked out
+how we were going to do this.
+
+709
+00:53:06,309 --> 00:53:11,230
+We took it in, and the producer,
+sort of as a tongue-in-cheek joke...
+
+710
+00:53:11,397 --> 00:53:16,402
+...told the executives
+who were watching the film:
+
+711
+00:53:16,569 --> 00:53:19,405
+"So here's Tobey
+climbing up the wall."
+
+712
+00:53:19,572 --> 00:53:22,784
+And they ran film.
+The executives watched it.
+
+713
+00:53:22,950 --> 00:53:25,828
+The lights come up,
+and they smile and say:
+
+714
+00:53:25,995 --> 00:53:31,042
+"It's great-looking, but that couldn't
+have been Tobey. It's a stuntman."
+
+715
+00:53:32,043 --> 00:53:38,049
+So they had mistaken the animated,
+computer-generated character...
+
+716
+00:53:38,216 --> 00:53:40,968
+...that animators had put
+on the wall...
+
+717
+00:53:41,135 --> 00:53:46,933
+...and that SPI had lit and composited,
+for a real image.
+
+718
+00:53:47,100 --> 00:53:53,564
+So we knew we had a shot at being
+successful when they decided...
+
+719
+00:53:53,731 --> 00:53:58,069
+...our first test was indistinguishable
+from a real human being.
+
+720
+00:53:58,236 --> 00:54:00,530
+You look back on those tests now...
+
+721
+00:54:00,696 --> 00:54:05,576
+...and Spider-Man looks nothing like
+he does now in terms of his costume...
+
+722
+00:54:05,910 --> 00:54:09,664
+...and even some
+of his body language.
+
+723
+00:54:10,039 --> 00:54:13,334
+On every movie we do a test on,
+you look back...
+
+724
+00:54:13,501 --> 00:54:17,505
+...and that test looks so different
+than the final product.
+
+725
+00:54:17,672 --> 00:54:20,591
+We were trying to arrive
+in these tests...
+
+726
+00:54:20,758 --> 00:54:24,971
+...at the proper movement for him
+to be a mix of man and spider.
+
+727
+00:54:25,138 --> 00:54:31,394
+That anecdote of Laura Ziskin
+watching the screening and saying:
+
+728
+00:54:31,561 --> 00:54:36,315
+"Wow. You know, this character
+looks like a man...
+
+729
+00:54:36,482 --> 00:54:38,901
+...but, well, like a spider."
+
+730
+00:54:39,068 --> 00:54:42,113
+Everybody said:
+"That's exactly what it is."
+
+731
+00:54:42,280 --> 00:54:47,577
+And then we knew we had more or less
+what we needed to sell this character.
+
+732
+00:54:47,743 --> 00:54:52,790
+A couple of shots ago, the camera
+swinging through the city, shot in L.A.
+
+733
+00:54:52,957 --> 00:54:57,378
+That was where a couple of us
+got a cameo. We were in on Sunday.
+
+734
+00:54:57,545 --> 00:55:00,756
+On the street corner.
+And Sam's there waving.
+
+735
+00:55:00,923 --> 00:55:03,968
+And Bob, the editor, and you and I.
+
+736
+00:55:04,135 --> 00:55:06,762
+But you'd never find it on the DVD.
+
+737
+00:55:06,929 --> 00:55:12,310
+In trying to give this the feeling of
+a camera flying through the street...
+
+738
+00:55:12,477 --> 00:55:16,439
+...there were amplitude
+and frequency controls...
+
+739
+00:55:16,647 --> 00:55:20,526
+...so as the camera accelerated
+into the skyscrapers...
+
+740
+00:55:20,693 --> 00:55:25,573
+...into these canyons,
+the camera would shake...
+
+741
+00:55:25,740 --> 00:55:29,202
+...as if it were being shaken
+by wind buffeting.
+
+742
+00:55:29,410 --> 00:55:32,747
+As it came up, it would slow
+down and steady out...
+
+743
+00:55:32,914 --> 00:55:37,001
+...and then hang in the air
+to give the feeling of an operator...
+
+744
+00:55:37,210 --> 00:55:40,588
+...following along with Spider-Man.
+
+745
+00:55:40,796 --> 00:55:44,008
+<i>But we should all just give him
+One big hug</i>
+
+746
+00:55:44,175 --> 00:55:50,932
+On this montage sequence they cut in
+some of our very early shots...
+
+747
+00:55:51,140 --> 00:55:56,395
+...from the original teaser trailers
+and in the early trailers.
+
+748
+00:55:56,562 --> 00:56:01,484
+If we tried to follow along with
+the character, that didn't work.
+
+749
+00:56:01,651 --> 00:56:06,155
+You had to let him go away,
+then come back to the camera.
+
+750
+00:56:06,364 --> 00:56:09,158
+And let the character work the frame...
+
+751
+00:56:09,325 --> 00:56:12,328
+...while depending on
+where he was headed.
+
+752
+00:56:12,495 --> 00:56:18,584
+Work it from bottom left
+to upper right, or opposite.
+
+753
+00:56:18,793 --> 00:56:22,630
+Give this feeling of an operator
+behind this camera...
+
+754
+00:56:22,838 --> 00:56:25,132
+...following this digital actor.
+
+755
+00:56:25,299 --> 00:56:26,634
+What's he got to hide?
+
+756
+00:56:26,801 --> 00:56:29,845
+She needs to know
+if you want chintz or chenille.
+
+757
+00:56:30,012 --> 00:56:32,473
+- Whichever's cheaper.
+- It's like this.
+
+758
+00:56:32,640 --> 00:56:35,601
+We double-booked page six.
+Macy's and Conway's both have...
+
+759
+00:56:35,768 --> 00:56:41,148
+I was trying to figure out what was on
+that TV. What movie we're showing...
+
+760
+00:56:41,357 --> 00:56:44,986
+They switched there,
+but it was some old horror film.
+
+761
+00:56:45,194 --> 00:56:47,029
+Some monster, big monster.
+
+762
+00:56:47,196 --> 00:56:49,824
+Sam loves sneaking little things in.
+
+763
+00:56:49,991 --> 00:56:52,868
+He would never give away
+his secrets.
+
+764
+00:56:53,035 --> 00:56:56,622
+I'm sure you have to watch it
+many times to find that.
+
+765
+00:56:56,789 --> 00:57:00,167
+Some creature coming out of the water.
+
+766
+00:57:00,334 --> 00:57:04,547
+Aren't those, like, oil-spill victims?
+
+767
+00:57:05,756 --> 00:57:09,218
+He doesn't want to be famous?
+I'll make him infamous!
+
+768
+00:57:09,385 --> 00:57:13,472
+The interior of that office
+existed in three places.
+
+769
+00:57:13,639 --> 00:57:16,392
+It was built on the stage once...
+
+770
+00:57:16,559 --> 00:57:20,938
+...then it was photographed
+in a location in downtown L.A.
+
+771
+00:57:21,147 --> 00:57:26,694
+Then it was rebuilt in another piece
+shot yet again on a separate stage.
+
+772
+00:57:26,861 --> 00:57:30,781
+That sets up the interesting
+problem that there was...
+
+773
+00:57:30,948 --> 00:57:36,203
+...after Goblin comes crashing through
+into Jameson's office...
+
+774
+00:57:36,412 --> 00:57:40,750
+...and then Spider-Man comes down
+outside the window...
+
+775
+00:57:40,916 --> 00:57:44,170
+...and the Goblin knocks him out.
+
+776
+00:57:44,378 --> 00:57:47,214
+When he falls down
+the side of the building...
+
+777
+00:57:47,423 --> 00:57:50,593
+Because of the lights
+for the shots to match...
+
+778
+00:57:50,760 --> 00:57:55,014
+...we had to do a matte painting
+of the building, right?
+
+779
+00:57:55,181 --> 00:57:57,475
+I'm talking to you! Hey!
+
+780
+00:57:57,683 --> 00:57:59,977
+Yes, Enrique, okay? I get you!
+
+781
+00:58:00,144 --> 00:58:04,273
+It better not happen no more.
+Don't roll your eyes at me.
+
+782
+00:58:04,440 --> 00:58:08,194
+The process is interesting.
+You shoot all this material...
+
+783
+00:58:08,361 --> 00:58:10,780
+...and they edit the thing together.
+
+784
+00:58:10,946 --> 00:58:14,909
+There's times when complete
+sequences get left out.
+
+785
+00:58:15,117 --> 00:58:18,037
+And you end up with a sequence shot...
+
+786
+00:58:18,496 --> 00:58:22,416
+...for a particular time of day
+used at a different time.
+
+787
+00:58:22,583 --> 00:58:28,005
+Or a shot even where a shot that was
+made with the sun in one direction...
+
+788
+00:58:28,214 --> 00:58:32,760
+...cut with the sun in another
+direction, or perhaps the sun gone.
+
+789
+00:58:32,927 --> 00:58:37,598
+Those are things now, although they've
+always been a part of it...
+
+790
+00:58:37,765 --> 00:58:40,893
+...those are things now
+that we are using...
+
+791
+00:58:41,060 --> 00:58:44,689
+...digital color timing and techniques
+to smooth out...
+
+792
+00:58:44,855 --> 00:58:50,111
+...so they don't create as big
+a disconnect for the audience.
+
+793
+00:58:50,319 --> 00:58:54,949
+The trick is to get people
+to not be aware of being in a theatre.
+
+794
+00:58:55,116 --> 00:58:59,161
+The one thing we would never do
+though, is flip a shot.
+
+795
+00:59:00,996 --> 00:59:03,082
+Are you being facetious?
+
+796
+00:59:03,290 --> 00:59:08,462
+You're still sensitive about
+your Times Square shot they flipped.
+
+797
+00:59:08,629 --> 00:59:12,174
+The whole process,
+every studio, every group...
+
+798
+00:59:12,341 --> 00:59:17,138
+...every visual effects house
+has a different approach...
+
+799
+00:59:17,304 --> 00:59:22,017
+...to how they're going
+to work together.
+
+800
+00:59:22,184 --> 00:59:26,188
+Even within a certain house,
+you'll find that every group...
+
+801
+00:59:26,355 --> 00:59:31,527
+...certainly every effects designer, is
+gonna have a different way of working.
+
+802
+00:59:31,694 --> 00:59:37,533
+On this, we were all together.
+All departments saw dailies together.
+
+803
+00:59:37,700 --> 00:59:41,829
+And I think that was healthy
+because everybody contributes.
+
+804
+00:59:41,996 --> 00:59:48,085
+It may hurt to hear what they have
+to say, but it usually makes it better.
+
+805
+00:59:48,252 --> 00:59:51,005
+We would separate animation dailies...
+
+806
+00:59:51,172 --> 00:59:56,677
+...where we were blocking out the shots
+with lighting and compositing dailies.
+
+807
+00:59:57,094 --> 01:00:03,517
+John, Anthony and I, and some
+supervisors would sit in all of them.
+
+808
+01:00:03,726 --> 01:00:05,436
+Peter Parker.
+
+809
+01:00:05,770 --> 01:00:07,855
+Maybe you'll tell me who she is.
+
+810
+01:00:08,022 --> 01:00:11,442
+It's interesting,
+we've had stuff to say...
+
+811
+01:00:11,650 --> 01:00:15,154
+...about the first part,
+but it hasn't been intense.
+
+812
+01:00:15,321 --> 01:00:20,034
+I guess it's the same kind
+of distribution a lot of films have.
+
+813
+01:00:20,201 --> 01:00:24,872
+But there was an effort in this to
+focus on the people at the beginning...
+
+814
+01:00:25,039 --> 01:00:28,417
+...to establish these characters
+and create empathy...
+
+815
+01:00:28,626 --> 01:00:35,132
+...before we got too carried away
+with the visual theatrics.
+
+816
+01:00:35,841 --> 01:00:39,804
+If it ended now, you wouldn't
+call it an effects film.
+
+817
+01:00:40,012 --> 01:00:41,305
+It would just be...
+
+818
+01:00:41,472 --> 01:00:45,810
+No, and I'd still be wondering what
+happened at the beginning.
+
+819
+01:00:45,976 --> 01:00:48,020
+...About photography.
+
+820
+01:00:50,356 --> 01:00:51,607
+Hello.
+
+821
+01:00:53,526 --> 01:00:54,610
+Let's go!
+
+822
+01:00:54,777 --> 01:00:58,697
+This was interesting.
+This was a fascinating sequence.
+
+823
+01:01:01,408 --> 01:01:04,995
+It became evident that the character...
+
+824
+01:01:05,162 --> 01:01:09,750
+...in this custom-made costume,
+when he would be animated...
+
+825
+01:01:09,959 --> 01:01:14,839
+...the best explanation we could
+come up with was that as light...
+
+826
+01:01:15,047 --> 01:01:19,260
+...arced across his skin, backlight,
+it caused him to speed up.
+
+827
+01:01:19,426 --> 01:01:24,598
+So we went through several speed
+changes in that sequence.
+
+828
+01:01:24,765 --> 01:01:26,559
+It's funny.
+
+829
+01:01:26,725 --> 01:01:30,479
+All three of us have seen this
+several times now.
+
+830
+01:01:30,688 --> 01:01:33,440
+But shots like those
+you're talking about...
+
+831
+01:01:33,607 --> 01:01:36,861
+...we've seen hundreds
+and hundreds of times.
+
+832
+01:01:37,069 --> 01:01:41,031
+We see them at artists' workstations
+when they're first being made.
+
+833
+01:01:41,240 --> 01:01:47,663
+We see them in dailies on a loop,
+maybe 30, 40 times a day.
+
+834
+01:01:47,872 --> 01:01:51,834
+Then we see them on film,
+just looped over and over again.
+
+835
+01:01:52,001 --> 01:01:55,504
+So we've seen this film many,
+many times over.
+
+836
+01:01:57,172 --> 01:02:01,010
+The little shot where Spider-Man's
+on the ground...
+
+837
+01:02:01,176 --> 01:02:04,638
+...and he's kicking the bank robber...
+
+838
+01:02:04,805 --> 01:02:08,559
+...and then flips over the top of him.
+
+839
+01:02:08,767 --> 01:02:13,856
+We went through so many different
+versions of this because...
+
+840
+01:02:14,023 --> 01:02:18,611
+...as in a lot of shots, some shots
+we'll see later, it's the same thing.
+
+841
+01:02:18,777 --> 01:02:21,280
+This character is a superhuman...
+
+842
+01:02:21,447 --> 01:02:25,910
+...but we still wanted him
+to be a thinking character.
+
+843
+01:02:26,076 --> 01:02:30,623
+So if everything's too
+well-choreographed...
+
+844
+01:02:30,789 --> 01:02:33,250
+...it can have a false look to it.
+
+845
+01:02:33,667 --> 01:02:37,630
+As if the character weren't thinking
+on his feet at that moment.
+
+846
+01:02:37,796 --> 01:02:43,594
+It can look scripted, as it were.
+Contrived.
+
+847
+01:02:49,725 --> 01:02:54,063
+Interesting thing about this character,
+something Sam said consistently:
+
+848
+01:02:54,229 --> 01:02:56,732
+"I want to know what he's thinking."
+
+849
+01:02:56,899 --> 01:03:00,319
+When you have a character
+who has a face...
+
+850
+01:03:00,486 --> 01:03:04,698
+...the idea of establishing
+his thoughts is much easier...
+
+851
+01:03:04,865 --> 01:03:09,995
+...than with a character who is only
+using his body because he's masked.
+
+852
+01:03:10,162 --> 01:03:13,666
+That's the interesting thing
+about animation in this film.
+
+853
+01:03:13,874 --> 01:03:18,170
+From my point of view, you have
+a sense of what he's thinking...
+
+854
+01:03:18,337 --> 01:03:21,840
+...just based on the way
+his body's moving.
+
+855
+01:03:22,007 --> 01:03:28,055
+The actors actually dealt with the
+same issues as our animators.
+
+856
+01:03:28,263 --> 01:03:31,225
+Acting with the body
+instead of the face.
+
+857
+01:03:31,392 --> 01:03:35,479
+We both kind of had to come
+to our solutions separately.
+
+858
+01:03:36,063 --> 01:03:38,023
+You can't do this to me.
+
+859
+01:03:41,193 --> 01:03:43,487
+I started this company.
+
+860
+01:03:44,530 --> 01:03:46,949
+You know how much I sacrificed?!
+
+861
+01:03:48,158 --> 01:03:52,621
+Here's Willem Dafoe
+in his psycho routine again.
+
+862
+01:03:54,581 --> 01:03:58,335
+No effects used to enhance his
+expressions there.
+
+863
+01:04:01,964 --> 01:04:06,051
+The character's physicality is part of
+what made the Goblin successful.
+
+864
+01:04:06,218 --> 01:04:11,682
+Not only in the virtual character,
+but in the actor himself.
+
+865
+01:04:11,849 --> 01:04:18,313
+He's never static. There's always
+something going on with him.
+
+866
+01:04:18,897 --> 01:04:21,483
+I know it's an acting issue...
+
+867
+01:04:21,650 --> 01:04:24,570
+...but Tobey's very quiet as an actor.
+
+868
+01:04:24,737 --> 01:04:26,864
+He moves his body much less.
+
+869
+01:04:27,031 --> 01:04:31,702
+All those board members we just saw
+we had to make digital versions of...
+
+870
+01:04:31,869 --> 01:04:35,205
+...to mess with later in this
+Times Square sequence.
+
+871
+01:04:35,414 --> 01:04:40,002
+This was one of the first sequences
+we got live-action photography on.
+
+872
+01:04:40,169 --> 01:04:42,129
+It was the first sequence.
+
+873
+01:04:42,296 --> 01:04:44,715
+This is where we cut our teeth.
+
+874
+01:04:44,882 --> 01:04:48,677
+This is where we worked out
+how we'd achieve these events.
+
+875
+01:04:48,844 --> 01:04:51,764
+This is exciting.
+I animated that balloon.
+
+876
+01:04:51,930 --> 01:04:54,641
+That was Anthony's personal animation.
+
+877
+01:04:54,808 --> 01:04:58,562
+What did that take,
+three or four weeks to do, Anthony?
+
+878
+01:04:59,396 --> 01:05:02,441
+That was the first time.
+We did it again.
+
+879
+01:05:02,608 --> 01:05:07,321
+The tough thing about this sequence
+is it's a daylight exterior.
+
+880
+01:05:07,488 --> 01:05:11,658
+Without getting into specifics,
+this was shot in New York.
+
+881
+01:05:11,825 --> 01:05:17,039
+Portions of it were shot in New York,
+portions of it were shot on a stage.
+
+882
+01:05:17,247 --> 01:05:22,836
+Portions of it were shot in Downey,
+portions were computer-generated.
+
+883
+01:05:23,003 --> 01:05:26,882
+It's not necessarily
+the same piece all the time.
+
+884
+01:05:27,049 --> 01:05:29,927
+When you watch the sequence
+you can see...
+
+885
+01:05:30,094 --> 01:05:34,056
+...that we had to create everything
+from very small-scale...
+
+886
+01:05:34,223 --> 01:05:41,105
+...to very large-scale components
+to make this sequence complete.
+
+887
+01:05:41,355 --> 01:05:46,276
+There's no other way we could do it,
+aside from shutting down Times Square.
+
+888
+01:05:46,443 --> 01:05:49,780
+They talked to us...
+We talked to them, excuse me.
+
+889
+01:05:49,947 --> 01:05:54,660
+We talked to them about shutting down
+Times Square for the weekend.
+
+890
+01:05:54,868 --> 01:05:56,912
+They weren't going for it.
+
+891
+01:05:57,871 --> 01:06:01,542
+The animation on the balloons
+in there is dynamics...
+
+892
+01:06:01,708 --> 01:06:05,045
+...which is a method of...
+
+893
+01:06:05,254 --> 01:06:09,174
+...how the energy would flow
+through an object...
+
+894
+01:06:09,383 --> 01:06:13,512
+...if it were animated
+or hit with energy.
+
+895
+01:06:13,679 --> 01:06:19,768
+So in this case, the balloons
+are hit with air, or an object.
+
+896
+01:06:19,977 --> 01:06:25,357
+Dan Kramer did a nice job making these
+balloons look natural for their size...
+
+897
+01:06:25,524 --> 01:06:27,651
+...and the way it would move.
+
+898
+01:06:27,943 --> 01:06:31,780
+The balloons helped tie
+different environments together.
+
+899
+01:06:31,947 --> 01:06:35,576
+They gave good foreground objects
+and bridged the gap...
+
+900
+01:06:35,742 --> 01:06:38,370
+...between the different photography.
+
+901
+01:06:39,788 --> 01:06:46,253
+We have our somewhat controversial
+sign replacements in this sequence.
+
+902
+01:06:47,004 --> 01:06:50,799
+One thing the balloon did,
+in foreground and middle ground...
+
+903
+01:06:51,008 --> 01:06:55,762
+If you look at Times Square,
+we were on Dick Clark's balcony...
+
+904
+01:06:55,971 --> 01:06:59,808
+...the one he stands on
+during the New Year's celebration.
+
+905
+01:07:00,017 --> 01:07:02,686
+Then the people were below us.
+
+906
+01:07:02,895 --> 01:07:06,481
+If you stand and look down,
+everything's in the distance.
+
+907
+01:07:06,690 --> 01:07:10,068
+You don't have much of a sense
+of perspective or scale.
+
+908
+01:07:10,694 --> 01:07:15,782
+Putting the balloons into the sequence
+gave us some middle-ground elements...
+
+909
+01:07:15,949 --> 01:07:20,954
+...which allowed us to show not only
+the scale of the environment...
+
+910
+01:07:21,121 --> 01:07:24,166
+...but also to keep the screen
+alive with movement.
+
+911
+01:07:24,333 --> 01:07:28,420
+Because as the camera moves,
+you can see that the balloons...
+
+912
+01:07:28,629 --> 01:07:31,215
+...give a sense of foreground
+and background...
+
+913
+01:07:31,423 --> 01:07:34,801
+...which you wouldn't have
+if it wasn't for them.
+
+914
+01:07:34,968 --> 01:07:39,681
+These are a series of multi-purpose
+pumpkin bombs.
+
+915
+01:07:43,477 --> 01:07:44,895
+Another CG creation.
+
+916
+01:07:45,062 --> 01:07:49,691
+I'm sure everybody noticed a couple of
+minutes ago the Stan Lee cameos.
+
+917
+01:07:49,900 --> 01:07:54,905
+Originally he was selling
+sunglasses at a stand.
+
+918
+01:07:55,113 --> 01:07:57,783
+He had a couple funny lines,
+but they got cut.
+
+919
+01:07:57,950 --> 01:08:02,371
+One of his lines was,
+"Yeah, they use these in X-Men."
+
+920
+01:08:03,538 --> 01:08:07,125
+- There's your cameo.
+- I ran by in front of the kid.
+
+921
+01:08:07,292 --> 01:08:11,964
+Shot at the very end of production.
+
+922
+01:08:12,172 --> 01:08:16,969
+There was a case of the glider
+coming back to the Goblin...
+
+923
+01:08:17,177 --> 01:08:22,766
+...waiting on him for when he needs
+to jump back on, like a cowboy's horse.
+
+924
+01:08:25,269 --> 01:08:30,315
+A lot of these ground shots of Goblin
+we used as lighting reference...
+
+925
+01:08:30,524 --> 01:08:34,653
+...when we were developing our Goblin
+CG model, and its lighting model.
+
+926
+01:08:34,820 --> 01:08:36,154
+There he is.
+
+927
+01:08:36,321 --> 01:08:40,075
+This was shot by
+Pedram Goshtasbpour...
+
+928
+01:08:41,827 --> 01:08:46,498
+It cuts together with live action,
+goes back and forth between the two.
+
+929
+01:08:49,126 --> 01:08:52,170
+Watch Goblin spin out.
+
+930
+01:08:53,505 --> 01:08:57,301
+- He stalled.
+- Kicking off a wave on a surfboard.
+
+931
+01:09:00,470 --> 01:09:06,810
+Interestingly, the people in the street
+are made of digital characters...
+
+932
+01:09:07,019 --> 01:09:08,979
+...generated in the computer...
+
+933
+01:09:09,187 --> 01:09:11,606
+...people from Downey,
+who were shot...
+
+934
+01:09:11,815 --> 01:09:14,693
+I think we had 5000 people one day.
+
+935
+01:09:14,901 --> 01:09:18,322
+Another day we had 1000,
+then it got down to 250.
+
+936
+01:09:18,488 --> 01:09:20,032
+People got tired of coming.
+
+937
+01:09:20,240 --> 01:09:23,869
+And the crowds in the streets
+are all made up...
+
+938
+01:09:25,579 --> 01:09:29,541
+...of separate pieces
+that are all sewn together...
+
+939
+01:09:29,750 --> 01:09:35,797
+...to create much more scope
+than we actually had to photograph.
+
+940
+01:09:35,964 --> 01:09:40,719
+This is Peter Nofz's sequence,
+as a CG supervisor.
+
+941
+01:09:40,886 --> 01:09:45,682
+He coordinated the set up of a bunch
+of these different systems...
+
+942
+01:09:45,891 --> 01:09:49,311
+...including our crowd system
+and the character setup.
+
+943
+01:09:49,519 --> 01:09:51,813
+He got a taste of every pipeline.
+
+944
+01:09:51,980 --> 01:09:55,776
+Our building pipeline,
+our painted tile pipeline.
+
+945
+01:09:55,942 --> 01:10:00,364
+We stitched together photography
+that John shot in New York.
+
+946
+01:10:00,530 --> 01:10:01,698
+It came together.
+
+947
+01:10:01,865 --> 01:10:08,622
+Just for the sense of description,
+when Scott talks about a pipeline...
+
+948
+01:10:08,789 --> 01:10:15,003
+...it's the process characters and
+environments go through to be finished.
+
+949
+01:10:15,170 --> 01:10:19,508
+Once principle photography is done,
+if that's a component of a shot...
+
+950
+01:10:19,674 --> 01:10:24,137
+...let's say a background plate,
+in the case of this New York piece...
+
+951
+01:10:24,304 --> 01:10:27,474
+...then all of the pieces
+begin to come together.
+
+952
+01:10:27,641 --> 01:10:32,521
+Those pieces may take five weeks
+to assemble, or a week to assemble.
+
+953
+01:10:32,687 --> 01:10:35,732
+We call the length of time
+that it takes...
+
+954
+01:10:35,941 --> 01:10:41,613
+...to go from the beginning components
+to its completion a "pipeline."
+
+955
+01:10:41,822 --> 01:10:46,910
+In some cases the pipeline
+is tied to a character.
+
+956
+01:10:47,077 --> 01:10:50,789
+In other cases, it's tied
+to the complexity of the shot.
+
+957
+01:10:50,956 --> 01:10:55,836
+The last shot in the movie
+took six months, I believe.
+
+958
+01:10:56,002 --> 01:11:00,674
+- Yeah, six to eight months.
+- That's not a pure pipeline...
+
+959
+01:11:00,841 --> 01:11:04,428
+...but it gives you a sense
+of how long it takes.
+
+960
+01:11:04,594 --> 01:11:10,100
+We had to decide what we were actually
+going to do fairly early on...
+
+961
+01:11:10,267 --> 01:11:15,230
+...to get the shots done by the time
+the film was in the theatres.
+
+962
+01:11:18,900 --> 01:11:22,195
+By the time we got
+into really finishing...
+
+963
+01:11:22,362 --> 01:11:25,740
+...or getting close to finishing
+the last swing shot...
+
+964
+01:11:25,907 --> 01:11:29,286
+...everybody wanted to do
+more shots like it.
+
+965
+01:11:29,453 --> 01:11:33,582
+We just knew we didn't have the time
+in the schedule to do more.
+
+966
+01:11:33,748 --> 01:11:35,542
+Well, you use every moment.
+
+967
+01:11:35,709 --> 01:11:38,795
+I have yet to work on a movie
+where we said:
+
+968
+01:11:38,962 --> 01:11:41,465
+"We're done. We'll take the week off."
+
+969
+01:11:41,673 --> 01:11:46,928
+You always work until,
+as Sam said for this movie...
+
+970
+01:11:47,095 --> 01:11:50,682
+...I believe he's quoting someone
+else but he says:
+
+971
+01:11:50,891 --> 01:11:54,603
+"They will pry the film
+from his cold, dead hands."
+
+972
+01:11:54,853 --> 01:11:58,690
+That's pretty much the way
+these movies always are.
+
+973
+01:11:58,857 --> 01:12:04,613
+The whole process,
+from script to storyboard artists...
+
+974
+01:12:04,779 --> 01:12:07,115
+...to Sam, and then over to us...
+
+975
+01:12:07,282 --> 01:12:12,037
+...then going through you, John,
+then filtering through other people.
+
+976
+01:12:12,204 --> 01:12:17,667
+Going from me to the animators, and
+then back in the other direction again.
+
+977
+01:12:17,834 --> 01:12:21,046
+It goes back and forth
+through this hierarchy...
+
+978
+01:12:21,213 --> 01:12:25,675
+...and you arrive at something
+until Sam finally agrees upon it.
+
+979
+01:12:25,842 --> 01:12:29,513
+But everybody has their input
+into these things.
+
+980
+01:12:29,679 --> 01:12:33,808
+And different people input
+on many different things.
+
+981
+01:12:33,975 --> 01:12:37,020
+The lighter can comment
+about the animation.
+
+982
+01:12:37,229 --> 01:12:41,775
+An animator might comment
+about the lighting.
+
+983
+01:12:42,317 --> 01:12:43,777
+It works a little...
+
+984
+01:12:43,944 --> 01:12:47,072
+- Is that a sore spot?
+- No. Not at all.
+
+985
+01:12:47,239 --> 01:12:52,452
+Anthony and I always argue
+a little bit in jest, in dailies.
+
+986
+01:12:52,619 --> 01:12:56,790
+- But we won't do that now.
+- Oh, I'll miss it.
+
+987
+01:12:56,998 --> 01:13:01,878
+I was gonna say, the pre-visualization
+that Anthony was talking about...
+
+988
+01:13:02,045 --> 01:13:07,425
+...it's different for live-action shots
+and an all-CG shot.
+
+989
+01:13:07,592 --> 01:13:12,931
+For live-action photography,
+a lot of it was used to hash out...
+
+990
+01:13:13,098 --> 01:13:17,894
+...where the camera should be
+and what lens would be used...
+
+991
+01:13:18,061 --> 01:13:21,398
+...and to block out
+for the day of the shooting.
+
+992
+01:13:21,565 --> 01:13:27,946
+In the case of all-CG shots,
+it was actually much easier, in a way.
+
+993
+01:13:28,113 --> 01:13:32,492
+The animators were really blocking out
+the shot in that case.
+
+994
+01:13:32,659 --> 01:13:37,122
+It just went from pre-vis
+to finishing animation stages...
+
+995
+01:13:37,289 --> 01:13:43,211
+...straight into lighting without a
+photography section in that path.
+
+996
+01:13:43,378 --> 01:13:46,131
+We talked about pre-visualization...
+
+997
+01:13:46,506 --> 01:13:50,510
+...which is the geometry of a set
+or a location...
+
+998
+01:13:50,677 --> 01:13:53,680
+...and simple geometry
+of the characters...
+
+999
+01:13:53,847 --> 01:13:58,184
+...with a virtual camera that can be
+positioned to create shots.
+
+1000
+01:13:58,351 --> 01:14:03,982
+We did pre-visualization on shots that
+were live-action pieces, as well...
+
+1001
+01:14:04,149 --> 01:14:08,320
+...so that when we showed up on-stage
+to do the photography...
+
+1002
+01:14:08,486 --> 01:14:12,449
+...we could tell the director of
+photography the focal lengths...
+
+1003
+01:14:12,616 --> 01:14:16,745
+...and the distance from the camera
+to the subject.
+
+1004
+01:14:16,911 --> 01:14:23,001
+That was a place to begin.
+Pre-visualization isn't cast in stone.
+
+1005
+01:14:23,209 --> 01:14:26,504
+It's always, again, a living document.
+
+1006
+01:14:26,713 --> 01:14:29,716
+But it gave everyone
+an exhibit to work with...
+
+1007
+01:14:30,258 --> 01:14:33,803
+...to determine the needs of a shot
+on a given day.
+
+1008
+01:14:33,970 --> 01:14:38,975
+It makes you more efficient.
+You put more of your money on screen...
+
+1009
+01:14:39,184 --> 01:14:44,564
+...instead of putting the money into
+doing fix-its or changing your mind.
+
+1010
+01:14:44,773 --> 01:14:46,775
+Pre-visualization was good.
+
+1011
+01:14:46,941 --> 01:14:52,906
+John Schmidt was great about working
+out those things for shoot days.
+
+1012
+01:14:53,114 --> 01:14:55,867
+He also made printouts for them.
+
+1013
+01:14:56,076 --> 01:15:00,330
+He went through a ream of paper
+making printouts used for shooting.
+
+1014
+01:15:00,497 --> 01:15:03,625
+Here comes the Goblin.
+
+1015
+01:15:07,504 --> 01:15:11,383
+We worked with the mechanical guys
+and the stunts guys.
+
+1016
+01:15:11,549 --> 01:15:15,095
+In many cases, the Goblin was there
+on a practical glider.
+
+1017
+01:15:15,553 --> 01:15:21,059
+Sometimes it was Willem on the glider,
+sometimes it was a stuntperson.
+
+1018
+01:15:21,559 --> 01:15:24,896
+We had to communicate
+on an ongoing basis.
+
+1019
+01:15:25,313 --> 01:15:30,360
+We used the pre-visualization as the
+exhibit that we discussed together.
+
+1020
+01:15:30,527 --> 01:15:35,031
+It allowed us to bring the proper tools
+for the day's photography...
+
+1021
+01:15:35,198 --> 01:15:39,703
+...as well as the postproduction work
+that had to be done in visual effects.
+
+1022
+01:15:40,245 --> 01:15:42,455
+Another shot by Koji Morihiro...
+
+1023
+01:15:42,622 --> 01:15:48,545
+...the guy who actually made the set up
+for Spider-Man animation.
+
+1024
+01:15:48,712 --> 01:15:50,630
+Jeff Stern lit that shot.
+
+1025
+01:15:50,797 --> 01:15:54,884
+When I saw that lighting,
+it was such a nice golden-hour look.
+
+1026
+01:15:55,051 --> 01:15:58,638
+It influenced how we ended up
+on that sequence.
+
+1027
+01:15:58,805 --> 01:16:02,142
+This is a great sequence
+to get a feeling...
+
+1028
+01:16:02,308 --> 01:16:06,438
+...for the psychotic behavior
+that Goblin has...
+
+1029
+01:16:06,604 --> 01:16:08,732
+...and what I looked to...
+
+1030
+01:16:08,898 --> 01:16:13,778
+...to give different facets of
+his behavior in the performance.
+
+1031
+01:16:13,987 --> 01:16:16,865
+Well, to each his own.
+
+1032
+01:16:17,031 --> 01:16:19,993
+I chose my path,
+you chose the way of the hero.
+
+1033
+01:16:24,539 --> 01:16:28,209
+This was also the sequence
+shot on-stage...
+
+1034
+01:16:28,376 --> 01:16:33,506
+...and we decided that the backing
+didn't have the right contrast level.
+
+1035
+01:16:33,673 --> 01:16:38,052
+As a post process, we did some
+adjustments on the background.
+
+1036
+01:16:38,219 --> 01:16:40,096
+Put some steam in.
+
+1037
+01:16:40,305 --> 01:16:44,184
+The other interesting thing,
+because of dialogue changes...
+
+1038
+01:16:44,350 --> 01:16:48,438
+...we obscured the Goblin's mouth
+in some of these shots...
+
+1039
+01:16:48,605 --> 01:16:51,775
+...so the lip-synch wouldn't be off.
+
+1040
+01:16:52,358 --> 01:16:55,820
+We did a lot of editorial tinkering
+with this shot...
+
+1041
+01:16:55,987 --> 01:16:59,866
+...during the process of making it.
+
+1042
+01:17:01,117 --> 01:17:05,997
+We went through a lot of different
+versions of his performance in this.
+
+1043
+01:17:06,164 --> 01:17:10,126
+When the glider comes in,
+he jumps on it and flies away.
+
+1044
+01:17:10,293 --> 01:17:15,256
+In his speech, we tried to get across
+in his body what Sam wanted him to say.
+
+1045
+01:17:15,423 --> 01:17:17,592
+We had different versions.
+
+1046
+01:17:17,759 --> 01:17:21,846
+One time, we were repeating
+what he was doing to his head.
+
+1047
+01:17:22,388 --> 01:17:27,811
+There's something coming up where
+he puts his fingers to his head.
+
+1048
+01:17:27,977 --> 01:17:29,729
+Well, that's cut out.
+
+1049
+01:17:29,896 --> 01:17:36,110
+But he flies away, and gives
+this Shakespearean gesture to him.
+
+1050
+01:17:41,157 --> 01:17:46,246
+For characters, the actors,
+Willem Dafoe and Tobey Maguire...
+
+1051
+01:17:46,412 --> 01:17:49,582
+...one who's very still,
+one who's animated...
+
+1052
+01:17:49,749 --> 01:17:53,169
+...once we put the costumes on...
+
+1053
+01:17:53,336 --> 01:17:59,259
+...the somewhat melodramatic motions
+become totally acceptable.
+
+1054
+01:17:59,467 --> 01:18:05,056
+You don't balk at them, because they
+replace the business of the guy's face.
+
+1055
+01:18:05,223 --> 01:18:09,811
+It's very interesting that some of the
+motions and positions...
+
+1056
+01:18:10,019 --> 01:18:14,732
+...that the characters get into
+when they're masked seem extreme...
+
+1057
+01:18:14,899 --> 01:18:18,611
+...but don't seem extreme
+in the context of the story.
+
+1058
+01:18:18,778 --> 01:18:20,280
+So how'd it go?
+
+1059
+01:18:22,448 --> 01:18:24,450
+They said I needed acting lessons.
+
+1060
+01:18:24,701 --> 01:18:27,328
+A soap opera told me
+I needed acting lessons.
+
+1061
+01:18:27,537 --> 01:18:32,792
+There's a lot of little wire removal
+and some composite shots...
+
+1062
+01:18:33,001 --> 01:18:36,379
+...Imageworks didn't do.
+We worked with vendors.
+
+1063
+01:18:36,629 --> 01:18:40,091
+CIS, Post Logic, Digiscope
+did a lot of the work...
+
+1064
+01:18:40,300 --> 01:18:43,011
+...coming up in the next
+rain sequence.
+
+1065
+01:18:43,177 --> 01:18:46,472
+What's interesting
+about contemporary filmmaking...
+
+1066
+01:18:46,639 --> 01:18:50,810
+...is it used to be you couldn't
+remove wires or posts.
+
+1067
+01:18:51,019 --> 01:18:55,940
+So production had to be very careful
+about what they put into a scene.
+
+1068
+01:18:56,149 --> 01:19:01,613
+Although, I'd like to say this
+production wasn't bad that way.
+
+1069
+01:19:01,863 --> 01:19:07,785
+On films I've worked on, they've left
+the food truck in the background.
+
+1070
+01:19:07,952 --> 01:19:10,997
+Because it was quicker
+to shoot the scene...
+
+1071
+01:19:11,205 --> 01:19:14,500
+...and have the truck
+removed in postproduction.
+
+1072
+01:19:14,751 --> 01:19:19,714
+And the whole business of wires now,
+and posts to support people...
+
+1073
+01:19:19,923 --> 01:19:26,012
+...to make them fly and do other things
+is rampant. Every other shot...
+
+1074
+01:19:26,262 --> 01:19:28,473
+...in action sequences...
+
+1075
+01:19:28,681 --> 01:19:32,644
+...often times have support rods,
+or tubes...
+
+1076
+01:19:32,894 --> 01:19:38,983
+...or cranes, or people's hands, that
+you end up going back to paint out.
+
+1077
+01:19:39,233 --> 01:19:44,238
+It's one of the things digital imagery
+has provided to the filmmakers.
+
+1078
+01:19:44,405 --> 01:19:48,409
+You can take eyes from one take
+and a mouth from another...
+
+1079
+01:19:48,576 --> 01:19:52,580
+...and paint them together
+to make another shot.
+
+1080
+01:19:53,706 --> 01:19:57,126
+Pixel Magic was our
+other vendor, I forgot to mention.
+
+1081
+01:19:57,293 --> 01:20:01,089
+Now it doesn't necessarily mean
+that you should do that.
+
+1082
+01:20:01,965 --> 01:20:05,051
+We had many
+wire removal and fix it shots...
+
+1083
+01:20:05,259 --> 01:20:10,264
+...they all just blend together.
+I can't remember where they all are.
+
+1084
+01:20:26,030 --> 01:20:29,200
+Tobey's fighting style
+is not martial arts.
+
+1085
+01:20:29,409 --> 01:20:34,330
+It's a cross, as Anthony was calling
+it, between human and superhuman.
+
+1086
+01:20:34,539 --> 01:20:38,960
+He throws conventional boxing-type
+punches, but he also uses...
+
+1087
+01:20:39,210 --> 01:20:41,504
+...almost Judo-type moves.
+
+1088
+01:20:41,754 --> 01:20:46,801
+It's kind of an interesting mix
+of a collage of fighting styles...
+
+1089
+01:20:47,010 --> 01:20:52,306
+...which, I think, gives him
+a personality all his own.
+
+1090
+01:20:52,515 --> 01:20:56,310
+I love the shot in that sequence
+where he's all wet.
+
+1091
+01:20:56,561 --> 01:21:01,149
+It's just so unmotivated if you look
+at this shot out of context.
+
+1092
+01:21:01,357 --> 01:21:04,068
+I felt sorry for Tobey in this shot.
+
+1093
+01:21:04,277 --> 01:21:07,947
+Because I was there
+when they shot it...
+
+1094
+01:21:08,156 --> 01:21:14,245
+...it's difficult for me to see it as
+romantic. His sinuses were full of water.
+
+1095
+01:21:14,412 --> 01:21:20,043
+He was breathing out of his mouth,
+through the wet fabric.
+
+1096
+01:21:52,658 --> 01:21:56,245
+Boy, that spider web
+does some interesting stuff.
+
+1097
+01:21:56,496 --> 01:21:59,457
+- You just press a button...
+- And up you go.
+
+1098
+01:21:59,707 --> 01:22:03,419
+In those shots, even though
+you don't see anything...
+
+1099
+01:22:03,669 --> 01:22:08,841
+...we've done a little extra movement
+around and overriding post move...
+
+1100
+01:22:09,092 --> 01:22:13,012
+...to just reframe or add extra
+motion into those shots.
+
+1101
+01:22:13,221 --> 01:22:17,225
+And there, this is kind
+of the first of our daytime...
+
+1102
+01:22:17,433 --> 01:22:20,770
+...CG buildings in the
+background of some shots.
+
+1103
+01:22:20,937 --> 01:22:23,856
+Except for Times Square.
+
+1104
+01:22:24,023 --> 01:22:28,820
+Nice work on the webs where they
+waft in the wind after he goes...
+
+1105
+01:22:28,986 --> 01:22:31,364
+...to get back into the window.
+
+1106
+01:22:32,698 --> 01:22:37,370
+That shot came together pretty fast
+at the end of the show.
+
+1107
+01:22:38,121 --> 01:22:41,749
+That was a kind of last minute
+pull-together shot.
+
+1108
+01:22:53,010 --> 01:22:58,182
+Okay, this fire sequence contains
+components shot in New York.
+
+1109
+01:22:58,391 --> 01:23:02,812
+This piece, for instance,
+is located in New York, as is that.
+
+1110
+01:23:03,020 --> 01:23:05,606
+Once we go inside, we're on a set...
+
+1111
+01:23:05,815 --> 01:23:09,443
+...that was built once
+in a parking lot in Downey...
+
+1112
+01:23:09,652 --> 01:23:14,490
+...then again, to shoot subsequent
+components of the shot...
+
+1113
+01:23:14,657 --> 01:23:18,286
+...in a parking lot in Culver City.
+
+1114
+01:23:18,494 --> 01:23:20,997
+It all goes together very nicely.
+
+1115
+01:23:21,205 --> 01:23:27,461
+This is an example of integrating this
+character seamlessly into a scene.
+
+1116
+01:23:27,712 --> 01:23:33,092
+I think this is a terrific shot
+that is in this sequence...
+
+1117
+01:23:33,301 --> 01:23:35,011
+...which we'll point out.
+
+1118
+01:23:35,219 --> 01:23:39,682
+It was a great transition
+between real and digital actors.
+
+1119
+01:23:39,891 --> 01:23:43,853
+That was a great shot by Ken Morris,
+coming in the window.
+
+1120
+01:23:44,061 --> 01:23:49,400
+That web, animated by Todd Boyce, was
+a web that Sam kept coming back to...
+
+1121
+01:23:49,650 --> 01:23:54,155
+...as a reference of a floating web
+where it wafted into the air.
+
+1122
+01:23:54,363 --> 01:23:59,160
+He liked that quality. We tried
+to get that in some other shots.
+
+1123
+01:24:01,204 --> 01:24:07,835
+The actors were actually in this set
+as it was on fire, wearing Lycra...
+
+1124
+01:24:08,044 --> 01:24:14,258
+...which is flammable. You can imagine
+how excited they were about that.
+
+1125
+01:24:14,467 --> 01:24:19,388
+I don't know whether Willem talked
+about this or Tobey...
+
+1126
+01:24:19,597 --> 01:24:24,435
+...but it was quite hot on that set.
+If you were gonna be on the set...
+
+1127
+01:24:24,685 --> 01:24:29,398
+...you wore a complete firefighters'
+uniform, including a respirator.
+
+1128
+01:24:29,607 --> 01:24:33,361
+This is Spencer Cook
+in a really beautiful shot...
+
+1129
+01:24:33,611 --> 01:24:38,616
+...where all the elements come together
+very well. People thought this...
+
+1130
+01:24:38,783 --> 01:24:40,284
+...was a real actor.
+
+1131
+01:24:40,451 --> 01:24:45,164
+Greg Anderson did a great job lighting
+that and Greg Derochie...
+
+1132
+01:24:45,331 --> 01:24:47,124
+...compositing it.
+
+1133
+01:24:47,333 --> 01:24:52,129
+Jeff Lin doing this work,
+Torn Gurney doing this work.
+
+1134
+01:24:52,838 --> 01:24:55,549
+Razorbats exploding.
+
+1135
+01:24:55,883 --> 01:24:59,971
+I thought it was a very well
+choreographed sequence too.
+
+1136
+01:25:04,892 --> 01:25:07,687
+No one says no to me!
+
+1137
+01:25:12,984 --> 01:25:18,906
+I think the transitions Sam uses
+are somewhat dated...
+
+1138
+01:25:19,115 --> 01:25:23,953
+...but they're interesting. It gives
+a certain personality to the film.
+
+1139
+01:25:24,203 --> 01:25:28,833
+The flame transitions. There's other
+places where he's used wipes...
+
+1140
+01:25:29,041 --> 01:25:32,253
+...and interesting kinds
+of fades and things.
+
+1141
+01:25:32,503 --> 01:25:35,923
+Thank you, Mr. Osborn.
+We're so glad you could come.
+
+1142
+01:25:36,173 --> 01:25:38,884
+Who is this lovely young lady?
+
+1143
+01:25:39,051 --> 01:25:41,345
+M.J., I'd like you to meet my father...
+
+1144
+01:25:41,554 --> 01:25:45,308
+We worked on this movie
+through the transition...
+
+1145
+01:25:45,516 --> 01:25:49,520
+...of the September 11th
+disaster in New York.
+
+1146
+01:25:49,770 --> 01:25:55,109
+I was gonna mention it earlier,
+we didn't remove...
+
+1147
+01:25:56,068 --> 01:26:00,281
+...the World Trade Centre
+from any of our shots.
+
+1148
+01:26:00,489 --> 01:26:04,994
+The only shot that had
+the World Trade Centre in it...
+
+1149
+01:26:05,161 --> 01:26:07,204
+...was the one in the trailer.
+
+1150
+01:26:07,413 --> 01:26:12,043
+They chose to not use it because
+the Trade Centre was featured...
+
+1151
+01:26:12,293 --> 01:26:15,796
+...so they felt that
+that was too painful.
+
+1152
+01:26:16,047 --> 01:26:22,136
+John, when you shot the footage
+after September 11th for the top...
+
+1153
+01:26:22,303 --> 01:26:26,974
+...of the buildings in the last swing,
+the Twin Towers weren't there.
+
+1154
+01:26:27,141 --> 01:26:32,688
+To make it consistent, Dan Eaton
+actually put those towers in there.
+
+1155
+01:26:32,938 --> 01:26:35,983
+And this our famous blood shot.
+
+1156
+01:26:36,192 --> 01:26:39,320
+So this was a bone of contention.
+
+1157
+01:26:41,197 --> 01:26:45,409
+This is a shot Anthony teased me
+about looking like ketchup.
+
+1158
+01:26:45,659 --> 01:26:49,830
+I still, to this day,
+don't think it looks like ketchup.
+
+1159
+01:26:50,039 --> 01:26:55,378
+I think that the shot wouldn't have
+worked unless it looked like ketchup.
+
+1160
+01:26:55,961 --> 01:27:01,717
+Well, I was hoping for some kind of
+big conflict. I guess that was quick.
+
+1161
+01:27:01,967 --> 01:27:07,723
+I tease Scott, but it had to be thick.
+Real blood would splatter horizontally.
+
+1162
+01:27:07,973 --> 01:27:12,686
+Yeah, I was ready to jab Anthony
+and get some blood experiments...
+
+1163
+01:27:12,895 --> 01:27:16,023
+...to really test
+what it would look like.
+
+1164
+01:27:18,567 --> 01:27:21,404
+Thank you.
+Now then, everybody sit down...
+
+1165
+01:27:21,570 --> 01:27:23,155
+...and we can say grace.
+
+1166
+01:27:26,700 --> 01:27:28,452
+Here we go.
+
+1167
+01:27:35,459 --> 01:27:36,627
+There we are.
+
+1168
+01:27:36,794 --> 01:27:42,842
+So New York City, real New York City
+with all the bits and pieces...
+
+1169
+01:27:43,050 --> 01:27:46,720
+We started using a technique
+called photogrametry...
+
+1170
+01:27:46,971 --> 01:27:50,850
+...where we were gonna create
+large chunks of the city...
+
+1171
+01:27:51,058 --> 01:27:56,939
+...based on multiple-positioned
+camera photographs of New York.
+
+1172
+01:27:57,189 --> 01:28:02,570
+It turned out that that technique
+didn't provide us enough resolution.
+
+1173
+01:28:02,820 --> 01:28:06,490
+Meaning that the buildings
+we created that way...
+
+1174
+01:28:06,740 --> 01:28:12,955
+...didn't have enough detail in them
+for the camera to get close to them.
+
+1175
+01:28:13,164 --> 01:28:16,292
+We then decided instead
+of doing that...
+
+1176
+01:28:16,500 --> 01:28:19,420
+...to use conventional...
+
+1177
+01:28:20,337 --> 01:28:22,756
+...surveyors' instruments...
+
+1178
+01:28:23,007 --> 01:28:28,095
+...to create a mathematical model
+of buildings in much higher detail...
+
+1179
+01:28:28,345 --> 01:28:34,643
+...and use still photographs of the
+surfaces of those buildings to be...
+
+1180
+01:28:34,810 --> 01:28:37,688
+...stretched back
+onto that geometry.
+
+1181
+01:28:37,938 --> 01:28:42,985
+We had the shape of the building and
+we had a picture of the surfaces...
+
+1182
+01:28:43,152 --> 01:28:47,448
+...on the building. We placed
+those surfaces onto the building.
+
+1183
+01:28:47,615 --> 01:28:50,284
+It's called mapping.
+
+1184
+01:28:50,534 --> 01:28:54,997
+And as you look at this...
+As we continues through this...
+
+1185
+01:28:55,206 --> 01:29:00,336
+...you're gonna see extensive
+use of this technique.
+
+1186
+01:29:00,586 --> 01:29:05,966
+We had buildings in the middle ground,
+foreground, and in the distance.
+
+1187
+01:29:06,217 --> 01:29:12,806
+Some were in original photography
+and some were added in after the fact.
+
+1188
+01:29:13,015 --> 01:29:16,977
+The other weakness
+photogrametry had was you tend...
+
+1189
+01:29:17,186 --> 01:29:20,314
+...to get the built
+in lighting of the day...
+
+1190
+01:29:20,523 --> 01:29:23,484
+...so it depends on
+how overcast it is...
+
+1191
+01:29:23,692 --> 01:29:27,905
+...the sun's angle, what time of day.
+You don't have leeway.
+
+1192
+01:29:28,113 --> 01:29:31,992
+Our buildings had to hold up
+for different sun angles...
+
+1193
+01:29:32,243 --> 01:29:34,328
+...and different times of day.
+
+1194
+01:29:34,578 --> 01:29:41,085
+So our main texture painter guy,
+Carey, ended up taking all the photos.
+
+1195
+01:29:41,335 --> 01:29:47,216
+They painted out a lot of detail that
+we'd add back in later with lighting.
+
+1196
+01:29:47,424 --> 01:29:50,219
+Also, paint the edges
+so we could tile...
+
+1197
+01:29:50,427 --> 01:29:54,640
+...and reuse some of that photography
+to extend buildings.
+
+1198
+01:29:54,848 --> 01:29:59,228
+Talk about the tiles. That's an
+important thing that we used.
+
+1199
+01:29:59,478 --> 01:30:03,607
+- The tiles in terms of...
+- Just how we did it.
+
+1200
+01:30:04,900 --> 01:30:08,779
+We started out making
+this whole building system.
+
+1201
+01:30:08,988 --> 01:30:13,409
+We knew we would have complex
+scenes that had a lot of geometry.
+
+1202
+01:30:13,659 --> 01:30:16,745
+We made our buildings
+as building blocks.
+
+1203
+01:30:16,996 --> 01:30:21,792
+We used a system that Steve LeVietes
+created in Houdini software...
+
+1204
+01:30:21,959 --> 01:30:27,590
+...to easily instance pieces
+and assemble them all together.
+
+1205
+01:30:28,215 --> 01:30:32,094
+Also there was a notion that
+when we took these photos...
+
+1206
+01:30:32,303 --> 01:30:34,847
+...they had to seam up on the edges.
+
+1207
+01:30:35,014 --> 01:30:39,852
+If you look at real buildings,
+there's lots of variation in color...
+
+1208
+01:30:40,060 --> 01:30:43,105
+...and lighting across
+these buildings.
+
+1209
+01:30:43,314 --> 01:30:48,110
+Our texture painters had to balance
+those out of the textures...
+
+1210
+01:30:48,319 --> 01:30:53,616
+...make them so they could seam up
+together and work generically.
+
+1211
+01:30:53,824 --> 01:30:58,662
+The beautiful thing about the
+tiles is, you get this hemisphere...
+
+1212
+01:30:58,912 --> 01:31:01,165
+...which functions as a plate.
+
+1213
+01:31:01,415 --> 01:31:06,754
+But a normal plate, you've gotta work
+within what the camera has shot.
+
+1214
+01:31:06,962 --> 01:31:11,342
+When you have this hemisphere
+of tiles stitched together...
+
+1215
+01:31:11,592 --> 01:31:14,470
+...you can move
+the camera all around...
+
+1216
+01:31:14,720 --> 01:31:19,391
+...and create your own camera move
+within this background.
+
+1217
+01:31:19,642 --> 01:31:22,186
+Our pan and tile system...
+
+1218
+01:31:22,394 --> 01:31:27,399
+...which was another technique we used
+to put behind our CG buildings.
+
+1219
+01:31:27,608 --> 01:31:32,988
+The camera sits in one place.
+You take a shot and then tilt up.
+
+1220
+01:31:33,155 --> 01:31:37,117
+Take one to the right and left,
+until you have these...
+
+1221
+01:31:37,284 --> 01:31:43,666
+...photos that define or capture
+the panorama before you.
+
+1222
+01:31:43,916 --> 01:31:49,755
+If you look at David Hockney's art,
+you see some of this kind of tiling.
+
+1223
+01:31:50,005 --> 01:31:54,718
+We did it in a much more precise
+fashion, but far less artistic.
+
+1224
+01:31:54,927 --> 01:31:59,139
+It's a lot of single images
+which are combined together...
+
+1225
+01:31:59,390 --> 01:32:02,893
+...to create a much larger image
+at high resolution.
+
+1226
+01:32:03,143 --> 01:32:08,524
+That allows you to move in closer
+and further away and to pan...
+
+1227
+01:32:08,691 --> 01:32:15,155
+...and move up and down
+on this big domed projection.
+
+1228
+01:32:15,364 --> 01:32:20,619
+It's a technique that's been
+getting more and more...
+
+1229
+01:32:20,869 --> 01:32:24,123
+...in use over the last couple
+of years.
+
+1230
+01:32:24,331 --> 01:32:29,002
+Many years ago, you'd have
+to assemble it in 3-D and render out.
+
+1231
+01:32:29,253 --> 01:32:32,464
+Nowadays, at Imageworks,
+we've got a system...
+
+1232
+01:32:32,715 --> 01:32:39,346
+...where we do it in our last
+compositing stage so it's much faster.
+
+1233
+01:32:42,850 --> 01:32:48,564
+One of the interesting things about
+visual effects in movies is that...
+
+1234
+01:32:48,772 --> 01:32:55,195
+...you start out with scripts that have
+more stuff than you can afford to do.
+
+1235
+01:32:55,404 --> 01:33:00,409
+Using resource as a definition
+of time and money.
+
+1236
+01:33:00,617 --> 01:33:05,330
+You always have twice the material
+as you have the resource to do.
+
+1237
+01:33:05,497 --> 01:33:09,543
+Throughout the creation of the film,
+you have to go back...
+
+1238
+01:33:09,710 --> 01:33:15,048
+...and constantly be on top of deciding
+where you'll put the resource.
+
+1239
+01:33:15,299 --> 01:33:21,472
+We knew we had to create a virtual
+version of the Spider-Man character...
+
+1240
+01:33:21,638 --> 01:33:24,224
+...a virtual version of the Goblin...
+
+1241
+01:33:24,391 --> 01:33:27,895
+...and a virtual version of
+portions of New York...
+
+1242
+01:33:28,061 --> 01:33:32,524
+...to allow us to do the kinds of
+camera moves that we wanted...
+
+1243
+01:33:32,733 --> 01:33:38,530
+...because they weren't allowing
+anybody to swing through the streets.
+
+1244
+01:33:38,697 --> 01:33:42,993
+So those were our primary
+allocations of resource.
+
+1245
+01:33:43,202 --> 01:33:48,457
+Then as the script developed,
+as we worked on the movie...
+
+1246
+01:33:48,707 --> 01:33:51,168
+...the story became clearer to us.
+
+1247
+01:33:51,418 --> 01:33:56,965
+We then had to re-evaluate where we
+were putting our efforts or resource.
+
+1248
+01:33:57,216 --> 01:34:02,721
+And one of the things that was...
+We also knew we had to do the web.
+
+1249
+01:34:02,930 --> 01:34:06,350
+The web was a component
+of resource allocation.
+
+1250
+01:34:06,600 --> 01:34:09,561
+But as we continued
+through the process...
+
+1251
+01:34:09,728 --> 01:34:13,732
+...we had to re-evaluate
+what was being put into the film.
+
+1252
+01:34:13,899 --> 01:34:17,986
+We'd get new sequences they
+wanted to make a story point.
+
+1253
+01:34:18,195 --> 01:34:24,243
+Then that sequence would be evaluated,
+then abandoned because of expense.
+
+1254
+01:34:24,451 --> 01:34:28,872
+And that was going on
+for the live-action stuff as well.
+
+1255
+01:34:29,122 --> 01:34:32,167
+It requires that you be very flexible.
+
+1256
+01:34:32,376 --> 01:34:37,631
+You have to be willing to abandon
+a scene that you like that you've...
+
+1257
+01:34:37,798 --> 01:34:42,427
+...spent months developing since
+it no longer applies in the story.
+
+1258
+01:34:42,678 --> 01:34:47,224
+That's the hardest thing in doing
+visual effects and filmmaking...
+
+1259
+01:34:47,474 --> 01:34:50,936
+...is giving away your "babies,"
+so to speak...
+
+1260
+01:34:51,144 --> 01:34:54,940
+...in pursuit of a more
+effective storytelling.
+
+1261
+01:34:55,190 --> 01:34:58,652
+You also have to be willing to meet...
+
+1262
+01:34:58,861 --> 01:35:03,490
+...an impossible challenge at the last
+moment. When we did this film...
+
+1263
+01:35:03,740 --> 01:35:07,619
+...it wasn't unusual
+in the last two or three weeks...
+
+1264
+01:35:07,870 --> 01:35:13,250
+...for the director and editor to
+come up with a shot that required...
+
+1265
+01:35:13,417 --> 01:35:15,377
+...some heroic performance.
+
+1266
+01:35:15,586 --> 01:35:20,507
+We talked about one of the shots
+earlier which was Spider-Man...
+
+1267
+01:35:20,674 --> 01:35:24,386
+...swinging through buildings
+on his way to the fire.
+
+1268
+01:35:24,595 --> 01:35:28,682
+That shot came out
+through animation, lighting...
+
+1269
+01:35:28,932 --> 01:35:34,396
+...and compositing in record time.
+You have to be light on your feet...
+
+1270
+01:35:34,605 --> 01:35:40,986
+...and willing to pursue the end
+goal of the story, first and foremost.
+
+1271
+01:35:41,194 --> 01:35:46,783
+Seems like on every film,
+you always promise something...
+
+1272
+01:35:46,992 --> 01:35:50,621
+...that you have no idea
+whether or not you can do.
+
+1273
+01:35:50,787 --> 01:35:52,039
+You have to.
+
+1274
+01:35:52,205 --> 01:35:56,835
+And that's generally how new ways
+of doing things are created.
+
+1275
+01:35:57,044 --> 01:36:00,589
+What's interesting
+is that Sam's very pragmatic.
+
+1276
+01:36:00,797 --> 01:36:05,385
+He chose, in many cases,
+to use practical effects...
+
+1277
+01:36:05,594 --> 01:36:08,347
+...meaning mechanical
+effects or stunts.
+
+1278
+01:36:08,597 --> 01:36:12,059
+Other filmmakers I've
+worked with have defaulted...
+
+1279
+01:36:12,267 --> 01:36:14,853
+...to a digital solution immediately.
+
+1280
+01:36:15,020 --> 01:36:20,692
+He'd explore more traditional methods
+extensively before allocating...
+
+1281
+01:36:20,859 --> 01:36:26,406
+...that visual effects resource
+to a single shot or a sequence.
+
+1282
+01:36:26,573 --> 01:36:32,454
+And I think that that shows up
+in his understanding of this story.
+
+1283
+01:36:32,663 --> 01:36:37,084
+He knows where he wants
+to put the money, the resource...
+
+1284
+01:36:37,292 --> 01:36:40,420
+...in terms of the telling
+of the story.
+
+1285
+01:36:43,507 --> 01:36:47,344
+Just another note,
+there's a sort of different class...
+
+1286
+01:36:47,594 --> 01:36:51,473
+...of shot that's
+become more popular recently...
+
+1287
+01:36:51,723 --> 01:36:56,687
+...and that's these product placement
+or product replacement shots.
+
+1288
+01:36:56,895 --> 01:37:02,109
+We went through a sequence earlier
+where he's shooting at a can.
+
+1289
+01:37:02,317 --> 01:37:07,155
+- Of course, we replaced products.
+- Three different kinds of cans.
+
+1290
+01:37:07,364 --> 01:37:10,117
+We went through different
+types of cans.
+
+1291
+01:37:10,325 --> 01:37:16,498
+There's a critical phone call shot
+coming up where Tobey's on the phone...
+
+1292
+01:37:16,707 --> 01:37:21,294
+...and it was a brand of payphone
+nobody wanted to see in the shot.
+
+1293
+01:37:21,545 --> 01:37:25,257
+So we had one of our
+vendors take it out.
+
+1294
+01:37:25,507 --> 01:37:31,930
+So there's a lot of attention to those
+sort of details that happens nowadays.
+
+1295
+01:37:34,975 --> 01:37:39,688
+I think people must think
+that people will want to...
+
+1296
+01:37:39,855 --> 01:37:43,859
+...drink and eat the same
+things that Spider-Man does.
+
+1297
+01:37:44,026 --> 01:37:46,653
+- I think so.
+- I do.
+
+1298
+01:37:46,820 --> 01:37:52,200
+I personally eat almost every sugared
+cereal that has his picture on it.
+
+1299
+01:37:52,451 --> 01:37:56,121
+How do you think
+he makes all that web?
+
+1300
+01:37:58,999 --> 01:38:01,293
+You were supposed to be asleep.
+
+1301
+01:38:02,127 --> 01:38:06,882
+You know, you were about 6 years old
+when M.J.'s family moved in next door.
+
+1302
+01:38:07,090 --> 01:38:11,094
+When she got out of the car,
+and you saw her for the first time...
+
+1303
+01:38:11,303 --> 01:38:17,476
+...you grabbed me and said,
+"Aunt May, is that an angel?"
+
+1304
+01:38:17,642 --> 01:38:21,021
+- Did I say that?
+- You sure did.
+
+1305
+01:38:21,188 --> 01:38:23,023
+Now it'll get fast and furious.
+
+1306
+01:38:23,273 --> 01:38:27,694
+This last portion of the movie goes
+at about 100 miles an hour.
+
+1307
+01:38:27,944 --> 01:38:30,655
+We'll never be able
+to talk fast enough.
+
+1308
+01:38:30,864 --> 01:38:35,452
+We should go through all the methods
+that we were thinking of.
+
+1309
+01:38:35,702 --> 01:38:40,499
+There's a moment
+when he has to jettison...
+
+1310
+01:38:40,707 --> 01:38:43,668
+...himself to the
+Queensborough Bridge...
+
+1311
+01:38:43,877 --> 01:38:48,882
+...and he attaches his webs
+to the top of these flagpoles...
+
+1312
+01:38:49,091 --> 01:38:53,095
+...pulls himself backward
+and then lets go and springs off.
+
+1313
+01:38:53,303 --> 01:38:58,058
+We went through several ideas
+on how to get him over there.
+
+1314
+01:38:58,308 --> 01:39:00,811
+From cannons to clock springs, to...
+
+1315
+01:39:01,019 --> 01:39:05,273
+So much of this next
+sequence is all virtual sets.
+
+1316
+01:39:05,440 --> 01:39:09,111
+It gave us flexibility
+to explore ideas like that.
+
+1317
+01:39:09,319 --> 01:39:12,364
+The thing that's interesting
+to me is that...
+
+1318
+01:39:12,614 --> 01:39:16,827
+...we paid very little attention
+to physics.
+
+1319
+01:39:17,452 --> 01:39:20,205
+The truth is,
+I'm a stickler for physics.
+
+1320
+01:39:20,455 --> 01:39:25,168
+I like to make stuff kind of stay
+within the practical world.
+
+1321
+01:39:25,418 --> 01:39:29,131
+That probably is a disadvantage.
+
+1322
+01:39:29,339 --> 01:39:32,467
+Actually, it's probably
+a good balance...
+
+1323
+01:39:32,717 --> 01:39:36,138
+...because Sam
+and the writers' penchant...
+
+1324
+01:39:36,304 --> 01:39:42,060
+...is for writing stuff that's so
+fantastic that you might not buy it.
+
+1325
+01:39:42,310 --> 01:39:46,898
+So I temper that particular tendency
+on their part by going:
+
+1326
+01:39:47,149 --> 01:39:50,026
+"Physically, this couldn't happen."
+
+1327
+01:39:50,277 --> 01:39:55,407
+So the sequences that you see here,
+swing from one end of the pole...
+
+1328
+01:39:55,615 --> 01:39:59,619
+...to the other. Things that
+are practical and that aren't.
+
+1329
+01:39:59,828 --> 01:40:05,625
+But the truth is, it all goes together
+in a way where you're not aware of it.
+
+1330
+01:40:05,834 --> 01:40:11,339
+I think that the willing suspension
+of disbelief has been achieved here.
+
+1331
+01:40:11,548 --> 01:40:16,511
+In a couple of these shots,
+Anthony and I also got little cameos.
+
+1332
+01:40:16,761 --> 01:40:21,683
+- We're people on the ground...
+- That's my daughter right there.
+
+1333
+01:40:22,517 --> 01:40:23,977
+That's Chloe.
+
+1334
+01:40:24,186 --> 01:40:29,191
+That was a shot by Brad Booker
+of him looking into the tram.
+
+1335
+01:40:29,399 --> 01:40:32,903
+It was a shot done early on
+and Sam liked...
+
+1336
+01:40:33,111 --> 01:40:35,447
+...the acting from the Goblin.
+
+1337
+01:40:35,697 --> 01:40:40,577
+Lit by Kevin Hahn. It was one
+of our first lighting jobs on Goblin.
+
+1338
+01:40:40,785 --> 01:40:45,916
+This is an integration of all manner
+of mechanical effects too.
+
+1339
+01:40:46,166 --> 01:40:49,878
+We photographed explosions
+against black so we could...
+
+1340
+01:40:50,045 --> 01:40:52,547
+...combine them in those images.
+
+1341
+01:40:52,756 --> 01:40:54,299
+There are miniatures...
+
+1342
+01:40:54,507 --> 01:41:00,055
+...combined with computer generated
+cables and cable cars and people.
+
+1343
+01:41:00,305 --> 01:41:05,518
+This is a real potpourri
+of the visual effects techniques.
+
+1344
+01:41:05,769 --> 01:41:09,272
+We shot from the top
+of the Queensborough Bridge.
+
+1345
+01:41:09,481 --> 01:41:13,652
+We were gonna climb to the top
+of the bridge and photograph...
+
+1346
+01:41:13,860 --> 01:41:20,075
+Here's Anthony's shot of him being
+shot to the bridge with the flagpoles.
+
+1347
+01:41:20,283 --> 01:41:25,914
+Chris Williams, Ken Morissey,
+Bill Diaz did this great shot of him.
+
+1348
+01:41:26,164 --> 01:41:31,419
+<i>And then James Pam's does the shot
+where he comes over the top here.</i>
+
+1349
+01:41:31,670 --> 01:41:36,132
+This is a real great shot in the film.
+It was a beautiful shot.
+
+1350
+01:41:37,175 --> 01:41:40,762
+So this is again...
+Mechanical effects boys...
+
+1351
+01:41:41,012 --> 01:41:46,851
+...had to provide wind, explosions,
+fog, smoke and all kinds of things.
+
+1352
+01:41:47,060 --> 01:41:52,190
+So it's another case where departments
+had to collaborate extensively.
+
+1353
+01:41:52,399 --> 01:41:56,569
+We did lots of photography
+on Roosevelt Island in New York.
+
+1354
+01:41:56,820 --> 01:42:02,409
+It was exciting to have our own
+Roosevelt Island tram car.
+
+1355
+01:42:02,617 --> 01:42:08,915
+We rented it. We could make it go back
+and forth, wherever we wanted to.
+
+1356
+01:42:09,165 --> 01:42:11,793
+What pre-visualization
+did for us is...
+
+1357
+01:42:11,960 --> 01:42:17,215
+...when you've a sequence where points
+of view aren't on the same level...
+
+1358
+01:42:17,382 --> 01:42:22,220
+...you have to establish the camera's
+angle relative to the live action.
+
+1359
+01:42:22,429 --> 01:42:25,140
+Pre-visualization allowed us to say:
+
+1360
+01:42:25,348 --> 01:42:31,438
+The camera needs to be 40 feet below
+the subject on a 15 millimeter lens.
+
+1361
+01:42:31,688 --> 01:42:37,485
+Those kinds of details allowed us to
+photograph our characters...
+
+1362
+01:42:37,652 --> 01:42:41,072
+...in some cases,
+against green screen...
+
+1363
+01:42:41,281 --> 01:42:47,829
+...then put them into a photography
+of the real bridge or a CGI bridge.
+
+1364
+01:42:48,038 --> 01:42:50,957
+Ken Hahn is the CG
+supervisor of this...
+
+1365
+01:42:51,124 --> 01:42:56,796
+...and did a great job pulling together
+all the green screen and CG elements...
+
+1366
+01:42:57,005 --> 01:43:01,718
+...and putting up with listening
+to me talk about the black levels...
+
+1367
+01:43:01,926 --> 01:43:05,388
+...and different variations
+across the images.
+
+1368
+01:43:05,805 --> 01:43:12,020
+This is a difficult area, to keep the
+character doing the same thing...
+
+1369
+01:43:12,187 --> 01:43:18,026
+...all the time so there's a continuity
+of what he does in the physical world.
+
+1370
+01:43:18,234 --> 01:43:22,614
+You have a temptation to make
+the character do something human...
+
+1371
+01:43:22,822 --> 01:43:26,076
+...and you can't
+let yourself fall into that.
+
+1372
+01:43:26,326 --> 01:43:32,332
+Just like before when he was shooting
+web and going through the bridge.
+
+1373
+01:43:32,540 --> 01:43:37,337
+He comes up, flies over the top
+and I had him landing so hard...
+
+1374
+01:43:37,504 --> 01:43:40,423
+...in this big follow through.
+
+1375
+01:43:40,632 --> 01:43:44,803
+Sam said, "He can't do that."
+I said, "He has to do that."
+
+1376
+01:43:45,011 --> 01:43:51,476
+I thought about it and he was right.
+He's not a person, he's Spider-Man.
+
+1377
+01:43:58,566 --> 01:44:02,237
+As opposed to this,
+which a person could easily do.
+
+1378
+01:44:05,657 --> 01:44:08,827
+Lots of pieces went
+into this sequence.
+
+1379
+01:44:09,035 --> 01:44:15,083
+The toughest part is you're working
+with a large set piece, this bridge.
+
+1380
+01:44:15,333 --> 01:44:21,756
+You get close to the characters, it's
+hard to see the bridge and vice versa.
+
+1381
+01:44:21,965 --> 01:44:28,638
+So this was a real tour de force
+of editing and design of sequence...
+
+1382
+01:44:28,847 --> 01:44:33,393
+...to integrate the pieces so you
+had a sense of the environment...
+
+1383
+01:44:33,601 --> 01:44:39,858
+...but were still close enough to the
+characters to read their emotions.
+
+1384
+01:44:42,777 --> 01:44:48,116
+It was interesting to just set up all
+the lighting of our virtual sets...
+
+1385
+01:44:48,324 --> 01:44:52,662
+...and matched pieces. Sometimes
+it worked, sometimes it didn't.
+
+1386
+01:44:52,871 --> 01:44:59,252
+We just dialed in different fall offs
+and bright and dark areas for shots.
+
+1387
+01:44:59,544 --> 01:45:01,337
+Spider-Man, watch out!
+
+1388
+01:45:14,058 --> 01:45:19,147
+Interesting thing about this,
+this is our "hulking ruin" sequence.
+
+1389
+01:45:19,355 --> 01:45:23,067
+Spider-Man gets pretty beat up
+in this sequence.
+
+1390
+01:45:23,318 --> 01:45:28,573
+We made a full CG version
+of Spider-Man completely beat up.
+
+1391
+01:45:28,781 --> 01:45:31,409
+One of our guys
+painted beautiful maps.
+
+1392
+01:45:31,659 --> 01:45:35,163
+It's this pristine CG model
+that looks fabulous.
+
+1393
+01:45:35,371 --> 01:45:40,168
+And by the end of the cut that
+they made, it was no longer in there.
+
+1394
+01:45:40,335 --> 01:45:44,380
+I hope in the sequel, there's
+an area where he's beat up...
+
+1395
+01:45:44,589 --> 01:45:49,719
+...pretty similarly to this so we can
+use that model. I'm sure we won't.
+
+1396
+01:45:50,720 --> 01:45:54,974
+That was the shot that,
+because of the rating system...
+
+1397
+01:45:55,183 --> 01:45:58,478
+He had a mouthful of blood
+spewing out...
+
+1398
+01:45:58,686 --> 01:46:03,399
+...and to get the rating down
+to PG-13, we had to turn that blood...
+
+1399
+01:46:03,608 --> 01:46:06,444
+...from red to clear to be spit.
+
+1400
+01:46:06,694 --> 01:46:13,076
+We had to take out a bit so it didn't
+look like he was spewing a fountain.
+
+1401
+01:46:13,910 --> 01:46:17,121
+This was an interesting solution
+with the web.
+
+1402
+01:46:17,330 --> 01:46:19,999
+This is of course a new kind of web...
+
+1403
+01:46:20,250 --> 01:46:26,005
+...but also had to look like the real
+web because it was already shot.
+
+1404
+01:46:28,091 --> 01:46:31,761
+Todd Boyce spent a lot of time
+weaving that pattern...
+
+1405
+01:46:31,928 --> 01:46:35,598
+...making it match the next shot.
+
+1406
+01:46:39,686 --> 01:46:44,983
+This sequence really got out down.
+At one point, it went on for days.
+
+1407
+01:46:45,191 --> 01:46:48,152
+The thing that happens
+is these sequences...
+
+1408
+01:46:48,403 --> 01:46:54,158
+...end up being distillations
+of much, much larger vintages.
+
+1409
+01:46:54,367 --> 01:46:57,537
+The Razorbats used to be
+in this sequence.
+
+1410
+01:46:57,787 --> 01:47:02,584
+There were Razorbats and even another
+kind of thing at some point.
+
+1411
+01:47:02,792 --> 01:47:07,505
+In this sequence, there were flocks
+of them all over the place.
+
+1412
+01:47:09,591 --> 01:47:12,510
+But again,
+I think that the distillation...
+
+1413
+01:47:12,677 --> 01:47:16,514
+...really focuses on the
+development of the characters.
+
+1414
+01:47:16,681 --> 01:47:21,060
+That's the saving grace of this
+movie. You pay more attention...
+
+1415
+01:47:21,227 --> 01:47:25,231
+...to the people involved
+than you do to the...
+
+1416
+01:47:25,398 --> 01:47:28,610
+- Action.
+- Action, yeah.
+
+1417
+01:47:31,112 --> 01:47:36,826
+This is definitely an homage to
+some of Sam's earlier movies.
+
+1418
+01:47:36,993 --> 01:47:39,662
+<i>Army</i> of Darkness or whatever.
+
+1419
+01:47:48,630 --> 01:47:51,257
+A lot of speed up on this thing.
+
+1420
+01:47:53,593 --> 01:47:55,511
+Did that wall move or no?
+
+1421
+01:47:57,597 --> 01:48:01,267
+- Can't give away all the secrets.
+- I'm sorry.
+
+1422
+01:48:04,187 --> 01:48:07,774
+Again the spider sense
+comes into play here.
+
+1423
+01:48:07,940 --> 01:48:13,988
+The spider sense thing was a huge
+combination of many elements.
+
+1424
+01:48:14,155 --> 01:48:18,284
+It's a beautiful digital blade
+that comes out of this.
+
+1425
+01:48:20,995 --> 01:48:23,539
+It comes out of the glider.
+
+1426
+01:48:25,458 --> 01:48:28,753
+It's photography
+done on the set, paintwork...
+
+1427
+01:48:28,920 --> 01:48:32,090
+...some CG components
+that were generated...
+
+1428
+01:48:32,256 --> 01:48:38,137
+...in three dimensions and painted and
+added. The glider is a virtual...
+
+1429
+01:48:38,304 --> 01:48:41,808
+...version of the glider,
+a CGI version...
+
+1430
+01:48:41,974 --> 01:48:44,936
+...and that's combined with our...
+
+1431
+01:48:45,520 --> 01:48:49,357
+...actually live actor
+in the foreground.
+
+1432
+01:48:49,524 --> 01:48:50,942
+Give me your hand.
+
+1433
+01:48:51,234 --> 01:48:55,988
+For the spider sense shot coming up,
+Dan Kramer did a great job...
+
+1434
+01:48:56,155 --> 01:49:00,034
+...because we shot different ideas,
+motion control...
+
+1435
+01:49:00,201 --> 01:49:05,415
+...and the end result ended up being
+a combination of some of those ideas.
+
+1436
+01:49:05,581 --> 01:49:10,294
+So we had to piece together
+different photography in.
+
+1437
+01:49:11,754 --> 01:49:13,214
+Godspeed, Spider-Man.
+
+1438
+01:49:15,133 --> 01:49:16,634
+That shot right there.
+
+1439
+01:49:28,813 --> 01:49:33,359
+We also, actually, had to try
+to give a character to the glider...
+
+1440
+01:49:33,526 --> 01:49:38,072
+...to have it and a certain feeling,
+as silly as that may sound.
+
+1441
+01:49:38,239 --> 01:49:43,327
+Well, it's back to
+your faithful servant, the glider...
+
+1442
+01:49:43,494 --> 01:49:48,374
+...hanging out,
+waiting to take care...
+
+1443
+01:49:48,541 --> 01:49:49,834
+...of the threat.
+
+1444
+01:49:50,001 --> 01:49:55,590
+And of course that sequence was cut
+down to get into the PG-13 rating.
+
+1445
+01:49:55,757 --> 01:49:59,385
+Some of our work was
+cut out of there as well.
+
+1446
+01:50:06,350 --> 01:50:11,230
+I'm sure in the director's cut, the
+R-rated version, that'll show up.
+
+1447
+01:50:11,397 --> 01:50:12,982
+What have you done?!
+
+1448
+01:50:18,988 --> 01:50:23,701
+A lot of these shots have to be
+leading towards sequels to come.
+
+1449
+01:50:23,868 --> 01:50:26,829
+Setting up some of the situations.
+
+1450
+01:50:30,666 --> 01:50:34,003
+So this is the set-up
+before the final shot...
+
+1451
+01:50:34,170 --> 01:50:38,007
+...in which Sam had a small request...
+
+1452
+01:50:38,174 --> 01:50:42,345
+...that the animation
+in this last shot...
+
+1453
+01:50:42,512 --> 01:50:45,431
+...be more incredible,
+more astounding.
+
+1454
+01:50:45,598 --> 01:50:51,145
+The all time, best animated shot in
+history. That was all he asked for.
+
+1455
+01:50:51,312 --> 01:50:57,735
+We went away and tried to do that.
+This went through many generations.
+
+1456
+01:50:58,319 --> 01:51:01,614
+But it was interesting to see...
+
+1457
+01:51:01,823 --> 01:51:06,118
+...as we got down I think John
+has said before, what is it?
+
+1458
+01:51:06,285 --> 01:51:10,957
+Ninety percent of your time you
+spend getting ready for the shot...
+
+1459
+01:51:11,123 --> 01:51:16,045
+...and 10 percent getting it done.
+
+1460
+01:51:19,131 --> 01:51:22,260
+All the camera moves
+and the animation.
+
+1461
+01:51:22,468 --> 01:51:25,763
+There were minute adjustments
+on these things.
+
+1462
+01:51:25,930 --> 01:51:30,059
+One frame of a change
+of a move where the camera...
+
+1463
+01:51:30,226 --> 01:51:33,062
+...would come close to a
+building or move.
+
+1464
+01:51:33,229 --> 01:51:38,401
+It really got down to a beautiful shot
+that I think is well remembered...
+
+1465
+01:51:38,568 --> 01:51:41,320
+...in great animation
+by Peter Giliberti.
+
+1466
+01:51:41,487 --> 01:51:45,241
+Lighting and compositing-wise
+it came down to the wire.
+
+1467
+01:51:45,408 --> 01:51:50,288
+Like, our artists Marc Rienzo,
+Jeff Stern, Dan Abrams...
+
+1468
+01:51:50,454 --> 01:51:54,375
+...Laurence, Dan Eaton
+all these guys in the last week...
+
+1469
+01:51:54,542 --> 01:51:58,337
+...working around the clock,
+sleeping under their desks.
+
+1470
+01:51:58,504 --> 01:52:02,383
+It's funny, the president
+of our company, Tim Sarnoff...
+
+1471
+01:52:02,550 --> 01:52:06,971
+...had to come and force these guys
+to go home and walk them out.
+
+1472
+01:52:07,138 --> 01:52:10,766
+We had people drive them home
+so they wouldn't crash.
+
+1473
+01:52:10,933 --> 01:52:14,520
+That's how dedicated
+they were to this last shot.
+
+1474
+01:52:14,687 --> 01:52:17,815
+It took about seven months
+for this last shot.
+
+1475
+01:52:17,982 --> 01:52:20,484
+When you watch this shot...
+
+1476
+01:52:20,651 --> 01:52:26,991
+...I mean, if you've seen the movie in
+a theatre where it's on a big screen...
+
+1477
+01:52:27,158 --> 01:52:32,997
+...it actually succeeds in getting you
+to sort of be physically involved...
+
+1478
+01:52:33,164 --> 01:52:38,669
+...in swinging through the city.
+In terms of a storytelling component...
+
+1479
+01:52:38,836 --> 01:52:43,507
+...it gives you a sense of what
+it's like to be Spider-Man.
+
+1480
+01:52:43,674 --> 01:52:48,012
+Not the irony where he has
+to deny the woman of his dreams...
+
+1481
+01:52:48,179 --> 01:52:51,974
+...but where you understand
+why he goes forward.
+
+1482
+01:52:52,141 --> 01:52:56,604
+Why he sees some
+kind of real future...
+
+1483
+01:52:56,771 --> 01:53:01,567
+...in the business of being responsible
+for this power he wields.
+
+1484
+01:53:01,734 --> 01:53:05,112
+It comes along
+with some great fun too.
+
+1485
+01:53:05,279 --> 01:53:09,200
+And I think that this shot
+embodies all of those things.
+
+1486
+01:53:09,408 --> 01:53:15,039
+It embodies the best of the work
+of the visual effects in the movie.
+
+1487
+01:53:16,874 --> 01:53:18,793
+I love you so much, Peter.
+
+1488
+01:53:39,522 --> 01:53:44,276
+<i>All I wanted was to tell her
+how much I loved her.</i>
+
+1489
+01:53:44,443 --> 01:53:46,362
+I can't...
+
+1490
+01:53:48,489 --> 01:53:50,032
+You can't what?
+
+1491
+01:53:51,158 --> 01:53:52,618
+Tell you...
+
+1492
+01:53:54,328 --> 01:53:58,666
+...everything.
+I mean, there's so much to tell.
+
+1493
+01:53:59,750 --> 01:54:03,671
+Yeah. There's so much to tell.
+
+1494
+01:54:04,588 --> 01:54:06,549
+I want you to know...
+
+1495
+01:54:06,966 --> 01:54:09,635
+...that I will always be there
+for you.
+
+1496
+01:54:09,844 --> 01:54:13,806
+I will always be there
+to take care of you.
+
+1497
+01:54:14,807 --> 01:54:16,809
+I promise you that.
+
+1498
+01:54:20,104 --> 01:54:22,398
+I will always be your friend.
+
+1499
+01:54:25,317 --> 01:54:27,194
+Only a friend...
+
+1500
+01:54:28,070 --> 01:54:29,613
+...Peter Parker?
+
+1501
+01:54:31,782 --> 01:54:34,618
+That's all I have to give.
+
+1502
+01:55:00,978 --> 01:55:03,647
+<i>Whatever life holds in store for</i> me...
+
+1503
+01:55:03,814 --> 01:55:06,692
+<i>...I will never forget these words:</i>
+
+1504
+01:55:06,901 --> 01:55:11,947
+<i>"With great power
+comes great responsibility."</i>
+
+1505
+01:55:12,114 --> 01:55:16,327
+In the performance of the character,
+in the beginning...
+
+1506
+01:55:16,494 --> 01:55:21,707
+...he's not sure what move to make,
+where to shoot his web...
+
+1507
+01:55:21,874 --> 01:55:26,087
+...how to move around it.
+And through the film he develops.
+
+1508
+01:55:26,253 --> 01:55:31,008
+Whereas in this shot, you feel
+that he knows where he's going...
+
+1509
+01:55:31,175 --> 01:55:36,680
+...and exactly what he's doing and
+he's in control of his movement.
+
+1510
+01:55:40,309 --> 01:55:46,857
+I think a lot of the photography ended
+up helping us out in the last shot.
+
+1511
+01:55:47,024 --> 01:55:52,655
+The photography that we got on that
+Sunday in downtown L.A. swinging...
+
+1512
+01:55:52,822 --> 01:55:56,033
+...through the cars
+and everything built off of that.
+
+1513
+01:55:56,200 --> 01:56:01,080
+And that stuff you got in New York
+for the tiles. The sort of...
+
+1514
+01:56:01,247 --> 01:56:05,626
+...golden-hour looking tiles that we
+processed and pushed more.
+
+1515
+01:56:06,293 --> 01:56:12,383
+That sort of grounded it and gave us a
+base to build our virtual environment.
+
+1516
+01:56:15,803 --> 01:56:21,267
+Also we had good success
+with finishing the buildings off...
+
+1517
+01:56:21,433 --> 01:56:25,980
+...and figuring out how to use them
+in the lighting...
+
+1518
+01:56:26,147 --> 01:56:31,777
+...environment to make them feel
+more real. So when you...
+
+1519
+01:56:32,236 --> 01:56:35,865
+...get to the point of watching...
+
+1520
+01:56:36,031 --> 01:56:39,702
+...what he's doing and what's
+happening around him...
+
+1521
+01:56:39,910 --> 01:56:41,704
+...it's very spectacular.
+
+1522
+01:56:41,871 --> 01:56:44,790
+The composition,
+the choice of buildings...
+
+1523
+01:56:44,957 --> 01:56:49,336
+...the color compositing.
+Even if it were something that were...
+
+1524
+01:56:49,503 --> 01:56:53,382
+...done for real and wasn't put
+together as elements...
+
+1525
+01:56:53,549 --> 01:56:58,470
+...it would be
+a very successful shot.
+

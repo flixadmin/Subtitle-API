@@ -1,0 +1,3667 @@
+﻿1
+00:00:00,318 --> 00:00:01,726
+My name is Barry Allen,
+
+2
+00:00:01,729 --> 00:00:03,960
+and I am the fastest man alive.
+
+3
+00:00:03,963 --> 00:00:05,130
+To the outside world,
+
+4
+00:00:05,133 --> 00:00:07,109
+I'm an ordinary forensic scientist.
+
+5
+00:00:07,112 --> 00:00:08,550
+But secretly, with the help
+
+6
+00:00:08,553 --> 00:00:09,986
+of my friends at S.T.A.R. Labs,
+
+7
+00:00:09,989 --> 00:00:11,250
+I fight crime and find
+
+8
+00:00:11,253 --> 00:00:12,867
+other meta-humans like me.
+
+9
+00:00:12,870 --> 00:00:15,164
+But when my daughter came
+back from the future to help,
+
+10
+00:00:15,167 --> 00:00:17,629
+she changed the present...
+
+11
+00:00:17,632 --> 00:00:20,299
+and now our world is
+more dangerous than ever.
+
+12
+00:00:20,301 --> 00:00:22,735
+And I'm the only one
+fast enough to save it.
+
+13
+00:00:22,737 --> 00:00:25,039
+I am the Flash.
+
+14
+00:00:26,140 --> 00:00:27,442
+Previously on "The Flash"...
+
+15
+00:00:27,445 --> 00:00:28,445
+You threw yourself
+
+16
+00:00:28,448 --> 00:00:30,984
+- off a building to save Dad?
+- Yeah.
+
+17
+00:00:30,987 --> 00:00:33,044
+We all know the sound
+of Cicada's breathing.
+
+18
+00:00:33,047 --> 00:00:34,359
+His lungs are injured.
+
+19
+00:00:34,362 --> 00:00:36,296
+We can't keep doing
+this. It's not healing.
+
+20
+00:00:36,299 --> 00:00:37,896
+Killer Frost has been
+gone since the night
+
+21
+00:00:37,898 --> 00:00:39,118
+the DeVoe took over your body.
+
+22
+00:00:39,120 --> 00:00:39,916
+Is she gone for good?
+
+23
+00:00:39,918 --> 00:00:41,165
+I've tried everything I can think of
+
+24
+00:00:41,167 --> 00:00:42,109
+to get her to reappear.
+
+25
+00:00:42,112 --> 00:00:43,960
+My father told me to come find him.
+
+26
+00:00:43,963 --> 00:00:45,257
+My dad's been dead for years.
+
+27
+00:00:45,260 --> 00:00:46,742
+He knew that there were two of you.
+
+28
+00:00:46,745 --> 00:00:48,601
+He knew the truth about Killer Frost.
+
+29
+00:00:49,743 --> 00:00:52,497
+- We've got eyes and ears!
+- I knew you could do it.
+
+30
+00:00:52,500 --> 00:00:54,500
+There's only one sure
+place somebody could hide.
+
+31
+00:00:54,502 --> 00:00:56,202
+A Tannhauser black ops site.
+
+32
+00:01:00,141 --> 00:01:03,776
+Vanilla latte and a
+Medium Zoom for Raelene.
+
+33
+00:01:03,778 --> 00:01:05,744
+Thank you.
+
+34
+00:01:59,734 --> 00:02:01,066
+Should've left me alone.
+
+35
+00:02:10,544 --> 00:02:15,947
+And you never should have existed.
+
+36
+00:02:22,851 --> 00:02:26,158
+- <font color="#D81D1D">Synced and corrected by VitoSilans</font> -
+-- <font color="#138CE9">www.Addic7ed.com</font> --
+
+37
+00:02:27,428 --> 00:02:29,695
+We are back in business.
+
+38
+00:02:29,697 --> 00:02:30,969
+And by business, he means
+
+39
+00:02:30,972 --> 00:02:32,891
+the better-than-Sally
+the satellite business.
+
+40
+00:02:32,894 --> 00:02:34,337
+And what does that mean?
+
+41
+00:02:34,340 --> 00:02:36,401
+That means we're getting
+closer to identifying
+
+42
+00:02:36,404 --> 00:02:38,304
+the ever-elusive Cicada.
+
+43
+00:02:38,306 --> 00:02:40,326
+It's Cicada, Sherloque.
+
+44
+00:02:40,329 --> 00:02:42,808
+Once I hacked DeVoe's satellites,
+
+45
+00:02:42,810 --> 00:02:46,645
+all I had to do was just use an
+impact extrapolation algorithm
+
+46
+00:02:46,647 --> 00:02:48,948
+to predict where the
+shrapnel would've fallen
+
+47
+00:02:48,950 --> 00:02:51,283
+after Barry and Nora
+pulled a Johnny Cage
+
+48
+00:02:51,285 --> 00:02:52,284
+on Sally the satellite.
+
+49
+00:02:52,286 --> 00:02:53,519
+May God rest her soul.
+
+50
+00:02:53,521 --> 00:02:55,688
+So now we got 46 locations
+
+51
+00:02:55,690 --> 00:02:57,723
+where 46 pieces of shrapnel landed.
+
+52
+00:02:57,725 --> 00:03:00,192
+And once of these
+locations is where Cicada
+
+53
+00:03:00,194 --> 00:03:01,527
+will have been injured.
+
+54
+00:03:01,529 --> 00:03:03,128
+Except we don't know which one.
+
+55
+00:03:03,130 --> 00:03:04,226
+Or maybe we do.
+
+56
+00:03:04,229 --> 00:03:07,265
+You see, after my hands got
+sliced by Cicada's dagger,
+
+57
+00:03:07,268 --> 00:03:09,034
+Dr. Quinn, Medicine Woman, here
+
+58
+00:03:09,036 --> 00:03:11,003
+measured the dark matter in my system.
+
+59
+00:03:11,005 --> 00:03:13,205
+And its levels of
+concentration were higher
+
+60
+00:03:13,207 --> 00:03:14,611
+than any I'd ever seen before.
+
+61
+00:03:14,614 --> 00:03:17,177
+Insanely high, and the
+only part of the satellite
+
+62
+00:03:17,180 --> 00:03:19,678
+that would have dark
+matter levels that high...
+
+63
+00:03:19,680 --> 00:03:23,148
+Is the core, which is where
+Cicada's dagger came from.
+
+64
+00:03:23,150 --> 00:03:24,984
+So we find the location of the core
+
+65
+00:03:24,986 --> 00:03:26,483
+and we'll know where
+Cicada was that night.
+
+66
+00:03:26,485 --> 00:03:27,641
+You know, FEMA set up sites
+
+67
+00:03:27,644 --> 00:03:29,054
+to help people after the Enlightenment.
+
+68
+00:03:29,056 --> 00:03:30,210
+If Cicada was injured,
+
+69
+00:03:30,213 --> 00:03:31,991
+maybe he received medical
+treatment at one of them.
+
+70
+00:03:31,993 --> 00:03:32,921
+That's a great idea.
+
+71
+00:03:32,924 --> 00:03:35,793
+I mean, we could check with
+FEMA to see if any fathers
+
+72
+00:03:35,796 --> 00:03:38,564
+matching Cicada's description
+reported any injuries
+
+73
+00:03:38,566 --> 00:03:40,679
+- near the crash site.
+- So, we split up.
+
+74
+00:03:40,682 --> 00:03:42,308
+Okay, great. I'm good
+at tracking things down.
+
+75
+00:03:42,310 --> 00:03:44,168
+So I will try and find
+the satellite core.
+
+76
+00:03:44,171 --> 00:03:45,601
+I will come with you
+and everybody else look
+
+77
+00:03:45,603 --> 00:03:46,309
+for the names.
+
+78
+00:03:46,312 --> 00:03:48,555
+Um, do you mind if I
+actually come with you too?
+
+79
+00:03:48,558 --> 00:03:51,075
+It's just that I saw you
+jump off a building last week
+
+80
+00:03:51,078 --> 00:03:52,378
+and that was awesome.
+
+81
+00:03:52,380 --> 00:03:54,013
+So I thought maybe I'd come with you
+
+82
+00:03:54,015 --> 00:03:55,106
+while you did some detective work.
+
+83
+00:03:55,108 --> 00:03:57,292
+Oh, I think that two people
+is going to be more than enough
+
+84
+00:03:57,294 --> 00:03:59,118
+- for what we need...
+- What he's trying to say
+
+85
+00:03:59,120 --> 00:04:01,430
+is that we would love
+to have you come with us.
+
+86
+00:04:01,433 --> 00:04:03,188
+Okay.
+
+87
+00:04:05,490 --> 00:04:07,156
+All right, well, why
+don't I talk to FEMA
+
+88
+00:04:07,159 --> 00:04:08,441
+and see if I can get some names.
+
+89
+00:04:08,444 --> 00:04:09,810
+Hey, I know Joe's been itching
+
+90
+00:04:09,813 --> 00:04:11,264
+to get out of the
+house, and it might help
+
+91
+00:04:11,266 --> 00:04:13,031
+to have an actual badge.
+
+92
+00:04:13,034 --> 00:04:14,900
+Nobody does case snacks like Joe West.
+
+93
+00:04:14,902 --> 00:04:16,769
+- I'll swing by on the way.
+- All right, cool.
+
+94
+00:04:19,240 --> 00:04:23,942
+So, Snow Patrol, what's going on?
+
+95
+00:04:23,944 --> 00:04:25,577
+You tell me.
+
+96
+00:04:25,579 --> 00:04:27,913
+I'm guessing it's not a coincidence
+
+97
+00:04:27,915 --> 00:04:29,915
+that we're left here with nothing to do
+
+98
+00:04:29,917 --> 00:04:31,347
+for the next few hours.
+
+99
+00:04:31,350 --> 00:04:33,551
+I know we were supposed to
+wait until you were ready
+
+100
+00:04:33,554 --> 00:04:34,909
+to locate your dad.
+
+101
+00:04:34,912 --> 00:04:37,622
+But I had the satellites track down
+
+102
+00:04:37,625 --> 00:04:40,125
+all the decommissioned
+Tannhauser black ops sites
+
+103
+00:04:40,127 --> 00:04:41,816
+that your dad could possibly be in.
+
+104
+00:04:41,819 --> 00:04:43,206
+Okay.
+
+105
+00:04:43,209 --> 00:04:46,844
+And... and then I hacked
+into their security systems.
+
+106
+00:04:46,847 --> 00:04:49,467
+He was the last person
+to enter one of them.
+
+107
+00:04:49,470 --> 00:04:50,969
+A week after he died.
+
+108
+00:04:50,971 --> 00:04:53,672
+And he never left.
+
+109
+00:04:56,677 --> 00:04:58,343
+Where is he?
+
+110
+00:05:00,681 --> 00:05:03,816
+It's open. Come in.
+
+111
+00:05:05,686 --> 00:05:08,787
+Hey! Cecile.
+
+112
+00:05:08,789 --> 00:05:10,622
+- Hey.
+- Is... is Joe here?
+
+113
+00:05:10,624 --> 00:05:12,511
+Uh, no. He's out with Jenna.
+
+114
+00:05:12,514 --> 00:05:14,120
+Oh, dang. Okay. Bummer.
+
+115
+00:05:14,123 --> 00:05:16,722
+All right, I'll go get some
+falafel and come back in a bit.
+
+116
+00:05:16,725 --> 00:05:18,091
+Wait, no. Please don't...
+
+117
+00:05:18,094 --> 00:05:21,222
+Leave me here. Um, what did you need?
+
+118
+00:05:21,225 --> 00:05:23,058
+Maybe I can help you.
+
+119
+00:05:23,061 --> 00:05:26,062
+Oh, I need somebody to flash a badge
+
+120
+00:05:26,065 --> 00:05:28,261
+and generally look intimidating, so.
+
+121
+00:05:28,264 --> 00:05:31,966
+You don't think that I can be intimidating.
+
+122
+00:05:31,969 --> 00:05:33,978
+Oh, my God, you don't, do you?
+
+123
+00:05:35,983 --> 00:05:37,456
+Ralph, I am the district attorney.
+
+124
+00:05:37,459 --> 00:05:39,093
+You know I psychically
+teleported the Flash
+
+125
+00:05:39,095 --> 00:05:40,895
+inside the Thinker's mind
+
+126
+00:05:40,898 --> 00:05:43,198
+whilst giving birth to my daughter,
+
+127
+00:05:43,201 --> 00:05:44,901
+sans epidural... it hurt!
+
+128
+00:05:44,904 --> 00:05:49,206
+I literally saved the
+world between contractions,
+
+129
+00:05:49,209 --> 00:05:51,743
+and you don't think
+that I am intimidating?
+
+130
+00:05:51,746 --> 00:05:53,679
+I'm really intimidated
+right now, actually.
+
+131
+00:05:53,682 --> 00:05:55,282
+You are very intimidating.
+
+132
+00:05:55,285 --> 00:05:57,253
+Okay, what are we doing?
+
+133
+00:05:57,256 --> 00:06:01,091
+Uh, we are getting a list
+of FEMA recipients treated
+
+134
+00:06:01,094 --> 00:06:03,361
+after the Enlightenment
+to hopefully find
+
+135
+00:06:03,364 --> 00:06:04,472
+Cicada's real name.
+
+136
+00:06:04,475 --> 00:06:06,691
+FEMA, come on. I worked with them a ton.
+
+137
+00:06:06,694 --> 00:06:08,427
+I know that org inside and out.
+
+138
+00:06:08,430 --> 00:06:10,643
+Just, uh... oh, give me
+five. I gotta go pump first.
+
+139
+00:06:10,646 --> 00:06:12,312
+What are we pumping?
+
+140
+00:06:12,315 --> 00:06:13,623
+Oh.
+
+141
+00:06:14,860 --> 00:06:17,889
+Coordinates are set for the North Pole.
+
+142
+00:06:20,100 --> 00:06:23,135
+Thank you guys for coming with me.
+
+143
+00:06:23,138 --> 00:06:24,604
+Ready when you are.
+
+144
+00:06:24,607 --> 00:06:26,273
+Okay.
+
+145
+00:06:27,946 --> 00:06:30,792
+Oh! Here we go.
+
+146
+00:06:34,210 --> 00:06:35,995
+Can't see anything!
+
+147
+00:06:35,998 --> 00:06:38,432
+My face just went full Weeknd!
+
+148
+00:06:38,435 --> 00:06:39,966
+Wait, I think I see something.
+
+149
+00:06:39,969 --> 00:06:41,335
+Over here!
+
+150
+00:06:41,338 --> 00:06:43,138
+What?
+
+151
+00:06:44,644 --> 00:06:46,118
+I think it's a building.
+
+152
+00:06:48,189 --> 00:06:50,522
+Is there a door?
+
+153
+00:06:50,524 --> 00:06:52,992
+We don't need one.
+
+154
+00:06:58,666 --> 00:07:01,700
+Hello? Anybody here?
+
+155
+00:07:01,702 --> 00:07:03,736
+There.
+
+156
+00:07:18,352 --> 00:07:20,719
+Hey.
+
+157
+00:07:20,721 --> 00:07:22,821
+You okay?
+
+158
+00:07:22,823 --> 00:07:24,390
+When my father entered this facility
+
+159
+00:07:24,392 --> 00:07:25,991
+nearly 20 years ago,
+
+160
+00:07:25,993 --> 00:07:28,694
+he had severe ALS.
+
+161
+00:07:28,696 --> 00:07:33,198
+Maybe the reason he never
+left is 'cause he couldn't.
+
+162
+00:07:33,200 --> 00:07:35,467
+Look, whatever we find in here,
+
+163
+00:07:35,469 --> 00:07:36,969
+we'll be right here with you.
+
+164
+00:07:47,515 --> 00:07:49,181
+Ugh.
+
+165
+00:07:49,183 --> 00:07:52,618
+It smells like science in here.
+
+166
+00:07:52,620 --> 00:07:55,721
+What kind of research does
+your mom's lab do, exactly?
+
+167
+00:07:55,723 --> 00:07:59,224
+I honestly don't even know anymore.
+
+168
+00:07:59,226 --> 00:08:00,325
+Caity?
+
+169
+00:08:04,398 --> 00:08:07,666
+Dad? Is that you?
+
+170
+00:08:07,668 --> 00:08:10,269
+Is this really happening?
+
+171
+00:08:10,271 --> 00:08:12,271
+You're alive.
+
+172
+00:08:12,273 --> 00:08:13,639
+Are you... you're real?
+
+173
+00:08:13,641 --> 00:08:16,408
+Yeah, Dad, it's me. I'm real. I'm real.
+
+174
+00:08:19,280 --> 00:08:20,946
+You found me.
+
+175
+00:08:30,035 --> 00:08:31,935
+You got my message.
+
+176
+00:08:31,937 --> 00:08:34,971
+I did in the periodic
+table we made together.
+
+177
+00:08:34,973 --> 00:08:38,942
+It took me 20 years to find
+it, but it led me to you.
+
+178
+00:08:38,944 --> 00:08:40,910
+I knew you would come.
+
+179
+00:08:40,912 --> 00:08:42,412
+Thank you.
+
+180
+00:08:42,414 --> 00:08:44,380
+I thank all of you.
+
+181
+00:08:44,382 --> 00:08:46,488
+Dad, these are my friends. This is...
+
+182
+00:08:46,491 --> 00:08:50,286
+Uh, Barry Allen and Cisco Ramon. I know.
+
+183
+00:08:50,288 --> 00:08:52,622
+Um, sorry. How do you know us?
+
+184
+00:08:52,624 --> 00:08:54,224
+Well, when I first came here,
+
+185
+00:08:54,226 --> 00:08:55,992
+I stayed in contact with scientists.
+
+186
+00:08:55,994 --> 00:08:59,963
+Louise Lincoln, Victor
+Fries, and Harrison Wells.
+
+187
+00:08:59,965 --> 00:09:03,633
+Dr. Wells was able to
+give me full access to, uh,
+
+188
+00:09:03,635 --> 00:09:06,135
+S.T.A.R. Labs video uplink.
+
+189
+00:09:06,137 --> 00:09:09,239
+Wait a minute. You've... you've
+had video lin to S.T.A.R. Labs
+
+190
+00:09:09,241 --> 00:09:10,175
+this entire time?
+
+191
+00:09:10,178 --> 00:09:12,908
+Oh, no. God no. I mean, it
+hasn't worked until recently.
+
+192
+00:09:12,911 --> 00:09:14,744
+And unfortunately, since it rebooted,
+
+193
+00:09:14,746 --> 00:09:17,780
+its capabilities is
+only as a one-way video,
+
+194
+00:09:17,782 --> 00:09:21,117
+so I could see you but
+I couldn't reach you.
+
+195
+00:09:21,119 --> 00:09:24,120
+Well, it looks like you had
+plenty of toys around here
+
+196
+00:09:24,122 --> 00:09:25,288
+to keep you company.
+
+197
+00:09:25,290 --> 00:09:27,223
+This neat little incubator.
+
+198
+00:09:27,225 --> 00:09:28,591
+What's it for?
+
+199
+00:09:28,593 --> 00:09:31,661
+Well, that was here when I got here.
+
+200
+00:09:31,663 --> 00:09:34,163
+Never had any use for that thing.
+
+201
+00:09:34,165 --> 00:09:36,532
+I don't understand. Why are you here?
+
+202
+00:09:36,534 --> 00:09:38,701
+I mean, how are you still even alive?
+
+203
+00:09:38,703 --> 00:09:42,705
+ALS is a horrible disease,
+and I grew desperate,
+
+204
+00:09:42,707 --> 00:09:47,176
+and I began experimenting with
+therapies using cryogenics.
+
+205
+00:09:47,178 --> 00:09:49,445
+Something went wrong?
+
+206
+00:09:49,447 --> 00:09:51,114
+Yes.
+
+207
+00:09:51,116 --> 00:09:53,616
+The, uh, experiments became
+more and more dangerous.
+
+208
+00:09:53,618 --> 00:09:55,318
+And I quarantined myself
+
+209
+00:09:55,320 --> 00:09:58,613
+for the sake of everyone's safety.
+
+210
+00:09:58,616 --> 00:10:03,960
+I did manage to freeze the
+progression of that disease.
+
+211
+00:10:03,962 --> 00:10:07,363
+Not before the site
+was entirely closed out,
+
+212
+00:10:07,365 --> 00:10:09,432
+and I have been here ever since.
+
+213
+00:10:09,434 --> 00:10:11,532
+They shut down this site
+while you were still in it
+
+214
+00:10:11,535 --> 00:10:13,202
+and locked you in.
+
+215
+00:10:13,204 --> 00:10:15,605
+It was my mother, wasn't it?
+
+216
+00:10:15,607 --> 00:10:18,174
+She's the only one with
+an authority to shut down
+
+217
+00:10:18,176 --> 00:10:19,285
+a Tannhauser site.
+
+218
+00:10:19,288 --> 00:10:20,859
+Listen, your mother
+thought it would be easier
+
+219
+00:10:20,861 --> 00:10:22,386
+for you not to see me.
+
+220
+00:10:22,389 --> 00:10:25,547
+But I always had the faith
+that I could cure this thing.
+
+221
+00:10:25,550 --> 00:10:28,484
+That's why I sent you the note.
+
+222
+00:10:28,486 --> 00:10:31,220
+So how... how did you
+survive here this whole time?
+
+223
+00:10:31,222 --> 00:10:34,424
+Water. Rations.
+
+224
+00:10:34,426 --> 00:10:37,760
+Spending months at a time
+in that cryogenic chamber.
+
+225
+00:10:37,762 --> 00:10:40,530
+Well, you don't ever
+have to do that again,
+
+226
+00:10:40,532 --> 00:10:43,399
+because we can get you out of here.
+
+227
+00:10:43,401 --> 00:10:45,335
+We're gonna give you your life back.
+
+228
+00:10:50,855 --> 00:10:54,410
+Shouldn't this place be
+packed to the rafters?
+
+229
+00:10:54,412 --> 00:10:58,081
+I mean, we had a citywide
+disaster not long ago.
+
+230
+00:10:58,083 --> 00:11:00,116
+Don't worry. I got this.
+
+231
+00:11:00,118 --> 00:11:02,269
+It's time to put the war face on.
+
+232
+00:11:04,255 --> 00:11:06,789
+Hey, buddy, pull them out.
+
+233
+00:11:06,791 --> 00:11:09,659
+Lose the music. Hi,
+I'm DA Cecile Horton.
+
+234
+00:11:09,661 --> 00:11:12,095
+This is my associate, Ralph Dibny.
+
+235
+00:11:12,097 --> 00:11:13,763
+- DA?
+- Mm.
+
+236
+00:11:13,765 --> 00:11:15,231
+How can I help you?
+
+237
+00:11:15,233 --> 00:11:16,816
+You the field director here?
+
+238
+00:11:16,819 --> 00:11:19,601
+Assistant. You got a claim or
+something I can help you with?
+
+239
+00:11:19,604 --> 00:11:22,505
+We're trying to ID a suspect
+in a criminal investigation
+
+240
+00:11:22,507 --> 00:11:23,892
+and we're going to need to
+take a look at the names of
+
+241
+00:11:23,894 --> 00:11:26,608
+all the people you've assisted
+in the last six months.
+
+242
+00:11:26,611 --> 00:11:29,412
+I can't give you anyone's names.
+
+243
+00:11:29,414 --> 00:11:31,222
+You'll need to get a warrant for that.
+
+244
+00:11:31,225 --> 00:11:33,358
+Listen up, mister!
+
+245
+00:11:33,361 --> 00:11:35,218
+Bagger Vance!
+
+246
+00:11:35,220 --> 00:11:36,486
+It's Vance Brandon.
+
+247
+00:11:37,922 --> 00:11:40,490
+You listen to me when I tell you
+
+248
+00:11:40,492 --> 00:11:43,126
+that this is my town, baby.
+
+249
+00:11:43,128 --> 00:11:45,762
+Oh, yeah, and I can make some real
+
+250
+00:11:45,764 --> 00:11:47,597
+bad stuff happen for you.
+
+251
+00:11:47,599 --> 00:11:49,332
+Like, really, really no bueno.
+
+252
+00:11:49,334 --> 00:11:52,301
+Yeah, well, this is my country,
+
+253
+00:11:52,303 --> 00:11:54,404
+which is a lot bigger than your town.
+
+254
+00:11:54,406 --> 00:11:57,273
+- That's true.
+- So, until you get a warrant,
+
+255
+00:11:57,275 --> 00:11:59,075
+you're not getting anything.
+
+256
+00:11:59,077 --> 00:12:01,715
+But wait, did you... Bagger?
+Bagger Va... did you...
+
+257
+00:12:01,718 --> 00:12:03,446
+But this my war face.
+
+258
+00:12:03,448 --> 00:12:05,648
+I put my war face on.
+
+259
+00:12:05,650 --> 00:12:07,316
+That was my war face, Ralph.
+
+260
+00:12:07,318 --> 00:12:09,152
+It's okay, I... I think you're just...
+
+261
+00:12:09,154 --> 00:12:11,020
+You're... you're a
+little rusty, that's all.
+
+262
+00:12:11,022 --> 00:12:12,789
+Oh, no. That was way more
+
+263
+00:12:12,791 --> 00:12:15,725
+than a little rust, Ralph.
+
+264
+00:12:15,727 --> 00:12:17,927
+I've lost my mojo.
+
+265
+00:12:22,400 --> 00:12:25,501
+Oh, that was a... new mode of travel.
+
+266
+00:12:25,503 --> 00:12:27,737
+That is what we call an interdimensional
+
+267
+00:12:27,739 --> 00:12:28,996
+space-time breach.
+
+268
+00:12:28,999 --> 00:12:30,603
+It takes a little
+while to get used to it.
+
+269
+00:12:30,605 --> 00:12:35,445
+So, this is S.T.A.R. Labs, IRL.
+
+270
+00:12:35,447 --> 00:12:38,019
+Look at that view.
+
+271
+00:12:38,022 --> 00:12:39,480
+I want to run some tests.
+
+272
+00:12:39,483 --> 00:12:42,484
+Make sure everything
+is all right with you.
+
+273
+00:12:42,487 --> 00:12:45,988
+This city is so beautiful.
+
+274
+00:12:47,959 --> 00:12:50,393
+The sunsets here.
+
+275
+00:12:50,395 --> 00:12:52,332
+I used to think about them all the time.
+
+276
+00:12:52,335 --> 00:12:54,397
+Hey, maybe you guys should just
+
+277
+00:12:54,399 --> 00:12:55,731
+go for a walk or something.
+
+278
+00:12:55,733 --> 00:12:58,301
+Try and reconnect first.
+
+279
+00:12:58,303 --> 00:13:00,002
+Yeah.
+
+280
+00:13:00,004 --> 00:13:02,705
+Um, why don't we go for a walk?
+
+281
+00:13:02,707 --> 00:13:04,340
+Get some fresh air.
+
+282
+00:13:04,342 --> 00:13:05,975
+I can run my tests later.
+
+283
+00:13:05,977 --> 00:13:07,577
+I love that plan.
+
+284
+00:13:14,686 --> 00:13:15,863
+What's up with you?
+
+285
+00:13:15,866 --> 00:13:18,153
+Dude, this story is full of holes.
+
+286
+00:13:18,156 --> 00:13:19,355
+I'm just trying to fill them.
+
+287
+00:13:19,357 --> 00:13:21,190
+Nora's story had holes in them,
+
+288
+00:13:21,192 --> 00:13:23,726
+and she was only lying to me
+'cause she wanted to meet me.
+
+289
+00:13:23,728 --> 00:13:26,395
+I've appreciated every second
+that we've had together so far.
+
+290
+00:13:26,397 --> 00:13:29,632
+Caitlin just got her dad back.
+
+291
+00:13:29,634 --> 00:13:30,733
+Let's be happy for her.
+
+292
+00:13:30,735 --> 00:13:33,469
+Hey, I'm happy.
+
+293
+00:13:42,780 --> 00:13:44,947
+So what are we doing first?
+
+294
+00:13:44,949 --> 00:13:48,050
+Uh, well, you're a speedster.
+
+295
+00:13:48,052 --> 00:13:51,787
+So I was thinking you
+could run around the site.
+
+296
+00:13:51,789 --> 00:13:53,472
+See if you can find the core.
+
+297
+00:13:53,475 --> 00:13:55,557
+I thought, since it's
+our first time teaming up,
+
+298
+00:13:55,560 --> 00:13:58,528
+maybe I could go with you and
+we can interview the people
+
+299
+00:13:58,530 --> 00:14:00,556
+who were here the night of
+the Enlightenment together.
+
+300
+00:14:00,558 --> 00:14:03,366
+Oh, um, uh...
+
+301
+00:14:03,368 --> 00:14:04,600
+- Or no.
+- No, no, no.
+
+302
+00:14:04,602 --> 00:14:06,302
+Yeah, it's just...
+
+303
+00:14:06,304 --> 00:14:09,405
+Normally, I interview people by myself.
+
+304
+00:14:09,407 --> 00:14:12,082
+Oh, oh, my God. No, no. It's fine.
+
+305
+00:14:12,085 --> 00:14:14,451
+It's... I wouldn't ask you
+to come speed around the city
+
+306
+00:14:14,454 --> 00:14:15,920
+with me or anything like that.
+
+307
+00:14:15,923 --> 00:14:17,398
+- It's fine.
+- Okay, well, I'll...
+
+308
+00:14:17,401 --> 00:14:19,702
+- No, no, no. You come with me...
+- I'll come with you, okay.
+
+309
+00:14:19,704 --> 00:14:21,113
+And we'll interview the foreman.
+
+310
+00:14:21,116 --> 00:14:22,699
+All right, let's not. How about that?
+
+311
+00:14:22,702 --> 00:14:25,120
+Look, we have 45 more sites to search.
+
+312
+00:14:25,123 --> 00:14:27,700
+Clearly we don't have the time
+and clearly we must split up.
+
+313
+00:14:27,703 --> 00:14:30,792
+So you go search for the core
+and you go talk to the foreman.
+
+314
+00:14:30,795 --> 00:14:32,395
+I will look for clues.
+
+315
+00:14:35,995 --> 00:14:38,196
+And this is how investigations collapse.
+
+316
+00:14:38,199 --> 00:14:39,855
+Hey, babe.
+
+317
+00:14:39,858 --> 00:14:42,933
+No, the mother-daughter team-up
+is kinda off to a rocky start.
+
+318
+00:14:42,936 --> 00:14:44,431
+But I don't know, I
+think we'll get there.
+
+319
+00:14:44,433 --> 00:14:45,608
+So?
+
+320
+00:14:45,610 --> 00:14:47,410
+- The core's not here.
+- Well...
+
+321
+00:14:47,412 --> 00:14:48,911
+why don't you go search the other sites?
+
+322
+00:14:48,913 --> 00:14:50,479
+We'll finish up here.
+
+323
+00:14:52,317 --> 00:14:54,617
+Well, no, you don't want
+to do that, do you, no?
+
+324
+00:14:54,619 --> 00:14:58,355
+Because, um, you're not
+here to investigate, are you?
+
+325
+00:14:58,358 --> 00:15:00,456
+No, you're here to spend
+time with your mother, right?
+
+326
+00:15:00,458 --> 00:15:02,325
+Well, I just thought maybe
+we would find something
+
+327
+00:15:02,327 --> 00:15:04,571
+in common if we worked
+on a case together.
+
+328
+00:15:04,574 --> 00:15:07,830
+But she's really good at prying
+information out of people.
+
+329
+00:15:07,832 --> 00:15:09,966
+Believe me, and...
+
+330
+00:15:09,968 --> 00:15:13,269
+I'm fast on my feet.
+
+331
+00:15:13,271 --> 00:15:14,804
+I'm gonna go back to S.T.A.R. labs.
+
+332
+00:15:14,806 --> 00:15:16,572
+Hold on, wait.
+
+333
+00:15:16,574 --> 00:15:19,609
+I have another plan to
+try and find this core.
+
+334
+00:15:19,611 --> 00:15:21,944
+It involves you and your mother.
+
+335
+00:15:26,944 --> 00:15:29,951
+So, uh, cherry soda. Popcorn.
+
+336
+00:15:29,954 --> 00:15:33,456
+I haven't had a cup of Jitters
+coffee in quite a while.
+
+337
+00:15:33,458 --> 00:15:36,959
+But the thing that
+I miss the most was...
+
+338
+00:15:36,961 --> 00:15:39,195
+Peanut butter and jelly waffles.
+
+339
+00:15:39,197 --> 00:15:41,964
+Yeah, Mom used to hate
+it when you made those.
+
+340
+00:15:41,966 --> 00:15:44,160
+Yeah, well, your mom always wanted
+
+341
+00:15:44,163 --> 00:15:47,402
+the nicer things in life, I guess,
+
+342
+00:15:47,405 --> 00:15:50,006
+and I was happy with simple.
+
+343
+00:15:50,008 --> 00:15:53,409
+It's a wonder you two ever got together.
+
+344
+00:15:53,411 --> 00:15:55,402
+- How is she?
+- The same.
+
+345
+00:15:55,405 --> 00:15:56,808
+I don't really see her that often,
+
+346
+00:15:56,811 --> 00:15:59,214
+and when I do, she's cold as ice.
+
+347
+00:15:59,217 --> 00:16:01,368
+And now, after what she did to you...
+
+348
+00:16:01,371 --> 00:16:03,019
+Oh, well, look,
+
+349
+00:16:03,021 --> 00:16:06,363
+she may be a little bit chilly,
+but she does love you, Caity.
+
+350
+00:16:06,366 --> 00:16:08,057
+It's been really hard without you.
+
+351
+00:16:08,059 --> 00:16:11,027
+I mean, just me and her.
+
+352
+00:16:11,029 --> 00:16:12,595
+It was tough.
+
+353
+00:16:12,597 --> 00:16:15,031
+- Yeah.
+- I've been through a lot.
+
+354
+00:16:15,033 --> 00:16:17,652
+A lot of that has to do with me.
+
+355
+00:16:17,655 --> 00:16:19,200
+- No.
+- No, no, listen,
+
+356
+00:16:19,203 --> 00:16:21,203
+and... and I wasn't there for you.
+
+357
+00:16:21,205 --> 00:16:23,339
+All these years... They went by and I...
+
+358
+00:16:23,341 --> 00:16:25,074
+I want to make it up to you, Caity.
+
+359
+00:16:25,076 --> 00:16:27,677
+I mean, I really should've
+been there for you, right?
+
+360
+00:16:27,679 --> 00:16:29,774
+I mean... and I wish
+that I could just...
+
+361
+00:16:29,777 --> 00:16:31,681
+Dad? Oh, my God.
+
+362
+00:16:31,683 --> 00:16:34,016
+Dad. Here, sit.
+
+363
+00:16:34,018 --> 00:16:35,584
+Oh, my God. Dad?
+
+364
+00:16:35,586 --> 00:16:38,287
+Dad, Dad.
+
+365
+00:16:50,084 --> 00:16:51,283
+Caity?
+
+366
+00:16:51,286 --> 00:16:53,591
+Dad? I'm right here.
+
+367
+00:16:56,362 --> 00:16:59,764
+You saw my disease?
+
+368
+00:16:59,766 --> 00:17:04,869
+Yeah, uh... the dermis is crystallizing.
+
+369
+00:17:04,871 --> 00:17:06,470
+And it's spreading.
+
+370
+00:17:06,472 --> 00:17:09,106
+I ran some tests while
+you were unconscious.
+
+371
+00:17:09,108 --> 00:17:11,509
+You have a cryogenic malignancy
+
+372
+00:17:11,511 --> 00:17:13,544
+and a somatic mutation.
+
+373
+00:17:13,546 --> 00:17:15,219
+It's not contagious but...
+
+374
+00:17:15,222 --> 00:17:17,014
+It's rewriting my genetic code.
+
+375
+00:17:17,016 --> 00:17:19,583
+And if it continues, you could...
+
+376
+00:17:19,585 --> 00:17:20,785
+Die.
+
+377
+00:17:22,689 --> 00:17:25,923
+Well, I cured my ALS,
+
+378
+00:17:25,925 --> 00:17:29,203
+but I created something
+even more deadly.
+
+379
+00:17:29,206 --> 00:17:32,862
+Every time my emotions
+spike, my malignancy spreads.
+
+380
+00:17:32,865 --> 00:17:35,499
+Like when you're angry or scared?
+
+381
+00:17:35,501 --> 00:17:37,635
+I wish I had just
+left well enough alone.
+
+382
+00:17:37,637 --> 00:17:39,937
+For both of us.
+
+383
+00:17:39,939 --> 00:17:44,775
+Wait, did I have the
+genetic marker for ALS too
+
+384
+00:17:44,777 --> 00:17:46,539
+and you tried to cure me?
+
+385
+00:17:46,542 --> 00:17:50,013
+So my powers came from you?
+
+386
+00:17:50,016 --> 00:17:51,882
+Killer Frost is my cure?
+
+387
+00:17:51,884 --> 00:17:53,078
+Killer Frost?
+
+388
+00:17:53,081 --> 00:17:54,859
+You may know her by a different name.
+
+389
+00:17:54,862 --> 00:17:56,125
+Khione.
+
+390
+00:17:56,128 --> 00:17:57,664
+Dad, what did you do to me?
+
+391
+00:17:57,667 --> 00:18:00,527
+I wasn't gonna let
+the ALS manifest in you
+
+392
+00:18:00,530 --> 00:18:01,867
+like it did in me.
+
+393
+00:18:01,870 --> 00:18:05,829
+So you used experiments
+with cryogenic gene therapy
+
+394
+00:18:05,832 --> 00:18:07,098
+on your own daughter?
+
+395
+00:18:07,100 --> 00:18:09,400
+I had already done it on myself.
+
+396
+00:18:09,402 --> 00:18:13,371
+Caity, I made alterations
+to the treatment.
+
+397
+00:18:13,373 --> 00:18:15,239
+I tried to make it safer, Caity,
+
+398
+00:18:15,241 --> 00:18:17,942
+and you started to
+exhibit dual personality
+
+399
+00:18:17,944 --> 00:18:20,586
+soon after I treated you.
+
+400
+00:18:20,589 --> 00:18:25,849
+So is, um, Khione or Killer Frost...
+
+401
+00:18:25,852 --> 00:18:27,318
+Is she still around?
+
+402
+00:18:27,320 --> 00:18:30,254
+No, she... she's been
+gone for a little while,
+
+403
+00:18:30,256 --> 00:18:31,889
+but she's still a part of me.
+
+404
+00:18:33,493 --> 00:18:36,293
+So where's your dual personality?
+
+405
+00:18:36,295 --> 00:18:38,496
+You and Caitlin carry the same markers,
+
+406
+00:18:38,498 --> 00:18:40,698
+you took the same cure.
+
+407
+00:18:40,700 --> 00:18:42,733
+Where your Khione?
+
+408
+00:18:42,735 --> 00:18:46,003
+I never had one.
+
+409
+00:18:46,005 --> 00:18:49,774
+That's probably why...
+
+410
+00:18:49,776 --> 00:18:51,942
+I'm dying and you're not.
+
+411
+00:18:51,944 --> 00:18:55,780
+Okay, what if we use my
+cells to create a serum
+
+412
+00:18:55,782 --> 00:18:57,261
+to stabilize your body?
+
+413
+00:18:57,264 --> 00:18:59,616
+Um, we have to stop your
+atoms from oscillating.
+
+414
+00:18:59,619 --> 00:19:02,453
+So get your body to a
+temperature of absolute zero.
+
+415
+00:19:02,455 --> 00:19:03,888
+Caitlin, that could kill him.
+
+416
+00:19:03,890 --> 00:19:05,823
+My cells can theoretically
+
+417
+00:19:05,825 --> 00:19:08,092
+withstand subzero temperatures
+
+418
+00:19:08,094 --> 00:19:10,327
+because of my cryogenic gene therapy.
+
+419
+00:19:10,329 --> 00:19:15,065
+But the problem is
+getting to absolute zero.
+
+420
+00:19:15,067 --> 00:19:17,468
+We could use a laser cooling array.
+
+421
+00:19:17,470 --> 00:19:18,983
+The DOD just constructed one
+
+422
+00:19:18,986 --> 00:19:20,190
+at their site outside of town.
+
+423
+00:19:20,193 --> 00:19:21,520
+- I could check it out.
+- Okay, great.
+
+424
+00:19:21,522 --> 00:19:22,853
+I'll get started on the serum.
+
+425
+00:19:22,856 --> 00:19:25,608
+No, no, wait. Hold on.
+
+426
+00:19:25,611 --> 00:19:27,578
+We... we can't just hack into
+
+427
+00:19:27,580 --> 00:19:30,114
+the DOD's $5 billion security system.
+
+428
+00:19:33,152 --> 00:19:35,619
+Cisco.
+
+429
+00:19:35,621 --> 00:19:39,156
+I just got my dad back.
+I can't let him die.
+
+430
+00:19:41,727 --> 00:19:43,427
+I'll see what I can do.
+
+431
+00:19:47,400 --> 00:19:50,100
+It's the fifth person to
+be sliced up this week.
+
+432
+00:19:50,102 --> 00:19:53,604
+Take him to OR Three.
+
+433
+00:20:09,722 --> 00:20:12,623
+Oh, my God. What happened to you?
+
+434
+00:20:12,625 --> 00:20:15,159
+- I'm fine.
+- I need to stitch that up.
+
+435
+00:20:15,161 --> 00:20:17,528
+You've got abrasions,
+possible internal injuries.
+
+436
+00:20:17,530 --> 00:20:18,624
+You keep going out there,
+
+437
+00:20:18,627 --> 00:20:20,294
+you're gonna be back here in a body bag.
+
+438
+00:20:20,297 --> 00:20:23,991
+You can't be a part of this.
+
+439
+00:20:23,994 --> 00:20:25,593
+Do you know how many patients I've seen
+
+440
+00:20:25,596 --> 00:20:27,171
+come in this hospital
+the past four years
+
+441
+00:20:27,173 --> 00:20:28,819
+because of those metas out there?
+
+442
+00:20:28,822 --> 00:20:30,290
+I just treated a man who was attacked by
+
+443
+00:20:30,292 --> 00:20:31,831
+a human razor blade, and you wanna say
+
+444
+00:20:31,834 --> 00:20:32,796
+I'm not a part of this?
+
+445
+00:20:32,799 --> 00:20:34,373
+Oh, I got that razor meta.
+
+446
+00:20:34,376 --> 00:20:36,709
+Just like I'll get the rest of them.
+
+447
+00:20:36,712 --> 00:20:38,882
+I know why you're doing this.
+
+448
+00:20:38,885 --> 00:20:40,884
+And I know that little
+girl laying in a coma
+
+449
+00:20:40,887 --> 00:20:43,387
+is not my family, but
+you are not the only one
+
+450
+00:20:43,389 --> 00:20:45,222
+whose heart breaks every
+day she doesn't wake up.
+
+451
+00:20:45,224 --> 00:20:50,499
+Grace is the one that
+needs help. Not me.
+
+452
+00:20:50,502 --> 00:20:53,469
+Now, are you gonna
+get out of my way, Doc?
+
+453
+00:20:53,472 --> 00:20:56,574
+Or are you gonna call security?
+
+454
+00:21:06,178 --> 00:21:08,522
+What the heck happened back there?
+
+455
+00:21:08,525 --> 00:21:09,958
+I froze up.
+
+456
+00:21:12,190 --> 00:21:13,356
+Look.
+
+457
+00:21:13,359 --> 00:21:15,192
+When I got canned from CCPD,
+
+458
+00:21:15,195 --> 00:21:19,731
+I fell in with some legally
+questionable individuals.
+
+459
+00:21:19,734 --> 00:21:22,257
+These are some scary, scary people,
+
+460
+00:21:22,260 --> 00:21:25,094
+but they all had one thing in common.
+
+461
+00:21:25,097 --> 00:21:29,567
+They were all terrified of
+Ce-Seal-Your-Fate Horton.
+
+462
+00:21:29,569 --> 00:21:31,268
+And I don't believe for one second that
+
+463
+00:21:31,270 --> 00:21:33,585
+that woman has gone anywhere.
+
+464
+00:21:35,708 --> 00:21:37,408
+Don't ever call me that again.
+
+465
+00:21:37,410 --> 00:21:40,155
+I'm sorry. Geez. I thought
+I... I thought we were bonding
+
+466
+00:21:40,158 --> 00:21:42,979
+and having a moment, but
+I think I crossed the line.
+
+467
+00:21:42,982 --> 00:21:44,381
+I didn't really mean to...
+
+468
+00:21:44,383 --> 00:21:47,280
+I'm kidding. It's a joke. I was joking.
+
+469
+00:21:47,283 --> 00:21:49,252
+My gosh, I really got you.
+
+470
+00:21:49,255 --> 00:21:51,310
+You didn't have to get
+so nervous about it.
+
+471
+00:21:51,313 --> 00:21:55,452
+Nervous. Like the FEMA guy did.
+
+472
+00:21:55,455 --> 00:21:59,063
+Ralph, I don't think
+I froze up back there.
+
+473
+00:21:59,065 --> 00:22:02,132
+Right. Right, you're...
+You're an empath now.
+
+474
+00:22:02,134 --> 00:22:04,239
+Your powers let you experience his fear.
+
+475
+00:22:04,242 --> 00:22:06,462
+You're... you're the
+Deanna Troi of Team Flash.
+
+476
+00:22:06,465 --> 00:22:08,631
+I have no idea who that is,
+but if he got that scared
+
+477
+00:22:08,634 --> 00:22:10,499
+when we asked him about
+the victims list...
+
+478
+00:22:10,502 --> 00:22:12,009
+It's because he's hiding something.
+
+479
+00:22:12,011 --> 00:22:13,510
+Yes.
+
+480
+00:22:13,512 --> 00:22:14,708
+Whoa, whoa. What's, uh,
+
+481
+00:22:14,711 --> 00:22:16,812
+what's happening with
+your nose right now?
+
+482
+00:22:16,815 --> 00:22:19,413
+Oh, when I smell a mystery,
+that's my thing. I do that.
+
+483
+00:22:19,416 --> 00:22:21,284
+- That's nasty.
+- It is? You don't...
+
+484
+00:22:21,287 --> 00:22:23,420
+- Please stop.
+- You don't like it?
+
+485
+00:22:23,422 --> 00:22:27,091
+♪ C'est l'aviron qui nous
+mène, qui nous mène ♪
+
+486
+00:22:27,093 --> 00:22:30,928
+♪ C'est l'aviron qui nous mène en haut ♪
+
+487
+00:22:30,930 --> 00:22:34,264
+♪ C'est l'aviron qui nous
+mène, qui nous mène ♪
+
+488
+00:22:34,266 --> 00:22:37,334
+♪ C'est l'aviron qui nous mène en haut ♪
+
+489
+00:22:37,336 --> 00:22:40,971
+He has been singing that same
+song for the last two hours.
+
+490
+00:22:40,973 --> 00:22:41,860
+I know, I know.
+
+491
+00:22:41,863 --> 00:22:44,307
+Are you seriously making tea right now?
+
+492
+00:22:44,310 --> 00:22:46,744
+Le thé. Oui. Right, chamomile.
+
+493
+00:22:46,746 --> 00:22:49,346
+You know, to stimulate the
+brain, but also, frankly,
+
+494
+00:22:49,348 --> 00:22:51,081
+the digestive system.
+
+495
+00:22:51,083 --> 00:22:53,417
+Right, because since
+I've arrived at here,
+
+496
+00:22:53,419 --> 00:22:55,285
+I've been backed up like a traffic jam.
+
+497
+00:22:55,287 --> 00:22:57,640
+That is so disgusting.
+Beyond disgusting.
+
+498
+00:22:57,643 --> 00:22:59,522
+How are we supposed to investigate
+
+499
+00:22:59,525 --> 00:23:01,392
+when you're making tea, Sherloque?
+
+500
+00:23:01,394 --> 00:23:03,494
+Well, you seem very
+annoyed, mademoiselle.
+
+501
+00:23:03,496 --> 00:23:05,829
+- No shrap, Sherlock.
+- Sherloque.
+
+502
+00:23:05,831 --> 00:23:08,832
+Sorry for the language, Mom.
+
+503
+00:23:08,834 --> 00:23:10,534
+It's okay.
+
+504
+00:23:10,536 --> 00:23:12,304
+Hey, look.
+
+505
+00:23:12,307 --> 00:23:15,240
+There was a carnival the
+night the satellite crashed.
+
+506
+00:23:15,243 --> 00:23:17,508
+If my dad is right about Cicada
+being a father, then maybe...
+
+507
+00:23:17,510 --> 00:23:18,809
+He might've brought his kid here.
+
+508
+00:23:18,811 --> 00:23:21,145
+- Exactly.
+- But, I mean, I ran all over this place.
+
+509
+00:23:21,147 --> 00:23:22,484
+There's no core in sight.
+
+510
+00:23:22,487 --> 00:23:25,715
+♪ C'est l'aviron qui nous
+mène, qui nous mène ♪
+
+511
+00:23:27,253 --> 00:23:28,812
+What if...
+
+512
+00:23:28,815 --> 00:23:30,720
+The core fell into the water.
+
+513
+00:23:30,723 --> 00:23:32,132
+How you will retrieve it?
+
+514
+00:23:32,135 --> 00:23:34,390
+Nora, why don't you create
+a vortex like your dad did
+
+515
+00:23:34,393 --> 00:23:35,422
+when he fought King Shark?
+
+516
+00:23:35,424 --> 00:23:38,194
+Oh, no, or what if we do
+what you did with the Hotness?
+
+517
+00:23:38,197 --> 00:23:39,445
+You know about that?
+
+518
+00:23:39,448 --> 00:23:41,798
+Yeah, of course. I made Papa
+Joe tell me everything about
+
+519
+00:23:41,801 --> 00:23:43,534
+when my mom was a speedster.
+
+520
+00:23:43,536 --> 00:23:45,402
+So how do we do it?
+
+521
+00:23:45,404 --> 00:23:47,304
+Um...
+
+522
+00:23:47,306 --> 00:23:51,218
+Well, you just, um... you
+run back and forth in a...
+
+523
+00:23:51,221 --> 00:23:52,539
+In a really tight formation.
+
+524
+00:23:52,542 --> 00:23:54,750
+And you want to pull the
+water up with your heels.
+
+525
+00:23:54,753 --> 00:23:57,081
+Okay, right, which will drive
+the water away from the shore.
+
+526
+00:23:57,083 --> 00:23:58,082
+Exactly.
+
+527
+00:23:58,084 --> 00:24:00,084
+- Schway.
+- Yeah.
+
+528
+00:24:00,086 --> 00:24:01,685
+Do you think I can do it?
+
+529
+00:24:01,687 --> 00:24:03,787
+Yeah, Nora, you got this.
+
+530
+00:24:03,789 --> 00:24:04,822
+Okay.
+
+531
+00:24:10,429 --> 00:24:11,687
+Four satellites?
+
+532
+00:24:11,690 --> 00:24:13,730
+Give them to Cisco. He's got 'em.
+
+533
+00:24:13,733 --> 00:24:18,102
+DOD sites? There you go.
+All in a day's work for him.
+
+534
+00:24:18,104 --> 00:24:20,604
+You all think I can
+just hack anything, huh?
+
+535
+00:24:29,882 --> 00:24:31,814
+Yeah.
+
+536
+00:24:31,817 --> 00:24:33,751
+I can hack anything.
+
+537
+00:24:40,292 --> 00:24:42,760
+There you are.
+
+538
+00:24:42,762 --> 00:24:45,062
+Oh!
+
+539
+00:25:15,876 --> 00:25:17,676
+Found a path into the DOD base.
+
+540
+00:25:17,678 --> 00:25:20,751
+As long as Cisco can shut down
+the interior alarms, it'll work.
+
+541
+00:25:20,754 --> 00:25:22,314
+Awesome. I just need
+to balance this serum
+
+542
+00:25:22,316 --> 00:25:23,648
+and we should be good to go.
+
+543
+00:25:23,650 --> 00:25:25,216
+Thank you for this, Caity.
+
+544
+00:25:25,218 --> 00:25:27,915
+I mean, what you're
+doing is beyond the call.
+
+545
+00:25:27,918 --> 00:25:29,287
+Of course, you're my dad.
+
+546
+00:25:29,289 --> 00:25:31,222
+I'd do anything for you.
+
+547
+00:25:31,224 --> 00:25:33,158
+He's not your dad.
+
+548
+00:25:35,696 --> 00:25:37,128
+Look familiar?
+
+549
+00:25:40,167 --> 00:25:42,534
+Cisco. What are you talking about?
+
+550
+00:25:42,536 --> 00:25:45,670
+This is my father.
+
+551
+00:25:45,672 --> 00:25:48,506
+I went back to the
+Tannhauser black ops site,
+
+552
+00:25:48,508 --> 00:25:49,941
+and I picked up a vibe.
+
+553
+00:25:49,943 --> 00:25:51,810
+I saw him working in the lab...
+
+554
+00:25:51,812 --> 00:25:54,185
+Cisco, your vibes have
+been a little problematic...
+
+555
+00:25:54,188 --> 00:25:57,115
+I know what I saw. I saw him
+standing over the incubator,
+
+556
+00:25:57,117 --> 00:25:58,850
+the one he claimed he had no use for,
+
+557
+00:25:58,852 --> 00:26:00,219
+and he was working on this.
+
+558
+00:26:00,222 --> 00:26:02,915
+Skin grafts? What does this
+have to do with anything?
+
+559
+00:26:02,918 --> 00:26:05,516
+This is gonna sound whacked-out,
+
+560
+00:26:05,519 --> 00:26:09,259
+but what if, when you
+dad tried to cure his ALS,
+
+561
+00:26:09,262 --> 00:26:11,696
+it didn't just give
+him crystallized skin?
+
+562
+00:26:11,698 --> 00:26:15,279
+What if it really did
+create that dual personality?
+
+563
+00:26:15,282 --> 00:26:18,336
+- This Killer Frost?
+- That's who you think this is?
+
+564
+00:26:18,338 --> 00:26:21,039
+Thomas' alter ego
+wearing a copy of his face
+
+565
+00:26:21,041 --> 00:26:22,258
+made out of these skin grafts?
+
+566
+00:26:22,261 --> 00:26:25,275
+Yes, I know. I know it-it sounds...
+
+567
+00:26:25,278 --> 00:26:27,912
+It sounds absurd, but I can see where
+
+568
+00:26:27,914 --> 00:26:30,782
+Mr. Ramon is getting his hypothesis.
+
+569
+00:26:30,784 --> 00:26:36,388
+My, uh, cryo-malignancy
+spread further than I admitted,
+
+570
+00:26:36,390 --> 00:26:41,149
+and it's afflicted my face,
+my hands, my arms, my chest.
+
+571
+00:26:41,152 --> 00:26:43,761
+And I created those skin
+grafts from stem cells
+
+572
+00:26:43,764 --> 00:26:44,899
+that I found in the lab
+
+573
+00:26:44,902 --> 00:26:47,264
+in order to cover any further outbreaks.
+
+574
+00:26:47,267 --> 00:26:48,440
+You're lying to us.
+
+575
+00:26:48,443 --> 00:26:50,200
+- Cisco...
+- Caitlyn, you have to see...
+
+576
+00:26:50,203 --> 00:26:52,070
+No, you need to leave us alone.
+
+577
+00:26:52,072 --> 00:26:54,105
+- Please...
+- Now!
+
+578
+00:27:01,248 --> 00:27:03,882
+I got it.
+
+579
+00:27:03,884 --> 00:27:06,084
+Dude. Hey dude, we need to talk.
+
+580
+00:27:06,086 --> 00:27:08,987
+Why? I thought that dramatic
+confrontation worked perfectly.
+
+581
+00:27:08,989 --> 00:27:10,899
+- We all want to help Caitlin.
+- Oh, do you?
+
+582
+00:27:10,902 --> 00:27:13,058
+Yeah, I want Caitlin to have
+a chance to be with her father.
+
+583
+00:27:13,060 --> 00:27:15,044
+Just like Nora got the
+chance to be with you?
+
+584
+00:27:15,047 --> 00:27:16,561
+See, this is your problem.
+
+585
+00:27:16,563 --> 00:27:18,596
+You think that this
+is just another perfect
+
+586
+00:27:18,598 --> 00:27:20,665
+father-daughter pairing, reunited.
+
+587
+00:27:20,667 --> 00:27:22,329
+I'm not blinded by my feelings.
+
+588
+00:27:22,332 --> 00:27:24,069
+Well, they're not helping
+you see any clearer.
+
+589
+00:27:24,071 --> 00:27:26,271
+You gotta stop thinking
+about this like Nora's dad
+
+590
+00:27:26,273 --> 00:27:28,506
+and start thinking about it like a CSI.
+
+591
+00:27:28,508 --> 00:27:30,975
+Please?
+
+592
+00:27:30,977 --> 00:27:33,445
+Don't do it for me. Do it for her.
+
+593
+00:27:44,291 --> 00:27:46,391
+Didn't I tell you to get lost?
+
+594
+00:27:46,394 --> 00:27:48,325
+Yes, you did. Thanks for that.
+
+595
+00:27:48,328 --> 00:27:50,261
+Gave us time to pull your file.
+
+596
+00:27:50,263 --> 00:27:53,465
+You don't have any priors,
+but I did find about
+
+597
+00:27:53,467 --> 00:27:55,633
+a dozen outstanding
+parking tickets, though.
+
+598
+00:27:55,635 --> 00:27:56,657
+Oh, no.
+
+599
+00:27:56,660 --> 00:27:58,902
+For, uh, what was it? It was, um...
+
+600
+00:27:58,905 --> 00:28:01,106
+Oh, yeah, a Lamborghini.
+
+601
+00:28:01,108 --> 00:28:03,942
+Hmm. Vroom, vroom.
+
+602
+00:28:03,944 --> 00:28:08,079
+How does a civil servant
+afford a $200,000 car?
+
+603
+00:28:08,081 --> 00:28:10,540
+- Okay, I'm calling security.
+- Please do.
+
+604
+00:28:10,543 --> 00:28:12,922
+I can't wait to report a
+case of insurance fraud.
+
+605
+00:28:12,925 --> 00:28:15,252
+You've been telling citizens
+their claims have been denied
+
+606
+00:28:15,255 --> 00:28:16,855
+and then pocketing the cash for yourself
+
+607
+00:28:16,857 --> 00:28:18,071
+when the government pays up.
+
+608
+00:28:18,074 --> 00:28:20,657
+That's why this FEMA center's
+emptier than Grandma's whiskey
+
+609
+00:28:20,660 --> 00:28:21,960
+at a Dibny Christmas dinner.
+
+610
+00:28:21,962 --> 00:28:24,129
+You can't prove any of this.
+
+611
+00:28:24,131 --> 00:28:25,630
+Try me.
+
+612
+00:28:28,835 --> 00:28:30,219
+That's everyone.
+
+613
+00:28:30,222 --> 00:28:32,971
+Names, addresses, location
+the night of the crash.
+
+614
+00:28:32,973 --> 00:28:36,074
+So... this is gonna stay between us?
+
+615
+00:28:36,076 --> 00:28:38,843
+You've been profiting
+off of innocent victims.
+
+616
+00:28:38,845 --> 00:28:40,545
+You know I put a call
+into your superiors
+
+617
+00:28:40,547 --> 00:28:42,814
+in D.C. 20 minutes ago.
+
+618
+00:28:42,816 --> 00:28:44,949
+I got my groove back, Vancey.
+
+619
+00:28:44,951 --> 00:28:47,819
+That's how I know it's you
+that's scared and not me.
+
+620
+00:28:47,821 --> 00:28:50,155
+Now there's the old
+Ce-Seal-Your-Fate Horton
+
+621
+00:28:50,157 --> 00:28:51,723
+- we all know and love.
+- Hmm, great.
+
+622
+00:28:51,725 --> 00:28:52,991
+Hmm.
+
+623
+00:29:51,184 --> 00:29:53,017
+Hey.
+
+624
+00:29:53,019 --> 00:29:55,833
+If you came to defend
+Cisco, please don't bother.
+
+625
+00:29:55,836 --> 00:29:57,704
+He just cares about you.
+
+626
+00:29:57,707 --> 00:29:58,978
+Come on, don't you think I wouldn't know
+
+627
+00:29:58,980 --> 00:30:00,813
+if that wasn't actually my father?
+
+628
+00:30:02,896 --> 00:30:04,462
+You too? Really?
+
+629
+00:30:04,464 --> 00:30:08,099
+Listen, I wanted to
+believe that that's your dad
+
+630
+00:30:08,101 --> 00:30:10,568
+and that he's a good guy
+because I want you to be happy.
+
+631
+00:30:10,570 --> 00:30:12,937
+But I don't... I don't know.
+
+632
+00:30:12,939 --> 00:30:14,906
+Maybe I haven't been seeing clearly.
+
+633
+00:30:14,908 --> 00:30:17,475
+There is a lot about this
+guy's story that doesn't add up.
+
+634
+00:30:17,477 --> 00:30:20,245
+This guy? This guy is my father.
+
+635
+00:30:20,247 --> 00:30:22,513
+He's the man who held
+me when I had chickenpox.
+
+636
+00:30:22,515 --> 00:30:24,482
+Who told me I could
+be anything I wanted to
+
+637
+00:30:24,484 --> 00:30:26,484
+and made me believe it.
+
+638
+00:30:26,486 --> 00:30:29,454
+So please stop treating
+him like he's a criminal.
+
+639
+00:30:29,456 --> 00:30:31,322
+Okay.
+
+640
+00:30:31,324 --> 00:30:33,691
+You know how estranged
+I am from my mother
+
+641
+00:30:33,693 --> 00:30:37,729
+and how empty I felt
+without Killer Frost.
+
+642
+00:30:37,731 --> 00:30:41,266
+He is the only family that I have left.
+
+643
+00:30:41,268 --> 00:30:44,836
+But Caitlin, that's not
+true. We're your family too.
+
+644
+00:30:44,838 --> 00:30:48,036
+And we're only asking
+you to keep an open mind
+
+645
+00:30:48,039 --> 00:30:49,973
+because we care about you.
+
+646
+00:30:49,976 --> 00:30:51,676
+Especially Cisco.
+
+647
+00:30:55,916 --> 00:30:57,315
+If it'll make you feel better,
+
+648
+00:30:57,317 --> 00:30:58,583
+you can ask him your questions,
+
+649
+00:30:58,585 --> 00:31:00,852
+but only after I give him the serum.
+
+650
+00:31:03,823 --> 00:31:05,623
+- What's wrong?
+- Oh, my God.
+
+651
+00:31:05,625 --> 00:31:06,858
+What?
+
+652
+00:31:08,695 --> 00:31:11,429
+If I give this serum to a human,
+
+653
+00:31:11,431 --> 00:31:13,998
+it will suppress their malignant side.
+
+654
+00:31:14,000 --> 00:31:17,468
+But if I give it to a
+cryogenic meta-human,
+
+655
+00:31:17,470 --> 00:31:19,904
+it will permanently
+suppress their human side.
+
+656
+00:31:19,906 --> 00:31:21,639
+If that's your father's alter ego...
+
+657
+00:31:21,641 --> 00:31:23,041
+He's trying to wipe out my dad.
+
+658
+00:31:23,043 --> 00:31:25,376
+He needed your cells to make the serum.
+
+659
+00:31:27,347 --> 00:31:30,248
+"Caitlin, come find me."
+
+660
+00:31:33,753 --> 00:31:35,253
+Caity.
+
+661
+00:31:35,255 --> 00:31:36,421
+What's going on?
+
+662
+00:31:36,423 --> 00:31:39,424
+Dad, why?
+
+663
+00:31:39,426 --> 00:31:44,495
+Well... I guess, as you're all here...
+
+664
+00:31:48,501 --> 00:31:51,703
+You have such smart friends, Caity.
+
+665
+00:31:55,976 --> 00:31:57,709
+That frozen liquid in your lungs
+
+666
+00:31:57,711 --> 00:32:00,578
+is gonna be turning into tiny icicles.
+
+667
+00:32:00,580 --> 00:32:03,481
+Making it very difficult
+for you to breathe.
+
+668
+00:32:03,483 --> 00:32:05,984
+But no worries.
+
+669
+00:32:05,986 --> 00:32:08,353
+You'll pass out soon.
+
+670
+00:32:23,955 --> 00:32:26,188
+Caitlin. Hey!
+
+671
+00:32:26,190 --> 00:32:28,791
+Caitlin, wake up.
+
+672
+00:32:28,793 --> 00:32:31,160
+- Hey, are you okay?
+- Yeah, yeah, I'm okay.
+
+673
+00:32:31,162 --> 00:32:32,795
+Um, is my dad gone?
+
+674
+00:32:32,797 --> 00:32:34,296
+He took the serum.
+
+675
+00:32:34,298 --> 00:32:35,731
+This is all my fault.
+
+676
+00:32:35,733 --> 00:32:37,500
+I was so excited to have my dad back
+
+677
+00:32:37,502 --> 00:32:40,136
+that I... I couldn't
+see who he really was.
+
+678
+00:32:40,138 --> 00:32:42,004
+I owe you both an apology.
+
+679
+00:32:42,006 --> 00:32:45,207
+Hey, it's okay.
+
+680
+00:32:45,209 --> 00:32:47,176
+We'll get him.
+
+681
+00:32:47,178 --> 00:32:48,911
+Hey, guys, get in here.
+
+682
+00:32:48,913 --> 00:32:51,213
+Come on.
+
+683
+00:32:51,215 --> 00:32:53,682
+Eyes, please.
+
+684
+00:32:53,684 --> 00:32:55,050
+- What?
+- He's at the DOD site.
+
+685
+00:32:55,052 --> 00:32:56,185
+Look.
+
+686
+00:32:56,187 --> 00:32:57,376
+That building's 7 below?
+
+687
+00:32:57,379 --> 00:32:58,846
+Look at the temperature.
+Look at it drop.
+
+688
+00:32:58,848 --> 00:32:59,949
+He initiated the negative array
+
+689
+00:32:59,951 --> 00:33:00,937
+but didn't seal it.
+
+690
+00:33:00,940 --> 00:33:03,372
+The room is -7, but
+the array is -100.
+
+691
+00:33:03,375 --> 00:33:05,295
+That thing's so freaking cold,
+it's freezing the whole building.
+
+692
+00:33:05,297 --> 00:33:06,903
+Wait, at this rate, in 5 minutes,
+
+693
+00:33:06,906 --> 00:33:08,897
+the temperature will be 460 degrees,
+
+694
+00:33:08,900 --> 00:33:10,044
+AKA absolute zero.
+
+695
+00:33:10,047 --> 00:33:12,283
+At which point, he can
+inject himself with my serum.
+
+696
+00:33:12,286 --> 00:33:14,537
+And turn himself into a full-on icicle.
+
+697
+00:33:14,539 --> 00:33:16,338
+Icicle, that's... Not the time.
+
+698
+00:33:16,340 --> 00:33:17,653
+- We gotta go.
+- Let's do it.
+
+699
+00:33:17,656 --> 00:33:20,375
+Hey, what... What about your hands?
+
+700
+00:33:20,378 --> 00:33:24,413
+You're my friend, my family. I'm going.
+
+701
+00:33:31,756 --> 00:33:33,255
+Almost there.
+
+702
+00:33:39,230 --> 00:33:41,730
+Ugh... Flash.
+
+703
+00:33:41,732 --> 00:33:45,234
+Don't you realize that
+speed and cold don't mix?
+
+704
+00:33:45,236 --> 00:33:48,103
+This machine is capable
+of producing isotopes
+
+705
+00:33:48,105 --> 00:33:51,497
+that can freeze carbon dioxide.
+
+706
+00:33:51,500 --> 00:33:53,508
+You can't run in here.
+
+707
+00:33:56,547 --> 00:33:58,848
+More superheroes to freeze.
+
+708
+00:33:58,850 --> 00:34:01,525
+The array's at -220.
+You have one minute.
+
+709
+00:34:01,528 --> 00:34:03,752
+You people are not
+as smart as I thought.
+
+710
+00:34:03,754 --> 00:34:04,966
+Guys, what's happening?
+
+711
+00:34:04,969 --> 00:34:06,212
+The temperature in the room is dropping.
+
+712
+00:34:06,214 --> 00:34:08,523
+Everyone's so cold, their
+atoms are hitting near stasis.
+
+713
+00:34:08,526 --> 00:34:11,260
+Why... why can't I see my breath?
+
+714
+00:34:11,262 --> 00:34:14,697
+It's too cold. There's
+no moisture in the air.
+
+715
+00:34:17,101 --> 00:34:18,534
+Cisco, are you okay?
+
+716
+00:34:18,536 --> 00:34:21,370
+No. At least I can't feel anything.
+
+717
+00:34:21,372 --> 00:34:23,572
+Guys, the array's at -350 degrees.
+
+718
+00:34:23,574 --> 00:34:25,341
+He's gonna be able to
+go full icicle soon.
+
+719
+00:34:26,577 --> 00:34:27,762
+Come on.
+
+720
+00:34:27,765 --> 00:34:29,978
+- Forty-five seconds.
+- What do we do?
+
+721
+00:34:29,981 --> 00:34:31,169
+Lightning.
+
+722
+00:34:31,172 --> 00:34:32,639
+Use your lightning to counter the cold
+
+723
+00:34:32,641 --> 00:34:34,407
+and maybe you can warm
+up enough to stop him.
+
+724
+00:34:34,410 --> 00:34:35,928
+We've been trying to
+do it this whole time.
+
+725
+00:34:35,930 --> 00:34:37,162
+It's too cold.
+
+726
+00:34:37,165 --> 00:34:39,499
+I'm literally fr... freezing.
+
+727
+00:34:39,502 --> 00:34:41,161
+399, you have 30 seconds.
+
+728
+00:34:41,164 --> 00:34:42,498
+Your temperature is
+dropping too quickly.
+
+729
+00:34:42,500 --> 00:34:44,292
+You're gonna go into
+hypothermic shock soon.
+
+730
+00:34:44,295 --> 00:34:45,761
+But not Caitlin.
+
+731
+00:34:45,763 --> 00:34:48,197
+Look, Caitlin's body
+temperature is normal.
+
+732
+00:34:48,199 --> 00:34:49,820
+Caitlin, you must be immune.
+
+733
+00:34:49,823 --> 00:34:51,423
+But Killer Frost is gone.
+
+734
+00:34:51,426 --> 00:34:53,636
+Well, clearly, she's not.
+
+735
+00:34:53,638 --> 00:34:56,405
+Guys, 400 degrees. We got 20 seconds.
+
+736
+00:34:56,407 --> 00:34:58,908
+Caitlin, you can do it.
+
+737
+00:34:58,910 --> 00:35:00,609
+Just concentrate.
+
+738
+00:35:03,014 --> 00:35:04,313
+Dad!
+
+739
+00:35:05,182 --> 00:35:08,083
+Please, I know you're in there.
+
+740
+00:35:08,085 --> 00:35:09,652
+Don't do this.
+
+741
+00:35:09,654 --> 00:35:12,454
+Do you think Thomas can hear you, Caity?
+
+742
+00:35:13,695 --> 00:35:18,293
+Thomas hasn't been able to hear
+anything for a very long time.
+
+743
+00:35:23,467 --> 00:35:26,168
+- What is that?
+- 460 degrees. We're too late.
+
+744
+00:35:26,170 --> 00:35:28,003
+He beat us.
+
+745
+00:35:29,640 --> 00:35:31,040
+No!
+
+746
+00:35:38,583 --> 00:35:42,818
+My daughter. You've returned!
+
+747
+00:35:42,820 --> 00:35:45,231
+You're not my family. They are.
+
+748
+00:35:45,234 --> 00:35:48,111
+You only gave a damn about me
+because you wanted that serum.
+
+749
+00:35:48,114 --> 00:35:50,326
+But I... I can share it with you.
+
+750
+00:35:50,328 --> 00:35:51,567
+Just imagine.
+
+751
+00:35:51,570 --> 00:35:54,997
+The two of us, free to
+be ourselves without fear.
+
+752
+00:35:55,000 --> 00:35:56,666
+You are strong.
+
+753
+00:35:56,669 --> 00:35:59,201
+We can be even stronger together.
+
+754
+00:35:59,203 --> 00:36:02,275
+I'm strong because I
+have people in my life
+
+755
+00:36:02,278 --> 00:36:04,139
+who actually care about me.
+
+756
+00:36:04,141 --> 00:36:06,742
+Do you?
+
+757
+00:36:06,744 --> 00:36:08,210
+No!
+
+758
+00:36:13,818 --> 00:36:15,028
+No!
+
+759
+00:36:26,263 --> 00:36:28,430
+Caity?
+
+760
+00:36:28,432 --> 00:36:30,966
+- Dad?
+- You found me?
+
+761
+00:36:47,148 --> 00:36:48,915
+Temperature's rising.
+
+762
+00:36:48,918 --> 00:36:50,517
+What's happening? Is everyone okay?
+
+763
+00:36:50,520 --> 00:36:52,287
+- I think so.
+- A little help?
+
+764
+00:36:52,289 --> 00:36:54,323
+Get Cisco.
+
+765
+00:36:57,261 --> 00:36:58,927
+Oh, yeah. That's good.
+
+766
+00:36:58,929 --> 00:37:01,063
+Yeah.
+
+767
+00:37:01,065 --> 00:37:02,264
+Okay.
+
+768
+00:37:06,537 --> 00:37:08,470
+My dad.
+
+769
+00:37:08,472 --> 00:37:09,972
+Our dad.
+
+770
+00:37:09,974 --> 00:37:15,744
+He was here, but... I lost him.
+
+771
+00:37:15,746 --> 00:37:18,647
+We'll get him back. Together.
+
+772
+00:37:18,649 --> 00:37:20,249
+You're not alone anymore.
+
+773
+00:37:27,158 --> 00:37:28,457
+Neither am I.
+
+774
+00:37:38,611 --> 00:37:40,544
+No cold signatures in the area.
+
+775
+00:37:40,547 --> 00:37:42,814
+Snow Country for Old
+Men must be miles away,
+
+776
+00:37:42,816 --> 00:37:44,623
+'cause he sure as hell
+isn't in Central City.
+
+777
+00:37:44,626 --> 00:37:45,743
+Well, we have to find him.
+
+778
+00:37:45,746 --> 00:37:48,785
+I mean, Icicle wouldn't have
+gone through all this trouble
+
+779
+00:37:48,788 --> 00:37:51,489
+to kill my Dad if there wasn't
+a piece of him still left.
+
+780
+00:37:51,491 --> 00:37:53,958
+We'll find him.
+
+781
+00:37:53,960 --> 00:37:57,228
+All the things I vibed, they
+weren't memories of your dad.
+
+782
+00:37:57,230 --> 00:37:58,963
+They were of his alter ego.
+
+783
+00:37:58,965 --> 00:38:01,861
+My dad was trying to protect me.
+
+784
+00:38:01,867 --> 00:38:05,268
+You know what? My mom probably was too.
+
+785
+00:38:05,271 --> 00:38:07,805
+I mean, she was just
+trying to keep me safe.
+
+786
+00:38:07,807 --> 00:38:10,208
+All this time, I thought
+she was the villain.
+
+787
+00:38:10,210 --> 00:38:12,110
+How could I not see it was him?
+
+788
+00:38:12,112 --> 00:38:14,245
+Hey, don't beat yourself up.
+
+789
+00:38:14,247 --> 00:38:16,447
+Thawne. Zolomon.
+
+790
+00:38:16,449 --> 00:38:18,750
+We see the good in people.
+That's just who we are.
+
+791
+00:38:18,752 --> 00:38:21,719
+I hope that never changes.
+
+792
+00:38:21,721 --> 00:38:23,993
+There's something else
+you guys should see.
+
+793
+00:38:27,594 --> 00:38:29,961
+All this time, we've
+been trying to figure out
+
+794
+00:38:29,963 --> 00:38:31,963
+how Killer Frost disappeared,
+
+795
+00:38:31,965 --> 00:38:35,366
+but we've been looking at it all wrong.
+
+796
+00:38:35,368 --> 00:38:38,136
+We've been thinking DeVoe
+used Melting Point's powers,
+
+797
+00:38:38,138 --> 00:38:40,104
+that he changed your meta DNA
+
+798
+00:38:40,106 --> 00:38:42,473
+and removed Killer Frost from you.
+
+799
+00:38:42,475 --> 00:38:45,777
+But tonight, you proved that
+she's still a part of you.
+
+800
+00:38:45,779 --> 00:38:48,780
+So what caused her to leave?
+
+801
+00:38:48,782 --> 00:38:51,682
+DeVoe used a different set of powers.
+
+802
+00:38:51,684 --> 00:38:54,719
+- Brainstorm.
+- Brainstorm.
+
+803
+00:38:54,721 --> 00:38:56,387
+All they did was create a mental block.
+
+804
+00:38:56,389 --> 00:38:58,322
+One you broke through tonight,
+so you can do that again.
+
+805
+00:38:58,324 --> 00:39:01,626
+You just gotta learn how.
+
+806
+00:39:01,628 --> 00:39:04,028
+I think it's time we
+reintroduce an old friend.
+
+807
+00:39:06,266 --> 00:39:08,800
+Harry's mental activity dampener.
+
+808
+00:39:08,802 --> 00:39:10,802
+It'll help me hear her.
+
+809
+00:39:10,804 --> 00:39:12,303
+That's right.
+
+810
+00:39:12,305 --> 00:39:14,639
+It's my hope that the more you use it,
+
+811
+00:39:14,641 --> 00:39:16,874
+the more you connect with her.
+
+812
+00:39:16,876 --> 00:39:19,444
+Eventually, you won't need it anymore.
+
+813
+00:39:19,446 --> 00:39:21,779
+Thank you.
+
+814
+00:39:21,781 --> 00:39:25,383
+Guys, we need you in the Speed Lab.
+
+815
+00:39:25,385 --> 00:39:28,853
+All right. We'll leave you to it.
+
+816
+00:39:39,732 --> 00:39:42,099
+Hey, stranger.
+
+817
+00:39:42,101 --> 00:39:43,734
+Hey.
+
+818
+00:39:43,736 --> 00:39:46,437
+Well, we sure have a lot to talk about.
+
+819
+00:39:50,876 --> 00:39:54,744
+Oh! Sally's heart!
+
+820
+00:39:54,747 --> 00:39:56,781
+You brought it back.
+
+821
+00:39:56,783 --> 00:39:59,317
+We did, thanks to these two
+
+822
+00:39:59,319 --> 00:40:01,196
+and their deductive abilities.
+
+823
+00:40:01,199 --> 00:40:03,693
+And our tidal-wave-breaking skills. Right?
+
+824
+00:40:03,696 --> 00:40:05,990
+- Like mother, like daughter.
+- Mm-hmm.
+
+825
+00:40:05,992 --> 00:40:08,526
+Uh, is it safe for this to be here?
+
+826
+00:40:08,528 --> 00:40:10,907
+Yeah, a little dark
+matter never hurt anybody.
+
+827
+00:40:10,910 --> 00:40:12,282
+What?
+
+828
+00:40:12,285 --> 00:40:14,431
+We've seen this puzzle piece before.
+
+829
+00:40:14,434 --> 00:40:18,236
+Our satellite giveth, and
+now we must taketh away.
+
+830
+00:40:18,238 --> 00:40:20,538
+I think we can finally do that.
+
+831
+00:40:20,541 --> 00:40:22,940
+We got a list from FEMA of
+everyone who reported injuries
+
+832
+00:40:22,942 --> 00:40:24,006
+the night of the Enlightenment.
+
+833
+00:40:24,008 --> 00:40:25,681
+None of them matched
+Cicada's description.
+
+834
+00:40:25,684 --> 00:40:26,950
+But there were three kids
+
+835
+00:40:26,953 --> 00:40:29,011
+who were hit by pieces of
+shrapnel from the satellite.
+
+836
+00:40:29,013 --> 00:40:31,248
+Two of them are twins
+whose father is deceased.
+
+837
+00:40:31,251 --> 00:40:32,750
+Third is a ten-year-old girl,
+
+838
+00:40:32,752 --> 00:40:34,519
+by the name of Grace Gibbons.
+
+839
+00:40:34,521 --> 00:40:37,121
+So if my dad's right and
+Cicada's a father, then...
+
+840
+00:40:37,123 --> 00:40:40,925
+We may have just found his daughter.
+
+841
+00:40:46,132 --> 00:40:47,732
+Orlin?
+
+842
+00:40:54,641 --> 00:40:56,173
+Orlin.
+
+843
+00:41:08,254 --> 00:41:11,034
+After I fix up your side,
+I'm gonna patch up your chest.
+
+844
+00:41:11,037 --> 00:41:12,623
+No.
+
+845
+00:41:23,264 --> 00:41:26,337
+It's making me stronger.
+
+846
+00:41:28,040 --> 00:41:32,490
+- <font color="#D81D1D">Synced and corrected by VitoSilans</font> -
+-- <font color="#138CE9">www.Addic7ed.com</font> --
+

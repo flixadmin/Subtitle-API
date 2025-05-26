@@ -1,0 +1,1746 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 0
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Segoe UI Semibold,20,&H00FFFFFF,&HFFFFFFFF,&H28000000,&H28000000,0,0,0,0,100,100,0,0,1,0.6,0.6,2,10,10,20,1
+Style: Verdana [WHITE],Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:02.85,0:01:04.06,Default,,0,0,0,,Thad...
+Dialogue: 0,0:01:04.14,0:01:05.98,Default,,0,0,0,,I said no toys at Grandfather's.
+Dialogue: 0,0:01:06.06,0:01:08.19,Default,,0,0,0,,But it's Christmas.
+Dialogue: 0,0:01:09.77,0:01:11.19,Default,,0,0,0,,- Stop it!\N- Hey.
+Dialogue: 0,0:01:11.28,0:01:12.28,Default,,0,0,0,,Hey, Dad!
+Dialogue: 0,0:01:12.36,0:01:14.24,Default,,0,0,0,,Hey! Thad,
+Dialogue: 0,0:01:14.32,0:01:17.07,Default,,0,0,0,,you can't go crying to\Nother people all the time.
+Dialogue: 0,0:01:17.16,0:01:20.79,Default,,0,0,0,,A man needs to know\Nwhen to stand up for himself.
+Dialogue: 0,0:01:21.58,0:01:23.91,Default,,0,0,0,,Dear Magic-Isn't-Real Ball,
+Dialogue: 0,0:01:24.00,0:01:25.75,Default,,0,0,0,,will Thad ever be a man?
+Dialogue: 0,0:01:29.38,0:01:31.30,Default,,0,0,0,,Ouch.
+Dialogue: 0,0:01:31.38,0:01:33.21,Default,,0,0,0,,"Outlook not so good."
+Dialogue: 0,0:01:45.35,0:01:46.60,Default,,0,0,0,,You broke it.
+Dialogue: 0,0:01:48.52,0:01:50.56,Default,,0,0,0,,Dad? Sid?
+Dialogue: 0,0:01:55.95,0:01:57.32,Default,,0,0,0,,Someone help me!
+Dialogue: 0,0:01:58.86,0:02:01.08,Default,,0,0,0,,Help!
+Dialogue: 0,0:02:28.77,0:02:29.85,Default,,0,0,0,,Hello?
+Dialogue: 0,0:02:50.04,0:02:51.54,Default,,0,0,0,,Thaddeus.
+Dialogue: 0,0:03:22.45,0:03:24.91,Default,,0,0,0,,Thaddeus Sivana.
+Dialogue: 0,0:03:25.91,0:03:27.33,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:03:28.20,0:03:29.29,Default,,0,0,0,,How do you know my name?
+Dialogue: 0,0:03:29.37,0:03:32.75,Default,,0,0,0,,I am the last of the\NCouncil of Wizards.
+Dialogue: 0,0:03:33.83,0:03:38.59,Default,,0,0,0,,Sworn to protect the realms\Nfrom the Seven Deadly Sins.
+Dialogue: 0,0:03:42.01,0:03:43.89,Default,,0,0,0,,But years have passed,
+Dialogue: 0,0:03:44.64,0:03:46.43,Default,,0,0,0,,and I grow weak.
+Dialogue: 0,0:03:47.01,0:03:49.23,Default,,0,0,0,,That is why I seek a champion
+Dialogue: 0,0:03:49.31,0:03:51.48,Default,,0,0,0,,to inherit my magic.
+Dialogue: 0,0:03:51.56,0:03:54.11,Default,,0,0,0,,You want me to do magic?
+Dialogue: 0,0:03:54.73,0:03:56.07,Default,,0,0,0,,With this,
+Dialogue: 0,0:03:57.15,0:03:59.78,Default,,0,0,0,,all of my powers\Nwill become yours.
+Dialogue: 0,0:04:05.20,0:04:06.91,Default,,0,0,0,,Ah. But first...
+Dialogue: 0,0:04:08.41,0:04:11.00,Default,,0,0,0,,you must demonstrate\Nthat you're pure of heart
+Dialogue: 0,0:04:11.08,0:04:13.12,Default,,0,0,0,,and strong in spirit.
+Dialogue: 0,0:04:16.17,0:04:18.46,Default,,0,0,0,,He lies.
+Dialogue: 0,0:04:19.30,0:04:22.88,Default,,0,0,0,,Don't be his champion.
+Dialogue: 0,0:04:23.47,0:04:26.68,Default,,0,0,0,,We can give you power.
+Dialogue: 0,0:04:27.43,0:04:30.31,Default,,0,0,0,,Take the eye.
+Dialogue: 0,0:04:33.64,0:04:34.64,Default,,0,0,0,,Take it.
+Dialogue: 0,0:04:36.98,0:04:40.03,Default,,0,0,0,,Your father thinks you're weak.
+Dialogue: 0,0:04:40.11,0:04:43.11,Default,,0,0,0,,Show him your power.
+Dialogue: 0,0:04:46.07,0:04:47.24,Default,,0,0,0,,Take the eye.
+Dialogue: 0,0:04:53.71,0:04:55.25,Default,,0,0,0,,No!
+Dialogue: 0,0:04:56.88,0:04:57.88,Default,,0,0,0,,What?
+Dialogue: 0,0:04:57.96,0:04:59.30,Default,,0,0,0,,What happened?
+Dialogue: 0,0:04:59.38,0:05:04.05,Default,,0,0,0,,Only the purest of hearts\Ncan resist their temptations.
+Dialogue: 0,0:05:04.63,0:05:05.97,Default,,0,0,0,,But you,
+Dialogue: 0,0:05:06.05,0:05:07.72,Default,,0,0,0,,you will never be worthy.
+Dialogue: 0,0:05:15.23,0:05:16.10,Default,,0,0,0,,Wait.
+Dialogue: 0,0:05:16.19,0:05:18.23,Default,,0,0,0,,- I'm good enough, I swear!\N- What?
+Dialogue: 0,0:05:18.31,0:05:19.57,Default,,0,0,0,,Let me back in!
+Dialogue: 0,0:05:19.65,0:05:21.23,Default,,0,0,0,,Calm down, Thad!
+Dialogue: 0,0:05:21.32,0:05:22.46,Default,,0,0,0,,- Don't open the door!\N- Stop it!
+Dialogue: 0,0:05:22.49,0:05:23.69,Default,,0,0,0,,- Calm down.\N- Stop!
+Dialogue: 0,0:05:23.78,0:05:25.42,Default,,0,0,0,,Hey, I'm gonna kill\Nyou, you little freak!
+Dialogue: 0,0:05:28.24,0:05:29.74,Default,,0,0,0,,Stop... Oh!
+Dialogue: 0,0:05:44.59,0:05:45.93,Default,,0,0,0,,I was just there.
+Dialogue: 0,0:05:46.01,0:05:49.18,Default,,0,0,0,,This man, this wizard, he\Ntook me to a castle and...
+Dialogue: 0,0:05:49.26,0:05:50.64,Default,,0,0,0,,Stop. Stop!
+Dialogue: 0,0:05:50.72,0:05:52.06,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:05:52.60,0:05:56.02,Default,,0,0,0,,You miserable,\Nwhiny, little shit!
+Dialogue: 0,0:05:56.10,0:05:57.94,Default,,0,0,0,,You could have killed us!
+Dialogue: 0,0:05:58.02,0:05:59.65,Default,,0,0,0,,Do you understand that?
+Dialogue: 0,0:06:45.99,0:06:47.24,Default,,0,0,0,,Dad?
+Dialogue: 0,0:06:47.32,0:06:48.32,Default,,0,0,0,,Dad!
+Dialogue: 0,0:07:01.08,0:07:02.13,Default,,0,0,0,,Dad?
+Dialogue: 0,0:07:04.21,0:07:05.34,Default,,0,0,0,,You're okay.
+Dialogue: 0,0:07:06.13,0:07:07.13,Default,,0,0,0,,You're gonna be okay.
+Dialogue: 0,0:07:14.43,0:07:16.14,Default,,0,0,0,,You did this.
+Dialogue: 0,0:07:16.22,0:07:17.68,Default,,0,0,0,,You did this!
+Dialogue: 0,0:07:19.10,0:07:20.19,Default,,0,0,0,,No.
+Dialogue: 0,0:07:20.27,0:07:21.27,Default,,0,0,0,,Dad.
+Dialogue: 0,0:07:44.42,0:07:47.55,Default,,0,0,0,,Your magic grows weak.
+Dialogue: 0,0:07:47.63,0:07:52.01,Default,,0,0,0,,Soon, you won't be\Nable to contain us.
+Dialogue: 0,0:07:52.68,0:07:54.68,Default,,0,0,0,,Seeking Spell,
+Dialogue: 0,0:07:55.26,0:07:58.35,Default,,0,0,0,,find me one soul who is worthy.
+Dialogue: 0,0:08:00.85,0:08:03.77,Default,,0,0,0,,No matter how long it takes.
+Dialogue: 0,0:08:16.53,0:08:18.53,Default,,0,0,0,,{\an5\c&H51ab2b&}Improved by{\c&Hf8fc03&} {\b1}KID{\b0} {\c}\N\N{\an5\c&H51ab2b&}Resynced by{\c&Hf8fc03&} {\b1}KID{\b0} {\c}\N\N{\an5\c&H51ab2b&}Enjoy the movie(s) / show(s)
+Dialogue: 0,0:08:48.40,0:08:51.11,Default,,0,0,0,,Holy moly! The boys in blue!
+Dialogue: 0,0:08:51.19,0:08:52.86,Default,,0,0,0,,Sure glad to see you.
+Dialogue: 0,0:08:52.95,0:08:54.99,Default,,0,0,0,,I called as soon as I saw.
+Dialogue: 0,0:08:55.95,0:08:57.24,Default,,0,0,0,,They're in there.
+Dialogue: 0,0:08:57.32,0:08:58.41,Default,,0,0,0,,You stay here.
+Dialogue: 0,0:09:02.54,0:09:04.29,Default,,0,0,0,,Police!
+Dialogue: 0,0:09:04.87,0:09:06.13,Default,,0,0,0,,I saw 'em hide back in there.
+Dialogue: 0,0:09:11.30,0:09:12.76,Default,,0,0,0,,- Police, coming in!\N- Police!
+Dialogue: 0,0:09:16.30,0:09:17.57,Default,,0,0,0,,- There's nobody here.\N- What do you mean?
+Dialogue: 0,0:09:17.59,0:09:19.51,Default,,0,0,0,,- It's a closet.\N- You really bought that, huh?
+Dialogue: 0,0:09:22.39,0:09:24.27,Default,,0,0,0,,- Hey, no, no, no!\N- Hey!
+Dialogue: 0,0:09:25.94,0:09:27.19,Default,,0,0,0,,Stop, stop, stop!
+Dialogue: 0,0:09:29.31,0:09:30.77,Default,,0,0,0,,Open this up right now, kid.
+Dialogue: 0,0:09:30.86,0:09:32.78,Default,,0,0,0,,That's a federal offense,\Nkid. You can't do that!
+Dialogue: 0,0:09:32.82,0:09:34.70,Default,,0,0,0,,Do not go in that car.
+Dialogue: 0,0:09:34.78,0:09:36.02,Default,,0,0,0,,Come on, open the door. Please.
+Dialogue: 0,0:09:36.07,0:09:37.57,Default,,0,0,0,,Please, come on.
+Dialogue: 0,0:09:40.12,0:09:42.54,Default,,0,0,0,,Open this, right now!
+Dialogue: 0,0:09:44.25,0:09:45.54,Default,,0,0,0,,Very good, very funny.
+Dialogue: 0,0:09:45.62,0:09:47.30,Default,,0,0,0,,Very funny. That's\Ngreat. That's hilarious.
+Dialogue: 0,0:09:51.67,0:09:54.47,Default,,0,0,0,,Uh, Dispatch, we need backup at the\NLaurelwood shopping center, please.
+Dialogue: 0,0:09:56.43,0:09:58.18,Default,,0,0,0,,Dispatch, cancel that request.
+Dialogue: 0,0:09:58.26,0:10:00.30,Default,,0,0,0,,Some kid stole\Nour walkie-talkies.
+Dialogue: 0,0:10:00.39,0:10:03.31,Default,,0,0,0,,{\i1}Walkie-talkies? How old are you?{\i0}
+Dialogue: 0,0:10:09.23,0:10:10.77,Default,,0,0,0,,No, no, no.
+Dialogue: 0,0:10:10.86,0:10:11.86,Default,,0,0,0,,That's my lunch, kid!
+Dialogue: 0,0:10:16.32,0:10:17.61,Default,,0,0,0,,Miss Batson...
+Dialogue: 0,0:10:18.49,0:10:20.28,Default,,0,0,0,,I've been looking for you.
+Dialogue: 0,0:10:20.37,0:10:22.66,Default,,0,0,0,,No. Gosh.
+Dialogue: 0,0:10:24.91,0:10:26.54,Default,,0,0,0,,It's me. It's Billy.
+Dialogue: 0,0:10:34.96,0:10:36.63,Default,,0,0,0,,Okay.
+Dialogue: 0,0:10:40.47,0:10:42.55,Default,,0,0,0,,I want the tiger.
+Dialogue: 0,0:10:42.64,0:10:46.43,Default,,0,0,0,,I know, honey, I know. But\NMom's not exactly going pro here.
+Dialogue: 0,0:10:48.85,0:10:51.06,Default,,0,0,0,,We got one!
+Dialogue: 0,0:10:53.52,0:10:55.40,Default,,0,0,0,,But I wanted a tiger.
+Dialogue: 0,0:10:55.48,0:10:59.11,Default,,0,0,0,,Oh, but this is the\Nreal prize, baby. See?
+Dialogue: 0,0:10:59.70,0:11:01.11,Default,,0,0,0,,You can use that\Nyour whole life.
+Dialogue: 0,0:11:01.20,0:11:03.33,Default,,0,0,0,,You'll always find your way.
+Dialogue: 0,0:11:23.55,0:11:25.60,Default,,0,0,0,,I can't let the ball get away.
+Dialogue: 0,0:11:34.82,0:11:35.82,Default,,0,0,0,,Mom?
+Dialogue: 0,0:11:42.07,0:11:43.07,Default,,0,0,0,,Mom!
+Dialogue: 0,0:11:49.96,0:11:51.16,Default,,0,0,0,,Mom!
+Dialogue: 0,0:11:52.96,0:11:54.38,Default,,0,0,0,,Hey.
+Dialogue: 0,0:11:54.46,0:11:55.67,Default,,0,0,0,,Who are you with, bud?
+Dialogue: 0,0:11:58.17,0:11:59.67,Default,,0,0,0,,Yeah, he says it's Billy Batson.
+Dialogue: 0,0:12:01.47,0:12:02.68,Default,,0,0,0,,Hey, don't worry, kid.
+Dialogue: 0,0:12:03.26,0:12:05.32,Default,,0,0,0,,I'm sure she'll come\Nlooking before too long, okay?
+Dialogue: 0,0:12:05.80,0:12:07.06,Default,,0,0,0,,They always do.
+Dialogue: 0,0:12:15.23,0:12:17.90,Default,,0,0,0,,Mom, I'm home.
+Dialogue: 0,0:12:51.48,0:12:52.48,Default,,0,0,0,,Yes?
+Dialogue: 0,0:12:53.56,0:12:57.27,Default,,0,0,0,,Yeah, uh, is this Rachel Batson?
+Dialogue: 0,0:12:57.36,0:12:58.69,Default,,0,0,0,,Who's asking?
+Dialogue: 0,0:12:59.07,0:13:00.07,Default,,0,0,0,,Um...
+Dialogue: 0,0:13:00.15,0:13:01.65,Default,,0,0,0,,Yeah, see, the thing is...
+Dialogue: 0,0:13:03.53,0:13:04.82,Default,,0,0,0,,I think you're my mom.
+Dialogue: 0,0:13:08.58,0:13:09.70,Default,,0,0,0,,You sure about that?
+Dialogue: 0,0:13:13.08,0:13:14.33,Default,,0,0,0,,Sorry to bother you.
+Dialogue: 0,0:13:20.21,0:13:22.51,Default,,0,0,0,,Just had to take my lunch, huh?
+Dialogue: 0,0:13:22.59,0:13:24.17,Default,,0,0,0,,You save me any fries?
+Dialogue: 0,0:13:25.55,0:13:29.43,Default,,0,0,0,,Foster home in Pittsburgh\Nreported you missing two weeks ago.
+Dialogue: 0,0:13:29.51,0:13:30.51,Default,,0,0,0,,You're sending me back?
+Dialogue: 0,0:13:31.10,0:13:32.10,Default,,0,0,0,,No.
+Dialogue: 0,0:13:32.68,0:13:33.89,Default,,0,0,0,,They don't want you.
+Dialogue: 0,0:13:34.18,0:13:36.65,Default,,0,0,0,,- Harsh.\N- You laugh,
+Dialogue: 0,0:13:36.73,0:13:40.02,Default,,0,0,0,,but you've run from foster\Nhomes in six counties, Mr. Batson.
+Dialogue: 0,0:13:40.90,0:13:43.11,Default,,0,0,0,,From good people
+Dialogue: 0,0:13:43.94,0:13:46.24,Default,,0,0,0,,who want you, all\Nin pursuit of someone
+Dialogue: 0,0:13:46.32,0:13:48.03,Default,,0,0,0,,who arguably does not.
+Dialogue: 0,0:13:50.37,0:13:53.08,Default,,0,0,0,,It's time someone looked you in\Nthe eye and told it to you straight.
+Dialogue: 0,0:13:53.66,0:13:56.50,Default,,0,0,0,,I don't need parents to\Nplay make-believe with.
+Dialogue: 0,0:13:56.58,0:13:58.58,Default,,0,0,0,,- I got a mom.\N- Yes.
+Dialogue: 0,0:13:59.42,0:14:01.00,Default,,0,0,0,,You're some detective.
+Dialogue: 0,0:14:01.59,0:14:03.26,Default,,0,0,0,,Seventy-three Batsons
+Dialogue: 0,0:14:03.34,0:14:06.55,Default,,0,0,0,,between the ages of 28 to 40,\Nand you've crossed out every one.
+Dialogue: 0,0:14:07.13,0:14:09.89,Default,,0,0,0,,She's still out\Nthere. I know it.
+Dialogue: 0,0:14:18.73,0:14:21.27,Default,,0,0,0,,There's a couple\Noutside, Mr. Batson.
+Dialogue: 0,0:14:21.36,0:14:22.94,Default,,0,0,0,,They run a group home.
+Dialogue: 0,0:14:24.48,0:14:26.07,Default,,0,0,0,,I can take care of myself.
+Dialogue: 0,0:14:26.15,0:14:27.36,Default,,0,0,0,,When you're 18.
+Dialogue: 0,0:14:27.99,0:14:30.66,Default,,0,0,0,,Until then, I won't have\Nyou living on the streets,
+Dialogue: 0,0:14:30.74,0:14:32.74,Default,,0,0,0,,looking for someone\Nwho never looked for you.
+Dialogue: 0,0:14:34.04,0:14:35.33,Default,,0,0,0,,Give these people a chance.
+Dialogue: 0,0:14:36.37,0:14:38.33,Default,,0,0,0,,'Cause that's what\Nthey're giving you.
+Dialogue: 0,0:14:38.96,0:14:40.54,Default,,0,0,0,,You're out of options.
+Dialogue: 0,0:14:51.22,0:14:52.72,Default,,0,0,0,,I'm gonna skip the spiel.
+Dialogue: 0,0:14:52.80,0:14:54.60,Default,,0,0,0,,Just know that me\Nand Rosa, we get it.
+Dialogue: 0,0:14:54.68,0:14:56.18,Default,,0,0,0,,We were foster\Nkids back in the day.
+Dialogue: 0,0:14:56.27,0:14:57.77,Default,,0,0,0,,Ooh, back in the Dark Ages.
+Dialogue: 0,0:14:57.85,0:15:00.35,Default,,0,0,0,,Girl, I'm young at heart.
+Dialogue: 0,0:15:00.44,0:15:01.90,Default,,0,0,0,,I got my finger on the pulse.
+Dialogue: 0,0:15:01.98,0:15:02.98,Default,,0,0,0,,Yeah, that's a reference
+Dialogue: 0,0:15:03.07,0:15:04.78,Default,,0,0,0,,to his blood pressure\Nbecause he's old.
+Dialogue: 0,0:15:04.86,0:15:06.40,Default,,0,0,0,,Billy, do you have\Nany food allergies?
+Dialogue: 0,0:15:06.49,0:15:08.24,Default,,0,0,0,,Gonna wish you\Ndid. Darla's cooking.
+Dialogue: 0,0:15:08.32,0:15:09.91,Default,,0,0,0,,What?
+Dialogue: 0,0:15:12.24,0:15:14.08,Default,,0,0,0,,We know how\Noverwhelming it can all be.
+Dialogue: 0,0:15:14.16,0:15:15.91,Default,,0,0,0,,New house, new faces.
+Dialogue: 0,0:15:15.99,0:15:17.58,Default,,0,0,0,,All up in your face.
+Dialogue: 0,0:15:17.66,0:15:20.25,Default,,0,0,0,,Just take it at your own speed.
+Dialogue: 0,0:15:30.13,0:15:31.30,Default,,0,0,0,,Hello?
+Dialogue: 0,0:15:35.68,0:15:36.93,Default,,0,0,0,,We're home.
+Dialogue: 0,0:15:37.02,0:15:39.10,Default,,0,0,0,,That's what happens\Nwhen you suck!
+Dialogue: 0,0:15:40.52,0:15:41.85,Default,,0,0,0,,So much for the welcome party.
+Dialogue: 0,0:15:41.94,0:15:44.06,Default,,0,0,0,,Yeah, that thing\Ngrowing out of the couch
+Dialogue: 0,0:15:44.15,0:15:45.52,Default,,0,0,0,,would be Eugene.
+Dialogue: 0,0:15:45.61,0:15:46.94,Default,,0,0,0,,Is that him?
+Dialogue: 0,0:15:47.03,0:15:48.90,Default,,0,0,0,,Oh, my gosh! Billy!
+Dialogue: 0,0:15:48.99,0:15:50.20,Default,,0,0,0,,Whoa! Slow down, slow down.
+Dialogue: 0,0:15:50.28,0:15:51.36,Default,,0,0,0,,Welcome home!
+Dialogue: 0,0:15:51.45,0:15:53.41,Default,,0,0,0,,- And that's Darla.\N- I'm Darla.
+Dialogue: 0,0:15:53.49,0:15:54.39,Default,,0,0,0,,Big hugger.
+Dialogue: 0,0:15:54.41,0:15:55.78,Default,,0,0,0,,I noticed.
+Dialogue: 0,0:15:55.87,0:15:58.08,Default,,0,0,0,,Die, die, die!
+Dialogue: 0,0:15:58.16,0:15:59.83,Default,,0,0,0,,He doesn't mean\Nthat. It's a game.
+Dialogue: 0,0:16:02.37,0:16:03.58,Default,,0,0,0,,Hey.
+Dialogue: 0,0:16:03.67,0:16:05.59,Default,,0,0,0,,No sodas after dark, remember?
+Dialogue: 0,0:16:06.00,0:16:07.84,Default,,0,0,0,,Whoa. When did it get dark?
+Dialogue: 0,0:16:07.92,0:16:09.88,Default,,0,0,0,,Oh, the poster. I made you one.
+Dialogue: 0,0:16:09.97,0:16:13.22,Default,,0,0,0,,Come look! Oh, no!
+Dialogue: 0,0:16:13.30,0:16:15.51,Default,,0,0,0,,Sorry, Pedro must've\Nbeen working out.
+Dialogue: 0,0:16:16.05,0:16:17.68,Default,,0,0,0,,His goal is to get swole.
+Dialogue: 0,0:16:17.76,0:16:19.39,Default,,0,0,0,,Just one hit! Just one hit!
+Dialogue: 0,0:16:19.64,0:16:20.64,Default,,0,0,0,,Oh...
+Dialogue: 0,0:16:20.77,0:16:21.81,Default,,0,0,0,,Here.
+Dialogue: 0,0:16:23.23,0:16:26.77,Default,,0,0,0,,Yes, exactly why your math\Ndepartment is so uniquely suited for me.
+Dialogue: 0,0:16:26.86,0:16:28.40,Default,,0,0,0,,Shut up! No!
+Dialogue: 0,0:16:28.48,0:16:30.65,Default,,0,0,0,,I can't even with\NEugene right now.
+Dialogue: 0,0:16:30.74,0:16:33.36,Default,,0,0,0,,I'm sorry. Mary, hi.\NCollege interview.
+Dialogue: 0,0:16:33.45,0:16:34.49,Default,,0,0,0,,I'm Billy.
+Dialogue: 0,0:16:34.57,0:16:36.07,Default,,0,0,0,,What am I most excited about?
+Dialogue: 0,0:16:36.24,0:16:39.54,Default,,0,0,0,,Oh! What a great question.\NI was hoping you'd ask.
+Dialogue: 0,0:16:39.62,0:16:41.16,Default,,0,0,0,,What am I most excited about?
+Dialogue: 0,0:16:42.46,0:16:45.29,Default,,0,0,0,,Mention you're a foster\Nkid. Colleges eat that up.
+Dialogue: 0,0:16:45.38,0:16:48.71,Default,,0,0,0,,What I'm most excited about\Nis the campus experience.
+Dialogue: 0,0:16:48.80,0:16:52.26,Default,,0,0,0,,As a foster child, I'm a big\Nbeliever in finding family and friends
+Dialogue: 0,0:16:52.34,0:16:54.59,Default,,0,0,0,,in the most unlikely of places.
+Dialogue: 0,0:16:57.60,0:16:59.60,Default,,0,0,0,,I'm gonna miss\Nthat girl so much.
+Dialogue: 0,0:16:59.68,0:17:01.48,Default,,0,0,0,,It's Caltech. It's a\Nvery prestigious school.
+Dialogue: 0,0:17:01.89,0:17:03.44,Default,,0,0,0,,And also all the\Nway in California.
+Dialogue: 0,0:17:03.52,0:17:05.85,Default,,0,0,0,,But we don't have to\Ntalk about that right now.
+Dialogue: 0,0:17:05.94,0:17:07.27,Default,,0,0,0,,It's a tough subject for me.
+Dialogue: 0,0:17:07.36,0:17:08.57,Default,,0,0,0,,Do you like vegan food?
+Dialogue: 0,0:17:08.73,0:17:10.86,Default,,0,0,0,,- Mmm-mmm.\N- Because, see, I love animals.
+Dialogue: 0,0:17:12.78,0:17:14.61,Default,,0,0,0,,Oh, no! The Tofurky!
+Dialogue: 0,0:17:14.70,0:17:16.41,Default,,0,0,0,,Oh, no, we may have\Nto eat a real turkey!
+Dialogue: 0,0:17:16.49,0:17:17.57,Default,,0,0,0,,- Is that...\N- It's okay.
+Dialogue: 0,0:17:17.66,0:17:19.03,Default,,0,0,0,,Come, I'll show you your room.
+Dialogue: 0,0:17:19.62,0:17:22.87,Default,,0,0,0,,It's a bit of a madhouse,\NI know, but it's fun.
+Dialogue: 0,0:17:22.95,0:17:25.54,Default,,0,0,0,,Time to dance on your grave!
+Dialogue: 0,0:17:25.62,0:17:27.21,Default,,0,0,0,,Watch the bum step. Pedro...
+Dialogue: 0,0:17:29.04,0:17:30.24,Default,,0,0,0,,Say hi to Billy.
+Dialogue: 0,0:17:32.13,0:17:34.80,Default,,0,0,0,,Don't take it personally.\NHe's like that with everyone.
+Dialogue: 0,0:17:38.51,0:17:39.85,Default,,0,0,0,,Freddy.
+Dialogue: 0,0:17:40.72,0:17:42.77,Default,,0,0,0,,This is Billy Batson.
+Dialogue: 0,0:17:42.85,0:17:44.35,Default,,0,0,0,,Make sure you make\Nhim feel at home.
+Dialogue: 0,0:17:44.43,0:17:45.56,Default,,0,0,0,,- Okay?\N- Yeah.
+Dialogue: 0,0:17:45.64,0:17:47.56,Default,,0,0,0,,Maybe don't say\Nanything too weird?
+Dialogue: 0,0:17:47.65,0:17:48.69,Default,,0,0,0,,Oh, one weird thing is,
+Dialogue: 0,0:17:48.77,0:17:51.45,Default,,0,0,0,,did you know that Romans used\Nto brush their teeth with their urine?
+Dialogue: 0,0:17:52.94,0:17:54.32,Default,,0,0,0,,And apparently, it works.
+Dialogue: 0,0:17:55.20,0:17:56.49,Default,,0,0,0,,Yep. Um...
+Dialogue: 0,0:18:05.54,0:18:08.00,Default,,0,0,0,,Oh, it's a long way down.
+Dialogue: 0,0:18:08.08,0:18:10.29,Default,,0,0,0,,Trust me, I speak\Nfrom experience.
+Dialogue: 0,0:18:13.96,0:18:16.30,Default,,0,0,0,,Victor pushed me.
+Dialogue: 0,0:18:16.38,0:18:18.84,Default,,0,0,0,,They seem nice,\Nbut don't buy it.
+Dialogue: 0,0:18:19.51,0:18:21.35,Default,,0,0,0,,It gets real Game of\NThrones around here.
+Dialogue: 0,0:18:23.47,0:18:24.47,Default,,0,0,0,,What?
+Dialogue: 0,0:18:25.64,0:18:28.56,Default,,0,0,0,,Dude, I'm just messin' around.
+Dialogue: 0,0:18:28.73,0:18:32.15,Default,,0,0,0,,It's, um, terminal cancer.\NI only have three months.
+Dialogue: 0,0:18:34.07,0:18:36.28,Default,,0,0,0,,Kidding, again! You look\Nat me, and you're like,
+Dialogue: 0,0:18:36.36,0:18:38.84,Default,,0,0,0,,"Why so dark? You're a disabled\Nfoster kid. You've got it all."
+Dialogue: 0,0:18:38.91,0:18:39.95,Default,,0,0,0,,Right?
+Dialogue: 0,0:18:41.62,0:18:44.79,Default,,0,0,0,,Oh, yeah, that's\Nthe old Batarang.
+Dialogue: 0,0:18:44.87,0:18:47.58,Default,,0,0,0,,I mean, it's a replica,\Nbut feel how sharp.
+Dialogue: 0,0:18:47.66,0:18:49.50,Default,,0,0,0,,I could kill you in your\Nsleep with that thing.
+Dialogue: 0,0:18:50.71,0:18:51.92,Default,,0,0,0,,You more of a Supes guy?
+Dialogue: 0,0:18:52.75,0:18:56.51,Default,,0,0,0,,Yeah, me, too.\NBehold, the holy grail.
+Dialogue: 0,0:18:56.59,0:18:59.13,Default,,0,0,0,,One nine-millimeter round\Nshot at Superman himself.
+Dialogue: 0,0:18:59.22,0:19:00.26,Default,,0,0,0,,It's legit.
+Dialogue: 0,0:19:00.34,0:19:03.47,Default,,0,0,0,,Probably worth, I don't know,\Nfive, six hundred, maybe more.
+Dialogue: 0,0:19:03.56,0:19:04.56,Default,,0,0,0,,What's in the bag?
+Dialogue: 0,0:19:05.18,0:19:06.27,Default,,0,0,0,,Hey.
+Dialogue: 0,0:19:06.35,0:19:08.69,Default,,0,0,0,,Hey, it's all good. It's good\Nto maintain boundaries.
+Dialogue: 0,0:19:09.48,0:19:12.40,Default,,0,0,0,,You don't gotta talk\Nso much, you know.
+Dialogue: 0,0:19:13.32,0:19:15.82,Default,,0,0,0,,Anyway, this place is\Ngreat. You're gonna love it.
+Dialogue: 0,0:19:40.38,0:19:41.76,Default,,0,0,0,,Dinner!
+Dialogue: 0,0:19:49.10,0:19:50.81,Default,,0,0,0,,All hands on deck.
+Dialogue: 0,0:19:53.90,0:19:55.77,Default,,0,0,0,,Thank you for this family.
+Dialogue: 0,0:19:55.86,0:19:57.03,Default,,0,0,0,,Thank you for this day.
+Dialogue: 0,0:19:57.11,0:20:01.03,Default,,0,0,0,,Thank you for this food,\Neven if it's not steak filet.
+Dialogue: 0,0:20:04.45,0:20:07.12,Default,,0,0,0,,Big school. 2,000\Nstudents, you might think,
+Dialogue: 0,0:20:07.20,0:20:08.75,Default,,0,0,0,,"Wow, so many strangers."
+Dialogue: 0,0:20:08.83,0:20:11.37,Default,,0,0,0,,But not if you think of them\Nas possible future friends.
+Dialogue: 0,0:20:11.46,0:20:13.88,Default,,0,0,0,,Then it's, "Wow,\Nso many friends."
+Dialogue: 0,0:20:13.96,0:20:16.92,Default,,0,0,0,,The principal, her name's\NShirley. She's the best.
+Dialogue: 0,0:20:17.00,0:20:18.80,Default,,0,0,0,,Next.
+Dialogue: 0,0:20:18.92,0:20:20.51,Default,,0,0,0,,This is our security scanner.
+Dialogue: 0,0:20:20.59,0:20:22.97,Default,,0,0,0,,Like in an airport.\NIt's totally safe.
+Dialogue: 0,0:20:23.05,0:20:24.51,Default,,0,0,0,,I know what it is.
+Dialogue: 0,0:20:25.18,0:20:27.14,Default,,0,0,0,,- Does she always do this?\N- Mmm-hmm.
+Dialogue: 0,0:20:27.22,0:20:29.52,Default,,0,0,0,,Silence makes me uncomfortable.
+Dialogue: 0,0:20:29.60,0:20:32.06,Default,,0,0,0,,She's almost never\Nuncomfortable.
+Dialogue: 0,0:20:34.52,0:20:35.92,Default,,0,0,0,,Have a good first\Nday, big brother.
+Dialogue: 0,0:20:35.98,0:20:38.15,Default,,0,0,0,,Look, you don't have\Nto hug me all the time.
+Dialogue: 0,0:20:38.23,0:20:40.44,Default,,0,0,0,,We're not actually\Nbrother and sister, so...
+Dialogue: 0,0:20:42.32,0:20:43.32,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:20:46.91,0:20:48.58,Default,,0,0,0,,- Hey.\N- Hey.
+Dialogue: 0,0:20:49.29,0:20:50.75,Default,,0,0,0,,I didn't mean to make her...
+Dialogue: 0,0:20:53.92,0:20:56.54,Default,,0,0,0,,{\i1}I was overwhelmed, honestly.{\i0}
+Dialogue: 0,0:20:57.88,0:21:01.30,Default,,0,0,0,,{\i1}He said I must be pure of heart.{\i0}
+Dialogue: 0,0:21:01.38,0:21:03.88,Default,,0,0,0,,{\i1}He call himself a wizard.{\i0}
+Dialogue: 0,0:21:03.97,0:21:08.30,Default,,0,0,0,,{\i1}He even dressed like a wizard\Nfrom Harry Potter or some...{\i0}
+Dialogue: 0,0:21:09.64,0:21:12.81,Default,,0,0,0,,{\i1}But you're saying that other\Npeople have experienced this?{\i0}
+Dialogue: 0,0:21:12.89,0:21:16.60,Default,,0,0,0,,In a sense, yes. Do you\Nremember what he said to you?
+Dialogue: 0,0:21:17.19,0:21:18.77,Default,,0,0,0,,{\i1}He tested me.{\i0}
+Dialogue: 0,0:21:19.82,0:21:21.94,Default,,0,0,0,,{\i1}There were these statues.{\i0}
+Dialogue: 0,0:21:22.65,0:21:26.45,Default,,0,0,0,,{\i1}Their eyes, it's like they were\Nlooking at me, making me think things.{\i0}
+Dialogue: 0,0:21:26.53,0:21:27.70,Default,,0,0,0,,{\i1}Horrible things.{\i0}
+Dialogue: 0,0:21:28.32,0:21:30.37,Default,,0,0,0,,And do these\Napproximate what you saw?
+Dialogue: 0,0:21:32.37,0:21:35.42,Default,,0,0,0,,{\i1}Yes, that's exactly\Nhow I remember it.{\i0}
+Dialogue: 0,0:21:36.00,0:21:37.83,Default,,0,0,0,,{\i1}I don't understand.\NHow do you know...{\i0}
+Dialogue: 0,0:21:37.92,0:21:42.05,Default,,0,0,0,,Recurrent imagery has proven very\Ncommon in cases of mass hysteria.
+Dialogue: 0,0:21:42.13,0:21:43.30,Default,,0,0,0,,{\i1}Mass hysteria?{\i0}
+Dialogue: 0,0:21:43.38,0:21:46.01,Default,,0,0,0,,I know. The term's\Na bit theatrical.
+Dialogue: 0,0:21:46.09,0:21:48.85,Default,,0,0,0,,But take UFO\Nsightings, for example.
+Dialogue: 0,0:21:48.93,0:21:51.43,Default,,0,0,0,,Lights in the sky,\Nflying saucers.
+Dialogue: 0,0:21:51.51,0:21:54.35,Default,,0,0,0,,Isolated incidents of people\Nwho do not know each other...
+Dialogue: 0,0:21:54.43,0:21:55.81,Default,,0,0,0,,The symbols.
+Dialogue: 0,0:21:59.73,0:22:01.07,Default,,0,0,0,,Ask her about the symbols.
+Dialogue: 0,0:22:02.86,0:22:06.99,Default,,0,0,0,,Sorry, Ms. Kwan. But as an\Nexample of recurrent imagery,
+Dialogue: 0,0:22:07.07,0:22:08.95,Default,,0,0,0,,maybe you'll recall seeing
+Dialogue: 0,0:22:09.03,0:22:11.66,Default,,0,0,0,,these symbols before\Nthe alleged abduction.
+Dialogue: 0,0:22:12.62,0:22:14.54,Default,,0,0,0,,{\i1}I don't remember\Nany symbols, no.{\i0}
+Dialogue: 0,0:22:15.46,0:22:19.17,Default,,0,0,0,,{\i1}I think I got it on video.\NThere was something, um...{\i0}
+Dialogue: 0,0:22:19.25,0:22:21.25,Default,,0,0,0,,{\i1}I remember the numbers\Non my alarm clock.{\i0}
+Dialogue: 0,0:22:21.34,0:22:22.59,Default,,0,0,0,,{\i1}They kept shifting.{\i0}
+Dialogue: 0,0:22:22.67,0:22:23.67,Default,,0,0,0,,Video?
+Dialogue: 0,0:22:26.09,0:22:27.22,Default,,0,0,0,,Show me the video.
+Dialogue: 0,0:22:28.01,0:22:30.22,Default,,0,0,0,,Uh, Ms. Kwan,\Nthis is Dr. Sivana.
+Dialogue: 0,0:22:30.76,0:22:33.56,Default,,0,0,0,,Um, one moment, {\i1}I{\i0} can {\i1}send{\i0} it.
+Dialogue: 0,0:22:33.93,0:22:37.35,Default,,0,0,0,,{\i1}Hello?{\i0} Oh, my {\i1}God!{\i0}
+Dialogue: 0,0:22:37.44,0:22:38.48,Default,,0,0,0,,{\i1}Who's there?{\i0}
+Dialogue: 0,0:22:39.52,0:22:42.48,Default,,0,0,0,,{\i1}Hello? What's going\Non? What's happening?{\i0}
+Dialogue: 0,0:22:44.32,0:22:46.57,Default,,0,0,0,,{\i1}I'm going to call the police!{\i0}
+Dialogue: 0,0:22:47.78,0:22:50.32,Default,,0,0,0,,{\i1}Then this blinding\Nlight all around me{\i0}
+Dialogue: 0,0:22:50.41,0:22:52.66,Default,,0,0,0,,{\i1}and I felt like I was getting\Npulled down into something.{\i0}
+Dialogue: 0,0:22:52.74,0:22:55.62,Default,,0,0,0,,{\i1}It felt like a temple\Ncarved inside a mountain.{\i0}
+Dialogue: 0,0:22:55.70,0:22:58.56,Default,,0,0,0,,{\i1}He looked exactly what you'd expect\Nfrom a guy who calls himself a wizard.{\i0}
+Dialogue: 0,0:22:58.58,0:23:00.71,Default,,0,0,0,,{\i1}and how you were brought\Nthere to save the world.{\i0}
+Dialogue: 0,0:23:00.79,0:23:02.75,Default,,0,0,0,,{\i1}- Wearing{\i0} a {\i1}cape.\N- And there's no ceiling.{\i0}
+Dialogue: 0,0:23:02.84,0:23:04.05,Default,,0,0,0,,We ran the numbers again...
+Dialogue: 0,0:23:04.13,0:23:05.63,Default,,0,0,0,,Dr. Sivana!
+Dialogue: 0,0:23:06.13,0:23:11.05,Default,,0,0,0,,I appreciate your enthusiasm,\Nbut you're funding my project.
+Dialogue: 0,0:23:11.14,0:23:14.14,Default,,0,0,0,,And when I'm interviewing,\NI don't wanna be interrupted.
+Dialogue: 0,0:23:14.22,0:23:16.35,Default,,0,0,0,,Fifty-six recorded abductions.
+Dialogue: 0,0:23:16.43,0:23:17.68,Default,,0,0,0,,- I never saw it.\N- Saw what?
+Dialogue: 0,0:23:34.28,0:23:35.41,Default,,0,0,0,,Doctor, what is all this?
+Dialogue: 0,0:23:36.41,0:23:38.41,Default,,0,0,0,,All these years...
+Dialogue: 0,0:23:40.42,0:23:44.42,Default,,0,0,0,,I was convinced I had\Nthe incorrect sequence.
+Dialogue: 0,0:23:44.50,0:23:48.42,Default,,0,0,0,,Or perhaps the wrong symbols
+Dialogue: 0,0:23:48.51,0:23:50.09,Default,,0,0,0,,to open the door.
+Dialogue: 0,0:23:51.63,0:23:55.68,Default,,0,0,0,,But on that woman's alarm\Nclock, the seven symbols.
+Dialogue: 0,0:23:57.68,0:24:02.65,Default,,0,0,0,,The sequence repeated\Nitself seven times.
+Dialogue: 0,0:24:04.77,0:24:06.36,Default,,0,0,0,,That's the difference.
+Dialogue: 0,0:24:06.44,0:24:08.48,Default,,0,0,0,,Is this some sort of joke?
+Dialogue: 0,0:24:08.57,0:24:10.45,Default,,0,0,0,,It may seem that way to you
+Dialogue: 0,0:24:10.53,0:24:14.16,Default,,0,0,0,,because we're not in actuality\Nstudying mass hysteria.
+Dialogue: 0,0:24:14.78,0:24:16.78,Default,,0,0,0,,What all these people have seen,
+Dialogue: 0,0:24:17.62,0:24:20.96,Default,,0,0,0,,every single one of\Nthem, is absolutely real.
+Dialogue: 0,0:24:21.16,0:24:24.21,Default,,0,0,0,,An alarm clock malfunctions
+Dialogue: 0,0:24:24.29,0:24:27.30,Default,,0,0,0,,and your first thought\Nis it's proof of a wizard?
+Dialogue: 0,0:24:27.46,0:24:29.51,Default,,0,0,0,,- Hmm.\N- Come on, Dr. Sivana.
+Dialogue: 0,0:24:29.59,0:24:32.01,Default,,0,0,0,,You can't believe\Nany of this is real.
+Dialogue: 0,0:24:44.90,0:24:45.90,Default,,0,0,0,,Why, yes.
+Dialogue: 0,0:24:52.20,0:24:53.74,Default,,0,0,0,,Yes, I do.
+Dialogue: 0,0:25:32.36,0:25:36.86,Default,,0,0,0,,I've been waiting for\Nthis moment for so long...
+Dialogue: 0,0:25:38.16,0:25:39.87,Default,,0,0,0,,and now here we are.
+Dialogue: 0,0:25:40.62,0:25:42.41,Default,,0,0,0,,You don't remember me, do you?
+Dialogue: 0,0:25:49.09,0:25:51.00,Default,,0,0,0,,I remember you.
+Dialogue: 0,0:25:52.51,0:25:54.09,Default,,0,0,0,,You were a boy.
+Dialogue: 0,0:25:54.17,0:25:56.18,Default,,0,0,0,,And now you dare\Nintrude in my kingdom.
+Dialogue: 0,0:25:56.26,0:25:59.97,Default,,0,0,0,,Do you know what it's like for a child\Nto be told you'll never be good enough?
+Dialogue: 0,0:26:00.56,0:26:02.14,Default,,0,0,0,,No, you don't.
+Dialogue: 0,0:26:02.22,0:26:06.81,Default,,0,0,0,,What you said to me all those years\Nago made me realize who I really was.
+Dialogue: 0,0:26:06.89,0:26:08.44,Default,,0,0,0,,And you know something?
+Dialogue: 0,0:26:11.32,0:26:13.40,Default,,0,0,0,,I am not pure of heart.
+Dialogue: 0,0:26:14.03,0:26:18.53,Default,,0,0,0,,The wizard is too\Nweak to stop us.
+Dialogue: 0,0:26:20.91,0:26:22.12,Default,,0,0,0,,No!
+Dialogue: 0,0:26:22.20,0:26:23.37,Default,,0,0,0,,No!
+Dialogue: 0,0:26:32.25,0:26:35.13,Default,,0,0,0,,You never found your champion.
+Dialogue: 0,0:26:36.51,0:26:39.47,Default,,0,0,0,,But we found ours.
+Dialogue: 0,0:26:54.44,0:26:58.61,Default,,0,0,0,,You are the true champion.
+Dialogue: 0,0:27:30.19,0:27:31.44,Default,,0,0,0,,They're using you.
+Dialogue: 0,0:27:31.52,0:27:34.19,Default,,0,0,0,,You're nothing to them\Nbut a means of escape.
+Dialogue: 0,0:27:40.74,0:27:44.24,Default,,0,0,0,,Through you, they'll spread their\Npoison to everything they touch!
+Dialogue: 0,0:27:44.95,0:27:47.16,Default,,0,0,0,,Make mankind turn on each other!
+Dialogue: 0,0:27:48.29,0:27:50.67,Default,,0,0,0,,You seek a pure soul, old man,
+Dialogue: 0,0:27:50.75,0:27:52.92,Default,,0,0,0,,but no one's worthy.
+Dialogue: 0,0:28:01.76,0:28:04.64,Default,,0,0,0,,Flight or invisibility?
+Dialogue: 0,0:28:05.85,0:28:07.31,Default,,0,0,0,,If you could have\None superpower,
+Dialogue: 0,0:28:07.39,0:28:09.35,Default,,0,0,0,,flight or invisibility,\Nwhat would you pick?
+Dialogue: 0,0:28:09.43,0:28:12.02,Default,,0,0,0,,I mean, everybody chooses\Nflight. You know why?
+Dialogue: 0,0:28:12.10,0:28:13.98,Default,,0,0,0,,So they can fly away\Nfrom this conversation?
+Dialogue: 0,0:28:14.06,0:28:15.48,Default,,0,0,0,,No, no. 'Cause heroes fly.
+Dialogue: 0,0:28:15.57,0:28:17.84,Default,,0,0,0,,And who doesn't want people\Nto think they're a hero, right?
+Dialogue: 0,0:28:17.86,0:28:20.03,Default,,0,0,0,,But invisibility, no way.
+Dialogue: 0,0:28:20.11,0:28:21.28,Default,,0,0,0,,That's pervy.
+Dialogue: 0,0:28:21.36,0:28:22.92,Default,,0,0,0,,Spying around on people who\Ndon't even know you're there.
+Dialogue: 0,0:28:22.95,0:28:25.53,Default,,0,0,0,,Sneaking around everywhere.\NIt's a total villain power, right?
+Dialogue: 0,0:28:33.12,0:28:34.94,Default,,0,0,0,,Then they did this study,\Nand this is a real thing.
+Dialogue: 0,0:28:34.96,0:28:37.16,Default,,0,0,0,,They asked people the same question.\NYou know, what power do you want?
+Dialogue: 0,0:28:37.17,0:28:39.23,Default,,0,0,0,,But this time, they made it so\Nthe answers were anonymous.
+Dialogue: 0,0:28:39.26,0:28:42.43,Default,,0,0,0,,And most people, since they knew\Nthat it was secret, said invisibility.
+Dialogue: 0,0:28:42.51,0:28:43.82,Default,,0,0,0,,And I think that's\N'cause most people
+Dialogue: 0,0:28:43.84,0:28:46.39,Default,,0,0,0,,don't feel like heroes\Non the inside, deep down.
+Dialogue: 0,0:28:46.47,0:28:47.51,Default,,0,0,0,,You're gonna run away.
+Dialogue: 0,0:28:48.60,0:28:50.39,Default,,0,0,0,,I mean, you stole\Nmy Superman bullet.
+Dialogue: 0,0:28:51.06,0:28:53.02,Default,,0,0,0,,Dude, I get it. I get it.
+Dialogue: 0,0:28:53.10,0:28:54.66,Default,,0,0,0,,You've been screwed\Nover way too many times.
+Dialogue: 0,0:28:54.69,0:28:55.86,Default,,0,0,0,,You don't trust anyone.
+Dialogue: 0,0:28:56.48,0:29:00.15,Default,,0,0,0,,That's the thing about invisibility.\NYou end up all by yourself.
+Dialogue: 0,0:29:01.44,0:29:03.91,Default,,0,0,0,,I didn't steal your dumb bullet.
+Dialogue: 0,0:29:09.33,0:29:11.25,Default,,0,0,0,,Hey. How was it today?
+Dialogue: 0,0:29:12.20,0:29:13.75,Default,,0,0,0,,{\i1}That good, huh'?{\i0}
+Dialogue: 0,0:29:16.50,0:29:18.88,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:29:19.30,0:29:20.92,Default,,0,0,0,,Oh, my God! Freddy.
+Dialogue: 0,0:29:21.01,0:29:21.92,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:29:22.01,0:29:23.42,Default,,0,0,0,,- You okay?\N- Yes. Yes.
+Dialogue: 0,0:29:25.38,0:29:26.30,Default,,0,0,0,,What the hell?
+Dialogue: 0,0:29:26.39,0:29:27.91,Default,,0,0,0,,- What is wrong with you two?\N- Oh, ho!
+Dialogue: 0,0:29:27.93,0:29:30.01,Default,,0,0,0,,No way that's gonna buff out.
+Dialogue: 0,0:29:30.10,0:29:31.43,Default,,0,0,0,,You gonna pay for that, Freeman?
+Dialogue: 0,0:29:31.52,0:29:33.08,Default,,0,0,0,,For the dent you\Nmade almost hitting me?
+Dialogue: 0,0:29:33.10,0:29:34.19,Default,,0,0,0,,Yeah, sure. Um...
+Dialogue: 0,0:29:34.27,0:29:35.27,Default,,0,0,0,,You guys take these?
+Dialogue: 0,0:29:39.90,0:29:41.40,Default,,0,0,0,,Brett, stop!
+Dialogue: 0,0:29:42.44,0:29:43.74,Default,,0,0,0,,Don't touch my brother!
+Dialogue: 0,0:29:43.82,0:29:45.67,Default,,0,0,0,,What, do you need your\Nfake family to stand up for you?
+Dialogue: 0,0:29:45.70,0:29:47.50,Default,,0,0,0,,- Stand up for yourself, Freeman.\N- Yeah, huh?
+Dialogue: 0,0:29:47.53,0:29:49.08,Default,,0,0,0,,Hey, Freeman.\NFreeman, here, stand up.
+Dialogue: 0,0:29:49.16,0:29:50.24,Default,,0,0,0,,Stand up for yourself.
+Dialogue: 0,0:29:50.33,0:29:52.10,Default,,0,0,0,,What are you gonna do,\Ngo home and cry to Mommy?
+Dialogue: 0,0:29:52.12,0:29:54.50,Default,,0,0,0,,Oh, yeah. You\Ndon't have a mommy.
+Dialogue: 0,0:29:56.50,0:29:57.50,Default,,0,0,0,,Hey.
+Dialogue: 0,0:30:00.75,0:30:02.05,Default,,0,0,0,,Man, sorry about that.
+Dialogue: 0,0:30:02.13,0:30:04.84,Default,,0,0,0,,That wasn't fair, but then\Nagain you don't fight fair, so...
+Dialogue: 0,0:30:10.01,0:30:12.47,Default,,0,0,0,,Back off, assbags. I know\Nhow to use these things.
+Dialogue: 0,0:30:18.73,0:30:20.29,Default,,0,0,0,,Hey! He's getting\Naway! Where you going?
+Dialogue: 0,0:30:21.11,0:30:22.61,Default,,0,0,0,,Freddy, are you okay?
+Dialogue: 0,0:30:24.53,0:30:25.71,Default,,0,0,0,,Hey, let's go through the back.
+Dialogue: 0,0:30:25.74,0:30:26.78,Default,,0,0,0,,Yeah, yeah, yeah.
+Dialogue: 0,0:30:34.95,0:30:35.96,Default,,0,0,0,,Nowhere to run!
+Dialogue: 0,0:30:36.04,0:30:37.25,Default,,0,0,0,,Hey!
+Dialogue: 0,0:30:37.33,0:30:39.13,Default,,0,0,0,,- Go, go, go!\N- Grab him! Move!
+Dialogue: 0,0:30:39.21,0:30:41.50,Default,,0,0,0,,- Get out the way.\N- Move, woman!
+Dialogue: 0,0:30:41.63,0:30:42.63,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:30:44.09,0:30:45.84,Default,,0,0,0,,No, no, no.
+Dialogue: 0,0:30:46.01,0:30:47.38,Default,,0,0,0,,You're dead, kid.
+Dialogue: 0,0:30:47.47,0:30:48.72,Default,,0,0,0,,Yeah, you think you're funny.
+Dialogue: 0,0:30:48.80,0:30:50.64,Default,,0,0,0,,We know where you\Ngo to school, buddy!
+Dialogue: 0,0:30:53.22,0:30:56.06,Default,,0,0,0,,{\i1}Woman on PM Next\Nstop, 30th Street Station.{\i0}
+Dialogue: 0,0:30:56.14,0:30:58.06,Default,,0,0,0,,{\i1}Change for the\Nregional rail lines.{\i0}
+Dialogue: 0,0:31:17.08,0:31:18.16,Default,,0,0,0,,Uh... Hello?
+Dialogue: 0,0:31:19.29,0:31:20.83,Default,,0,0,0,,What's going on?
+Dialogue: 0,0:31:35.14,0:31:36.14,Default,,0,0,0,,Help!
+Dialogue: 0,0:31:50.74,0:31:51.91,Default,,0,0,0,,Okay.
+Dialogue: 0,0:32:07.63,0:32:09.09,Default,,0,0,0,,Holy moly.
+Dialogue: 0,0:32:25.52,0:32:26.69,Default,,0,0,0,,Hello?
+Dialogue: 0,0:32:41.62,0:32:42.71,Default,,0,0,0,,What the hell?
+Dialogue: 0,0:32:43.29,0:32:44.88,Default,,0,0,0,,Who's doing this?
+Dialogue: 0,0:33:16.66,0:33:18.16,Default,,0,0,0,,Hi. Um...
+Dialogue: 0,0:33:19.24,0:33:21.75,Default,,0,0,0,,I was supposed\Nto get off at 30th.
+Dialogue: 0,0:33:21.83,0:33:23.04,Default,,0,0,0,,Billy Batson.
+Dialogue: 0,0:33:23.58,0:33:24.79,Default,,0,0,0,,How'd you know my name?
+Dialogue: 0,0:33:25.37,0:33:28.63,Default,,0,0,0,,I am the last of the\NCouncil of Wizards.
+Dialogue: 0,0:33:29.55,0:33:31.88,Default,,0,0,0,,Keeper of the Rock of Eternity.
+Dialogue: 0,0:33:32.59,0:33:33.59,Default,,0,0,0,,Oh...
+Dialogue: 0,0:33:34.05,0:33:35.05,Default,,0,0,0,,You're...
+Dialogue: 0,0:33:36.05,0:33:37.55,Default,,0,0,0,,that guy.
+Dialogue: 0,0:33:37.64,0:33:39.39,Default,,0,0,0,,Hey, listen, I don't\Nhave any money.
+Dialogue: 0,0:33:39.47,0:33:41.47,Default,,0,0,0,,Do not patronize me, boy.
+Dialogue: 0,0:33:43.85,0:33:47.44,Default,,0,0,0,,You are standing in\Nthe source of all magic.
+Dialogue: 0,0:33:47.52,0:33:52.65,Default,,0,0,0,,The Rock of Eternity. Seven\Nthrones of seven wizards.
+Dialogue: 0,0:33:52.74,0:33:56.24,Default,,0,0,0,,But long ago, we\Nchose a champion
+Dialogue: 0,0:33:56.32,0:33:58.12,Default,,0,0,0,,and we chose recklessly.
+Dialogue: 0,0:34:01.45,0:34:04.66,Default,,0,0,0,,He used his power for revenge,
+Dialogue: 0,0:34:04.75,0:34:08.75,Default,,0,0,0,,releasing the Seven\NDeadly Sins into your world.
+Dialogue: 0,0:34:12.34,0:34:15.09,Default,,0,0,0,,Millions of lives were lost.
+Dialogue: 0,0:34:15.17,0:34:19.55,Default,,0,0,0,,Entire civilizations\Nerased from existence.
+Dialogue: 0,0:34:23.68,0:34:27.35,Default,,0,0,0,,That is why I vowed\Nnever to pass on my magic
+Dialogue: 0,0:34:27.44,0:34:31.65,Default,,0,0,0,,until I find one\Ntruly good person.
+Dialogue: 0,0:34:32.52,0:34:34.69,Default,,0,0,0,,Strong in spirit,
+Dialogue: 0,0:34:34.78,0:34:36.78,Default,,0,0,0,,pure in heart.
+Dialogue: 0,0:34:37.40,0:34:40.45,Default,,0,0,0,,Look, man, maybe this is magic
+Dialogue: 0,0:34:41.24,0:34:42.83,Default,,0,0,0,,and, I don't know,
+Dialogue: 0,0:34:43.49,0:34:46.04,Default,,0,0,0,,but the people you're\Nlooking for, good, pure people,
+Dialogue: 0,0:34:46.66,0:34:47.92,Default,,0,0,0,,I'm not one of them.
+Dialogue: 0,0:34:48.92,0:34:50.75,Default,,0,0,0,,I don't know if\Nanyone is, really.
+Dialogue: 0,0:34:51.79,0:34:54.34,Default,,0,0,0,,You, Billy Batson,
+Dialogue: 0,0:34:55.21,0:34:56.72,Default,,0,0,0,,are all I have.
+Dialogue: 0,0:34:56.80,0:34:59.01,Default,,0,0,0,,All the world has.
+Dialogue: 0,0:35:01.10,0:35:03.35,Default,,0,0,0,,Lay your hands on my staff.
+Dialogue: 0,0:35:03.43,0:35:04.47,Default,,0,0,0,,Gross.
+Dialogue: 0,0:35:04.56,0:35:08.14,Default,,0,0,0,,And say my name so my\Npowers may flow through you.
+Dialogue: 0,0:35:08.23,0:35:11.23,Default,,0,0,0,,I open my heart\Nto you, Billy Batson.
+Dialogue: 0,0:35:11.86,0:35:15.44,Default,,0,0,0,,And in so doing,\Nchoose you as champion.
+Dialogue: 0,0:35:16.07,0:35:17.15,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:35:17.24,0:35:20.24,Default,,0,0,0,,Real sweet of you, mister,\Nbut I really gotta get going.
+Dialogue: 0,0:35:20.32,0:35:23.91,Default,,0,0,0,,My brothers and sisters\Nwere slain by the Sins.
+Dialogue: 0,0:35:23.99,0:35:26.75,Default,,0,0,0,,Their thrones lie empty.
+Dialogue: 0,0:35:27.37,0:35:30.04,Default,,0,0,0,,My magic must be passed on.
+Dialogue: 0,0:35:30.12,0:35:32.79,Default,,0,0,0,,Now, speak my name!
+Dialogue: 0,0:35:33.46,0:35:36.09,Default,,0,0,0,,I don't know your\Nname, sir. We just met.
+Dialogue: 0,0:35:36.67,0:35:38.76,Default,,0,0,0,,My name is...
+Dialogue: 0,0:35:39.51,0:35:41.09,Default,,0,0,0,,Shazam.
+Dialogue: 0,0:35:43.22,0:35:44.39,Default,,0,0,0,,Wait, for real?
+Dialogue: 0,0:35:44.47,0:35:46.10,Default,,0,0,0,,- "Say it!\N- OKay!"
+Dialogue: 0,0:35:46.68,0:35:47.85,Default,,0,0,0,,Jeez.
+Dialogue: 0,0:35:58.86,0:36:00.99,Default,,0,0,0,,So just say it'? Like...
+Dialogue: 0,0:36:02.11,0:36:03.12,Default,,0,0,0,,Shazam?
+Dialogue: 0,0:36:04.20,0:36:05.24,Default,,0,0,0,,Yes!
+Dialogue: 0,0:36:05.33,0:36:08.70,Default,,0,0,0,,Carry my name, and with\Nit, you carry all my powers.
+Dialogue: 0,0:36:08.79,0:36:11.58,Default,,0,0,0,,The wisdom of Solomon,\Nthe strength of Hercules,
+Dialogue: 0,0:36:11.67,0:36:14.96,Default,,0,0,0,,the stamina of Atlas,\Nthe power of Zeus,
+Dialogue: 0,0:36:15.04,0:36:18.67,Default,,0,0,0,,the courage of Achilles,\Nand the speed of Mercury.
+Dialogue: 0,0:36:29.10,0:36:31.10,Default,,0,0,0,,What happened to me? Why am...
+Dialogue: 0,0:36:31.19,0:36:33.19,Default,,0,0,0,,What did you do to me?\NWhat did you do to my voice?
+Dialogue: 0,0:36:33.27,0:36:36.94,Default,,0,0,0,,You have been transformed to\Nyour full potential, Billy Batson.
+Dialogue: 0,0:36:38.65,0:36:41.82,Default,,0,0,0,,With your heart, unlock\Nyour greatest power.
+Dialogue: 0,0:36:42.53,0:36:44.78,Default,,0,0,0,,The thrones of our\Nbrothers and sisters await.
+Dialogue: 0,0:36:57.04,0:36:59.05,Default,,0,0,0,,Get me outta here!
+Dialogue: 0,0:37:01.17,0:37:02.80,Default,,0,0,0,,Dope!
+Dialogue: 0,0:37:04.55,0:37:07.39,Default,,0,0,0,,My brother, I applaud\Nyour choices today.
+Dialogue: 0,0:37:07.47,0:37:10.22,Default,,0,0,0,,Gold shoes, gold\Nbelt, white cape.
+Dialogue: 0,0:37:10.31,0:37:13.64,Default,,0,0,0,,It shouldn't work,\Nbut hot damn, it does!
+Dialogue: 0,0:37:14.90,0:37:15.90,Default,,0,0,0,,Ow!
+Dialogue: 0,0:37:22.90,0:37:24.07,Default,,0,0,0,,Hey!
+Dialogue: 0,0:37:26.57,0:37:27.99,Default,,0,0,0,,Hey, babe!
+Dialogue: 0,0:37:34.37,0:37:35.37,Default,,0,0,0,,{\i1}Yes, Officer.{\i0}
+Dialogue: 0,0:37:35.46,0:37:37.21,Default,,0,0,0,,I'm aware he's run\Naway in the past.
+Dialogue: 0,0:37:38.54,0:37:39.80,Default,,0,0,0,,Twenty-three times?
+Dialogue: 0,0:37:40.50,0:37:43.97,Default,,0,0,0,,Guy's got no social\Nmedia presence. At all.
+Dialogue: 0,0:37:44.05,0:37:45.18,Default,,0,0,0,,The guy is a ghost.
+Dialogue: 0,0:38:08.87,0:38:10.70,Default,,0,0,0,,You know, guys, I'm\Nhappy to look for Billy.
+Dialogue: 0,0:38:10.78,0:38:12.12,Default,,0,0,0,,More than happy.
+Dialogue: 0,0:38:12.20,0:38:14.75,Default,,0,0,0,,But no, you gotta wash the\Ndishes. That's what's more important.
+Dialogue: 0,0:38:14.83,0:38:16.39,Default,,0,0,0,,"What are you gonna\Ndo, Freddy, run after him?"
+Dialogue: 0,0:38:16.42,0:38:18.67,Default,,0,0,0,,Very funny.
+Dialogue: 0,0:38:19.71,0:38:21.21,Default,,0,0,0,,No, I said, don't scream.
+Dialogue: 0,0:38:21.30,0:38:22.80,Default,,0,0,0,,- Uh... Victor? Victor!\N- No, no!
+Dialogue: 0,0:38:22.88,0:38:24.26,Default,,0,0,0,,- Victor!\N- It's me. It's Billy.
+Dialogue: 0,0:38:24.34,0:38:25.42,Default,,0,0,0,,It's Billy!
+Dialogue: 0,0:38:25.51,0:38:28.34,Default,,0,0,0,,You asked me flight or\Ninvisibility. I thought that was stupid,
+Dialogue: 0,0:38:28.43,0:38:30.47,Default,,0,0,0,,but now I look like this\Nand I need your help.
+Dialogue: 0,0:38:31.10,0:38:32.76,Default,,0,0,0,,Meet me back\Nhere after lights-out?
+Dialogue: 0,0:38:34.43,0:38:35.73,Default,,0,0,0,,'Sup, bud? You all right?
+Dialogue: 0,0:38:36.31,0:38:39.06,Default,,0,0,0,,Yeah. Yeah. I'm just...
+Dialogue: 0,0:38:39.73,0:38:43.07,Default,,0,0,0,,I'm really sad\Nbecause Billy's gone.
+Dialogue: 0,0:38:43.15,0:38:46.78,Default,,0,0,0,,And, you know, maybe\Nit's my fault. Maybe I did it.
+Dialogue: 0,0:38:46.86,0:38:48.57,Default,,0,0,0,,Uh, you know, maybe I snore.
+Dialogue: 0,0:38:48.66,0:38:51.16,Default,,0,0,0,,Hey, hey, hey. Not\Nyour fault, son, all right?
+Dialogue: 0,0:38:51.91,0:38:53.33,Default,,0,0,0,,We'll find him, 'kay?
+Dialogue: 0,0:38:53.91,0:38:55.50,Default,,0,0,0,,You don't snore that bad.
+Dialogue: 0,0:38:55.87,0:38:57.62,Default,,0,0,0,,But you kinda smell.
+Dialogue: 0,0:39:08.26,0:39:10.30,Default,,0,0,0,,Oh, thank God!
+Dialogue: 0,0:39:10.39,0:39:12.51,Default,,0,0,0,,Hey. Stop right there.
+Dialogue: 0,0:39:12.60,0:39:14.95,Default,,0,0,0,,How do I know you're not a\Nsupervillain using telepathic abilities
+Dialogue: 0,0:39:14.97,0:39:16.81,Default,,0,0,0,,to make me believe\Nthat you're Billy? Huh?
+Dialogue: 0,0:39:16.89,0:39:17.89,Default,,0,0,0,,What?
+Dialogue: 0,0:39:17.94,0:39:19.16,Default,,0,0,0,,All I have to do is\Npress "dial" on this thing.
+Dialogue: 0,0:39:19.19,0:39:21.15,Default,,0,0,0,,No! No., I have proof.\NI have proof. Here.
+Dialogue: 0,0:39:22.73,0:39:24.82,Default,,0,0,0,,Look, I lied, okay?\NI took your bullet.
+Dialogue: 0,0:39:24.90,0:39:26.90,Default,,0,0,0,,- Oh, no! No., no, no.\N- No!
+Dialogue: 0,0:39:27.19,0:39:29.32,Default,,0,0,0,,Stupid adult hands.
+Dialogue: 0,0:39:29.40,0:39:30.49,Default,,0,0,0,,But you saw it.
+Dialogue: 0,0:39:30.57,0:39:34.28,Default,,0,0,0,,You saw it, right? Look,\NFreddy, I swear. It's me, okay?
+Dialogue: 0,0:39:34.37,0:39:36.26,Default,,0,0,0,,Look, I know we're not really\Nclose friends or anything,
+Dialogue: 0,0:39:36.29,0:39:37.47,Default,,0,0,0,,but you're the only\Nperson that I know
+Dialogue: 0,0:39:37.50,0:39:39.31,Default,,0,0,0,,that knows anything about\Nthis caped crusader stuff.
+Dialogue: 0,0:39:39.33,0:39:41.17,Default,,0,0,0,,- That's Batman.\N- What?
+Dialogue: 0,0:39:42.25,0:39:43.84,Default,,0,0,0,,Forget it.
+Dialogue: 0,0:39:44.71,0:39:45.84,Default,,0,0,0,,Can l...
+Dialogue: 0,0:39:47.59,0:39:48.92,Default,,0,0,0,,Oh, yeah. Yeah, yeah.
+Dialogue: 0,0:39:57.22,0:39:59.43,Default,,0,0,0,,On... on, my God!
+Dialogue: 0,0:40:00.60,0:40:01.77,Default,,0,0,0,,It's crazy, right?
+Dialogue: 0,0:40:02.69,0:40:03.86,Default,,0,0,0,,What are your superpowers?
+Dialogue: 0,0:40:04.48,0:40:06.92,Default,,0,0,0,,Superpowers? Dude, I don't\Neven know how to pee in this thing.
+Dialogue: 0,0:40:07.23,0:40:08.74,Default,,0,0,0,,Okay. Can you fly?
+Dialogue: 0,0:40:11.07,0:40:11.91,Default,,0,0,0,,{\i1}Okay!{\i0}
+Dialogue: 0,0:40:11.99,0:40:13.24,Default,,0,0,0,,Let's do this.
+Dialogue: 0,0:40:13.78,0:40:14.78,Default,,0,0,0,,How do we do this?
+Dialogue: 0,0:40:15.53,0:40:18.04,Default,,0,0,0,,Just, um, like, Superman it.
+Dialogue: 0,0:40:21.42,0:40:23.17,Default,,0,0,0,,Oh, my God. Obviously,\Nyou have to jump.
+Dialogue: 0,0:40:23.25,0:40:24.25,Default,,0,0,0,,Come on.
+Dialogue: 0,0:40:24.67,0:40:26.21,Default,,0,0,0,,How is any of this obvious?
+Dialogue: 0,0:40:26.30,0:40:27.38,Default,,0,0,0,,Okay.
+Dialogue: 0,0:40:27.96,0:40:30.80,Default,,0,0,0,,Try, uh, to believe\Nthat you can fly. Okay?
+Dialogue: 0,0:40:30.88,0:40:32.22,Default,,0,0,0,,I read this deep dive
+Dialogue: 0,0:40:32.30,0:40:33.90,Default,,0,0,0,,into peer-reviewed\Nstudies about superpowers
+Dialogue: 0,0:40:33.93,0:40:36.85,Default,,0,0,0,,and in six out of\Nten, belief is the key.
+Dialogue: 0,0:40:36.93,0:40:39.39,Default,,0,0,0,,Belief. Belief. Belief. Okay.\NOkay. I believe I can fly.
+Dialogue: 0,0:40:39.47,0:40:41.23,Default,,0,0,0,,I believe I...
+Dialogue: 0,0:40:41.35,0:40:43.02,Default,,0,0,0,,I believe I can fly.
+Dialogue: 0,0:40:43.10,0:40:44.27,Default,,0,0,0,,I believe...
+Dialogue: 0,0:40:48.78,0:40:51.32,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:40:52.45,0:40:54.16,Default,,0,0,0,,Did you believe?
+Dialogue: 0,0:40:57.08,0:40:58.08,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:40:58.66,0:41:00.04,Default,,0,0,0,,You wanna try invisibility?
+Dialogue: 0,0:41:01.58,0:41:02.75,Default,,0,0,0,,How do I do...
+Dialogue: 0,0:41:02.83,0:41:04.37,Default,,0,0,0,,Forget it. You know, okay.
+Dialogue: 0,0:41:04.46,0:41:06.17,Default,,0,0,0,,Okay, okay, okay.
+Dialogue: 0,0:41:09.25,0:41:11.26,Default,,0,0,0,,Oh, my God! It worked!
+Dialogue: 0,0:41:11.84,0:41:12.84,Default,,0,0,0,,Where'd you go?
+Dialogue: 0,0:41:14.18,0:41:15.45,Default,,0,0,0,,I'm right here.\NYou can't see me?
+Dialogue: 0,0:41:15.47,0:41:16.60,Default,,0,0,0,,Where?
+Dialogue: 0,0:41:16.85,0:41:19.01,Default,,0,0,0,,I'm invisible!
+Dialogue: 0,0:41:19.10,0:41:20.18,Default,,0,0,0,,I'm right here. Over here.
+Dialogue: 0,0:41:22.73,0:41:24.65,Default,,0,0,0,,I'm invisible! I'm invisible!
+Dialogue: 0,0:41:24.73,0:41:25.73,Default,,0,0,0,,Hey!
+Dialogue: 0,0:41:25.77,0:41:27.19,Default,,0,0,0,,Nice outfit, dipshit.
+Dialogue: 0,0:41:29.44,0:41:31.49,Default,,0,0,0,,I might've been\Ntesting invisibility
+Dialogue: 0,0:41:31.57,0:41:33.53,Default,,0,0,0,,and super-intelligence\Nat the same time.
+Dialogue: 0,0:41:33.61,0:41:35.82,Default,,0,0,0,,Freeman, I'm gonna come\Nover there and beat you.
+Dialogue: 0,0:41:43.79,0:41:45.92,Default,,0,0,0,,Oh, my God! The\Nlightning emblem!
+Dialogue: 0,0:41:46.00,0:41:48.38,Default,,0,0,0,,It was staring us right in\Nthe face the whole time.
+Dialogue: 0,0:41:49.54,0:41:50.59,Default,,0,0,0,,Literally!
+Dialogue: 0,0:41:58.89,0:41:59.89,Default,,0,0,0,,Okay, okay.
+Dialogue: 0,0:41:59.93,0:42:01.70,Default,,0,0,0,,Clearly, we gotta give you a\Nlightning-themed superhero name.
+Dialogue: 0,0:42:01.72,0:42:02.89,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:42:14.19,0:42:15.19,Default,,0,0,0,,Oh, right.
+Dialogue: 0,0:42:15.24,0:42:16.24,Default,,0,0,0,,Hey, yo! Back...
+Dialogue: 0,0:42:18.24,0:42:19.28,Default,,0,0,0,,off.
+Dialogue: 0,0:42:19.37,0:42:22.24,Default,,0,0,0,,Hyper-speed, check.
+Dialogue: 0,0:42:23.33,0:42:25.33,Default,,0,0,0,,I'm sorry. I'm so sorry.
+Dialogue: 0,0:42:25.41,0:42:27.02,Default,,0,0,0,,I thought you were the\None who was screaming.
+Dialogue: 0,0:42:27.04,0:42:28.28,Default,,0,0,0,,I doused him with pepper spray.
+Dialogue: 0,0:42:28.79,0:42:29.84,Default,,0,0,0,,Smart move.
+Dialogue: 0,0:42:29.92,0:42:33.55,Default,,0,0,0,,Yeah, hey, Mr. Mugger Guy.\NGive the old lady her purse back.
+Dialogue: 0,0:42:33.63,0:42:35.01,Default,,0,0,0,,I'm your age.
+Dialogue: 0,0:42:35.09,0:42:37.85,Default,,0,0,0,,And he didn't get a chance to\Ntake it 'cause I didn't let him take it.
+Dialogue: 0,0:42:38.22,0:42:40.60,Default,,0,0,0,,Good. Yeah, good. You're\Nreally on top of this stuff.
+Dialogue: 0,0:42:40.68,0:42:42.56,Default,,0,0,0,,And that should teach\Nyou that old ladies...
+Dialogue: 0,0:42:42.64,0:42:46.60,Default,,0,0,0,,Regular-aged ladies like yourself\Ndon't need your protecting, right?
+Dialogue: 0,0:42:46.69,0:42:47.94,Default,,0,0,0,,So get woke, bro.
+Dialogue: 0,0:42:48.02,0:42:49.40,Default,,0,0,0,,I'm sorry, who are you?
+Dialogue: 0,0:42:49.48,0:42:52.36,Default,,0,0,0,,His name is Thundercrack,
+Dialogue: 0,0:42:52.44,0:42:56.11,Default,,0,0,0,,hero to the people with all the\Npower and speed of lightning all in one.
+Dialogue: 0,0:42:56.19,0:42:57.63,Default,,0,0,0,,Dude, that sounds\Nlike a butt thing.
+Dialogue: 0,0:42:59.57,0:43:00.70,Default,,0,0,0,,Mister Philadelphia.
+Dialogue: 0,0:43:00.78,0:43:02.14,Default,,0,0,0,,That's a cream\Ncheese thing, dude!
+Dialogue: 0,0:43:02.16,0:43:03.59,Default,,0,0,0,,Power Boy. 'Cause\Nhe's got all the powers.
+Dialogue: 0,0:43:03.62,0:43:06.20,Default,,0,0,0,,'Cause sometimes pepper\Nspray can't protect against evil.
+Dialogue: 0,0:43:06.79,0:43:08.62,Default,,0,0,0,,Power Boy, do\Nyou know this child?
+Dialogue: 0,0:43:11.04,0:43:13.92,Default,,0,0,0,,Like a teeny little bit.\NI don't really know...
+Dialogue: 0,0:43:14.00,0:43:15.68,Default,,0,0,0,,Yeah. He's like a little\Nminiature manager.
+Dialogue: 0,0:43:15.76,0:43:17.72,Default,,0,0,0,,I'm his manager.
+Dialogue: 0,0:43:17.88,0:43:20.36,Default,,0,0,0,,But Power Boy's not gonna work,\Neither, okay? So work on something else.
+Dialogue: 0,0:43:20.39,0:43:21.85,Default,,0,0,0,,Hey, bud, what could...
+Dialogue: 0,0:43:26.93,0:43:29.98,Default,,0,0,0,,Electricity manipulation,\Nhyper-speed, super-strength.
+Dialogue: 0,0:43:30.06,0:43:31.27,Default,,0,0,0,,Dude, you're stacked!
+Dialogue: 0,0:43:31.35,0:43:33.19,Default,,0,0,0,,You're almost as cool\Nas Superman. Almost.
+Dialogue: 0,0:43:33.27,0:43:35.38,Default,,0,0,0,,I didn't see you. I don't know\Nwhat just happened here.
+Dialogue: 0,0:43:35.40,0:43:37.36,Default,,0,0,0,,I don't wanna know.\NJust don't hurt me.
+Dialogue: 0,0:43:37.44,0:43:39.05,Default,,0,0,0,,- I'm not doing it for the money.\N- Thank you for your kind donation.
+Dialogue: 0,0:43:39.07,0:43:40.51,Default,,0,0,0,,No, no, no, but if you\Never need any more help
+Dialogue: 0,0:43:40.53,0:43:43.62,Default,,0,0,0,,just look for the\Nsuperhero that still can't fly.
+Dialogue: 0,0:43:43.70,0:43:46.58,Default,,0,0,0,,Forget flying, man.\NWe just made 73 bucks!
+Dialogue: 0,0:43:46.66,0:43:48.29,Default,,0,0,0,,Seventy-three bucks?
+Dialogue: 0,0:43:48.46,0:43:49.96,Default,,0,0,0,,Come on!
+Dialogue: 0,0:43:50.83,0:43:52.04,Default,,0,0,0,,Hey, wait a minute.
+Dialogue: 0,0:43:52.83,0:43:54.13,Default,,0,0,0,,I just got an idea.
+Dialogue: 0,0:43:55.38,0:43:57.84,Default,,0,0,0,,I'd like to purchase some\Nof your finest beer, please.
+Dialogue: 0,0:44:17.19,0:44:19.59,Default,,0,0,0,,I don't know about this. I mean,\Nwe don't have a fake ID even.
+Dialogue: 0,0:44:19.61,0:44:21.49,Default,,0,0,0,,Freddy, Freddy, would you relax?
+Dialogue: 0,0:44:21.57,0:44:24.32,Default,,0,0,0,,Look at me. I am the fake ID.
+Dialogue: 0,0:44:24.41,0:44:25.51,Default,,0,0,0,,Everything from the register!
+Dialogue: 0,0:44:25.53,0:44:27.33,Default,,0,0,0,,Go, go! Now!
+Dialogue: 0,0:44:27.41,0:44:29.29,Default,,0,0,0,,Come on! We don't have\Nany time. Let's go. Move!
+Dialogue: 0,0:44:29.87,0:44:31.21,Default,,0,0,0,,We want it all! Hurry.
+Dialogue: 0,0:44:31.29,0:44:32.54,Default,,0,0,0,,This is your chance.
+Dialogue: 0,0:44:33.21,0:44:34.67,Default,,0,0,0,,Oh! Okay.
+Dialogue: 0,0:44:36.13,0:44:38.17,Default,,0,0,0,,Come on, come on,\Ncome on! Let's do this!
+Dialogue: 0,0:44:39.05,0:44:40.05,Default,,0,0,0,,That's it. That's it.
+Dialogue: 0,0:44:41.93,0:44:42.93,Default,,0,0,0,,Gentlemen,
+Dialogue: 0,0:44:43.01,0:44:45.76,Default,,0,0,0,,why use guns when we\Ncan handle this like real men?
+Dialogue: 0,0:44:48.18,0:44:49.56,Default,,0,0,0,,Billy, look out!
+Dialogue: 0,0:45:02.11,0:45:04.82,Default,,0,0,0,,Bullet immunity. You\Nhave bullet immunity!
+Dialogue: 0,0:45:04.91,0:45:06.37,Default,,0,0,0,,I'm bulletproof.
+Dialogue: 0,0:45:07.99,0:45:10.29,Default,,0,0,0,,Today is December 8th,
+Dialogue: 0,0:45:10.37,0:45:12.66,Default,,0,0,0,,and this is video\Nproof of authenticity.
+Dialogue: 0,0:45:13.96,0:45:15.00,Default,,0,0,0,,Shoot him again.
+Dialogue: 0,0:45:15.08,0:45:17.13,Default,,0,0,0,,Oh, yeah, yeah, yeah.\NHere, here. Go. Both of you!
+Dialogue: 0,0:45:17.21,0:45:18.50,Default,,0,0,0,,Come on. Go to town.
+Dialogue: 0,0:45:25.14,0:45:26.60,Default,,0,0,0,,Wait, wait, wait.
+Dialogue: 0,0:45:26.68,0:45:28.72,Default,,0,0,0,,We still don't know if\Nthe suit is bulletproof,
+Dialogue: 0,0:45:28.81,0:45:30.35,Default,,0,0,0,,or if you are.
+Dialogue: 0,0:45:31.39,0:45:32.39,Default,,0,0,0,,Shoot him in the face.
+Dialogue: 0,0:45:32.43,0:45:34.31,Default,,0,0,0,,Shoot me in the\Nface. In the face?
+Dialogue: 0,0:45:42.24,0:45:43.32,Default,,0,0,0,,It kinda tickles.
+Dialogue: 0,0:45:44.91,0:45:45.91,Default,,0,0,0,,You're dead.
+Dialogue: 0,0:45:51.58,0:45:53.31,Default,,0,0,0,,- Sorry about your window.\N- Have a good night!
+Dialogue: 0,0:45:53.33,0:45:55.08,Default,,0,0,0,,But you're welcome\Nfor not getting robbed!
+Dialogue: 0,0:45:55.71,0:45:58.79,Default,,0,0,0,,Come on! Let's get outta here.
+Dialogue: 0,0:45:58.88,0:46:00.17,Default,,0,0,0,,Hey.
+Dialogue: 0,0:46:00.25,0:46:02.05,Default,,0,0,0,,- To fighting bad guys.\N- Yeah.
+Dialogue: 0,0:46:03.97,0:46:05.09,Default,,0,0,0,,Bleh!
+Dialogue: 0,0:46:05.88,0:46:07.09,Default,,0,0,0,,Ugh!
+Dialogue: 0,0:46:07.22,0:46:08.80,Default,,0,0,0,,That tastes like actual vomit.
+Dialogue: 0,0:46:10.60,0:46:12.85,Default,,0,0,0,,Hey, do you know habanero jerky,
+Dialogue: 0,0:46:12.93,0:46:15.73,Default,,0,0,0,,if you eat enough of it, it can\Nburn a hole in your stomach?
+Dialogue: 0,0:46:15.81,0:46:16.90,Default,,0,0,0,,Worth it.
+Dialogue: 0,0:46:16.98,0:46:19.86,Default,,0,0,0,,Yeah. Probably not you, though.\NYou've probably got stomach superpowers.
+Dialogue: 0,0:46:19.94,0:46:21.36,Default,,0,0,0,,Probably. Oh, hey.
+Dialogue: 0,0:46:21.44,0:46:22.57,Default,,0,0,0,,What's up? I'm a superhero.
+Dialogue: 0,0:46:22.65,0:46:24.28,Default,,0,0,0,,Yeah, his name is, uh,
+Dialogue: 0,0:46:24.36,0:46:25.82,Default,,0,0,0,,Captain Sparklefingers.
+Dialogue: 0,0:46:25.90,0:46:28.03,Default,,0,0,0,,No, it's not. No, it's\Nnot! That's not my name.
+Dialogue: 0,0:46:28.11,0:46:30.49,Default,,0,0,0,,Hey, we should hang out.\NWe're, like, the same age.
+Dialogue: 0,0:46:30.58,0:46:32.16,Default,,0,0,0,,Oh, okay. I'm out.
+Dialogue: 0,0:46:32.24,0:46:33.45,Default,,0,0,0,,Hey, wait up!
+Dialogue: 0,0:46:40.00,0:46:42.55,Default,,0,0,0,,I mean, it's a pretty sick view.
+Dialogue: 0,0:46:42.63,0:46:45.72,Default,,0,0,0,,I totally get why Rocky was\Ntraining so hard to get up here.
+Dialogue: 0,0:46:48.05,0:46:50.39,Default,,0,0,0,,You know, I like you\Nlike this. This is so cool.
+Dialogue: 0,0:46:51.43,0:46:53.06,Default,,0,0,0,,I mean, no offense,
+Dialogue: 0,0:46:53.14,0:46:57.73,Default,,0,0,0,,but, like, at first you were kinda\Nlike the opposite of how Darla is.
+Dialogue: 0,0:46:59.44,0:47:00.52,Default,,0,0,0,,A dick?
+Dialogue: 0,0:47:00.61,0:47:02.90,Default,,0,0,0,,Your words. Not mine.
+Dialogue: 0,0:47:02.98,0:47:04.40,Default,,0,0,0,,But yeah.
+Dialogue: 0,0:47:05.94,0:47:07.59,Default,,0,0,0,,All right, well, I feel\Nlike every criminal
+Dialogue: 0,0:47:07.61,0:47:09.61,Default,,0,0,0,,is either on drugs\Nor asleep by now.
+Dialogue: 0,0:47:09.70,0:47:10.99,Default,,0,0,0,,Wanna head home?
+Dialogue: 0,0:47:12.16,0:47:13.41,Default,,0,0,0,,Looking like this?
+Dialogue: 0,0:47:13.49,0:47:14.37,Default,,0,0,0,,Well, yeah,
+Dialogue: 0,0:47:14.45,0:47:17.83,Default,,0,0,0,,I mean, usually, we'd\Nhave a lair to go back to,
+Dialogue: 0,0:47:17.91,0:47:19.29,Default,,0,0,0,,but that's long-term.
+Dialogue: 0,0:47:20.00,0:47:22.50,Default,,0,0,0,,Right now, we have a bunk bed.
+Dialogue: 0,0:47:26.51,0:47:29.18,Default,,0,0,0,,Just scares me thinking\Nof him out there all alone.
+Dialogue: 0,0:47:29.26,0:47:31.18,Default,,0,0,0,,This is what he does, Rosa.
+Dialogue: 0,0:47:32.43,0:47:36.93,Default,,0,0,0,,Difference is, when they find him,\Nwe'll be the first to take him back.
+Dialogue: 0,0:47:37.02,0:47:38.35,Default,,0,0,0,,With open arms.
+Dialogue: 0,0:47:41.40,0:47:44.02,Default,,0,0,0,,Didn't even make it two\Ndays. Not even two days.
+Dialogue: 0,0:47:44.11,0:47:46.32,Default,,0,0,0,,Baby, we did our fair share\Nof running off back when.
+Dialogue: 0,0:47:46.90,0:47:48.03,Default,,0,0,0,,At least I did.
+Dialogue: 0,0:47:48.86,0:47:51.03,Default,,0,0,0,,- Yeah.\N- Even Mary did it.
+Dialogue: 0,0:47:51.11,0:47:52.41,Default,,0,0,0,,Hmm? Twice.
+Dialogue: 0,0:47:54.45,0:47:56.33,Default,,0,0,0,,That second time she ran off,
+Dialogue: 0,0:47:56.41,0:47:58.66,Default,,0,0,0,,you said something\Nto me I'll never forget.
+Dialogue: 0,0:47:59.25,0:48:00.50,Default,,0,0,0,,You said,
+Dialogue: 0,0:48:00.58,0:48:02.83,Default,,0,0,0,,"It's not a home until\Nyou call it a home.
+Dialogue: 0,0:48:02.92,0:48:04.63,Default,,0,0,0,,It's something you choose."
+Dialogue: 0,0:48:07.55,0:48:10.30,Default,,0,0,0,,All we can do is give\Nhim a place full of love.
+Dialogue: 0,0:48:11.09,0:48:14.35,Default,,0,0,0,,Whether he chooses to call\Nit a home, that's up to him.
+Dialogue: 0,0:48:16.22,0:48:17.81,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:48:19.60,0:48:20.92,Default,,0,0,0,,You gonna help\Nme with this tree?
+Dialogue: 0,0:48:22.56,0:48:24.19,Default,,0,0,0,,This tree's so sad.
+Dialogue: 0,0:48:26.32,0:48:27.73,Default,,0,0,0,,Hello?
+Dialogue: 0,0:48:27.82,0:48:29.36,Default,,0,0,0,,Got lost finding the bathroom.
+Dialogue: 0,0:48:29.94,0:48:31.70,Default,,0,0,0,,Oh, okay, Freddy,\Nsweetie. Good night.
+Dialogue: 0,0:48:31.78,0:48:32.78,Default,,0,0,0,,- Good night.\N- Night.
+Dialogue: 0,0:48:35.33,0:48:36.41,Default,,0,0,0,,Freddy, who is that?
+Dialogue: 0,0:48:36.49,0:48:39.41,Default,,0,0,0,,It's Billy. He's just really\Ntired and he has laryngitis.
+Dialogue: 0,0:48:39.50,0:48:40.62,Default,,0,0,0,,What? Laryngitis!
+Dialogue: 0,0:48:40.71,0:48:41.85,Default,,0,0,0,,I'm just kidding!\NI'm just kidding.
+Dialogue: 0,0:48:41.87,0:48:43.39,Default,,0,0,0,,He's really, really tired, and\Nhe wants to go to beddy-bye.
+Dialogue: 0,0:48:43.42,0:48:45.71,Default,,0,0,0,,- Beddy-bye? Who says beddy-bye?\N- Just hide, hide.
+Dialogue: 0,0:48:45.79,0:48:47.25,Default,,0,0,0,,Billy, you're back.\NLet us see you.
+Dialogue: 0,0:48:48.38,0:48:49.66,Default,,0,0,0,,We've been so worried about you.
+Dialogue: 0,0:48:50.72,0:48:52.43,Default,,0,0,0,,I told you this was a bad idea!
+Dialogue: 0,0:48:52.51,0:48:54.05,Default,,0,0,0,,Freddy?
+Dialogue: 0,0:48:55.10,0:48:56.50,Default,,0,0,0,,Freddy, what\Nhappened to the stairs?
+Dialogue: 0,0:48:57.39,0:48:58.39,Default,,0,0,0,,Mmm!
+Dialogue: 0,0:48:58.47,0:49:00.28,Default,,0,0,0,,Hey! Covering her mouth\Nlike you're gonna kidnap her
+Dialogue: 0,0:49:00.31,0:49:01.91,Default,,0,0,0,,is not gonna make\Nher less scared, okay?
+Dialogue: 0,0:49:04.65,0:49:06.90,Default,,0,0,0,,Darla, it's me. It's Billy. I\Nknow I don't look like me.
+Dialogue: 0,0:49:06.98,0:49:08.67,Default,,0,0,0,,- A wizard made me look like this.\N- Maybe don't start with "wizard."
+Dialogue: 0,0:49:08.69,0:49:10.09,Default,,0,0,0,,It's just gonna make\Nher more confused.
+Dialogue: 0,0:49:10.11,0:49:13.20,Default,,0,0,0,,Some old guy brought me to a\Ntemple and he made me say, "Shazam."
+Dialogue: 0,0:49:15.03,0:49:16.03,Default,,0,0,0,,Rosa!
+Dialogue: 0,0:49:16.87,0:49:19.04,Default,,0,0,0,,Verbally triggered\Nbody-manipulation properties!
+Dialogue: 0,0:49:19.12,0:49:20.52,Default,,0,0,0,,You can switch by\Nsaying, "Shazam."
+Dialogue: 0,0:49:23.33,0:49:25.58,Default,,0,0,0,,Baby, was that\Nyou? Are you okay?
+Dialogue: 0,0:49:25.79,0:49:26.79,Default,,0,0,0,,Uh...
+Dialogue: 0,0:49:27.21,0:49:29.09,Default,,0,0,0,,I was screwing in a bulb.
+Dialogue: 0,0:49:29.84,0:49:32.59,Default,,0,0,0,,Listen to me, Darla. You cannot\Ntell anybody about this, all right?
+Dialogue: 0,0:49:32.67,0:49:34.76,Default,,0,0,0,,But it's Billy. He's a hero.
+Dialogue: 0,0:49:34.84,0:49:36.24,Default,,0,0,0,,Yeah, but if a supervillain\Nfinds out that he's a hero,
+Dialogue: 0,0:49:36.26,0:49:37.51,Default,,0,0,0,,that endangers us, okay?
+Dialogue: 0,0:49:37.60,0:49:40.81,Default,,0,0,0,,A hero's loved ones are\Nthe perfect bad guy target.
+Dialogue: 0,0:49:40.89,0:49:42.41,Default,,0,0,0,,I mean, is she even\Ngood at keeping secrets?
+Dialogue: 0,0:49:42.43,0:49:44.02,Default,,0,0,0,,- Moderate.\N- No.
+Dialogue: 0,0:49:44.10,0:49:45.10,Default,,0,0,0,,Oh, God.
+Dialogue: 0,0:49:45.15,0:49:46.35,Default,,0,0,0,,Okay, listen, D,
+Dialogue: 0,0:49:46.44,0:49:49.07,Default,,0,0,0,,you cannot tell a single soul\Nabout this, all right? Please?
+Dialogue: 0,0:49:49.15,0:49:51.78,Default,,0,0,0,,Why? What if it's\Npeople we trust?
+Dialogue: 0,0:49:54.82,0:49:56.82,Default,,0,0,0,,Because good sisters\Ndon't tell secrets.
+Dialogue: 0,0:49:56.91,0:49:59.41,Default,,0,0,0,,- I'm a good sister.\N- Yeah, you are.
+Dialogue: 0,0:49:59.49,0:50:01.22,Default,,0,0,0,,You know what'd make\Nyou an even better sister?
+Dialogue: 0,0:50:01.24,0:50:02.43,Default,,0,0,0,,Is if you fixed the\Ndoorknob for us, okay?
+Dialogue: 0,0:50:02.45,0:50:03.45,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:50:03.50,0:50:05.50,Default,,0,0,0,,- Sweet dreams.\N- Sweet dreams. Bye.
+Dialogue: 0,0:50:05.58,0:50:07.10,Default,,0,0,0,,- See you in the morning.\N- Good night.
+Dialogue: 0,0:50:12.59,0:50:14.38,Default,,0,0,0,,Hello, sir. How may I help you?
+Dialogue: 0,0:50:14.47,0:50:15.80,Default,,0,0,0,,Hi. Sir?
+Dialogue: 0,0:50:16.89,0:50:19.14,Default,,0,0,0,,Sir, you can't go in\Nthere. Excuse me!
+Dialogue: 0,0:50:19.22,0:50:21.26,Default,,0,0,0,,You cannot go in there!
+Dialogue: 0,0:50:25.48,0:50:26.48,Default,,0,0,0,,Sorry I'm late.
+Dialogue: 0,0:50:26.56,0:50:28.94,Default,,0,0,0,,Thad, this is for\Nboard members only.
+Dialogue: 0,0:50:29.02,0:50:30.40,Default,,0,0,0,,I'm aware of that, Father.
+Dialogue: 0,0:50:34.24,0:50:38.66,Default,,0,0,0,,Now, that night in the car.
+Dialogue: 0,0:50:39.37,0:50:43.37,Default,,0,0,0,,I swore to you I saw something,\Nbut you never believed me.
+Dialogue: 0,0:50:43.45,0:50:46.66,Default,,0,0,0,,So much easier to\Nblame me, wasn't it?
+Dialogue: 0,0:50:47.25,0:50:49.79,Default,,0,0,0,,And say that if I hadn't\Nscreamed that night,
+Dialogue: 0,0:50:49.88,0:50:51.29,Default,,0,0,0,,you'd still have your legs.
+Dialogue: 0,0:50:52.46,0:50:54.76,Default,,0,0,0,,Well, now I have proof.
+Dialogue: 0,0:50:57.34,0:50:58.89,Default,,0,0,0,,That's enough, Thad.
+Dialogue: 0,0:50:58.97,0:51:01.80,Default,,0,0,0,,Dear Sid, you think?
+Dialogue: 0,0:51:03.14,0:51:07.27,Default,,0,0,0,,You know, even before the\Naccident, you belittled me.
+Dialogue: 0,0:51:07.35,0:51:09.77,Default,,0,0,0,,Don't make me throw\Nyou outta here, Thad.
+Dialogue: 0,0:51:10.36,0:51:12.57,Default,,0,0,0,,You don't need to make a scene.
+Dialogue: 0,0:51:12.65,0:51:14.11,Default,,0,0,0,,Oh, brother,
+Dialogue: 0,0:51:14.19,0:51:16.61,Default,,0,0,0,,the scene has only just begun.
+Dialogue: 0,0:51:20.16,0:51:21.87,Default,,0,0,0,,Ask that if you\Ncan throw me out.
+Dialogue: 0,0:51:21.95,0:51:23.08,Default,,0,0,0,,What?
+Dialogue: 0,0:51:23.16,0:51:25.70,Default,,0,0,0,,Ask the ball if you're man enough\Nto throw me out of this room.
+Dialogue: 0,0:51:30.12,0:51:31.46,Default,,0,0,0,,Let me spoil it for you.
+Dialogue: 0,0:51:39.97,0:51:43.30,Default,,0,0,0,,Outlook not so good.
+Dialogue: 0,0:51:45.52,0:51:49.89,Default,,0,0,0,,I've come here during the\Nseason of giving to give you...
+Dialogue: 0,0:51:53.69,0:51:55.36,Default,,0,0,0,,what you deserve.
+Dialogue: 0,0:52:08.96,0:52:09.96,Default,,0,0,0,,Run!
+Dialogue: 0,0:52:52.62,0:52:54.88,Default,,0,0,0,,Oh, my God! No!
+Dialogue: 0,0:52:54.96,0:52:57.13,Default,,0,0,0,,No! No!
+Dialogue: 0,0:53:12.48,0:53:13.81,Default,,0,0,0,,Help!
+Dialogue: 0,0:53:13.90,0:53:15.65,Default,,0,0,0,,Somebody!
+Dialogue: 0,0:53:15.73,0:53:18.40,Default,,0,0,0,,Help me!
+Dialogue: 0,0:53:18.48,0:53:20.61,Default,,0,0,0,,You can't go crying to\Nother people all the time.
+Dialogue: 0,0:53:22.65,0:53:25.57,Default,,0,0,0,,What sin best befits\Nyou, Father? Hmm?
+Dialogue: 0,0:53:26.20,0:53:27.78,Default,,0,0,0,,I'll give you anything.
+Dialogue: 0,0:53:28.41,0:53:29.95,Default,,0,0,0,,Money.
+Dialogue: 0,0:53:30.04,0:53:31.62,Default,,0,0,0,,The company. You\Nwant the company?
+Dialogue: 0,0:53:32.29,0:53:33.50,Default,,0,0,0,,There it is.
+Dialogue: 0,0:53:35.29,0:53:36.50,Default,,0,0,0,,Greed.
+Dialogue: 0,0:53:37.09,0:53:38.67,Default,,0,0,0,,Do you honestly think
+Dialogue: 0,0:53:39.80,0:53:43.67,Default,,0,0,0,,all this material\Nyou've accumulated
+Dialogue: 0,0:53:45.18,0:53:47.18,Default,,0,0,0,,amounts to actual power?
+Dialogue: 0,0:53:49.76,0:53:52.52,Default,,0,0,0,,This is power.
+Dialogue: 0,0:53:54.19,0:53:55.81,Default,,0,0,0,,More than you ever had.
+Dialogue: 0,0:53:56.94,0:53:58.56,Default,,0,0,0,,More than anyone has.
+Dialogue: 0,0:53:59.82,0:54:03.32,Default,,0,0,0,,There is one more powerful.
+Dialogue: 0,0:54:03.40,0:54:07.78,Default,,0,0,0,,The wizard found his champion.
+Dialogue: 0,0:54:07.87,0:54:13.50,Default,,0,0,0,,Kill the champion before\Nhe learns his true potential,
+Dialogue: 0,0:54:13.58,0:54:16.71,Default,,0,0,0,,or he will defeat you.
+Dialogue: 0,0:54:16.79,0:54:18.67,Default,,0,0,0,,Show me where to find him.
+Dialogue: 0,0:54:33.68,0:54:35.14,Default,,0,0,0,,Oh, Greed,
+Dialogue: 0,0:54:36.85,0:54:38.19,Default,,0,0,0,,you can have him.
+Dialogue: 0,0:54:39.40,0:54:40.48,Default,,0,0,0,,No.
+Dialogue: 0,0:54:40.57,0:54:43.57,Default,,0,0,0,,No.. Oh, no!
+Dialogue: 0,0:54:45.15,0:54:47.91,Default,,0,0,0,,No! No! No!
+Dialogue: 0,0:55:05.88,0:55:08.84,Default,,0,0,0,,{\i1}Family is more than just{\i0} a {\i1}word.{\i0}
+Dialogue: 0,0:55:10.14,0:55:14.14,Default,,0,0,0,,{\i1}At Sivana Industries,\Nour focus is family.{\i0}
+Dialogue: 0,0:55:38.50,0:55:40.25,Default,,0,0,0,,Uh, Burke.
+Dialogue: 0,0:55:42.54,0:55:44.21,Default,,0,0,0,,Where's the truck?
+Dialogue: 0,0:55:53.22,0:55:54.31,Default,,0,0,0,,I can hear it.
+Dialogue: 0,0:56:04.69,0:56:06.28,Default,,0,0,0,,Oh, my God!
+Dialogue: 0,0:56:06.36,0:56:07.90,Default,,0,0,0,,My truck!
+Dialogue: 0,0:56:07.99,0:56:09.45,Default,,0,0,0,,- My truck!\N- Are you kidding?
+Dialogue: 0,0:56:10.61,0:56:11.95,Default,,0,0,0,,You know, guys,
+Dialogue: 0,0:56:12.70,0:56:14.49,Default,,0,0,0,,I don't think that's\Ngonna buff out.
+Dialogue: 0,0:56:23.29,0:56:24.21,Default,,0,0,0,,Hey.
+Dialogue: 0,0:56:24.29,0:56:26.80,Default,,0,0,0,,Making the crippled kid\Ndo the dirty work. Wow!
+Dialogue: 0,0:56:26.92,0:56:28.92,Default,,0,0,0,,I'm a better lookout.\NI can play innocent.
+Dialogue: 0,0:56:29.01,0:56:30.26,Default,,0,0,0,,And I can't?
+Dialogue: 0,0:56:31.38,0:56:34.97,Default,,0,0,0,,Your face gives off a very strong vibe\Nof someone who's hatching schemes.
+Dialogue: 0,0:56:35.05,0:56:37.47,Default,,0,0,0,,- My face? This face?\N- Yeah. Yeah.
+Dialogue: 0,0:56:37.56,0:56:38.56,Default,,0,0,0,,Okay.
+Dialogue: 0,0:56:44.52,0:56:45.94,Default,,0,0,0,,You boys got a hall pass?
+Dialogue: 0,0:56:46.69,0:56:49.03,Default,,0,0,0,,Oh, us? Yeah. Always.
+Dialogue: 0,0:56:49.69,0:56:50.90,Default,,0,0,0,,You!
+Dialogue: 0,0:56:53.49,0:56:55.24,Default,,0,0,0,,You look like you're\Nup to something.
+Dialogue: 0,0:56:55.32,0:56:56.70,Default,,0,0,0,,Me? Up to something?
+Dialogue: 0,0:56:56.78,0:56:58.83,Default,,0,0,0,,No. Never am I up to something.
+Dialogue: 0,0:56:58.91,0:57:02.08,Default,,0,0,0,,Our dad's picking us up.\NHe got held up at the...
+Dialogue: 0,0:57:02.16,0:57:04.00,Default,,0,0,0,,The business office.
+Dialogue: 0,0:57:04.08,0:57:05.63,Default,,0,0,0,,The business office, huh?
+Dialogue: 0,0:57:06.34,0:57:07.46,Default,,0,0,0,,Sure, kid.
+Dialogue: 0,0:57:07.55,0:57:09.63,Default,,0,0,0,,Look, parents or guardians
+Dialogue: 0,0:57:09.71,0:57:12.97,Default,,0,0,0,,must appear physically\Nto check out students.
+Dialogue: 0,0:57:13.72,0:57:15.18,Default,,0,0,0,,Gotcha.
+Dialogue: 0,0:57:15.26,0:57:17.18,Default,,0,0,0,,Okay, well, you hear that, Dad?
+Dialogue: 0,0:57:17.26,0:57:18.64,Default,,0,0,0,,- Hey!\N- Shazam!
+Dialogue: 0,0:57:18.72,0:57:20.56,Default,,0,0,0,,Well, hey there, son,
+Dialogue: 0,0:57:20.64,0:57:22.39,Default,,0,0,0,,and hey there, other\Nson that I also have
+Dialogue: 0,0:57:22.48,0:57:24.54,Default,,0,0,0,,that's related to that son I\Njust passed in the hallway.
+Dialogue: 0,0:57:24.56,0:57:28.94,Default,,0,0,0,,I'm so sorry I'm late. I got\Nheld up at the business office,
+Dialogue: 0,0:57:29.98,0:57:31.15,Default,,0,0,0,,doing all the work stuff.
+Dialogue: 0,0:57:31.24,0:57:35.03,Default,,0,0,0,,This is the security guard\Nall the kids admire so much.
+Dialogue: 0,0:57:35.16,0:57:36.16,Default,,0,0,0,,Oh.
+Dialogue: 0,0:57:36.20,0:57:38.04,Default,,0,0,0,,Actually, that's the other\None. This one sucks.
+Dialogue: 0,0:57:38.28,0:57:40.29,Default,,0,0,0,,That's not funny.
+Dialogue: 0,0:57:40.37,0:57:43.46,Default,,0,0,0,,I'm gonna talk to him\Nabout that. I apologize.
+Dialogue: 0,0:57:43.54,0:57:46.38,Default,,0,0,0,,Anyway, this is me appearing\Nphysically to check my sons out of school.
+Dialogue: 0,0:57:46.46,0:57:50.84,Default,,0,0,0,,So, thank you so much for\Nkeeping 'em safe, Detective Moron.
+Dialogue: 0,0:57:53.88,0:57:55.05,Default,,0,0,0,,It's Moran.
+Dialogue: 0,0:57:56.14,0:57:57.76,Default,,0,0,0,,- You ready?\N- Algebra!
+Dialogue: 0,0:57:58.93,0:58:00.31,Default,,0,0,0,,Science!
+Dialogue: 0,0:58:01.10,0:58:02.39,Default,,0,0,0,,English!
+Dialogue: 0,0:58:04.64,0:58:05.94,Default,,0,0,0,,Health!
+Dialogue: 0,0:58:17.91,0:58:18.91,Default,,0,0,0,,Oh. Oh.
+Dialogue: 0,0:58:38.59,0:58:39.80,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:59:17.72,0:59:19.43,Default,,0,0,0,,I'm sorry!
+Dialogue: 0,0:59:42.49,0:59:44.41,Default,,0,0,0,,More powerful than a locomotive.
+Dialogue: 0,0:59:44.49,0:59:46.87,Default,,0,0,0,,Locomotive. What are\Nyou? An old prospector?
+Dialogue: 0,0:59:47.91,0:59:50.12,Default,,0,0,0,,Can leap tall buildings\Nin a single bound.
+Dialogue: 0,0:59:54.25,0:59:55.25,Default,,0,0,0,,Single bound.
+Dialogue: 0,0:59:57.88,0:59:59.47,Default,,0,0,0,,Oh!
+Dialogue: 0,0:59:59.55,1:00:00.72,Default,,0,0,0,,I'm sorry, I'm so sorry!
+Dialogue: 0,1:00:00.80,1:00:01.93,Default,,0,0,0,,I'm sorry, people. Hi.
+Dialogue: 0,1:00:02.01,1:00:03.18,Default,,0,0,0,,- Your phone's charged.\N- Wow!
+Dialogue: 0,1:00:03.26,1:00:04.89,Default,,0,0,0,,Your phone's charged.
+Dialogue: 0,1:00:04.97,1:00:06.10,Default,,0,0,0,,Your phone's charged.
+Dialogue: 0,1:00:06.18,1:00:09.56,Default,,0,0,0,,You really need like a mic drop\Ncatchphrase after you do some cool shit.
+Dialogue: 0,1:00:09.64,1:00:11.02,Default,,0,0,0,,I've been thinking about that.
+Dialogue: 0,1:00:11.10,1:00:12.44,Default,,0,0,0,,What about this?
+Dialogue: 0,1:00:12.52,1:00:15.19,Default,,0,0,0,,"That's why you don't\Nmess with electricity."
+Dialogue: 0,1:00:15.36,1:00:17.25,Default,,0,0,0,,Catchphrases obviously\Naren't one of your superpowers.
+Dialogue: 0,1:00:17.28,1:00:18.90,Default,,0,0,0,,And your phone's charged.
+Dialogue: 0,1:00:18.99,1:00:21.07,Default,,0,0,0,,- Well, you think you can do better?\N- What the hell?
+Dialogue: 0,1:00:21.49,1:00:23.57,Default,,0,0,0,,Let there be light.
+Dialogue: 0,1:00:26.99,1:00:29.04,Default,,0,0,0,,Yeah, yeah, baby.\NYeah, baby, okay.
+Dialogue: 0,1:00:34.21,1:00:35.67,Default,,0,0,0,,How do I... Never mind.
+Dialogue: 0,1:00:35.75,1:00:36.75,Default,,0,0,0,,Shazam!
+Dialogue: 0,1:00:40.59,1:00:41.68,Default,,0,0,0,,Shazam!
+Dialogue: 0,1:00:50.94,1:00:52.62,Default,,0,0,0,,What'd you see? What'd\Nyou see? Were there boobies?
+Dialogue: 0,1:00:52.65,1:00:54.69,Default,,0,0,0,,You see nipples?\NWhy aren't you talking?
+Dialogue: 0,1:00:56.44,1:00:57.50,Default,,0,0,0,,We're gonna need more money.
+Dialogue: 0,1:00:57.53,1:00:59.00,Default,,0,0,0,,Why? You were in there\Nfor, like, five minutes.
+Dialogue: 0,1:00:59.03,1:01:00.53,Default,,0,0,0,,Dude, they were very convincing!
+Dialogue: 0,1:01:05.91,1:01:06.91,Default,,0,0,0,,Oh, get it, get it!
+Dialogue: 0,1:01:08.87,1:01:09.87,Default,,0,0,0,,Go, go, go!
+Dialogue: 0,1:01:15.79,1:01:16.88,Default,,0,0,0,,No!
+Dialogue: 0,1:01:17.55,1:01:19.05,Default,,0,0,0,,Stop! No!
+Dialogue: 0,1:01:19.13,1:01:20.23,Default,,0,0,0,,- I'm not even looking!\N- Stop!
+Dialogue: 0,1:01:20.26,1:01:22.55,Default,,0,0,0,,- I'm not even looking! Oh!\N- Stop!
+Dialogue: 0,1:01:22.63,1:01:24.43,Default,,0,0,0,,- Why?\N- Oh, and done!
+Dialogue: 0,1:01:24.51,1:01:25.93,Default,,0,0,0,,Finished him.
+Dialogue: 0,1:01:29.81,1:01:31.35,Default,,0,0,0,,A lair.
+Dialogue: 0,1:01:31.43,1:01:32.56,Default,,0,0,0,,Yes.
+Dialogue: 0,1:01:32.64,1:01:33.70,Default,,0,0,0,,And obviously,\Nwe're gonna have to
+Dialogue: 0,1:01:33.73,1:01:35.49,Default,,0,0,0,,- be making this purchase anonymously.\N- Mmm.
+Dialogue: 0,1:01:35.94,1:01:37.06,Default,,0,0,0,,Obviously.
+Dialogue: 0,1:01:37.15,1:01:40.07,Default,,0,0,0,,And, um, if you have\Na location on a cliff.
+Dialogue: 0,1:01:40.15,1:01:41.78,Default,,0,0,0,,Like a castle-esque type thing.
+Dialogue: 0,1:01:41.86,1:01:43.59,Default,,0,0,0,,- Overlooking some water.\N- Overlooking some water,
+Dialogue: 0,1:01:43.61,1:01:45.36,Default,,0,0,0,,seas, below it.\NRough, you know...
+Dialogue: 0,1:01:45.45,1:01:46.66,Default,,0,0,0,,Like a waterfall,
+Dialogue: 0,1:01:46.74,1:01:49.09,Default,,0,0,0,,- so you can drive into...\N- Waterfall, yeah. If you... Yeah.
+Dialogue: 0,1:01:49.12,1:01:51.58,Default,,0,0,0,,Look, Maximum Voltage, is it?
+Dialogue: 0,1:01:51.66,1:01:53.75,Default,,0,0,0,,You can call me Max.
+Dialogue: 0,1:01:53.83,1:01:57.29,Default,,0,0,0,,Look, Max, why don't you just start with\Nhow many bedrooms you're looking for?
+Dialogue: 0,1:01:57.38,1:01:58.54,Default,,0,0,0,,- One!\N- Seven.
+Dialogue: 0,1:01:58.63,1:01:59.80,Default,,0,0,0,,- One?\N- Seven?
+Dialogue: 0,1:01:59.88,1:02:01.36,Default,,0,0,0,,What, am I running\Na foster home now?
+Dialogue: 0,1:02:13.23,1:02:15.45,Default,,0,0,0,,Have you seen the one where\Nhe throws the football into space?
+Dialogue: 0,1:02:15.48,1:02:16.48,Default,,0,0,0,,So dope.
+Dialogue: 0,1:02:16.52,1:02:18.52,Default,,0,0,0,,Hey, you guys gotta wonder\Nwho's filming those, right?
+Dialogue: 0,1:02:18.52,1:02:20.86,Default,,0,0,0,,I mean, that's\Nbravery in and of itself.
+Dialogue: 0,1:02:20.94,1:02:22.15,Default,,0,0,0,,I mean, is it, though?
+Dialogue: 0,1:02:22.23,1:02:24.53,Default,,0,0,0,,Yeah. I'd actually argue\Nmaybe even more brave.
+Dialogue: 0,1:02:24.61,1:02:25.61,Default,,0,0,0,,Holding a camera?
+Dialogue: 0,1:02:26.07,1:02:28.62,Default,,0,0,0,,Staring in the face of danger.
+Dialogue: 0,1:02:28.70,1:02:30.08,Default,,0,0,0,,Like some weirdo fanboy.
+Dialogue: 0,1:02:31.70,1:02:32.87,Default,,0,0,0,,Hey, Freeman.
+Dialogue: 0,1:02:32.95,1:02:34.91,Default,,0,0,0,,I wouldn't do\Nthat if I were you.
+Dialogue: 0,1:02:35.00,1:02:38.00,Default,,0,0,0,,What, is your bestie gonna hit\Nus with a wheelchair this time?
+Dialogue: 0,1:02:38.08,1:02:39.56,Default,,0,0,0,,No, maybe not him, but I\Nhave another best friend
+Dialogue: 0,1:02:39.59,1:02:41.47,Default,,0,0,0,,who might hunt you down\Nand destroy both of you.
+Dialogue: 0,1:02:42.13,1:02:43.26,Default,,0,0,0,,Okay, Freddy.
+Dialogue: 0,1:02:43.34,1:02:46.59,Default,,0,0,0,,You may have heard of him.\NThe Human Power Storm.
+Dialogue: 0,1:02:46.68,1:02:48.93,Default,,0,0,0,,Frequency Flinger.\NSir Zaps-A-Lot.
+Dialogue: 0,1:02:49.01,1:02:50.76,Default,,0,0,0,,Yeah. He's a man of many names.
+Dialogue: 0,1:02:50.85,1:02:52.01,Default,,0,0,0,,You know the Red Cyclone?
+Dialogue: 0,1:02:52.10,1:02:54.85,Default,,0,0,0,,You? My ass you do.
+Dialogue: 0,1:02:54.93,1:02:56.77,Default,,0,0,0,,Oh, we're a lot\Ncloser than you think.
+Dialogue: 0,1:02:56.85,1:02:58.81,Default,,0,0,0,,Maybe even at this very moment.
+Dialogue: 0,1:02:58.90,1:03:00.11,Default,,0,0,0,,Prove it.
+Dialogue: 0,1:03:00.19,1:03:03.03,Default,,0,0,0,,I will, tomorrow. Tomorrow\Nhe's gonna come to lunch.
+Dialogue: 0,1:03:03.11,1:03:04.49,Default,,0,0,0,,Right, right, Billy?
+Dialogue: 0,1:03:04.57,1:03:07.17,Default,,0,0,0,,Oh, yeah, and then Superman's\Ngonna be bringing us dessert, right?
+Dialogue: 0,1:03:10.24,1:03:11.78,Default,,0,0,0,,Tomorrow at lunch. You'll see.
+Dialogue: 0,1:03:12.37,1:03:15.50,Default,,0,0,0,,And when he doesn't show,\Nthen we'll kick your ass.
+Dialogue: 0,1:03:18.17,1:03:21.59,Default,,0,0,0,,So, wait, my identity's a secret\Nso no one I know can get hurt.
+Dialogue: 0,1:03:22.29,1:03:25.13,Default,,0,0,0,,Except when it makes you\Nlook cool, then it's all good.
+Dialogue: 0,1:03:25.21,1:03:26.73,Default,,0,0,0,,Billy, it's not like\Nthey're supervillains.
+Dialogue: 0,1:03:26.76,1:03:28.76,Default,,0,0,0,,They're just super douchebags.
+Dialogue: 0,1:03:28.84,1:03:31.18,Default,,0,0,0,,So, you're breaking\Nyour own rule?
+Dialogue: 0,1:03:31.26,1:03:32.26,Default,,0,0,0,,Got it.
+Dialogue: 0,1:03:33.10,1:03:35.72,Default,,0,0,0,,This thing is as much\Nas mine as it is yours.
+Dialogue: 0,1:03:36.89,1:03:39.48,Default,,0,0,0,,Starting to think you\Nthink it's all your thing.
+Dialogue: 0,1:03:39.56,1:03:41.86,Default,,0,0,0,,Billy, you're still gonna\Ndo it, though, right?
+Dialogue: 0,1:03:41.94,1:03:43.94,Default,,0,0,0,,I mean, what would\Na good brother do?
+Dialogue: 0,1:03:45.61,1:03:47.03,Default,,0,0,0,,All hands on deck.
+Dialogue: 0,1:03:50.45,1:03:53.53,Default,,0,0,0,,Thank you for this family.\NThank you for this day.
+Dialogue: 0,1:03:53.62,1:03:57.00,Default,,0,0,0,,Thank you for this food.\NSorry Billy's hand's on vacay.
+Dialogue: 0,1:04:01.08,1:04:03.46,Default,,0,0,0,,Big news in Philly.\NGot a costumed hero.
+Dialogue: 0,1:04:04.04,1:04:05.05,Default,,0,0,0,,He's doing good.
+Dialogue: 0,1:04:05.09,1:04:06.67,Default,,0,0,0,,Yeah, but is he, though?
+Dialogue: 0,1:04:07.38,1:04:10.26,Default,,0,0,0,,Ooh! Controversy. Into it.
+Dialogue: 0,1:04:10.34,1:04:13.72,Default,,0,0,0,,Share with us your\Nperspective, Eugene.
+Dialogue: 0,1:04:13.80,1:04:16.68,Default,,0,0,0,,Just saying, he's what?\NCharging people's phones?
+Dialogue: 0,1:04:16.77,1:04:19.60,Default,,0,0,0,,So what? I can charge\Na phone with a plug.
+Dialogue: 0,1:04:19.69,1:04:20.69,Default,,0,0,0,,Preach.
+Dialogue: 0,1:04:21.48,1:04:23.61,Default,,0,0,0,,Pedro, any thoughts?
+Dialogue: 0,1:04:24.31,1:04:26.15,Default,,0,0,0,,Costume's stupid.
+Dialogue: 0,1:04:26.36,1:04:27.53,Default,,0,0,0,,- Yeah.\N- Okay.
+Dialogue: 0,1:04:27.61,1:04:29.74,Default,,0,0,0,,Big white cape like he's\Ngetting married or something.
+Dialogue: 0,1:04:29.82,1:04:32.07,Default,,0,0,0,,What if he didn't get\Nto pick his costume?
+Dialogue: 0,1:04:32.16,1:04:34.32,Default,,0,0,0,,Ever think about that?
+Dialogue: 0,1:04:34.41,1:04:36.25,Default,,0,0,0,,You're a specialist,\NFreddy. What do you think?
+Dialogue: 0,1:04:36.33,1:04:40.33,Default,,0,0,0,,Yeah, Freddy, let's\Nmanage to see the positive.
+Dialogue: 0,1:04:40.41,1:04:42.33,Default,,0,0,0,,Okay, Well, I\Nthink it looks like
+Dialogue: 0,1:04:42.42,1:04:44.42,Default,,0,0,0,,he doesn't have gratitude\Nfor what he's been given.
+Dialogue: 0,1:04:44.75,1:04:47.09,Default,,0,0,0,,Very specific. All right.
+Dialogue: 0,1:04:47.17,1:04:48.42,Default,,0,0,0,,Maybe to the superhero,
+Dialogue: 0,1:04:48.51,1:04:50.19,Default,,0,0,0,,gratitude doesn't mean\Nhaving to be clingy.
+Dialogue: 0,1:04:50.26,1:04:51.63,Default,,0,0,0,,Clingy? Wow, interesting take.
+Dialogue: 0,1:04:51.72,1:04:55.97,Default,,0,0,0,,You know, maybe sometimes a\Nsuperhero just wants a little me time.
+Dialogue: 0,1:04:56.06,1:04:59.18,Default,,0,0,0,,You know, me time could also be\Nconstrued as pushing away his family.
+Dialogue: 0,1:04:59.27,1:05:01.23,Default,,0,0,0,,Family. Is that\Nwhat they are now?
+Dialogue: 0,1:05:01.31,1:05:03.40,Default,,0,0,0,,It's a classic symptom\Nof "Superhero Syndrome."
+Dialogue: 0,1:05:03.48,1:05:07.02,Default,,0,0,0,,Coined by German psychologist\NHeinrich Von German-something,
+Dialogue: 0,1:05:07.11,1:05:10.28,Default,,0,0,0,,where superpowers become\Nan all-consuming narcotic.
+Dialogue: 0,1:05:11.61,1:05:13.57,Default,,0,0,0,,Son, we're still eating dinner.
+Dialogue: 0,1:05:13.66,1:05:15.41,Default,,0,0,0,,What he needs is a sidekick.
+Dialogue: 0,1:05:15.49,1:05:17.03,Default,,0,0,0,,Name one cool sidekick.
+Dialogue: 0,1:05:18.20,1:05:20.37,Default,,0,0,0,,Darla, why are you so\Nquiet over there, baby?
+Dialogue: 0,1:05:20.45,1:05:22.54,Default,,0,0,0,,You're never at\Na loss for words.
+Dialogue: 0,1:05:22.62,1:05:24.21,Default,,0,0,0,,I'm eating.
+Dialogue: 0,1:05:35.01,1:05:36.64,Default,,0,0,0,,Why am {\i1}I{\i0} still doing this?
+Dialogue: 0,1:05:37.01,1:05:38.93,Default,,0,0,0,,Well, you can't skip every day.
+Dialogue: 0,1:05:39.52,1:05:40.77,Default,,0,0,0,,Not at your age.
+Dialogue: 0,1:05:41.64,1:05:43.10,Default,,0,0,0,,But I'm not your age anymore.
+Dialogue: 0,1:05:43.85,1:05:45.10,Default,,0,0,0,,But I can go with you.
+Dialogue: 0,1:05:45.19,1:05:47.77,Default,,0,0,0,,We just gotta trick the\Nguard out, you know?
+Dialogue: 0,1:05:47.86,1:05:49.73,Default,,0,0,0,,Billy, where are you going?
+Dialogue: 0,1:05:49.82,1:05:51.21,Default,,0,0,0,,You're still gonna have\Nlunch with me, right?
+Dialogue: 0,1:05:51.24,1:05:52.24,Default,,0,0,0,,Billy!
+Dialogue: 0,1:05:52.74,1:05:56.12,Default,,0,0,0,,Sir Zaps-A-Lot's still gonna\Neat in the cafeteria, right?
+Dialogue: 0,1:06:05.92,1:06:07.54,Default,,0,0,0,,All right.
+Dialogue: 0,1:06:07.63,1:06:09.46,Default,,0,0,0,,Did you check it to...
+Dialogue: 0,1:06:09.55,1:06:13.26,Default,,0,0,0,,People typically give me\Na little money, you know...
+Dialogue: 0,1:06:13.34,1:06:15.55,Default,,0,0,0,,You're a sweet couple.\NYou guys have a good day.
+Dialogue: 0,1:06:25.35,1:06:27.48,Default,,0,0,0,,Ooh!
+Dialogue: 0,1:06:27.65,1:06:29.94,Default,,0,0,0,,- Oh, my God.\N- Mary, are you okay?
+Dialogue: 0,1:06:30.48,1:06:31.48,Default,,0,0,0,,How do you know my name?
+Dialogue: 0,1:06:31.61,1:06:33.65,Default,,0,0,0,,Uh... How do I know\Nyour name? Uh...
+Dialogue: 0,1:06:34.65,1:06:36.86,Default,,0,0,0,,One of my superpowers\Nis name guessing.
+Dialogue: 0,1:06:37.41,1:06:39.32,Default,,0,0,0,,Which is really weird, I bet.
+Dialogue: 0,1:06:39.41,1:06:41.95,Default,,0,0,0,,Uh, it's not as cool as\Nsuper-strength or super-speed,
+Dialogue: 0,1:06:42.04,1:06:44.16,Default,,0,0,0,,but it's really helpful\Nwhen I meet new people.
+Dialogue: 0,1:06:44.79,1:06:45.79,Default,,0,0,0,,Are you hurt?
+Dialogue: 0,1:06:46.29,1:06:50.00,Default,,0,0,0,,No, I'm okay. Thank you. Um...
+Dialogue: 0,1:06:51.96,1:06:54.42,Default,,0,0,0,,I just need a second to think.
+Dialogue: 0,1:06:54.51,1:06:56.05,Default,,0,0,0,,This has been such a weird day.
+Dialogue: 0,1:06:56.88,1:07:00.43,Default,,0,0,0,,Um, using my powers\Nof super-observation,
+Dialogue: 0,1:07:00.51,1:07:03.93,Default,,0,0,0,,I see that you're holding a\Nletter from a college in your hand.
+Dialogue: 0,1:07:04.02,1:07:06.60,Default,,0,0,0,,Are you upset because\Nyou didn't get in?
+Dialogue: 0,1:07:10.15,1:07:11.15,Default,,0,0,0,,I got in.
+Dialogue: 0,1:07:13.73,1:07:17.86,Default,,0,0,0,,Well, now my superpowers are\Nfailing me and I am very confused.
+Dialogue: 0,1:07:18.95,1:07:20.70,Default,,0,0,0,,Yeah. Me, too.
+Dialogue: 0,1:07:21.70,1:07:23.18,Default,,0,0,0,,I don't know. I know\NI should be excited
+Dialogue: 0,1:07:23.20,1:07:26.41,Default,,0,0,0,,'cause this is my dream and I've\Nworked really, really hard for this,
+Dialogue: 0,1:07:27.29,1:07:28.42,Default,,0,0,0,,but it's like...
+Dialogue: 0,1:07:31.08,1:07:33.59,Default,,0,0,0,,I don't know. Leaving my family\Ndoes not feel fun, you know?
+Dialogue: 0,1:07:33.67,1:07:36.76,Default,,0,0,0,,Could I give you a\Nlittle piece of advice?
+Dialogue: 0,1:07:36.84,1:07:40.55,Default,,0,0,0,,Don't be worried about everybody\Nelse. Always look out for number one.
+Dialogue: 0,1:07:40.64,1:07:41.64,Default,,0,0,0,,Gandhi said that.
+Dialogue: 0,1:07:41.68,1:07:43.51,Default,,0,0,0,,- I don't think he said that.\N- Yeah, he did.
+Dialogue: 0,1:07:43.60,1:07:45.37,Default,,0,0,0,,- Gandhi did not say...\N- Somebody like Gandhi said that.
+Dialogue: 0,1:07:45.39,1:07:46.27,Default,,0,0,0,,"Take care of number one."
+Dialogue: 0,1:07:46.35,1:07:48.44,Default,,0,0,0,,It was a really wise...\NIt might've been Yoda.
+Dialogue: 0,1:07:48.52,1:07:49.60,Default,,0,0,0,,- Listen.\N- I'm sorry, no.
+Dialogue: 0,1:07:49.69,1:07:52.73,Default,,0,0,0,,Agree to disagree. The point\Nis, you do you, you know?
+Dialogue: 0,1:07:52.81,1:07:56.28,Default,,0,0,0,,You gotta look out for you. And get\Nas far away from this place as you can.
+Dialogue: 0,1:07:58.70,1:08:00.20,Default,,0,0,0,,I don't know if I want to.
+Dialogue: 0,1:08:00.28,1:08:01.87,Default,,0,0,0,,Of course you do.\NWhat're you gonna do?
+Dialogue: 0,1:08:01.95,1:08:04.19,Default,,0,0,0,,You gonna live in a group\Nhome for the rest of your life?
+Dialogue: 0,1:08:05.74,1:08:06.66,Default,,0,0,0,,Look, families are for people
+Dialogue: 0,1:08:06.66,1:08:09.37,Default,,0,0,0,,who can't take care of\Nthemselves, okay? So...
+Dialogue: 0,1:08:10.79,1:08:12.83,Default,,0,0,0,,And you can take\Ncare of yourself.
+Dialogue: 0,1:08:12.92,1:08:14.88,Default,,0,0,0,,Also, look both ways\Nwhen you cross the street.
+Dialogue: 0,1:08:19.93,1:08:21.97,Default,,0,0,0,,I'll just call him.\NI'll just make sure.
+Dialogue: 0,1:08:25.43,1:08:26.60,Default,,0,0,0,,It's ringing.
+Dialogue: 0,1:08:29.06,1:08:31.14,Default,,0,0,0,,Red Cyclone, hey!\NHey, what's going on?
+Dialogue: 0,1:08:31.98,1:08:33.58,Default,,0,0,0,,Oh, that's crazy! Yeah,\Nit's Freddy, by the way.
+Dialogue: 0,1:08:33.61,1:08:35.98,Default,,0,0,0,,Yeah, it's crazy! Great story.
+Dialogue: 0,1:08:37.32,1:08:39.07,Default,,0,0,0,,He's not talking to anyone.
+Dialogue: 0,1:08:39.15,1:08:40.99,Default,,0,0,0,,I was!
+Dialogue: 0,1:08:41.07,1:08:43.70,Default,,0,0,0,,I was! We're friends.\NI know him, I do!
+Dialogue: 0,1:08:43.78,1:08:45.70,Default,,0,0,0,,I know him! I know\Nhim! Uh, yeah.
+Dialogue: 0,1:08:49.62,1:08:50.62,Default,,0,0,0,,Shit.
+Dialogue: 0,1:08:54.88,1:08:56.25,Default,,0,0,0,,Come on now.
+Dialogue: 0,1:08:56.34,1:08:59.51,Default,,0,0,0,,{\i1}Hands! Lightning with my hands!{\i0}
+Dialogue: 0,1:08:59.59,1:09:01.68,Default,,0,0,0,,{\i1}Lightning with my hands!{\i0}
+Dialogue: 0,1:09:01.76,1:09:03.72,Default,,0,0,0,,{\i1}Lightning with my hands!{\i0}
+Dialogue: 0,1:09:03.80,1:09:05.10,Default,,0,0,0,,Hey. Hey.
+Dialogue: 0,1:09:05.68,1:09:07.76,Default,,0,0,0,,Hey, young man! Whoa,\Nwhoa, whoa, whoa!
+Dialogue: 0,1:09:07.89,1:09:09.78,Default,,0,0,0,,What are you doing? I'm in\Nthe middle of a show right now.
+Dialogue: 0,1:09:09.81,1:09:11.02,Default,,0,0,0,,How can I help you?
+Dialogue: 0,1:09:11.10,1:09:13.50,Default,,0,0,0,,I just wanted to say thank you\Nfor showing up to lunch today.
+Dialogue: 0,1:09:14.31,1:09:17.27,Default,,0,0,0,,Yeah, I got a little something\Ncalled a, uh, suitcase wedgie, right?
+Dialogue: 0,1:09:17.36,1:09:18.19,Default,,0,0,0,,I don't know if you've\Never heard of it,
+Dialogue: 0,1:09:18.28,1:09:21.36,Default,,0,0,0,,but it's when someone\Ngrabs your underwear like that
+Dialogue: 0,1:09:21.45,1:09:24.16,Default,,0,0,0,,and holds you like a suitcase,\Nwalks you down the hallway.
+Dialogue: 0,1:09:24.24,1:09:26.49,Default,,0,0,0,,And this was my underwear.
+Dialogue: 0,1:09:29.33,1:09:30.33,Default,,0,0,0,,Gross.
+Dialogue: 0,1:09:30.95,1:09:32.25,Default,,0,0,0,,You said you'd come.
+Dialogue: 0,1:09:32.33,1:09:34.42,Default,,0,0,0,,You said I would come!\NI never said I was...
+Dialogue: 0,1:09:34.50,1:09:35.92,Default,,0,0,0,,I'm a superhero, dude!
+Dialogue: 0,1:09:36.00,1:09:37.71,Default,,0,0,0,,Well, you're acting real heroic.
+Dialogue: 0,1:09:37.79,1:09:39.21,Default,,0,0,0,,How much people\Npaying you today?
+Dialogue: 0,1:09:39.30,1:09:42.59,Default,,0,0,0,,Listen, I have serious\Nresponsibilities now, okay?
+Dialogue: 0,1:09:42.67,1:09:45.05,Default,,0,0,0,,But that's cool because I\Ncan carry that burden with my...
+Dialogue: 0,1:09:45.14,1:09:47.76,Default,,0,0,0,,{\i1}Hands! Lightning with my hands!{\i0}
+Dialogue: 0,1:10:07.07,1:10:08.41,Default,,0,0,0,,Oh, man!
+Dialogue: 0,1:10:13.83,1:10:15.00,Default,,0,0,0,,Holy moly.
+Dialogue: 0,1:10:17.67,1:10:20.25,Default,,0,0,0,,Don't move! Nobody move!
+Dialogue: 0,1:10:28.64,1:10:29.89,Default,,0,0,0,,Oh, no, no!
+Dialogue: 0,1:10:29.97,1:10:33.48,Default,,0,0,0,,Oh, no, no, no!\NStay, stay! Stay!
+Dialogue: 0,1:10:41.94,1:10:42.94,Default,,0,0,0,,Oh!
+Dialogue: 0,1:10:43.53,1:10:44.69,Default,,0,0,0,,Oh, that looked like it hurt.
+Dialogue: 0,1:10:45.15,1:10:47.78,Default,,0,0,0,,It's him! It's that\Nsuperhero guy!
+Dialogue: 0,1:10:47.86,1:10:50.53,Default,,0,0,0,,Help us! Save us!
+Dialogue: 0,1:10:51.12,1:10:52.12,Default,,0,0,0,,Come on!
+Dialogue: 0,1:10:54.12,1:10:56.29,Default,,0,0,0,,Come on... Yeah.
+Dialogue: 0,1:10:56.87,1:10:58.96,Default,,0,0,0,,What's he doing?\NWhat's going on?
+Dialogue: 0,1:11:07.26,1:11:08.76,Default,,0,0,0,,No way.
+Dialogue: 0,1:11:16.73,1:11:18.60,Default,,0,0,0,,Oh, no, no. Please\Ndon't make me do this.
+Dialogue: 0,1:11:19.52,1:11:20.84,Default,,0,0,0,,God, this is the\Nworst idea ever!
+Dialogue: 0,1:11:32.41,1:11:34.37,Default,,0,0,0,,I did it! I did it!
+Dialogue: 0,1:11:34.45,1:11:36.66,Default,,0,0,0,,I got the bus! I got the bus.
+Dialogue: 0,1:11:36.75,1:11:38.46,Default,,0,0,0,,Nobody move in there.
+Dialogue: 0,1:11:38.54,1:11:40.94,Default,,0,0,0,,Oh, I gotta put this thing\Ndown. I gotta put this thing down.
+Dialogue: 0,1:11:41.50,1:11:43.09,Default,,0,0,0,,Oh!
+Dialogue: 0,1:11:44.38,1:11:46.21,Default,,0,0,0,,Oh.
+Dialogue: 0,1:11:46.34,1:11:48.28,Default,,0,0,0,,Oh, no, no, no, no. Doggy,\Ndoggy, you have to move.
+Dialogue: 0,1:11:48.30,1:11:50.09,Default,,0,0,0,,Move! Move! Shoo! Shoo!
+Dialogue: 0,1:11:50.18,1:11:52.01,Default,,0,0,0,,Please be a good dog, good dog!
+Dialogue: 0,1:11:52.10,1:11:53.51,Default,,0,0,0,,You're being a bad dog!
+Dialogue: 0,1:11:53.60,1:11:55.14,Default,,0,0,0,,Go! Go!
+Dialogue: 0,1:11:56.02,1:11:57.56,Default,,0,0,0,,Please go. Please move.
+Dialogue: 0,1:11:58.56,1:12:00.77,Default,,0,0,0,,Yes, thank you.\NThank you. Thank you.
+Dialogue: 0,1:12:00.85,1:12:02.69,Default,,0,0,0,,Thank you.
+Dialogue: 0,1:12:18.29,1:12:21.25,Default,,0,0,0,,Yeah. Yeah, no, no, no, no.
+Dialogue: 0,1:12:21.33,1:12:23.27,Default,,0,0,0,,I was in the neighborhood,\Nyou know, so I thought...
+Dialogue: 0,1:12:23.29,1:12:24.38,Default,,0,0,0,,Thank you!
+Dialogue: 0,1:12:24.46,1:12:26.25,Default,,0,0,0,,It was kind of my fault anyway.
+Dialogue: 0,1:12:29.47,1:12:32.89,Default,,0,0,0,,So, it seems Philadelphia has\Ngotten an early Christmas present
+Dialogue: 0,1:12:32.97,1:12:36.77,Default,,0,0,0,,in the form of its\Nvery own superhero.
+Dialogue: 0,1:12:36.85,1:12:38.10,Default,,0,0,0,,And we're out.
+Dialogue: 0,1:12:38.81,1:12:40.54,Default,,0,0,0,,- Thank you very much.\N- Oh, of course, yeah.
+Dialogue: 0,1:12:40.56,1:12:43.36,Default,,0,0,0,,Dude! Dude, dude!\NDude, did you see that?
+Dialogue: 0,1:12:43.44,1:12:46.53,Default,,0,0,0,,Yeah. You electrocuted a bus\Nand almost killed these people.
+Dialogue: 0,1:12:46.61,1:12:48.28,Default,,0,0,0,,And then I caught it!
+Dialogue: 0,1:12:48.86,1:12:51.95,Default,,0,0,0,,Freddy, I caught a bus\Nwith my bare hands, man!
+Dialogue: 0,1:12:52.03,1:12:53.95,Default,,0,0,0,,I caught a bus like\Npeople catch fly balls.
+Dialogue: 0,1:12:54.03,1:12:55.41,Default,,0,0,0,,Like, who does that? I do that!
+Dialogue: 0,1:12:55.49,1:12:56.87,Default,,0,0,0,,Billy! You do nothing.
+Dialogue: 0,1:12:56.95,1:13:00.41,Default,,0,0,0,,You take selfies and\Nmake people pay you.
+Dialogue: 0,1:13:00.50,1:13:03.79,Default,,0,0,0,,You know, forget it. I can't really\Ntalk to you when you look like this.
+Dialogue: 0,1:13:03.88,1:13:05.59,Default,,0,0,0,,You just wish it was you.
+Dialogue: 0,1:13:06.17,1:13:07.21,Default,,0,0,0,,No shit!
+Dialogue: 0,1:13:07.96,1:13:11.59,Default,,0,0,0,,You think? I would kill\Nto have what you have.
+Dialogue: 0,1:13:11.68,1:13:13.72,Default,,0,0,0,,Because everything\NI do is, like,
+Dialogue: 0,1:13:13.80,1:13:16.60,Default,,0,0,0,,some desperate attempt\Nto get people to notice me.
+Dialogue: 0,1:13:16.68,1:13:18.72,Default,,0,0,0,,To not feel sorry for me.
+Dialogue: 0,1:13:18.81,1:13:21.52,Default,,0,0,0,,I mean, look at me! Look\Nat me. Do you even see me?
+Dialogue: 0,1:13:22.14,1:13:25.94,Default,,0,0,0,,'Cause most people don't.\N'Cause they don't want to.
+Dialogue: 0,1:13:26.73,1:13:28.23,Default,,0,0,0,,And now you don't either.
+Dialogue: 0,1:13:28.98,1:13:31.07,Default,,0,0,0,,I mean, you think\Nthis is who you are?
+Dialogue: 0,1:13:31.15,1:13:32.70,Default,,0,0,0,,I mean, Billy, you're 14,
+Dialogue: 0,1:13:32.78,1:13:34.86,Default,,0,0,0,,and now you're no\Nbetter than the Breyers.
+Dialogue: 0,1:13:35.66,1:13:39.58,Default,,0,0,0,,All this power, and all you did\Nwas turn into a show-off and a bully.
+Dialogue: 0,1:13:42.62,1:13:43.62,Default,,0,0,0,,Whatever, kid!
+Dialogue: 0,1:13:43.71,1:13:45.00,Default,,0,0,0,,I do what I want!
+Dialogue: 0,1:13:46.96,1:13:49.30,Default,,0,0,0,,And I'm, like, mid-20s probably!
+Dialogue: 0,1:13:50.26,1:13:52.09,Default,,0,0,0,,Maybe even, like, 30.
+Dialogue: 0,1:13:55.59,1:13:56.68,Default,,0,0,0,,Chosen one.
+Dialogue: 0,1:14:00.64,1:14:02.56,Default,,0,0,0,,The so-called perfect man.
+Dialogue: 0,1:14:04.06,1:14:05.27,Default,,0,0,0,,Pure of heart.
+Dialogue: 0,1:14:06.52,1:14:08.23,Default,,0,0,0,,Flawless in every way.
+Dialogue: 0,1:14:11.07,1:14:12.40,Default,,0,0,0,,What made you so worthy?
+Dialogue: 0,1:14:12.49,1:14:14.86,Default,,0,0,0,,I'm sorry, can I help...
+Dialogue: 0,1:14:14.95,1:14:16.26,Default,,0,0,0,,Do you want an\Nautograph or something?
+Dialogue: 0,1:14:16.28,1:14:17.91,Default,,0,0,0,,Give me your power.
+Dialogue: 0,1:14:20.37,1:14:21.54,Default,,0,0,0,,Or die.
+Dialogue: 0,1:14:21.62,1:14:24.96,Default,,0,0,0,,Oh, snap! You're,\Nlike, a bad guy, right?
+Dialogue: 0,1:14:25.04,1:14:28.29,Default,,0,0,0,,Okay. Okay, okay, okay. Before\Nthis gets really stupid for you,
+Dialogue: 0,1:14:28.38,1:14:30.46,Default,,0,0,0,,you should know that\NI'm basically invincible.
+Dialogue: 0,1:14:39.22,1:14:41.81,Default,,0,0,0,,The weapons of man\Ndraw no blood from our kind.
+Dialogue: 0,1:14:41.89,1:14:43.93,Default,,0,0,0,,I said, stop right there!
+Dialogue: 0,1:14:44.52,1:14:46.19,Default,,0,0,0,,The only thing that\Nextinguishes magic...
+Dialogue: 0,1:14:47.56,1:14:48.56,Default,,0,0,0,,is magic.
+Dialogue: 0,1:14:50.19,1:14:52.28,Default,,0,0,0,,Time to transfer\Nyour power to me.
+Dialogue: 0,1:14:55.49,1:14:58.45,Default,,0,0,0,,Oh, you did not see that\None coming, did you, grandpa?
+Dialogue: 0,1:14:58.53,1:15:00.45,Default,,0,0,0,,Them's street rules.
+Dialogue: 0,1:15:10.09,1:15:11.29,Default,,0,0,0,,Okay, okay, okay.
+Dialogue: 0,1:15:11.38,1:15:13.17,Default,,0,0,0,,I'm sorry, I'm sorry. I'm sorry.
+Dialogue: 0,1:15:13.25,1:15:15.27,Default,,0,0,0,,I never should've punched\Nyou in the nuts like that.
+Dialogue: 0,1:15:15.30,1:15:16.34,Default,,0,0,0,,That was totally my bad.
+Dialogue: 0,1:15:16.34,1:15:17.63,Default,,0,0,0,,We can talk about this.
+Dialogue: 0,1:15:17.72,1:15:19.22,Default,,0,0,0,,You grovel like a child.
+Dialogue: 0,1:15:19.30,1:15:21.35,Default,,0,0,0,,That's because I\Nam one. I'm a kid!
+Dialogue: 0,1:15:21.43,1:15:22.85,Default,,0,0,0,,You don't wanna\Nhurt a kid, do you?
+Dialogue: 0,1:15:26.14,1:15:28.98,Default,,0,0,0,,I believe I can fly! I\Nbelieve I can fly, I can fly!
+Dialogue: 0,1:15:29.06,1:15:30.75,Default,,0,0,0,,Freddy said if I believe\NI can fly, then I can fly.
+Dialogue: 0,1:15:30.77,1:15:32.65,Default,,0,0,0,,So I believe! I\Nbelieve! I believe!
+Dialogue: 0,1:15:32.73,1:15:33.61,Default,,0,0,0,,Okay.
+Dialogue: 0,1:15:33.69,1:15:34.78,Default,,0,0,0,,Superman!
+Dialogue: 0,1:15:34.86,1:15:36.61,Default,,0,0,0,,Superman! What arm is it?
+Dialogue: 0,1:15:37.20,1:15:38.70,Default,,0,0,0,,Why am I not flying?
+Dialogue: 0,1:15:38.78,1:15:40.28,Default,,0,0,0,,Please, I don't wanna die!
+Dialogue: 0,1:16:02.80,1:16:04.43,Default,,0,0,0,,I'm floating!
+Dialogue: 0,1:16:11.44,1:16:12.94,Default,,0,0,0,,What the hell was that?
+Dialogue: 0,1:16:16.61,1:16:19.15,Default,,0,0,0,,I can fly!
+Dialogue: 0,1:16:25.16,1:16:26.16,Default,,0,0,0,,Billy?
+Dialogue: 0,1:16:27.58,1:16:29.25,Default,,0,0,0,,Freddy! I need your help!
+Dialogue: 0,1:16:29.75,1:16:31.12,Default,,0,0,0,,You can fly?
+Dialogue: 0,1:16:39.09,1:16:40.22,Default,,0,0,0,,Who's the other guy?
+Dialogue: 0,1:16:40.72,1:16:41.84,Default,,0,0,0,,Santa!
+Dialogue: 0,1:16:44.97,1:16:48.98,Default,,0,0,0,,So, like, what do you and Mrs.\NClaus do in the summertime?
+Dialogue: 0,1:16:49.06,1:16:51.56,Default,,0,0,0,,Well, in some ways,
+Dialogue: 0,1:16:51.64,1:16:53.44,Default,,0,0,0,,Santa is always here for you.
+Dialogue: 0,1:17:00.32,1:17:01.32,Default,,0,0,0,,Help Santa!
+Dialogue: 0,1:17:02.11,1:17:04.82,Default,,0,0,0,,Santa needs help! Help!
+Dialogue: 0,1:17:04.91,1:17:06.37,Default,,0,0,0,,Give us a shout if you need us.
+Dialogue: 0,1:17:13.46,1:17:16.04,Default,,0,0,0,,I'm just gonna chill in here\Nfor a little while, if that's okay.
+Dialogue: 0,1:17:19.21,1:17:21.05,Default,,0,0,0,,This is crazy.
+Dialogue: 0,1:17:21.13,1:17:22.61,Default,,0,0,0,,This is crazy. You don't\Nhave to fight this guy.
+Dialogue: 0,1:17:22.63,1:17:24.76,Default,,0,0,0,,This isn't your job.\NYou can run, right?
+Dialogue: 0,1:17:24.84,1:17:26.97,Default,,0,0,0,,Yes, you can run. Awesome!
+Dialogue: 0,1:17:35.61,1:17:37.02,Default,,0,0,0,,Get back!
+Dialogue: 0,1:17:37.11,1:17:38.53,Default,,0,0,0,,Get away!
+Dialogue: 0,1:17:40.74,1:17:42.53,Default,,0,0,0,,- I'm Batman!\N- Get him, Batman!
+Dialogue: 0,1:17:45.32,1:17:46.49,Default,,0,0,0,,Oh, sorry.
+Dialogue: 0,1:18:12.52,1:18:13.69,Default,,0,0,0,,Come on!
+Dialogue: 0,1:18:39.46,1:18:41.00,Default,,0,0,0,,Shazam!
+Dialogue: 0,1:19:11.41,1:19:12.41,Default,,0,0,0,,Billy!
+Dialogue: 0,1:19:13.83,1:19:14.83,Default,,0,0,0,,Billy!
+Dialogue: 0,1:19:16.25,1:19:17.62,Default,,0,0,0,,Billy, where are you?
+Dialogue: 0,1:19:20.75,1:19:21.75,Default,,0,0,0,,Billy!
+Dialogue: 0,1:19:23.00,1:19:24.26,Default,,0,0,0,,Where are you, Billy?
+Dialogue: 0,1:19:28.84,1:19:30.22,Default,,0,0,0,,Billy, come on!
+Dialogue: 0,1:19:33.35,1:19:36.14,Default,,0,0,0,,Billy. Where is he?
+Dialogue: 0,1:19:36.23,1:19:37.60,Default,,0,0,0,,Supervillain.
+Dialogue: 0,1:19:37.69,1:19:40.36,Default,,0,0,0,,Supervillain! Supervillain!
+Dialogue: 0,1:19:41.23,1:19:43.52,Default,,0,0,0,,Worse. Much worse.
+Dialogue: 0,1:19:44.40,1:19:47.82,Default,,0,0,0,,Radioactive anthromorph?\NPsychic energy manipulator?
+Dialogue: 0,1:19:47.90,1:19:51.07,Default,,0,0,0,,I won't let you read my mind.\NMy mind is blank. You can't get in.
+Dialogue: 0,1:19:51.16,1:19:54.87,Default,,0,0,0,,I don't need to read your mind.\NBecause you are going to tell me.
+Dialogue: 0,1:19:56.12,1:19:57.41,Default,,0,0,0,,Where is he?
+Dialogue: 0,1:20:09.76,1:20:11.30,Default,,0,0,0,,Oh, my God, honey, are you okay?
+Dialogue: 0,1:20:12.01,1:20:13.97,Default,,0,0,0,,- Are you okay?\N- Yeah.
+Dialogue: 0,1:20:14.06,1:20:15.64,Default,,0,0,0,,What happened? Are you hurt?
+Dialogue: 0,1:20:15.72,1:20:16.56,Default,,0,0,0,,Come inside.
+Dialogue: 0,1:20:16.64,1:20:17.93,Default,,0,0,0,,We need to have a talk.
+Dialogue: 0,1:20:19.23,1:20:21.10,Default,,0,0,0,,Just don't be so\Nhard on him, okay?
+Dialogue: 0,1:20:27.65,1:20:29.78,Default,,0,0,0,,Running out on us! Lying!
+Dialogue: 0,1:20:30.03,1:20:33.53,Default,,0,0,0,,Huh? Then I get a call from the school,\Ntelling me you've been cutting class!
+Dialogue: 0,1:20:33.62,1:20:34.74,Default,,0,0,0,,Getting in fights!
+Dialogue: 0,1:20:38.50,1:20:41.00,Default,,0,0,0,,{\i1}Bill, the man saved nine people.{\i0}
+Dialogue: 0,1:20:41.29,1:20:43.17,Default,,0,0,0,,Whoa! Is that...
+Dialogue: 0,1:20:43.25,1:20:45.29,Default,,0,0,0,,{\i1}I'm questioning his motive.{\i0}
+Dialogue: 0,1:20:45.38,1:20:47.71,Default,,0,0,0,,What's Freddy doing\Nwith a superhero?
+Dialogue: 0,1:20:50.43,1:20:54.26,Default,,0,0,0,,Or what's a superhero\Ndoing with Freddy?
+Dialogue: 0,1:20:57.77,1:20:59.06,Default,,0,0,0,,You remember dinner,
+Dialogue: 0,1:20:59.14,1:21:03.15,Default,,0,0,0,,when Billy and Freddy were arguing\Nlike an old married couple, like this?
+Dialogue: 0,1:21:04.44,1:21:06.82,Default,,0,0,0,,When he rescued me, he\Nknew I lived in a group home.
+Dialogue: 0,1:21:06.90,1:21:08.86,Default,,0,0,0,,He knew my name.\NHe called me Mary.
+Dialogue: 0,1:21:17.62,1:21:21.04,Default,,0,0,0,,Wait, are you saying Billy's\Nthe Human Power Storm?
+Dialogue: 0,1:21:21.12,1:21:22.92,Default,,0,0,0,,Yes! You guys figured it out!
+Dialogue: 0,1:21:23.00,1:21:24.46,Default,,0,0,0,,All on your own. I didn't help.
+Dialogue: 0,1:21:24.54,1:21:26.59,Default,,0,0,0,,- I didn't break any promises.\N- You knew?
+Dialogue: 0,1:21:27.21,1:21:28.71,Default,,0,0,0,,I'm a good sister!
+Dialogue: 0,1:21:32.97,1:21:34.59,Default,,0,0,0,,I mean, what were you thinking?
+Dialogue: 0,1:21:35.51,1:21:37.31,Default,,0,0,0,,And then you\Nbring Freddy into it.
+Dialogue: 0,1:21:43.39,1:21:46.23,Default,,0,0,0,,Give him some space,\Nguys. He's a little upset, okay?
+Dialogue: 0,1:21:56.28,1:21:57.28,Default,,0,0,0,,Billy?
+Dialogue: 0,1:22:02.54,1:22:03.75,Default,,0,0,0,,You're him.
+Dialogue: 0,1:22:04.87,1:22:06.17,Default,,0,0,0,,You're the hero.
+Dialogue: 0,1:22:07.42,1:22:09.21,Default,,0,0,0,,Yeah, well, not anymore, so...
+Dialogue: 0,1:22:14.34,1:22:16.55,Default,,0,0,0,,Why do you have my notebook?
+Dialogue: 0,1:22:18.68,1:22:20.14,Default,,0,0,0,,Eugene finished your search.
+Dialogue: 0,1:22:21.27,1:22:23.60,Default,,0,0,0,,Look, I'm not a hacker, okay?
+Dialogue: 0,1:22:23.68,1:22:26.02,Default,,0,0,0,,{\i1}But{\i0} I have {\i1}played\NWatch Dogs and Uplink.{\i0}
+Dialogue: 0,1:22:26.10,1:22:29.19,Default,,0,0,0,,And maybe I did pick up a few\Nskills, which maybe did get me
+Dialogue: 0,1:22:29.27,1:22:31.28,Default,,0,0,0,,into federal databases\Nmost people can't get into.
+Dialogue: 0,1:22:31.36,1:22:33.49,Default,,0,0,0,,Good for you, but I'm gonna go.
+Dialogue: 0,1:22:33.57,1:22:37.28,Default,,0,0,0,,Your parents' names are\NMarilyn and C.C. Batson.
+Dialogue: 0,1:22:42.66,1:22:43.70,Default,,0,0,0,,What?
+Dialogue: 0,1:22:43.79,1:22:46.04,Default,,0,0,0,,You were born in\NZumbrota, Minnesota.
+Dialogue: 0,1:22:46.12,1:22:47.83,Default,,0,0,0,,They divorced\Nwhen you were three.
+Dialogue: 0,1:22:47.92,1:22:51.84,Default,,0,0,0,,Your mom moved here that year.\NTwenty months later, you got lost.
+Dialogue: 0,1:22:51.92,1:22:52.76,Default,,0,0,0,,You never found them
+Dialogue: 0,1:22:52.84,1:22:55.97,Default,,0,0,0,,'cause your dad's been in\Nprison in Florida for ten years.
+Dialogue: 0,1:22:56.05,1:22:57.26,Default,,0,0,0,,And your mom's...
+Dialogue: 0,1:22:59.10,1:23:00.10,Default,,0,0,0,,What?
+Dialogue: 0,1:23:01.85,1:23:02.97,Default,,0,0,0,,Is she dead?
+Dialogue: 0,1:23:03.60,1:23:05.23,Default,,0,0,0,,She's two subway stops away.
+Dialogue: 0,1:23:06.56,1:23:07.60,Default,,0,0,0,,What?
+Dialogue: 0,1:23:08.81,1:23:11.86,Default,,0,0,0,,You know, you didn't find her because\Nshe reverted to her maiden name.
+Dialogue: 0,1:23:16.20,1:23:18.16,Default,,0,0,0,,Hey, Billy! Billy!
+Dialogue: 0,1:23:22.20,1:23:23.51,Default,,0,0,0,,- Victor, get the keys.\N- I got it.
+Dialogue: 0,1:23:23.54,1:23:25.79,Default,,0,0,0,,Kids, stay here in\Ncase Billy comes back.
+Dialogue: 0,1:23:32.59,1:23:35.30,Default,,0,0,0,,Come on. Inside, let's go.
+Dialogue: 0,1:23:44.10,1:23:46.56,Default,,0,0,0,,Wait. I thought we\Nwere running after Billy.
+Dialogue: 0,1:23:46.64,1:23:49.35,Default,,0,0,0,,No, we're gonna\Nwait here for now.
+Dialogue: 0,1:23:53.07,1:23:54.32,Default,,0,0,0,,Billy?
+Dialogue: 0,1:23:56.94,1:23:57.94,Default,,0,0,0,,Freddy?
+Dialogue: 0,1:24:02.58,1:24:04.45,Default,,0,0,0,,Oh, how quaint.
+Dialogue: 0,1:24:07.54,1:24:09.25,Default,,0,0,0,,Actually, I take that back.
+Dialogue: 0,1:24:11.46,1:24:13.42,Default,,0,0,0,,What a shithole.
+Dialogue: 0,1:24:56.25,1:24:57.71,Default,,0,0,0,,Just a second.
+Dialogue: 0,1:25:02.51,1:25:04.15,Default,,0,0,0,,Hey, look, I'm late for\Nwork already, all right?
+Dialogue: 0,1:25:04.18,1:25:06.89,Default,,0,0,0,,We don't need any magazines\Nor whatever. Thanks, though.
+Dialogue: 0,1:25:06.97,1:25:08.06,Default,,0,0,0,,Oh, I'm not.
+Dialogue: 0,1:25:08.77,1:25:11.10,Default,,0,0,0,,You probably don't\Nrecognize me...
+Dialogue: 0,1:25:12.81,1:25:14.23,Default,,0,0,0,,but I found my way home.
+Dialogue: 0,1:25:15.69,1:25:16.69,Default,,0,0,0,,Mom.
+Dialogue: 0,1:25:18.65,1:25:19.78,Default,,0,0,0,,It's me.
+Dialogue: 0,1:25:21.11,1:25:22.20,Default,,0,0,0,,Oh, God.
+Dialogue: 0,1:25:23.61,1:25:24.61,Default,,0,0,0,,Is it?
+Dialogue: 0,1:25:27.54,1:25:29.58,Default,,0,0,0,,Um... Hang on.
+Dialogue: 0,1:25:30.75,1:25:32.12,Default,,0,0,0,,Who's at the door?
+Dialogue: 0,1:25:33.46,1:25:34.71,Default,,0,0,0,,It's, um...
+Dialogue: 0,1:25:35.38,1:25:37.25,Default,,0,0,0,,It's no one, Travis.
+Dialogue: 0,1:25:41.97,1:25:43.68,Default,,0,0,0,,That wasn't Dad, was it?
+Dialogue: 0,1:25:44.64,1:25:46.05,Default,,0,0,0,,No.
+Dialogue: 0,1:25:46.72,1:25:49.27,Default,,0,0,0,,Listen, um...
+Dialogue: 0,1:25:51.31,1:25:52.44,Default,,0,0,0,,It's really you, huh?
+Dialogue: 0,1:25:55.06,1:25:58.77,Default,,0,0,0,,I didn't mean to run\Naway. You know that, right?
+Dialogue: 0,1:25:59.48,1:26:02.19,Default,,0,0,0,,I let go, but it\Nwas by accident.
+Dialogue: 0,1:26:02.28,1:26:03.99,Default,,0,0,0,,Yeah, no. I know, yeah.
+Dialogue: 0,1:26:05.07,1:26:06.20,Default,,0,0,0,,I saw you.
+Dialogue: 0,1:26:07.41,1:26:08.49,Default,,0,0,0,,What?
+Dialogue: 0,1:26:11.62,1:26:13.29,Default,,0,0,0,,I saw you after.
+Dialogue: 0,1:26:16.08,1:26:19.59,Default,,0,0,0,,So, it was never your fault.
+Dialogue: 0,1:26:20.21,1:26:24.30,Default,,0,0,0,,Look, I was 17, okay? And\Nmy daddy kicked me out.
+Dialogue: 0,1:26:24.93,1:26:28.68,Default,,0,0,0,,And your dad just decided\Nnot to be a part of anything.
+Dialogue: 0,1:26:30.35,1:26:32.89,Default,,0,0,0,,{\i1}And I was hurting,\Nand I was screwed up.{\i0}
+Dialogue: 0,1:26:35.31,1:26:36.94,Default,,0,0,0,,- I want the tiger.\N- I know.
+Dialogue: 0,1:26:37.02,1:26:38.73,Default,,0,0,0,,I know, honey,
+Dialogue: 0,1:26:38.81,1:26:41.48,Default,,0,0,0,,but Mom's not exactly\Ngoing pro here, okay?
+Dialogue: 0,1:26:44.03,1:26:45.32,Default,,0,0,0,,Billy?
+Dialogue: 0,1:26:45.91,1:26:46.91,Default,,0,0,0,,Billy!
+Dialogue: 0,1:26:47.66,1:26:48.82,Default,,0,0,0,,Billy?
+Dialogue: 0,1:26:49.41,1:26:52.08,Default,,0,0,0,,Jesus Christ. Billy,\Nthis isn't funny!
+Dialogue: 0,1:26:52.16,1:26:53.45,Default,,0,0,0,,Here you go, buddy.
+Dialogue: 0,1:26:53.95,1:26:56.67,Default,,0,0,0,,That should warm\Nyou up. Is that better?
+Dialogue: 0,1:26:59.50,1:27:02.76,Default,,0,0,0,,{\i1}Look, it's just once I\Nsaw you with the police,{\i0}
+Dialogue: 0,1:27:02.84,1:27:04.97,Default,,0,0,0,,{\i1}I realized that they could do{\i0}
+Dialogue: 0,1:27:05.05,1:27:07.68,Default,,0,0,0,,a {\i1}better job taking care\Nof you than I ever will.{\i0}
+Dialogue: 0,1:27:13.22,1:27:14.68,Default,,0,0,0,,But you're good, right?
+Dialogue: 0,1:27:16.48,1:27:18.69,Default,,0,0,0,,I mean, you landed on your feet.
+Dialogue: 0,1:27:19.40,1:27:21.15,Default,,0,0,0,,Because, I mean,\Nyou look real good.
+Dialogue: 0,1:27:23.57,1:27:24.57,Default,,0,0,0,,It's just...
+Dialogue: 0,1:27:26.95,1:27:30.16,Default,,0,0,0,,now is not a really\Ngood time for me, Bill.
+Dialogue: 0,1:27:34.54,1:27:39.33,Default,,0,0,0,,All I wanted to do is let\Nyou know I'm doing good,
+Dialogue: 0,1:27:41.13,1:27:44.09,Default,,0,0,0,,but I have to get\Nback to my real family.
+Dialogue: 0,1:27:46.26,1:27:47.26,Default,,0,0,0,,Here.
+Dialogue: 0,1:27:50.89,1:27:51.89,Default,,0,0,0,,What's this?
+Dialogue: 0,1:27:52.89,1:27:55.52,Default,,0,0,0,,Marilyn! What's\Ngoin' on out there?
+Dialogue: 0,1:27:56.14,1:27:57.73,Default,,0,0,0,,You might need it more than me.
+Dialogue: 0,1:28:15.62,1:28:18.21,Default,,0,0,0,,Freddy, you were right.\NI'm sorry I yelled at you.
+Dialogue: 0,1:28:18.29,1:28:21.88,Default,,0,0,0,,{\i1}Come home, Billy. Come home.{\i0}
+Dialogue: 0,1:28:21.96,1:28:25.59,Default,,0,0,0,,{\i1}- Billy! Supervillain!\N- Supervillain!{\i0}
+Dialogue: 0,1:28:41.77,1:28:42.81,Default,,0,0,0,,Shazam!
+Dialogue: 0,1:28:56.70,1:28:58.66,Default,,0,0,0,,Who are you? What do you want?
+Dialogue: 0,1:28:59.29,1:29:00.96,Default,,0,0,0,,What do I want?
+Dialogue: 0,1:29:01.04,1:29:02.79,Default,,0,0,0,,I want...
+Dialogue: 0,1:29:07.71,1:29:08.71,Default,,0,0,0,,That.
+Dialogue: 0,1:29:10.05,1:29:11.18,Default,,0,0,0,,Whoa.
+Dialogue: 0,1:29:14.64,1:29:16.39,Default,,0,0,0,,Kick his ass, Billy!
+Dialogue: 0,1:29:19.85,1:29:20.94,Default,,0,0,0,,Yes, Billy.
+Dialogue: 0,1:29:21.52,1:29:23.15,Default,,0,0,0,,Try it, by all means.
+Dialogue: 0,1:29:23.23,1:29:25.27,Default,,0,0,0,,Let them go and\NI'll come inside.
+Dialogue: 0,1:29:25.36,1:29:27.36,Default,,0,0,0,,No, first, you come inside,
+Dialogue: 0,1:29:27.44,1:29:28.94,Default,,0,0,0,,then maybe I'll let them go.
+Dialogue: 0,1:29:46.04,1:29:47.55,Default,,0,0,0,,Good boy.
+Dialogue: 0,1:29:50.38,1:29:52.34,Default,,0,0,0,,Because that's\Nall you are, isn't it?
+Dialogue: 0,1:29:53.22,1:29:54.34,Default,,0,0,0,,How old are you?
+Dialogue: 0,1:29:54.43,1:29:56.72,Default,,0,0,0,,- Basically 15.\N- Hmm.
+Dialogue: 0,1:29:58.97,1:30:02.64,Default,,0,0,0,,When I was a child, the old\Nman told me I wasn't good enough.
+Dialogue: 0,1:30:02.73,1:30:05.65,Default,,0,0,0,,Yet here you are, a coward.
+Dialogue: 0,1:30:06.90,1:30:11.24,Default,,0,0,0,,Run from me and the wizard\Nchooses you? You're not a hero.
+Dialogue: 0,1:30:11.32,1:30:13.90,Default,,0,0,0,,But I'm gonna give you\Nthe opportunity to be one.
+Dialogue: 0,1:30:14.99,1:30:16.70,Default,,0,0,0,,Give me the power\Nof the champion.
+Dialogue: 0,1:30:16.78,1:30:17.99,Default,,0,0,0,,No. Don't do it, Billy.
+Dialogue: 0,1:30:34.97,1:30:37.43,Default,,0,0,0,,Give me the power\Nand I'll let them go.
+Dialogue: 0,1:30:37.51,1:30:38.72,Default,,0,0,0,,Darla, no.
+Dialogue: 0,1:30:39.31,1:30:40.39,Default,,0,0,0,,Don't go, Billy.
+Dialogue: 0,1:30:41.56,1:30:43.60,Default,,0,0,0,,- Don't go, Billy.\N- Darla, come here.
+Dialogue: 0,1:30:43.68,1:30:45.52,Default,,0,0,0,,No, I have to.
+Dialogue: 0,1:30:45.60,1:30:48.44,Default,,0,0,0,,It's what a good\Nbrother would do. Right?
+Dialogue: 0,1:30:53.44,1:30:54.53,Default,,0,0,0,,Billy.
+Dialogue: 0,1:31:21.01,1:31:23.72,Default,,0,0,0,,I dedicated my\Nlife to getting here.
+Dialogue: 0,1:31:24.77,1:31:26.48,Default,,0,0,0,,I scoured the earth.
+Dialogue: 0,1:31:27.06,1:31:28.40,Default,,0,0,0,,No one believed me.
+Dialogue: 0,1:31:28.60,1:31:31.07,Default,,0,0,0,,No one helped.
+Dialogue: 0,1:31:31.15,1:31:32.57,Default,,0,0,0,,Not the wizard.
+Dialogue: 0,1:31:33.73,1:31:34.90,Default,,0,0,0,,Not my family.
+Dialogue: 0,1:31:36.90,1:31:38.53,Default,,0,0,0,,I only had myself.
+Dialogue: 0,1:31:39.24,1:31:40.41,Default,,0,0,0,,I get it.
+Dialogue: 0,1:31:40.66,1:31:43.37,Default,,0,0,0,,I get what that's like.
+Dialogue: 0,1:31:45.33,1:31:47.16,Default,,0,0,0,,Feeling like you're\Nall alone in the world.
+Dialogue: 0,1:31:47.25,1:31:48.25,Default,,0,0,0,,Stand.
+Dialogue: 0,1:31:49.08,1:31:51.44,Default,,0,0,0,,Feeling like there's that one\Nthing, and if you could just find it,
+Dialogue: 0,1:31:51.46,1:31:53.42,Default,,0,0,0,,then you'd finally\Nbe good enough.
+Dialogue: 0,1:31:53.50,1:31:54.50,Default,,0,0,0,,Stand.
+Dialogue: 0,1:31:57.30,1:31:58.93,Default,,0,0,0,,The champion's name.
+Dialogue: 0,1:32:00.47,1:32:01.47,Default,,0,0,0,,Say it.
+Dialogue: 0,1:32:28.87,1:32:30.12,Default,,0,0,0,,Look, no offense, mister,
+Dialogue: 0,1:32:30.21,1:32:32.73,Default,,0,0,0,,but I don't think these things\Nhave your best interest at heart.
+Dialogue: 0,1:32:33.25,1:32:36.13,Default,,0,0,0,,Don't listen to this child.
+Dialogue: 0,1:32:36.71,1:32:39.22,Default,,0,0,0,,Take the staff.
+Dialogue: 0,1:32:39.38,1:32:43.68,Default,,0,0,0,,Hold it and say the\Nchampion's name.
+Dialogue: 0,1:32:44.30,1:32:45.81,Default,,0,0,0,,They're using you.
+Dialogue: 0,1:32:46.47,1:32:48.89,Default,,0,0,0,,You have to see that,\Nthat they are using you.
+Dialogue: 0,1:32:48.98,1:32:50.10,Default,,0,0,0,,Say your name.
+Dialogue: 0,1:32:53.73,1:32:54.73,Default,,0,0,0,,His name...
+Dialogue: 0,1:32:55.86,1:32:57.90,Default,,0,0,0,,is Captain Sparklefingers.
+Dialogue: 0,1:32:57.99,1:33:00.15,Default,,0,0,0,,And we're gonna keep\Nthrowing things at your big,
+Dialogue: 0,1:33:00.24,1:33:02.20,Default,,0,0,0,,fat, ugly-eyed head,
+Dialogue: 0,1:33:02.28,1:33:04.16,Default,,0,0,0,,until you let our brother go.
+Dialogue: 0,1:33:28.81,1:33:30.49,Default,,0,0,0,,Boy, am I glad I didn't\Nsell that Batarang.
+Dialogue: 0,1:33:31.06,1:33:33.06,Default,,0,0,0,,- Pedro, is that a lamp?\N- It's an ugly one.
+Dialogue: 0,1:33:33.06,1:33:34.86,Default,,0,0,0,,Come on. Come on. Come on.
+Dialogue: 0,1:33:34.94,1:33:36.17,Default,,0,0,0,,Guys, I appreciate the thought,
+Dialogue: 0,1:33:36.19,1:33:38.29,Default,,0,0,0,,I really do, but I don't think\Nyour weapons are gonna help.
+Dialogue: 0,1:33:38.32,1:33:39.86,Default,,0,0,0,,You can put 'em down now.
+Dialogue: 0,1:33:41.49,1:33:42.61,Default,,0,0,0,,The door was right here.
+Dialogue: 0,1:33:42.70,1:33:44.11,Default,,0,0,0,,Billy, how do we get outta here?
+Dialogue: 0,1:33:44.70,1:33:46.18,Default,,0,0,0,,What, you think I\Nknow? I don't know.
+Dialogue: 0,1:33:46.99,1:33:47.83,Default,,0,0,0,,This way!
+Dialogue: 0,1:33:47.91,1:33:49.41,Default,,0,0,0,,Go, go, go. Follow Darla.
+Dialogue: 0,1:33:49.50,1:33:51.29,Default,,0,0,0,,Good job, Darla. Go, go, go!
+Dialogue: 0,1:33:51.37,1:33:52.37,Default,,0,0,0,,Kids?
+Dialogue: 0,1:33:54.00,1:33:55.04,Default,,0,0,0,,Why is this open?
+Dialogue: 0,1:33:55.63,1:33:57.75,Default,,0,0,0,,Freddy? Mary?
+Dialogue: 0,1:34:01.42,1:34:02.84,Default,,0,0,0,,Pedro, Pedro, come on.
+Dialogue: 0,1:34:02.93,1:34:04.72,Default,,0,0,0,,Freddy? Freddy, keep up.
+Dialogue: 0,1:34:04.80,1:34:06.09,Default,,0,0,0,,Darla, stay in front.
+Dialogue: 0,1:34:06.93,1:34:08.10,Default,,0,0,0,,We gotta hurry.
+Dialogue: 0,1:34:31.75,1:34:32.96,Default,,0,0,0,,Whoa!
+Dialogue: 0,1:34:34.04,1:34:36.25,Default,,0,0,0,,So many doors.
+Dialogue: 0,1:34:36.33,1:34:39.13,Default,,0,0,0,,One of these has to\Nbe a way out, right?
+Dialogue: 0,1:34:39.21,1:34:40.50,Default,,0,0,0,,Yeah, I would hope so.
+Dialogue: 0,1:34:57.52,1:34:58.56,Default,,0,0,0,,Not this one.
+Dialogue: 0,1:35:12.66,1:35:14.75,Default,,0,0,0,,Okay, no more doors.\NNobody open any more doors.
+Dialogue: 0,1:35:14.83,1:35:16.75,Default,,0,0,0,,Come on, Billy. What\Nare we gonna do?
+Dialogue: 0,1:35:16.83,1:35:17.92,Default,,0,0,0,,Darla, I don't know.
+Dialogue: 0,1:35:18.00,1:35:20.50,Default,,0,0,0,,Yes, you do. Just think.\NHow'd you get out last time?
+Dialogue: 0,1:35:20.59,1:35:22.77,Default,,0,0,0,,Uh, last time, I thought about the\Nsubway, and I was on the subway.
+Dialogue: 0,1:35:22.80,1:35:24.72,Default,,0,0,0,,Okay. Then, Billy, look,\Nthink about the subway.
+Dialogue: 0,1:35:24.80,1:35:27.51,Default,,0,0,0,,Think about any place\Nexcept for here, okay?
+Dialogue: 0,1:35:49.70,1:35:50.87,Default,,0,0,0,,Come on, come on, come on.
+Dialogue: 0,1:35:50.95,1:35:52.66,Default,,0,0,0,,Why are you covering my eyes?
+Dialogue: 0,1:35:52.74,1:35:55.37,Default,,0,0,0,,Really? This is the first\Nplace you think of? Wow!
+Dialogue: 0,1:35:55.45,1:35:56.54,Default,,0,0,0,,You're welcome!
+Dialogue: 0,1:35:56.62,1:35:58.25,Default,,0,0,0,,Why can't I see what's inside?
+Dialogue: 0,1:35:58.33,1:35:59.79,Default,,0,0,0,,You are not old enough.
+Dialogue: 0,1:35:59.88,1:36:01.75,Default,,0,0,0,,Old enough to know\Nthat was great music.
+Dialogue: 0,1:36:02.54,1:36:03.54,Default,,0,0,0,,Not my thing.
+Dialogue: 0,1:36:03.59,1:36:04.71,Default,,0,0,0,,Where's Freddy?
+Dialogue: 0,1:36:04.80,1:36:05.96,Default,,0,0,0,,Yeah, you, too, Sriracha.
+Dialogue: 0,1:36:06.05,1:36:07.76,Default,,0,0,0,,Hey, have a holly\Njolly Christmas.
+Dialogue: 0,1:36:07.84,1:36:09.13,Default,,0,0,0,,Freddy! What are you doing?
+Dialogue: 0,1:36:09.22,1:36:10.59,Default,,0,0,0,,Nice people.
+Dialogue: 0,1:36:10.68,1:36:11.55,Default,,0,0,0,,Nice people? Come on.
+Dialogue: 0,1:36:11.64,1:36:13.66,Default,,0,0,0,,Is that glitter? They have\Nglitter! Can I get glitter?
+Dialogue: 0,1:36:13.68,1:36:14.89,Default,,0,0,0,,No, not from them.
+Dialogue: 0,1:36:14.97,1:36:16.02,Default,,0,0,0,,Please?
+Dialogue: 0,1:36:16.10,1:36:17.10,Default,,0,0,0,,No..
+Dialogue: 0,1:36:18.98,1:36:19.98,Default,,0,0,0,,Darla.
+Dialogue: 0,1:36:24.94,1:36:26.86,Default,,0,0,0,,Go, go, go. Everybody, go!
+Dialogue: 0,1:36:26.94,1:36:28.57,Default,,0,0,0,,Freddy? Freddy, Freddy.
+Dialogue: 0,1:36:28.65,1:36:30.01,Default,,0,0,0,,One, two, three.\NUp, up. Up we go.
+Dialogue: 0,1:36:38.46,1:36:40.08,Default,,0,0,0,,Carnival, go! Go, Mary, go.
+Dialogue: 0,1:36:40.17,1:36:41.96,Default,,0,0,0,,Come on, Pedro. Come on.
+Dialogue: 0,1:36:53.80,1:36:55.39,Default,,0,0,0,,Don't run, but don't\Nwalk. Just be cool.
+Dialogue: 0,1:36:55.47,1:36:58.14,Default,,0,0,0,,Act naturally, like kids\Nnaturally act in a carnival.
+Dialogue: 0,1:36:58.23,1:36:59.99,Default,,0,0,0,,- He's not gonna look for us here.\N- Is that him?
+Dialogue: 0,1:37:00.02,1:37:01.54,Default,,0,0,0,,- Oh, my God!\N- Dude, it's Zap-tain America!
+Dialogue: 0,1:37:01.56,1:37:03.52,Default,,0,0,0,,- Power Boy!\N- He's an impersonator, okay?
+Dialogue: 0,1:37:03.61,1:37:04.87,Default,,0,0,0,,Yeah, I'm an impersonator!\NI'm a fake version of myself.
+Dialogue: 0,1:37:04.90,1:37:06.32,Default,,0,0,0,,Don't take pictures.
+Dialogue: 0,1:37:08.53,1:37:09.70,Default,,0,0,0,,Shazam!
+Dialogue: 0,1:37:16.83,1:37:18.37,Default,,0,0,0,,Hey! Where'd he go?
+Dialogue: 0,1:37:18.45,1:37:19.66,Default,,0,0,0,,What, is he invisible now?
+Dialogue: 0,1:37:27.05,1:37:29.84,Default,,0,0,0,,Oh, man, I just spit on a baby!
+Dialogue: 0,1:37:31.30,1:37:32.88,Default,,0,0,0,,Yo, what is that?
+Dialogue: 0,1:37:36.35,1:37:37.68,Default,,0,0,0,,Who is that guy?
+Dialogue: 0,1:37:38.68,1:37:40.18,Default,,0,0,0,,Champion.
+Dialogue: 0,1:37:43.06,1:37:45.15,Default,,0,0,0,,You don't deserve that name.
+Dialogue: 0,1:37:46.52,1:37:49.19,Default,,0,0,0,,See that? Look at that up there!
+Dialogue: 0,1:37:49.28,1:37:52.90,Default,,0,0,0,,Hiding behind innocent\Npeople who will now die.
+Dialogue: 0,1:37:54.70,1:37:58.29,Default,,0,0,0,,Because deep down you're\Nstill just a scared little boy.
+Dialogue: 0,1:38:00.50,1:38:02.08,Default,,0,0,0,,Oh, no.
+Dialogue: 0,1:38:03.33,1:38:05.96,Default,,0,0,0,,Run! Run!
+Dialogue: 0,1:38:18.89,1:38:21.39,Default,,0,0,0,,- Oh! What do we do?\N- Just hold on!
+Dialogue: 0,1:38:21.48,1:38:23.14,Default,,0,0,0,,- To what?\N- The bar, you idiot!
+Dialogue: 0,1:38:32.32,1:38:34.20,Default,,0,0,0,,Well, you wanted\Nme to be a hero.
+Dialogue: 0,1:38:34.28,1:38:35.32,Default,,0,0,0,,Are you kidding?
+Dialogue: 0,1:38:35.41,1:38:39.20,Default,,0,0,0,,Okay, no. Old guy's up there\Nharboring multiple spiritual entities.
+Dialogue: 0,1:38:39.28,1:38:40.99,Default,,0,0,0,,Plus, he has the\Nsame powers as you.
+Dialogue: 0,1:38:41.08,1:38:42.51,Default,,0,0,0,,Plus, I mean, he\Nknows what he's doing.
+Dialogue: 0,1:38:42.54,1:38:44.94,Default,,0,0,0,,Plus, I mean, you're my best\Nfriend. I don't want you to die.
+Dialogue: 0,1:38:45.92,1:38:48.54,Default,,0,0,0,,If a superhero\Ncan't save his family,
+Dialogue: 0,1:38:49.88,1:38:50.92,Default,,0,0,0,,he's not much of a hero.
+Dialogue: 0,1:38:55.80,1:38:57.01,Default,,0,0,0,,That was a decent catchphrase.
+Dialogue: 0,1:38:58.10,1:38:59.10,Default,,0,0,0,,Shazam!
+Dialogue: 0,1:39:08.36,1:39:09.90,Default,,0,0,0,,Now, let's try this again.
+Dialogue: 0,1:39:24.29,1:39:25.75,Default,,0,0,0,,Or try that again!
+Dialogue: 0,1:39:34.01,1:39:35.01,Default,,0,0,0,,Billy, look out!
+Dialogue: 0,1:39:38.18,1:39:40.43,Default,,0,0,0,,Laser eyes! Guys,\Nhe's got laser eyes!
+Dialogue: 0,1:39:40.51,1:39:42.68,Default,,0,0,0,,Too bad your aim sucks balls!
+Dialogue: 0,1:39:52.57,1:39:53.78,Default,,0,0,0,,That's his power matrix.
+Dialogue: 0,1:39:53.86,1:39:54.86,Default,,0,0,0,,His what-what?
+Dialogue: 0,1:39:54.90,1:39:57.90,Default,,0,0,0,,When the demon guys leave\Nhis eye, he loses his powers.
+Dialogue: 0,1:39:58.70,1:40:00.24,Default,,0,0,0,,That's why the\NBatarang hurt him.
+Dialogue: 0,1:40:01.49,1:40:02.37,Default,,0,0,0,,Hey!
+Dialogue: 0,1:40:02.45,1:40:03.45,Default,,0,0,0,,Over here!
+Dialogue: 0,1:40:04.83,1:40:06.60,Default,,0,0,0,,- Wait. What are you doing?\N- Trust me. Divide and conquer.
+Dialogue: 0,1:40:06.62,1:40:08.98,Default,,0,0,0,,We separate the Sins from the\Neye, and he's just an old man.
+Dialogue: 0,1:40:09.54,1:40:10.79,Default,,0,0,0,,Gather the mutts.
+Dialogue: 0,1:40:24.56,1:40:25.56,Default,,0,0,0,,Run!
+Dialogue: 0,1:40:31.81,1:40:33.90,Default,,0,0,0,,Darla, no!
+Dialogue: 0,1:40:48.87,1:40:50.58,Default,,0,0,0,,Here. Take it.
+Dialogue: 0,1:40:50.67,1:40:52.54,Default,,0,0,0,,Take it. It's for you.
+Dialogue: 0,1:40:52.63,1:40:54.21,Default,,0,0,0,,Hold it tight.
+Dialogue: 0,1:40:54.29,1:40:57.26,Default,,0,0,0,,Close your eyes.\NEverything's gonna be okay.
+Dialogue: 0,1:40:57.34,1:40:58.80,Default,,0,0,0,,- Okay?\N- Mmm-hmm.
+Dialogue: 0,1:40:59.67,1:41:00.80,Default,,0,0,0,,Okay.
+Dialogue: 0,1:41:41.13,1:41:42.26,Default,,0,0,0,,Shazam!
+Dialogue: 0,1:42:04.57,1:42:05.99,Default,,0,0,0,,Shazam!
+Dialogue: 0,1:42:11.08,1:42:12.58,Default,,0,0,0,,Playtime's over, boy.
+Dialogue: 0,1:42:14.17,1:42:15.67,Default,,0,0,0,,Your friends can't\Nhelp you anymore.
+Dialogue: 0,1:42:15.75,1:42:16.92,Default,,0,0,0,,Shazam!
+Dialogue: 0,1:42:21.51,1:42:22.67,Default,,0,0,0,,Hey!
+Dialogue: 0,1:42:49.53,1:42:50.66,Default,,0,0,0,,Shazam!
+Dialogue: 0,1:43:15.23,1:43:16.94,Default,,0,0,0,,Nice trick.
+Dialogue: 0,1:43:17.02,1:43:18.02,Default,,0,0,0,,Catchy.
+Dialogue: 0,1:43:18.61,1:43:20.48,Default,,0,0,0,,One simple word.
+Dialogue: 0,1:43:20.57,1:43:22.23,Default,,0,0,0,,I have a better trick.
+Dialogue: 0,1:43:23.19,1:43:24.49,Default,,0,0,0,,Four words.
+Dialogue: 0,1:43:25.78,1:43:26.95,Default,,0,0,0,,Kill the little girl.
+Dialogue: 0,1:43:27.03,1:43:29.66,Default,,0,0,0,,- Darla, no!\N- Take me instead!
+Dialogue: 0,1:43:33.95,1:43:35.00,Default,,0,0,0,,Stop!
+Dialogue: 0,1:43:50.51,1:43:53.26,Default,,0,0,0,,Billy, there's one more\Ndemon guy in his eye!
+Dialogue: 0,1:43:53.35,1:43:55.35,Default,,0,0,0,,You gotta just rip it\Nout of his face hole!
+Dialogue: 0,1:43:55.43,1:43:56.59,Default,,0,0,0,,It's where he gets his power.
+Dialogue: 0,1:44:01.11,1:44:02.32,Default,,0,0,0,,Reach for it.
+Dialogue: 0,1:44:04.03,1:44:05.03,Default,,0,0,0,,I dare you.
+Dialogue: 0,1:44:14.12,1:44:15.41,Default,,0,0,0,,Wise decision.
+Dialogue: 0,1:44:17.75,1:44:19.12,Default,,0,0,0,,Hands on the staff.
+Dialogue: 0,1:44:19.92,1:44:22.17,Default,,0,0,0,,Billy, don't do this. Billy!
+Dialogue: 0,1:44:22.25,1:44:23.84,Default,,0,0,0,,- Billy.\N- Don't do it, Billy!
+Dialogue: 0,1:44:23.92,1:44:24.92,Default,,0,0,0,,Don't!
+Dialogue: 0,1:44:44.32,1:44:47.90,Default,,0,0,0,,{\i1}Say my name so my\Npower may flow through you.{\i0}
+Dialogue: 0,1:44:47.99,1:44:51.11,Default,,0,0,0,,I open my heart\Nto you, Billy Batson.
+Dialogue: 0,1:44:51.20,1:44:55.03,Default,,0,0,0,,And in so doing,\Nchoose you as champion.
+Dialogue: 0,1:44:55.70,1:44:59.25,Default,,0,0,0,,With your heart, unlock\Nyour greatest power.
+Dialogue: 0,1:44:59.33,1:45:02.13,Default,,0,0,0,,The thrones of our\Nbrothers and sisters await.
+Dialogue: 0,1:45:10.76,1:45:11.76,Default,,0,0,0,,All hands on deck.
+Dialogue: 0,1:45:17.22,1:45:18.43,Default,,0,0,0,,Say my name.
+Dialogue: 0,1:45:19.81,1:45:21.19,Default,,0,0,0,,Billy!
+Dialogue: 0,1:45:21.27,1:45:22.27,Default,,0,0,0,,No, not my name.
+Dialogue: 0,1:45:22.35,1:45:24.15,Default,,0,0,0,,Say the name that I\Nsay to turn into this guy.
+Dialogue: 0,1:45:25.36,1:45:26.36,Default,,0,0,0,,Shazam!
+Dialogue: 0,1:46:05.15,1:46:06.15,Default,,0,0,0,,Guys.
+Dialogue: 0,1:46:08.15,1:46:09.15,Default,,0,0,0,,What's happening?
+Dialogue: 0,1:46:13.61,1:46:14.70,Default,,0,0,0,,I can fly!
+Dialogue: 0,1:46:19.83,1:46:21.20,Default,,0,0,0,,Guys.
+Dialogue: 0,1:46:21.29,1:46:23.33,Default,,0,0,0,,Check out these guns.
+Dialogue: 0,1:46:24.29,1:46:27.29,Default,,0,0,0,,No. It's not possible.
+Dialogue: 0,1:46:29.30,1:46:32.26,Default,,0,0,0,,Gee-whiz, mister.\NSorry I took your cane.
+Dialogue: 0,1:46:32.34,1:46:33.51,Default,,0,0,0,,Do you want it back?
+Dialogue: 0,1:46:36.18,1:46:37.64,Default,,0,0,0,,Guys, I don't\Nbelieve in violence,
+Dialogue: 0,1:46:38.22,1:46:41.52,Default,,0,0,0,,but I think we should kick\Nthis guy's butt, like, really hard.
+Dialogue: 0,1:46:46.27,1:46:47.56,Default,,0,0,0,,Whoa!
+Dialogue: 0,1:46:53.19,1:46:54.59,Default,,0,0,0,,Guys, I think I\Ncan move really...
+Dialogue: 0,1:46:55.53,1:46:56.53,Default,,0,0,0,,fast.
+Dialogue: 0,1:46:57.24,1:46:59.24,Default,,0,0,0,,Hyper-speed! Check!
+Dialogue: 0,1:47:08.33,1:47:10.80,Default,,0,0,0,,Billy! The eye!
+Dialogue: 0,1:47:18.68,1:47:19.68,Default,,0,0,0,,Look out!
+Dialogue: 0,1:47:21.89,1:47:22.89,Default,,0,0,0,,Whoa!
+Dialogue: 0,1:47:24.39,1:47:26.69,Default,,0,0,0,,What?
+Dialogue: 0,1:47:28.06,1:47:29.02,Default,,0,0,0,,- What!\N- Dude!
+Dialogue: 0,1:47:29.02,1:47:31.02,Default,,0,0,0,,You almost exploded me.
+Dialogue: 0,1:48:17.03,1:48:18.95,Default,,0,0,0,,Dude, I've studied\Nthe fighting techniques
+Dialogue: 0,1:48:19.03,1:48:20.49,Default,,0,0,0,,of every single superhero.
+Dialogue: 0,1:48:21.78,1:48:23.53,Default,,0,0,0,,What do you got?
+Dialogue: 0,1:48:26.91,1:48:28.41,Default,,0,0,0,,Well, that's terrifying.
+Dialogue: 0,1:49:02.37,1:49:04.37,Default,,0,0,0,,Enough games, boy.
+Dialogue: 0,1:49:05.41,1:49:06.87,Default,,0,0,0,,You think a pack\Nof children can...
+Dialogue: 0,1:49:10.29,1:49:11.37,Default,,0,0,0,,Wait, what?
+Dialogue: 0,1:49:11.46,1:49:13.75,Default,,0,0,0,,You will beg for mercy
+Dialogue: 0,1:49:13.84,1:49:15.80,Default,,0,0,0,,as I feast on your heart...
+Dialogue: 0,1:49:16.59,1:49:17.59,Default,,0,0,0,,slow.
+Dialogue: 0,1:49:19.34,1:49:22.93,Default,,0,0,0,,Are you making some big evil\Nguy speech right now or something?
+Dialogue: 0,1:49:23.01,1:49:26.56,Default,,0,0,0,,You're, like, a mile away from me\Nright now. There's cars and trucks.
+Dialogue: 0,1:49:26.64,1:49:29.60,Default,,0,0,0,,I will have the world eating\Nout of the palm of my hand...
+Dialogue: 0,1:49:29.68,1:49:32.15,Default,,0,0,0,,All I see is mouth\Nmoving. I don't hear any...
+Dialogue: 0,1:49:32.23,1:49:35.73,Default,,0,0,0,,Only I have the\Npower to unleash...
+Dialogue: 0,1:49:37.65,1:49:38.94,Default,,0,0,0,,Ah, whatever. Screw it.
+Dialogue: 0,1:50:09.89,1:50:11.23,Default,,0,0,0,,Oh, my gosh. Those people!
+Dialogue: 0,1:50:19.32,1:50:20.44,Default,,0,0,0,,Hi!
+Dialogue: 0,1:50:20.53,1:50:21.90,Default,,0,0,0,,Wow. I caught you.
+Dialogue: 0,1:50:33.37,1:50:35.96,Default,,0,0,0,,I got it. I got it.
+Dialogue: 0,1:50:42.17,1:50:43.93,Default,,0,0,0,,Oh, my God. I do got it.
+Dialogue: 0,1:51:00.27,1:51:01.42,Default,,0,0,0,,You're not gonna believe this,
+Dialogue: 0,1:51:01.44,1:51:03.42,Default,,0,0,0,,but you're actually the\Nfirst villain I've ever fought.
+Dialogue: 0,1:51:03.44,1:51:05.07,Default,,0,0,0,,It's kind of a huge deal for me.
+Dialogue: 0,1:51:19.46,1:51:22.00,Default,,0,0,0,,Somebody help!
+Dialogue: 0,1:51:36.10,1:51:39.02,Default,,0,0,0,,Hi. Wow. It's really you.
+Dialogue: 0,1:51:40.06,1:51:42.86,Default,,0,0,0,,My name is Darla, and\NI've been really good.
+Dialogue: 0,1:51:42.94,1:51:43.94,Default,,0,0,0,,What?
+Dialogue: 0,1:51:47.99,1:51:49.16,Default,,0,0,0,,Oh, crap.
+Dialogue: 0,1:51:50.66,1:51:51.53,Default,,0,0,0,,No, no, no.
+Dialogue: 0,1:51:51.62,1:51:52.62,Default,,0,0,0,,No, no. No!
+Dialogue: 0,1:52:10.64,1:52:12.22,Default,,0,0,0,,No! No, no.
+Dialogue: 0,1:52:20.44,1:52:21.48,Default,,0,0,0,,Oh, my God!
+Dialogue: 0,1:52:21.56,1:52:23.23,Default,,0,0,0,,Is he giving us\Nsuitcase wedgies?
+Dialogue: 0,1:53:00.39,1:53:02.27,Default,,0,0,0,,So this is, like, the\NSeven Deadly Sins, right?
+Dialogue: 0,1:53:03.52,1:53:05.94,Default,,0,0,0,,I mean, I've never\Nbeen great at math,
+Dialogue: 0,1:53:06.03,1:53:08.82,Default,,0,0,0,,but, uh, the big, angry\None, that's Wrath, yeah?
+Dialogue: 0,1:53:08.90,1:53:10.91,Default,,0,0,0,,And then Gluttony, obvi.
+Dialogue: 0,1:53:11.78,1:53:15.24,Default,,0,0,0,,Pride, Greed, Sloth, Lust,
+Dialogue: 0,1:53:15.33,1:53:18.96,Default,,0,0,0,,who I thought was gonna be\Nway hotter, if I'm being honest.
+Dialogue: 0,1:53:19.62,1:53:22.71,Default,,0,0,0,,But that's only six. Where's\Nlucky number seven?
+Dialogue: 0,1:53:22.79,1:53:25.00,Default,,0,0,0,,Where's little man?\NWhere's Envy?
+Dialogue: 0,1:53:25.09,1:53:27.76,Default,,0,0,0,,Is he just scared of me and my\Nfamily because we're so awesome?
+Dialogue: 0,1:53:27.84,1:53:28.84,Default,,0,0,0,,Because I get that.
+Dialogue: 0,1:53:29.42,1:53:31.59,Default,,0,0,0,,Like, the other sins, they\Nget to come out and fight
+Dialogue: 0,1:53:31.68,1:53:33.55,Default,,0,0,0,,because they're big\Nand strong and scary.
+Dialogue: 0,1:53:33.64,1:53:34.72,Default,,0,0,0,,But Envy...
+Dialogue: 0,1:53:36.10,1:53:37.56,Default,,0,0,0,,he's just the runt.
+Dialogue: 0,1:53:50.19,1:53:53.24,Default,,0,0,0,,And that's why all the other sins\Nnever invite him out to play, man.
+Dialogue: 0,1:53:53.32,1:53:55.12,Default,,0,0,0,,Because they all know who'd win.
+Dialogue: 0,1:53:56.03,1:54:01.33,Default,,0,0,0,,And it's not weak,\Nworthless, ugly Envy.
+Dialogue: 0,1:54:27.57,1:54:29.15,Default,,0,0,0,,Gotcha.
+Dialogue: 0,1:54:29.23,1:54:31.28,Default,,0,0,0,,Shazam!
+Dialogue: 0,1:54:37.70,1:54:39.08,Default,,0,0,0,,Shazam!
+Dialogue: 0,1:54:49.50,1:54:51.26,Default,,0,0,0,,Ready to go round\Nup your buddies?
+Dialogue: 0,1:55:20.58,1:55:23.91,Default,,0,0,0,,No. No!
+Dialogue: 0,1:55:53.61,1:55:55.99,Default,,0,0,0,,Here's the thing about power.
+Dialogue: 0,1:55:56.11,1:55:59.82,Default,,0,0,0,,What good's power, if you\Ngot nobody to share it with?
+Dialogue: 0,1:56:01.45,1:56:03.20,Default,,0,0,0,,- Nice.\N- Ta-da!
+Dialogue: 0,1:56:03.29,1:56:04.20,Default,,0,0,0,,That's disgusting.
+Dialogue: 0,1:56:04.29,1:56:05.29,Default,,0,0,0,,Fatality.
+Dialogue: 0,1:56:07.00,1:56:08.04,Default,,0,0,0,,I got the voice.
+Dialogue: 0,1:56:11.79,1:56:12.79,Default,,0,0,0,,What's that?
+Dialogue: 0,1:56:18.51,1:56:20.68,Default,,0,0,0,,I can have anything\NI've ever wanted?
+Dialogue: 0,1:56:24.52,1:56:25.68,Default,,0,0,0,,Billy.
+Dialogue: 0,1:56:25.81,1:56:26.98,Default,,0,0,0,,No, no, no!
+Dialogue: 0,1:56:27.06,1:56:28.52,Default,,0,0,0,,- Stop it!\N- Don't look at that!
+Dialogue: 0,1:56:28.60,1:56:29.85,Default,,0,0,0,,Billy, don't do it!
+Dialogue: 0,1:56:30.60,1:56:32.02,Default,,0,0,0,,Ah!
+Dialogue: 0,1:56:32.65,1:56:34.82,Default,,0,0,0,,- You should hear yourselves!\N- Not funny.
+Dialogue: 0,1:56:34.90,1:56:36.94,Default,,0,0,0,,You think I'm gonna put\Na demon ball in my head?
+Dialogue: 0,1:56:37.03,1:56:37.95,Default,,0,0,0,,That's disgusting.
+Dialogue: 0,1:56:38.03,1:56:40.41,Default,,0,0,0,,That's funny. That's pretty\Nfunny. You got me going.
+Dialogue: 0,1:56:40.49,1:56:41.99,Default,,0,0,0,,- You got me going.\N- Uh... Guys.
+Dialogue: 0,1:56:45.24,1:56:46.24,Default,,0,0,0,,What?
+Dialogue: 0,1:56:48.12,1:56:49.58,Default,,0,0,0,,Oh. Hey.
+Dialogue: 0,1:56:50.17,1:56:52.54,Default,,0,0,0,,Oh, wow.
+Dialogue: 0,1:57:00.09,1:57:01.43,Default,,0,0,0,,All right, We did it!
+Dialogue: 0,1:57:01.51,1:57:05.51,Default,,0,0,0,,Hey, all right, yeah! We did it!
+Dialogue: 0,1:57:06.72,1:57:08.93,Default,,0,0,0,,We did it!
+Dialogue: 0,1:57:09.35,1:57:12.27,Default,,0,0,0,,Hey, you guys are all safe.\NThere's no more danger anymore.
+Dialogue: 0,1:57:12.35,1:57:14.69,Default,,0,0,0,,- We're fine. It's okay.\N- All right, all right, all right.
+Dialogue: 0,1:57:14.77,1:57:15.82,Default,,0,0,0,,We're good.
+Dialogue: 0,1:57:26.20,1:57:27.87,Default,,0,0,0,,You sure this is gonna work?
+Dialogue: 0,1:57:29.62,1:57:30.66,Default,,0,0,0,,Told ya.
+Dialogue: 0,1:57:31.21,1:57:32.42,Default,,0,0,0,,Whoa!
+Dialogue: 0,1:57:34.21,1:57:35.21,Default,,0,0,0,,Whoa!
+Dialogue: 0,1:57:50.02,1:57:51.54,Default,,0,0,0,,You guys know what\Nthis place is, right?
+Dialogue: 0,1:57:51.56,1:57:54.69,Default,,0,0,0,,A dark, haunted cave\Nwith demon statues.
+Dialogue: 0,1:57:54.77,1:57:57.44,Default,,0,0,0,,Well, yes, but also...
+Dialogue: 0,1:57:59.74,1:58:03.32,Default,,0,0,0,,Lair! We got a lair!
+Dialogue: 0,1:58:03.41,1:58:04.53,Default,,0,0,0,,- Lair.\N- Yeah.
+Dialogue: 0,1:58:04.62,1:58:05.66,Default,,0,0,0,,No, you right.
+Dialogue: 0,1:58:05.74,1:58:07.28,Default,,0,0,0,,We got a lair.
+Dialogue: 0,1:58:09.29,1:58:10.54,Default,,0,0,0,,What's a lair?
+Dialogue: 0,1:58:11.46,1:58:13.21,Default,,0,0,0,,{\i1}And thanks to six superheroes,{\i0}
+Dialogue: 0,1:58:13.29,1:58:17.38,Default,,0,0,0,,{\i1}citizens are back in their homes,\Nsafe again with their families.{\i0}
+Dialogue: 0,1:58:17.46,1:58:19.92,Default,,0,0,0,,{\i1}And here with an eyewitness\Naccount of the events...{\i0}
+Dialogue: 0,1:58:20.01,1:58:22.26,Default,,0,0,0,,{\i1}It was crazy, man!{\i0}
+Dialogue: 0,1:58:22.34,1:58:24.26,Default,,0,0,0,,{\i1}Creatures from hell!{\i0}
+Dialogue: 0,1:58:24.34,1:58:26.93,Default,,0,0,0,,{\i1}Lightning coming out\Nof everyone's everything!{\i0}
+Dialogue: 0,1:58:27.01,1:58:29.77,Default,,0,0,0,,{\i1}And that is not cool, man!{\i0}
+Dialogue: 0,1:58:29.85,1:58:31.89,Default,,0,0,0,,So, first day as a superhero.
+Dialogue: 0,1:58:31.98,1:58:35.10,Default,,0,0,0,,Automatic top\Nspot for best ever.
+Dialogue: 0,1:58:35.19,1:58:37.02,Default,,0,0,0,,The man shattered\Nthe glass noodle ceiling.
+Dialogue: 0,1:58:37.11,1:58:38.86,Default,,0,0,0,,- No. That's racist.\N- Not if I say it.
+Dialogue: 0,1:58:38.94,1:58:39.94,Default,,0,0,0,,Guys.
+Dialogue: 0,1:58:41.07,1:58:42.44,Default,,0,0,0,,- All hands on deck.\N- Oh!
+Dialogue: 0,1:58:45.16,1:58:46.99,Default,,0,0,0,,Wait, wait, wait.
+Dialogue: 0,1:58:47.07,1:58:48.12,Default,,0,0,0,,Wait.
+Dialogue: 0,1:58:48.20,1:58:49.79,Default,,0,0,0,,Thank you for this food.
+Dialogue: 0,1:58:49.87,1:58:51.91,Default,,0,0,0,,Thank you for this day.
+Dialogue: 0,1:58:52.00,1:58:53.04,Default,,0,0,0,,Thank you for this family.
+Dialogue: 0,1:58:54.12,1:58:56.21,Default,,0,0,0,,I thought maybe\Nthis time I'd stay.
+Dialogue: 0,1:58:57.63,1:59:00.38,Default,,0,0,0,,I mean, after all,
+Dialogue: 0,1:59:00.46,1:59:01.46,Default,,0,0,0,,I'm home.
+Dialogue: 0,1:59:33.45,1:59:35.21,Default,,0,0,0,,He better not sit at our table.
+Dialogue: 0,1:59:38.54,1:59:39.67,Default,,0,0,0,,Nope!
+Dialogue: 0,1:59:42.17,1:59:43.17,Default,,0,0,0,,Okay.
+Dialogue: 0,1:59:46.76,1:59:48.22,Default,,0,0,0,,What are you doing?
+Dialogue: 0,1:59:48.30,1:59:50.35,Default,,0,0,0,,Waiting for your\Nimaginary BFF to show up?
+Dialogue: 0,1:59:50.43,1:59:51.60,Default,,0,0,0,,Yeah.
+Dialogue: 0,2:00:00.27,2:00:01.43,Default,,0,0,0,,What are you guys doing here?
+Dialogue: 0,2:00:01.77,2:00:03.19,Default,,0,0,0,,Well, we're having\Nlunch with you.
+Dialogue: 0,2:00:03.28,2:00:04.92,Default,,0,0,0,,But you guys have\Ndifferent lunch periods.
+Dialogue: 0,2:00:05.40,2:00:07.00,Default,,0,0,0,,Well, we made a very\Nspecial arrangement.
+Dialogue: 0,2:00:08.74,2:00:11.28,Default,,0,0,0,,- Darla, what's going on?\N- Why are you asking me?
+Dialogue: 0,2:00:11.99,2:00:12.99,Default,,0,0,0,,Freddy Freeman.
+Dialogue: 0,2:00:15.45,2:00:20.75,Default,,0,0,0,,This guy taught me everything I\Nknow about being a dope superhero.
+Dialogue: 0,2:00:20.83,2:00:23.13,Default,,0,0,0,,True story. You should\Nget some pointers from him.
+Dialogue: 0,2:00:23.21,2:00:27.72,Default,,0,0,0,,What's going on, my best\Nbud in the whole world?
+Dialogue: 0,2:00:27.80,2:00:32.10,Default,,0,0,0,,And also new kids that I'm meeting\Nfor the first time but seem very cool?
+Dialogue: 0,2:00:32.43,2:00:33.43,Default,,0,0,0,,Uh...
+Dialogue: 0,2:00:33.47,2:00:36.27,Default,,0,0,0,,I invited another friend.\NI hope that's okay.
+Dialogue: 0,2:00:50.57,2:00:52.57,Default,,0,0,0,,{\an5\c&H51ab2b&}Improved by{\c&Hf8fc03&} {\b1}KID{\b0} {\c}\N\N{\an5\c&H51ab2b&}Resynced by{\c&Hf8fc03&} {\b1}KID{\b0} {\c}\N\N{\an5\c&H51ab2b&}Enjoy the movie(s) / show(s)
+Dialogue: 0,2:03:32.99,2:03:37.24,Default,,0,0,0,,Sun of Ra.
+Dialogue: 0,2:03:38.49,2:03:45.08,Default,,0,0,0,,Ouroboros.
+Dialogue: 0,2:03:46.92,2:03:50.46,Default,,0,0,0,,Solomon's...
+Dialogue: 0,2:03:50.54,2:03:52.84,Default,,0,0,0,,Knot.
+Dialogue: 0,2:04:04.02,2:04:07.52,Default,,0,0,0,,No! No!
+Dialogue: 0,2:04:13.90,2:04:16.78,Default,,0,0,0,,{\i1}Primitive symbols.{\i0}
+Dialogue: 0,2:04:16.86,2:04:21.58,Default,,0,0,0,,{\i1}You walking, talking monkeys\Nwith your cave drawings.{\i0}
+Dialogue: 0,2:04:22.33,2:04:26.41,Default,,0,0,0,,{\i1}You assume there's only\None way to gain magic.{\i0}
+Dialogue: 0,2:04:26.50,2:04:28.29,Default,,0,0,0,,{\i1}No, no, no.{\i0}
+Dialogue: 0,2:04:29.54,2:04:32.42,Default,,0,0,0,,{\i1}There are more ways\Nthan a mind can imagine.{\i0}
+Dialogue: 0,2:04:33.55,2:04:35.42,Default,,0,0,0,,What in God's name?
+Dialogue: 0,2:04:35.51,2:04:39.97,Default,,0,0,0,,{\i1}I name the gods, Doctor.\NNot the other way around.{\i0}
+Dialogue: 0,2:04:40.05,2:04:43.26,Default,,0,0,0,,{\i1}Oh, what fun we're\Ngoing to have together.{\i0}
+Dialogue: 0,2:04:43.35,2:04:47.31,Default,,0,0,0,,{\i1}The Seven Realms\Nare about to be ours.{\i0}
+Dialogue: 0,2:11:13.74,2:11:16.03,Default,,0,0,0,,Don't beat yourself up, buddy.\NYou're gonna find someone.
+Dialogue: 0,2:11:16.87,2:11:18.62,Default,,0,0,0,,Yeah, I'm sure.
+Dialogue: 0,2:11:18.70,2:11:20.99,Default,,0,0,0,,Because there's\Nplenty of fish in the sea.
+Dialogue: 0,2:11:22.70,2:11:24.50,Default,,0,0,0,,Of course it's not\Nreal. I can't talk to fish.
+Dialogue: 0,2:11:24.62,2:11:27.31,Default,,0,0,0,,Even if I could, I mean, honestly,\Nwhat could we do with that that's cool?
+Dialogue: 0,2:11:27.33,2:11:31.59,Default,,0,0,0,,I don't know, maybe command\Nan army of billions in the ocean.
+Dialogue: 0,2:11:31.67,2:11:34.84,Default,,0,0,0,,Oh, yeah. Well,\Nthat's not that cool.

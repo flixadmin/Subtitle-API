@@ -1,0 +1,912 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,23,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.46,0:00:03.75,Default,,0,0,0,,{\i1}Time travel is real, and all of history{\i0}
+Dialogue: 0,0:00:03.75,0:00:05.44,Default,,0,0,0,,{\i1}is vulnerable to attack which is why{\i0}
+Dialogue: 0,0:00:05.45,0:00:07.40,Default,,0,0,0,,{\i1}we must travel through\Ntime to stop the spread{\i0}
+Dialogue: 0,0:00:07.41,0:00:09.08,Default,,0,0,0,,{\i1}of these so-called time aberrations{\i0}
+Dialogue: 0,0:00:09.08,0:00:11.08,Default,,0,0,0,,{\i1}and to erase their damage to history.{\i0}
+Dialogue: 0,0:00:11.08,0:00:14.25,Default,,0,0,0,,{\i1}We are a team of outcasts and misfits,{\i0}
+Dialogue: 0,0:00:14.25,0:00:16.39,Default,,0,0,0,,{\i1}so please don't call us heroes.{\i0}
+Dialogue: 0,0:00:16.39,0:00:19.55,Default,,0,0,0,,{\i1}We're something else, we're legends.{\i0}
+Dialogue: 0,0:00:19.98,0:00:22.13,Default,,0,0,0,,{\i1}Previously, on “Legends of Tomorrow”...{\i0}
+Dialogue: 0,0:00:22.13,0:00:23.83,Default,,0,0,0,,I'd forgotten how handsome I was.
+Dialogue: 0,0:00:23.83,0:00:26.36,Default,,0,0,0,,- Hi, I'm Marty.\N- Have a wonderful life, Martin.
+Dialogue: 0,0:00:26.36,0:00:28.67,Default,,0,0,0,,This belonged to the\Ngreatest outsider I ever knew.
+Dialogue: 0,0:00:28.67,0:00:30.73,Default,,0,0,0,,I'm looking for a partner.
+Dialogue: 0,0:00:30.74,0:00:32.44,Default,,0,0,0,,- Hello, Rex.\N- [screams]
+Dialogue: 0,0:00:32.44,0:00:33.84,Default,,0,0,0,,With his last words,
+Dialogue: 0,0:00:33.84,0:00:35.84,Default,,0,0,0,,he told me his killer\Nwas a time traveler.
+Dialogue: 0,0:00:35.84,0:00:37.68,Default,,0,0,0,,Damien Darhk murdered my sister.
+Dialogue: 0,0:00:37.68,0:00:38.88,Default,,0,0,0,,If I take him out here...
+Dialogue: 0,0:00:38.88,0:00:41.21,Default,,0,0,0,,You save her. We gotta let him go.
+Dialogue: 0,0:00:41.57,0:00:44.32,Default,,0,0,0,,{\i1}[intense music]{\i0}
+Dialogue: 0,0:00:44.32,0:00:52.22,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:00:53.96,0:00:55.93,Default,,0,0,0,,So it's all here, then?
+Dialogue: 0,0:00:55.93,0:00:58.23,Default,,0,0,0,,Every sweet-smelling speck of it.
+Dialogue: 0,0:00:58.23,0:01:00.03,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:01:00.03,0:01:02.77,Default,,0,0,0,,As for my compensation?
+Dialogue: 0,0:01:03.64,0:01:05.84,Default,,0,0,0,,Strange form of payment.
+Dialogue: 0,0:01:05.90,0:01:07.44,Default,,0,0,0,,{\i1}[dramatic music]{\i0}
+Dialogue: 0,0:01:07.44,0:01:09.64,Default,,0,0,0,,Why this and not cash?
+Dialogue: 0,0:01:09.64,0:01:13.64,Default,,0,0,0,,Everyone has a hobby.\NSome men collect stamps.
+Dialogue: 0,0:01:13.65,0:01:15.25,Default,,0,0,0,,I collect relics.
+Dialogue: 0,0:01:15.25,0:01:19.72,Default,,0,0,0,,This "thing" is called a fasces,\Na ceremonial axe
+Dialogue: 0,0:01:19.72,0:01:21.72,Default,,0,0,0,,carried by the bodyguard of Emperor Nero
+Dialogue: 0,0:01:21.72,0:01:24.66,Default,,0,0,0,,from which a term "fascism" derived.
+Dialogue: 0,0:01:24.66,0:01:26.86,Default,,0,0,0,,No? A form of rule,
+Dialogue: 0,0:01:26.86,0:01:29.46,Default,,0,0,0,,which, in my opinion,\Nis getting a bit of a bad rap lately.
+Dialogue: 0,0:01:29.46,0:01:32.70,Default,,0,0,0,,DEA! Get your hands in the air, now!
+Dialogue: 0,0:01:37.17,0:01:40.97,Default,,0,0,0,,[electric crackling]
+Dialogue: 0,0:01:41.91,0:01:44.01,Default,,0,0,0,,[grunts]
+Dialogue: 0,0:01:45.74,0:01:47.34,Default,,0,0,0,,You know, I had this under control.
+Dialogue: 0,0:01:47.35,0:01:48.65,Default,,0,0,0,,My way's faster.
+Dialogue: 0,0:01:48.65,0:01:50.15,Default,,0,0,0,,Speed isn't everything, Mr. Thawne.
+Dialogue: 0,0:01:50.15,0:01:52.15,Default,,0,0,0,,You should've learned that lesson by now.
+Dialogue: 0,0:01:52.15,0:01:55.75,Default,,0,0,0,,What's it been... 45 years since\Nyou hired me to nuke New York?
+Dialogue: 0,0:01:55.75,0:01:58.29,Default,,0,0,0,,Well, 45 years for you,\Nmaybe, but for me?
+Dialogue: 0,0:01:58.29,0:01:59.56,Default,,0,0,0,,Huh.
+Dialogue: 0,0:01:59.56,0:02:01.03,Default,,0,0,0,,Good seeing you again, old friend.
+Dialogue: 0,0:02:01.03,0:02:03.62,Default,,0,0,0,,Old? That's fair. Friend?
+Dialogue: 0,0:02:03.62,0:02:05.54,Default,,0,0,0,,Now that's something\Nthat has to be earned.
+Dialogue: 0,0:02:05.54,0:02:07.03,Default,,0,0,0,,Lovely piece. What is this?
+Dialogue: 0,0:02:07.03,0:02:09.30,Default,,0,0,0,,First century AD, if I'm not mistaken?
+Dialogue: 0,0:02:09.30,0:02:11.40,Default,,0,0,0,,What is it that you want?
+Dialogue: 0,0:02:11.40,0:02:13.60,Default,,0,0,0,,A partner.
+Dialogue: 0,0:02:13.61,0:02:15.51,Default,,0,0,0,,Pass... I prefer to work alone.
+Dialogue: 0,0:02:15.51,0:02:18.04,Default,,0,0,0,,Oh, yeah, gathering\Nyour hive of followers,
+Dialogue: 0,0:02:18.04,0:02:21.21,Default,,0,0,0,,building your empire, designing your ark.
+Dialogue: 0,0:02:21.21,0:02:23.51,Default,,0,0,0,,Yeah, I know what you're planning.
+Dialogue: 0,0:02:23.52,0:02:25.32,Default,,0,0,0,,And how it works out.
+Dialogue: 0,0:02:25.32,0:02:29.19,Default,,0,0,0,,You want to reshape the world?\NTry reshaping history.
+Dialogue: 0,0:02:29.19,0:02:30.85,Default,,0,0,0,,Try rewriting destiny...
+Dialogue: 0,0:02:30.86,0:02:33.46,Default,,0,0,0,,Try putting our partnership\Ninto concrete terms,
+Dialogue: 0,0:02:33.46,0:02:37.03,Default,,0,0,0,,as in, what's in it for me?
+Dialogue: 0,0:02:37.03,0:02:40.06,Default,,0,0,0,,Well, perhaps content\Ncollecting symbols of power,
+Dialogue: 0,0:02:40.07,0:02:45.40,Default,,0,0,0,,but... I can give you actual power.
+Dialogue: 0,0:02:46.60,0:02:52.12,Default,,0,0,0,,EDIT BY\N{\fnAndalus\fs40\b1\c&HFFFFFF&\3c&H000000&\4c&HE89411&} ||Abdullah Elalmany||\N{\fs20\c&HHE73C01&\3c&HFFFFFF&}\N- {\c&H1D1DD8&}Synced and corrected by VitoSilans -\N-- {\c&HE98C13&}www.Addic7ed.com --
+Dialogue: 0,0:02:52.12,0:02:54.14,Default,,0,0,0,,We have the tools to make a difference.
+Dialogue: 0,0:02:54.14,0:02:55.58,Default,,0,0,0,,We can make history better.
+Dialogue: 0,0:02:55.58,0:02:58.25,Default,,0,0,0,,Even if we act with\Nthe best of intentions,
+Dialogue: 0,0:02:58.25,0:03:00.41,Default,,0,0,0,,these changes can\Nripple throughout time...
+Dialogue: 0,0:03:00.42,0:03:03.82,Default,,0,0,0,,A temporal domino effect\Nwith disastrous consequences.
+Dialogue: 0,0:03:03.82,0:03:06.85,Default,,0,0,0,,So we start small.\NMake changes we can control.
+Dialogue: 0,0:03:06.85,0:03:08.76,Default,,0,0,0,,What you're talking about can't be done.
+Dialogue: 0,0:03:08.76,0:03:10.66,Default,,0,0,0,,It's... it's like playing God,\Nand it goes against everything
+Dialogue: 0,0:03:10.66,0:03:11.60,Default,,0,0,0,,we're trying to do.
+Dialogue: 0,0:03:11.60,0:03:13.69,Default,,0,0,0,,I thought we were trying to help people.
+Dialogue: 0,0:03:13.70,0:03:15.66,Default,,0,0,0,,We're helping by fixing aberrations,
+Dialogue: 0,0:03:15.66,0:03:17.56,Default,,0,0,0,,not creating them. You're not thinking
+Dialogue: 0,0:03:17.57,0:03:18.83,Default,,0,0,0,,fourth dimensionally.
+Dialogue: 0,0:03:18.83,0:03:21.18,Default,,0,0,0,,Did you really just use Doc Brown on me?
+Dialogue: 0,0:03:21.18,0:03:23.77,Default,,0,0,0,,Who the hell is that?
+Dialogue: 0,0:03:23.77,0:03:27.98,Default,,0,0,0,,Sarah, come on, you can't\Nbe Switzerland on this one.
+Dialogue: 0,0:03:28.91,0:03:32.48,Default,,0,0,0,,In my heart, I agree with you...
+Dialogue: 0,0:03:32.48,0:03:36.15,Default,,0,0,0,,but that's not what Rip\Nentrusted us to do.
+Dialogue: 0,0:03:36.15,0:03:38.45,Default,,0,0,0,,Our job is to protect history.
+Dialogue: 0,0:03:38.45,0:03:40.76,Default,,0,0,0,,You mean clean it up after somebody else
+Dialogue: 0,0:03:40.76,0:03:44.53,Default,,0,0,0,,makes a mess of it. Time janitors...
+Dialogue: 0,0:03:44.53,0:03:47.16,Default,,0,0,0,,That's all we are.
+Dialogue: 0,0:03:48.67,0:03:51.53,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:03:51.53,0:03:53.87,Default,,0,0,0,,[electric crackling]
+Dialogue: 0,0:03:53.87,0:03:56.07,Default,,0,0,0,,Easy, point and shoot.
+Dialogue: 0,0:03:56.07,0:03:57.47,Default,,0,0,0,,You're up.
+Dialogue: 0,0:03:57.47,0:03:59.84,Default,,0,0,0,,All right, point and shoot.
+Dialogue: 0,0:03:59.84,0:04:01.51,Default,,0,0,0,,[electronic whirring]
+Dialogue: 0,0:04:01.51,0:04:03.41,Default,,0,0,0,,[glass shattering]
+Dialogue: 0,0:04:03.41,0:04:05.41,Default,,0,0,0,,[grunts]
+Dialogue: 0,0:04:05.42,0:04:07.64,Default,,0,0,0,,- [sighs]\N- You killed my beers.
+Dialogue: 0,0:04:07.64,0:04:09.88,Default,,0,0,0,,Come on, the trigger's really sensitive,
+Dialogue: 0,0:04:09.88,0:04:12.99,Default,,0,0,0,,and these goggles make\Neverything look blue.
+Dialogue: 0,0:04:12.99,0:04:16.63,Default,,0,0,0,,[sighs] You know, it'd be really easy
+Dialogue: 0,0:04:16.63,0:04:18.36,Default,,0,0,0,,for me to improve this\Nwhole setup by just
+Dialogue: 0,0:04:18.36,0:04:19.66,Default,,0,0,0,,iterating the power source.
+Dialogue: 0,0:04:19.66,0:04:21.83,Default,,0,0,0,,There's nothing wrong with the gun.
+Dialogue: 0,0:04:21.83,0:04:25.63,Default,,0,0,0,,You've just gotta be cool. Like Snart.
+Dialogue: 0,0:04:25.64,0:04:29.50,Default,,0,0,0,,Yeah, I can be cool.
+Dialogue: 0,0:04:31.11,0:04:32.47,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:04:32.48,0:04:35.58,Default,,0,0,0,,- What are you doing?\N- Trying to be cool.
+Dialogue: 0,0:04:35.58,0:04:37.65,Default,,0,0,0,,Maybe this was a bad idea.
+Dialogue: 0,0:04:37.65,0:04:40.18,Default,,0,0,0,,[scoffs] You know, this may shock you,
+Dialogue: 0,0:04:40.18,0:04:42.18,Default,,0,0,0,,but I was considered\Nextremely cool when I left
+Dialogue: 0,0:04:42.19,0:04:44.55,Default,,0,0,0,,my cushy six-figure Silicon Valley job
+Dialogue: 0,0:04:44.55,0:04:48.82,Default,,0,0,0,,and started my own tech company.\NLadies were lining up.
+Dialogue: 0,0:04:48.83,0:04:51.19,Default,,0,0,0,,Listen, Haircut, if you want to fit
+Dialogue: 0,0:04:51.19,0:04:55.20,Default,,0,0,0,,into Snart's shoes, you gotta\Nfind the pain, the darkness,
+Dialogue: 0,0:04:55.20,0:05:00.00,Default,,0,0,0,,the anger. You got it in you?
+Dialogue: 0,0:05:00.67,0:05:04.07,Default,,0,0,0,,Call me Haircut again and I'll ice you.
+Dialogue: 0,0:05:05.11,0:05:07.47,Default,,0,0,0,,Not bad.
+Dialogue: 0,0:05:10.08,0:05:12.38,Default,,0,0,0,,Hey, what are you doing?
+Dialogue: 0,0:05:12.38,0:05:14.62,Default,,0,0,0,,A little side project\NI've been working on
+Dialogue: 0,0:05:14.62,0:05:17.05,Default,,0,0,0,,with Ray and the professor.
+Dialogue: 0,0:05:17.59,0:05:19.62,Default,,0,0,0,,Hmm. It said that
+Dialogue: 0,0:05:19.62,0:05:23.23,Default,,0,0,0,,temporal aberrations cause\Nthese things called timequakes.
+Dialogue: 0,0:05:23.23,0:05:25.19,Default,,0,0,0,,So I started thinking, if there was a way
+Dialogue: 0,0:05:25.19,0:05:28.80,Default,,0,0,0,,of locating their epicenters,\Nmaybe we'll be able to fix
+Dialogue: 0,0:05:28.80,0:05:30.53,Default,,0,0,0,,the aberrations before they happen.
+Dialogue: 0,0:05:30.53,0:05:33.34,Default,,0,0,0,,- Like a time seismograph.\N- That's an awesome name,
+Dialogue: 0,0:05:33.34,0:05:36.31,Default,,0,0,0,,and I'm totally gonna steal that.
+Dialogue: 0,0:05:36.31,0:05:39.54,Default,,0,0,0,,If the JSA could get\Neven a glimpse of all this,
+Dialogue: 0,0:05:39.54,0:05:41.84,Default,,0,0,0,,- they would...\N- They'd what?
+Dialogue: 0,0:05:43.45,0:05:45.01,Default,,0,0,0,,Never mind.
+Dialogue: 0,0:05:45.01,0:05:47.62,Default,,0,0,0,,Hey, wait. We've barely had
+Dialogue: 0,0:05:47.62,0:05:49.92,Default,,0,0,0,,half a conversation since\Nyou came on board,
+Dialogue: 0,0:05:49.92,0:05:52.09,Default,,0,0,0,,and you were friends with my grandfather.
+Dialogue: 0,0:05:52.09,0:05:54.76,Default,,0,0,0,,Talk to me. What was he like as a person?
+Dialogue: 0,0:05:54.76,0:05:58.63,Default,,0,0,0,,Your grandfather was a great man.
+Dialogue: 0,0:05:58.63,0:06:01.03,Default,,0,0,0,,That's it? He's a great man?
+Dialogue: 0,0:06:01.03,0:06:03.00,Default,,0,0,0,,Is it because your\Nmissions were classified,
+Dialogue: 0,0:06:03.00,0:06:04.53,Default,,0,0,0,,or is it because you\Nreally didn't know him
+Dialogue: 0,0:06:04.53,0:06:06.00,Default,,0,0,0,,- well as a person?\N- It's because the JSA
+Dialogue: 0,0:06:06.00,0:06:08.57,Default,,0,0,0,,didn't encourage its\Nmembers to fraternize.
+Dialogue: 0,0:06:08.57,0:06:10.51,Default,,0,0,0,,Something you and your\Nteam should consider.
+Dialogue: 0,0:06:10.51,0:06:14.31,Default,,0,0,0,,[whirring]
+Dialogue: 0,0:06:14.54,0:06:16.74,Default,,0,0,0,,It worked?
+Dialogue: 0,0:06:20.45,0:06:21.85,Default,,0,0,0,,Oh, it worked all right.
+Dialogue: 0,0:06:21.85,0:06:23.69,Default,,0,0,0,,Where's it coming from?
+Dialogue: 0,0:06:23.69,0:06:26.82,Default,,0,0,0,,Washington D.C., December 7, 1987.
+Dialogue: 0,0:06:26.82,0:06:29.26,Default,,0,0,0,,1600 Pennsylvania Avenue.
+Dialogue: 0,0:06:29.26,0:06:30.86,Default,,0,0,0,,- So?\N- Dude, that's the White House.
+Dialogue: 0,0:06:30.86,0:06:31.90,Default,,0,0,0,,So what?
+Dialogue: 0,0:06:31.90,0:06:34.50,Default,,0,0,0,,December 7th was the day\Nbefore Reagan and Gorbachev
+Dialogue: 0,0:06:34.50,0:06:36.80,Default,,0,0,0,,signed the INF Treaty,\Nreducing both countries'
+Dialogue: 0,0:06:36.80,0:06:38.63,Default,,0,0,0,,nuclear arsenals and\Npaving the way for the end
+Dialogue: 0,0:06:38.63,0:06:40.45,Default,,0,0,0,,- of the Cold War.\N- How do you know all that?
+Dialogue: 0,0:06:40.46,0:06:42.74,Default,,0,0,0,,Because I was in the\Ncapital for that very summit.
+Dialogue: 0,0:06:42.74,0:06:44.51,Default,,0,0,0,,The Reagan Administration\Nwould call upon the top
+Dialogue: 0,0:06:44.51,0:06:47.14,Default,,0,0,0,,nuclear physicists to act\Nas technical advisors.
+Dialogue: 0,0:06:47.14,0:06:48.78,Default,,0,0,0,,You think someone might\Nhave traveled back in time
+Dialogue: 0,0:06:48.78,0:06:50.45,Default,,0,0,0,,to stop the treaty from being signed?
+Dialogue: 0,0:06:50.45,0:06:52.68,Default,,0,0,0,,That, or worse. Think about it,
+Dialogue: 0,0:06:52.68,0:06:54.62,Default,,0,0,0,,Reagan and Gorbachev under the same roof
+Dialogue: 0,0:06:54.62,0:06:56.69,Default,,0,0,0,,at one of the most volatile\Nmoments in history?
+Dialogue: 0,0:06:56.69,0:06:59.05,Default,,0,0,0,,The JSA has a training academy in D.C.
+Dialogue: 0,0:06:59.06,0:07:00.76,Default,,0,0,0,,I could reach out to\Nthe current membership,
+Dialogue: 0,0:07:00.76,0:07:04.03,Default,,0,0,0,,see if they have any intel\Nor resources we could use.
+Dialogue: 0,0:07:04.03,0:07:06.19,Default,,0,0,0,,Good idea, but you shouldn't go alone.
+Dialogue: 0,0:07:06.20,0:07:09.10,Default,,0,0,0,,1987 is a long way from 1942,\Nand it's dangerous to know
+Dialogue: 0,0:07:09.10,0:07:10.57,Default,,0,0,0,,too much about the future.
+Dialogue: 0,0:07:10.57,0:07:12.33,Default,,0,0,0,,- I can handle myself.\N- I'll go with her.
+Dialogue: 0,0:07:12.34,0:07:15.57,Default,,0,0,0,,Great, you two reach out to\Nthe JSA while the rest of us
+Dialogue: 0,0:07:15.57,0:07:18.41,Default,,0,0,0,,break into the most secure\Nresidence in the country.
+Dialogue: 0,0:07:18.41,0:07:21.01,Default,,0,0,0,,And how exactly do we do that?
+Dialogue: 0,0:07:21.01,0:07:23.95,Default,,0,0,0,,Welcome to the White House.\NThis is Cross Hall,
+Dialogue: 0,0:07:23.95,0:07:27.35,Default,,0,0,0,,a magnificent space that\Nconnects the State Dining Room
+Dialogue: 0,0:07:27.35,0:07:28.65,Default,,0,0,0,,with the East Room.
+Dialogue: 0,0:07:28.65,0:07:30.52,Default,,0,0,0,,All right, fan out, stay on the coms,
+Dialogue: 0,0:07:30.52,0:07:33.29,Default,,0,0,0,,and report if anything\Nseems out of place.
+Dialogue: 0,0:07:33.29,0:07:36.12,Default,,0,0,0,,{\i1}[dramatic music]{\i0}
+Dialogue: 0,0:07:36.13,0:07:38.76,Default,,0,0,0,,Women actually wore these\Nthings in the '80s?
+Dialogue: 0,0:07:38.76,0:07:40.60,Default,,0,0,0,,Shoulder pads? Yeah,\Nthey were supposed to
+Dialogue: 0,0:07:40.60,0:07:43.03,Default,,0,0,0,,make women more imposing,\Nmore, I don't know...
+Dialogue: 0,0:07:43.03,0:07:44.90,Default,,0,0,0,,- Manly?\N- Yeah.
+Dialogue: 0,0:07:44.90,0:07:47.10,Default,,0,0,0,,I'd hoped that by this decade,\Nwomen wouldn't need to use
+Dialogue: 0,0:07:47.10,0:07:49.30,Default,,0,0,0,,clothing to compensate for their status.
+Dialogue: 0,0:07:49.31,0:07:52.41,Default,,0,0,0,,Surely by now men and women\Nare considered equals.
+Dialogue: 0,0:07:52.41,0:07:54.28,Default,,0,0,0,,Never lose that optimism.
+Dialogue: 0,0:07:54.28,0:07:56.38,Default,,0,0,0,,This is it.
+Dialogue: 0,0:07:56.38,0:07:59.01,Default,,0,0,0,,This is the JSA Academy?
+Dialogue: 0,0:07:59.02,0:08:01.55,Default,,0,0,0,,Inside a crummy warehouse?
+Dialogue: 0,0:08:01.55,0:08:05.75,Default,,0,0,0,,The JSA Academy is hidden\Ninside a crummy warehouse.
+Dialogue: 0,0:08:06.96,0:08:09.06,Default,,0,0,0,,Prepare to see the most\Nelite training facility
+Dialogue: 0,0:08:09.06,0:08:10.83,Default,,0,0,0,,in all of history.
+Dialogue: 0,0:08:10.83,0:08:13.76,Default,,0,0,0,,{\i1}[patriotic music]{\i0}
+Dialogue: 0,0:08:13.76,0:08:17.97,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:08:17.97,0:08:21.10,Default,,0,0,0,,Maybe "elite" means\Nsomething different in 1987.
+Dialogue: 0,0:08:21.10,0:08:24.01,Default,,0,0,0,,{\i1}[somber music]{\i0}
+Dialogue: 0,0:08:24.01,0:08:31.91,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:08:32.32,0:08:33.58,Default,,0,0,0,,When I was recruited,
+Dialogue: 0,0:08:33.58,0:08:36.12,Default,,0,0,0,,this is where I was brought to train.
+Dialogue: 0,0:08:36.42,0:08:38.69,Default,,0,0,0,,What happened to the JSA?
+Dialogue: 0,0:08:38.69,0:08:41.16,Default,,0,0,0,,No clue...
+Dialogue: 0,0:08:41.16,0:08:43.16,Default,,0,0,0,,but a lot can change in 45 years.
+Dialogue: 0,0:08:43.16,0:08:45.26,Default,,0,0,0,,I thought you said you were a historian.
+Dialogue: 0,0:08:45.26,0:08:46.56,Default,,0,0,0,,How can you not know?
+Dialogue: 0,0:08:46.56,0:08:49.70,Default,,0,0,0,,Hey, every memo, every executive action
+Dialogue: 0,0:08:49.70,0:08:52.67,Default,,0,0,0,,relating to the JSA is top secret.
+Dialogue: 0,0:08:52.67,0:08:55.24,Default,,0,0,0,,I only pieced together their\NWorld War II activities
+Dialogue: 0,0:08:55.24,0:08:57.41,Default,,0,0,0,,from my father's bedtime stories,
+Dialogue: 0,0:08:57.41,0:09:01.18,Default,,0,0,0,,witness testimonies,\Nand government leaks.
+Dialogue: 0,0:09:01.18,0:09:09.08,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:09:12.96,0:09:16.42,Default,,0,0,0,,I never should have left 1942.
+Dialogue: 0,0:09:17.96,0:09:21.53,Default,,0,0,0,,Look, Amaya, whatever\Nhappened to them, that's...
+Dialogue: 0,0:09:21.53,0:09:23.90,Default,,0,0,0,,That's not your fault.
+Dialogue: 0,0:09:23.90,0:09:26.23,Default,,0,0,0,,You don't know that.
+Dialogue: 0,0:09:27.94,0:09:31.44,Default,,0,0,0,,Like you said, you don't know\Nwhat happened to them.
+Dialogue: 0,0:09:39.95,0:09:41.31,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:09:40.12,0:09:43.78,Default,,0,0,0,,1987... the halcyon days\Nof Whitney Houston
+Dialogue: 0,0:09:43.79,0:09:45.65,Default,,0,0,0,,and "Star Trek: The Next Generation."
+Dialogue: 0,0:09:45.65,0:09:48.72,Default,,0,0,0,,I can remember this year\Nas if it were yesterday.
+Dialogue: 0,0:09:48.72,0:09:50.82,Default,,0,0,0,,Well, it looks like there's\Nsomething you forgot about.
+Dialogue: 0,0:09:50.83,0:09:53.26,Default,,0,0,0,,Mr. Stein, so nice to meet you.
+Dialogue: 0,0:09:53.26,0:09:55.56,Default,,0,0,0,,Uh-oh...
+Dialogue: 0,0:09:55.56,0:09:57.46,Default,,0,0,0,,That's me.
+Dialogue: 0,0:09:57.67,0:09:59.63,Default,,0,0,0,,Go, go.
+Dialogue: 0,0:10:03.81,0:10:05.27,Default,,0,0,0,,I thought you said you\Nwere stuck in meetings
+Dialogue: 0,0:10:05.27,0:10:06.81,Default,,0,0,0,,- on the Hill all day.\N- I was.
+Dialogue: 0,0:10:06.81,0:10:09.28,Default,,0,0,0,,I never stepped foot\Ninside the White House.
+Dialogue: 0,0:10:09.28,0:10:11.85,Default,,0,0,0,,The aberration must've\Ncaused infinitesimal ripples
+Dialogue: 0,0:10:11.85,0:10:14.05,Default,,0,0,0,,that affected the movements\Nof my younger self.
+Dialogue: 0,0:10:14.05,0:10:16.92,Default,,0,0,0,,The temporal domino effect...\NThis is why we should
+Dialogue: 0,0:10:16.92,0:10:18.85,Default,,0,0,0,,never interfere with history.
+Dialogue: 0,0:10:18.85,0:10:20.52,Default,,0,0,0,,Well, we'll agree to disagree.
+Dialogue: 0,0:10:20.52,0:10:22.82,Default,,0,0,0,,But one thing's for sure,\Nwe cannot let him see you.
+Dialogue: 0,0:10:22.82,0:10:24.69,Default,,0,0,0,,Indeed, the last time he and I interacted
+Dialogue: 0,0:10:24.69,0:10:27.46,Default,,0,0,0,,nearly erased our\Nmarriage from existence.
+Dialogue: 0,0:10:27.70,0:10:30.56,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:10:30.57,0:10:32.87,Default,,0,0,0,,Those are jelly beans.
+Dialogue: 0,0:10:32.87,0:10:34.20,Default,,0,0,0,,I can see that.
+Dialogue: 0,0:10:34.20,0:10:35.67,Default,,0,0,0,,President Reagan's jelly beans.
+Dialogue: 0,0:10:35.67,0:10:37.67,Default,,0,0,0,,So what? Eat 'em.
+Dialogue: 0,0:10:37.67,0:10:38.77,Default,,0,0,0,,What? I'm pretty sure
+Dialogue: 0,0:10:38.77,0:10:40.07,Default,,0,0,0,,that's against the rules.
+Dialogue: 0,0:10:40.08,0:10:42.01,Default,,0,0,0,,We don't follow rules, remember?
+Dialogue: 0,0:10:42.01,0:10:44.81,Default,,0,0,0,,Oh, right.
+Dialogue: 0,0:10:44.81,0:10:47.75,Default,,0,0,0,,{\i1}[mysterious music]{\i0}
+Dialogue: 0,0:10:47.75,0:10:49.58,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:10:49.58,0:10:51.38,Default,,0,0,0,,Hah.
+Dialogue: 0,0:10:53.46,0:10:56.26,Default,,0,0,0,,Reagan wasn't even one of my\Ntop three favorite presidents.
+Dialogue: 0,0:10:56.26,0:10:58.96,Default,,0,0,0,,- Want some?\N- Yeah.
+Dialogue: 0,0:10:58.96,0:11:00.83,Default,,0,0,0,,Oh, it'll take some massaging,\Nbut I believe we can get
+Dialogue: 0,0:11:00.83,0:11:03.16,Default,,0,0,0,,the Soviets to agree to\Neliminating all nuclear
+Dialogue: 0,0:11:03.16,0:11:05.17,Default,,0,0,0,,ground-launched, ballistic,\Nand cruise missiles.
+Dialogue: 0,0:11:05.17,0:11:06.90,Default,,0,0,0,,I'll even make them\Nbelieve it was their idea.
+Dialogue: 0,0:11:06.90,0:11:08.54,Default,,0,0,0,,I don't know what we'd do\Nwithout you, Mr. Darhk.
+Dialogue: 0,0:11:08.54,0:11:10.70,Default,,0,0,0,,Oh, you'd manage,\Nbut winning is always better.
+Dialogue: 0,0:11:10.71,0:11:13.64,Default,,0,0,0,,{\i1}[dramatic music]{\i0}
+Dialogue: 0,0:11:13.64,0:11:16.71,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:11:16.71,0:11:18.81,Default,,0,0,0,,I think we found our aberration.
+Dialogue: 0,0:11:18.81,0:11:19.95,Default,,0,0,0,,Our next stop is the...
+Dialogue: 0,0:11:19.95,0:11:21.35,Default,,0,0,0,,{\i1}Damien Darhk is here.{\i0}
+Dialogue: 0,0:11:21.35,0:11:24.69,Default,,0,0,0,,{\i1}Sara, don't do anything rash.{\i0}
+Dialogue: 0,0:11:24.69,0:11:26.85,Default,,0,0,0,,{\i1}Sara? Sara, are you lis...{\i0}
+Dialogue: 0,0:11:27.86,0:11:30.49,Default,,0,0,0,,Here's another diplomatic cable from 1956
+Dialogue: 0,0:11:30.49,0:11:33.09,Default,,0,0,0,,fromfrhe British ambassador\Nwarning the JSA about
+Dialogue: 0,0:11:33.09,0:11:35.06,Default,,0,0,0,,Soviet spies in their midst.
+Dialogue: 0,0:11:35.06,0:11:37.23,Default,,0,0,0,,I thought fighting\NHitler would unite the U.S.
+Dialogue: 0,0:11:37.23,0:11:38.83,Default,,0,0,0,,and the Soviet Union.
+Dialogue: 0,0:11:38.83,0:11:42.44,Default,,0,0,0,,Oh, we have so much Cold War\Nhistory to catch you up on.
+Dialogue: 0,0:11:42.44,0:11:45.44,Default,,0,0,0,,{\i1}[metallic crashes]{\i0}
+Dialogue: 0,0:11:45.44,0:11:47.31,Default,,0,0,0,,Okay, what's this?
+Dialogue: 0,0:11:47.31,0:11:50.21,Default,,0,0,0,,{\i1}[intense music]{\i0}
+Dialogue: 0,0:11:50.21,0:11:51.61,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:11:51.61,0:11:55.41,Default,,0,0,0,,{\i1}[bird shrieks]{\i0}
+Dialogue: 0,0:11:57.25,0:12:00.19,Default,,0,0,0,,{\i1}[hissing]{\i0}
+Dialogue: 0,0:12:00.19,0:12:01.92,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:12:01.92,0:12:04.99,Default,,0,0,0,,Aah!
+Dialogue: 0,0:12:04.99,0:12:06.69,Default,,0,0,0,,Todd?
+Dialogue: 0,0:12:06.69,0:12:09.43,Default,,0,0,0,,Why? Why did you abandon us?
+Dialogue: 0,0:12:09.43,0:12:11.23,Default,,0,0,0,,[grunts]
+Dialogue: 0,0:12:14.64,0:12:16.04,Default,,0,0,0,,Who is that?
+Dialogue: 0,0:12:16.04,0:12:18.24,Default,,0,0,0,,It's Obsidian.
+Dialogue: 0,0:12:18.24,0:12:20.81,Default,,0,0,0,,From the JSA?
+Dialogue: 0,0:12:21.64,0:12:22.98,Default,,0,0,0,,Ohh.
+Dialogue: 0,0:12:22.98,0:12:26.75,Default,,0,0,0,,- Soviets to agree to...\N- [inaudible speech]
+Dialogue: 0,0:12:26.75,0:12:29.68,Default,,0,0,0,,{\i1}[dramatic music]{\i0}
+Dialogue: 0,0:12:29.68,0:12:32.45,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:12:32.45,0:12:35.36,Default,,0,0,0,,Ma'am, I'm gonna need\Nyou to drop the weapon.
+Dialogue: 0,0:12:35.36,0:12:38.01,Default,,0,0,0,,Drop the knife and place\Nyour hands behind your head.
+Dialogue: 0,0:12:38.02,0:12:39.81,Default,,0,0,0,,We've got a situation in the East Wing.
+Dialogue: 0,0:12:39.81,0:12:41.57,Default,,0,0,0,,[grunts]
+Dialogue: 0,0:12:41.57,0:12:44.17,Default,,0,0,0,,I know you want vengeance for\NLaura, but it's not that simple.
+Dialogue: 0,0:12:44.17,0:12:45.90,Default,,0,0,0,,Get out of the way.
+Dialogue: 0,0:12:45.90,0:12:47.73,Default,,0,0,0,,- Don't move!\N- Stay where you are!
+Dialogue: 0,0:12:47.74,0:12:50.24,Default,,0,0,0,,- Damn it.\N- We gonna fight or leave?
+Dialogue: 0,0:12:50.24,0:12:51.81,Default,,0,0,0,,Fight.
+Dialogue: 0,0:12:51.81,0:12:53.97,Default,,0,0,0,,[lasers blasting]
+Dialogue: 0,0:12:53.98,0:12:56.54,Default,,0,0,0,,All right, get out of here. I got this.
+Dialogue: 0,0:12:56.54,0:12:57.88,Default,,0,0,0,,No, you go. I got this.
+Dialogue: 0,0:12:57.88,0:12:59.68,Default,,0,0,0,,I said go!
+Dialogue: 0,0:12:59.68,0:13:03.48,Default,,0,0,0,,[lasers blasting]
+Dialogue: 0,0:13:06.05,0:13:09.82,Default,,0,0,0,,What did I say about crossing streams?
+Dialogue: 0,0:13:09.82,0:13:11.33,Default,,0,0,0,,You said we don't follow the rules.
+Dialogue: 0,0:13:11.33,0:13:15.36,Default,,0,0,0,,That's the one rule...\NOne rule we follow!
+Dialogue: 0,0:13:15.83,0:13:18.03,Default,,0,0,0,,[grunts] Go!
+Dialogue: 0,0:13:18.03,0:13:19.60,Default,,0,0,0,,[grunts]
+Dialogue: 0,0:13:19.60,0:13:21.53,Default,,0,0,0,,[glass shattering]
+Dialogue: 0,0:13:22.04,0:13:25.84,Default,,0,0,0,,[electric crackling]
+Dialogue: 0,0:13:26.04,0:13:28.94,Default,,0,0,0,,{\i1}[intense music]{\i0}
+Dialogue: 0,0:13:28.94,0:13:33.85,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:13:36.97,0:13:40.72,Default,,0,0,0,,{\i1}[upbeat music]{\i0}
+Dialogue: 0,0:13:40.72,0:13:43.26,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:13:41.36,0:13:43.83,Default,,0,0,0,,{\i1}We interrupt this broadcast\Nwith breaking news:{\i0}
+Dialogue: 0,0:13:43.83,0:13:46.66,Default,,0,0,0,,{\i1}Chaos in the capital.\NJust a day before{\i0}
+Dialogue: 0,0:13:46.67,0:13:49.33,Default,,0,0,0,,{\i1}President Reagan is set to\Nwelcome General Secretary{\i0}
+Dialogue: 0,0:13:49.34,0:13:52.70,Default,,0,0,0,,{\i1}Gorbachev to the White House\Nto sign the INF Treaty,{\i0}
+Dialogue: 0,0:13:52.71,0:13:56.27,Default,,0,0,0,,{\i1}a White House tour ends in\Nviolence and what witnesses{\i0}
+Dialogue: 0,0:13:56.28,0:14:00.98,Default,,0,0,0,,{\i1}describe as "a rocket man."\NWas this an act of terrorism...{\i0}
+Dialogue: 0,0:14:00.98,0:14:03.75,Default,,0,0,0,,Please, turn it off, Gideon.\NI can't bear it.
+Dialogue: 0,0:14:03.75,0:14:06.89,Default,,0,0,0,,So your thirst for\Nvengeance nearly landed
+Dialogue: 0,0:14:06.89,0:14:08.82,Default,,0,0,0,,the entire team in prison.
+Dialogue: 0,0:14:08.82,0:14:10.79,Default,,0,0,0,,I guess it's only okay to change history
+Dialogue: 0,0:14:10.79,0:14:13.12,Default,,0,0,0,,if it's with your personal vendetta.
+Dialogue: 0,0:14:13.13,0:14:17.43,Default,,0,0,0,,Wasn't all Blondie's fault.\NHaircut screwed up as well.
+Dialogue: 0,0:14:17.43,0:14:18.73,Default,,0,0,0,,Wha... If you would just
+Dialogue: 0,0:14:18.73,0:14:20.06,Default,,0,0,0,,let me tinker with the cold gun,
+Dialogue: 0,0:14:20.07,0:14:21.70,Default,,0,0,0,,I told you I could figure out the whole
+Dialogue: 0,0:14:21.70,0:14:23.10,Default,,0,0,0,,crossing the streams problem.
+Dialogue: 0,0:14:23.10,0:14:25.74,Default,,0,0,0,,There's nothing wrong with the cold gun.
+Dialogue: 0,0:14:25.74,0:14:28.01,Default,,0,0,0,,It's you, you goof.
+Dialogue: 0,0:14:28.01,0:14:29.27,Default,,0,0,0,,The bigger question is:
+Dialogue: 0,0:14:29.28,0:14:31.04,Default,,0,0,0,,Why did Damien Darhk become an advisor
+Dialogue: 0,0:14:31.04,0:14:33.01,Default,,0,0,0,,to Reagan's White House on\Nthe eve of a nuclear treaty
+Dialogue: 0,0:14:33.01,0:14:34.31,Default,,0,0,0,,with the USSR?
+Dialogue: 0,0:14:34.31,0:14:36.45,Default,,0,0,0,,If his involvement with the Nazis in 1942
+Dialogue: 0,0:14:36.45,0:14:39.25,Default,,0,0,0,,is any indication, he's working with
+Dialogue: 0,0:14:39.25,0:14:40.92,Default,,0,0,0,,our time traveling nemesis.
+Dialogue: 0,0:14:40.92,0:14:43.29,Default,,0,0,0,,It's the same person who killed Hourman.
+Dialogue: 0,0:14:43.29,0:14:44.82,Default,,0,0,0,,Amaya needs to hear about this.
+Dialogue: 0,0:14:44.82,0:14:47.13,Default,,0,0,0,,So she can also lose focus,
+Dialogue: 0,0:14:47.13,0:14:51.13,Default,,0,0,0,,risking everything in a\Nselfish pursuit of revenge?
+Dialogue: 0,0:14:51.13,0:14:53.13,Default,,0,0,0,,Do you have something you'd\Nlike to say to me, Martin?
+Dialogue: 0,0:14:53.13,0:14:56.23,Default,,0,0,0,,Yes, that killing Damien\NDarhk almost 30 years
+Dialogue: 0,0:14:56.24,0:15:00.07,Default,,0,0,0,,before his actual death will\Nhave countless unforeseeable
+Dialogue: 0,0:15:00.07,0:15:03.94,Default,,0,0,0,,effects on the history that we\Nare charged with protecting.
+Dialogue: 0,0:15:03.94,0:15:07.11,Default,,0,0,0,,Well, what about protecting my sister?
+Dialogue: 0,0:15:07.11,0:15:10.05,Default,,0,0,0,,She brought me back from the dead.
+Dialogue: 0,0:15:10.05,0:15:13.12,Default,,0,0,0,,She risked everything for me.
+Dialogue: 0,0:15:13.12,0:15:16.39,Default,,0,0,0,,How could I not do the same for her?
+Dialogue: 0,0:15:16.39,0:15:19.42,Default,,0,0,0,,Because you answer to\Na higher calling, Sara.
+Dialogue: 0,0:15:19.43,0:15:24.36,Default,,0,0,0,,I'm sorry, but we cannot stray\Nfrom our guiding principle.
+Dialogue: 0,0:15:24.36,0:15:26.60,Default,,0,0,0,,Well, I'm sorry, too.
+Dialogue: 0,0:15:26.60,0:15:30.03,Default,,0,0,0,,It sounds like you've never\Nreally cared about anyone.
+Dialogue: 0,0:15:33.71,0:15:35.74,Default,,0,0,0,,[whispering] Do you think I killed him?
+Dialogue: 0,0:15:35.74,0:15:37.14,Default,,0,0,0,,I hope I didn't kill him.
+Dialogue: 0,0:15:37.14,0:15:40.14,Default,,0,0,0,,He's gotta be in his late 70s at least!
+Dialogue: 0,0:15:40.15,0:15:42.38,Default,,0,0,0,,Maybe he couldn't take the hit.
+Dialogue: 0,0:15:42.38,0:15:45.39,Default,,0,0,0,,Oh, my God, I just killed a\Nmember of the Justice Society.
+Dialogue: 0,0:15:45.40,0:15:46.85,Default,,0,0,0,,Why are you whispering?
+Dialogue: 0,0:15:46.85,0:15:49.65,Default,,0,0,0,,In case he's not dead,\Nhe could probably use the nap.
+Dialogue: 0,0:15:49.66,0:15:52.26,Default,,0,0,0,,- I'm not an invalid...\N- [sighs]
+Dialogue: 0,0:15:52.26,0:15:55.03,Default,,0,0,0,,Just old.
+Dialogue: 0,0:15:55.03,0:15:58.50,Default,,0,0,0,,And you, you haven't aged a day.
+Dialogue: 0,0:15:58.50,0:16:00.87,Default,,0,0,0,,It's one of the few\Nbenefits of time travel.
+Dialogue: 0,0:16:00.87,0:16:04.14,Default,,0,0,0,,So you left us to join\Nthe loveable losers.
+Dialogue: 0,0:16:04.14,0:16:06.14,Default,,0,0,0,,I was trying to find Rex's killer.
+Dialogue: 0,0:16:06.14,0:16:08.74,Default,,0,0,0,,And you never thought to tell me?
+Dialogue: 0,0:16:08.94,0:16:11.01,Default,,0,0,0,,I found Rex dying.
+Dialogue: 0,0:16:11.01,0:16:13.11,Default,,0,0,0,,His last words were "time traveler."
+Dialogue: 0,0:16:13.11,0:16:15.78,Default,,0,0,0,,I didn't think. I just acted.
+Dialogue: 0,0:16:15.78,0:16:18.25,Default,,0,0,0,,What happened to them, Todd?
+Dialogue: 0,0:16:18.25,0:16:22.05,Default,,0,0,0,,After the war, our friendship\Nwith the Soviet Union ended,
+Dialogue: 0,0:16:22.05,0:16:25.42,Default,,0,0,0,,and we continued fighting\Nas what was known as
+Dialogue: 0,0:16:25.42,0:16:29.29,Default,,0,0,0,,the "Iron Curtain" descended\Nover central and eastern Europe.
+Dialogue: 0,0:16:29.30,0:16:31.76,Default,,0,0,0,,Does "we" include my grandfather?
+Dialogue: 0,0:16:31.76,0:16:33.26,Default,,0,0,0,,Right to the end.
+Dialogue: 0,0:16:33.27,0:16:36.23,Default,,0,0,0,,In 1956, President Eisenhower
+Dialogue: 0,0:16:36.24,0:16:39.37,Default,,0,0,0,,sent a team on a mission to Leipzig.
+Dialogue: 0,0:16:39.37,0:16:41.84,Default,,0,0,0,,They never made it back.
+Dialogue: 0,0:16:41.84,0:16:43.68,Default,,0,0,0,,Why didn't you go?
+Dialogue: 0,0:16:43.68,0:16:45.94,Default,,0,0,0,,'56 was a charged time.
+Dialogue: 0,0:16:45.95,0:16:49.51,Default,,0,0,0,,They were concerned that\NI couldn't be trusted.
+Dialogue: 0,0:16:49.52,0:16:52.58,Default,,0,0,0,,- Why not?\N- Leave it be, Nathaniel.
+Dialogue: 0,0:16:52.59,0:16:55.75,Default,,0,0,0,,{\i1}Nate, Amaya, report\Nback to the Waverider.{\i0}
+Dialogue: 0,0:16:57.22,0:17:00.36,Default,,0,0,0,,I promise you, Todd, I will fix this.
+Dialogue: 0,0:17:00.36,0:17:01.96,Default,,0,0,0,,What's done is done, Amaya.
+Dialogue: 0,0:17:01.96,0:17:05.20,Default,,0,0,0,,Not when you have a time machine.
+Dialogue: 0,0:17:05.20,0:17:08.30,Default,,0,0,0,,I'm sorry for leaving, Todd.
+Dialogue: 0,0:17:08.30,0:17:11.23,Default,,0,0,0,,I truly am.
+Dialogue: 0,0:17:16.28,0:17:18.94,Default,,0,0,0,,Rex's killer is here? In 1987?
+Dialogue: 0,0:17:18.94,0:17:21.61,Default,,0,0,0,,Potentially, if Damien Darhk\Nis still working with him.
+Dialogue: 0,0:17:21.61,0:17:24.58,Default,,0,0,0,,No way, Damien Darhk\Njoined the Reagan Administration
+Dialogue: 0,0:17:24.58,0:17:26.65,Default,,0,0,0,,as an advisor at the Reykjavík Summit?
+Dialogue: 0,0:17:26.65,0:17:28.22,Default,,0,0,0,,And after the collapse of the summit,
+Dialogue: 0,0:17:28.22,0:17:31.29,Default,,0,0,0,,Darhk was credited with\Nreviving the disarmament talks?
+Dialogue: 0,0:17:31.29,0:17:34.53,Default,,0,0,0,,Darhk prefers stockpiling nukes,\Nnot getting rid of them.
+Dialogue: 0,0:17:34.53,0:17:36.45,Default,,0,0,0,,The nuclear treaty must be a cover.
+Dialogue: 0,0:17:36.45,0:17:37.48,Default,,0,0,0,,For what purpose?
+Dialogue: 0,0:17:37.48,0:17:38.76,Default,,0,0,0,,That's what we need to find out.
+Dialogue: 0,0:17:38.76,0:17:40.73,Default,,0,0,0,,Gideon, where is Damien Darhk now?
+Dialogue: 0,0:17:40.73,0:17:42.53,Default,,0,0,0,,{\i1}I'm accessing the\Ncalendar on his secretary's{\i0}
+Dialogue: 0,0:17:42.53,0:17:44.30,Default,,0,0,0,,{\i1}IBM personal computer.{\i0}
+Dialogue: 0,0:17:44.30,0:17:47.17,Default,,0,0,0,,{\i1}Mr. Darhk has a meeting in\NGeorgetown Park at 8:00 p.m.{\i0}
+Dialogue: 0,0:17:47.17,0:17:49.44,Default,,0,0,0,,Late night meeting in the park,\Nthat's not suspicious.
+Dialogue: 0,0:17:49.44,0:17:51.34,Default,,0,0,0,,Ray, take Mick. Find out who Darhk
+Dialogue: 0,0:17:51.34,0:17:54.11,Default,,0,0,0,,is meeting with and why.
+Dialogue: 0,0:17:54.85,0:17:57.08,Default,,0,0,0,,Wait, just us?
+Dialogue: 0,0:17:57.08,0:17:59.92,Default,,0,0,0,,[sighs] Look, it's not a good idea
+Dialogue: 0,0:17:59.92,0:18:03.32,Default,,0,0,0,,for me to be anywhere near\NDamien Darhk right now.
+Dialogue: 0,0:18:04.16,0:18:06.79,Default,,0,0,0,,I... I agree.
+Dialogue: 0,0:18:11.60,0:18:14.57,Default,,0,0,0,,Okay, we're a go on audio.
+Dialogue: 0,0:18:14.57,0:18:16.97,Default,,0,0,0,,Cutting it close, haircut.
+Dialogue: 0,0:18:18.94,0:18:20.71,Default,,0,0,0,,That's Snart's jacket.
+Dialogue: 0,0:18:20.71,0:18:23.21,Default,,0,0,0,,I... thought it would help\Nme get into character.
+Dialogue: 0,0:18:23.21,0:18:25.84,Default,,0,0,0,,- I'm Colonel Cold.\N- The hell you are.
+Dialogue: 0,0:18:25.84,0:18:28.81,Default,,0,0,0,,You're not gonna give yourself a promotion.
+Dialogue: 0,0:18:28.81,0:18:30.58,Default,,0,0,0,,Fine.
+Dialogue: 0,0:18:32.35,0:18:33.89,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:18:33.89,0:18:35.49,Default,,0,0,0,,Well, we're on a stake-out.
+Dialogue: 0,0:18:35.49,0:18:37.36,Default,,0,0,0,,Brought snacks.
+Dialogue: 0,0:18:37.36,0:18:39.16,Default,,0,0,0,,Apple slice?
+Dialogue: 0,0:18:41.13,0:18:44.06,Default,,0,0,0,,Guess you're still upset\Nabout the White House.
+Dialogue: 0,0:18:44.06,0:18:46.50,Default,,0,0,0,,Look, I can be more careful.\NI can be more meticulous,
+Dialogue: 0,0:18:46.50,0:18:47.83,Default,,0,0,0,,more like Snart.
+Dialogue: 0,0:18:47.83,0:18:49.60,Default,,0,0,0,,I don't want you to be like Snart.
+Dialogue: 0,0:18:49.60,0:18:51.27,Default,,0,0,0,,What?
+Dialogue: 0,0:18:51.27,0:18:52.80,Default,,0,0,0,,You gave me his gun. You told me I had to
+Dialogue: 0,0:18:52.81,0:18:53.81,Default,,0,0,0,,try to fill his shoes.
+Dialogue: 0,0:18:53.81,0:18:57.01,Default,,0,0,0,,I was wrong.
+Dialogue: 0,0:18:57.01,0:19:01.95,Default,,0,0,0,,You keep reminding me of my...\Nmy dead friend.
+Dialogue: 0,0:19:01.95,0:19:06.15,Default,,0,0,0,,It's bringing up... It's bringing up f...
+Dialogue: 0,0:19:06.15,0:19:08.39,Default,,0,0,0,,- Feelings?\N- Yes.
+Dialogue: 0,0:19:08.39,0:19:11.76,Default,,0,0,0,,So just stop and be you.
+Dialogue: 0,0:19:11.76,0:19:13.62,Default,,0,0,0,,Well, that's a little difficult,
+Dialogue: 0,0:19:13.63,0:19:17.60,Default,,0,0,0,,considering I lost my suit,\Nmy company, my powers.
+Dialogue: 0,0:19:17.60,0:19:19.60,Default,,0,0,0,,Is this what an existential\Ncrisis feels like?
+Dialogue: 0,0:19:19.60,0:19:23.63,Default,,0,0,0,,Shut up. Just... shut up.
+Dialogue: 0,0:19:24.60,0:19:29.77,Default,,0,0,0,,{\i1}♪ Oh, I, I just died in\Nyour arms tonight ♪{\i0}
+Dialogue: 0,0:19:29.78,0:19:31.91,Default,,0,0,0,,I hate the '80s! [smash]
+Dialogue: 0,0:19:31.91,0:19:33.81,Default,,0,0,0,,Is there any sign of\Nwho Darhk's meeting with?
+Dialogue: 0,0:19:33.81,0:19:35.11,Default,,0,0,0,,{\i1}Not yet!{\i0}
+Dialogue: 0,0:19:35.11,0:19:36.88,Default,,0,0,0,,Clandestine meeting in a D.C. park.
+Dialogue: 0,0:19:36.88,0:19:39.95,Default,,0,0,0,,It feels like the beginning\Nof a John le Carré spy novel.
+Dialogue: 0,0:19:39.95,0:19:41.65,Default,,0,0,0,,I'm more of an Ian Fleming guy.
+Dialogue: 0,0:19:41.65,0:19:44.42,Default,,0,0,0,,Mm, more explosions, less clothing.
+Dialogue: 0,0:19:44.42,0:19:46.46,Default,,0,0,0,,What if Darhk is\Nmeeting with Rex's killer?
+Dialogue: 0,0:19:46.46,0:19:48.76,Default,,0,0,0,,Then we don't let either of them leave.
+Dialogue: 0,0:19:48.76,0:19:50.16,Default,,0,0,0,,{\i1}We've got movement.{\i0}
+Dialogue: 0,0:19:50.16,0:19:52.06,Default,,0,0,0,,A man just entered the park.
+Dialogue: 0,0:19:53.50,0:19:54.67,Default,,0,0,0,,{\i1}Ray, we need audio.{\i0}
+Dialogue: 0,0:19:54.67,0:19:57.00,Default,,0,0,0,,Yep, way ahead of you, Cap.
+Dialogue: 0,0:19:57.00,0:19:58.77,Default,,0,0,0,,Thankfully, there was\Na Tech Village nearby.
+Dialogue: 0,0:19:58.77,0:20:00.67,Default,,0,0,0,,You wouldn't believe what\Nyou can hack together
+Dialogue: 0,0:20:00.67,0:20:03.07,Default,,0,0,0,,with a few household items.
+Dialogue: 0,0:20:03.68,0:20:06.74,Default,,0,0,0,,Dobriy Vecher, Mr. Darhk.
+Dialogue: 0,0:20:06.75,0:20:08.55,Default,,0,0,0,,Sounds like he's meeting with a member of
+Dialogue: 0,0:20:08.55,0:20:11.45,Default,,0,0,0,,the Soviet delegation, not Rex's killer.
+Dialogue: 0,0:20:11.45,0:20:13.82,Default,,0,0,0,,The package is procured.
+Dialogue: 0,0:20:14.52,0:20:16.82,Default,,0,0,0,,Excellent news, Boris.
+Dialogue: 0,0:20:16.82,0:20:20.22,Default,,0,0,0,,That is your name, isn't it?\NBoris? Or is it Igor?
+Dialogue: 0,0:20:20.23,0:20:23.03,Default,,0,0,0,,{\i1}I find it's always one or the\Nother with you KGB agents.{\i0}
+Dialogue: 0,0:20:23.03,0:20:26.36,Default,,0,0,0,,Anywho, once the treaty is signed,
+Dialogue: 0,0:20:26.37,0:20:30.47,Default,,0,0,0,,during the State Dinner,\Nyou'll deliver the package.
+Dialogue: 0,0:20:30.47,0:20:33.84,Default,,0,0,0,,And you will uphold\Nyour half of the bargain?
+Dialogue: 0,0:20:33.84,0:20:35.34,Default,,0,0,0,,As agreed.
+Dialogue: 0,0:20:35.34,0:20:38.54,Default,,0,0,0,,But first, a toast.
+Dialogue: 0,0:20:38.54,0:20:41.21,Default,,0,0,0,,To peace between our two nations.
+Dialogue: 0,0:20:41.21,0:20:43.41,Default,,0,0,0,,Darhk was never interested\Nin the nuclear treaty.
+Dialogue: 0,0:20:43.42,0:20:46.32,Default,,0,0,0,,He's working a side deal with the KGB.
+Dialogue: 0,0:20:46.32,0:20:48.64,Default,,0,0,0,,Uh-oh. Mayday!
+Dialogue: 0,0:20:48.64,0:20:52.22,Default,,0,0,0,,My... My name is Martin Stein.\NYou must have heard of me.
+Dialogue: 0,0:20:52.22,0:20:54.39,Default,,0,0,0,,You may have heard of me.
+Dialogue: 0,0:20:54.39,0:20:56.56,Default,,0,0,0,,Marty, younger you just entered the park.
+Dialogue: 0,0:20:56.56,0:20:58.40,Default,,0,0,0,,What? But that... that's impossible.
+Dialogue: 0,0:20:58.40,0:21:00.60,Default,,0,0,0,,Today is December 7th,\NClarissa's birthday.
+Dialogue: 0,0:21:00.60,0:21:03.50,Default,,0,0,0,,I distinctly remember we\Nhad a dinner reservation
+Dialogue: 0,0:21:03.50,0:21:05.74,Default,,0,0,0,,for this evening which\Ntook me months to procure.
+Dialogue: 0,0:21:05.74,0:21:07.24,Default,,0,0,0,,Well, you must have blown her off.
+Dialogue: 0,0:21:07.24,0:21:09.54,Default,,0,0,0,,- This ought to be good.\N- Should we stop him?
+Dialogue: 0,0:21:09.54,0:21:11.52,Default,,0,0,0,,{\i1}Stop what? What am I doing?{\i0}
+Dialogue: 0,0:21:11.52,0:21:14.58,Default,,0,0,0,,Mr. Darhk, uh, allow\Nme to introduce myself.
+Dialogue: 0,0:21:14.58,0:21:18.12,Default,,0,0,0,,My name is Martin Stein.\NYou may have heard of me.
+Dialogue: 0,0:21:18.12,0:21:20.55,Default,,0,0,0,,I'm on the negotiating team\Nand was recently nominated
+Dialogue: 0,0:21:20.55,0:21:22.79,Default,,0,0,0,,for my sixth Carlin Award in physics.
+Dialogue: 0,0:21:22.79,0:21:23.86,Default,,0,0,0,,Congratulations.
+Dialogue: 0,0:21:23.86,0:21:25.26,Default,,0,0,0,,Thank you. [laughs]
+Dialogue: 0,0:21:25.26,0:21:26.62,Default,,0,0,0,,Did you follow me here?
+Dialogue: 0,0:21:26.63,0:21:28.83,Default,,0,0,0,,I did. [laughs]
+Dialogue: 0,0:21:28.83,0:21:32.00,Default,,0,0,0,,{\i1}You see, I'm... I'm working on a...\Na transmutation project that{\i0}
+Dialogue: 0,0:21:32.00,0:21:34.07,Default,,0,0,0,,{\i1}is vital to national security.{\i0}
+Dialogue: 0,0:21:34.07,0:21:39.17,Default,,0,0,0,,I was hoping you might pass the\Nproposal on to the President.
+Dialogue: 0,0:21:39.17,0:21:41.74,Default,,0,0,0,,Excuse me, I can't help\Nbut notice you're wearing
+Dialogue: 0,0:21:41.74,0:21:44.74,Default,,0,0,0,,a Komandirskie watch, typically supplied to
+Dialogue: 0,0:21:44.74,0:21:48.25,Default,,0,0,0,,the Soviet Ministry of Defense.
+Dialogue: 0,0:21:48.25,0:21:50.38,Default,,0,0,0,,Meeting with a Soviet outside
+Dialogue: 0,0:21:50.38,0:21:52.58,Default,,0,0,0,,of the official negotiation schedule?
+Dialogue: 0,0:21:52.58,0:21:56.12,Default,,0,0,0,,That is highly irregular.
+Dialogue: 0,0:21:57.26,0:22:01.02,Default,,0,0,0,,[speaking Russian]
+Dialogue: 0,0:22:03.90,0:22:06.30,Default,,0,0,0,,Ray, Mick, get in there, now.
+Dialogue: 0,0:22:07.43,0:22:09.00,Default,,0,0,0,,Okay. [laughs]
+Dialogue: 0,0:22:09.00,0:22:12.94,Default,,0,0,0,,Clearly, uh, there's been some\Nkind of misunderstanding.
+Dialogue: 0,0:22:12.94,0:22:15.57,Default,,0,0,0,,I'll just leave and pretend these last
+Dialogue: 0,0:22:15.57,0:22:17.94,Default,,0,0,0,,five minutes didn't happen. [laughs]
+Dialogue: 0,0:22:17.94,0:22:23.78,Default,,0,0,0,,Unfortunately, my imagination\Nisn't quite that vivid.
+Dialogue: 0,0:22:23.78,0:22:24.82,Default,,0,0,0,,- [grunts]\N- [gasps]
+Dialogue: 0,0:22:24.82,0:22:25.95,Default,,0,0,0,,[groans]
+Dialogue: 0,0:22:25.95,0:22:27.18,Default,,0,0,0,,- Gray!\N- Martin!
+Dialogue: 0,0:22:27.19,0:22:28.99,Default,,0,0,0,,[grunts]
+Dialogue: 0,0:22:30.26,0:22:32.32,Default,,0,0,0,,[coughs]
+Dialogue: 0,0:22:33.26,0:22:37.50,Default,,0,0,0,,Ahh. [whistling]
+Dialogue: 0,0:22:37.50,0:22:39.03,Default,,0,0,0,,Ray, what happened?
+Dialogue: 0,0:22:39.03,0:22:40.80,Default,,0,0,0,,{\i1}Darhk just stabbed Marty's younger self.{\i0}
+Dialogue: 0,0:22:40.80,0:22:42.13,Default,,0,0,0,,Where's Darhk?
+Dialogue: 0,0:22:42.13,0:22:44.60,Default,,0,0,0,,We lost him.
+Dialogue: 0,0:22:44.60,0:22:47.67,Default,,0,0,0,,It's gonna be okay.\NI'm gonna get you back.
+Dialogue: 0,0:22:49.50,0:22:52.52,Default,,0,0,0,,- Where is he?\N- He's on his way now.
+Dialogue: 0,0:22:52.53,0:22:54.66,Default,,0,0,0,,Don't worry, you're gonna be fine.
+Dialogue: 0,0:22:54.66,0:22:57.33,Default,,0,0,0,,[groaning] You again?
+Dialogue: 0,0:22:57.33,0:23:00.00,Default,,0,0,0,,I mean, me again.
+Dialogue: 0,0:23:00.00,0:23:01.43,Default,,0,0,0,,Guess you figured it out.
+Dialogue: 0,0:23:01.43,0:23:03.20,Default,,0,0,0,,How did this happen?
+Dialogue: 0,0:23:03.20,0:23:06.04,Default,,0,0,0,,I'm too young to die.\NToo brilliant to die.
+Dialogue: 0,0:23:06.04,0:23:07.74,Default,,0,0,0,,Will one of you please shut me up?
+Dialogue: 0,0:23:07.74,0:23:09.64,Default,,0,0,0,,- Gladly.\N- Gideon?
+Dialogue: 0,0:23:09.64,0:23:11.94,Default,,0,0,0,,{\i1}I'm cauterizing the\Nyounger Martin's wound.{\i0}
+Dialogue: 0,0:23:11.94,0:23:13.45,Default,,0,0,0,,{\i1}I'm afraid it will leave both patients{\i0}
+Dialogue: 0,0:23:13.45,0:23:15.11,Default,,0,0,0,,{\i1}with a rather nasty scar.{\i0}
+Dialogue: 0,0:23:15.11,0:23:16.68,Default,,0,0,0,,You should've let me punch him.
+Dialogue: 0,0:23:16.68,0:23:18.92,Default,,0,0,0,,This is about time travel, isn't it?
+Dialogue: 0,0:23:18.92,0:23:21.29,Default,,0,0,0,,That's why Special Advisor\NDarhk stabbed me.
+Dialogue: 0,0:23:21.29,0:23:24.06,Default,,0,0,0,,He wouldn't have stabbed you\Nif you had been having dinner
+Dialogue: 0,0:23:24.06,0:23:26.12,Default,,0,0,0,,with Clarissa at L'Auberge\Nas previously planned.
+Dialogue: 0,0:23:26.13,0:23:28.06,Default,,0,0,0,,Good God, Clarissa.
+Dialogue: 0,0:23:28.06,0:23:29.73,Default,,0,0,0,,She's waiting for me at the hotel.
+Dialogue: 0,0:23:29.73,0:23:31.96,Default,,0,0,0,,How could you have left\Nher alone on her birthday?
+Dialogue: 0,0:23:31.96,0:23:33.37,Default,,0,0,0,,She ordered room service.
+Dialogue: 0,0:23:33.37,0:23:36.10,Default,,0,0,0,,You are a careless, self-centered idiot.
+Dialogue: 0,0:23:36.10,0:23:39.60,Default,,0,0,0,,Gray, Gray, look, I'll go to the hotel,
+Dialogue: 0,0:23:39.61,0:23:41.84,Default,,0,0,0,,and I'll tell Clarissa that\Nher husband's working late.
+Dialogue: 0,0:23:41.84,0:23:44.31,Default,,0,0,0,,Okay? Just relax.
+Dialogue: 0,0:23:44.31,0:23:50.45,Default,,0,0,0,,Oh, oh, Martin, what on\NEarth were you thinking?
+Dialogue: 0,0:23:52.75,0:23:54.72,Default,,0,0,0,,Hubba-hubba, who's that?
+Dialogue: 0,0:23:54.72,0:23:56.49,Default,,0,0,0,,Professor Stein's wife.
+Dialogue: 0,0:23:56.49,0:23:58.82,Default,,0,0,0,,Jax is at her hotel\Nexplaining why she has to
+Dialogue: 0,0:23:58.82,0:24:01.03,Default,,0,0,0,,spend her birthday alone.
+Dialogue: 0,0:24:01.03,0:24:03.13,Default,,0,0,0,,Wait a minute, if he used everyone's
+Dialogue: 0,0:24:03.13,0:24:05.96,Default,,0,0,0,,favorite talking computer to find her...
+Dialogue: 0,0:24:06.80,0:24:09.47,Default,,0,0,0,,Gideon, do you have the\Nlocation on Damien Darhk?
+Dialogue: 0,0:24:09.47,0:24:11.30,Default,,0,0,0,,{\i1}Unfortunately, I have no intel{\i0}
+Dialogue: 0,0:24:11.30,0:24:12.84,Default,,0,0,0,,{\i1}on his current whereabouts.{\i0}
+Dialogue: 0,0:24:12.84,0:24:14.47,Default,,0,0,0,,But we know where he's gonna be.
+Dialogue: 0,0:24:14.47,0:24:16.41,Default,,0,0,0,,His little side deal with\Nthe Soviets is going down
+Dialogue: 0,0:24:16.41,0:24:17.94,Default,,0,0,0,,at the State Dinner tomorrow night.
+Dialogue: 0,0:24:17.94,0:24:19.38,Default,,0,0,0,,{\i1}Which is probably the\Nmost heavily guarded{\i0}
+Dialogue: 0,0:24:19.38,0:24:20.72,Default,,0,0,0,,{\i1}dinner in history.{\i0}
+Dialogue: 0,0:24:20.72,0:24:22.81,Default,,0,0,0,,I think we know someone\Nwho may be able to help.
+Dialogue: 0,0:24:22.82,0:24:24.05,Default,,0,0,0,,{\i1}Is that so?{\i0}
+Dialogue: 0,0:24:24.05,0:24:25.55,Default,,0,0,0,,One of Amaya's old JSA buddies,
+Dialogue: 0,0:24:25.55,0:24:27.29,Default,,0,0,0,,and, by old, I mean old.
+Dialogue: 0,0:24:27.29,0:24:28.99,Default,,0,0,0,,He may still have some\Ngovernment contacts
+Dialogue: 0,0:24:28.99,0:24:31.49,Default,,0,0,0,,- we can exploit.\N- Absolutely not.
+Dialogue: 0,0:24:31.49,0:24:33.93,Default,,0,0,0,,Whatever Darhk is planning\Nto exchange with the Soviets,
+Dialogue: 0,0:24:33.93,0:24:35.56,Default,,0,0,0,,it can't be good.
+Dialogue: 0,0:24:35.56,0:24:37.26,Default,,0,0,0,,Well, I'll contact the FBI.
+Dialogue: 0,0:24:37.26,0:24:38.76,Default,,0,0,0,,You don't have to worry about it.
+Dialogue: 0,0:24:38.76,0:24:40.53,Default,,0,0,0,,Except we do. Darhk's working
+Dialogue: 0,0:24:40.53,0:24:42.40,Default,,0,0,0,,with a time traveler. That's way out
+Dialogue: 0,0:24:42.40,0:24:43.70,Default,,0,0,0,,of the Bureau's league.
+Dialogue: 0,0:24:43.70,0:24:45.47,Default,,0,0,0,,I believe this time traveler killed Rex.
+Dialogue: 0,0:24:45.47,0:24:47.74,Default,,0,0,0,,All the more reason to stay\Nclear of that State Dinner.
+Dialogue: 0,0:24:47.74,0:24:49.81,Default,,0,0,0,,You can't remain professional.
+Dialogue: 0,0:24:49.81,0:24:51.61,Default,,0,0,0,,Are you kidding me?\NShe's nothing but professional.
+Dialogue: 0,0:24:51.61,0:24:53.34,Default,,0,0,0,,She's all about being professional.
+Dialogue: 0,0:24:53.35,0:24:54.91,Default,,0,0,0,,The only reason I could ever see her
+Dialogue: 0,0:24:54.91,0:24:57.65,Default,,0,0,0,,not being... Oh, my God, you\Nand Rex Tyler were together.
+Dialogue: 0,0:24:57.65,0:24:58.65,Default,,0,0,0,,- No.\N- They were together,
+Dialogue: 0,0:24:58.65,0:25:00.92,Default,,0,0,0,,weren't they? This makes total sense.
+Dialogue: 0,0:25:00.92,0:25:02.22,Default,,0,0,0,,We weren't together.
+Dialogue: 0,0:25:02.22,0:25:04.22,Default,,0,0,0,,Like I said before, fraternization among
+Dialogue: 0,0:25:04.22,0:25:06.69,Default,,0,0,0,,teammates is unprofessional.
+Dialogue: 0,0:25:08.23,0:25:13.13,Default,,0,0,0,,Rex and I were going to\Nleave the JSA after the war,
+Dialogue: 0,0:25:13.13,0:25:16.13,Default,,0,0,0,,try and start a new life with each other.
+Dialogue: 0,0:25:16.14,0:25:18.07,Default,,0,0,0,,And then he was cut down.
+Dialogue: 0,0:25:18.07,0:25:20.91,Default,,0,0,0,,That's why I left the team,\Nand that's why I wouldn't
+Dialogue: 0,0:25:20.91,0:25:23.27,Default,,0,0,0,,talk to you about them.
+Dialogue: 0,0:25:23.28,0:25:25.11,Default,,0,0,0,,It's too hard.
+Dialogue: 0,0:25:25.11,0:25:28.25,Default,,0,0,0,,And this is why I'm\Nreluctant to help you.
+Dialogue: 0,0:25:28.25,0:25:31.28,Default,,0,0,0,,Because your emotions are\Nclouding your judgment.
+Dialogue: 0,0:25:31.28,0:25:33.62,Default,,0,0,0,,She won't be facing Darhk alone.
+Dialogue: 0,0:25:33.62,0:25:35.42,Default,,0,0,0,,We need your help.
+Dialogue: 0,0:25:35.42,0:25:37.96,Default,,0,0,0,,I know you feel like I abandoned you,
+Dialogue: 0,0:25:37.96,0:25:41.96,Default,,0,0,0,,but, please, don't abandon me.
+Dialogue: 0,0:25:45.26,0:25:47.63,Default,,0,0,0,,Hey, how you doing?
+Dialogue: 0,0:25:47.63,0:25:49.27,Default,,0,0,0,,I'm all right.
+Dialogue: 0,0:25:49.27,0:25:50.47,Default,,0,0,0,,You know, the truth is,
+Dialogue: 0,0:25:50.47,0:25:53.57,Default,,0,0,0,,this young man is like a stranger to me.
+Dialogue: 0,0:25:53.57,0:25:55.81,Default,,0,0,0,,Every time I encounter\Nhim, I can't imagine
+Dialogue: 0,0:25:55.81,0:25:57.74,Default,,0,0,0,,I was ever that person.
+Dialogue: 0,0:25:57.74,0:25:59.74,Default,,0,0,0,,I think anyone would\Nfeel that way about meeting
+Dialogue: 0,0:25:59.75,0:26:01.55,Default,,0,0,0,,their younger self.
+Dialogue: 0,0:26:01.55,0:26:03.45,Default,,0,0,0,,I don't recognize my current self.
+Dialogue: 0,0:26:03.45,0:26:05.58,Default,,0,0,0,,Mick told me I need to be more like me.
+Dialogue: 0,0:26:05.58,0:26:07.15,Default,,0,0,0,,And he's right, which is rare.
+Dialogue: 0,0:26:07.15,0:26:08.95,Default,,0,0,0,,Hmm, indeed.
+Dialogue: 0,0:26:08.95,0:26:12.62,Default,,0,0,0,,The problem is I don't know\Nwhat being me means right now.
+Dialogue: 0,0:26:12.63,0:26:14.29,Default,,0,0,0,,I don't know if that makes any sense.
+Dialogue: 0,0:26:14.29,0:26:15.76,Default,,0,0,0,,Of course it does.
+Dialogue: 0,0:26:15.76,0:26:18.86,Default,,0,0,0,,I think everyone struggles\Nat least on occasion
+Dialogue: 0,0:26:18.86,0:26:22.13,Default,,0,0,0,,with who they are and\Nthen what their place is
+Dialogue: 0,0:26:22.13,0:26:23.60,Default,,0,0,0,,in the world.
+Dialogue: 0,0:26:23.60,0:26:25.34,Default,,0,0,0,,So what's the answer?
+Dialogue: 0,0:26:25.34,0:26:27.17,Default,,0,0,0,,I have no idea.
+Dialogue: 0,0:26:27.17,0:26:31.54,Default,,0,0,0,,But, I suppose it's just to live.
+Dialogue: 0,0:26:31.54,0:26:34.05,Default,,0,0,0,,It's all any of us can really do.
+Dialogue: 0,0:26:34.05,0:26:36.68,Default,,0,0,0,,And then, hopefully,\Nthrough the act of living
+Dialogue: 0,0:26:36.68,0:26:40.08,Default,,0,0,0,,we discover who we truly are
+Dialogue: 0,0:26:40.09,0:26:44.49,Default,,0,0,0,,and learn to grow from that.
+Dialogue: 0,0:26:45.32,0:26:48.43,Default,,0,0,0,,Amaya got us invites to the State Dinner.
+Dialogue: 0,0:26:48.43,0:26:49.83,Default,,0,0,0,,Are you feeling up to it?
+Dialogue: 0,0:26:49.83,0:26:53.30,Default,,0,0,0,,Yes, I'm feeling much better.
+Dialogue: 0,0:26:53.30,0:26:54.77,Default,,0,0,0,,You feeling up to it?
+Dialogue: 0,0:26:54.77,0:26:56.33,Default,,0,0,0,,I think what he means is:\Nare you gonna create
+Dialogue: 0,0:26:56.34,0:26:58.67,Default,,0,0,0,,a diplomatic crisis and\Nrisk unknown damage
+Dialogue: 0,0:26:58.67,0:27:00.44,Default,,0,0,0,,to history by killing Damien Darhk?
+Dialogue: 0,0:27:00.44,0:27:02.77,Default,,0,0,0,,I know what he means, Ray.
+Dialogue: 0,0:27:02.78,0:27:08.48,Default,,0,0,0,,Earlier, you accused me of\Nnot ever caring for anyone,
+Dialogue: 0,0:27:08.48,0:27:11.45,Default,,0,0,0,,but you know that's not true.
+Dialogue: 0,0:27:12.38,0:27:14.69,Default,,0,0,0,,I care very much about you.
+Dialogue: 0,0:27:14.69,0:27:17.89,Default,,0,0,0,,And I'm less concerned about history
+Dialogue: 0,0:27:17.89,0:27:19.96,Default,,0,0,0,,than I am about your conscience.
+Dialogue: 0,0:27:19.96,0:27:23.19,Default,,0,0,0,,You're no longer an assassin, Sara.
+Dialogue: 0,0:27:23.20,0:27:25.70,Default,,0,0,0,,You're our Captain.
+Dialogue: 0,0:27:25.70,0:27:27.13,Default,,0,0,0,,Well, let's hope I remember that
+Dialogue: 0,0:27:27.13,0:27:29.53,Default,,0,0,0,,when the time comes.
+Dialogue: 0,0:27:29.54,0:27:31.97,Default,,0,0,0,,Now let's do this.
+Dialogue: 0,0:27:31.97,0:27:35.01,Default,,0,0,0,,{\i1}[Kenny Loggins' “Danger Zone” playing]{\i0}
+Dialogue: 0,0:27:35.01,0:27:42.91,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:27:48.32,0:27:50.05,Default,,0,0,0,,{\i1}♪ Revvin' up your engine ♪{\i0}
+Dialogue: 0,0:27:50.06,0:27:51.56,Default,,0,0,0,,Thank you for helping us get in.
+Dialogue: 0,0:27:51.56,0:27:53.86,Default,,0,0,0,,Feels good to be back in the game.
+Dialogue: 0,0:27:53.86,0:27:55.46,Default,,0,0,0,,I don't see Damien Darhk anywhere.
+Dialogue: 0,0:27:55.46,0:27:56.76,Default,,0,0,0,,He'll be here.
+Dialogue: 0,0:27:56.76,0:28:01.50,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:28:01.50,0:28:04.34,Default,,0,0,0,,Oh, my God, what is she doing here?
+Dialogue: 0,0:28:04.34,0:28:07.10,Default,,0,0,0,,Probably looking for her\Nhusband, no doubt.
+Dialogue: 0,0:28:08.41,0:28:10.64,Default,,0,0,0,,She's... she's coming this way,\Nwhat... what should I do?
+Dialogue: 0,0:28:10.64,0:28:12.14,Default,,0,0,0,,Just... Just talk to her.
+Dialogue: 0,0:28:12.14,0:28:16.01,Default,,0,0,0,,Mr. Jackson, I expected\Nto meet my husband here.
+Dialogue: 0,0:28:16.02,0:28:17.18,Default,,0,0,0,,Have you seen him yet?
+Dialogue: 0,0:28:17.18,0:28:19.32,Default,,0,0,0,,I'm sorry, no. I haven't.
+Dialogue: 0,0:28:19.32,0:28:21.39,Default,,0,0,0,,I'd be worried, but it's just like Martin
+Dialogue: 0,0:28:21.39,0:28:23.59,Default,,0,0,0,,- to lose track of time.\N- [all chuckle]
+Dialogue: 0,0:28:23.59,0:28:25.06,Default,,0,0,0,,Well, I'm sure, wherever he is,
+Dialogue: 0,0:28:25.06,0:28:27.79,Default,,0,0,0,,you are foremost in his mind.
+Dialogue: 0,0:28:27.79,0:28:28.99,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:28:28.99,0:28:31.10,Default,,0,0,0,,I'm... I'm a colleague of his.
+Dialogue: 0,0:28:31.10,0:28:34.33,Default,,0,0,0,,My name is also Martin.
+Dialogue: 0,0:28:34.33,0:28:36.10,Default,,0,0,0,,He never mentioned you.
+Dialogue: 0,0:28:36.10,0:28:38.90,Default,,0,0,0,,Well, I'm sure he has more\Nimportant things to talk about.
+Dialogue: 0,0:28:38.90,0:28:40.27,Default,,0,0,0,,[jazzy piano music]
+Dialogue: 0,0:28:40.27,0:28:43.04,Default,,0,0,0,,Oh, uh, would you...\NWould you care to dance?
+Dialogue: 0,0:28:43.04,0:28:46.54,Default,,0,0,0,,I never seem to take the time\Nto enjoy these State Dinners.
+Dialogue: 0,0:28:46.55,0:28:48.38,Default,,0,0,0,,Sure.
+Dialogue: 0,0:28:53.95,0:28:57.79,Default,,0,0,0,,You all right? You seem tense.
+Dialogue: 0,0:28:57.79,0:29:01.19,Default,,0,0,0,,When you find Rex's killer,\Nwhat are you gonna do to him?
+Dialogue: 0,0:29:01.19,0:29:04.46,Default,,0,0,0,,Arrest him. What else is there?
+Dialogue: 0,0:29:04.46,0:29:05.76,Default,,0,0,0,,You could kill him.
+Dialogue: 0,0:29:05.76,0:29:08.13,Default,,0,0,0,,I'm a member of the Justice Society,
+Dialogue: 0,0:29:08.13,0:29:10.57,Default,,0,0,0,,or at least I was when it existed,
+Dialogue: 0,0:29:10.57,0:29:13.44,Default,,0,0,0,,I'm not some vigilante.
+Dialogue: 0,0:29:14.77,0:29:17.04,Default,,0,0,0,,♪ ♪
+Dialogue: 0,0:29:17.04,0:29:19.44,Default,,0,0,0,,I'm sorry, I don't mean\Nto pry, but you don't
+Dialogue: 0,0:29:19.45,0:29:21.38,Default,,0,0,0,,seem too happy to be here.
+Dialogue: 0,0:29:21.38,0:29:25.82,Default,,0,0,0,,It's just... Martin invited\Nme on this trip for my birthday,
+Dialogue: 0,0:29:25.82,0:29:28.49,Default,,0,0,0,,and I've spent the\Nbetter part of it alone.
+Dialogue: 0,0:29:28.49,0:29:30.22,Default,,0,0,0,,Perhaps you should talk to him.
+Dialogue: 0,0:29:30.22,0:29:34.33,Default,,0,0,0,,I've tried, but Martin's\Nlove for nuclear science...
+Dialogue: 0,0:29:34.33,0:29:36.46,Default,,0,0,0,,It's irrepressible.
+Dialogue: 0,0:29:36.46,0:29:38.73,Default,,0,0,0,,Sometimes my husband has tunnel vision.
+Dialogue: 0,0:29:38.73,0:29:44.34,Default,,0,0,0,,Well, Martin is a fool, but,\Nbelieve me, he loves you.
+Dialogue: 0,0:29:44.34,0:29:46.50,Default,,0,0,0,,You're far more important to him than
+Dialogue: 0,0:29:46.51,0:29:51.31,Default,,0,0,0,,any of his scientific achievements.
+Dialogue: 0,0:29:51.31,0:29:56.21,Default,,0,0,0,,I have the strangest feeling,\Nlike we've danced before.
+Dialogue: 0,0:29:57.18,0:29:58.88,Default,,0,0,0,,{\i1}[dramatic music]{\i0}
+Dialogue: 0,0:29:58.88,0:30:00.75,Default,,0,0,0,,Sara, Darhk's in the hallway.
+Dialogue: 0,0:30:00.75,0:30:04.49,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:30:04.49,0:30:09.09,Default,,0,0,0,,Mick, Ray, guard the exits.\NAnd everybody else,
+Dialogue: 0,0:30:09.09,0:30:10.96,Default,,0,0,0,,get ready to move.
+Dialogue: 0,0:30:15.10,0:30:17.64,Default,,0,0,0,,Now that our governments\Nare waging peace upstairs,
+Dialogue: 0,0:30:17.64,0:30:19.74,Default,,0,0,0,,what do you say we get\Ndown to the real business?
+Dialogue: 0,0:30:19.74,0:30:21.64,Default,,0,0,0,,You have brought us the codes?
+Dialogue: 0,0:30:21.64,0:30:23.31,Default,,0,0,0,,It's called a CD-ROM, the latest
+Dialogue: 0,0:30:23.31,0:30:25.15,Default,,0,0,0,,in Defense Department technology.
+Dialogue: 0,0:30:25.15,0:30:27.35,Default,,0,0,0,,As for my half of the exchange?
+Dialogue: 0,0:30:27.35,0:30:30.28,Default,,0,0,0,,{\i1}[dramatic music]{\i0}
+Dialogue: 0,0:30:30.28,0:30:38.19,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:30:38.89,0:30:41.03,Default,,0,0,0,,[laughing]
+Dialogue: 0,0:30:41.03,0:30:42.86,Default,,0,0,0,,Hand over the box.
+Dialogue: 0,0:30:42.86,0:30:45.50,Default,,0,0,0,,And the kick-ass CD-ROM.
+Dialogue: 0,0:30:46.90,0:30:48.17,Default,,0,0,0,,What is this?
+Dialogue: 0,0:30:48.17,0:30:50.67,Default,,0,0,0,,[speaking Russian] _
+Dialogue: 0,0:30:51.37,0:30:53.01,Default,,0,0,0,,He thinks we're working with Darhk.
+Dialogue: 0,0:30:53.01,0:30:54.01,Default,,0,0,0,,Never.
+Dialogue: 0,0:30:54.01,0:30:55.64,Default,,0,0,0,,No one has to get hurt.
+Dialogue: 0,0:30:55.64,0:30:56.94,Default,,0,0,0,,That's not really my style.
+Dialogue: 0,0:30:56.94,0:30:58.61,Default,,0,0,0,,Now, we can waste time chit-chatting,
+Dialogue: 0,0:30:58.61,0:31:00.48,Default,,0,0,0,,or you can deal with the\Nexplosive my people
+Dialogue: 0,0:31:00.48,0:31:02.82,Default,,0,0,0,,have secreted inside\Nthe State Dining Room.
+Dialogue: 0,0:31:02.82,0:31:05.29,Default,,0,0,0,,See, in about six minutes,\NReagan, Gorbachev,
+Dialogue: 0,0:31:05.29,0:31:07.75,Default,,0,0,0,,and every hope of peace goes kaboom.
+Dialogue: 0,0:31:07.76,0:31:09.46,Default,,0,0,0,,- Ray?\N{\i1}- We're on it.{\i0}
+Dialogue: 0,0:31:09.46,0:31:13.46,Default,,0,0,0,,I am sorry... inconvenient,\NI know, but try being me.
+Dialogue: 0,0:31:17.33,0:31:21.13,Default,,0,0,0,,[all grunting]
+Dialogue: 0,0:31:23.40,0:31:27.21,Default,,0,0,0,,[all grunting]
+Dialogue: 0,0:31:32.38,0:31:34.71,Default,,0,0,0,,[gasping] Todd?
+Dialogue: 0,0:31:40.42,0:31:42.16,Default,,0,0,0,,{\i1}We're on the move to find the bomb.{\i0}
+Dialogue: 0,0:31:42.16,0:31:44.16,Default,,0,0,0,,{\i1}The bomb... We must save Clarissa.{\i0}
+Dialogue: 0,0:31:44.16,0:31:49.96,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:31:49.96,0:31:53.77,Default,,0,0,0,,[all grunting]
+Dialogue: 0,0:31:58.31,0:32:01.17,Default,,0,0,0,,I got this, Sara. Go stop Darhk.
+Dialogue: 0,0:32:03.81,0:32:04.81,Default,,0,0,0,,Ooh!
+Dialogue: 0,0:32:04.81,0:32:07.75,Default,,0,0,0,,[grunting]
+Dialogue: 0,0:32:07.75,0:32:11.32,Default,,0,0,0,,[panting] That's cool, man.
+Dialogue: 0,0:32:11.32,0:32:12.99,Default,,0,0,0,,Mary Todd's hope chest.
+Dialogue: 0,0:32:12.99,0:32:14.15,Default,,0,0,0,,[smash]
+Dialogue: 0,0:32:14.15,0:32:17.39,Default,,0,0,0,,Ooh, you have gone too far!
+Dialogue: 0,0:32:19.73,0:32:20.99,Default,,0,0,0,,Everyone.
+Dialogue: 0,0:32:21.00,0:32:23.40,Default,,0,0,0,,Get the hell out of here, right now.
+Dialogue: 0,0:32:23.40,0:32:26.87,Default,,0,0,0,,[confused murmurs]
+Dialogue: 0,0:32:26.87,0:32:28.90,Default,,0,0,0,,Now that we have your attention,
+Dialogue: 0,0:32:28.90,0:32:31.10,Default,,0,0,0,,would you all please leave\Nthe dining room immediately?
+Dialogue: 0,0:32:31.11,0:32:32.81,Default,,0,0,0,,We believe there's a\Nbomb on the premises.
+Dialogue: 0,0:32:32.81,0:32:35.24,Default,,0,0,0,,[screaming and yelling]
+Dialogue: 0,0:32:35.24,0:32:36.78,Default,,0,0,0,,Oof!
+Dialogue: 0,0:32:36.78,0:32:38.94,Default,,0,0,0,,[crashing]
+Dialogue: 0,0:32:40.92,0:32:44.72,Default,,0,0,0,,[beeping]
+Dialogue: 0,0:32:46.12,0:32:49.29,Default,,0,0,0,,- You okay?\N- Who are you?
+Dialogue: 0,0:32:49.29,0:32:51.99,Default,,0,0,0,,A friend of your husband's.
+Dialogue: 0,0:32:51.99,0:32:54.13,Default,,0,0,0,,[beeping]
+Dialogue: 0,0:32:54.13,0:32:57.53,Default,,0,0,0,,{\i1}[suspenseful music]{\i0}
+Dialogue: 0,0:32:57.53,0:33:00.53,Default,,0,0,0,,[grunts]
+Dialogue: 0,0:33:00.53,0:33:02.24,Default,,0,0,0,,Good news, I found the bomb.
+Dialogue: 0,0:33:02.24,0:33:04.14,Default,,0,0,0,,Bad news, this type of\Nfiring system is obsolete.
+Dialogue: 0,0:33:04.14,0:33:06.24,Default,,0,0,0,,I have no idea how to\Ndisarm such a crude weapon.
+Dialogue: 0,0:33:06.24,0:33:08.88,Default,,0,0,0,,[gasping] Figure it out, Ray.
+Dialogue: 0,0:33:08.88,0:33:10.21,Default,,0,0,0,,I'm a little busy.
+Dialogue: 0,0:33:10.21,0:33:12.65,Default,,0,0,0,,[grunts]
+Dialogue: 0,0:33:12.65,0:33:16.45,Default,,0,0,0,,[grunting]
+Dialogue: 0,0:33:17.02,0:33:18.05,Default,,0,0,0,,Rah!
+Dialogue: 0,0:33:18.05,0:33:19.85,Default,,0,0,0,,[choking]
+Dialogue: 0,0:33:21.06,0:33:22.22,Default,,0,0,0,,There's nothing I can do.
+Dialogue: 0,0:33:22.22,0:33:23.62,Default,,0,0,0,,Yes, there is.
+Dialogue: 0,0:33:23.62,0:33:26.26,Default,,0,0,0,,I was wrong trying to\Nmake you like Snart.
+Dialogue: 0,0:33:26.26,0:33:28.73,Default,,0,0,0,,You're Ray Palmer...\NYou can science your way
+Dialogue: 0,0:33:28.73,0:33:30.10,Default,,0,0,0,,out of anything.
+Dialogue: 0,0:33:30.10,0:33:33.67,Default,,0,0,0,,I'm Ray Palmer. I'm Ray Palmer.
+Dialogue: 0,0:33:33.67,0:33:35.67,Default,,0,0,0,,I can science my way out of anything.
+Dialogue: 0,0:33:35.67,0:33:38.07,Default,,0,0,0,,I...
+Dialogue: 0,0:33:38.07,0:33:40.14,Default,,0,0,0,,If I can send an electrical\Npulse from an outside
+Dialogue: 0,0:33:40.14,0:33:42.58,Default,,0,0,0,,power source, I might be able to overload
+Dialogue: 0,0:33:42.58,0:33:44.18,Default,,0,0,0,,the bomb's incendiary trigger,
+Dialogue: 0,0:33:44.18,0:33:47.41,Default,,0,0,0,,but I-I'd have to dismantle to cold gun.
+Dialogue: 0,0:33:47.41,0:33:49.71,Default,,0,0,0,,Less talking, more doing.
+Dialogue: 0,0:33:50.78,0:33:53.72,Default,,0,0,0,,{\i1}[exciting music]{\i0}
+Dialogue: 0,0:33:53.72,0:33:57.52,Default,,0,0,0,,{\i1}♪ ♪{\i0}
+Dialogue: 0,0:33:57.52,0:33:59.73,Default,,0,0,0,,- [gunshots]\N- [grunts]
+Dialogue: 0,0:33:59.73,0:34:01.49,Default,,0,0,0,,Huh.
+Dialogue: 0,0:34:05.93,0:34:07.73,Default,,0,0,0,,[gunshot]
+Dialogue: 0,0:34:08.04,0:34:10.70,Default,,0,0,0,,No!
+Dialogue: 0,0:34:10.70,0:34:12.81,Default,,0,0,0,,[laughs]
+Dialogue: 0,0:34:12.81,0:34:14.71,Default,,0,0,0,,Ahh!
+Dialogue: 0,0:34:16.71,0:34:19.01,Default,,0,0,0,,- [grunts]\N- Ray?
+Dialogue: 0,0:34:19.01,0:34:20.68,Default,,0,0,0,,{\i1}Tell me the bomb's disarmed.{\i0}
+Dialogue: 0,0:34:20.68,0:34:23.31,Default,,0,0,0,,[grunts] That would be a lie.
+Dialogue: 0,0:34:23.45,0:34:27.12,Default,,0,0,0,,Well, ten seconds to live.
+Dialogue: 0,0:34:27.12,0:34:29.46,Default,,0,0,0,,There are worse ways of dying.
+Dialogue: 0,0:34:29.46,0:34:33.26,Default,,0,0,0,,[beeping]
+Dialogue: 0,0:34:36.03,0:34:37.30,Default,,0,0,0,,[gasps]
+Dialogue: 0,0:34:37.30,0:34:40.83,Default,,0,0,0,,[panting]
+Dialogue: 0,0:34:40.83,0:34:42.60,Default,,0,0,0,,I did it.
+Dialogue: 0,0:34:43.27,0:34:44.44,Default,,0,0,0,,I did it.
+Dialogue: 0,0:34:44.44,0:34:46.87,Default,,0,0,0,,Good.
+Dialogue: 0,0:34:49.78,0:34:51.64,Default,,0,0,0,,Hold on, Todd. Okay?
+Dialogue: 0,0:34:51.65,0:34:53.91,Default,,0,0,0,,Just hold on.
+Dialogue: 0,0:34:55.15,0:34:57.08,Default,,0,0,0,,You and I have met before.
+Dialogue: 0,0:34:57.08,0:35:01.15,Default,,0,0,0,,New York City, 1942.\NYou haven't aged a bit.
+Dialogue: 0,0:35:01.16,0:35:02.92,Default,,0,0,0,,Lazarus Pit?
+Dialogue: 0,0:35:02.92,0:35:05.63,Default,,0,0,0,,Oh, woman of mystery.
+Dialogue: 0,0:35:05.63,0:35:07.96,Default,,0,0,0,,I know that look in your eye, though.
+Dialogue: 0,0:35:07.96,0:35:12.17,Default,,0,0,0,,That's the look of someone that\NI've taken everything from.
+Dialogue: 0,0:35:12.17,0:35:14.50,Default,,0,0,0,,Not everything.
+Dialogue: 0,0:35:14.50,0:35:16.94,Default,,0,0,0,,You haven't taken my soul,
+Dialogue: 0,0:35:16.94,0:35:20.91,Default,,0,0,0,,which I've already lost,\Nand I'm not eager to do again.
+Dialogue: 0,0:35:20.91,0:35:25.04,Default,,0,0,0,,And that's why I'm sparing your life.
+Dialogue: 0,0:35:25.05,0:35:26.48,Default,,0,0,0,,How merciful of you.
+Dialogue: 0,0:35:26.48,0:35:30.92,Default,,0,0,0,,I'm sparing you to\Nprolong your suffering.
+Dialogue: 0,0:35:30.92,0:35:34.32,Default,,0,0,0,,'Cause I'm from the future,\NDamien, and I know
+Dialogue: 0,0:35:34.32,0:35:40.73,Default,,0,0,0,,how this all ends.\NYour ark, your grand vision.
+Dialogue: 0,0:35:40.73,0:35:42.60,Default,,0,0,0,,Just as you're about to accomplish
+Dialogue: 0,0:35:42.60,0:35:45.47,Default,,0,0,0,,everything you desire,
+Dialogue: 0,0:35:45.47,0:35:50.10,Default,,0,0,0,,your wife is murdered,\Nthe love of your life.
+Dialogue: 0,0:35:50.10,0:35:52.34,Default,,0,0,0,,And in total despair,
+Dialogue: 0,0:35:52.34,0:35:55.48,Default,,0,0,0,,you even try to kill your own daughter.
+Dialogue: 0,0:35:55.48,0:36:01.05,Default,,0,0,0,,An entire city rises up against you,
+Dialogue: 0,0:36:01.05,0:36:03.32,Default,,0,0,0,,and then you die...
+Dialogue: 0,0:36:03.32,0:36:07.25,Default,,0,0,0,,defeated and alone.
+Dialogue: 0,0:36:08.46,0:36:09.56,Default,,0,0,0,,[electric crackling]
+Dialogue: 0,0:36:09.56,0:36:11.02,Default,,0,0,0,,[gasps]
+Dialogue: 0,0:36:11.02,0:36:13.26,Default,,0,0,0,,What happened? Where's Darhk?
+Dialogue: 0,0:36:13.26,0:36:14.79,Default,,0,0,0,,He took him.
+Dialogue: 0,0:36:14.80,0:36:17.36,Default,,0,0,0,,The time traveler working against us...
+Dialogue: 0,0:36:18.53,0:36:20.30,Default,,0,0,0,,He's a speedster.
+Dialogue: 0,0:36:20.30,0:36:23.00,Default,,0,0,0,,- Like the Flash?\N- Faster.
+Dialogue: 0,0:36:23.00,0:36:25.57,Default,,0,0,0,,So the speedster and Darhk,\Nthey have whatever
+Dialogue: 0,0:36:25.57,0:36:27.21,Default,,0,0,0,,the KGB gave Darhk?
+Dialogue: 0,0:36:27.21,0:36:28.64,Default,,0,0,0,,Unless...
+Dialogue: 0,0:36:28.64,0:36:30.51,Default,,0,0,0,,Unless?
+Dialogue: 0,0:36:31.58,0:36:33.31,Default,,0,0,0,,I swiped it off Darhk.
+Dialogue: 0,0:36:33.31,0:36:36.78,Default,,0,0,0,,- Shut up.\N- [snorts]
+Dialogue: 0,0:36:36.78,0:36:38.82,Default,,0,0,0,,Can I hug you? Do we hug?
+Dialogue: 0,0:36:38.82,0:36:42.05,Default,,0,0,0,,- Okay, just this once.\N- There's gonna be more.
+Dialogue: 0,0:36:43.32,0:36:45.39,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:36:45.76,0:36:48.33,Default,,0,0,0,,You took a bullet for me.
+Dialogue: 0,0:36:48.33,0:36:53.63,Default,,0,0,0,,For a fellow member of\Nthe JSA, it was nothing.
+Dialogue: 0,0:36:57.92,0:37:00.39,Default,,0,0,0,,Astonishing to be back here again.
+Dialogue: 0,0:37:00.39,0:37:04.03,Default,,0,0,0,,A ship that can travel through\Ntime and heal any wound.
+Dialogue: 0,0:37:04.03,0:37:06.30,Default,,0,0,0,,- Think of the possibilities...\N- Let me remind you,
+Dialogue: 0,0:37:06.30,0:37:09.09,Default,,0,0,0,,it's imperative that you\Ncarry on as if you never
+Dialogue: 0,0:37:09.09,0:37:11.31,Default,,0,0,0,,so, me or anything else from the future.
+Dialogue: 0,0:37:11.31,0:37:13.77,Default,,0,0,0,,That you would pass\Nup the chance to show me
+Dialogue: 0,0:37:13.77,0:37:15.97,Default,,0,0,0,,even the barest glimpse of that future,
+Dialogue: 0,0:37:15.98,0:37:19.78,Default,,0,0,0,,catapulting our transmutation\Nresearch into the 21st century,
+Dialogue: 0,0:37:19.78,0:37:22.41,Default,,0,0,0,,I had no idea I could ever be so selfish.
+Dialogue: 0,0:37:22.42,0:37:24.55,Default,,0,0,0,,Interesting, considering that's exactly
+Dialogue: 0,0:37:24.55,0:37:27.32,Default,,0,0,0,,how you've been to Clarissa.\NShe nearly died last night
+Dialogue: 0,0:37:27.32,0:37:31.52,Default,,0,0,0,,because of your blind\Ndevotion to your work.
+Dialogue: 0,0:37:34.93,0:37:40.00,Default,,0,0,0,,You of all people understand\Nthe importance of our research.
+Dialogue: 0,0:37:40.00,0:37:43.27,Default,,0,0,0,,I understand the importance\Nof one thing and one thing only:
+Dialogue: 0,0:37:43.27,0:37:46.10,Default,,0,0,0,,After everything\NI've accomplished, all...
+Dialogue: 0,0:37:46.11,0:37:48.81,Default,,0,0,0,,- All of the awards I've won...\N- Did we win the sixth Carlin?
+Dialogue: 0,0:37:48.81,0:37:54.64,Default,,0,0,0,,The only thing that brings\Nmeaning to my life is Clarissa.
+Dialogue: 0,0:37:55.61,0:37:58.12,Default,,0,0,0,,Yes, Martin, our wife, who you spent
+Dialogue: 0,0:37:58.12,0:38:01.92,Default,,0,0,0,,the last two days ignoring.
+Dialogue: 0,0:38:01.92,0:38:03.69,Default,,0,0,0,,But I love Clarissa.
+Dialogue: 0,0:38:03.69,0:38:06.83,Default,,0,0,0,,Then cherish her, Martin,
+Dialogue: 0,0:38:06.83,0:38:09.59,Default,,0,0,0,,because I promise you,
+Dialogue: 0,0:38:09.60,0:38:15.07,Default,,0,0,0,,she is the only thing you\Nwill care to remember.
+Dialogue: 0,0:38:15.63,0:38:18.24,Default,,0,0,0,,And I promise you...
+Dialogue: 0,0:38:18.24,0:38:22.81,Default,,0,0,0,,I'll make sure she knows I love her.
+Dialogue: 0,0:38:22.81,0:38:25.34,Default,,0,0,0,,I pray that you do.
+Dialogue: 0,0:38:26.48,0:38:28.98,Default,,0,0,0,,[beeping]
+Dialogue: 0,0:38:31.18,0:38:33.08,Default,,0,0,0,,[sighs]
+Dialogue: 0,0:38:38.69,0:38:40.79,Default,,0,0,0,,Are you sure you won't come with us?
+Dialogue: 0,0:38:40.79,0:38:42.83,Default,,0,0,0,,Rex's killer is still out there.
+Dialogue: 0,0:38:42.83,0:38:44.43,Default,,0,0,0,,We could find him together.
+Dialogue: 0,0:38:44.43,0:38:48.00,Default,,0,0,0,,I think last night proved\Nmy fighting days are over.
+Dialogue: 0,0:38:48.00,0:38:50.10,Default,,0,0,0,,You were amazing out there.
+Dialogue: 0,0:38:50.10,0:38:52.84,Default,,0,0,0,,It felt like old times.
+Dialogue: 0,0:38:52.84,0:38:57.34,Default,,0,0,0,,But there's something keeping\Nyou here in 1987, isn't there?
+Dialogue: 0,0:38:57.34,0:39:01.68,Default,,0,0,0,,After the JSA disbanded,\NI spent a lot of lonely years
+Dialogue: 0,0:39:01.68,0:39:05.05,Default,,0,0,0,,until I finally met someone, Amaya.
+Dialogue: 0,0:39:05.05,0:39:07.39,Default,,0,0,0,,And he's waiting for me at home.
+Dialogue: 0,0:39:07.39,0:39:08.92,Default,,0,0,0,,[laughs]
+Dialogue: 0,0:39:08.92,0:39:11.39,Default,,0,0,0,,{\i1}I have ameliorated Mr. Rice's injuries.{\i0}
+Dialogue: 0,0:39:11.39,0:39:14.96,Default,,0,0,0,,That's incredible. Wow.
+Dialogue: 0,0:39:18.20,0:39:22.07,Default,,0,0,0,,A word of advice from an old\Nman who's lived long enough
+Dialogue: 0,0:39:22.07,0:39:26.20,Default,,0,0,0,,to see the world change,\Nand mostly for the better:
+Dialogue: 0,0:39:26.21,0:39:30.84,Default,,0,0,0,,If you are lucky enough\Nto find love again...
+Dialogue: 0,0:39:31.84,0:39:34.18,Default,,0,0,0,,Embrace it.
+Dialogue: 0,0:39:34.18,0:39:35.85,Default,,0,0,0,,Are you leaving already?
+Dialogue: 0,0:39:35.85,0:39:38.05,Default,,0,0,0,,I was hoping we'd have a beer.
+Dialogue: 0,0:39:38.05,0:39:42.42,Default,,0,0,0,,Oh, unlike you, my time is limited,
+Dialogue: 0,0:39:42.42,0:39:45.09,Default,,0,0,0,,and I don't need the carbs.
+Dialogue: 0,0:39:45.29,0:39:47.49,Default,,0,0,0,,Good-bye, Todd.
+Dialogue: 0,0:39:58.77,0:40:00.24,Default,,0,0,0,,Well, I guess I just, uh...
+Dialogue: 0,0:40:00.24,0:40:02.54,Default,,0,0,0,,He loved to sing.
+Dialogue: 0,0:40:03.78,0:40:06.98,Default,,0,0,0,,Henry, your grandfather.
+Dialogue: 0,0:40:06.98,0:40:11.25,Default,,0,0,0,,He had a... A beautiful voice.
+Dialogue: 0,0:40:11.25,0:40:14.05,Default,,0,0,0,,During long convoys or stake-outs,
+Dialogue: 0,0:40:14.05,0:40:16.59,Default,,0,0,0,,he would serenade the team.
+Dialogue: 0,0:40:16.59,0:40:19.59,Default,,0,0,0,,He made it his personal mission\Nto get me to sing along,
+Dialogue: 0,0:40:19.59,0:40:24.30,Default,,0,0,0,,but he never succeeded.
+Dialogue: 0,0:40:24.30,0:40:27.00,Default,,0,0,0,,But when the chips were down
+Dialogue: 0,0:40:27.00,0:40:29.93,Default,,0,0,0,,and all hope seemed lost,
+Dialogue: 0,0:40:29.94,0:40:33.17,Default,,0,0,0,,we could always count on\NHenry to lift our spirits.
+Dialogue: 0,0:40:33.17,0:40:37.64,Default,,0,0,0,,That's the kind of man\Nyour grandfather was.
+Dialogue: 0,0:40:39.18,0:40:40.85,Default,,0,0,0,,[bottles clink]
+Dialogue: 0,0:40:40.85,0:40:42.08,Default,,0,0,0,,Then take me back there now.
+Dialogue: 0,0:40:42.08,0:40:43.51,Default,,0,0,0,,I will get your item back for you.
+Dialogue: 0,0:40:43.52,0:40:45.55,Default,,0,0,0,,The Legends have left 1987.
+Dialogue: 0,0:40:45.55,0:40:47.19,Default,,0,0,0,,The item is beyond your reach.
+Dialogue: 0,0:40:47.19,0:40:49.62,Default,,0,0,0,,That blonde woman...\NShe's a time traveler like you.
+Dialogue: 0,0:40:49.62,0:40:51.22,Default,,0,0,0,,She knows what happens\Nto me in the future.
+Dialogue: 0,0:40:51.22,0:40:53.69,Default,,0,0,0,,- I'm sure she does.\N- Then take me with you.
+Dialogue: 0,0:40:53.69,0:40:56.16,Default,,0,0,0,,I need to change my destiny.
+Dialogue: 0,0:40:56.80,0:40:59.93,Default,,0,0,0,,Tell you what, why don't we work together
+Dialogue: 0,0:40:59.93,0:41:03.13,Default,,0,0,0,,to change both of our destinies?
+Dialogue: 0,0:41:04.84,0:41:07.27,Default,,0,0,0,,Step inside.
+Dialogue: 0,0:41:16.32,0:41:17.55,Default,,0,0,0,,Whoa.
+Dialogue: 0,0:41:17.55,0:41:21.35,Default,,0,0,0,,[electric crackling]
+Dialogue: 0,0:41:25.49,0:41:29.29,Default,,0,0,0,,[whirring]
+Dialogue: 0,0:41:30.83,0:41:34.66,Default,,0,0,0,,[electric crackling]
+Dialogue: 0,0:41:40.03,0:41:45.57,Default,,0,0,0,,EDIT BY\N{\fnAndalus\fs40\b1\c&HFFFFFF&\3c&H000000&\4c&HE89411&} ||Abdullah Elalmany||\N{\fs20\c&HHE73C01&\3c&HFFFFFF&}\N- {\c&H1D1DD8&}Synced and corrected by VitoSilans -\N-- {\c&HE98C13&}www.Addic7ed.com --

@@ -1,0 +1,713 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 0
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Shadow No-Outline,Arial,16,&H005EFFFD,&H005EFFFD,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0.0,0.0,2,10,10,8,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:21.95,0:00:24.87,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Elodie:{\b0}{\c} {\c&H38d832&\i1}There are many stories of chivalry{\i0}
+Dialogue: 0,0:00:24.95,0:00:28.29,Shadow No-Outline,,0,0,0,,{\c&H38d832&\i1}where the heroic knight saves the damsel in distress.{\i0}
+Dialogue: 0,0:00:29.95,0:00:32.95,Shadow No-Outline,,0,0,0,,{\c&H38d832&\i1}This is not one of them.{\i0}
+Dialogue: 0,0:01:05.66,0:01:07.04,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}King Roderick:{\b0}{\c} There it is.
+Dialogue: 0,0:01:07.83,0:01:09.29,Shadow No-Outline,,0,0,0,,Form up!
+Dialogue: 0,0:01:11.62,0:01:13.37,Shadow No-Outline,,0,0,0,,Let's kill the beast.
+Dialogue: 0,0:01:13.45,0:01:15.87,Shadow No-Outline,,0,0,0,,For glory! Hyah!
+Dialogue: 0,0:01:30.45,0:01:31.45,Shadow No-Outline,,0,0,0,,Be on guard.
+Dialogue: 0,0:02:12.33,0:02:13.33,Shadow No-Outline,,0,0,0,,Form the line!
+Dialogue: 0,0:02:44.95,0:02:45.95,Shadow No-Outline,,0,0,0,,Hold!
+Dialogue: 0,0:03:45.37,0:03:46.75,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Floria:{\b0}{\c} The last I could find.
+Dialogue: 0,0:03:47.33,0:03:49.91,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Elodie:{\b0}{\c} Did you take the tapestries into town like Father asked?
+Dialogue: 0,0:03:50.00,0:03:51.33,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Floria:{\b0}{\c} This morning.
+Dialogue: 0,0:03:51.41,0:03:54.54,Shadow No-Outline,,0,0,0,,We should take the furs too, and the drapes.
+Dialogue: 0,0:03:54.62,0:03:55.54,Shadow No-Outline,,0,0,0,,Not the drapes!
+Dialogue: 0,0:03:55.62,0:03:57.91,Shadow No-Outline,,0,0,0,,You hate that pattern in your room anyway.
+Dialogue: 0,0:03:58.00,0:03:59.62,Shadow No-Outline,,0,0,0,,They serve a purpose.
+Dialogue: 0,0:03:59.70,0:04:02.54,Shadow No-Outline,,0,0,0,,Floria, our people are freezing.
+Dialogue: 0,0:04:02.62,0:04:03.62,Shadow No-Outline,,0,0,0,,And starving.
+Dialogue: 0,0:04:10.37,0:04:11.79,Shadow No-Outline,,0,0,0,,Who'd come this far north?
+Dialogue: 0,0:04:20.00,0:04:22.12,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Floria:{\b0}{\c} Elodie, why are they leaving?
+Dialogue: 0,0:04:22.20,0:04:24.33,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Elodie:{\b0}{\c} There's nothing left for them here, Floria.
+Dialogue: 0,0:04:28.79,0:04:30.87,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}man 1:{\c} I don't have enough. Please, I'm hungry.
+Dialogue: 0,0:04:30.95,0:04:32.41,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}woman 1:{\c} For food, join the line!
+Dialogue: 0,0:04:32.50,0:04:34.54,Shadow No-Outline,,0,0,0,,- {\c&H20a5da&}man 2:{\c} Keep to one side.  - {\c&H20a5da&}man 3:{\c} I'm starving.
+Dialogue: 0,0:04:35.08,0:04:36.08,Shadow No-Outline,,0,0,0,,All right then.
+Dialogue: 0,0:04:37.33,0:04:38.70,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}man 4:{\c} Get off! It's mine!
+Dialogue: 0,0:04:38.79,0:04:41.83,Shadow No-Outline,,0,0,0,,- Hey! Give me back my food.  - Get off of me, old man!
+Dialogue: 0,0:04:41.91,0:04:43.00,Shadow No-Outline,,0,0,0,,You've had enough!
+Dialogue: 0,0:04:43.08,0:04:45.29,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}woman 2:{\c} Share this with your sister. Go on.
+Dialogue: 0,0:04:45.37,0:04:47.75,Shadow No-Outline,,0,0,0,,- Could you see who it was?  - {\c&H20a5da&}guard:{\c} A stranger, my lady.
+Dialogue: 0,0:04:47.83,0:04:50.08,Shadow No-Outline,,0,0,0,,They may take whatever wood they can carry.
+Dialogue: 0,0:04:50.16,0:04:51.62,Shadow No-Outline,,0,0,0,,- I'll see to it.  - Come on, Flor.
+Dialogue: 0,0:04:51.70,0:04:53.14,Shadow No-Outline,,0,0,0,,- {\c&H20a5da&}woman 2:{\c} Move on.  - {\c&H20a5da&}woman 3:{\c} Yes.
+Dialogue: 0,0:04:53.20,0:04:54.72,Shadow No-Outline,,0,0,0,,- {\c&H20a5da&}man 5:{\c} Get in line.  - Give it to me.
+Dialogue: 0,0:04:55.33,0:04:57.66,Shadow No-Outline,,0,0,0,,- {\c&H20a5da&}woman:{\c} I want to meet her first.  - Father?
+Dialogue: 0,0:05:01.87,0:05:03.25,Shadow No-Outline,,0,0,0,,You must be Elodie.
+Dialogue: 0,0:05:03.83,0:05:04.83,Shadow No-Outline,,0,0,0,,I am.
+Dialogue: 0,0:05:18.87,0:05:19.87,Shadow No-Outline,,0,0,0,,She will do.
+Dialogue: 0,0:05:26.20,0:05:29.54,Shadow No-Outline,,0,0,0,,- {\c&H3891e6&\b1}Red Priestess:{\b0}{\c} We await your decision.  - Thank you, Your Holiness.
+Dialogue: 0,0:05:31.33,0:05:32.33,Shadow No-Outline,,0,0,0,,Please, this way.
+Dialogue: 0,0:05:35.50,0:05:37.25,Shadow No-Outline,,0,0,0,,Father, what's happening?
+Dialogue: 0,0:05:38.33,0:05:39.33,Shadow No-Outline,,0,0,0,,Who is that?
+Dialogue: 0,0:05:42.16,0:05:43.16,Shadow No-Outline,,0,0,0,,Stepmother?
+Dialogue: 0,0:05:45.70,0:05:46.75,Shadow No-Outline,,0,0,0,,Well, what is it?
+Dialogue: 0,0:05:47.50,0:05:49.29,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Lord Bayford:{\b0}{\c} From the Queen of Aurea.
+Dialogue: 0,0:05:53.12,0:05:54.12,Shadow No-Outline,,0,0,0,,A proposal.
+Dialogue: 0,0:05:54.20,0:05:56.25,Shadow No-Outline,,0,0,0,,- Oh, my goodness.  - {\c&H3891e6&\b1}Lord Bayford:{\b0}{\c} Huh...
+Dialogue: 0,0:05:57.33,0:05:59.50,Shadow No-Outline,,0,0,0,,- I have made a match.  - May I?
+Dialogue: 0,0:05:59.58,0:06:00.79,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Lord Bayford:{\b0}{\c} Uh-huh.
+Dialogue: 0,0:06:01.95,0:06:03.04,Shadow No-Outline,,0,0,0,,He is a prince.
+Dialogue: 0,0:06:03.87,0:06:04.87,Shadow No-Outline,,0,0,0,,A prince?
+Dialogue: 0,0:06:06.00,0:06:08.87,Shadow No-Outline,,0,0,0,,I know you've always wished to travel, as did your mother.
+Dialogue: 0,0:06:09.66,0:06:12.12,Shadow No-Outline,,0,0,0,,Go. See the world.
+Dialogue: 0,0:06:12.20,0:06:16.29,Shadow No-Outline,,0,0,0,,This man, he has a fleet of ships, carriages full of gold.
+Dialogue: 0,0:06:16.87,0:06:18.66,Shadow No-Outline,,0,0,0,,That's no reason to marry.
+Dialogue: 0,0:06:19.83,0:06:21.04,Shadow No-Outline,,0,0,0,,We need this.
+Dialogue: 0,0:06:22.08,0:06:23.91,Shadow No-Outline,,0,0,0,,Our stores are empty.
+Dialogue: 0,0:06:24.00,0:06:26.04,Shadow No-Outline,,0,0,0,,We will not make it to the thaw.
+Dialogue: 0,0:06:28.20,0:06:29.58,Shadow No-Outline,,0,0,0,,Your people need you.
+Dialogue: 0,0:06:31.29,0:06:32.29,Shadow No-Outline,,0,0,0,,Hey.
+Dialogue: 0,0:06:34.91,0:06:36.20,Shadow No-Outline,,0,0,0,,This is who we are.
+Dialogue: 0,0:06:48.62,0:06:50.00,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}sailor 1:{\c} Get to the port side.
+Dialogue: 0,0:06:50.62,0:06:51.79,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}sailor 2:{\c} Port side.
+Dialogue: 0,0:06:57.16,0:06:59.62,Shadow No-Outline,,0,0,0,,Elodie, what's the matter?
+Dialogue: 0,0:07:00.54,0:07:01.54,Shadow No-Outline,,0,0,0,,Nothing.
+Dialogue: 0,0:07:04.75,0:07:06.41,Shadow No-Outline,,0,0,0,,Father says it's natural to be nervous
+Dialogue: 0,0:07:06.50,0:07:08.66,Shadow No-Outline,,0,0,0,,about meeting your new husband and his family.
+Dialogue: 0,0:07:09.58,0:07:10.79,Shadow No-Outline,,0,0,0,,They're strangers.
+Dialogue: 0,0:07:11.37,0:07:15.00,Shadow No-Outline,,0,0,0,,I've never heard of the Kingdom of Aurea until Father sprang this on me.
+Dialogue: 0,0:07:15.08,0:07:16.25,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}sailor 1:{\c} Mind the lines.
+Dialogue: 0,0:07:16.79,0:07:17.79,Shadow No-Outline,,0,0,0,,Oh!
+Dialogue: 0,0:07:18.87,0:07:22.33,Shadow No-Outline,,0,0,0,,Are you crazy? What are you two doing up there?
+Dialogue: 0,0:07:22.91,0:07:24.04,Shadow No-Outline,,0,0,0,,Come down here.
+Dialogue: 0,0:07:25.04,0:07:26.16,Shadow No-Outline,,0,0,0,,Come on.
+Dialogue: 0,0:07:30.29,0:07:32.83,Shadow No-Outline,,0,0,0,,This is how you want your prince to meet you?
+Dialogue: 0,0:07:32.91,0:07:34.95,Shadow No-Outline,,0,0,0,,Scared, cold as a corpse.
+Dialogue: 0,0:07:35.04,0:07:37.20,Shadow No-Outline,,0,0,0,,Nose all drippy and wet.
+Dialogue: 0,0:07:37.29,0:07:40.66,Shadow No-Outline,,0,0,0,,What have I been telling you this entire trip?
+Dialogue: 0,0:07:41.16,0:07:43.58,Shadow No-Outline,,0,0,0,,- {\c&H20a5da&}both:{\c} First impressions are everything.  - Hmm.
+Dialogue: 0,0:07:43.66,0:07:45.00,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}sailor 2:{\c} Come on, lift up.
+Dialogue: 0,0:07:52.91,0:07:54.12,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}sailor 3:{\c} Look at that.
+Dialogue: 0,0:08:06.66,0:08:08.75,Shadow No-Outline,,0,0,0,,I have good news, girls.
+Dialogue: 0,0:08:08.83,0:08:12.08,Shadow No-Outline,,0,0,0,,The captain informs me we approach Aurea's coastline.
+Dialogue: 0,0:08:13.29,0:08:15.08,Shadow No-Outline,,0,0,0,,It should be any time now.
+Dialogue: 0,0:08:25.04,0:08:26.29,Shadow No-Outline,,0,0,0,,Father.
+Dialogue: 0,0:08:29.08,0:08:30.87,Shadow No-Outline,,0,0,0,,What in the world?
+Dialogue: 0,0:08:33.54,0:08:36.29,Shadow No-Outline,,0,0,0,,Looks almost... almost like a...
+Dialogue: 0,0:08:36.37,0:08:37.45,Shadow No-Outline,,0,0,0,,A dragon.
+Dialogue: 0,0:09:07.12,0:09:09.29,Shadow No-Outline,,0,0,0,,It's okay.
+Dialogue: 0,0:09:34.65,0:09:37.81,Shadow No-Outline,,0,0,0,,{\an8\c&Hffffff&}Subtitle by {\c&H33ff66&\b1}Sailor420{\b0}
+Dialogue: 0,0:09:34.65,0:09:37.81,Shadow No-Outline,,0,0,0,,{\an2\c&Hffffff&}Hope you enjoy the sub/show
+Dialogue: 0,0:09:48.66,0:09:51.70,Shadow No-Outline,,0,0,0,,Oh, my heavens.
+Dialogue: 0,0:10:35.79,0:10:36.95,Shadow No-Outline,,0,0,0,,It's magnificent.
+Dialogue: 0,0:10:37.70,0:10:40.50,Shadow No-Outline,,0,0,0,,My lords, my ladies,
+Dialogue: 0,0:10:40.58,0:10:43.12,Shadow No-Outline,,0,0,0,,be welcome to the Kingdom of Aurea.
+Dialogue: 0,0:10:43.66,0:10:45.95,Shadow No-Outline,,0,0,0,,The royal family is at prayer,
+Dialogue: 0,0:10:46.04,0:10:48.20,Shadow No-Outline,,0,0,0,,but word has been sent of your arrival.
+Dialogue: 0,0:10:48.29,0:10:51.04,Shadow No-Outline,,0,0,0,,In the meantime, your rooms have been made ready.
+Dialogue: 0,0:10:51.66,0:10:53.00,Shadow No-Outline,,0,0,0,,If you will follow me.
+Dialogue: 0,0:10:55.20,0:10:56.33,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Floria:{\b0}{\c} Is this a dream?
+Dialogue: 0,0:10:57.25,0:11:00.29,Shadow No-Outline,,0,0,0,,If so, can I move in and never wake up?
+Dialogue: 0,0:11:01.91,0:11:04.91,Shadow No-Outline,,0,0,0,,If you want these people to think we belong here,
+Dialogue: 0,0:11:05.00,0:11:08.16,Shadow No-Outline,,0,0,0,,you can't act so easily impressed.
+Dialogue: 0,0:11:08.66,0:11:11.00,Shadow No-Outline,,0,0,0,,What do you think, Ellie? Hmm?
+Dialogue: 0,0:11:11.08,0:11:14.08,Shadow No-Outline,,0,0,0,,I think I had a rather limited definition of wealthy.
+Dialogue: 0,0:11:35.41,0:11:38.45,Shadow No-Outline,,0,0,0,,I pray this is to your liking, my lady.
+Dialogue: 0,0:11:39.54,0:11:41.12,Shadow No-Outline,,0,0,0,,A bath has been drawn
+Dialogue: 0,0:11:41.91,0:11:43.91,Shadow No-Outline,,0,0,0,,and supper has been carried hence.
+Dialogue: 0,0:11:45.79,0:11:48.54,Shadow No-Outline,,0,0,0,,At first light, I shall return to convey you
+Dialogue: 0,0:11:49.08,0:11:50.66,Shadow No-Outline,,0,0,0,,to meet His Royal Highness.
+Dialogue: 0,0:11:51.25,0:11:53.25,Shadow No-Outline,,0,0,0,,Henry, Prince of Aurea.
+Dialogue: 0,0:11:55.25,0:11:57.45,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Lady Bayford:{\b0}{\c} Floria, stop touching everything.
+Dialogue: 0,0:12:00.58,0:12:01.79,Shadow No-Outline,,0,0,0,,Is something wrong?
+Dialogue: 0,0:12:02.70,0:12:05.25,Shadow No-Outline,,0,0,0,,- I just hope he's kind.  - Hmm.
+Dialogue: 0,0:12:05.33,0:12:06.50,Shadow No-Outline,,0,0,0,,- And well-read.  - Yeah.
+Dialogue: 0,0:12:07.08,0:12:08.08,Shadow No-Outline,,0,0,0,,Handsome.
+Dialogue: 0,0:12:10.54,0:12:13.33,Shadow No-Outline,,0,0,0,,Let's all give Elodie some privacy.
+Dialogue: 0,0:12:13.41,0:12:16.70,Shadow No-Outline,,0,0,0,,She can use the time to settle in, as we all could.
+Dialogue: 0,0:12:16.79,0:12:18.00,Shadow No-Outline,,0,0,0,,Oh, indeed.
+Dialogue: 0,0:12:18.91,0:12:19.91,Shadow No-Outline,,0,0,0,,Come.
+Dialogue: 0,0:13:15.25,0:13:16.37,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}maid:{\c} M'lady.
+Dialogue: 0,0:13:17.29,0:13:18.66,Shadow No-Outline,,0,0,0,,Everyone's waiting.
+Dialogue: 0,0:14:31.50,0:14:32.50,Shadow No-Outline,,0,0,0,,Ellie?
+Dialogue: 0,0:14:35.16,0:14:36.62,Shadow No-Outline,,0,0,0,,I can't sleep.
+Dialogue: 0,0:14:41.87,0:14:44.37,Shadow No-Outline,,0,0,0,,I still can't believe you're going to live here from now on.
+Dialogue: 0,0:14:45.20,0:14:46.41,Shadow No-Outline,,0,0,0,,You and me both.
+Dialogue: 0,0:14:47.70,0:14:50.12,Shadow No-Outline,,0,0,0,,I keep thinking, if only Mother were alive,
+Dialogue: 0,0:14:51.20,0:14:53.58,Shadow No-Outline,,0,0,0,,I could just talk to her about all of this.
+Dialogue: 0,0:14:55.29,0:14:57.16,Shadow No-Outline,,0,0,0,,Perhaps you could talk to Stepmother.
+Dialogue: 0,0:14:58.08,0:15:01.33,Shadow No-Outline,,0,0,0,,She means well, even if she is a bit...
+Dialogue: 0,0:15:01.41,0:15:04.12,Shadow No-Outline,,0,0,0,,Exhausting?
+Dialogue: 0,0:15:06.33,0:15:09.33,Shadow No-Outline,,0,0,0,,It'll be fine. You'll see.
+Dialogue: 0,0:15:10.75,0:15:13.37,Shadow No-Outline,,0,0,0,,You're Elodie. You can do anything.
+Dialogue: 0,0:15:16.45,0:15:18.45,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Queen Isabelle:{\b0}{\c} {\c&H38d832&\i1}What is your greatest strength?{\i0}
+Dialogue: 0,0:15:20.04,0:15:22.00,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Elodie:{\b0}{\c} I always tell the truth, Your Majesty.
+Dialogue: 0,0:15:22.70,0:15:25.70,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Queen Isabelle:{\b0}{\c} Some might call that a weakness.
+Dialogue: 0,0:15:26.87,0:15:28.16,Shadow No-Outline,,0,0,0,,Do you know your heart?
+Dialogue: 0,0:15:28.91,0:15:30.83,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Elodie:{\b0}{\c} I believe I do, Your Majesty.
+Dialogue: 0,0:15:30.91,0:15:33.04,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Queen Isabelle:{\b0}{\c} And what is it telling you now?
+Dialogue: 0,0:15:33.12,0:15:37.12,Shadow No-Outline,,0,0,0,,In truth, it is beating too loudly for me to hear much of anything, Your Majesty.
+Dialogue: 0,0:15:38.16,0:15:39.62,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Queen Isabelle:{\b0}{\c} Arise, Elodie.
+Dialogue: 0,0:15:47.91,0:15:49.00,Shadow No-Outline,,0,0,0,,I'm Henry.
+Dialogue: 0,0:15:50.41,0:15:52.41,Shadow No-Outline,,0,0,0,,Very pleased to finally meet you, my lady.
+Dialogue: 0,0:15:53.41,0:15:54.41,Shadow No-Outline,,0,0,0,,We all are.
+Dialogue: 0,0:15:55.70,0:15:58.04,Shadow No-Outline,,0,0,0,,My son understates our joy.
+Dialogue: 0,0:15:58.91,0:16:00.12,Shadow No-Outline,,0,0,0,,And if I may say so,
+Dialogue: 0,0:16:00.70,0:16:03.29,Shadow No-Outline,,0,0,0,,your father has understated your beauty.
+Dialogue: 0,0:16:03.87,0:16:07.50,Shadow No-Outline,,0,0,0,,I've never known my father to understate much of anything, Your Majesty.
+Dialogue: 0,0:16:07.58,0:16:09.66,Shadow No-Outline,,0,0,0,,I see she arrives with some wit.
+Dialogue: 0,0:16:09.75,0:16:13.08,Shadow No-Outline,,0,0,0,,Should you want it or not, Your Majesty.
+Dialogue: 0,0:16:13.16,0:16:14.62,Shadow No-Outline,,0,0,0,,And you must be Floria.
+Dialogue: 0,0:16:16.41,0:16:19.66,Shadow No-Outline,,0,0,0,,It seems even a harsh clime can grow the fairest flowers.
+Dialogue: 0,0:16:19.75,0:16:21.58,Shadow No-Outline,,0,0,0,,I love your castle.
+Dialogue: 0,0:16:21.66,0:16:24.04,Shadow No-Outline,,0,0,0,,I mean, I {\c&H38d832&\i1}really{\i0}{\c} love it.
+Dialogue: 0,0:16:24.12,0:16:25.12,Shadow No-Outline,,0,0,0,,Like, a lot...
+Dialogue: 0,0:16:27.04,0:16:28.04,Shadow No-Outline,,0,0,0,,Your Majesty.
+Dialogue: 0,0:16:28.45,0:16:30.45,Shadow No-Outline,,0,0,0,,You are to make yourself at home, child.
+Dialogue: 0,0:16:30.54,0:16:35.20,Shadow No-Outline,,0,0,0,,We elders have some trivial matters like weddings to attend to.
+Dialogue: 0,0:16:35.29,0:16:36.29,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Lord Bayford:{\b0}{\c} Yes...
+Dialogue: 0,0:16:36.87,0:16:40.29,Shadow No-Outline,,0,0,0,,Your correspondence made mention of some particulars
+Dialogue: 0,0:16:40.37,0:16:42.41,Shadow No-Outline,,0,0,0,,you wish to discuss in person.
+Dialogue: 0,0:16:42.91,0:16:45.33,Shadow No-Outline,,0,0,0,,- The two of us can confer in private.  - Yes.
+Dialogue: 0,0:16:45.41,0:16:47.62,Shadow No-Outline,,0,0,0,,It's nothing to bore our young people with.
+Dialogue: 0,0:16:48.91,0:16:50.95,Shadow No-Outline,,0,0,0,,They have a far more important task at hand.
+Dialogue: 0,0:16:52.12,0:16:53.95,Shadow No-Outline,,0,0,0,,They must get to know each other.
+Dialogue: 0,0:17:07.12,0:17:09.12,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Henry:{\b0}{\c} Do you have any questions of me?
+Dialogue: 0,0:17:10.79,0:17:12.37,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Elodie:{\b0}{\c} Questions of what subject?
+Dialogue: 0,0:17:12.95,0:17:14.45,Shadow No-Outline,,0,0,0,,You may choose the subject.
+Dialogue: 0,0:17:17.33,0:17:18.70,Shadow No-Outline,,0,0,0,,What do you think about me?
+Dialogue: 0,0:17:20.20,0:17:21.20,Shadow No-Outline,,0,0,0,,Pardon?
+Dialogue: 0,0:17:22.33,0:17:25.62,Shadow No-Outline,,0,0,0,,Well, you seem disinterested at best, which is your prerogative,
+Dialogue: 0,0:17:25.70,0:17:28.41,Shadow No-Outline,,0,0,0,,but I'd like to know if the person I'm being guilted into marrying
+Dialogue: 0,0:17:28.50,0:17:29.87,Shadow No-Outline,,0,0,0,,truly likes me or not.
+Dialogue: 0,0:17:32.58,0:17:35.54,Shadow No-Outline,,0,0,0,,If my attitude offends you, I do apologize. It was not my intent.
+Dialogue: 0,0:17:38.83,0:17:43.75,Shadow No-Outline,,0,0,0,,However, I was unaware that, um, you were being guilted into anything.
+Dialogue: 0,0:17:46.04,0:17:49.91,Shadow No-Outline,,0,0,0,,The land where I come from is exactly how your mother explained.
+Dialogue: 0,0:17:51.00,0:17:53.12,Shadow No-Outline,,0,0,0,,Harsh and barren.
+Dialogue: 0,0:17:54.50,0:17:56.08,Shadow No-Outline,,0,0,0,,This union will save us.
+Dialogue: 0,0:17:56.16,0:17:57.70,Shadow No-Outline,,0,0,0,,I've made my peace with it.
+Dialogue: 0,0:17:58.58,0:18:02.00,Shadow No-Outline,,0,0,0,,My happiness is a small price to pay for the future of my people.
+Dialogue: 0,0:18:05.79,0:18:06.79,Shadow No-Outline,,0,0,0,,Is something wrong?
+Dialogue: 0,0:18:09.37,0:18:10.37,Shadow No-Outline,,0,0,0,,It's just...
+Dialogue: 0,0:18:11.87,0:18:15.75,Shadow No-Outline,,0,0,0,,In the letter you sent in advance of your arrival, you sounded different.
+Dialogue: 0,0:18:15.83,0:18:18.54,Shadow No-Outline,,0,0,0,,Different. In what way?
+Dialogue: 0,0:18:19.50,0:18:20.62,Shadow No-Outline,,0,0,0,,Far more, um...
+Dialogue: 0,0:18:22.79,0:18:23.79,Shadow No-Outline,,0,0,0,,flowery.
+Dialogue: 0,0:18:25.58,0:18:29.45,Shadow No-Outline,,0,0,0,,Maybe that's because my stepmother dictated most of it
+Dialogue: 0,0:18:29.54,0:18:32.95,Shadow No-Outline,,0,0,0,,and my sister's idea was the heart...
+Dialogue: 0,0:18:33.66,0:18:35.45,Shadow No-Outline,,0,0,0,,- The heart.  - Mmm.
+Dialogue: 0,0:18:35.54,0:18:38.04,Shadow No-Outline,,0,0,0,,I thought it was some sort of provincial insignia.
+Dialogue: 0,0:18:41.45,0:18:42.70,Shadow No-Outline,,0,0,0,,You actually drew this?
+Dialogue: 0,0:18:46.33,0:18:48.08,Shadow No-Outline,,0,0,0,,Hold on. It's a maze, isn't it?
+Dialogue: 0,0:18:48.16,0:18:50.04,Shadow No-Outline,,0,0,0,,"I hope you'll get to know my heart."
+Dialogue: 0,0:18:50.12,0:18:51.62,Shadow No-Outline,,0,0,0,,That is very clever.
+Dialogue: 0,0:18:53.58,0:18:56.12,Shadow No-Outline,,0,0,0,,I used to make them for Floria when she was little.
+Dialogue: 0,0:18:57.08,0:18:59.58,Shadow No-Outline,,0,0,0,,- May I ask you another question?  - Certainly.
+Dialogue: 0,0:19:00.45,0:19:02.33,Shadow No-Outline,,0,0,0,,Do they always follow you so closely?
+Dialogue: 0,0:19:04.62,0:19:06.20,Shadow No-Outline,,0,0,0,,This is them giving me space.
+Dialogue: 0,0:19:07.83,0:19:08.87,Shadow No-Outline,,0,0,0,,That must be tiring.
+Dialogue: 0,0:19:09.87,0:19:11.45,Shadow No-Outline,,0,0,0,,It is, actually.
+Dialogue: 0,0:19:13.91,0:19:17.54,Shadow No-Outline,,0,0,0,,I saw some horses being left unattended at the stables.
+Dialogue: 0,0:19:21.45,0:19:22.45,Shadow No-Outline,,0,0,0,,Do you ride?
+Dialogue: 0,0:19:39.58,0:19:40.58,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Elodie:{\b0}{\c} Hyah!
+Dialogue: 0,0:19:52.29,0:19:55.41,Shadow No-Outline,,0,0,0,,- Where did you learn to ride like that?  - My mother.
+Dialogue: 0,0:19:56.62,0:19:58.12,Shadow No-Outline,,0,0,0,,Which way now?
+Dialogue: 0,0:19:58.20,0:20:00.29,Shadow No-Outline,,0,0,0,,Well, depends on what you want to see.
+Dialogue: 0,0:20:01.25,0:20:02.25,Shadow No-Outline,,0,0,0,,Everything.
+Dialogue: 0,0:20:03.37,0:20:04.58,Shadow No-Outline,,0,0,0,,Very well.
+Dialogue: 0,0:20:20.37,0:20:21.75,Shadow No-Outline,,0,0,0,,What happened in there?
+Dialogue: 0,0:20:23.95,0:20:24.95,Shadow No-Outline,,0,0,0,,Speak already.
+Dialogue: 0,0:20:25.75,0:20:28.16,Shadow No-Outline,,0,0,0,,- Is the wedding still on?  - Aye.
+Dialogue: 0,0:20:28.87,0:20:31.58,Shadow No-Outline,,0,0,0,,You settled on a fair bride price?
+Dialogue: 0,0:20:31.66,0:20:34.12,Shadow No-Outline,,0,0,0,,More gold than I could ever imagine.
+Dialogue: 0,0:20:38.62,0:20:40.29,Shadow No-Outline,,0,0,0,,Then why do you look so?
+Dialogue: 0,0:20:40.37,0:20:41.95,Shadow No-Outline,,0,0,0,,No, it's nothing. I'm fine.
+Dialogue: 0,0:20:43.95,0:20:46.50,Shadow No-Outline,,0,0,0,,Tell me, you didn't say anything to embarrass us.
+Dialogue: 0,0:20:46.58,0:20:48.04,Shadow No-Outline,,0,0,0,,No, I did not.
+Dialogue: 0,0:20:48.12,0:20:51.95,Shadow No-Outline,,0,0,0,,Because it's very important that our two families get along.
+Dialogue: 0,0:20:52.04,0:20:54.25,Shadow No-Outline,,0,0,0,,Not only for Elodie's sake, but for ours.
+Dialogue: 0,0:20:54.33,0:20:56.87,Shadow No-Outline,,0,0,0,,I said, nothing! Nothing's wrong.
+Dialogue: 0,0:21:00.83,0:21:04.33,Shadow No-Outline,,0,0,0,,I saw something, high on the mountain last night.
+Dialogue: 0,0:21:04.95,0:21:05.95,Shadow No-Outline,,0,0,0,,Torches.
+Dialogue: 0,0:21:07.87,0:21:09.16,Shadow No-Outline,,0,0,0,,You saw that?
+Dialogue: 0,0:21:09.25,0:21:10.41,Shadow No-Outline,,0,0,0,,I couldn't sleep.
+Dialogue: 0,0:21:12.70,0:21:14.12,Shadow No-Outline,,0,0,0,,It was an ancient ceremony.
+Dialogue: 0,0:21:15.04,0:21:17.00,Shadow No-Outline,,0,0,0,,Or rather, one of three.
+Dialogue: 0,0:21:17.62,0:21:19.54,Shadow No-Outline,,0,0,0,,They're very significant to my family.
+Dialogue: 0,0:21:20.16,0:21:22.25,Shadow No-Outline,,0,0,0,,For our whole kingdom, really. They, um...
+Dialogue: 0,0:21:23.91,0:21:25.62,Shadow No-Outline,,0,0,0,,They honor our ancestors.
+Dialogue: 0,0:21:27.62,0:21:30.33,Shadow No-Outline,,0,0,0,,That's why my mother chose these dates for our wedding.
+Dialogue: 0,0:21:31.29,0:21:32.70,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Elodie:{\b0}{\c} It is quite beautiful.
+Dialogue: 0,0:21:33.62,0:21:34.83,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Henry:{\b0}{\c} Yes, I suppose.
+Dialogue: 0,0:21:35.91,0:21:38.41,Shadow No-Outline,,0,0,0,,I really don't have anything else to compare it to.
+Dialogue: 0,0:21:39.45,0:21:41.12,Shadow No-Outline,,0,0,0,,May I confide in you something?
+Dialogue: 0,0:21:42.08,0:21:43.08,Shadow No-Outline,,0,0,0,,Yes.
+Dialogue: 0,0:21:43.12,0:21:45.79,Shadow No-Outline,,0,0,0,,My greatest wish is to go see the world.
+Dialogue: 0,0:21:47.37,0:21:50.58,Shadow No-Outline,,0,0,0,,Really set out and see it, you know?
+Dialogue: 0,0:21:51.25,0:21:52.37,Shadow No-Outline,,0,0,0,,I do, actually.
+Dialogue: 0,0:21:53.58,0:21:54.83,Shadow No-Outline,,0,0,0,,It's my life's dream.
+Dialogue: 0,0:21:57.33,0:22:01.70,Shadow No-Outline,,0,0,0,,For as long as I can remember, I've longed to explore the distant lands.
+Dialogue: 0,0:22:02.54,0:22:04.20,Shadow No-Outline,,0,0,0,,The ones you only read about.
+Dialogue: 0,0:22:08.29,0:22:10.16,Shadow No-Outline,,0,0,0,,Perhaps, one day, we will.
+Dialogue: 0,0:22:12.20,0:22:13.29,Shadow No-Outline,,0,0,0,,Perhaps.
+Dialogue: 0,0:22:27.37,0:22:29.45,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}woman:{\c} And the orange in this area.
+Dialogue: 0,0:22:33.12,0:22:36.00,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Lady Bayford:{\b0}{\c} Everything's so beautiful, Your Majesty.
+Dialogue: 0,0:22:36.08,0:22:37.66,Shadow No-Outline,,0,0,0,,Well, I'm glad you approve.
+Dialogue: 0,0:22:38.75,0:22:40.12,Shadow No-Outline,,0,0,0,,Very elegant.
+Dialogue: 0,0:22:42.54,0:22:44.75,Shadow No-Outline,,0,0,0,,You have impeccable taste.
+Dialogue: 0,0:22:45.75,0:22:49.33,Shadow No-Outline,,0,0,0,,Everything is just so exquisite.
+Dialogue: 0,0:22:49.41,0:22:52.16,Shadow No-Outline,,0,0,0,,I'm sorry, is there something I can help you with?
+Dialogue: 0,0:22:52.83,0:22:55.75,Shadow No-Outline,,0,0,0,,I just thought we might become better acquainted,
+Dialogue: 0,0:22:56.45,0:22:58.70,Shadow No-Outline,,0,0,0,,seeing as we're about to be family.
+Dialogue: 0,0:22:58.79,0:23:02.33,Shadow No-Outline,,0,0,0,,Ah, this must be very exciting for you.
+Dialogue: 0,0:23:02.41,0:23:05.41,Shadow No-Outline,,0,0,0,,Your father was a rope maker, was he not?
+Dialogue: 0,0:23:05.50,0:23:07.20,Shadow No-Outline,,0,0,0,,The finest in the city.
+Dialogue: 0,0:23:07.29,0:23:09.95,Shadow No-Outline,,0,0,0,,And here you are. You've climbed so high.
+Dialogue: 0,0:23:11.04,0:23:14.00,Shadow No-Outline,,0,0,0,,Still, one mustn't forget one's station.
+Dialogue: 0,0:23:14.91,0:23:16.87,Shadow No-Outline,,0,0,0,,Nor place undue import
+Dialogue: 0,0:23:16.95,0:23:20.70,Shadow No-Outline,,0,0,0,,on what is ultimately a transaction born of necessity.
+Dialogue: 0,0:23:21.79,0:23:24.00,Shadow No-Outline,,0,0,0,,Uh... "Necessity"?
+Dialogue: 0,0:23:24.58,0:23:26.20,Shadow No-Outline,,0,0,0,,Well, your family needs money.
+Dialogue: 0,0:23:26.87,0:23:28.45,Shadow No-Outline,,0,0,0,,My family needs a bride.
+Dialogue: 0,0:23:29.16,0:23:31.79,Shadow No-Outline,,0,0,0,,What we don't need is more family.
+Dialogue: 0,0:23:33.29,0:23:35.58,Shadow No-Outline,,0,0,0,,I wish all the best for Henry and Eloise.
+Dialogue: 0,0:23:35.66,0:23:37.00,Shadow No-Outline,,0,0,0,,- I merely...  - Elodie.
+Dialogue: 0,0:23:37.50,0:23:38.50,Shadow No-Outline,,0,0,0,,Pardon?
+Dialogue: 0,0:23:40.29,0:23:43.41,Shadow No-Outline,,0,0,0,,My stepdaughter. Her name is Elodie.
+Dialogue: 0,0:23:44.91,0:23:46.00,Shadow No-Outline,,0,0,0,,That's what I said.
+Dialogue: 0,0:23:46.95,0:23:48.29,Shadow No-Outline,,0,0,0,,Good day, Lady Bayford.
+Dialogue: 0,0:24:05.41,0:24:06.41,Shadow No-Outline,,0,0,0,,It's perfect.
+Dialogue: 0,0:24:07.16,0:24:08.83,Shadow No-Outline,,0,0,0,,Everything in here is so perfect.
+Dialogue: 0,0:24:13.12,0:24:14.12,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Elodie:{\b0}{\c} Stepmother.
+Dialogue: 0,0:24:15.87,0:24:17.25,Shadow No-Outline,,0,0,0,,Is something the matter?
+Dialogue: 0,0:24:18.70,0:24:19.70,Shadow No-Outline,,0,0,0,,Elodie,
+Dialogue: 0,0:24:20.75,0:24:23.04,Shadow No-Outline,,0,0,0,,I know we haven't always been close,
+Dialogue: 0,0:24:23.75,0:24:25.79,Shadow No-Outline,,0,0,0,,but I need you to listen to me now.
+Dialogue: 0,0:24:26.54,0:24:29.62,Shadow No-Outline,,0,0,0,,This wedding... is a mistake.
+Dialogue: 0,0:24:29.70,0:24:30.70,Shadow No-Outline,,0,0,0,,What?
+Dialogue: 0,0:24:33.12,0:24:34.45,Shadow No-Outline,,0,0,0,,I don't understand.
+Dialogue: 0,0:24:34.54,0:24:36.95,Shadow No-Outline,,0,0,0,,These people, I don't trust them.
+Dialogue: 0,0:24:37.54,0:24:41.04,Shadow No-Outline,,0,0,0,,It's hard to explain, but a mother knows these things.
+Dialogue: 0,0:24:41.12,0:24:43.25,Shadow No-Outline,,0,0,0,,Only yesterday, you were enamored by this place.
+Dialogue: 0,0:24:43.33,0:24:44.33,Shadow No-Outline,,0,0,0,,Floria.
+Dialogue: 0,0:24:44.37,0:24:45.45,Shadow No-Outline,,0,0,0,,I was wrong.
+Dialogue: 0,0:24:46.62,0:24:50.75,Shadow No-Outline,,0,0,0,,They may be royalty, but that doesn't make them good people.
+Dialogue: 0,0:24:52.16,0:24:53.16,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Elodie:{\b0}{\c} Well...
+Dialogue: 0,0:24:54.12,0:24:57.20,Shadow No-Outline,,0,0,0,,- What does Father think?  - He refuses to talk about it.
+Dialogue: 0,0:24:57.29,0:25:01.45,Shadow No-Outline,,0,0,0,,And when I try to tell him my worries, he snaps at me.
+Dialogue: 0,0:25:01.54,0:25:04.25,Shadow No-Outline,,0,0,0,,- Because you're being unreasonable.  - That's enough, Flor.
+Dialogue: 0,0:25:04.83,0:25:10.00,Shadow No-Outline,,0,0,0,,Elodie, I swear that I only want what's best for you.
+Dialogue: 0,0:25:15.29,0:25:17.00,Shadow No-Outline,,0,0,0,,Am I interrupting something?
+Dialogue: 0,0:25:18.70,0:25:19.75,Shadow No-Outline,,0,0,0,,No.
+Dialogue: 0,0:25:20.66,0:25:21.66,Shadow No-Outline,,0,0,0,,Just...
+Dialogue: 0,0:25:23.95,0:25:25.00,Shadow No-Outline,,0,0,0,,girl talk.
+Dialogue: 0,0:25:26.16,0:25:30.41,Shadow No-Outline,,0,0,0,,Well, tomorrow's a big day, and these girls, they need their rest.
+Dialogue: 0,0:25:33.20,0:25:36.12,Shadow No-Outline,,0,0,0,,Think about what I said. There's still time.
+Dialogue: 0,0:25:36.70,0:25:37.70,Shadow No-Outline,,0,0,0,,Time for what?
+Dialogue: 0,0:25:44.62,0:25:47.04,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Lady Bayford:{\b0}{\c} I hope you know what you're doing.
+Dialogue: 0,0:25:52.50,0:25:53.91,Shadow No-Outline,,0,0,0,,Good night, my angels.
+Dialogue: 0,0:25:55.00,0:25:56.70,Shadow No-Outline,,0,0,0,,- Good night, Father.  - Good night, Father.
+Dialogue: 0,0:25:58.91,0:25:59.91,Shadow No-Outline,,0,0,0,,Good night.
+Dialogue: 0,0:27:34.20,0:27:35.20,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Floria:{\b0}{\c} Wow.
+Dialogue: 0,0:28:10.91,0:28:12.58,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}priest:{\c} You may kiss the bride.
+Dialogue: 0,0:28:29.50,0:28:33.45,Shadow No-Outline,,0,0,0,,I present my son and new daughter, Elodie, Princess of Aurea.
+Dialogue: 0,0:28:57.83,0:28:59.16,Shadow No-Outline,,0,0,0,,Goodbye, Father.
+Dialogue: 0,0:29:22.12,0:29:24.83,Shadow No-Outline,,0,0,0,,I hope I'm half as beautiful someday as you are today.
+Dialogue: 0,0:29:26.83,0:29:28.25,Shadow No-Outline,,0,0,0,,Twice as beautiful.
+Dialogue: 0,0:29:31.04,0:29:33.29,Shadow No-Outline,,0,0,0,,- I love you.  - I love you.
+Dialogue: 0,0:29:49.20,0:29:53.75,Shadow No-Outline,,0,0,0,,Hey! Hey, hey!
+Dialogue: 0,0:29:57.87,0:29:59.12,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Elodie:{\b0}{\c} Where are we going?
+Dialogue: 0,0:29:59.20,0:30:02.41,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Henry:{\b0}{\c} Remember I told you about those ancient ceremonies up on the mountain?
+Dialogue: 0,0:30:02.50,0:30:03.33,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Elodie:{\b0}{\c} Yes.
+Dialogue: 0,0:30:03.41,0:30:06.33,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Henry:{\b0}{\c} We're going to pay homage to my ancestors.
+Dialogue: 0,0:31:00.00,0:31:01.66,Shadow No-Outline,,0,0,0,,Welcome, Princess.
+Dialogue: 0,0:31:02.54,0:31:06.08,Shadow No-Outline,,0,0,0,,For generations, it has been our task, our duty,
+Dialogue: 0,0:31:06.95,0:31:08.50,Shadow No-Outline,,0,0,0,,to protect our people.
+Dialogue: 0,0:31:09.75,0:31:13.08,Shadow No-Outline,,0,0,0,,The price is dear, but so too the reward.
+Dialogue: 0,0:31:14.29,0:31:15.45,Shadow No-Outline,,0,0,0,,So, tonight,
+Dialogue: 0,0:31:16.83,0:31:22.04,Shadow No-Outline,,0,0,0,,you join a long line of women who have helped to build this kingdom.
+Dialogue: 0,0:31:26.00,0:31:28.95,Shadow No-Outline,,0,0,0,,When our ancestors first lay claim to this island,
+Dialogue: 0,0:31:29.75,0:31:32.20,Shadow No-Outline,,0,0,0,,they found they were not its sole inhabitants.
+Dialogue: 0,0:31:33.16,0:31:35.45,Shadow No-Outline,,0,0,0,,A creature dwelt here first.
+Dialogue: 0,0:31:36.41,0:31:38.08,Shadow No-Outline,,0,0,0,,The last of its kind.
+Dialogue: 0,0:31:39.20,0:31:41.20,Shadow No-Outline,,0,0,0,,With savage bloodlust,
+Dialogue: 0,0:31:41.29,0:31:44.75,Shadow No-Outline,,0,0,0,,the beast left its lair and set upon the village.
+Dialogue: 0,0:31:46.04,0:31:50.16,Shadow No-Outline,,0,0,0,,So the king gathered his soldiers to avenge his people.
+Dialogue: 0,0:31:50.91,0:31:53.37,Shadow No-Outline,,0,0,0,,But their steel was no match for the monster,
+Dialogue: 0,0:31:54.33,0:31:56.79,Shadow No-Outline,,0,0,0,,and each man met his end.
+Dialogue: 0,0:31:57.87,0:32:00.04,Shadow No-Outline,,0,0,0,,Each save one.
+Dialogue: 0,0:32:00.95,0:32:05.50,Shadow No-Outline,,0,0,0,,For the king, the beast had a far worse fate in store.
+Dialogue: 0,0:32:06.33,0:32:10.16,Shadow No-Outline,,0,0,0,,Give up his three beloved daughters and the island could be shared.
+Dialogue: 0,0:32:11.20,0:32:12.62,Shadow No-Outline,,0,0,0,,A cruel torture.
+Dialogue: 0,0:32:13.58,0:32:14.79,Shadow No-Outline,,0,0,0,,He adored his daughters,
+Dialogue: 0,0:32:16.37,0:32:19.04,Shadow No-Outline,,0,0,0,,but his duty to his subjects was stronger.
+Dialogue: 0,0:32:20.08,0:32:22.50,Shadow No-Outline,,0,0,0,,And so, a pact was made.
+Dialogue: 0,0:32:22.58,0:32:25.95,Shadow No-Outline,,0,0,0,,The three princesses met their end in the belly of the beast,
+Dialogue: 0,0:32:26.04,0:32:27.62,Shadow No-Outline,,0,0,0,,and a kingdom was born.
+Dialogue: 0,0:32:35.33,0:32:38.91,Shadow No-Outline,,0,0,0,,It is this sacrifice we commemorate every generation.
+Dialogue: 0,0:32:39.00,0:32:41.41,Shadow No-Outline,,0,0,0,,A tradition going back centuries.
+Dialogue: 0,0:32:52.66,0:32:54.08,Shadow No-Outline,,0,0,0,,Your hand, child.
+Dialogue: 0,0:33:02.12,0:33:07.70,Shadow No-Outline,,0,0,0,,A legacy of honor and duty you now inherit, Princess Elodie of Aurea.
+Dialogue: 0,0:33:20.37,0:33:24.45,Shadow No-Outline,,0,0,0,,Let our two lines mingle and fast become one.
+Dialogue: 0,0:33:25.91,0:33:28.37,Shadow No-Outline,,0,0,0,,She is now of royal blood.
+Dialogue: 0,0:33:40.45,0:33:43.58,Shadow No-Outline,,0,0,0,,To ensure that our kingdom thrives forevermore,
+Dialogue: 0,0:33:44.25,0:33:45.79,Shadow No-Outline,,0,0,0,,pay your due to the realm.
+Dialogue: 0,0:33:48.29,0:33:50.20,Shadow No-Outline,,0,0,0,,Toss the coin into the chasm.
+Dialogue: 0,0:34:02.87,0:34:05.04,Shadow No-Outline,,0,0,0,,The ceremony is now complete.
+Dialogue: 0,0:34:07.25,0:34:08.91,Shadow No-Outline,,0,0,0,,You may make your return.
+Dialogue: 0,0:34:12.70,0:34:14.58,Shadow No-Outline,,0,0,0,,I'm supposed to carry you back.
+Dialogue: 0,0:34:14.66,0:34:16.66,Shadow No-Outline,,0,0,0,,I'm fine with walking, really.
+Dialogue: 0,0:34:22.00,0:34:23.87,Shadow No-Outline,,0,0,0,,Floria would love this part.
+Dialogue: 0,0:34:25.87,0:34:26.91,Shadow No-Outline,,0,0,0,,Close your eyes.
+Dialogue: 0,0:34:28.08,0:34:29.12,Shadow No-Outline,,0,0,0,,I've got you.
+Dialogue: 0,0:34:53.62,0:34:54.62,Shadow No-Outline,,0,0,0,,I'm sorry.
+Dialogue: 0,0:35:01.45,0:35:02.79,Shadow No-Outline,,0,0,0,,Elodie screams: No!
+Dialogue: 0,0:36:03.04,0:36:04.62,Shadow No-Outline,,0,0,0,,Help me!
+Dialogue: 0,0:36:20.66,0:36:22.29,Shadow No-Outline,,0,0,0,,Help!
+Dialogue: 0,0:36:23.95,0:36:25.50,Shadow No-Outline,,0,0,0,,Is anyone there?!
+Dialogue: 0,0:37:30.66,0:37:32.00,Shadow No-Outline,,0,0,0,,That's not mine.
+Dialogue: 0,0:37:34.00,0:37:35.66,Shadow No-Outline,,0,0,0,,I am the sacrifice.
+Dialogue: 0,0:37:37.00,0:37:38.58,Shadow No-Outline,,0,0,0,,I am the sacrifice?
+Dialogue: 0,0:39:13.41,0:39:14.70,Shadow No-Outline,,0,0,0,,You poor thing.
+Dialogue: 0,0:39:15.58,0:39:17.04,Shadow No-Outline,,0,0,0,,What happened to you?
+Dialogue: 0,0:40:25.70,0:40:27.50,Shadow No-Outline,,0,0,0,,Give me strength, Mother.
+Dialogue: 0,0:40:28.37,0:40:29.70,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}dragon:{\c} Mother?
+Dialogue: 0,0:41:25.75,0:41:29.12,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}dragon:{\c} Your name, little bird?
+Dialogue: 0,0:41:31.29,0:41:33.33,Shadow No-Outline,,0,0,0,,Speak your name.
+Dialogue: 0,0:41:35.12,0:41:36.20,Shadow No-Outline,,0,0,0,,Elodie.
+Dialogue: 0,0:41:36.83,0:41:40.33,Shadow No-Outline,,0,0,0,,El-o-die.
+Dialogue: 0,0:41:41.79,0:41:43.37,Shadow No-Outline,,0,0,0,,Exciting.
+Dialogue: 0,0:41:45.25,0:41:46.41,Shadow No-Outline,,0,0,0,,What do you want?
+Dialogue: 0,0:41:49.91,0:41:54.33,Shadow No-Outline,,0,0,0,,I want... what is promised.
+Dialogue: 0,0:41:57.00,0:41:58.87,Shadow No-Outline,,0,0,0,,What is owed.
+Dialogue: 0,0:42:01.16,0:42:07.04,Shadow No-Outline,,0,0,0,,Every generation, your kind must pay.
+Dialogue: 0,0:42:10.50,0:42:11.75,Shadow No-Outline,,0,0,0,,My kind?
+Dialogue: 0,0:42:11.83,0:42:15.16,Shadow No-Outline,,0,0,0,,The scent of royalty betrays you.
+Dialogue: 0,0:42:16.20,0:42:18.25,Shadow No-Outline,,0,0,0,,It's in your blood.
+Dialogue: 0,0:42:33.12,0:42:38.62,Shadow No-Outline,,0,0,0,,Now, my favorite part.
+Dialogue: 0,0:42:41.62,0:42:44.37,Shadow No-Outline,,0,0,0,,Run.
+Dialogue: 0,0:44:10.83,0:44:12.87,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}dragon:{\c} Did I hurt you?
+Dialogue: 0,0:44:17.95,0:44:19.45,Shadow No-Outline,,0,0,0,,Quiet now?
+Dialogue: 0,0:44:20.75,0:44:23.45,Shadow No-Outline,,0,0,0,,A clever one.
+Dialogue: 0,0:44:24.62,0:44:27.54,Shadow No-Outline,,0,0,0,,The last one was over so quick.
+Dialogue: 0,0:45:02.87,0:45:04.04,Shadow No-Outline,,0,0,0,,No.
+Dialogue: 0,0:45:29.08,0:45:30.95,Shadow No-Outline,,0,0,0,,Mother wanted you to fight.
+Dialogue: 0,0:47:47.08,0:47:49.87,Shadow No-Outline,,0,0,0,,No. No.
+Dialogue: 0,0:49:01.50,0:49:03.04,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Lord Bayford:{\b0}{\c} {\c&H38d832&\i1}He is a prince.{\i0}
+Dialogue: 0,0:49:04.79,0:49:06.95,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Queen Isabelle:{\b0}{\c} {\c&H38d832&\i1}They must get to know each other.{\i0}
+Dialogue: 0,0:49:10.37,0:49:12.79,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Henry:{\b0}{\c} {\c&H38d832&\i1}My greatest wish is to go see the world.{\i0}
+Dialogue: 0,0:49:14.20,0:49:15.79,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Elodie:{\b0}{\c} {\c&H38d832&\i1}Perhaps, one day we will.{\i0}
+Dialogue: 0,0:50:18.04,0:50:19.04,Shadow No-Outline,,0,0,0,,One for the dress.
+Dialogue: 0,0:51:03.45,0:51:04.50,Shadow No-Outline,,0,0,0,,Don't worry.
+Dialogue: 0,0:51:05.95,0:51:07.29,Shadow No-Outline,,0,0,0,,I won't hurt you.
+Dialogue: 0,0:53:29.54,0:53:32.45,Shadow No-Outline,,0,0,0,,Almost caught you, little bird.
+Dialogue: 0,0:53:36.83,0:53:41.66,Shadow No-Outline,,0,0,0,,You hide now, like all the others.
+Dialogue: 0,0:53:50.45,0:53:52.83,Shadow No-Outline,,0,0,0,,It makes no difference.
+Dialogue: 0,0:53:54.75,0:53:59.29,Shadow No-Outline,,0,0,0,,This story always ends the same.
+Dialogue: 0,0:54:33.12,0:54:34.12,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Elodie:{\b0}{\c} V.
+Dialogue: 0,0:54:35.83,0:54:37.20,Shadow No-Outline,,0,0,0,,Victoria.
+Dialogue: 0,0:54:40.79,0:54:41.79,Shadow No-Outline,,0,0,0,,Beatrice.
+Dialogue: 0,0:54:42.83,0:54:43.83,Shadow No-Outline,,0,0,0,,Artemis.
+Dialogue: 0,0:54:44.66,0:54:45.66,Shadow No-Outline,,0,0,0,,Genevive.
+Dialogue: 0,0:54:46.62,0:54:47.62,Shadow No-Outline,,0,0,0,,Fatima.
+Dialogue: 0,0:54:48.58,0:54:49.70,Shadow No-Outline,,0,0,0,,Carlotta.
+Dialogue: 0,0:54:53.25,0:54:54.41,Shadow No-Outline,,0,0,0,,How many?
+Dialogue: 0,0:54:59.58,0:55:01.12,Shadow No-Outline,,0,0,0,,Did anyone make it out?
+Dialogue: 0,0:56:01.62,0:56:03.62,Shadow No-Outline,,0,0,0,,Please, don't.
+Dialogue: 0,0:56:04.45,0:56:05.58,Shadow No-Outline,,0,0,0,,Somebody...
+Dialogue: 0,0:56:47.16,0:56:48.16,Shadow No-Outline,,0,0,0,,It's a lie.
+Dialogue: 0,0:57:02.91,0:57:04.12,Shadow No-Outline,,0,0,0,,Get off.
+Dialogue: 0,0:57:50.66,0:57:52.12,Shadow No-Outline,,0,0,0,,I'm deeply sorry...
+Dialogue: 0,0:57:54.04,0:57:55.83,Shadow No-Outline,,0,0,0,,for underestimating you.
+Dialogue: 0,0:58:00.45,0:58:01.62,Shadow No-Outline,,0,0,0,,A map.
+Dialogue: 0,0:58:04.08,0:58:06.54,Shadow No-Outline,,0,0,0,,Now, where am I?
+Dialogue: 0,0:58:09.12,0:58:10.12,Shadow No-Outline,,0,0,0,,A tree.
+Dialogue: 0,0:58:11.87,0:58:13.08,Shadow No-Outline,,0,0,0,,{\c&H38d832&\i1}The entrance cave.{\i0}
+Dialogue: 0,0:58:16.25,0:58:20.66,Shadow No-Outline,,0,0,0,,Following down into the bird cave.
+Dialogue: 0,0:58:24.41,0:58:25.79,Shadow No-Outline,,0,0,0,,Through the twisted tunnel...
+Dialogue: 0,0:58:28.12,0:58:29.62,Shadow No-Outline,,0,0,0,,reaching water.
+Dialogue: 0,0:58:31.12,0:58:33.20,Shadow No-Outline,,0,0,0,,{\c&H38d832&\i1}The glowworm cave.{\i0}
+Dialogue: 0,0:58:34.54,0:58:35.87,Shadow No-Outline,,0,0,0,,Keep following down.
+Dialogue: 0,0:58:38.04,0:58:39.41,Shadow No-Outline,,0,0,0,,I am here.
+Dialogue: 0,0:58:42.12,0:58:43.41,Shadow No-Outline,,0,0,0,,How do I escape?
+Dialogue: 0,0:58:47.79,0:58:48.79,Shadow No-Outline,,0,0,0,,Is this it?
+Dialogue: 0,0:58:50.08,0:58:51.95,Shadow No-Outline,,0,0,0,,Did a princess make it out?
+Dialogue: 0,0:58:56.83,0:58:59.66,Shadow No-Outline,,0,0,0,,Three ways. Take the middle fork.
+Dialogue: 0,0:59:00.75,0:59:01.79,Shadow No-Outline,,0,0,0,,Music note.
+Dialogue: 0,0:59:03.16,0:59:04.29,Shadow No-Outline,,0,0,0,,Crystals.
+Dialogue: 0,0:59:06.66,0:59:07.79,Shadow No-Outline,,0,0,0,,Go on.
+Dialogue: 0,0:59:08.62,0:59:12.04,Shadow No-Outline,,0,0,0,,And then... I am free.
+Dialogue: 0,0:59:27.25,0:59:28.54,Shadow No-Outline,,0,0,0,,The middle fork.
+Dialogue: 0,1:00:05.37,1:00:06.37,Shadow No-Outline,,0,0,0,,Music.
+Dialogue: 0,1:00:36.41,1:00:37.58,Shadow No-Outline,,0,0,0,,Crystals.
+Dialogue: 0,1:00:51.37,1:00:52.45,Shadow No-Outline,,0,0,0,,This is it.
+Dialogue: 0,1:01:06.16,1:01:07.29,Shadow No-Outline,,0,0,0,,Wish me luck.
+Dialogue: 0,1:01:19.75,1:01:21.04,Shadow No-Outline,,0,0,0,,You made it out.
+Dialogue: 0,1:02:47.37,1:02:48.58,Shadow No-Outline,,0,0,0,,No!
+Dialogue: 0,1:03:01.70,1:03:04.54,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}dragon:{\c} Elodie.
+Dialogue: 0,1:03:06.58,1:03:09.16,Shadow No-Outline,,0,0,0,,Fly, little bird.
+Dialogue: 0,1:05:08.95,1:05:09.95,Shadow No-Outline,,0,0,0,,Hello.
+Dialogue: 0,1:05:12.00,1:05:13.12,Shadow No-Outline,,0,0,0,,Hello!
+Dialogue: 0,1:05:15.41,1:05:18.54,Shadow No-Outline,,0,0,0,,I'm here! Help!
+Dialogue: 0,1:05:20.12,1:05:21.79,Shadow No-Outline,,0,0,0,,Help!
+Dialogue: 0,1:05:22.50,1:05:24.50,Shadow No-Outline,,0,0,0,,Hello!
+Dialogue: 0,1:05:32.16,1:05:35.91,Shadow No-Outline,,0,0,0,,There is no way out, Princess.
+Dialogue: 0,1:05:37.20,1:05:39.58,Shadow No-Outline,,0,0,0,,Not for any of you.
+Dialogue: 0,1:05:42.16,1:05:43.87,Shadow No-Outline,,0,0,0,,Three were taken.
+Dialogue: 0,1:05:44.62,1:05:47.37,Shadow No-Outline,,0,0,0,,Three must be given.
+Dialogue: 0,1:05:53.33,1:05:54.70,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}man:{\c} Elodie!
+Dialogue: 0,1:05:56.91,1:05:58.16,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}dragon:{\c} What's this?
+Dialogue: 0,1:06:09.16,1:06:10.87,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}man:{\c} Elodie!
+Dialogue: 0,1:06:22.79,1:06:24.16,Shadow No-Outline,,0,0,0,,Elodie!
+Dialogue: 0,1:06:31.08,1:06:32.08,Shadow No-Outline,,0,0,0,,Move on.
+Dialogue: 0,1:06:35.04,1:06:37.91,Shadow No-Outline,,0,0,0,,I've done what you paid for, milord. I'll just wait up top.
+Dialogue: 0,1:06:38.00,1:06:39.66,Shadow No-Outline,,0,0,0,,You'll do no such thing.
+Dialogue: 0,1:06:41.04,1:06:42.91,Shadow No-Outline,,0,0,0,,I hired you to guide us to her.
+Dialogue: 0,1:06:44.04,1:06:47.33,Shadow No-Outline,,0,0,0,,No one leaves here without my daughter.
+Dialogue: 0,1:06:59.87,1:07:01.66,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}man 2:{\c} Elodie!
+Dialogue: 0,1:07:03.41,1:07:04.87,Shadow No-Outline,,0,0,0,,Elodie!
+Dialogue: 0,1:07:41.25,1:07:43.70,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Queen Isabelle:{\b0}{\c} {\c&H38d832&\i1}A creature dwelt here first.{\i0}
+Dialogue: 0,1:07:45.87,1:07:47.50,Shadow No-Outline,,0,0,0,,{\c&H38d832&\i1}The last of its kind.{\i0}
+Dialogue: 0,1:07:49.70,1:07:50.95,Shadow No-Outline,,0,0,0,,It's a lie.
+Dialogue: 0,1:07:55.66,1:07:56.79,Shadow No-Outline,,0,0,0,,Three taken.
+Dialogue: 0,1:08:15.75,1:08:17.08,Shadow No-Outline,,0,0,0,,Slay the vile young.
+Dialogue: 0,1:08:35.33,1:08:36.62,Shadow No-Outline,,0,0,0,,Form the line!
+Dialogue: 0,1:08:52.79,1:08:55.04,Shadow No-Outline,,0,0,0,,Please, spare me.
+Dialogue: 0,1:08:56.45,1:08:57.87,Shadow No-Outline,,0,0,0,,Show mercy.
+Dialogue: 0,1:09:00.41,1:09:02.08,Shadow No-Outline,,0,0,0,,I will give you anything.
+Dialogue: 0,1:09:06.70,1:09:10.29,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}dragon:{\c} Death is not enough for you.
+Dialogue: 0,1:09:10.37,1:09:13.12,Shadow No-Outline,,0,0,0,,You will know my pain.
+Dialogue: 0,1:09:18.04,1:09:19.62,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}man 1:{\c} Elodie!
+Dialogue: 0,1:09:23.66,1:09:25.00,Shadow No-Outline,,0,0,0,,Elodie!
+Dialogue: 0,1:09:38.37,1:09:40.20,Shadow No-Outline,,0,0,0,,Elodie!
+Dialogue: 0,1:09:44.33,1:09:45.91,Shadow No-Outline,,0,0,0,,Elodie!
+Dialogue: 0,1:09:46.00,1:09:48.91,Shadow No-Outline,,0,0,0,,Be quiet. She can hear you.
+Dialogue: 0,1:09:50.62,1:09:54.00,Shadow No-Outline,,0,0,0,,I warned you. It's too late. The beast lurks in its lair.
+Dialogue: 0,1:09:54.75,1:09:58.33,Shadow No-Outline,,0,0,0,,- It's surely taken her there to devour...  - This lair. Where is it?
+Dialogue: 0,1:09:58.41,1:10:01.04,Shadow No-Outline,,0,0,0,,Sir, your daughter's been down here nigh on too long.
+Dialogue: 0,1:10:01.66,1:10:03.20,Shadow No-Outline,,0,0,0,,She's almost certainly been killed.
+Dialogue: 0,1:10:04.54,1:10:05.91,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}man 2:{\c} Elodie!
+Dialogue: 0,1:10:08.54,1:10:11.04,Shadow No-Outline,,0,0,0,,I'm told some have tried to hunt the beast.
+Dialogue: 0,1:10:12.50,1:10:13.50,Shadow No-Outline,,0,0,0,,For its blood.
+Dialogue: 0,1:10:14.66,1:10:15.79,Shadow No-Outline,,0,0,0,,Nonsense.
+Dialogue: 0,1:11:18.20,1:11:20.95,Shadow No-Outline,,0,0,0,,Why are you here?
+Dialogue: 0,1:11:21.70,1:11:23.75,Shadow No-Outline,,0,0,0,,I'm here for my daughter.
+Dialogue: 0,1:11:25.20,1:11:26.12,Shadow No-Outline,,0,0,0,,Father.
+Dialogue: 0,1:12:06.45,1:12:08.75,Shadow No-Outline,,0,0,0,,Father.
+Dialogue: 0,1:12:09.75,1:12:10.75,Shadow No-Outline,,0,0,0,,Please.
+Dialogue: 0,1:12:12.00,1:12:13.25,Shadow No-Outline,,0,0,0,,I beg of you.
+Dialogue: 0,1:12:23.20,1:12:27.50,Shadow No-Outline,,0,0,0,,It's not my mercy that you should seek.
+Dialogue: 0,1:12:28.70,1:12:30.25,Shadow No-Outline,,0,0,0,,Call her.
+Dialogue: 0,1:12:31.20,1:12:32.29,Shadow No-Outline,,0,0,0,,She's alive?
+Dialogue: 0,1:12:33.20,1:12:34.75,Shadow No-Outline,,0,0,0,,Elodie's still alive?
+Dialogue: 0,1:12:35.54,1:12:36.95,Shadow No-Outline,,0,0,0,,I smell her.
+Dialogue: 0,1:12:38.79,1:12:40.04,Shadow No-Outline,,0,0,0,,Hiding.
+Dialogue: 0,1:12:41.50,1:12:42.91,Shadow No-Outline,,0,0,0,,Watching.
+Dialogue: 0,1:12:52.20,1:12:54.08,Shadow No-Outline,,0,0,0,,Call her.
+Dialogue: 0,1:12:55.08,1:12:56.08,Shadow No-Outline,,0,0,0,,No.
+Dialogue: 0,1:12:57.70,1:12:59.20,Shadow No-Outline,,0,0,0,,Call her.
+Dialogue: 0,1:13:04.45,1:13:05.45,Shadow No-Outline,,0,0,0,,Elodie.
+Dialogue: 0,1:13:07.91,1:13:08.91,Shadow No-Outline,,0,0,0,,Can you hear me?
+Dialogue: 0,1:13:14.16,1:13:19.04,Shadow No-Outline,,0,0,0,,I have... I have made a horrible, horrible mistake.
+Dialogue: 0,1:13:20.87,1:13:23.91,Shadow No-Outline,,0,0,0,,To sacrifice the one thing I love most.
+Dialogue: 0,1:13:24.79,1:13:27.12,Shadow No-Outline,,0,0,0,,To trade your life
+Dialogue: 0,1:13:28.66,1:13:30.45,Shadow No-Outline,,0,0,0,,for the good of my people.
+Dialogue: 0,1:13:32.12,1:13:34.41,Shadow No-Outline,,0,0,0,,I thought that I could take the gold.
+Dialogue: 0,1:13:37.08,1:13:38.75,Shadow No-Outline,,0,0,0,,That I could live with myself.
+Dialogue: 0,1:13:40.45,1:13:41.45,Shadow No-Outline,,0,0,0,,My choice.
+Dialogue: 0,1:13:45.33,1:13:46.41,Shadow No-Outline,,0,0,0,,But I can't.
+Dialogue: 0,1:13:48.62,1:13:49.62,Shadow No-Outline,,0,0,0,,I can't.
+Dialogue: 0,1:13:57.79,1:14:00.04,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}dragon:{\c} Tell her to come to you.
+Dialogue: 0,1:14:05.58,1:14:07.75,Shadow No-Outline,,0,0,0,,Last chance.
+Dialogue: 0,1:14:11.91,1:14:15.25,Shadow No-Outline,,0,0,0,,Elodie. Hear me.
+Dialogue: 0,1:14:16.95,1:14:20.20,Shadow No-Outline,,0,0,0,,I am your father. You will obey me.
+Dialogue: 0,1:14:21.87,1:14:23.16,Shadow No-Outline,,0,0,0,,I order you.
+Dialogue: 0,1:14:24.25,1:14:26.08,Shadow No-Outline,,0,0,0,,Do not come out!
+Dialogue: 0,1:14:29.70,1:14:30.54,Shadow No-Outline,,0,0,0,,No.
+Dialogue: 0,1:14:36.79,1:14:37.79,Shadow No-Outline,,0,0,0,,No!
+Dialogue: 0,1:15:32.62,1:15:33.79,Shadow No-Outline,,0,0,0,,Ellie.
+Dialogue: 0,1:15:39.79,1:15:40.95,Shadow No-Outline,,0,0,0,,Use the ropes.
+Dialogue: 0,1:15:41.04,1:15:42.70,Shadow No-Outline,,0,0,0,,Your stepmother and Floria,
+Dialogue: 0,1:15:43.50,1:15:46.62,Shadow No-Outline,,0,0,0,,they wait for you at the ship.
+Dialogue: 0,1:15:49.91,1:15:51.33,Shadow No-Outline,,0,0,0,,Forgive me.
+Dialogue: 0,1:17:44.54,1:17:46.00,Shadow No-Outline,,0,0,0,,Go! Go! Go!
+Dialogue: 0,1:18:04.75,1:18:05.95,Shadow No-Outline,,0,0,0,,Go.
+Dialogue: 0,1:18:42.54,1:18:46.04,Shadow No-Outline,,0,0,0,,That damn girl. I knew she was trouble.
+Dialogue: 0,1:18:47.87,1:18:49.62,Shadow No-Outline,,0,0,0,,- Where are you going?  - To fix this.
+Dialogue: 0,1:19:23.66,1:19:25.95,Shadow No-Outline,,0,0,0,,- {\c&H20a5da&}guard 1:{\c} Stop.  - {\c&H20a5da&}guard 2:{\c} Stand back.
+Dialogue: 0,1:19:34.45,1:19:35.45,Shadow No-Outline,,0,0,0,,Elodie.
+Dialogue: 0,1:19:38.54,1:19:39.54,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}soldier:{\c} Open up!
+Dialogue: 0,1:19:39.58,1:19:41.33,Shadow No-Outline,,0,0,0,,Get out of the way!
+Dialogue: 0,1:19:43.95,1:19:45.00,Shadow No-Outline,,0,0,0,,Get out!
+Dialogue: 0,1:19:51.04,1:19:51.95,Shadow No-Outline,,0,0,0,,Seize her.
+Dialogue: 0,1:19:52.04,1:19:53.29,Shadow No-Outline,,0,0,0,,You can't!
+Dialogue: 0,1:19:53.37,1:19:55.16,Shadow No-Outline,,0,0,0,,- No! She's just a child!  - {\c&H3891e6&\b1}Floria:{\b0}{\c} No!
+Dialogue: 0,1:19:55.25,1:19:56.79,Shadow No-Outline,,0,0,0,,You promised us a daughter.
+Dialogue: 0,1:19:56.87,1:19:59.08,Shadow No-Outline,,0,0,0,,- Stepmother!  - No!
+Dialogue: 0,1:19:59.16,1:20:00.58,Shadow No-Outline,,0,0,0,,Floria!
+Dialogue: 0,1:20:56.20,1:20:57.20,Shadow No-Outline,,0,0,0,,Elodie.
+Dialogue: 0,1:21:02.08,1:21:03.08,Shadow No-Outline,,0,0,0,,Stepmother.
+Dialogue: 0,1:21:06.66,1:21:08.29,Shadow No-Outline,,0,0,0,,- Elodie.  - Stepmother.
+Dialogue: 0,1:21:08.37,1:21:09.75,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Lady Bayford:{\b0}{\c} Oh!
+Dialogue: 0,1:21:09.83,1:21:11.00,Shadow No-Outline,,0,0,0,,Thank God.
+Dialogue: 0,1:21:11.08,1:21:12.54,Shadow No-Outline,,0,0,0,,Are you all right?
+Dialogue: 0,1:21:12.62,1:21:13.62,Shadow No-Outline,,0,0,0,,I can manage.
+Dialogue: 0,1:21:15.08,1:21:15.95,Shadow No-Outline,,0,0,0,,Where's Floria?
+Dialogue: 0,1:21:16.04,1:21:18.87,Shadow No-Outline,,0,0,0,,They took her to the caves in your place.
+Dialogue: 0,1:21:18.95,1:21:21.00,Shadow No-Outline,,0,0,0,,I tried to stop them from taking your sister.
+Dialogue: 0,1:21:21.08,1:21:22.29,Shadow No-Outline,,0,0,0,,I have to save her.
+Dialogue: 0,1:21:22.37,1:21:24.87,Shadow No-Outline,,0,0,0,,No, I'll go. I can find her.
+Dialogue: 0,1:21:24.95,1:21:26.08,Shadow No-Outline,,0,0,0,,It may be too late.
+Dialogue: 0,1:21:27.04,1:21:28.04,Shadow No-Outline,,0,0,0,,No.
+Dialogue: 0,1:21:28.45,1:21:30.16,Shadow No-Outline,,0,0,0,,Not if I can help it.
+Dialogue: 0,1:21:31.66,1:21:32.66,Shadow No-Outline,,0,0,0,,Your father...
+Dialogue: 0,1:21:36.54,1:21:37.79,Shadow No-Outline,,0,0,0,,Go.
+Dialogue: 0,1:21:44.16,1:21:47.33,Shadow No-Outline,,0,0,0,,Please. Let me go!
+Dialogue: 0,1:21:47.41,1:21:49.54,Shadow No-Outline,,0,0,0,,Please let me go.
+Dialogue: 0,1:21:51.41,1:21:52.25,Shadow No-Outline,,0,0,0,,No, don't do this.
+Dialogue: 0,1:21:52.33,1:21:54.62,Shadow No-Outline,,0,0,0,,Mother, enough! She's too young.
+Dialogue: 0,1:21:54.70,1:21:58.83,Shadow No-Outline,,0,0,0,,A prince protects his kingdom, without hesitation or complaint.
+Dialogue: 0,1:21:58.91,1:21:59.95,Shadow No-Outline,,0,0,0,,Give me your hand.
+Dialogue: 0,1:22:00.04,1:22:03.08,Shadow No-Outline,,0,0,0,,I cannot do this. She's just a child.
+Dialogue: 0,1:22:03.66,1:22:05.79,Shadow No-Outline,,0,0,0,,You're weak.
+Dialogue: 0,1:22:05.87,1:22:09.41,Shadow No-Outline,,0,0,0,,No! Please don't do this to me!
+Dialogue: 0,1:22:14.83,1:22:16.62,Shadow No-Outline,,0,0,0,,Get off of me!
+Dialogue: 0,1:22:17.20,1:22:18.91,Shadow No-Outline,,0,0,0,,Let go! Off of me!
+Dialogue: 0,1:22:19.00,1:22:20.16,Shadow No-Outline,,0,0,0,,Throw her in.
+Dialogue: 0,1:22:44.95,1:22:46.16,Shadow No-Outline,,0,0,0,,Floria!
+Dialogue: 0,1:22:46.83,1:22:48.54,Shadow No-Outline,,0,0,0,,Floria!
+Dialogue: 0,1:22:50.16,1:22:51.91,Shadow No-Outline,,0,0,0,,Floria!
+Dialogue: 0,1:23:43.25,1:23:44.79,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Elodie:{\b0}{\c} I'm coming for you, Flor.
+Dialogue: 0,1:24:46.00,1:24:47.70,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}dragon:{\c} My little ones...
+Dialogue: 0,1:24:50.37,1:24:52.33,Shadow No-Outline,,0,0,0,,They did not let you live.
+Dialogue: 0,1:24:54.66,1:24:57.95,Shadow No-Outline,,0,0,0,,Nor shall I let Elodie.
+Dialogue: 0,1:25:09.08,1:25:12.58,Shadow No-Outline,,0,0,0,,Your sister will come for you.
+Dialogue: 0,1:25:28.87,1:25:30.79,Shadow No-Outline,,0,0,0,,There she is now.
+Dialogue: 0,1:25:54.66,1:25:56.79,Shadow No-Outline,,0,0,0,,Hello, Floria. Floria, can you hear me?
+Dialogue: 0,1:25:57.66,1:25:58.58,Shadow No-Outline,,0,0,0,,Wake up!
+Dialogue: 0,1:25:58.66,1:26:00.37,Shadow No-Outline,,0,0,0,,We need to hurry.
+Dialogue: 0,1:26:00.45,1:26:01.50,Shadow No-Outline,,0,0,0,,Floria!
+Dialogue: 0,1:26:02.16,1:26:03.16,Shadow No-Outline,,0,0,0,,Ellie.
+Dialogue: 0,1:26:06.04,1:26:07.50,Shadow No-Outline,,0,0,0,,Elodie, you're alive.
+Dialogue: 0,1:26:08.58,1:26:10.95,Shadow No-Outline,,0,0,0,,Okay. I'm going to get you out of here.
+Dialogue: 0,1:26:15.70,1:26:18.20,Shadow No-Outline,,0,0,0,,My leg. I hurt it when I fell.
+Dialogue: 0,1:26:19.66,1:26:21.12,Shadow No-Outline,,0,0,0,,We don't have time, Flor.
+Dialogue: 0,1:26:31.75,1:26:33.70,Shadow No-Outline,,0,0,0,,No, no, no. Not yet.
+Dialogue: 0,1:26:33.79,1:26:34.83,Shadow No-Outline,,0,0,0,,What now?
+Dialogue: 0,1:26:34.91,1:26:36.33,Shadow No-Outline,,0,0,0,,You have to hide quickly.
+Dialogue: 0,1:26:36.41,1:26:37.58,Shadow No-Outline,,0,0,0,,What about you?
+Dialogue: 0,1:26:37.66,1:26:39.12,Shadow No-Outline,,0,0,0,,I must tell her the truth.
+Dialogue: 0,1:26:39.20,1:26:40.20,Shadow No-Outline,,0,0,0,,Come on.
+Dialogue: 0,1:26:56.41,1:26:59.12,Shadow No-Outline,,0,0,0,,Where are you hiding?
+Dialogue: 0,1:27:03.33,1:27:04.54,Shadow No-Outline,,0,0,0,,Elodie softly: Dragon.
+Dialogue: 0,1:27:09.37,1:27:11.16,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}dragon:{\c} That won't kill me,
+Dialogue: 0,1:27:12.25,1:27:14.62,Shadow No-Outline,,0,0,0,,but it will make me angry.
+Dialogue: 0,1:27:14.70,1:27:15.95,Shadow No-Outline,,0,0,0,,Good.
+Dialogue: 0,1:27:16.58,1:27:18.62,Shadow No-Outline,,0,0,0,,I'm angry too.
+Dialogue: 0,1:27:23.33,1:27:25.04,Shadow No-Outline,,0,0,0,,We have both been lied to.
+Dialogue: 0,1:27:25.70,1:27:27.62,Shadow No-Outline,,0,0,0,,They said you set upon their village.
+Dialogue: 0,1:27:27.70,1:27:30.04,Shadow No-Outline,,0,0,0,,That the king came only to defend his people.
+Dialogue: 0,1:27:30.75,1:27:33.70,Shadow No-Outline,,0,0,0,,He came unprovoked.
+Dialogue: 0,1:27:35.00,1:27:36.29,Shadow No-Outline,,0,0,0,,I know what they did.
+Dialogue: 0,1:27:37.04,1:27:38.50,Shadow No-Outline,,0,0,0,,I know they killed your children.
+Dialogue: 0,1:27:39.08,1:27:41.58,Shadow No-Outline,,0,0,0,,"They"? You!
+Dialogue: 0,1:27:41.66,1:27:44.12,Shadow No-Outline,,0,0,0,,Your kind, your blood.
+Dialogue: 0,1:27:44.20,1:27:45.04,Shadow No-Outline,,0,0,0,,No!
+Dialogue: 0,1:27:45.12,1:27:48.87,Shadow No-Outline,,0,0,0,,My daughters were the last of my line.
+Dialogue: 0,1:27:48.95,1:27:53.08,Shadow No-Outline,,0,0,0,,So, I will take their daughters until my final breath.
+Dialogue: 0,1:27:53.79,1:27:57.00,Shadow No-Outline,,0,0,0,,Except you haven't. We are not their daughters.
+Dialogue: 0,1:27:57.08,1:27:58.75,Shadow No-Outline,,0,0,0,,More lies.
+Dialogue: 0,1:28:36.50,1:28:37.62,Shadow No-Outline,,0,0,0,,Ellie!
+Dialogue: 0,1:28:52.04,1:28:56.79,Shadow No-Outline,,0,0,0,,Now, you will know my daughters' pain.
+Dialogue: 0,1:29:44.25,1:29:46.50,Shadow No-Outline,,0,0,0,,I am not one of them!
+Dialogue: 0,1:29:51.62,1:29:53.91,Shadow No-Outline,,0,0,0,,I smell it in your blood.
+Dialogue: 0,1:31:19.83,1:31:23.41,Shadow No-Outline,,0,0,0,,El-o-die.
+Dialogue: 0,1:31:25.66,1:31:28.04,Shadow No-Outline,,0,0,0,,Accept your fate...
+Dialogue: 0,1:31:34.00,1:31:36.00,Shadow No-Outline,,0,0,0,,as I have mine.
+Dialogue: 0,1:31:40.08,1:31:43.70,Shadow No-Outline,,0,0,0,,We are to die alone.
+Dialogue: 0,1:31:51.04,1:31:52.33,Shadow No-Outline,,0,0,0,,No.
+Dialogue: 0,1:31:55.91,1:31:57.87,Shadow No-Outline,,0,0,0,,I have an army with me.
+Dialogue: 0,1:32:00.54,1:32:04.41,Shadow No-Outline,,0,0,0,,Every innocent woman whose life was stolen down here.
+Dialogue: 0,1:32:06.70,1:32:10.95,Shadow No-Outline,,0,0,0,,Your kind were never innocent.
+Dialogue: 0,1:32:18.12,1:32:19.37,Shadow No-Outline,,0,0,0,,Then go ahead.
+Dialogue: 0,1:32:23.58,1:32:25.20,Shadow No-Outline,,0,0,0,,Show me your fire.
+Dialogue: 0,1:32:30.12,1:32:31.12,Shadow No-Outline,,0,0,0,,Well?
+Dialogue: 0,1:32:32.29,1:32:33.75,Shadow No-Outline,,0,0,0,,What are you waiting for?
+Dialogue: 0,1:32:36.87,1:32:37.95,Shadow No-Outline,,0,0,0,,Burn me.
+Dialogue: 0,1:32:40.58,1:32:41.62,Shadow No-Outline,,0,0,0,,Burn me!
+Dialogue: 0,1:33:45.58,1:33:47.20,Shadow No-Outline,,0,0,0,,My sister had this too.
+Dialogue: 0,1:33:48.62,1:33:49.75,Shadow No-Outline,,0,0,0,,All of us did.
+Dialogue: 0,1:33:50.75,1:33:52.87,Shadow No-Outline,,0,0,0,,That is how they make us royal.
+Dialogue: 0,1:33:54.25,1:33:56.45,Shadow No-Outline,,0,0,0,,That is the blood you smell.
+Dialogue: 0,1:34:06.95,1:34:08.12,Shadow No-Outline,,0,0,0,,They fooled you.
+Dialogue: 0,1:34:10.12,1:34:13.45,Shadow No-Outline,,0,0,0,,You've been killing innocent daughters just like they did.
+Dialogue: 0,1:34:21.54,1:34:24.54,Shadow No-Outline,,0,0,0,,Then, end it.
+Dialogue: 0,1:34:51.04,1:34:52.04,Shadow No-Outline,,0,0,0,,No.
+Dialogue: 0,1:34:56.75,1:34:59.00,Shadow No-Outline,,0,0,0,,I'm through doing what I'm told.
+Dialogue: 0,1:36:19.04,1:36:20.04,Shadow No-Outline,,0,0,0,,Elodie.
+Dialogue: 0,1:36:26.70,1:36:29.54,Shadow No-Outline,,0,0,0,,You must believe me. I haven't slept a moment since...
+Dialogue: 0,1:36:29.62,1:36:31.45,Shadow No-Outline,,0,0,0,,Since you tried to kill my sister?
+Dialogue: 0,1:36:32.95,1:36:33.95,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Henry:{\b0}{\c} I had no choice.
+Dialogue: 0,1:36:34.04,1:36:37.00,Shadow No-Outline,,0,0,0,,Don't you dare explain yourself to this...
+Dialogue: 0,1:36:37.08,1:36:38.66,Shadow No-Outline,,0,0,0,,this commoner.
+Dialogue: 0,1:36:42.91,1:36:44.58,Shadow No-Outline,,0,0,0,,Is she to be the third?
+Dialogue: 0,1:36:45.54,1:36:47.04,Shadow No-Outline,,0,0,0,,Princess number three.
+Dialogue: 0,1:36:48.79,1:36:52.25,Shadow No-Outline,,0,0,0,,She's the last, and then I'll be free to marry whoever I...
+Dialogue: 0,1:36:52.33,1:36:54.00,Shadow No-Outline,,0,0,0,,That's enough, Henry.
+Dialogue: 0,1:36:54.95,1:36:57.37,Shadow No-Outline,,0,0,0,,You know nothing of what we've endured.
+Dialogue: 0,1:36:58.04,1:37:00.29,Shadow No-Outline,,0,0,0,,You know nothing of our story.
+Dialogue: 0,1:37:08.62,1:37:10.00,Shadow No-Outline,,0,0,0,,Take your family
+Dialogue: 0,1:37:11.83,1:37:13.16,Shadow No-Outline,,0,0,0,,and run.
+Dialogue: 0,1:37:15.20,1:37:16.54,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}man:{\c} Come. Let's go.
+Dialogue: 0,1:37:18.37,1:37:21.83,Shadow No-Outline,,0,0,0,,I will offer you all one last chance to do the same.
+Dialogue: 0,1:37:29.33,1:37:30.33,Shadow No-Outline,,0,0,0,,No?
+Dialogue: 0,1:37:32.25,1:37:34.75,Shadow No-Outline,,0,0,0,,You insolent creature.
+Dialogue: 0,1:37:35.79,1:37:37.54,Shadow No-Outline,,0,0,0,,You think we ought to fear you now?
+Dialogue: 0,1:37:38.95,1:37:39.95,Shadow No-Outline,,0,0,0,,Why?
+Dialogue: 0,1:37:40.54,1:37:43.75,Shadow No-Outline,,0,0,0,,Because you somehow managed to escape the dragon?
+Dialogue: 0,1:37:47.54,1:37:49.70,Shadow No-Outline,,0,0,0,,It's not me you should fear.
+Dialogue: 0,1:37:50.95,1:37:54.29,Shadow No-Outline,,0,0,0,,This is the end of your story.
+Dialogue: 0,1:37:55.37,1:37:56.37,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}woman:{\c} Run!
+Dialogue: 0,1:38:10.75,1:38:13.41,Shadow No-Outline,,0,0,0,,- {\c&H20a5da&}woman:{\c} It's the dragon!  - {\c&H20a5da&}man:{\c} Run!
+Dialogue: 0,1:38:36.12,1:38:42.83,Shadow No-Outline,,0,0,0,,No!
+Dialogue: 0,1:39:28.95,1:39:31.12,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}sailor 1:{\c} Someone give me a hand with this barrel.
+Dialogue: 0,1:39:31.20,1:39:32.87,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}sailor 2:{\c} Let's be sharp there, lads.
+Dialogue: 0,1:39:32.95,1:39:35.12,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Lady Bayford:{\b0}{\c} You can't be serious.
+Dialogue: 0,1:39:35.20,1:39:36.08,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Elodie:{\b0}{\c} But I am.
+Dialogue: 0,1:39:36.16,1:39:37.91,Shadow No-Outline,,0,0,0,,We'll run it together.
+Dialogue: 0,1:39:38.00,1:39:39.58,Shadow No-Outline,,0,0,0,,We've got a bounty of supplies.
+Dialogue: 0,1:39:39.66,1:39:42.04,Shadow No-Outline,,0,0,0,,Enough to get us through this freeze and the next.
+Dialogue: 0,1:39:42.12,1:39:43.16,Shadow No-Outline,,0,0,0,,Oh, Elodie.
+Dialogue: 0,1:39:43.25,1:39:46.45,Shadow No-Outline,,0,0,0,,You're the only person I trust to look after our people, Mother.
+Dialogue: 0,1:39:55.33,1:39:56.50,Shadow No-Outline,,0,0,0,,Can I help too?
+Dialogue: 0,1:39:59.79,1:40:00.79,Shadow No-Outline,,0,0,0,,Floria.
+Dialogue: 0,1:40:01.16,1:40:02.79,Shadow No-Outline,,0,0,0,,I'm counting on it.
+Dialogue: 0,1:40:12.00,1:40:14.54,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Floria:{\b0}{\c} Stepmother. Stepmother, come and see this.
+Dialogue: 0,1:40:14.62,1:40:16.20,Shadow No-Outline,,0,0,0,,{\c&H3891e6&\b1}Lady Bayford:{\b0}{\c} Oh, wide heavens!
+Dialogue: 0,1:40:16.29,1:40:19.45,Shadow No-Outline,,0,0,0,,{\c&H20a5da&}sailor:{\c} My lady, what course shall we steer?
+Dialogue: 0,1:40:21.75,1:40:22.75,Shadow No-Outline,,0,0,0,,Home.
+Dialogue: 0,1:41:23.25,1:41:28.16,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  Love is a burning thing  ♫{\i0}
+Dialogue: 0,1:41:29.95,1:41:35.58,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  It makes a fiery ring  ♫{\i0}
+Dialogue: 0,1:41:37.54,1:41:42.62,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  Bound by wild desire  ♫{\i0}
+Dialogue: 0,1:41:44.75,1:41:48.62,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  I fell into a ring of fire  ♫{\i0}
+Dialogue: 0,1:41:50.95,1:41:57.45,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  I fell into a burning ring of fire  ♫{\i0}
+Dialogue: 0,1:41:57.54,1:42:01.41,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  I went down, down, down  ♫{\i0}
+Dialogue: 0,1:42:01.50,1:42:04.79,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  And the flames went higher  ♫{\i0}
+Dialogue: 0,1:42:04.87,1:42:09.33,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  And it burns, burns, burns  ♫{\i0}
+Dialogue: 0,1:42:09.41,1:42:11.91,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  The ring of fire  ♫{\i0}
+Dialogue: 0,1:42:12.95,1:42:15.33,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  The ring of fire  ♫{\i0}
+Dialogue: 0,1:42:29.95,1:42:35.62,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  The taste of love is sweet  ♫{\i0}
+Dialogue: 0,1:42:37.16,1:42:42.75,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  When hearts like ours meet  ♫{\i0}
+Dialogue: 0,1:42:44.29,1:42:49.87,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  I fell for you like a child  ♫{\i0}
+Dialogue: 0,1:42:51.95,1:42:57.25,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  Oh, but the fire went wild  ♫{\i0}
+Dialogue: 0,1:42:59.00,1:43:05.70,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  I fell into a burning ring of fire  ♫{\i0}
+Dialogue: 0,1:43:05.79,1:43:09.33,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  I went down, down, down  ♫{\i0}
+Dialogue: 0,1:43:09.41,1:43:12.79,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  And the flames went higher  ♫{\i0}
+Dialogue: 0,1:43:12.87,1:43:17.41,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  And it burns, burns, burns  ♫{\i0}
+Dialogue: 0,1:43:17.50,1:43:20.08,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  The ring of fire  ♫{\i0}
+Dialogue: 0,1:43:21.04,1:43:23.70,Shadow No-Outline,,0,0,0,,{\c&H6699ff&\i1}♫  The ring of fire  ♫{\i0}

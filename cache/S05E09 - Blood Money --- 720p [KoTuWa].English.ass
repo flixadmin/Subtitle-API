@@ -1,0 +1,838 @@
+﻿[Script Info]
+Title: Default file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Audio File: 
+Video File: 
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Dialogue1,Tahoma,64,&H00F0F0F0,&H000000FF,&H1F000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.8,3.4,2,120,120,30,1
+Style: Dialogue2,Tahoma,64,&H00F0F0F0,&H000000FF,&H1F000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.8,3.4,2,120,120,30,1
+Style: Dialogue4,Tahoma,64,&H00F0F0F0,&H000000FF,&H1F000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.8,3.4,2,120,120,30,1
+Style: Dialogue3,Tahoma,64,&H00F0F0F0,&H000000FF,&H1F000000,&HC7000000,0,0,0,0,100,100,0,0,1,2.8,3.4,2,120,120,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:35.56,0:00:37.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(677,967)}That was nasty, man.
+Dialogue: 0,0:04:03.56,0:04:04.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(400,965)}Hello, Carol.
+Dialogue: 0,0:04:30.36,0:04:33.15,Dialogue4,Unknown,0000,0000,0000,,{\an5\pos(960,114)}{\i1}♪ A soap suds stickle back navy ♪{\i0}
+Dialogue: 0,0:04:33.32,0:04:36.19,Dialogue4,Unknown,0000,0000,0000,,{\an5\pos(960,114)}{\i1}♪ A scrubbing brush landing craft ♪{\i0}
+Dialogue: 0,0:04:36.36,0:04:38.55,Dialogue2,Unknown,0000,0000,0000,,{\an5\pos(930,108)}- She's so cute.
+Dialogue: 0,0:04:36.36,0:04:38.55,Dialogue2,Unknown,0000,0000,0000,,{\an5\pos(960,244)}- I know, isn't she?
+Dialogue: 0,0:04:38.72,0:04:41.18,Dialogue2,Unknown,0000,0000,0000,,{\an5\pos(959,108)}She takes after her mother.
+Dialogue: 0,0:04:46.88,0:04:48.75,Dialogue2,Unknown,0000,0000,0000,,{\an5\pos(959,114)}Well, thank goodness for that.
+Dialogue: 0,0:04:54.60,0:05:00.19,Dialogue4,Unknown,0000,0000,0000,,{\an5\pos(961,114)}{\i1}♪ Goodbye, goodbye, goodbye ♪{\i0}
+Dialogue: 0,0:05:00.40,0:05:03.07,Dialogue2,Unknown,0000,0000,0000,,{\an5\pos(877,180)}Okay, everybody,
+Dialogue: 0,0:05:00.40,0:05:03.07,Dialogue2,Unknown,0000,0000,0000,,{\an5\pos(960,246)}since you were so good
+Dialogue: 0,0:05:03.28,0:05:08.35,Dialogue2,Unknown,0000,0000,0000,,{\an5\pos(959,114)}and you ate all your dinner,
+Dialogue: 0,0:05:03.28,0:05:08.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(601,180)}everybody.
+Dialogue: 0,0:05:08.52,0:05:14.35,Dialogue2,Unknown,0000,0000,0000,,{\an5\pos(960,180)}Is sweetie hungry? Sweetie, pumpkin pie,
+Dialogue: 0,0:05:08.52,0:05:14.35,Dialogue2,Unknown,0000,0000,0000,,{\an5\pos(897,246)}this one's for you. That one's for you.
+Dialogue: 0,0:05:18.72,0:05:22.07,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(567,966)}{\i1}♪ Tonight it's love by the fire ♪{\i0}
+Dialogue: 0,0:05:22.24,0:05:25.79,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(520,967)}{\i1}♪ The wind plays over the coals ♪{\i0}
+Dialogue: 0,0:05:26.32,0:05:28.88,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(493,966)}{\i1}♪ Passionate looks are my fancy ♪♪{\i0}
+Dialogue: 0,0:05:48.80,0:05:51.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1174,180)}She's got a lot more hair
+Dialogue: 0,0:05:48.80,0:05:51.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1172,246)}than you do.
+Dialogue: 0,0:05:53.44,0:05:56.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1095,175)}Yes. You wear that so well.
+Dialogue: 0,0:05:53.44,0:05:56.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1095,240)}You do.
+Dialogue: 0,0:06:03.32,0:06:05.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1286,174)}Look at what I have.
+Dialogue: 0,0:06:03.32,0:06:05.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1285,246)}Special one for you.
+Dialogue: 0,0:06:05.76,0:06:08.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,901)}Oh, my God, Skyler.
+Dialogue: 0,0:06:05.76,0:06:08.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}I'll take the pink one.
+Dialogue: 0,0:06:08.24,0:06:09.46,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}It's a pink one.
+Dialogue: 0,0:06:09.72,0:06:11.87,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1196,835)}- Oh, Skyler.
+Dialogue: 0,0:06:09.72,0:06:11.87,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1195,967)}- I know, right?
+Dialogue: 0,0:06:12.04,0:06:15.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(930,901)}Well, actually, they were my idea.
+Dialogue: 0,0:06:12.04,0:06:15.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(929,961)}You are all welcome.
+Dialogue: 0,0:06:15.68,0:06:17.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,829)}- You are the devil.
+Dialogue: 0,0:06:15.68,0:06:17.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,967)}- Oh, my gosh.
+Dialogue: 0,0:06:19.32,0:06:21.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,180)}Hey, buddy.
+Dialogue: 0,0:06:19.32,0:06:21.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,246)}Ready for a cold one?
+Dialogue: 0,0:06:22.00,0:06:23.48,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(697,112)}No, no.
+Dialogue: 0,0:06:24.08,0:06:27.07,Dialogue2,Unknown,0000,0000,0000,,{\an5\pos(960,114)}Not feeling 100 percent.
+Dialogue: 0,0:06:24.08,0:06:27.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(830,246)}Oh, I hope it's not something you ate.
+Dialogue: 0,0:06:27.28,0:06:28.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(548,114)}No, no. I just--
+Dialogue: 0,0:06:29.12,0:06:31.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1393,114)}We have Pepto,
+Dialogue: 0,0:06:29.12,0:06:31.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1397,174)}Uncle Hank.
+Dialogue: 0,0:06:31.36,0:06:32.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(246,961)}Yeah.
+Dialogue: 0,0:06:33.12,0:06:35.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1077,901)}Uh, no, I'm good, I, uh--
+Dialogue: 0,0:06:33.12,0:06:35.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1077,961)}I think we need to shove off.
+Dialogue: 0,0:06:36.12,0:06:38.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(946,835)}Yeah, okay. Yeah, yeah.
+Dialogue: 0,0:06:36.12,0:06:38.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(249,967)}Oh. Okay.
+Dialogue: 0,0:06:38.40,0:06:39.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1028,967)}Sorry, Skyler, I hate to leave--
+Dialogue: 0,0:06:40.12,0:06:42.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1283,901)}No, no. Don't worry
+Dialogue: 0,0:06:40.12,0:06:42.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1281,967)}about it. I have help.
+Dialogue: 0,0:06:42.48,0:06:44.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,835)}And by that, she means me.
+Dialogue: 0,0:06:42.48,0:06:44.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1407,965)}Ha, ha.
+Dialogue: 0,0:06:44.52,0:06:47.08,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1155,829)}- That is correct.
+Dialogue: 0,0:06:44.52,0:06:47.08,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1206,967)}- Holly can help.
+Dialogue: 0,0:06:47.24,0:06:49.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(758,835)}- Let's go send them on their way.
+Dialogue: 0,0:06:47.24,0:06:49.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(249,961)}- Yeah.
+Dialogue: 0,0:06:49.76,0:06:51.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,901)}Let's say goodbye
+Dialogue: 0,0:06:49.76,0:06:51.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,962)}to auntie and uncle.
+Dialogue: 0,0:06:51.76,0:06:52.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(548,180)}Been too long.
+Dialogue: 0,0:06:53.00,0:06:55.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(845,114)}Say, "Bye, auntie."
+Dialogue: 0,0:06:53.00,0:06:55.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,246)}Bye, sweetie, bye-bye.
+Dialogue: 0,0:06:55.64,0:06:58.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(853,114)}You know, it's been about 100 years
+Dialogue: 0,0:06:55.64,0:06:58.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(855,180)}since we've been bowling.
+Dialogue: 0,0:06:58.88,0:07:01.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(821,114)}- Then how about Thursday?
+Dialogue: 0,0:06:58.88,0:07:01.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1006,246)}- Oh, that sounds great.
+Dialogue: 0,0:07:01.72,0:07:03.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1163,967)}Thank you for having us.
+Dialogue: 0,0:07:03.60,0:07:06.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,835)}Absolutely. Take care of him.
+Dialogue: 0,0:07:03.60,0:07:06.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1187,967)}Hey. You okay to drive?
+Dialogue: 0,0:07:06.60,0:07:08.00,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,961)}Yeah.
+Dialogue: 0,0:07:08.84,0:07:12.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1166,967)}All right, well, feel better.
+Dialogue: 0,0:07:15.12,0:07:17.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1201,901)}Say, "Bye, Uncle Hank.
+Dialogue: 0,0:07:15.12,0:07:17.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1202,967)}Bye-bye."
+Dialogue: 0,0:07:19.56,0:07:22.02,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1338,901)}"Bye, Uncle Hank.
+Dialogue: 0,0:07:19.56,0:07:22.02,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1339,967)}Bye, Aunt Marie."
+Dialogue: 0,0:07:22.20,0:07:25.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,114)}All right, let's get started on
+Dialogue: 0,0:07:22.20,0:07:25.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,174)}those dishes. Come on.
+Dialogue: 0,0:07:25.24,0:07:26.27,Dialogue2,Unknown,0000,0000,0000,,{\an5\pos(1050,108)}You.
+Dialogue: 0,0:07:25.24,0:07:26.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(544,174)}You.
+Dialogue: 0,0:07:26.44,0:07:27.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(995,114)}No, you.
+Dialogue: 0,0:07:26.44,0:07:27.79,Dialogue2,Unknown,0000,0000,0000,,{\an5\pos(901,240)}You.
+Dialogue: 0,0:07:27.96,0:07:30.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1393,114)}Washing, okay?
+Dialogue: 0,0:07:27.96,0:07:30.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(847,246)}I'll dry. You wash.
+Dialogue: 0,0:07:30.64,0:07:32.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(953,114)}You're a good washer.
+Dialogue: 0,0:07:30.64,0:07:32.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,244)}Hello, Carol.
+Dialogue: 0,0:07:32.48,0:07:34.94,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(398,965)}Oh, hi, Walt.
+Dialogue: 0,0:07:35.16,0:07:36.64,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1614,967)}Europe.
+Dialogue: 0,0:07:36.80,0:07:39.44,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,109)}I can't believe it.
+Dialogue: 0,0:07:36.80,0:07:39.44,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,180)}Were you there
+Dialogue: 0,0:07:36.80,0:07:39.44,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,240)}when she said that?
+Dialogue: 0,0:07:39.64,0:07:41.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1438,108)}Yeah.
+Dialogue: 0,0:07:41.24,0:07:43.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,114)}You okay? Your stomach okay?
+Dialogue: 0,0:07:43.44,0:07:46.00,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(987,114)}Yeah. Oh, yeah. Yeah, I'm fine.
+Dialogue: 0,0:07:43.44,0:07:46.00,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,180)}Okay.
+Dialogue: 0,0:07:46.16,0:07:49.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,114)}God, Jesus, Europe.
+Dialogue: 0,0:07:49.52,0:07:50.84,Dialogue3,Unknown,0000,0000,0000,,{\an4\pos(107,114)}I just--
+Dialogue: 0,0:07:51.00,0:07:54.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,114)}And, you know, where they were
+Dialogue: 0,0:07:51.00,0:07:54.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,180)}three or four months ago.
+Dialogue: 0,0:07:54.32,0:07:57.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,901)}She was talking about it
+Dialogue: 0,0:07:54.32,0:07:57.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}like it was a second honeymoon.
+Dialogue: 0,0:07:57.84,0:08:00.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,114)}We need to go to Europe. We could go.
+Dialogue: 0,0:07:57.84,0:08:00.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1289,240)}Yeah.
+Dialogue: 0,0:08:00.68,0:08:03.14,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,114)}Have it be like a business trip,
+Dialogue: 0,0:08:00.68,0:08:03.14,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,180)}you know?
+Dialogue: 0,0:08:03.32,0:08:08.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,114)}It could, um, be Italy.
+Dialogue: 0,0:08:03.32,0:08:08.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,174)}To Lake Como...
+Dialogue: 0,0:08:20.04,0:08:22.50,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,961)}Hank? Hank?
+Dialogue: 0,0:08:22.68,0:08:25.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}Hank? You okay?
+Dialogue: 0,0:08:26.16,0:08:27.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,961)}Hank!
+Dialogue: 0,0:08:31.44,0:08:33.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(845,967)}Oh, my God. Hank?
+Dialogue: 0,0:08:33.96,0:08:35.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(784,961)}Hank? Hank?
+Dialogue: 0,0:08:37.12,0:08:40.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,967)}Oh, my God. Hank?
+Dialogue: 0,0:08:40.56,0:08:43.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,901)}No. Are you okay?
+Dialogue: 0,0:08:40.56,0:08:43.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1579,967)}I'm good.
+Dialogue: 0,0:08:43.60,0:08:46.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,895)}Call an ambulance!
+Dialogue: 0,0:08:43.60,0:08:46.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,961)}Call an ambulance!
+Dialogue: 0,0:08:47.28,0:08:48.50,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(696,967)}Okay. You okay?
+Dialogue: 0,0:08:48.72,0:08:50.04,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,895)}Just take a breath.
+Dialogue: 0,0:08:48.72,0:08:50.04,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,961)}Yeah.
+Dialogue: 0,0:08:50.20,0:08:52.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,965)}Oh, God, sweetie.
+Dialogue: 0,0:08:52.28,0:08:54.74,Dialogue2,Unknown,0000,0000,0000,,{\an5\pos(930,114)}- An accident. It happens.
+Dialogue: 0,0:08:52.28,0:08:54.74,Dialogue2,Unknown,0000,0000,0000,,{\an5\pos(960,246)}- I'll make the appointment.
+Dialogue: 0,0:08:54.92,0:08:57.27,Dialogue2,Unknown,0000,0000,0000,,{\an5\pos(958,115)}All you have to do is show up.
+Dialogue: 0,0:08:54.92,0:08:57.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(569,240)}For what?
+Dialogue: 0,0:08:57.44,0:09:00.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,901)}Three hours in the emergency room,
+Dialogue: 0,0:08:57.44,0:09:00.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}all for nothing.
+Dialogue: 0,0:09:00.76,0:09:02.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1186,114)}All they did was rule out
+Dialogue: 0,0:09:00.76,0:09:02.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1188,174)}a heart attack.
+Dialogue: 0,0:09:02.84,0:09:05.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1143,114)}What if it happens again?
+Dialogue: 0,0:09:02.84,0:09:05.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,246)}It won't happen again.
+Dialogue: 0,0:09:05.28,0:09:07.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1136,114)}How can you know that?
+Dialogue: 0,0:09:05.28,0:09:07.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1131,180)}You can't say what it was.
+Dialogue: 0,0:09:07.76,0:09:12.78,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,114)}Marie, baby.
+Dialogue: 0,0:09:07.76,0:09:12.78,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,180)}I'm okay. I'm fine, trust me.
+Dialogue: 0,0:09:07.76,0:09:12.78,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,240)}Discussion over.
+Dialogue: 0,0:09:13.64,0:09:15.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,114)}And do not tell Skyler.
+Dialogue: 0,0:09:13.64,0:09:15.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1477,180)}What? Why?
+Dialogue: 0,0:09:16.08,0:09:17.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(397,108)}Just don't.
+Dialogue: 0,0:09:18.40,0:09:20.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1096,114)}There's nothing to be
+Dialogue: 0,0:09:18.40,0:09:20.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1097,174)}embarrassed about. Hank?
+Dialogue: 0,0:10:26.64,0:10:27.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(399,108)}Luis.
+Dialogue: 0,0:10:28.00,0:10:29.22,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(781,967)}Enrique. Ooh.
+Dialogue: 0,0:10:30.84,0:10:32.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1443,961)}Hi.
+Dialogue: 0,0:10:32.80,0:10:34.02,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1145,961)}Hi.
+Dialogue: 0,0:10:37.36,0:10:38.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1143,967)}Okay.
+Dialogue: 0,0:10:38.68,0:10:43.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,901)}Here you go. There's complimentary
+Dialogue: 0,0:10:38.68,0:10:43.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}coffee inside. Have an A-1 day.
+Dialogue: 0,0:10:44.36,0:10:46.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}Air fresheners are high-margin, right?
+Dialogue: 0,0:10:46.84,0:10:48.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(652,895)}At 30 cents wholesale?
+Dialogue: 0,0:10:46.84,0:10:48.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(652,961)}Yeah.
+Dialogue: 0,0:10:48.56,0:10:51.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,901)}Right. So I'm thinking
+Dialogue: 0,0:10:48.56,0:10:51.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}we reorganize the display.
+Dialogue: 0,0:10:51.72,0:10:53.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,901)}Separate the food scents
+Dialogue: 0,0:10:51.72,0:10:53.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,961)}from the nature scents.
+Dialogue: 0,0:10:54.08,0:10:58.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,835)}I mean, does bubble gum
+Dialogue: 0,0:10:54.08,0:10:58.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,901)}belong anywhere near
+Dialogue: 0,0:10:54.08,0:10:58.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}ocean spray? No.
+Dialogue: 0,0:10:58.80,0:11:01.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,901)}And pine is still
+Dialogue: 0,0:10:58.80,0:11:01.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}our biggest seller, right?
+Dialogue: 0,0:11:01.68,0:11:06.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,835)}So maybe we move that
+Dialogue: 0,0:11:01.68,0:11:06.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,901)}over to the cash register,
+Dialogue: 0,0:11:01.68,0:11:06.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}by the 5-hour Energy drink.
+Dialogue: 0,0:11:07.00,0:11:09.72,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(695,829)}Sure. That'd be fine.
+Dialogue: 0,0:11:07.00,0:11:09.72,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}Yeah, yeah.
+Dialogue: 0,0:11:10.04,0:11:11.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,961)}Come here.
+Dialogue: 0,0:11:12.64,0:11:14.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,967)}Speaking of the business,
+Dialogue: 0,0:11:15.16,0:11:17.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}the story comes first.
+Dialogue: 0,0:11:17.60,0:11:20.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,835)}The story is is that we are
+Dialogue: 0,0:11:17.60,0:11:20.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,899)}car wash owners,
+Dialogue: 0,0:11:17.60,0:11:20.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}pure and simple.
+Dialogue: 0,0:11:21.08,0:11:24.86,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,901)}But if our story is that
+Dialogue: 0,0:11:21.08,0:11:24.86,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,965)}the car wash is successful,
+Dialogue: 0,0:11:25.36,0:11:28.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,895)}then what do successful
+Dialogue: 0,0:11:25.36,0:11:28.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,961)}car wash owners do?
+Dialogue: 0,0:11:28.76,0:11:31.32,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}They buy more car washes.
+Dialogue: 0,0:11:32.56,0:11:34.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,961)}Listen.
+Dialogue: 0,0:11:34.92,0:11:38.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,901)}Skyler, you'll be laundering
+Dialogue: 0,0:11:34.92,0:11:38.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}that money for years.
+Dialogue: 0,0:11:38.76,0:11:40.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,961)}Decades.
+Dialogue: 0,0:11:40.76,0:11:43.48,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,961)}Wouldn't two be better than one?
+Dialogue: 0,0:11:45.12,0:11:50.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1108,833)}Well, there's Gentle Hands
+Dialogue: 0,0:11:45.12,0:11:50.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1109,901)}over by Kirtland.
+Dialogue: 0,0:11:45.12,0:11:50.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1112,962)}I do love that location.
+Dialogue: 0,0:11:52.64,0:11:54.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(847,962)}I'll think about it.
+Dialogue: 0,0:11:54.28,0:11:58.06,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(246,901)}Yeah. Right, right.
+Dialogue: 0,0:11:54.28,0:11:58.06,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(247,962)}To be continued.
+Dialogue: 0,0:11:58.76,0:12:00.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(886,967)}Okay.
+Dialogue: 0,0:12:02.80,0:12:04.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,901)}Good morning.
+Dialogue: 0,0:12:02.80,0:12:04.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,962)}Welcome to A-1.
+Dialogue: 0,0:12:04.64,0:12:06.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1181,967)}Just the regular, please.
+Dialogue: 0,0:12:06.44,0:12:09.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,901)}Well, we're having a special
+Dialogue: 0,0:12:06.44,0:12:09.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,965)}on hand wax, 21.99
+Dialogue: 0,0:12:09.36,0:12:12.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,901)}if you're interested
+Dialogue: 0,0:12:09.36,0:12:12.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}in getting rid of those water spots.
+Dialogue: 0,0:12:12.36,0:12:13.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1217,967)}Just the regular is fine.
+Dialogue: 0,0:12:14.12,0:12:17.87,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,901)}Okay. Well, there's complimentary
+Dialogue: 0,0:12:14.12,0:12:17.87,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}coffee inside while you're waiting.
+Dialogue: 0,0:12:18.04,0:12:20.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}Have an A-1 day.
+Dialogue: 0,0:12:25.32,0:12:29.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1203,835)}Please give this to your
+Dialogue: 0,0:12:25.32,0:12:29.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1201,901)}car wash professional,
+Dialogue: 0,0:12:25.32,0:12:29.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1201,967)}and have an A-1 day.
+Dialogue: 0,0:12:33.80,0:12:36.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,901)}Sixty-eight percent.
+Dialogue: 0,0:12:33.80,0:12:36.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}And falling.
+Dialogue: 0,0:12:36.92,0:12:38.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(995,901)}Good morning.
+Dialogue: 0,0:12:36.92,0:12:38.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(996,967)}May I have your ticket, please?
+Dialogue: 0,0:12:39.36,0:12:42.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,901)}I knew there would be a drop
+Dialogue: 0,0:12:39.36,0:12:42.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}in quality, but 68 percent?
+Dialogue: 0,0:12:42.76,0:12:45.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}This is not what I agreed to.
+Dialogue: 0,0:12:46.88,0:12:51.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1200,901)}I left a viable operation.
+Dialogue: 0,0:12:46.88,0:12:51.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1196,967)}The rest was up to you.
+Dialogue: 0,0:12:52.04,0:12:53.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(996,967)}May I have your ticket, please?
+Dialogue: 0,0:12:53.40,0:12:55.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}I'm only asking for a few days,
+Dialogue: 0,0:12:55.84,0:12:58.30,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,895)}a week at most.
+Dialogue: 0,0:12:55.84,0:12:58.30,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,961)}Call it a tutorial.
+Dialogue: 0,0:12:58.48,0:13:00.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1135,962)}That's the standard wash.
+Dialogue: 0,0:13:00.64,0:13:05.84,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,901)}Fix this. Get the ship back on course.
+Dialogue: 0,0:13:00.64,0:13:05.84,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}We'll make it worth your while.
+Dialogue: 0,0:13:06.84,0:13:09.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1185,968)}That'll be 14.95, please.
+Dialogue: 0,0:13:11.48,0:13:16.68,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,902)}Listen, this is a complicated situation.
+Dialogue: 0,0:13:11.48,0:13:16.68,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}There are a lot of moving parts.
+Dialogue: 0,0:13:17.08,0:13:20.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(996,967)}None of which are my concern.
+Dialogue: 0,0:13:21.16,0:13:23.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}You're putting me in a box here.
+Dialogue: 0,0:13:24.16,0:13:26.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,968)}You know what could happen.
+Dialogue: 0,0:13:28.28,0:13:31.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1089,967)}Again, none of my concern.
+Dialogue: 0,0:13:31.52,0:13:34.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(793,901)}There's your change, and if you'll hand
+Dialogue: 0,0:13:31.52,0:13:34.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(793,967)}this to your car wash professional...
+Dialogue: 0,0:13:35.16,0:13:36.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1242,967)}And have an A-1 day.
+Dialogue: 0,0:13:42.60,0:13:45.24,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(399,829)}Listen--
+Dialogue: 0,0:13:42.60,0:13:45.24,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(985,967)}It'll only be a few more minutes.
+Dialogue: 0,0:13:45.44,0:13:47.87,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1052,901)}There's some complimentary
+Dialogue: 0,0:13:45.44,0:13:47.87,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1053,967)}coffee, if you like.
+Dialogue: 0,0:14:01.04,0:14:02.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1522,967)}What's up?
+Dialogue: 0,0:14:03.16,0:14:05.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,901)}Just wondering
+Dialogue: 0,0:14:03.16,0:14:05.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,961)}who washes a rental car.
+Dialogue: 0,0:14:09.16,0:14:11.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(247,965)}Walt, who was that?
+Dialogue: 0,0:14:15.40,0:14:18.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(910,961)}She's a former business associate
+Dialogue: 0,0:14:18.52,0:14:20.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1125,967)}who wants me to go back.
+Dialogue: 0,0:14:21.48,0:14:23.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1508,962)}And I won't.
+Dialogue: 0,0:14:38.32,0:14:40.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(600,967)}Enrique, this one's finished.
+Dialogue: 0,0:14:43.52,0:14:45.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,961)}Get out of here.
+Dialogue: 0,0:14:45.60,0:14:46.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(548,961)}Now.
+Dialogue: 0,0:14:47.16,0:14:48.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(996,961)}Excuse me?
+Dialogue: 0,0:14:48.64,0:14:50.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,961)}Never come back here.
+Dialogue: 0,0:14:51.08,0:14:52.40,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}Do you understand me?
+Dialogue: 0,0:14:53.32,0:14:55.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1145,895)}I--
+Dialogue: 0,0:14:53.32,0:14:55.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,961)}Go.
+Dialogue: 0,0:15:18.56,0:15:20.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(548,901)}Hey.
+Dialogue: 0,0:15:18.56,0:15:20.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1294,967)}Hey.
+Dialogue: 0,0:15:21.68,0:15:23.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1143,965)}Oh, thanks.
+Dialogue: 0,0:15:24.52,0:15:26.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}You going in today?
+Dialogue: 0,0:15:26.48,0:15:27.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(996,965)}Uh, no. No, no.
+Dialogue: 0,0:15:28.00,0:15:31.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,901)}Good. You know, stay out of there
+Dialogue: 0,0:15:28.00,0:15:31.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}till you're sure you're better.
+Dialogue: 0,0:15:31.32,0:15:32.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1140,895)}Yeah.
+Dialogue: 0,0:15:31.32,0:15:32.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,967)}Stay home, rest,
+Dialogue: 0,0:15:32.92,0:15:34.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,829)}don't even think about work.
+Dialogue: 0,0:15:32.92,0:15:34.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1143,967)}Okay.
+Dialogue: 0,0:15:34.88,0:15:37.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,835)}All right? I'll see you later.
+Dialogue: 0,0:15:34.88,0:15:37.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1140,967)}All right.
+Dialogue: 0,0:15:52.56,0:15:55.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(697,835)}Morning, Mrs. Schrader.
+Dialogue: 0,0:15:52.56,0:15:55.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}Hey, guys. What's going on?
+Dialogue: 0,0:15:55.44,0:15:57.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,901)}Dropping these off.
+Dialogue: 0,0:15:55.44,0:15:57.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}Where'd you like them?
+Dialogue: 0,0:15:57.36,0:16:00.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1293,835)}Bring them around
+Dialogue: 0,0:15:57.36,0:16:00.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1290,901)}to the garage, guys.
+Dialogue: 0,0:15:57.36,0:16:00.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1294,967)}I got it.
+Dialogue: 0,0:16:00.84,0:16:02.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(847,967)}Have a good day.
+Dialogue: 0,0:16:03.68,0:16:05.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(849,961)}You too.
+Dialogue: 0,0:16:07.56,0:16:10.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1189,833)}Boss, Janice said to
+Dialogue: 0,0:16:07.56,0:16:10.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1186,901)}tell you a few of them
+Dialogue: 0,0:16:07.56,0:16:10.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1189,967)}might not have indexes.
+Dialogue: 0,0:16:10.84,0:16:12.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1130,901)}We could give you a hand
+Dialogue: 0,0:16:10.84,0:16:12.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1131,967)}sorting through them.
+Dialogue: 0,0:16:13.08,0:16:14.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}No, I got it, thanks.
+Dialogue: 0,0:16:17.20,0:16:18.60,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}All right.
+Dialogue: 0,0:16:21.04,0:16:23.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,835)}- Well, see you, boss.
+Dialogue: 0,0:16:21.04,0:16:23.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(549,967)}- Okay.
+Dialogue: 0,0:16:23.76,0:16:25.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,967)}Okay, uh...
+Dialogue: 0,0:17:04.56,0:17:07.71,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(616,894)}{\i1}♪ Your world is in flames{\i0}
+Dialogue: 0,0:17:04.56,0:17:07.71,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(622,961)}{\i1}There ain't even a name ♪{\i0}
+Dialogue: 0,0:17:07.92,0:17:11.63,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(618,899)}{\i1}♪ For the feelings you feel{\i0}
+Dialogue: 0,0:17:07.92,0:17:11.63,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(616,966)}{\i1}As you watch it all burn ♪{\i0}
+Dialogue: 0,0:17:11.84,0:17:15.07,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(564,899)}{\i1}♪ There's a girl in the distance{\i0}
+Dialogue: 0,0:17:11.84,0:17:15.07,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(567,966)}{\i1}She's calling your name ♪{\i0}
+Dialogue: 0,0:17:15.24,0:17:18.79,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(531,899)}{\i1}♪ But the name that she's calling{\i0}
+Dialogue: 0,0:17:15.24,0:17:18.79,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(533,966)}{\i1}Is not your name ♪{\i0}
+Dialogue: 0,0:17:18.96,0:17:23.83,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(655,894)}{\i1}♪ She calls wordmule{\i0}
+Dialogue: 0,0:17:18.96,0:17:23.83,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(661,964)}{\i1}Wordmule, wordmule ♪{\i0}
+Dialogue: 0,0:17:24.00,0:17:27.03,Dialogue4,Unknown,0000,0000,0000,,{\an5\pos(962,114)}{\i1}♪ But it's plowing the field{\i0}
+Dialogue: 0,0:17:24.00,0:17:27.03,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(632,176)}{\i1}That wordmule ♪{\i0}
+Dialogue: 0,0:17:28.00,0:17:30.95,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(632,964)}{\i1}♪ Wordmule, wordmule ♪{\i0}
+Dialogue: 0,0:17:31.12,0:17:34.15,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(603,966)}{\i1}♪ But it's plowing the field ♪{\i0}
+Dialogue: 0,0:17:47.32,0:17:51.03,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(522,899)}{\i1}♪ My friends, look out for hustlers{\i0}
+Dialogue: 0,0:17:47.32,0:17:51.03,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(524,966)}{\i1}For preachers, for shysters ♪{\i0}
+Dialogue: 0,0:17:51.20,0:17:54.67,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(578,899)}{\i1}♪ Them silver-tongued saints{\i0}
+Dialogue: 0,0:17:51.20,0:17:54.67,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(584,966)}{\i1}That pretend to do good ♪{\i0}
+Dialogue: 0,0:17:54.88,0:17:56.95,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(622,899)}{\i1}♪ 'Cause they're geeks{\i0}
+Dialogue: 0,0:17:54.88,0:17:56.95,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(623,966)}{\i1}Biting chicken heads off ♪{\i0}
+Dialogue: 0,0:17:57.12,0:17:59.35,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(580,966)}{\i1}♪ With their witty rejoinders ♪{\i0}
+Dialogue: 0,0:17:59.52,0:18:03.11,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(430,899)}{\i1}♪ They ain't nothing but greasy fast food{\i0}
+Dialogue: 0,0:17:59.52,0:18:03.11,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(436,960)}{\i1}Wordmule ♪{\i0}
+Dialogue: 0,0:18:03.28,0:18:04.87,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(698,964)}{\i1}♪ Yeah, wordmule ♪{\i0}
+Dialogue: 0,0:18:05.04,0:18:06.67,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(787,899)}{\i1}♪ Some got it{\i0}
+Dialogue: 0,0:18:05.04,0:18:06.67,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(793,960)}{\i1}Wordmule ♪{\i0}
+Dialogue: 0,0:18:06.84,0:18:10.31,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(693,894)}{\i1}♪ It will eat them live{\i0}
+Dialogue: 0,0:18:06.84,0:18:10.31,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(699,961)}{\i1}That wordmule ♪{\i0}
+Dialogue: 0,0:18:10.56,0:18:13.79,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(678,897)}{\i1}♪ Uh-huh, wordmule{\i0}
+Dialogue: 0,0:18:10.56,0:18:13.79,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(684,964)}{\i1}Yuh-huh, wordmule ♪{\i0}
+Dialogue: 0,0:18:13.96,0:18:17.95,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(639,966)}{\i1}♪ It's plowing the field ♪♪{\i0}
+Dialogue: 0,0:18:22.48,0:18:26.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(480,967)}Dude, you are tripping. I'm not dead.
+Dialogue: 0,0:18:26.36,0:18:29.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,900)}I'm on the starship {\i1}Enterprise,{\i0}
+Dialogue: 0,0:18:26.36,0:18:29.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}macking on Yeoman Rand
+Dialogue: 0,0:18:29.48,0:18:33.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,901)}while the Andorian with the disruptor
+Dialogue: 0,0:18:29.48,0:18:33.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,965)}is back on Talos IV, or whatever.
+Dialogue: 0,0:18:34.16,0:18:36.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(993,901)}What do you think
+Dialogue: 0,0:18:34.16,0:18:36.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(994,967)}all those sparkles and shit are?
+Dialogue: 0,0:18:36.60,0:18:38.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1053,901)}Transporters
+Dialogue: 0,0:18:36.60,0:18:38.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1054,967)}are breaking you apart, man.
+Dialogue: 0,0:18:38.64,0:18:41.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(869,901)}Down to your molecules and bones.
+Dialogue: 0,0:18:38.64,0:18:41.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(866,967)}They're making a copy.
+Dialogue: 0,0:18:42.16,0:18:46.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(790,896)}That dude who comes out on the other
+Dialogue: 0,0:18:42.16,0:18:46.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(791,967)}side? He's not you. He's a color Xerox.
+Dialogue: 0,0:18:46.92,0:18:51.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,835)}So you're telling me every
+Dialogue: 0,0:18:46.92,0:18:51.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,901)}time Kirk went into the transporter
+Dialogue: 0,0:18:46.92,0:18:51.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}he was killing himself?
+Dialogue: 0,0:18:51.44,0:18:54.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,899)}So over the whole series,
+Dialogue: 0,0:18:51.44,0:18:54.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,965)}there's, like, 147 Kirks?
+Dialogue: 0,0:18:55.12,0:19:00.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1105,835)}At least. Dude, why do you
+Dialogue: 0,0:18:55.12,0:19:00.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1106,901)}think McCoy never likes
+Dialogue: 0,0:18:55.12,0:19:00.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1106,961)}to beam nowhere?
+Dialogue: 0,0:19:01.16,0:19:05.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1054,899)}Because he's a doctor, bitch.
+Dialogue: 0,0:19:01.16,0:19:05.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1054,967)}Look it up. It's science.
+Dialogue: 0,0:19:07.44,0:19:10.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,901)}I ever tell you about
+Dialogue: 0,0:19:07.44,0:19:10.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}my {\i1}Star Trek{\i0} script?
+Dialogue: 0,0:19:10.56,0:19:14.07,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(846,835)}{\i1}Star Trek{\i0} script?
+Dialogue: 0,0:19:10.56,0:19:14.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}Yeah. I gotta write it down, is all.
+Dialogue: 0,0:19:14.28,0:19:19.71,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(558,900)}The {\i1}Enterprise{\i0}
+Dialogue: 0,0:19:14.28,0:19:19.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(561,967)}is five parsecs out of Rigel XII.
+Dialogue: 0,0:19:19.88,0:19:22.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(683,901)}Nothing's going on.
+Dialogue: 0,0:19:19.88,0:19:22.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(683,967)}Neutral zone is quiet.
+Dialogue: 0,0:19:22.56,0:19:26.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,899)}The crew is bored,
+Dialogue: 0,0:19:22.56,0:19:26.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}so they put on a pie-eating contest.
+Dialogue: 0,0:19:26.80,0:19:29.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,901)}The whole crew's in the galley.
+Dialogue: 0,0:19:26.80,0:19:29.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}They're eating tulaberry pies.
+Dialogue: 0,0:19:29.80,0:19:32.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(843,835)}Tulaberry?
+Dialogue: 0,0:19:29.80,0:19:32.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}Tulaberries, from Gamma Quadrant, yo.
+Dialogue: 0,0:19:32.80,0:19:35.44,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(694,835)}That's {\i1}Voyager,{\i0} dude.
+Dialogue: 0,0:19:32.80,0:19:35.44,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(645,967)}Okay, blueberries, then.
+Dialogue: 0,0:19:35.60,0:19:37.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(576,835)}They're eating blueberry pies
+Dialogue: 0,0:19:35.60,0:19:37.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1647,961)}Better.
+Dialogue: 0,0:19:37.76,0:19:41.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(653,901)}as fast as the replicator
+Dialogue: 0,0:19:37.76,0:19:41.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(653,961)}can churn them out:
+Dialogue: 0,0:19:43.60,0:19:47.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1056,901)}Finally it's down to just three:
+Dialogue: 0,0:19:43.60,0:19:47.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1055,967)}Kirk, Spock and Chekov.
+Dialogue: 0,0:19:47.92,0:19:50.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1145,901)}Okay, Spock always wins
+Dialogue: 0,0:19:47.92,0:19:50.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1143,967)}these things.
+Dialogue: 0,0:19:50.56,0:19:53.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(894,901)}How is Spock gonna beat Kirk, yo?
+Dialogue: 0,0:19:50.56,0:19:53.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(892,967)}Spock's like a toothbrush.
+Dialogue: 0,0:19:53.88,0:19:55.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(851,967)}Look at Kirk. He's got room to spare.
+Dialogue: 0,0:19:55.76,0:20:00.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,835)}Spock has total Vulcan control
+Dialogue: 0,0:19:55.76,0:20:00.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,901)}over his digestion.
+Dialogue: 0,0:19:55.76,0:20:00.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,961)}You wanna hear this or not?
+Dialogue: 0,0:20:00.44,0:20:03.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1389,901)}Yeah. Yeah, go.
+Dialogue: 0,0:20:00.44,0:20:03.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,967)}Okay. Finally, Kirk,
+Dialogue: 0,0:20:03.48,0:20:06.20,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,901)}he can't take it anymore.
+Dialogue: 0,0:20:03.48,0:20:06.20,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}He yorks.
+Dialogue: 0,0:20:06.36,0:20:09.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,901)}Now it's just down
+Dialogue: 0,0:20:06.36,0:20:09.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}to Chekov and Spock.
+Dialogue: 0,0:20:09.28,0:20:14.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(455,901)}But Chekov, you see, he's got a whole
+Dialogue: 0,0:20:09.28,0:20:14.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(451,967)}fat stack of quatloos riding on this
+Dialogue: 0,0:20:15.08,0:20:17.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(482,967)}and he has figured out a way to win.
+Dialogue: 0,0:20:18.00,0:20:22.04,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(788,901)}He's got Scotty back in the Transporter
+Dialogue: 0,0:20:18.00,0:20:22.04,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(788,961)}Room locked in on Chekov's stomach.
+Dialogue: 0,0:20:22.24,0:20:25.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(984,901)}Every time Chekov eats a pie,
+Dialogue: 0,0:20:22.24,0:20:25.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(982,967)}Scotty beams it right out of him.
+Dialogue: 0,0:20:25.56,0:20:28.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(811,835)}Where's he sending them? The toilet?
+Dialogue: 0,0:20:25.56,0:20:28.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(547,967)}Space.
+Dialogue: 0,0:20:28.24,0:20:31.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1292,829)}Oh!
+Dialogue: 0,0:20:28.24,0:20:31.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}There's blueberries just floating out there,
+Dialogue: 0,0:20:31.28,0:20:33.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}frozen, because it's in space.
+Dialogue: 0,0:20:33.32,0:20:35.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,901)}And Chekov is just
+Dialogue: 0,0:20:33.32,0:20:35.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}shoveling them into his mouth
+Dialogue: 0,0:20:36.20,0:20:39.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,901)}and Spock's like, "I can't believe
+Dialogue: 0,0:20:36.20,0:20:39.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}this Russian is defeating me."
+Dialogue: 0,0:20:39.88,0:20:42.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,899)}Meanwhile,
+Dialogue: 0,0:20:39.88,0:20:42.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,967)}Scotty's in the Transporter Room
+Dialogue: 0,0:20:42.40,0:20:45.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(514,901)}fiddling with levers
+Dialogue: 0,0:20:42.40,0:20:45.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(514,962)}when Lieutenant Uhura comes in.
+Dialogue: 0,0:20:45.80,0:20:50.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(468,901)}She's got, you know, her big pointies,
+Dialogue: 0,0:20:45.80,0:20:50.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(467,967)}and Scotty's fingers are all sweaty.
+Dialogue: 0,0:20:50.76,0:20:52.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1144,829)}No.
+Dialogue: 0,0:20:50.76,0:20:52.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(845,961)}Chekov screams.
+Dialogue: 0,0:20:52.76,0:20:55.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(519,967)}He sprays blood out of his mouth.
+Dialogue: 0,0:20:55.60,0:20:58.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,901)}Scotty beamed his guts
+Dialogue: 0,0:20:55.60,0:20:58.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,968)}into space.
+Dialogue: 0,0:20:58.68,0:20:59.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1144,967)}No way!
+Dialogue: 0,0:21:01.84,0:21:04.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,901)}Hey, man, where you going?
+Dialogue: 0,0:21:01.84,0:21:04.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}You're missing the best part.
+Dialogue: 0,0:21:05.12,0:21:07.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}Just fill this out, bring it back to me.
+Dialogue: 0,0:21:08.00,0:21:10.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(540,835)}[HOWE'S "THE BATTLE HYMN
+Dialogue: 0,0:21:08.00,0:21:10.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(539,895)}OF THE REPUBLIC"
+Dialogue: 0,0:21:08.00,0:21:10.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(540,967)}PLAYING OVER SPEAKERS]
+Dialogue: 0,0:21:26.44,0:21:27.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(544,961)}Yo.
+Dialogue: 0,0:21:29.92,0:21:31.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(842,961)}Yo!
+Dialogue: 0,0:22:07.28,0:22:10.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1225,901)}You know you can't
+Dialogue: 0,0:22:07.28,0:22:10.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1227,967)}smoke that up in here.
+Dialogue: 0,0:22:16.84,0:22:20.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,899)}Yeah, Jesse Pinkman's
+Dialogue: 0,0:22:16.84,0:22:20.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}out here smoking pot.
+Dialogue: 0,0:22:20.76,0:22:22.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1215,965)}Give me a break, man.
+Dialogue: 0,0:22:27.48,0:22:30.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}Pinkman. He'll see you now.
+Dialogue: 0,0:22:31.20,0:22:35.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,835)}Woody Harrelson,
+Dialogue: 0,0:22:31.20,0:22:35.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,901)}live and in person. Pull up
+Dialogue: 0,0:22:31.20,0:22:35.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}a bong and take a seat.
+Dialogue: 0,0:22:35.44,0:22:38.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(251,901)}Hey, I'm kidding about the bong.
+Dialogue: 0,0:22:35.44,0:22:38.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(250,967)}Don't be doing that.
+Dialogue: 0,0:22:38.80,0:22:42.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(648,835)}Uh, sorry to keep you
+Dialogue: 0,0:22:38.80,0:22:42.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(645,899)}on ice out there, kid.
+Dialogue: 0,0:22:38.80,0:22:42.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(648,967)}If I'd known it was you...
+Dialogue: 0,0:22:42.24,0:22:44.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(656,899)}Well, that Francesca,
+Dialogue: 0,0:22:42.24,0:22:44.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(660,961)}I've warned her before.
+Dialogue: 0,0:22:45.16,0:22:48.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(631,895)}One more time
+Dialogue: 0,0:22:45.16,0:22:48.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(630,961)}and it's back to the DMV.
+Dialogue: 0,0:22:48.56,0:22:52.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1132,899)}So, uh,
+Dialogue: 0,0:22:48.56,0:22:52.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1131,967)}are we on our own today?
+Dialogue: 0,0:22:53.72,0:22:54.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(846,967)}Barn door open.
+Dialogue: 0,0:22:55.24,0:22:56.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(995,961)}Barn door?
+Dialogue: 0,0:22:57.20,0:22:58.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1143,961)}Oh.
+Dialogue: 0,0:22:59.04,0:23:03.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1195,829)}So how is the maestro?
+Dialogue: 0,0:22:59.04,0:23:03.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1193,901)}Things have been quiet
+Dialogue: 0,0:22:59.04,0:23:03.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1194,962)}on this end.
+Dialogue: 0,0:23:03.44,0:23:04.92,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(715,961)}I haven't seen him.
+Dialogue: 0,0:23:05.44,0:23:07.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1231,967)}Just as well, probably.
+Dialogue: 0,0:23:07.68,0:23:10.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1080,901)}That whole thing in the jails.
+Dialogue: 0,0:23:07.68,0:23:10.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1084,965)}I mean,
+Dialogue: 0,0:23:10.56,0:23:13.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(922,901)}when they start to whack lawyers,
+Dialogue: 0,0:23:10.56,0:23:13.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(923,961)}that's when I draw the line.
+Dialogue: 0,0:23:13.84,0:23:17.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}This goes to Kaylee Ehrmantraut
+Dialogue: 0,0:23:17.60,0:23:23.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,901)}and that goes to
+Dialogue: 0,0:23:17.60,0:23:23.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}Mr. and Mrs. Albert Sharp.
+Dialogue: 0,0:23:24.44,0:23:28.22,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(670,895)}315 East Pueblo.
+Dialogue: 0,0:23:24.44,0:23:28.22,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(673,967)}It's up in White Horse.
+Dialogue: 0,0:23:28.40,0:23:32.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(251,895)}It's 2 and a half million each.
+Dialogue: 0,0:23:28.40,0:23:32.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(247,961)}Total of 5.
+Dialogue: 0,0:23:34.68,0:23:36.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1326,961)}Mr. and Mrs. who?
+Dialogue: 0,0:23:36.68,0:23:38.87,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}Drew Sharp's parents.
+Dialogue: 0,0:23:39.04,0:23:41.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1168,901)}Drew Sharp?
+Dialogue: 0,0:23:39.04,0:23:41.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1169,965)}Uh, that's the kid on TV?
+Dialogue: 0,0:23:41.80,0:23:44.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1163,901)}The missing--?
+Dialogue: 0,0:23:41.80,0:23:44.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1165,967)}So but why would you--?
+Dialogue: 0,0:23:44.68,0:23:48.72,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(990,899)}Scratch that. Heh. I don't know,
+Dialogue: 0,0:23:44.68,0:23:48.72,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(989,961)}and I don't wanna know. Uh...
+Dialogue: 0,0:23:49.76,0:23:53.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1079,835)}The thing is, what those
+Dialogue: 0,0:23:49.76,0:23:53.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1078,895)}folks want is to know
+Dialogue: 0,0:23:49.76,0:23:53.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1078,967)}what happened to their boy.
+Dialogue: 0,0:23:53.36,0:23:57.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1062,829)}A sack full of cash on
+Dialogue: 0,0:23:53.36,0:23:57.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1063,901)}their doorstep? That's just
+Dialogue: 0,0:23:53.36,0:23:57.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1064,968)}gonna raise more questions.
+Dialogue: 0,0:23:57.88,0:24:00.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1036,901)}Kaylee Ehrmantraut?
+Dialogue: 0,0:23:57.88,0:24:00.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1033,967)}That's Mike's granddaughter?
+Dialogue: 0,0:24:01.64,0:24:04.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1164,835)}So this is Mike's money?
+Dialogue: 0,0:24:01.64,0:24:04.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(847,961)}It's mine.
+Dialogue: 0,0:24:05.00,0:24:10.20,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(927,901)}It's your money. Okay. And you're
+Dialogue: 0,0:24:05.00,0:24:10.20,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(924,967)}giving it to Kaylee Ehrmantraut?
+Dialogue: 0,0:24:10.36,0:24:12.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,962)}It's what Mike wanted.
+Dialogue: 0,0:24:14.12,0:24:18.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1240,901)}So you and Mike, uh,
+Dialogue: 0,0:24:14.12,0:24:18.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1238,967)}you've been in touch?
+Dialogue: 0,0:24:23.68,0:24:26.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(897,967)}So we're just talking about charity?
+Dialogue: 0,0:24:26.88,0:24:28.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1663,961)}Yeah.
+Dialogue: 0,0:24:29.08,0:24:33.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1075,835)}Okay, look, you know, um,
+Dialogue: 0,0:24:29.08,0:24:33.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1074,901)}shelling out money to the ex
+Dialogue: 0,0:24:29.08,0:24:33.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1074,967)}and her little boy,
+Dialogue: 0,0:24:33.92,0:24:38.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1197,835)}I kind of get it. I mean,
+Dialogue: 0,0:24:33.92,0:24:38.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1196,899)}kind of. But this, ha, ha,
+Dialogue: 0,0:24:33.92,0:24:38.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1193,967)}this is a bridge too far.
+Dialogue: 0,0:24:39.12,0:24:43.03,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(980,835)}I'm sorry to say, kid,
+Dialogue: 0,0:24:39.12,0:24:43.03,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(979,901)}but you're still gonna be
+Dialogue: 0,0:24:39.12,0:24:43.03,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(976,961)}two miracles short of sainthood.
+Dialogue: 0,0:24:47.28,0:24:50.03,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1140,895)}Brass tacks.
+Dialogue: 0,0:24:47.28,0:24:50.03,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1139,967)}Okay, my job is to advise,
+Dialogue: 0,0:24:50.52,0:24:53.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,901)}and my advice is,
+Dialogue: 0,0:24:50.52,0:24:53.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}come on, already.
+Dialogue: 0,0:24:53.92,0:24:56.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,901)}Mike left one step ahead
+Dialogue: 0,0:24:53.92,0:24:56.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}of the boys in blue.
+Dialogue: 0,0:24:56.36,0:24:58.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,895)}You better believe
+Dialogue: 0,0:24:56.36,0:24:58.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}his family's on the radar.
+Dialogue: 0,0:24:58.72,0:25:01.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,901)}A couple million bucks shows up,
+Dialogue: 0,0:24:58.72,0:25:01.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}they're gonna snatch it.
+Dialogue: 0,0:25:01.76,0:25:04.03,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,901)}The feds have already taken
+Dialogue: 0,0:25:01.76,0:25:04.03,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}Kaylee's money twice.
+Dialogue: 0,0:25:04.20,0:25:07.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,835)}What, are you going for a hat trick?
+Dialogue: 0,0:25:04.20,0:25:07.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1049,967)}I'll freaking do it myself, Saul.
+Dialogue: 0,0:25:07.76,0:25:09.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,899)}No, no, no!
+Dialogue: 0,0:25:07.76,0:25:09.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}I was just thinking out loud.
+Dialogue: 0,0:25:09.92,0:25:12.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1037,901)}Enough bullshit, Saul.
+Dialogue: 0,0:25:09.92,0:25:12.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1032,967)}Are you gonna do this or not?
+Dialogue: 0,0:25:12.92,0:25:16.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}Yes, yes. Absolutely. I live to serve.
+Dialogue: 0,0:25:19.32,0:25:23.20,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,835)}And, kid, you might wanna
+Dialogue: 0,0:25:19.32,0:25:23.20,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,902)}think about cleaning up a little,
+Dialogue: 0,0:25:19.32,0:25:23.20,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,968)}getting some rest.
+Dialogue: 0,0:25:23.36,0:25:26.00,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(246,830)}You've looked better.
+Dialogue: 0,0:25:23.36,0:25:26.00,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1398,967)}Just get it done.
+Dialogue: 0,0:25:33.36,0:25:36.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(664,895)}You know who this is?
+Dialogue: 0,0:25:33.36,0:25:36.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(668,967)}Don't hang up on me.
+Dialogue: 0,0:25:38.80,0:25:40.20,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(635,967)}Yeah, there's a problem.
+Dialogue: 0,0:25:40.36,0:25:43.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(636,895)}There's 5 million of them
+Dialogue: 0,0:25:40.36,0:25:43.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(639,967)}here in my office.
+Dialogue: 0,0:25:43.36,0:25:47.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,965)}No, no, don't. Just hold on to it.
+Dialogue: 0,0:25:48.80,0:25:49.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(544,961)}Yes.
+Dialogue: 0,0:25:50.12,0:25:51.60,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(544,961)}Ye--
+Dialogue: 0,0:25:51.88,0:25:53.28,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(544,961)}Yes.
+Dialogue: 0,0:25:53.76,0:25:55.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(398,961)}Calm down.
+Dialogue: 0,0:25:57.72,0:25:59.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(400,961)}I'll handle it.
+Dialogue: 0,0:26:59.44,0:27:01.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}Déjà vu, huh?
+Dialogue: 0,0:27:03.52,0:27:05.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(247,962)}Jesus.
+Dialogue: 0,0:27:05.80,0:27:07.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(781,967)}All right, look,
+Dialogue: 0,0:27:08.68,0:27:10.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(712,901)}you wanna talk me
+Dialogue: 0,0:27:08.68,0:27:10.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(712,967)}through this?
+Dialogue: 0,0:27:11.60,0:27:13.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1163,967)}What you were thinking?
+Dialogue: 0,0:27:15.84,0:27:19.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,901)}What you asked Saul to do.
+Dialogue: 0,0:27:15.84,0:27:19.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,965)}I mean, come on.
+Dialogue: 0,0:27:19.40,0:27:21.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1289,967)}It's just nonsensical.
+Dialogue: 0,0:27:31.04,0:27:32.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1560,967)}Do you--?
+Dialogue: 0,0:27:34.56,0:27:36.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1049,901)}Do you have any explanation
+Dialogue: 0,0:27:34.56,0:27:36.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1047,961)}at all?
+Dialogue: 0,0:27:38.64,0:27:41.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,901)}Blood money.
+Dialogue: 0,0:27:38.64,0:27:41.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1647,961)}What?
+Dialogue: 0,0:27:43.12,0:27:44.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}It's like you said.
+Dialogue: 0,0:27:45.52,0:27:47.87,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}It's blood money.
+Dialogue: 0,0:27:48.08,0:27:49.48,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1443,961)}I sa--?
+Dialogue: 0,0:27:52.36,0:27:55.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1121,901)}Jesus. Okay, yes, all right.
+Dialogue: 0,0:27:52.36,0:27:55.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1124,961)}I said that.
+Dialogue: 0,0:27:56.44,0:27:57.92,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1294,962)}I did.
+Dialogue: 0,0:27:59.52,0:28:04.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(849,895)}But it was in the heat of the moment.
+Dialogue: 0,0:27:59.52,0:28:04.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(850,967)}I was trying to win an argument.
+Dialogue: 0,0:28:04.40,0:28:06.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(606,967)}All right? And I was wrong.
+Dialogue: 0,0:28:09.08,0:28:11.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(702,967)}This is your money.
+Dialogue: 0,0:28:11.28,0:28:13.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(606,967)}Come on, you've earned it.
+Dialogue: 0,0:28:34.80,0:28:36.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1490,967)}Drew Sharp.
+Dialogue: 0,0:28:38.32,0:28:41.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1140,901)}That is a terrible memory,
+Dialogue: 0,0:28:38.32,0:28:41.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1143,961)}no doubt about it.
+Dialogue: 0,0:28:44.68,0:28:46.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1587,965)}But, son,
+Dialogue: 0,0:28:47.44,0:28:52.46,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1066,901)}you need to stop focusing
+Dialogue: 0,0:28:47.44,0:28:52.46,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1067,967)}on the darkness behind you.
+Dialogue: 0,0:28:52.88,0:28:55.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1280,968)}The past is the past.
+Dialogue: 0,0:28:59.60,0:29:02.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1136,901)}Look, nothing can change
+Dialogue: 0,0:28:59.60,0:29:02.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1132,961)}what we've done.
+Dialogue: 0,0:29:04.60,0:29:06.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1298,961)}But now that's over.
+Dialogue: 0,0:29:08.04,0:29:09.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1531,961)}You're out.
+Dialogue: 0,0:29:10.84,0:29:12.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1482,962)}And so am I.
+Dialogue: 0,0:29:15.68,0:29:18.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1247,967)}That's right. I'm done.
+Dialogue: 0,0:29:20.08,0:29:23.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(978,961)}I've been out for about a month.
+Dialogue: 0,0:29:26.00,0:29:32.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1179,901)}But there is nothing left
+Dialogue: 0,0:29:26.00,0:29:32.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1175,967)}for us to do except to try
+Dialogue: 0,0:29:32.52,0:29:34.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1614,961)}to live...
+Dialogue: 0,0:29:35.40,0:29:38.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1238,967)}ordinary, decent lives.
+Dialogue: 0,0:29:53.56,0:29:56.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1120,967)}Why Kaylee Ehrmantraut?
+Dialogue: 0,0:29:59.20,0:30:01.84,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,895)}She needs someone
+Dialogue: 0,0:29:59.20,0:30:01.84,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}looking after her.
+Dialogue: 0,0:30:03.60,0:30:09.03,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1166,835)}Mike is perfectly capable
+Dialogue: 0,0:30:03.60,0:30:09.03,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1164,901)}of looking after his own
+Dialogue: 0,0:30:03.60,0:30:09.03,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1164,967)}granddaughter.
+Dialogue: 0,0:30:10.68,0:30:12.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(251,962)}I don't think so.
+Dialogue: 0,0:30:13.76,0:30:16.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}I don't think he is capable.
+Dialogue: 0,0:30:16.88,0:30:19.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}I don't think he's coming back.
+Dialogue: 0,0:30:20.08,0:30:22.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1240,895)}What--?
+Dialogue: 0,0:30:20.08,0:30:22.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1240,967)}What are you saying?
+Dialogue: 0,0:30:24.52,0:30:26.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}You doing what you did,
+Dialogue: 0,0:30:27.24,0:30:29.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}offing Mike's guys?
+Dialogue: 0,0:30:30.80,0:30:35.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,833)}If he was out there,
+Dialogue: 0,0:30:30.80,0:30:35.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,901)}you'd have to look over your
+Dialogue: 0,0:30:30.80,0:30:35.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}shoulder for the rest of your life.
+Dialogue: 0,0:30:35.92,0:30:40.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,901)}And that's not how you do things.
+Dialogue: 0,0:30:35.92,0:30:40.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,965)}So I think he's dead,
+Dialogue: 0,0:30:41.52,0:30:43.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}and I think you know that.
+Dialogue: 0,0:30:45.84,0:30:47.87,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1372,962)}I don't know that.
+Dialogue: 0,0:30:51.28,0:30:53.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1145,962)}I don't.
+Dialogue: 0,0:30:54.76,0:30:56.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1480,961)}Listen to me.
+Dialogue: 0,0:30:57.36,0:31:00.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1364,962)}I did not kill Mike.
+Dialogue: 0,0:31:01.64,0:31:06.84,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1073,833)}The last time that I saw him,
+Dialogue: 0,0:31:01.64,0:31:06.84,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1076,901)}he had his bag,
+Dialogue: 0,0:31:01.64,0:31:06.84,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1073,967)}the one that I brought him.
+Dialogue: 0,0:31:07.00,0:31:09.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1205,901)}And he got into his car,
+Dialogue: 0,0:31:07.00,0:31:09.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1207,967)}and he drove away.
+Dialogue: 0,0:31:09.28,0:31:12.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1318,899)}And for all I know,
+Dialogue: 0,0:31:09.28,0:31:12.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1322,962)}he's alive and well.
+Dialogue: 0,0:31:15.12,0:31:16.34,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1140,961)}And if...
+Dialogue: 0,0:31:17.44,0:31:22.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(776,895)}If he does come back and he doesn't
+Dialogue: 0,0:31:17.44,0:31:22.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(775,967)}understand why I had to do what I did...
+Dialogue: 0,0:31:23.88,0:31:26.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1191,965)}well, then, that's on me.
+Dialogue: 0,0:31:30.28,0:31:31.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1631,961)}Jesse?
+Dialogue: 0,0:31:34.32,0:31:36.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(626,967)}I need you to believe this.
+Dialogue: 0,0:31:41.72,0:31:44.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(251,967)}It's not true. It's just not.
+Dialogue: 0,0:31:46.88,0:31:48.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(398,961)}So he's out there?
+Dialogue: 0,0:31:49.92,0:31:51.14,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(549,967)}He's okay?
+Dialogue: 0,0:31:51.32,0:31:52.80,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1699,961)}Yes.
+Dialogue: 0,0:31:53.32,0:31:57.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1416,899)}Mike is fine,
+Dialogue: 0,0:31:53.32,0:31:57.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1412,961)}wherever he is.
+Dialogue: 0,0:31:58.20,0:32:01.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(969,895)}We both know
+Dialogue: 0,0:31:58.20,0:32:01.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(969,961)}that he can take care of himself.
+Dialogue: 0,0:32:02.80,0:32:07.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(869,901)}And he's certainly capable
+Dialogue: 0,0:32:02.80,0:32:07.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(870,967)}to provide for his own family. Okay?
+Dialogue: 0,0:32:11.16,0:32:12.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(992,962)}Jesse.
+Dialogue: 0,0:32:14.80,0:32:17.52,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1154,967)}I need you to believe me.
+Dialogue: 0,0:32:21.64,0:32:23.04,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(544,961)}Yeah.
+Dialogue: 0,0:32:23.48,0:32:25.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(399,967)}Like you said.
+Dialogue: 0,0:32:26.40,0:32:27.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(400,961)}He's alive.
+Dialogue: 0,0:32:30.84,0:32:32.16,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1663,961)}Yeah.
+Dialogue: 0,0:32:34.32,0:32:36.03,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1499,961)}Mike's alive.
+Dialogue: 0,0:32:43.20,0:32:44.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}Absolutely.
+Dialogue: 0,0:32:53.12,0:32:56.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(490,901)}You've got to have a counselor.
+Dialogue: 0,0:32:53.12,0:32:56.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(490,967)}Are they bringing in someone new?
+Dialogue: 0,0:32:56.44,0:32:59.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(615,896)}I don't know.
+Dialogue: 0,0:32:56.44,0:32:59.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(615,967)}Um, maybe she'll be back.
+Dialogue: 0,0:32:59.52,0:33:03.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1003,829)}What if she's not?
+Dialogue: 0,0:32:59.52,0:33:03.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1003,901)}What are you supposed to do?
+Dialogue: 0,0:32:59.52,0:33:03.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1003,967)}What's Louis gonna do?
+Dialogue: 0,0:33:03.80,0:33:05.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(742,961)}He's not worried.
+Dialogue: 0,0:33:05.52,0:33:09.30,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1057,835)}Oh, yeah, sure.
+Dialogue: 0,0:33:05.52,0:33:09.30,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1055,901)}What's there to worry about?
+Dialogue: 0,0:33:05.52,0:33:09.30,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1059,967)}It's only college, right?
+Dialogue: 0,0:33:09.48,0:33:10.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(251,967)}Right.
+Dialogue: 0,0:33:11.00,0:33:13.56,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,901)}College.
+Dialogue: 0,0:33:11.00,0:33:13.56,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}Nothing more important.
+Dialogue: 0,0:33:13.80,0:33:16.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(937,901)}Oh, you know,
+Dialogue: 0,0:33:13.80,0:33:16.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(939,967)}Uncle Hank's still not feeling well,
+Dialogue: 0,0:33:17.00,0:33:18.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(982,967)}so bowling's off tomorrow night.
+Dialogue: 0,0:33:18.96,0:33:20.44,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1314,835)}- Really?
+Dialogue: 0,0:33:18.96,0:33:20.44,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1369,967)}- Really.
+Dialogue: 0,0:33:20.64,0:33:23.20,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1128,901)}So you're spared
+Dialogue: 0,0:33:20.64,0:33:23.20,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1127,967)}a night out with the family.
+Dialogue: 0,0:33:23.84,0:33:25.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1189,895)}You do not have to look
+Dialogue: 0,0:33:23.84,0:33:25.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1191,967)}so happy about it.
+Dialogue: 0,0:33:26.00,0:33:27.87,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}I'll be right back.
+Dialogue: 0,0:33:28.40,0:33:29.80,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,961)}Um...
+Dialogue: 0,0:33:31.04,0:33:33.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,967)}So if bowling's off,
+Dialogue: 0,0:33:34.12,0:33:37.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(653,967)}can I get a late curfew?
+Dialogue: 0,0:34:54.12,0:34:56.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,901)}Are you gonna
+Dialogue: 0,0:34:54.12,0:34:56.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}turn off the light?
+Dialogue: 0,0:34:56.84,0:34:59.03,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1354,900)}Have you seen
+Dialogue: 0,0:34:56.84,0:34:59.03,Dialogue4,Unknown,0000,0000,0000,,{\an4\pos(1351,960)}{\i1}Leaves of Grass?{\i0}
+Dialogue: 0,0:34:59.28,0:35:00.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(400,961)}Hm?
+Dialogue: 0,0:35:00.92,0:35:02.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(995,967)}My book.
+Dialogue: 0,0:35:02.80,0:35:04.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1223,895)}Walt Whitman.
+Dialogue: 0,0:35:02.80,0:35:04.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1226,967)}Dark green hardcover.
+Dialogue: 0,0:35:05.16,0:35:07.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,896)}I didn't even know
+Dialogue: 0,0:35:05.16,0:35:07.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,961)}we had that.
+Dialogue: 0,0:35:09.20,0:35:10.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1145,961)}Hm.
+Dialogue: 0,0:35:16.32,0:35:18.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1160,961)}You don't think Junior...?
+Dialogue: 0,0:35:18.80,0:35:20.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}You're kidding, right?
+Dialogue: 0,0:35:21.96,0:35:23.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(992,965)}Well,
+Dialogue: 0,0:35:24.16,0:35:25.87,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(846,967)}it'll show up.
+Dialogue: 0,0:35:42.44,0:35:45.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(624,835)}What's wrong with Hank?
+Dialogue: 0,0:35:42.44,0:35:45.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(399,961)}Mm...
+Dialogue: 0,0:35:46.72,0:35:49.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}It's a stomach bug, sounds like.
+Dialogue: 0,0:35:49.76,0:35:52.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,961)}He hasn't been to work all week.
+Dialogue: 0,0:35:55.08,0:35:57.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}Well, good night.
+Dialogue: 0,0:35:59.76,0:36:01.08,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(887,967)}Night.
+Dialogue: 0,0:38:10.16,0:38:12.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1236,895)}Mister.
+Dialogue: 0,0:38:10.16,0:38:12.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1235,967)}Can you help me out?
+Dialogue: 0,0:38:12.76,0:38:14.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1252,967)}Spare some change?
+Dialogue: 0,0:38:25.96,0:38:27.36,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(549,967)}Hey.
+Dialogue: 0,0:38:27.84,0:38:28.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(398,961)}Come back.
+Dialogue: 0,0:38:29.16,0:38:33.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,899)}Yeah. You. Come here,
+Dialogue: 0,0:38:29.16,0:38:33.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}I got something for you.
+Dialogue: 0,0:38:38.80,0:38:40.35,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(400,961)}Here.
+Dialogue: 0,0:38:40.56,0:38:42.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(864,961)}Take it.
+Dialogue: 0,0:38:42.84,0:38:43.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(824,961)}Go ahead.
+Dialogue: 0,0:38:45.52,0:38:47.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,961)}Just take it.
+Dialogue: 0,0:38:50.84,0:38:52.06,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(864,961)}Take it.
+Dialogue: 0,0:38:54.76,0:38:56.16,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(395,961)}Yeah.
+Dialogue: 0,0:39:36.24,0:39:38.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(676,901)}Anything you want us
+Dialogue: 0,0:39:36.24,0:39:38.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(677,961)}to tell Steve Gomez?
+Dialogue: 0,0:39:38.64,0:39:40.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(579,967)}Says he's worried about you.
+Dialogue: 0,0:39:40.44,0:39:42.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1189,901)}Yeah. Tell him I already
+Dialogue: 0,0:39:40.44,0:39:42.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1191,967)}got two grandmas.
+Dialogue: 0,0:39:44.80,0:39:49.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1123,901)}Listen, tell everybody
+Dialogue: 0,0:39:44.80,0:39:49.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1123,967)}more work and less worry.
+Dialogue: 0,0:39:51.20,0:39:53.66,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1029,895)}Guess we better hit it.
+Dialogue: 0,0:39:51.20,0:39:53.66,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,961)}Yeah.
+Dialogue: 0,0:39:54.48,0:39:55.88,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,961)}Yeah.
+Dialogue: 0,0:40:15.12,0:40:16.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(720,835)}- Hey, guys.
+Dialogue: 0,0:40:15.12,0:40:16.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(722,961)}- Walt.
+Dialogue: 0,0:40:17.16,0:40:18.56,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(637,835)}How are you?
+Dialogue: 0,0:40:17.16,0:40:18.56,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(633,967)}Good to see you.
+Dialogue: 0,0:40:18.72,0:40:20.12,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(751,967)}How you doing?
+Dialogue: 0,0:40:20.28,0:40:22.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,901)}Well, you know,
+Dialogue: 0,0:40:20.28,0:40:22.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}I can't complain. Heh, heh.
+Dialogue: 0,0:40:22.44,0:40:24.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,901)}How's your son's arm?
+Dialogue: 0,0:40:22.44,0:40:24.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}I was thinking about that.
+Dialogue: 0,0:40:24.96,0:40:26.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(464,967)}Back to 100 percent. Going to district.
+Dialogue: 0,0:40:26.96,0:40:28.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(105,901)}Gonna be exciting.
+Dialogue: 0,0:40:26.96,0:40:28.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}This Saturday?
+Dialogue: 0,0:40:28.64,0:40:31.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,901)}This Saturday morning.
+Dialogue: 0,0:40:28.64,0:40:31.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}I think first pitch is at 10 a.m.
+Dialogue: 0,0:40:32.48,0:40:34.94,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,835)}Yeah, yeah. It'll be fun.
+Dialogue: 0,0:40:32.48,0:40:34.94,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}Should be a big crowd.
+Dialogue: 0,0:40:35.40,0:40:37.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1349,835)}Guys, you're still
+Dialogue: 0,0:40:35.40,0:40:37.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1348,896)}on the clock here!
+Dialogue: 0,0:40:35.40,0:40:37.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1350,967)}Let's go.
+Dialogue: 0,0:40:37.96,0:40:39.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,835)}- See you, Walt.
+Dialogue: 0,0:40:37.96,0:40:39.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}- See you, Artie.
+Dialogue: 0,0:40:39.68,0:40:41.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,901)}All right, Scott.
+Dialogue: 0,0:40:39.68,0:40:41.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,961)}Be well.
+Dialogue: 0,0:40:46.00,0:40:49.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,835)}They're good guys, huh?
+Dialogue: 0,0:40:46.00,0:40:49.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1157,967)}Yeah, they're good guys.
+Dialogue: 0,0:40:49.44,0:40:52.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,835)}Well, it's good to see you up and about.
+Dialogue: 0,0:40:49.44,0:40:52.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1663,961)}Yeah.
+Dialogue: 0,0:40:52.28,0:40:56.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,835)}How are you feeling?
+Dialogue: 0,0:40:52.28,0:40:56.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(804,967)}Well, you know. I've been better, but...
+Dialogue: 0,0:40:57.92,0:40:59.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1289,895)}Yeah.
+Dialogue: 0,0:40:57.92,0:40:59.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}Have you--?
+Dialogue: 0,0:40:59.64,0:41:01.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,901)}Did you get to see a doctor?
+Dialogue: 0,0:40:59.64,0:41:01.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,965)}I mean,
+Dialogue: 0,0:41:01.68,0:41:04.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,901)}when one of these things
+Dialogue: 0,0:41:01.68,0:41:04.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}lasts more than three days,
+Dialogue: 0,0:41:04.48,0:41:08.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,835)}you really should get that checked.
+Dialogue: 0,0:41:04.48,0:41:08.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1074,965)}Yeah, no, I did, and I'm fine.
+Dialogue: 0,0:41:09.08,0:41:10.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1100,901)}I'm, what they say,
+Dialogue: 0,0:41:09.08,0:41:10.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1097,967)}on the upswing, you know?
+Dialogue: 0,0:41:10.88,0:41:13.52,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,895)}Mm. Good. Good to hear.
+Dialogue: 0,0:41:10.88,0:41:13.52,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1663,961)}Yeah.
+Dialogue: 0,0:41:15.56,0:41:19.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,901)}When I heard you weren't
+Dialogue: 0,0:41:15.56,0:41:19.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}going in to work, I-- Well...
+Dialogue: 0,0:41:20.08,0:41:22.87,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,901)}Looks like you have the work
+Dialogue: 0,0:41:20.08,0:41:22.87,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,968)}coming to you.
+Dialogue: 0,0:41:23.08,0:41:25.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,901)}Perks of being the boss,
+Dialogue: 0,0:41:23.08,0:41:25.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,961)}huh?
+Dialogue: 0,0:41:25.60,0:41:27.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1414,967)}Eh, you know...
+Dialogue: 0,0:41:30.60,0:41:32.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1489,965)}How's, uh--?
+Dialogue: 0,0:41:32.48,0:41:33.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}How's things at the car wash?
+Dialogue: 0,0:41:33.64,0:41:35.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(882,895)}Good.
+Dialogue: 0,0:41:33.64,0:41:35.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,961)}Yeah?
+Dialogue: 0,0:41:36.68,0:41:37.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}Yeah, really good.
+Dialogue: 0,0:41:39.96,0:41:42.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,901)}Hey, did you have
+Dialogue: 0,0:41:39.96,0:41:42.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}any of that potato salad?
+Dialogue: 0,0:41:44.52,0:41:47.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1062,835)}I don't know. Maybe. Maybe.
+Dialogue: 0,0:41:44.52,0:41:47.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}Yeah, I mean, no one else got sick,
+Dialogue: 0,0:41:47.92,0:41:50.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,901)}so I probably
+Dialogue: 0,0:41:47.92,0:41:50.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}shouldn't worry about it.
+Dialogue: 0,0:41:54.52,0:41:57.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,901)}Well, Skyler will be very happy
+Dialogue: 0,0:41:54.52,0:41:57.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}to hear that you're feeling better.
+Dialogue: 0,0:41:57.92,0:42:01.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,899)}Which reminds me,
+Dialogue: 0,0:41:57.92,0:42:01.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}I better get back to it.
+Dialogue: 0,0:42:04.24,0:42:06.51,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}If there's anything I can do...
+Dialogue: 0,0:42:13.32,0:42:14.80,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(400,961)}Feel better.
+Dialogue: 0,0:42:27.48,0:42:28.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1506,961)}You know...
+Dialogue: 0,0:42:31.56,0:42:35.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,901)}you're gonna laugh,
+Dialogue: 0,0:42:31.56,0:42:35.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,967)}but I have to ask you about this.
+Dialogue: 0,0:42:36.96,0:42:40.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,899)}Believe it or not,
+Dialogue: 0,0:42:36.96,0:42:40.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}I found this on my car.
+Dialogue: 0,0:42:40.40,0:42:45.03,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,835)}I mean, it looks just like
+Dialogue: 0,0:42:40.40,0:42:45.03,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,895)}the GPS tracker that we used
+Dialogue: 0,0:42:40.40,0:42:45.03,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}on Gus Fring, doesn't it?
+Dialogue: 0,0:42:45.92,0:42:48.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(106,901)}Back when we were tracking him,
+Dialogue: 0,0:42:45.92,0:42:48.71,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(99,967)}just the two of us.
+Dialogue: 0,0:42:50.68,0:42:53.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,901)}You wouldn't know anything
+Dialogue: 0,0:42:50.68,0:42:53.55,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}about this, would you, Hank?
+Dialogue: 0,0:43:09.84,0:43:11.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(246,967)}You okay?
+Dialogue: 0,0:43:12.52,0:43:16.48,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,901)}I gotta say, I don't like the way
+Dialogue: 0,0:43:12.52,0:43:16.48,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,967)}you're looking at me right now.
+Dialogue: 0,0:43:30.16,0:43:31.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1538,967)}It was you.
+Dialogue: 0,0:43:32.08,0:43:34.31,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1272,967)}All along, it was you!
+Dialogue: 0,0:43:35.00,0:43:37.19,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1322,961)}You son of a bitch.
+Dialogue: 0,0:43:37.36,0:43:39.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1038,895)}You drove into traffic
+Dialogue: 0,0:43:37.36,0:43:39.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1039,967)}to keep me from that laundry.
+Dialogue: 0,0:43:39.92,0:43:41.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(249,961)}Calm down.
+Dialogue: 0,0:43:42.40,0:43:44.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,901)}That call I got, telling me Marie
+Dialogue: 0,0:43:42.40,0:43:44.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}was in the hospital,
+Dialogue: 0,0:43:45.24,0:43:47.03,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,961)}that wasn't Pinkman.
+Dialogue: 0,0:43:48.28,0:43:49.91,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}You had my cell number.
+Dialogue: 0,0:43:50.12,0:43:53.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,895)}You killed 10 witnesses
+Dialogue: 0,0:43:50.12,0:43:53.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,968)}to save your sorry ass.
+Dialogue: 0,0:43:53.48,0:43:56.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1480,829)}Listen to me.
+Dialogue: 0,0:43:53.48,0:43:56.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,967)}You bombed a nursing home.
+Dialogue: 0,0:43:57.48,0:44:00.79,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}Heisenberg. Heisenberg.
+Dialogue: 0,0:44:00.96,0:44:03.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,901)}You lying,
+Dialogue: 0,0:44:00.96,0:44:03.27,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(103,961)}two-faced sack of shit.
+Dialogue: 0,0:44:03.44,0:44:04.87,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1668,961)}Hank.
+Dialogue: 0,0:44:05.16,0:44:08.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(991,899)}Look, I don't know where this is
+Dialogue: 0,0:44:05.16,0:44:08.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(989,967)}coming from, Hank, but just--
+Dialogue: 0,0:44:08.32,0:44:10.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(251,965)}I swear to Christ,
+Dialogue: 0,0:44:10.32,0:44:13.87,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,835)}I will put you under the jail.
+Dialogue: 0,0:44:10.32,0:44:13.87,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(769,967)}Take a breath, okay? Listen to yourself.
+Dialogue: 0,0:44:14.08,0:44:17.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(893,901)}These wild accusations, they could
+Dialogue: 0,0:44:14.08,0:44:17.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(894,967)}destroy our family. And for what?
+Dialogue: 0,0:44:17.44,0:44:19.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(102,901)}You don't give a shit
+Dialogue: 0,0:44:17.44,0:44:19.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(104,967)}about family!
+Dialogue: 0,0:44:26.44,0:44:29.16,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1154,967)}Hank, my cancer is back.
+Dialogue: 0,0:44:29.88,0:44:31.20,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(547,961)}Good.
+Dialogue: 0,0:44:32.36,0:44:34.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}Rot, you son of a bitch.
+Dialogue: 0,0:44:35.92,0:44:37.87,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1112,967)}I'm sorry you feel that way.
+Dialogue: 0,0:44:39.04,0:44:41.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1073,967)}I wanna beat this thing, I do.
+Dialogue: 0,0:44:41.60,0:44:44.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1147,899)}I'm back on chemo,
+Dialogue: 0,0:44:41.60,0:44:44.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1144,967)}and I am fighting like hell.
+Dialogue: 0,0:44:47.12,0:44:53.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1036,833)}But the truth is, in six months,
+Dialogue: 0,0:44:47.12,0:44:53.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1033,901)}you won't have someone
+Dialogue: 0,0:44:47.12,0:44:53.11,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1033,968)}to prosecute.
+Dialogue: 0,0:44:54.96,0:44:56.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(995,961)}But even--
+Dialogue: 0,0:44:56.88,0:45:02.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1107,901)}Even if somehow you were
+Dialogue: 0,0:44:56.88,0:45:02.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1104,967)}able to convince anyone
+Dialogue: 0,0:45:03.36,0:45:06.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1250,901)}that I was capable
+Dialogue: 0,0:45:03.36,0:45:06.23,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1251,967)}of doing these things,
+Dialogue: 0,0:45:06.76,0:45:12.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(953,901)}you and I both know I would
+Dialogue: 0,0:45:06.76,0:45:12.47,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(956,967)}never see the inside of a jail cell.
+Dialogue: 0,0:45:17.00,0:45:18.95,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(996,967)}I'm a dying man
+Dialogue: 0,0:45:19.56,0:45:21.15,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1252,962)}who runs a car wash.
+Dialogue: 0,0:45:21.36,0:45:26.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1246,901)}My right hand to God,
+Dialogue: 0,0:45:21.36,0:45:26.07,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1243,961)}that is all that I am.
+Dialogue: 0,0:45:30.68,0:45:32.39,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1358,967)}What's the point?
+Dialogue: 0,0:45:37.56,0:45:39.99,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}Have Skyler bring the kids here.
+Dialogue: 0,0:45:40.84,0:45:42.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(246,962)}And then we'll talk.
+Dialogue: 0,0:45:47.04,0:45:49.50,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1076,967)}That is not going to happen.
+Dialogue: 0,0:45:55.52,0:45:57.67,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}I don't know who you are.
+Dialogue: 0,0:45:59.92,0:46:02.75,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(107,967)}I don't even know who I'm talking to.
+Dialogue: 0,0:46:06.88,0:46:08.59,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(847,961)}If that's true...
+Dialogue: 0,0:46:09.92,0:46:13.43,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(1068,967)}if you don't know who I am...
+Dialogue: 0,0:46:18.32,0:46:20.63,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(996,967)}then maybe your best course...
+Dialogue: 0,0:46:22.00,0:46:24.83,Dialogue2,Unknown,0000,0000,0000,,{\an4\pos(693,967)}would be to tread lightly.

@@ -1,0 +1,4221 @@
+﻿1
+00:01:02,987 --> 00:01:06,204
+<i>Please verify that the P-one ATA removal</i>
+
+2
+00:01:06,229 --> 00:01:08,850
+<i>on replacement cap part
+one and two are complete.</i>
+
+3
+00:01:09,626 --> 00:01:13,716
+<i>DMA M-one, M-two, M-three and M-four
+are complete.</i>
+
+4
+00:01:13,926 --> 00:01:15,849
+<i>Ok. Copy that, Explorer.</i>
+
+5
+00:01:17,120 --> 00:01:18,700
+<i>Dr. Stone, Houston.</i>
+
+6
+00:01:19,143 --> 00:01:21,572
+<i>Medical is concerned
+about your ECG readings.</i>
+
+7
+00:01:22,285 --> 00:01:23,738
+<i>I am fine Houston.</i>
+
+8
+00:01:24,088 --> 00:01:25,943
+<i>Well, Medical doesn't agree Doc.</i>
+
+9
+00:01:26,001 --> 00:01:27,355
+<i>Are you feeling nauseous?</i>
+
+10
+00:01:28,254 --> 00:01:29,847
+<i>Not any more than usual Houston.</i>
+
+11
+00:01:29,955 --> 00:01:31,427
+<i>Diagnostics are green.</i>
+
+12
+00:01:32,220 --> 00:01:34,794
+<i>Link to communications card
+ready for data reception.</i>
+
+13
+00:01:36,243 --> 00:01:38,063
+<i>If this works,
+when we touch down tomorrow,</i>
+
+14
+00:01:38,088 --> 00:01:39,773
+<i>I am buying all you guys
+a round of drinks.</i>
+
+15
+00:01:40,688 --> 00:01:41,852
+<i>That's a date, Doctor.</i>
+
+16
+00:01:42,339 --> 00:01:44,870
+<i>Just remember,
+Houston is partial to margaritas.</i>
+
+17
+00:01:47,047 --> 00:01:48,276
+<i>Booting comms card now.</i>
+
+18
+00:01:49,287 --> 00:01:50,534
+<i>Please confirm link.</i>
+
+19
+00:01:51,641 --> 00:01:54,074
+<i>That's a negative,
+we are not seeing any data.</i>
+
+20
+00:01:55,134 --> 00:01:57,594
+<i>Standby Houston,
+I am gonna reboot the comms card.</i>
+
+21
+00:01:57,904 --> 00:01:58,969
+<i>Standing by.</i>
+
+22
+00:01:59,710 --> 00:02:01,901
+<i>Houston, I have a bad feeling
+about this mission.</i>
+
+23
+00:02:02,206 --> 00:02:03,554
+<i>Please expand.</i>
+
+24
+00:02:04,018 --> 00:02:05,564
+<i>Ok, let me tell you a story.</i>
+
+25
+00:02:05,955 --> 00:02:07,073
+<i>It was ninety-six.</i>
+
+26
+00:02:07,218 --> 00:02:09,174
+<i>I had been up here for 42 days.</i>
+
+27
+00:02:09,622 --> 00:02:11,453
+<i>Every time I passed over Texas,</i>
+
+28
+00:02:11,477 --> 00:02:12,579
+<i>I looked down,</i>
+
+29
+00:02:12,603 --> 00:02:14,998
+<i>knowing that Mrs. Kowalski
+was looking up,</i>
+
+30
+00:02:15,022 --> 00:02:16,218
+<i>thinking of me.</i>
+
+31
+00:02:16,949 --> 00:02:19,113
+<i>6 weeks I am blowing kisses at that woman.</i>
+
+32
+00:02:19,687 --> 00:02:22,952
+<i>Then we land at Edwards and I find out
+that she is run off with this lawyer.</i>
+
+33
+00:02:23,378 --> 00:02:24,549
+<i>So, I packed my car,</i>
+
+34
+00:02:24,573 --> 00:02:26,255
+<i>and I headed to Tijuana.</i>
+
+35
+00:02:26,355 --> 00:02:28,077
+<i>You have told this story, Kowalski.</i>
+
+36
+00:02:28,247 --> 00:02:29,471
+<i>As Houston recalls,</i>
+
+37
+00:02:29,495 --> 00:02:31,943
+<i>she... took off in your 74' GTO.</i>
+
+38
+00:02:32,506 --> 00:02:35,700
+<i>Engineering requests fuel status
+on the jetpack prototype.</i>
+
+39
+00:02:36,202 --> 00:02:37,812
+<i>Five hours off the reservation</i>
+
+40
+00:02:37,836 --> 00:02:39,561
+<i>and I show 30 percent drain.</i>
+
+41
+00:02:39,824 --> 00:02:41,624
+<i>Give my compliments to Engineering.</i>
+
+42
+00:02:41,649 --> 00:02:44,539
+<i>Except for a slight malfunction
+in the nulling of the roll axis,</i>
+
+43
+00:02:44,584 --> 00:02:47,015
+<i>this jetpack is one prime piece of thrust.</i>
+
+44
+00:02:48,115 --> 00:02:49,555
+<i>Engineering says thank you.</i>
+
+45
+00:02:49,597 --> 00:02:52,175
+<i>Tell them I still prefer
+my 67' Corvette, though.</i>
+
+46
+00:02:52,779 --> 00:02:55,450
+<i>Speaking of which, did I ever tell you...
+We know the Corvette story, Matt.</i>
+
+47
+00:02:55,955 --> 00:02:57,250
+<i>Even Engineering?</i>
+
+48
+00:02:57,352 --> 00:02:59,124
+<i>Especially Engineering.</i>
+
+49
+00:03:00,380 --> 00:03:01,747
+<i>We are going to miss you, Matt.</i>
+
+50
+00:03:02,336 --> 00:03:04,047
+<i>Comms card reboot in progress.</i>
+
+51
+00:03:04,888 --> 00:03:05,969
+<i>Thank you, Doctor.</i>
+
+52
+00:03:06,441 --> 00:03:07,895
+<i>Shariff, what's your status?</i>
+
+53
+00:03:08,483 --> 00:03:12,203
+<i>Nearly there.
+Replacing battery module A-one and C.</i>
+
+54
+00:03:14,253 --> 00:03:15,944
+<i>Could you be a little more specific?</i>
+
+55
+00:03:15,969 --> 00:03:18,402
+<i>Indeterminate estimates
+make Houston anxious.</i>
+
+56
+00:03:18,914 --> 00:03:20,021
+<i>No, no, no, Houston.</i>
+
+57
+00:03:20,045 --> 00:03:21,320
+<i>Don't be anxious.</i>
+
+58
+00:03:21,687 --> 00:03:23,478
+<i>Anxiety is not good for the heart.</i>
+
+59
+00:03:24,302 --> 00:03:25,982
+<i>System is ready to reactivate.</i>
+
+60
+00:03:27,488 --> 00:03:28,780
+<i>Hubble telescope engaged.</i>
+
+61
+00:03:28,804 --> 00:03:30,389
+<i>Upgrade fully functional.</i>
+
+62
+00:03:31,104 --> 00:03:33,405
+<i>That applause you hear is for you Shariff.</i>
+
+63
+00:03:33,675 --> 00:03:34,661
+<i>Congratulations.</i>
+
+64
+00:03:35,107 --> 00:03:36,643
+<i>Kick back, take the rest of the day off.</i>
+
+65
+00:03:41,677 --> 00:03:45,842
+<i>Matt, do you have a visual on just what
+Mission Specialist Shariff is doing up there?</i>
+
+66
+00:03:46,710 --> 00:03:49,491
+<i>He appears to be doing
+some form of the Macarena.</i>
+
+67
+00:03:49,944 --> 00:03:53,315
+<i>But that would be just a best-guess
+scenario on my part.</i>
+
+68
+00:03:53,676 --> 00:03:55,306
+<i>Dr. Stone, Houston.</i>
+
+69
+00:03:55,686 --> 00:03:58,575
+<i>Medical now have you with
+a temperature drop to 35.9</i>
+
+70
+00:03:58,600 --> 00:04:00,583
+<i>and a heart rate rise to 70.</i>
+
+71
+00:04:01,748 --> 00:04:02,939
+<i>How are you feeling?</i>
+
+72
+00:04:03,833 --> 00:04:05,013
+<i>Houston, I am fine.</i>
+
+73
+00:04:05,484 --> 00:04:08,396
+<i>It's just keeping your lunch down
+in zero-G is harder than it looks.</i>
+
+74
+00:04:09,602 --> 00:04:13,243
+<i>Dr. Stone, Medical is asking
+if you want to return to Explorer.</i>
+
+75
+00:04:13,630 --> 00:04:14,481
+<i>Negative.</i>
+
+76
+00:04:14,506 --> 00:04:16,707
+<i>We have been here a week, Houston.
+Let's just finish this.</i>
+
+77
+00:04:17,205 --> 00:04:18,297
+<i>Card is up.</i>
+
+78
+00:04:19,423 --> 00:04:20,723
+<i>No, that's a negative.</i>
+
+79
+00:04:20,924 --> 00:04:23,732
+<i>I am afraid we are getting
+nothing on this end, Doctor.</i>
+
+80
+00:04:25,069 --> 00:04:25,915
+<i>Try again.</i>
+
+81
+00:04:26,658 --> 00:04:28,056
+<i>No, still nothing.</i>
+
+82
+00:04:30,876 --> 00:04:32,635
+<i>Houston, can you
+please turn that music off?</i>
+
+83
+00:04:32,947 --> 00:04:34,180
+<i>Kowalski?</i>
+
+84
+00:04:34,801 --> 00:04:35,899
+<i>Not a problem.</i>
+
+85
+00:04:36,437 --> 00:04:37,680
+<i>Thank you, Kowalski.</i>
+
+86
+00:04:41,354 --> 00:04:42,415
+<i>Now, Houston?</i>
+
+87
+00:04:42,966 --> 00:04:44,241
+<i>That's a negative.</i>
+
+88
+00:04:44,913 --> 00:04:46,858
+<i>Could Houston be misinterpreting the data?</i>
+
+89
+00:04:47,973 --> 00:04:49,788
+<i>Well, we are not receiving any data.</i>
+
+90
+00:04:51,007 --> 00:04:54,413
+<i>Engineering is recommending
+a vis check for component damage.</i>
+
+91
+00:04:56,045 --> 00:04:57,608
+<i>Let me see what's going on.</i>
+
+92
+00:04:58,993 --> 00:05:00,219
+<i>What have we got?</i>
+
+93
+00:05:08,369 --> 00:05:10,955
+<i>Visual examination doesn't
+reveal any damaged components.</i>
+
+94
+00:05:11,087 --> 00:05:13,385
+<i>The problem must be originating
+from the comms panel.</i>
+
+95
+00:05:14,108 --> 00:05:15,916
+<i>Yeah, that seems to be the case.</i>
+
+96
+00:05:16,576 --> 00:05:19,552
+<i>Engineering admits that you
+warned us that this could happen.</i>
+
+97
+00:05:20,185 --> 00:05:22,724
+<i>That's as close to an apology
+as you are going to get from them.</i>
+
+98
+00:05:22,857 --> 00:05:24,399
+<i>We should have listened to you Doc.</i>
+
+99
+00:05:25,285 --> 00:05:27,339
+<i>Well, looks like we are going
+to have to improvise.</i>
+
+100
+00:05:27,531 --> 00:05:28,580
+<i>I am on it.</i>
+
+101
+00:05:29,905 --> 00:05:31,605
+<i>How long do you think it will take you?</i>
+
+102
+00:05:31,815 --> 00:05:32,755
+<i>One hour.</i>
+
+103
+00:05:33,698 --> 00:05:34,932
+<i>Outstanding.</i>
+
+104
+00:05:35,308 --> 00:05:38,073
+<i>Installing your system in the Hubble
+is the purpose of this mission</i>
+
+105
+00:05:38,098 --> 00:05:40,260
+<i>and so we appreciate
+your patience Doctor.</i>
+
+106
+00:05:41,193 --> 00:05:44,228
+<i>Kowalski, we... we know you don't care
+about things like this,</i>
+
+107
+00:05:44,259 --> 00:05:47,445
+<i>but, for your information this delay
+is not gonna be long enough</i>
+
+108
+00:05:47,470 --> 00:05:50,060
+<i>for you to break Anatoly
+Solovyev's spacewalking record.</i>
+
+109
+00:05:50,331 --> 00:05:53,252
+<i>It seems like you are gonna be left...
+Seventy-five minutes shy?</i>
+
+110
+00:05:54,119 --> 00:05:55,752
+<i>Never crossed my mind.</i>
+
+111
+00:05:56,523 --> 00:05:57,336
+<i>Matt...</i>
+
+112
+00:05:58,361 --> 00:05:59,696
+<i>it's been a privilege.</i>
+
+113
+00:06:00,267 --> 00:06:01,931
+<i>Right back at you, Houston.</i>
+
+114
+00:06:02,704 --> 00:06:04,212
+<i>Enjoy your last walk.</i>
+
+115
+00:06:05,131 --> 00:06:08,162
+<i>Am I a go to assist Dr. Stone
+in removing the panel?</i>
+
+116
+00:06:08,593 --> 00:06:10,888
+<i>Assistance appreciated.
+Permission granted.</i>
+
+117
+00:06:11,184 --> 00:06:12,334
+<i>Thank you Houston.</i>
+
+118
+00:06:13,469 --> 00:06:14,696
+<i>Mind if I join the fun?</i>
+
+119
+00:06:14,720 --> 00:06:15,967
+<i>Certainly.</i>
+
+120
+00:06:15,992 --> 00:06:17,188
+<i>How you feeling?</i>
+
+121
+00:06:18,950 --> 00:06:20,875
+<i>Like a Chihuahua
+that's being tumble dried.</i>
+
+122
+00:06:21,765 --> 00:06:23,429
+<i>Well, it's been a rough week.</i>
+
+123
+00:06:24,587 --> 00:06:26,583
+<i>If it makes you feel any better,
+I coughed up everything but,</i>
+
+124
+00:06:26,607 --> 00:06:28,638
+<i>my kidneys on my first ride.</i>
+
+125
+00:06:29,686 --> 00:06:30,661
+<i>Shit.</i>
+
+126
+00:06:37,236 --> 00:06:38,161
+<i>Sorry.</i>
+
+127
+00:06:39,840 --> 00:06:42,997
+<i>I am used to a basement lab in a hospital
+where things fall to the floor.</i>
+
+128
+00:06:43,653 --> 00:06:44,753
+<i>Thank you.</i>
+
+129
+00:06:45,494 --> 00:06:47,437
+<i>Well, you are the genius up here.</i>
+
+130
+00:06:47,461 --> 00:06:48,970
+<i>I only drive the bus.</i>
+
+131
+00:06:49,157 --> 00:06:50,056
+<i>Yeah, well..</i>
+
+132
+00:06:50,611 --> 00:06:53,751
+<i>Call me a genius if I can get
+this board initialized in the next hour.</i>
+
+133
+00:06:54,235 --> 00:06:55,737
+<i>Explorer, this is Houston.</i>
+
+134
+00:06:56,235 --> 00:06:57,445
+<i>Go ahead, Houston.</i>
+
+135
+00:06:57,470 --> 00:06:59,699
+<i>NORAD reports a Russian satellite</i>
+
+136
+00:06:59,723 --> 00:07:01,562
+<i>has incurred a missile strike.</i>
+
+137
+00:07:01,587 --> 00:07:04,078
+<i>The impact has created
+a cloud of debris,</i>
+
+138
+00:07:04,102 --> 00:07:06,555
+<i>orbiting at 20,000 miles per hour.</i>
+
+139
+00:07:07,106 --> 00:07:10,469
+<i>Current debris orbit does not
+overlap with your trajectory.</i>
+
+140
+00:07:10,750 --> 00:07:12,577
+<i>We will keep you posted
+on any developments.</i>
+
+141
+00:07:12,911 --> 00:07:14,195
+<i>Copy that Houston.</i>
+
+142
+00:07:14,994 --> 00:07:16,497
+<i>Should we...
+Should we be worried?</i>
+
+143
+00:07:16,955 --> 00:07:19,455
+<i>No, let's let the boys down
+there worry for us.</i>
+
+144
+00:07:21,401 --> 00:07:24,164
+<i>Explorer, engage arm
+and pivot to cargo bay.</i>
+
+145
+00:07:24,200 --> 00:07:25,875
+<i>Stand by for arm maneuver.</i>
+
+146
+00:07:27,131 --> 00:07:29,171
+<i>So doc, now that you work for NASA,</i>
+
+147
+00:07:29,608 --> 00:07:30,688
+<i>how do you like us?</i>
+
+148
+00:07:30,760 --> 00:07:32,560
+<i>Kind of like winning the lottery?</i>
+
+149
+00:07:33,138 --> 00:07:36,091
+<i>I was just happy that
+they didn't cut the funding to my research.</i>
+
+150
+00:07:36,116 --> 00:07:37,197
+<i>How long was your training?</i>
+
+151
+00:07:37,607 --> 00:07:38,781
+<i>Six months.</i>
+
+152
+00:07:38,782 --> 00:07:39,988
+<i>Including holidays?</i>
+
+153
+00:07:40,585 --> 00:07:41,324
+<i>So,</i>
+
+154
+00:07:41,686 --> 00:07:43,493
+<i>what is this scanning system?</i>
+
+155
+00:07:43,517 --> 00:07:44,936
+<i>Oh, nothing Matt.</i>
+
+156
+00:07:45,034 --> 00:07:47,676
+<i>It's just a new set of eyes
+to scan the edge of the universe.</i>
+
+157
+00:07:47,755 --> 00:07:50,652
+<i>It's designed for hospital use,
+but this one is a prototype.</i>
+
+158
+00:07:51,432 --> 00:07:52,660
+<i>Stand by for locking.</i>
+
+159
+00:07:52,891 --> 00:07:53,836
+<i>Listen...</i>
+
+160
+00:07:53,969 --> 00:07:56,003
+<i>they don't bankroll prototypes.</i>
+
+161
+00:07:56,908 --> 00:07:58,550
+<i>Even for your pretty blue eyes.</i>
+
+162
+00:07:59,562 --> 00:08:00,343
+<i>Well,</i>
+
+163
+00:08:00,726 --> 00:08:02,077
+<i>my eyes are brown.</i>
+
+164
+00:08:03,926 --> 00:08:05,921
+<i>Right now, your eyes are bloodshot.</i>
+
+165
+00:08:06,681 --> 00:08:07,851
+<i>Kowalski!</i>
+
+166
+00:08:08,336 --> 00:08:09,759
+<i>Is this great or what?</i>
+
+167
+00:08:15,701 --> 00:08:17,216
+<i>And to think he went to Harvard.</i>
+
+168
+00:08:19,946 --> 00:08:21,568
+<i>You got to admit one thing.</i>
+
+169
+00:08:22,927 --> 00:08:24,458
+<i>Can't beat the view.</i>
+
+170
+00:08:29,053 --> 00:08:30,950
+<i>So, what do you like
+about being up here?</i>
+
+171
+00:08:33,493 --> 00:08:34,457
+<i>The silence.</i>
+
+172
+00:08:36,586 --> 00:08:37,958
+<i>I could get used to it.</i>
+
+173
+00:08:59,149 --> 00:09:00,208
+<i>Terrific.</i>
+
+174
+00:09:00,437 --> 00:09:02,085
+<i>Houston, from first inspection,</i>
+
+175
+00:09:02,110 --> 00:09:03,708
+<i>comms panel appears to be dead.</i>
+
+176
+00:09:03,773 --> 00:09:05,655
+<i>Am I a go to cut link to auxiliary?</i>
+
+177
+00:09:06,737 --> 00:09:08,035
+<i>You are the expert, doctor.</i>
+
+178
+00:09:08,059 --> 00:09:09,148
+<i>It's your call.</i>
+
+179
+00:09:09,173 --> 00:09:11,266
+<i>Houston, I have a bad feeling
+about this mission.</i>
+
+180
+00:09:11,959 --> 00:09:13,439
+<i>Please elaborate.</i>
+
+181
+00:09:13,719 --> 00:09:16,649
+<i>It's the same feeling I had
+about Mardi Gras in 1987.</i>
+
+182
+00:09:18,295 --> 00:09:19,588
+<i>That is affirmative.</i>
+
+183
+00:09:19,613 --> 00:09:22,591
+<i>Surprisingly, Control hasn't heard
+the Mardi Gras story.</i>
+
+184
+00:09:22,917 --> 00:09:24,495
+<i>Please proceed.</i>
+
+185
+00:09:24,590 --> 00:09:27,779
+<i>Well, it's day one and I am bumping
+my way down Bourbon Street</i>
+
+186
+00:09:27,823 --> 00:09:30,053
+<i>looking for a sister of a friend of mine.</i>
+
+187
+00:09:31,048 --> 00:09:34,084
+<i>Streets are full of people, I am thinking
+there is no way I am gonna find this girl.</i>
+
+188
+00:09:34,109 --> 00:09:35,451
+<i>Proceeding to override.</i>
+
+189
+00:09:35,476 --> 00:09:37,398
+<i>Then all of the sudden I look up,</i>
+
+190
+00:09:37,594 --> 00:09:39,650
+<i>and there she is
+and I am about to yell out,</i>
+
+191
+00:09:39,674 --> 00:09:41,486
+<i>and I see she is holding hands
+with some short,</i>
+
+192
+00:09:41,510 --> 00:09:44,103
+<i>hairy guy in board
+shorts and a Margaritaville shirt.</i>
+
+193
+00:09:44,862 --> 00:09:46,134
+<i>And then I realize,</i>
+
+194
+00:09:46,159 --> 00:09:47,705
+<i>that this guy is not a guy.</i>
+
+195
+00:09:48,315 --> 00:09:49,989
+<i>That my girl is holding hands with...</i>
+
+196
+00:09:50,014 --> 00:09:52,447
+<i>ISS, this is Houston.
+Proceed Houston.</i>
+
+197
+00:09:52,479 --> 00:09:54,830
+<i>Explorer, this is Houston.
+Go ahead Houston.</i>
+
+198
+00:09:54,943 --> 00:09:56,042
+<i>Mission abort.</i>
+
+199
+00:09:56,066 --> 00:09:57,878
+<i>Repeat. Mission abort.</i>
+
+200
+00:09:57,964 --> 00:09:59,855
+<i>Initiate emergency disconnect from Hubble.</i>
+
+201
+00:09:59,880 --> 00:10:01,464
+<i>Begin reentry procedure.</i>
+
+202
+00:10:01,488 --> 00:10:03,925
+<i>ISS, initiate emergency evacuation.</i>
+
+203
+00:10:03,950 --> 00:10:05,510
+<i>Copy all Houston and in work.</i>
+
+204
+00:10:05,674 --> 00:10:07,442
+<i>Matt, immediate return to Explorer.</i>
+
+205
+00:10:07,467 --> 00:10:10,058
+<i>Repeat, immediate return to Explorer.
+Copy.</i>
+
+206
+00:10:10,321 --> 00:10:12,609
+<i>Explorer prep airlock.
+Airlock engaged,</i>
+
+207
+00:10:12,709 --> 00:10:14,498
+<i>Ready to receive.
+Houston elaborate.</i>
+
+208
+00:10:14,649 --> 00:10:17,529
+<i>Debris from the missile strike
+has caused a chain reaction,</i>
+
+209
+00:10:17,598 --> 00:10:20,052
+<i>hitting other satellites
+and creating new debris.</i>
+
+210
+00:10:20,696 --> 00:10:23,607
+<i>Traveling faster than a high-speed
+bullet up towards your altitude.</i>
+
+211
+00:10:24,073 --> 00:10:25,758
+<i>All copy?
+Copy all.</i>
+
+212
+00:10:26,119 --> 00:10:27,461
+<i>Put a bow on it, Dr. Stone.</i>
+
+213
+00:10:27,627 --> 00:10:28,520
+<i>I can't.</i>
+
+214
+00:10:29,221 --> 00:10:30,666
+<i>The board is still initializing.</i>
+
+215
+00:10:31,150 --> 00:10:33,392
+<i>I am not gonna ask you again.
+One second.</i>
+
+216
+00:10:33,705 --> 00:10:35,424
+<i>Not one second.
+Now!</i>
+
+217
+00:10:35,682 --> 00:10:36,705
+<i>Shut it down.</i>
+
+218
+00:10:37,386 --> 00:10:38,557
+<i>That's an order.</i>
+
+219
+00:10:39,313 --> 00:10:40,292
+<i>Ok, I am sorry.</i>
+
+220
+00:10:40,589 --> 00:10:41,955
+<i>I am sorry, I am done.
+I am done.</i>
+
+221
+00:10:41,991 --> 00:10:44,564
+<i>Kowalski, initiate emergency
+disconnect from the Hubble.</i>
+
+222
+00:10:44,632 --> 00:10:46,998
+<i>Alright Shariff, let's do this.
+Roger Matt.</i>
+
+223
+00:10:47,398 --> 00:10:48,427
+<i>Houston update.</i>
+
+224
+00:10:48,451 --> 00:10:50,444
+<i>Well, we have a full on chain reaction.</i>
+
+225
+00:10:50,784 --> 00:10:53,321
+<i>It's been confirmed that it's
+the unintentional side effect</i>
+
+226
+00:10:53,346 --> 00:10:55,869
+<i>of the Russians striking
+one of their own satellites.</i>
+
+227
+00:10:56,033 --> 00:10:57,645
+<i>They shot down their own satellite?</i>
+
+228
+00:10:57,669 --> 00:10:58,964
+<i>Right of disposal.</i>
+
+229
+00:10:58,989 --> 00:11:00,731
+<i>Most likely a spy sat gone bad.</i>
+
+230
+00:11:00,833 --> 00:11:02,028
+<i>Now it's shrapnel.</i>
+
+231
+00:11:02,113 --> 00:11:04,035
+<i>Explorer, ready to disengage HST.</i>
+
+232
+00:11:04,060 --> 00:11:07,071
+<i>Locks releasing in three... two... one.</i>
+
+233
+00:11:07,944 --> 00:11:09,944
+<i>Explorer, new data coming through.</i>
+
+234
+00:11:10,837 --> 00:11:11,951
+<i>What's the blowback, Houston?</i>
+
+235
+00:11:12,281 --> 00:11:13,352
+<i>It's not good.</i>
+
+236
+00:11:13,451 --> 00:11:15,110
+<i>Most of our systems are gone.</i>
+
+237
+00:11:15,494 --> 00:11:18,875
+<i>Debris chain reaction
+is out of control and rapidly expanding.</i>
+
+238
+00:11:19,064 --> 00:11:21,923
+<i>Multiple satellites are down,
+and they keep on falling.</i>
+
+239
+00:11:22,022 --> 00:11:23,452
+<i>Define 'multiple satellites.</i>
+
+240
+00:11:23,631 --> 00:11:25,014
+<i>Most of them are gone.</i>
+
+241
+00:11:25,190 --> 00:11:27,163
+<i>Telecommunication systems are dead.</i>
+
+242
+00:11:27,432 --> 00:11:29,783
+<i>Expect a communication blackout
+at any moment.</i>
+
+243
+00:11:29,808 --> 00:11:31,842
+<i>Kowalski, visual of debris at 9 o'clock.</i>
+
+244
+00:11:31,961 --> 00:11:33,841
+<i>Half of North America
+just lost their Facebook.</i>
+
+245
+00:11:34,591 --> 00:11:36,054
+<i>Explorer, repeat,</i>
+
+246
+00:11:36,079 --> 00:11:38,779
+<i>expect a communication
+blackout at any moment.</i>
+
+247
+00:11:39,229 --> 00:11:40,213
+<i>Copy that, Houston.</i>
+
+248
+00:11:40,859 --> 00:11:44,323
+<i>Explorer, this is Kowalski,
+confirming visual contact with debris.</i>
+
+249
+00:11:44,413 --> 00:11:46,547
+<i>Debris is from a BSE sat.
+Heads up!</i>
+
+250
+00:11:46,548 --> 00:11:49,939
+<i>To repeat, I have...
+Dr. Stone requesting faster transport.</i>
+
+251
+00:11:50,316 --> 00:11:52,013
+<i>We have to go.
+We have to go, go, go!</i>
+
+252
+00:11:52,038 --> 00:11:55,107
+<i>Kennedy reports meteorological conditions
+no-go for re-entry.</i>
+
+253
+00:11:55,539 --> 00:11:57,077
+<i>Houston, Explorer, Copy.</i>
+
+254
+00:11:57,102 --> 00:12:00,491
+<i>Explorer, Dr. Stone requesting
+faster transport to bay area.</i>
+
+255
+00:12:00,740 --> 00:12:02,103
+<i>Explorer, do you copy?</i>
+
+256
+00:12:02,139 --> 00:12:03,939
+<i>Explorer, permission to retrieve Dr. Stone.</i>
+
+257
+00:12:04,009 --> 00:12:05,266
+<i>You are a go, Kowalski.</i>
+
+258
+00:12:05,884 --> 00:12:08,079
+<i>Houston, this is Explorer, copy.</i>
+
+259
+00:12:08,436 --> 00:12:10,071
+<i>Alright.
+We have lost Houston.</i>
+
+260
+00:12:11,249 --> 00:12:12,412
+<i>We have lost Houston.</i>
+
+261
+00:12:12,557 --> 00:12:13,615
+<i>Unstrap.</i>
+
+262
+00:12:14,185 --> 00:12:15,785
+<i>Look, we need to get the hell out of here.
+Alright.</i>
+
+263
+00:12:15,810 --> 00:12:17,584
+<i>Need some help there, Matt?
+No, don't wait for us.</i>
+
+264
+00:12:17,609 --> 00:12:18,484
+<i>It's stuck!</i>
+
+265
+00:12:19,009 --> 00:12:21,827
+<i>Man down! Man down!
+Houston, this is Explorer, copy.</i>
+
+266
+00:12:22,412 --> 00:12:23,935
+<i>Houston, this is Explorer, copy.</i>
+
+267
+00:12:24,505 --> 00:12:26,079
+<i>Kowalski, repor...</i>
+
+268
+00:12:27,801 --> 00:12:30,629
+<i>Explorer is been hit!
+Explorer, do you read?</i>
+
+269
+00:12:31,577 --> 00:12:33,577
+<i>Explorer, over!
+Explorer!</i>
+
+270
+00:12:35,821 --> 00:12:39,422
+<i>Astronaut is off structure!
+Dr. Stone is off structure!</i>
+
+271
+00:12:39,618 --> 00:12:41,082
+<i>Dr. Stone, detach!</i>
+
+272
+00:12:41,106 --> 00:12:42,819
+<i>No!
+You must detach!</i>
+
+273
+00:12:42,844 --> 00:12:45,344
+<i>If you don't detach,
+that arm is gonna carry you too far!</i>
+
+274
+00:12:45,369 --> 00:12:46,634
+<i>Listen to my voice!</i>
+
+275
+00:12:46,682 --> 00:12:49,017
+<i>You need to focus!
+I am losing visual of you.</i>
+
+276
+00:12:49,042 --> 00:12:51,073
+<i>In a few seconds,
+I won't be able to track you.</i>
+
+277
+00:12:51,150 --> 00:12:52,510
+<i>You need to detach!</i>
+
+278
+00:12:52,534 --> 00:12:54,142
+<i>I can't see you anymore!</i>
+
+279
+00:12:54,167 --> 00:12:56,356
+<i>Do it now!
+I am trying! I am trying!</i>
+
+280
+00:12:58,222 --> 00:13:00,428
+<i>Houston, I have lost visual of Dr. Stone.</i>
+
+281
+00:13:02,196 --> 00:13:04,665
+<i>Houston, I have lost visual of Dr. Stone.</i>
+
+282
+00:13:12,994 --> 00:13:14,573
+<i>Dr. Stone, do you copy?</i>
+
+283
+00:13:15,159 --> 00:13:16,541
+<i>Repeat, do you copy?</i>
+
+284
+00:13:16,751 --> 00:13:18,282
+<i>Yes, yes, yes, I copy.</i>
+
+285
+00:13:18,307 --> 00:13:19,242
+<i>I am detached.
+Give me your position!</i>
+
+286
+00:13:19,267 --> 00:13:21,444
+<i>I don't, I don't, I don't know!
+I don't know!</i>
+
+287
+00:13:21,469 --> 00:13:22,623
+<i>I am spinning!
+I can't...</i>
+
+288
+00:13:22,647 --> 00:13:24,329
+<i>I can't...
+Report your position.</i>
+
+289
+00:13:24,354 --> 00:13:26,783
+<i>GPS is down, I can't.
+It's down, I can't...</i>
+
+290
+00:13:27,494 --> 00:13:28,671
+<i>Give me a visual.</i>
+
+291
+00:13:28,695 --> 00:13:29,922
+<i>I told you, nothing.</i>
+
+292
+00:13:29,946 --> 00:13:32,174
+<i>I see nothing!
+Do you have a visual of Explorer?</i>
+
+293
+00:13:32,198 --> 00:13:34,128
+<i>No. No.
+Do you have a visual of ISS?</i>
+
+294
+00:13:34,445 --> 00:13:35,689
+<i>No.
+You need to focus.</i>
+
+295
+00:13:35,714 --> 00:13:38,281
+<i>Anything, use the sun and the Earth,
+give me coordinates.</i>
+
+296
+00:13:38,391 --> 00:13:40,511
+<i>I can't breathe! I can't breathe!</i>
+Give me coordinates?
+
+297
+00:13:41,451 --> 00:13:43,384
+<i>Dr. Stone, do you copy?</i>
+
+298
+00:13:46,197 --> 00:13:47,720
+<i>Repeat, do you copy?</i>
+
+299
+00:13:48,570 --> 00:13:50,151
+<i>Give me your position!</i>
+
+300
+00:13:50,175 --> 00:13:51,947
+<i>Report your position.</i>
+
+301
+00:13:53,600 --> 00:13:55,625
+<i>Do you have a visual of Explorer?</i>
+
+302
+00:13:55,848 --> 00:13:57,747
+<i>Do you have a visual of ISS?</i>
+
+303
+00:13:57,748 --> 00:13:59,249
+<i>I need you to focus. Anything.</i>
+
+304
+00:13:59,250 --> 00:14:00,870
+<i>Use the sun and the Earth,</i>
+
+305
+00:14:00,894 --> 00:14:02,590
+<i>give me coordinates.</i>
+
+306
+00:14:03,483 --> 00:14:05,348
+<i>Give me coordinates.</i>
+
+307
+00:14:38,019 --> 00:14:40,146
+Kowalski?
+Kowalski, do you copy?
+
+308
+00:14:42,285 --> 00:14:44,038
+Kowalski... I have... have a vision.
+
+309
+00:14:44,316 --> 00:14:45,561
+Kowalski, I have a visual.
+
+310
+00:14:46,269 --> 00:14:48,417
+I have... have a visual of Explorer.
+
+311
+00:14:49,368 --> 00:14:50,503
+With north at...
+
+312
+00:14:51,141 --> 00:14:52,368
+at 12 o'clock
+
+313
+00:14:53,219 --> 00:14:54,507
+and the shuttle is at...
+
+314
+00:14:55,038 --> 00:14:56,531
+at the center of the dial.
+
+315
+00:14:58,669 --> 00:15:00,841
+I can see...
+I can see the Chinese station.
+
+316
+00:15:02,466 --> 00:15:04,302
+No, it's the International Space Station.
+
+317
+00:15:05,476 --> 00:15:06,880
+ISS is at...
+
+318
+00:15:08,521 --> 00:15:10,250
+ISS is at 7 o'clock.
+
+319
+00:15:18,903 --> 00:15:20,661
+Lieutenant Kowalski, do you copy?
+
+320
+00:15:26,537 --> 00:15:28,529
+<i>Explorer, do you...
+do you copy?</i>
+
+321
+00:15:37,616 --> 00:15:39,458
+<i>Houston, do you copy?</i>
+
+322
+00:15:44,443 --> 00:15:45,933
+<i>Houston this is...</i>
+
+323
+00:15:45,957 --> 00:15:47,646
+<i>Mission Specialist Ryan Stone.</i>
+
+324
+00:15:47,671 --> 00:15:49,966
+<i>I am off structure and I am drifting.</i>
+
+325
+00:15:49,991 --> 00:15:51,114
+<i>Do you copy?</i>
+
+326
+00:15:57,743 --> 00:15:58,701
+<i>Anyone?</i>
+
+327
+00:16:03,202 --> 00:16:04,255
+<i>Anybody?</i>
+
+328
+00:16:07,469 --> 00:16:08,443
+<i>Do you copy?</i>
+
+329
+00:16:12,764 --> 00:16:13,820
+<i>Please copy.</i>
+
+330
+00:16:16,537 --> 00:16:17,451
+<i>Please.</i>
+
+331
+00:16:37,742 --> 00:16:40,860
+<i>Dr. Stone, do you copy?
+Yeah, Lieutenant Kowalski, yes.</i>
+
+332
+00:16:41,196 --> 00:16:43,358
+<i>Yes, Lieutenant Kowalski.
+Repeat, do you copy?</i>
+
+333
+00:16:43,383 --> 00:16:45,227
+<i>Yes, yes, I copy, I am here!</i>
+
+334
+00:16:45,399 --> 00:16:46,992
+<i>I am here.
+Flash your light!</i>
+
+335
+00:16:47,625 --> 00:16:49,539
+<i>My light. my light.
+Flash it so I can see you.</i>
+
+336
+00:16:50,297 --> 00:16:51,156
+<i>Ok.</i>
+
+337
+00:16:53,078 --> 00:16:53,768
+<i>I...</i>
+
+338
+00:16:54,193 --> 00:16:55,419
+<i>Ok, ok.</i>
+
+339
+00:16:55,559 --> 00:16:56,921
+<i>Here, here.
+Alright.</i>
+
+340
+00:16:56,945 --> 00:16:58,191
+<i>Am here.
+There you are.</i>
+
+341
+00:16:58,278 --> 00:16:59,302
+<i>Hang on tight.</i>
+
+342
+00:16:59,693 --> 00:17:01,074
+<i>Report your status.</i>
+
+343
+00:17:01,887 --> 00:17:03,052
+<i>I am fine, fine.</i>
+
+344
+00:17:03,191 --> 00:17:04,119
+<i>I am alright.</i>
+
+345
+00:17:04,144 --> 00:17:05,662
+<i>Your status.
+Give me your readings.</i>
+
+346
+00:17:06,287 --> 00:17:07,865
+<i>3... 3...</i>
+
+347
+00:17:08,181 --> 00:17:09,797
+<i>3.6 PSI.</i>
+
+348
+00:17:10,610 --> 00:17:12,227
+<i>Your O2, give me your O2.</i>
+
+349
+00:17:12,805 --> 00:17:14,211
+<i>Oxygen is going down.</i>
+
+350
+00:17:14,310 --> 00:17:15,564
+<i>It's going down fast.</i>
+
+351
+00:17:15,588 --> 00:17:16,696
+<i>It's going down fast, 9.</i>
+
+352
+00:17:17,539 --> 00:17:18,906
+<i>No, 8-8 percent.</i>
+
+353
+00:17:18,931 --> 00:17:20,478
+<i>Ok, you are breathing too fast.
+83.9 percent.</i>
+
+354
+00:17:20,505 --> 00:17:22,877
+<i>You are burning oxygen,
+and we don't want to do that.</i>
+
+355
+00:17:22,905 --> 00:17:24,615
+<i>We want to relax. Copy?</i>
+
+356
+00:17:25,107 --> 00:17:26,693
+<i>Ok, sorry. Yes, copy, copy.</i>
+
+357
+00:17:26,718 --> 00:17:27,826
+<i>Alright. Nearly there.</i>
+
+358
+00:17:27,850 --> 00:17:29,006
+<i>Please hurry.</i>
+
+359
+00:17:30,639 --> 00:17:32,623
+<i>You can holster
+that torch, Dr. Stone.</i>
+
+360
+00:17:32,647 --> 00:17:33,624
+<i>Sorry.</i>
+
+361
+00:17:33,648 --> 00:17:34,506
+<i>Sorry.</i>
+
+362
+00:17:39,339 --> 00:17:40,923
+<i>Got you. Alright.</i>
+
+363
+00:17:41,283 --> 00:17:43,337
+<i>Now, I am gonna tether you to me.</i>
+
+364
+00:17:45,562 --> 00:17:48,558
+<i>I know, you never realized how
+devastatingly good-looking I am.</i>
+
+365
+00:17:49,234 --> 00:17:52,616
+<i>But I need you to stop staring
+and help me with the tether.</i>
+
+366
+00:17:52,988 --> 00:17:53,894
+<i>Ok?</i>
+
+367
+00:17:54,199 --> 00:17:56,014
+<i>Ok, ok.</i>
+
+368
+00:17:57,267 --> 00:17:58,201
+<i>I got it.</i>
+
+369
+00:17:59,320 --> 00:18:00,612
+<i>Alright, here we go.</i>
+
+370
+00:18:01,201 --> 00:18:02,075
+<i>Alright.</i>
+
+371
+00:18:02,138 --> 00:18:04,723
+<i>Now, to clear you from the jets,
+I am gonna give you a little push.</i>
+
+372
+00:18:04,748 --> 00:18:06,137
+<i>No, no, no, no. No, no, no.
+Not a push.</i>
+
+373
+00:18:06,183 --> 00:18:07,425
+<i>No, no.
+A nudge.</i>
+
+374
+00:18:07,450 --> 00:18:10,227
+<i>No, no, no, no, no, no, no, no, no!
+Damn it, no! No!</i>
+
+375
+00:18:18,364 --> 00:18:19,211
+<i>See?</i>
+
+376
+00:18:19,235 --> 00:18:20,546
+<i>Where you go I go.</i>
+
+377
+00:18:26,620 --> 00:18:27,588
+<i>Better.</i>
+
+378
+00:18:28,851 --> 00:18:29,830
+<i>Let's get out of here.</i>
+
+379
+00:18:32,338 --> 00:18:33,517
+<i>Goddamn it.</i>
+
+380
+00:18:33,541 --> 00:18:34,726
+<i>I know what you mean.</i>
+
+381
+00:18:35,943 --> 00:18:36,812
+<i>Damn it.</i>
+
+382
+00:18:37,179 --> 00:18:38,435
+<i>You are burning oxygen.</i>
+
+383
+00:18:39,442 --> 00:18:41,984
+<i>We are going back to the shuttle.
+How is that for a plan?</i>
+
+384
+00:18:42,008 --> 00:18:42,974
+<i>Copy?</i>
+
+385
+00:18:43,112 --> 00:18:43,861
+<i>Fuck!</i>
+
+386
+00:18:44,443 --> 00:18:45,671
+<i>Right. Copy that.</i>
+
+387
+00:18:46,862 --> 00:18:48,604
+<i>Houston, in the blind.
+This is Kowalski.</i>
+
+388
+00:18:48,629 --> 00:18:50,627
+<i>Dr. Stone and I are gonna
+make our way back to base.</i>
+
+389
+00:18:50,824 --> 00:18:53,807
+<i>Can you get the Explorer
+to prepare the airlock for arrival? Copy.</i>
+
+390
+00:18:55,555 --> 00:18:57,651
+<i>Houston, this is Kowalski.
+How do you copy?</i>
+
+391
+00:18:58,959 --> 00:19:00,906
+<i>Houston, in the blind.
+This is Kowalski.</i>
+
+392
+00:19:01,700 --> 00:19:03,508
+<i>They can't hear us.
+We don't know that.</i>
+
+393
+00:19:03,533 --> 00:19:04,861
+<i>That's why we keep talking.</i>
+
+394
+00:19:05,224 --> 00:19:07,720
+<i>If somebody is listening,
+they might just save your life.</i>
+
+395
+00:19:08,705 --> 00:19:10,346
+<i>Set your watch for 90 minutes.</i>
+
+396
+00:19:11,430 --> 00:19:12,495
+<i>Why 90?</i>
+
+397
+00:19:12,527 --> 00:19:15,818
+<i>Well, Houston clocked that debris
+at 50,000 miles an hour.</i>
+
+398
+00:19:16,326 --> 00:19:19,576
+<i>If you factor in our current orbit,
+then I figure we got about 90 minutes</i>
+
+399
+00:19:19,732 --> 00:19:21,389
+<i>before we get our asses kicked again.</i>
+
+400
+00:19:21,504 --> 00:19:23,150
+<i>O2 down to 6 percent.</i>
+
+401
+00:19:24,378 --> 00:19:25,253
+<i>Ok.</i>
+
+402
+00:19:25,628 --> 00:19:28,128
+<i>Pretty scary shit being
+untethered up here, isn't it?</i>
+
+403
+00:19:30,079 --> 00:19:31,419
+<i>Yeah, pretty scary shit.</i>
+
+404
+00:19:32,680 --> 00:19:34,005
+<i>Well, you did alright.</i>
+
+405
+00:19:37,281 --> 00:19:39,046
+Well, you were not so bad yourself.
+
+406
+00:19:43,217 --> 00:19:45,476
+<i>Houston, in the blind.
+This is Kowalski.</i>
+
+407
+00:19:45,839 --> 00:19:48,509
+<i>Our current location
+is approximately...</i>
+
+408
+00:19:48,533 --> 00:19:51,177
+<i>900 meters out from the Explorer.</i>
+
+409
+00:19:51,881 --> 00:19:56,112
+<i>Dr. Stone and I would like to retrieve
+the body of Mission Specialist Shariff</i>
+
+410
+00:19:56,684 --> 00:19:58,185
+<i>and return it to the shuttle.</i>
+
+411
+00:19:58,209 --> 00:19:59,990
+<i>Am I a go to retrieve?</i>
+
+412
+00:20:03,062 --> 00:20:04,216
+<i>Roger that.</i>
+
+413
+00:20:04,641 --> 00:20:06,203
+Where is he?
+Where is he?
+
+414
+00:20:34,226 --> 00:20:36,076
+Oh, my God.
+Oh, my God.
+
+415
+00:20:40,527 --> 00:20:41,597
+<i>Grab him!</i>
+
+416
+00:20:44,987 --> 00:20:45,983
+<i>Grab him!</i>
+
+417
+00:20:46,584 --> 00:20:48,089
+<i>I am trying, I am trying!</i>
+
+418
+00:20:52,616 --> 00:20:54,699
+<i>You are pulling me away.
+Got... I got him!</i>
+
+419
+00:20:55,178 --> 00:20:57,403
+<i>Clutch him like he is your Valentine.
+I got him.</i>
+
+420
+00:20:57,428 --> 00:21:00,279
+<i>I can't engage my thrust with you
+two yo-yoing around.</i>
+
+421
+00:21:30,690 --> 00:21:32,082
+<i>Jesus Christ.</i>
+
+422
+00:21:33,125 --> 00:21:35,907
+<i>Here is hoping you have a hell
+of an insurance policy, Houston.</i>
+
+423
+00:21:36,508 --> 00:21:38,368
+<i>The damages to Explorer...</i>
+
+424
+00:21:38,937 --> 00:21:40,245
+<i>are catastrophic.</i>
+
+425
+00:21:41,172 --> 00:21:42,828
+<i>Will commence search for survivors.</i>
+
+426
+00:21:42,853 --> 00:21:44,780
+<i>O2 down to 5 percent.</i>
+
+427
+00:21:45,528 --> 00:21:47,521
+<i>Alright, here we go.
+Careful of the edges!</i>
+
+428
+00:21:56,821 --> 00:21:58,056
+<i>Here. Here!</i>
+
+429
+00:22:50,045 --> 00:22:51,951
+<i>Houston in the blind.
+To confirm.</i>
+
+430
+00:22:52,780 --> 00:22:54,861
+<i>Mission Specialist Dr. Stone</i>
+
+431
+00:22:54,885 --> 00:22:56,471
+<i>and Mission Commander Matthew Kowalski</i>
+
+432
+00:22:56,472 --> 00:22:59,430
+<i>are the sole survivors
+of the STS-1-5-7.</i>
+
+433
+00:23:02,457 --> 00:23:04,026
+<i>I apologize for not complying.</i>
+
+434
+00:23:04,027 --> 00:23:06,304
+<i>I should have stopped working as
+soon as you instructed me to.</i>
+
+435
+00:23:06,305 --> 00:23:07,990
+<i>We were gonna get hit no matter what.</i>
+
+436
+00:23:08,373 --> 00:23:10,297
+<i>There was nothing you could
+do to change that.</i>
+
+437
+00:23:14,812 --> 00:23:15,507
+<i>Hey?</i>
+
+438
+00:23:16,210 --> 00:23:17,069
+<i>Yes.</i>
+
+439
+00:23:17,720 --> 00:23:18,677
+<i>Alright.</i>
+
+440
+00:23:19,530 --> 00:23:21,565
+<i>We have to make our
+way to the Space Station.</i>
+
+441
+00:23:22,997 --> 00:23:24,184
+<i>Over there.</i>
+
+442
+00:23:26,011 --> 00:23:29,098
+<i>It's a bit of a hike, but we need
+to use their escape pod,</i>
+
+443
+00:23:29,317 --> 00:23:31,250
+<i>the Soyuz, to get back to Earth.</i>
+
+444
+00:23:31,632 --> 00:23:32,622
+<i>Agreed?</i>
+
+445
+00:23:34,285 --> 00:23:35,527
+<i>Dr. Stone,</i>
+
+446
+00:23:36,707 --> 00:23:37,652
+<i>agreed?</i>
+
+447
+00:23:38,918 --> 00:23:39,823
+<i>Agreed.</i>
+
+448
+00:23:40,699 --> 00:23:42,609
+<i>Alright. After you.</i>
+
+449
+00:23:45,106 --> 00:23:46,107
+<i>Oh, God.</i>
+
+450
+00:23:56,155 --> 00:23:58,204
+<i>Houston, in the blind.
+This is Kowalski.</i>
+
+451
+00:23:58,913 --> 00:24:02,358
+<i>Dr. Stone and I have determined
+to proceed to ISS</i>
+
+452
+00:24:02,677 --> 00:24:05,430
+<i>and use one of their Soyuz for re-entry.</i>
+
+453
+00:24:06,315 --> 00:24:08,146
+<i>ISS, if you hear us...</i>
+
+454
+00:24:09,395 --> 00:24:11,178
+<i>we could sure use a rescue mission.</i>
+
+455
+00:24:25,395 --> 00:24:27,162
+<i>O2 down to 2 percent.</i>
+
+456
+00:24:27,787 --> 00:24:29,053
+<i>We are getting there.</i>
+
+457
+00:24:30,863 --> 00:24:32,217
+<i>Beautiful, don't you think?</i>
+
+458
+00:24:34,018 --> 00:24:34,905
+<i>What?</i>
+
+459
+00:24:35,596 --> 00:24:36,936
+<i>The sunrise.</i>
+
+460
+00:24:38,734 --> 00:24:40,491
+<i>That's what I am gonna miss the most.</i>
+
+461
+00:24:45,979 --> 00:24:47,890
+<i>So where is home, Dr. Stone?</i>
+
+462
+00:24:51,225 --> 00:24:53,116
+<i>Ryan, where is home?</i>
+
+463
+00:24:55,081 --> 00:24:56,046
+<i>Home?</i>
+
+464
+00:24:57,472 --> 00:24:58,485
+<i>Down there.</i>
+
+465
+00:24:59,143 --> 00:25:00,159
+<i>Mother Earth.</i>
+
+466
+00:25:01,238 --> 00:25:02,659
+<i>Where do you pitch you tent?</i>
+
+467
+00:25:06,240 --> 00:25:07,327
+<i>Lake Zurich.</i>
+
+468
+00:25:08,264 --> 00:25:09,474
+<i>Where the hell is that?</i>
+
+469
+00:25:12,996 --> 00:25:13,873
+<i>Illinois.</i>
+
+470
+00:25:14,233 --> 00:25:15,304
+<i>Illinois.</i>
+
+471
+00:25:15,591 --> 00:25:16,911
+<i>Central Time Zone.</i>
+
+472
+00:25:18,397 --> 00:25:20,024
+<i>That would make it roughly...</i>
+
+473
+00:25:21,060 --> 00:25:22,114
+<i>8 p.m.</i>
+
+474
+00:25:22,644 --> 00:25:25,565
+<i>What are the good people of Lake
+Zurich doing at 8 o'clock?</i>
+
+475
+00:25:27,363 --> 00:25:28,534
+<i>I don't know.</i>
+
+476
+00:25:29,444 --> 00:25:31,581
+<i>I am not gonna make it.
+I am slowing you down.</i>
+
+477
+00:25:32,033 --> 00:25:33,370
+<i>What would you be doing?</i>
+
+478
+00:25:36,329 --> 00:25:37,502
+<i>Come on, Ryan.</i>
+
+479
+00:25:38,583 --> 00:25:39,877
+<i>It's 8 o'clock.</i>
+
+480
+00:25:40,618 --> 00:25:43,314
+<i>You have just left the hospital
+after an 18 hour shift.</i>
+
+481
+00:25:44,635 --> 00:25:45,822
+<i>Driving home.</i>
+
+482
+00:25:49,585 --> 00:25:50,642
+<i>The radio.</i>
+
+483
+00:25:52,866 --> 00:25:54,208
+<i>I listen to the radio.</i>
+
+484
+00:25:55,271 --> 00:25:57,305
+<i>There we go.
+Let me guess.</i>
+
+485
+00:25:57,686 --> 00:25:58,670
+<i>NPR?</i>
+
+486
+00:25:59,294 --> 00:26:00,297
+<i>Classical?</i>
+
+487
+00:26:00,818 --> 00:26:01,829
+<i>Top 40?</i>
+
+488
+00:26:05,427 --> 00:26:06,181
+<i>Anything.</i>
+
+489
+00:26:06,261 --> 00:26:08,623
+<i>I don't care, as long as they don't talk.
+I just drive.</i>
+
+490
+00:26:11,720 --> 00:26:13,272
+<i>And where are you driving to?</i>
+
+491
+00:26:16,256 --> 00:26:17,411
+<i>I just drive.</i>
+
+492
+00:26:18,658 --> 00:26:20,272
+<i>What do you miss down there?</i>
+
+493
+00:26:22,107 --> 00:26:23,522
+<i>Is there a Mr. Stone?</i>
+
+494
+00:26:25,331 --> 00:26:26,053
+<i>No.</i>
+
+495
+00:26:27,078 --> 00:26:28,383
+<i>Nobody special?</i>
+
+496
+00:26:31,669 --> 00:26:33,420
+<i>Somebody down there looking up,</i>
+
+497
+00:26:34,032 --> 00:26:35,250
+<i>thinking about you?</i>
+
+498
+00:26:37,874 --> 00:26:38,930
+<i>Ryan?</i>
+
+499
+00:26:46,232 --> 00:26:47,566
+<i>I had a daughter.</i>
+
+500
+00:26:58,802 --> 00:27:00,039
+<i>She was four.</i>
+
+501
+00:27:02,980 --> 00:27:04,861
+<i>She was at school playing tag.</i>
+
+502
+00:27:05,018 --> 00:27:07,304
+<i>Slipped, hit her head and that was it.</i>
+
+503
+00:27:10,119 --> 00:27:11,355
+<i>Stupidest thing.</i>
+
+504
+00:27:18,036 --> 00:27:20,472
+<i>I was driving when I got the call, so...</i>
+
+505
+00:27:21,989 --> 00:27:24,003
+<i>Ever since then, that's what I do.</i>
+
+506
+00:27:25,586 --> 00:27:26,716
+<i>I wake up.</i>
+
+507
+00:27:28,005 --> 00:27:29,177
+<i>I go to work.</i>
+
+508
+00:27:29,973 --> 00:27:31,420
+<i>And I just drive.</i>
+
+509
+00:27:58,780 --> 00:28:00,560
+<i>O2 down to 1 percent.</i>
+
+510
+00:28:13,339 --> 00:28:15,324
+<i>Well, I have got good news and bad news.</i>
+
+511
+00:28:15,516 --> 00:28:17,434
+<i>The good news is, we are about
+five minutes</i>
+
+512
+00:28:17,458 --> 00:28:20,328
+<i>from the ISS and I know where
+the Russians stash their vodka.</i>
+
+513
+00:28:20,748 --> 00:28:23,322
+<i>And that is good, because
+I am running on fumes here.</i>
+
+514
+00:28:24,524 --> 00:28:28,196
+<i>The bad news is, I am gonna be about
+10 minutes short of breaking Anatoly's record,</i>
+
+515
+00:28:28,384 --> 00:28:29,345
+<i>and...</i>
+
+516
+00:28:30,266 --> 00:28:31,313
+<i>I...
+What?</i>
+
+517
+00:28:31,754 --> 00:28:34,634
+<i>I am redlining my O2 tank pressure is low.</i>
+
+518
+00:28:34,929 --> 00:28:37,749
+<i>Your tank is out of oxygen
+but you still have it in your suit.</i>
+
+519
+00:28:37,880 --> 00:28:38,552
+<i>Got it.</i>
+
+520
+00:28:38,577 --> 00:28:40,202
+<i>So you have to sip, not gulp.</i>
+
+521
+00:28:41,307 --> 00:28:43,084
+<i>Wine, not beer.</i>
+
+522
+00:28:43,108 --> 00:28:44,600
+<i>Sip, Ryan.</i>
+
+523
+00:28:45,824 --> 00:28:48,562
+<i>Houston, in the blind,
+we have a visual of the ISS.</i>
+
+524
+00:28:48,746 --> 00:28:52,257
+<i>The station must have been evacuated
+because the first Soyuz is missing.</i>
+
+525
+00:28:52,551 --> 00:28:56,536
+<i>The second Soyuz exhibits surface damage,
+and its chute has been deployed.</i>
+
+526
+00:28:57,031 --> 00:28:59,726
+<i>Any use as an escape pod
+for re-entry</i>
+
+527
+00:28:59,750 --> 00:29:01,054
+<i>is impossible.</i>
+
+528
+00:29:01,201 --> 00:29:03,199
+<i>Shouldn't we be turning we are drifting again.</i>
+
+529
+00:29:03,645 --> 00:29:06,332
+<i>Not yet.
+I was not kidding about those fumes.</i>
+
+530
+00:29:06,551 --> 00:29:08,559
+<i>This can has one or two good thrusts left...</i>
+
+531
+00:29:09,060 --> 00:29:10,152
+<i>if we are lucky.</i>
+
+532
+00:29:22,979 --> 00:29:24,074
+<i>Steady.</i>
+
+533
+00:29:34,038 --> 00:29:34,839
+<i>Aim.</i>
+
+534
+00:29:36,064 --> 00:29:36,845
+<i>Fire!</i>
+
+535
+00:29:43,209 --> 00:29:44,963
+<i>Brake! Brake!
+You have to brake!</i>
+
+536
+00:29:45,149 --> 00:29:46,849
+<i>I can't, the can is empty.</i>
+
+537
+00:29:47,326 --> 00:29:49,403
+<i>We are gonna hit hard!
+Grab a hold of anything you can!</i>
+
+538
+00:30:01,285 --> 00:30:02,394
+<i>What do I do?</i>
+
+539
+00:30:03,914 --> 00:30:04,917
+<i>What do I do?</i>
+
+540
+00:30:14,597 --> 00:30:15,368
+<i>Ryan!</i>
+
+541
+00:30:20,442 --> 00:30:22,225
+<i>The tether broke, I am detached!</i>
+
+542
+00:30:22,878 --> 00:30:24,019
+<i>I am detached!</i>
+
+543
+00:30:24,044 --> 00:30:25,104
+<i>Grab a hold!</i>
+
+544
+00:30:27,907 --> 00:30:29,047
+<i>Grab anything!</i>
+
+545
+00:30:45,341 --> 00:30:46,038
+<i>Ryan!</i>
+
+546
+00:30:48,427 --> 00:30:49,419
+<i>Give me five!</i>
+
+547
+00:30:50,023 --> 00:30:51,039
+<i>I have got you.</i>
+
+548
+00:30:51,222 --> 00:30:52,721
+<i>I have got you.
+Right here,</i>
+
+549
+00:30:56,499 --> 00:30:57,385
+<i>Shit!</i>
+
+550
+00:30:57,410 --> 00:31:00,136
+<i>No, no. No, no, no, no, no.</i>
+
+551
+00:31:01,681 --> 00:31:02,674
+<i>Got you.</i>
+
+552
+00:31:11,995 --> 00:31:12,900
+<i>Got you.</i>
+
+553
+00:31:16,201 --> 00:31:18,891
+<i>You just hold on..
+And I am gonna start pulling you in.</i>
+
+554
+00:31:19,443 --> 00:31:21,361
+<i>Hey, Doc.
+Just hold on, hang on.</i>
+
+555
+00:31:21,412 --> 00:31:22,965
+<i>I am gonna pull you in.</i>
+
+556
+00:31:22,990 --> 00:31:24,470
+<i>Ryan, listen.
+I am gonna pull you in.</i>
+
+557
+00:31:24,495 --> 00:31:26,032
+<i>You have to let me go.
+No.</i>
+
+558
+00:31:26,057 --> 00:31:28,690
+<i>The ropes are too loose.
+I am pulling you with me.</i>
+
+559
+00:31:28,715 --> 00:31:30,043
+<i>You have to let me go,</i>
+
+560
+00:31:30,207 --> 00:31:32,277
+<i>or we both die.
+I am not letting you go, we are fine!</i>
+
+561
+00:31:33,306 --> 00:31:34,106
+<i>No.</i>
+
+562
+00:31:39,810 --> 00:31:42,314
+<i>Ryan, let me go.
+No. No.</i>
+
+563
+00:31:43,032 --> 00:31:45,552
+<i>You are not going anywhere.
+You are not going anywhere.</i>
+
+564
+00:31:45,684 --> 00:31:47,143
+<i>It's not up to you.</i>
+
+565
+00:31:47,167 --> 00:31:48,400
+<i>No, no, no, no...</i>
+
+566
+00:31:48,440 --> 00:31:49,536
+<i>Please don't do this.</i>
+
+567
+00:31:50,546 --> 00:31:51,875
+<i>Please don't do this.</i>
+
+568
+00:31:54,810 --> 00:31:57,167
+<i>Please don't, Matt.
+Please don't do this.</i>
+
+569
+00:32:00,168 --> 00:32:01,585
+<i>You are gonna make it, Ryan.</i>
+
+570
+00:32:03,196 --> 00:32:04,246
+<i>No!</i>
+
+571
+00:32:25,857 --> 00:32:28,927
+<i>I had you. I had you!
+I had you.</i>
+
+572
+00:32:45,016 --> 00:32:46,455
+<i>Ryan, do you hear me?</i>
+
+573
+00:32:49,377 --> 00:32:50,373
+<i>Do you copy?</i>
+
+574
+00:32:51,180 --> 00:32:53,047
+<i>My CO2 alarm went off.</i>
+
+575
+00:32:53,194 --> 00:32:56,438
+<i>My CO2 alarm went off.
+Look, you need to board the station.</i>
+
+576
+00:32:57,603 --> 00:32:58,883
+<i>Do you see the airlock?</i>
+
+577
+00:33:08,512 --> 00:33:09,585
+<i>Hey Ryan,</i>
+
+578
+00:33:10,710 --> 00:33:11,668
+<i>you copy?</i>
+
+579
+00:33:13,992 --> 00:33:15,281
+<i>Look for the airlock.</i>
+
+580
+00:33:18,343 --> 00:33:20,429
+<i>It's above you, next to the Zarya module.</i>
+
+581
+00:33:24,549 --> 00:33:25,491
+<i>You see it?</i>
+
+582
+00:33:26,022 --> 00:33:26,944
+<i>Yes.</i>
+
+583
+00:33:27,163 --> 00:33:28,328
+<i>Yes, I see it.</i>
+
+584
+00:33:28,967 --> 00:33:30,342
+<i>I see it.
+Alright, good.</i>
+
+585
+00:33:30,755 --> 00:33:32,256
+<i>That's where you want to go.</i>
+
+586
+00:33:32,981 --> 00:33:34,637
+<i>Now you are getting lightheaded, right?</i>
+
+587
+00:33:35,246 --> 00:33:36,665
+<i>Yeah.
+Yes.</i>
+
+588
+00:33:37,490 --> 00:33:39,567
+<i>That's because you are breathing CO2.</i>
+
+589
+00:33:39,715 --> 00:33:41,403
+<i>You are losing consciousness.</i>
+
+590
+00:33:41,805 --> 00:33:42,927
+<i>You need to board the station.</i>
+
+591
+00:33:43,181 --> 00:33:44,081
+<i>Ok.</i>
+
+592
+00:33:45,528 --> 00:33:48,120
+<i>That second Soyuz
+is too damaged for re-entry,</i>
+
+593
+00:33:48,145 --> 00:33:50,839
+<i>but it's perfectly fine
+for a little Sunday drive.</i>
+
+594
+00:33:51,330 --> 00:33:52,564
+<i>Sunday drive?</i>
+
+595
+00:33:53,344 --> 00:33:54,462
+<i>Look to the west.</i>
+
+596
+00:33:56,302 --> 00:33:57,744
+<i>You see that dot in the distance?</i>
+
+597
+00:33:58,341 --> 00:33:59,817
+<i>That's a Chinese station.</i>
+
+598
+00:34:00,122 --> 00:34:00,906
+<i>Yes.</i>
+
+599
+00:34:01,108 --> 00:34:03,628
+<i>You are gonna take the Soyuz,
+and you are gonna cruise over there.</i>
+
+600
+00:34:05,341 --> 00:34:07,755
+<i>Chinese lifeboat is a Shenzhou.</i>
+
+601
+00:34:08,774 --> 00:34:10,203
+<i>I have never flown a Shenzhou.</i>
+
+602
+00:34:10,227 --> 00:34:11,485
+<i>It doesn't matter.</i>
+
+603
+00:34:11,759 --> 00:34:14,212
+<i>Its re-entry protocol is identical to the Soyuz.</i>
+
+604
+00:34:15,709 --> 00:34:16,743
+<i>Ok.</i>
+
+605
+00:34:19,163 --> 00:34:20,853
+<i>You never flown the Soyuz either?</i>
+
+606
+00:34:21,676 --> 00:34:23,166
+<i>Only a simulator.</i>
+
+607
+00:34:23,962 --> 00:34:25,118
+<i>Well, then you know.</i>
+
+608
+00:34:27,898 --> 00:34:29,062
+<i>But I crashed it.</i>
+
+609
+00:34:29,637 --> 00:34:31,741
+<i>It's a simulator,
+that's what it's designed for.</i>
+
+610
+00:34:35,214 --> 00:34:36,187
+<i>Every time.</i>
+
+611
+00:34:36,844 --> 00:34:38,143
+<i>I crashed it every time.</i>
+
+612
+00:34:38,601 --> 00:34:40,108
+<i>You point the damn thing at Earth.</i>
+
+613
+00:34:40,132 --> 00:34:41,682
+<i>It's not rocket science.</i>
+
+614
+00:34:42,913 --> 00:34:44,077
+<i>And by this time tomorrow,</i>
+
+615
+00:34:44,102 --> 00:34:46,639
+<i>you are gonna be back in Lake Zurich
+with a hell of a story to tell.</i>
+
+616
+00:34:47,770 --> 00:34:48,875
+<i>You copy?</i>
+
+617
+00:34:50,884 --> 00:34:52,120
+<i>Ryan, you copy?</i>
+
+618
+00:34:52,923 --> 00:34:54,820
+<i>I am gonna take the
+Soyuz and come get you.</i>
+
+619
+00:34:54,845 --> 00:34:56,680
+<i>No, you are not.
+I am coming to get you</i>
+
+620
+00:34:56,719 --> 00:34:59,265
+<i>No, I have got too much of a head start on you.
+I am coming to get you.</i>
+
+621
+00:34:59,290 --> 00:35:01,176
+<i>I am afraid that ship already sailed.</i>
+
+622
+00:35:02,823 --> 00:35:04,747
+<i>Ryan, you are gonna have to learn to let go.</i>
+
+623
+00:35:06,268 --> 00:35:08,192
+<i>But I...
+I want to hear you say you are gonna make it...</i>
+
+624
+00:35:10,945 --> 00:35:12,483
+<i>Come on Ryan, say it.</i>
+
+625
+00:35:14,642 --> 00:35:15,893
+<i>I am gonna make it.</i>
+
+626
+00:35:16,042 --> 00:35:17,061
+<i>Alright.</i>
+
+627
+00:35:17,139 --> 00:35:18,327
+<i>Keep going.</i>
+
+628
+00:35:19,412 --> 00:35:21,974
+<i>What kind of name is Ryan for a girl?</i>
+
+629
+00:35:24,036 --> 00:35:25,319
+<i>Dad wanted a boy.</i>
+
+630
+00:35:25,343 --> 00:35:27,232
+<i>Are you close to the airlock?</i>
+
+631
+00:35:29,068 --> 00:35:29,907
+<i>Not yet.</i>
+
+632
+00:35:30,165 --> 00:35:31,398
+<i>Keep going.</i>
+
+633
+00:35:32,373 --> 00:35:34,561
+<i>So now that we have some distance between us...</i>
+
+634
+00:35:35,216 --> 00:35:37,040
+<i>you are attracted to me, right?</i>
+
+635
+00:35:37,064 --> 00:35:38,538
+<i>What?
+Well...</i>
+
+636
+00:35:39,262 --> 00:35:41,410
+<i>people say I have beautiful blue eyes.</i>
+
+637
+00:35:45,941 --> 00:35:47,219
+<i>You have beautiful...</i>
+
+638
+00:35:47,918 --> 00:35:49,462
+<i>You have beautiful blue eyes.</i>
+
+639
+00:35:49,839 --> 00:35:51,168
+<i>I have brown eyes.</i>
+
+640
+00:35:54,952 --> 00:35:56,309
+<i>You want to know the good news?</i>
+
+641
+00:35:56,848 --> 00:35:57,618
+<i>What?</i>
+
+642
+00:35:57,796 --> 00:35:59,545
+<i>I am gonna break Anatoly's record,</i>
+
+643
+00:35:59,906 --> 00:36:02,426
+<i>and I think mine is gonna stand for a long,
+long time.</i>
+
+644
+00:36:02,451 --> 00:36:03,130
+<i>No.</i>
+
+645
+00:36:03,616 --> 00:36:05,163
+<i>I am coming to get you.</i>
+
+646
+00:36:08,171 --> 00:36:10,419
+<i>Oh, my God.
+What? What?</i>
+
+647
+00:36:14,154 --> 00:36:15,202
+<i>Hey Ryan?</i>
+
+648
+00:36:15,851 --> 00:36:16,686
+<i>Yeah?</i>
+
+649
+00:36:17,224 --> 00:36:19,201
+<i>You should see the sun on the Ganges.</i>
+
+650
+00:36:22,127 --> 00:36:23,334
+<i>It's amazing.</i>
+
+651
+00:40:49,411 --> 00:40:51,315
+Where are you?
+Where are you?
+
+652
+00:40:51,415 --> 00:40:54,248
+Comms. Comms.
+There you are, Ok.
+
+653
+00:41:05,456 --> 00:41:07,006
+Matt, this is Ryan, copy.
+
+654
+00:41:10,315 --> 00:41:12,505
+Matt, this is Ryan, copy.
+
+655
+00:41:16,002 --> 00:41:19,310
+Matt, I made it, I am here, I am on the station.
+Do you copy?
+
+656
+00:41:25,782 --> 00:41:27,436
+Come on, Matt, talk to me.
+
+657
+00:41:28,193 --> 00:41:30,169
+Tell me where you are, give me your position.
+
+658
+00:41:31,724 --> 00:41:34,708
+Where are you? Give me a visual.
+Just tell me what you see.
+
+659
+00:41:39,985 --> 00:41:42,881
+Come on. You have been yammering
+since we left Cape Canaveral,
+
+660
+00:41:42,906 --> 00:41:44,816
+and now you decide to shut up?
+Talk to me.
+
+661
+00:41:44,942 --> 00:41:47,803
+Just say something, say anything!
+I don't care!
+
+662
+00:41:54,055 --> 00:41:54,976
+Hey...
+
+663
+00:41:56,854 --> 00:42:00,017
+Tell me about Mardi Gras.
+Tell me about the hairy guy?
+
+664
+00:42:00,602 --> 00:42:01,965
+Tell me what happened.
+
+665
+00:42:02,466 --> 00:42:04,512
+What happened to the hairy guy?
+
+666
+00:42:11,034 --> 00:42:12,221
+Please talk to me.
+
+667
+00:42:16,908 --> 00:42:18,041
+Please.
+
+668
+00:42:34,055 --> 00:42:35,569
+Houston, in the blind...
+
+669
+00:42:38,185 --> 00:42:41,923
+this is Mission Specialist Ryan Stone
+reporting from the ISS.
+
+670
+00:42:44,221 --> 00:42:46,193
+All communications
+with Mission Commander
+
+671
+00:42:46,217 --> 00:42:48,220
+Matthew Kowalski have been lost.
+
+672
+00:42:51,935 --> 00:42:53,803
+Radio transmission absent.
+
+673
+00:42:56,134 --> 00:42:57,803
+Visuals nonexistent.
+
+674
+00:43:00,623 --> 00:43:01,734
+To confirm,
+
+675
+00:43:02,756 --> 00:43:05,350
+I, Ryan Stone, am the sole survivor
+
+676
+00:43:06,238 --> 00:43:08,374
+of STS-1-5-7.
+
+677
+00:43:22,261 --> 00:43:23,027
+What now?
+
+678
+00:45:04,027 --> 00:45:04,815
+Ok.
+
+679
+00:45:04,980 --> 00:45:05,828
+Where is it?
+
+680
+00:45:06,344 --> 00:45:07,890
+Where is the power?
+Here you are.
+
+681
+00:45:11,722 --> 00:45:12,906
+Great, just like training.
+
+682
+00:45:14,328 --> 00:45:15,307
+Undocking.
+
+683
+00:45:16,344 --> 00:45:17,244
+Undocking.
+
+684
+00:45:18,570 --> 00:45:19,284
+Red.
+
+685
+00:45:25,430 --> 00:45:27,383
+Ok.
+
+686
+00:45:28,447 --> 00:45:29,590
+Ok, where is it?
+
+687
+00:45:30,415 --> 00:45:31,376
+Where is it?
+
+688
+00:45:32,210 --> 00:45:33,134
+Come on.
+
+689
+00:45:34,348 --> 00:45:34,986
+Ok.
+
+690
+00:45:38,766 --> 00:45:41,091
+Ok, I remember this, I remember this.
+
+691
+00:45:56,027 --> 00:45:57,996
+You don't have four minutes.
+We are going manual
+
+692
+00:46:00,049 --> 00:46:00,878
+Come on.
+
+693
+00:46:01,699 --> 00:46:02,395
+Ok.
+
+694
+00:46:03,368 --> 00:46:06,255
+Active. Activate, undock.
+
+695
+00:46:34,913 --> 00:46:36,815
+7 minutes to get out of here.
+
+696
+00:46:43,679 --> 00:46:45,100
+Alright, ok.
+
+697
+00:47:01,313 --> 00:47:02,675
+What? What, what?
+
+698
+00:47:12,487 --> 00:47:14,455
+No, no, no, no, no, no, no, no, no!
+
+699
+00:47:43,884 --> 00:47:45,775
+Stop! Stop! Stop! Stop! Stop!
+
+700
+00:47:55,683 --> 00:47:57,714
+Come on, come on, come on!
+
+701
+00:47:57,984 --> 00:47:59,217
+Come on!
+
+702
+00:47:59,492 --> 00:48:01,475
+Come on, come on, come on!
+
+703
+00:48:02,408 --> 00:48:04,033
+That's right, that's right, right, right, right.
+
+704
+00:48:04,703 --> 00:48:07,040
+That's right, that's right, that's right,
+that's right, that's right.
+
+705
+00:48:10,220 --> 00:48:11,056
+Come on.
+
+706
+00:48:47,328 --> 00:48:48,095
+Great.
+
+707
+00:49:34,425 --> 00:49:37,064
+Clear skies with a chance of satellite debris.
+
+708
+00:50:51,188 --> 00:50:54,328
+Ok, we detach this, and we go home.
+Piece of cake.
+
+709
+00:51:20,899 --> 00:51:21,883
+Ok.
+
+710
+00:51:26,182 --> 00:51:27,533
+Ok, what do we have?
+
+711
+00:51:28,307 --> 00:51:29,557
+Ok, alright.
+
+712
+00:51:40,815 --> 00:51:41,655
+Shit.
+
+713
+00:51:49,921 --> 00:51:51,022
+Ok, come on.
+
+714
+00:51:51,497 --> 00:51:52,498
+Come on, come on.
+
+715
+00:51:53,171 --> 00:51:53,983
+Alright.
+
+716
+00:53:25,026 --> 00:53:26,487
+I hate space.
+
+717
+00:53:47,025 --> 00:53:48,188
+Shut up.
+
+718
+00:53:52,943 --> 00:53:53,657
+Ok.
+
+719
+00:54:02,089 --> 00:54:02,868
+Alright.
+
+720
+00:54:07,995 --> 00:54:09,210
+That's good.
+
+721
+00:54:11,012 --> 00:54:11,689
+Ok.
+
+722
+00:54:13,525 --> 00:54:14,923
+Let's stabilize you.
+
+723
+00:54:30,515 --> 00:54:31,493
+Ok.
+
+724
+00:54:33,124 --> 00:54:35,477
+Let's go visit the Chinese station.
+
+725
+00:54:36,943 --> 00:54:38,290
+Houston, in the blind,
+
+726
+00:54:38,711 --> 00:54:40,473
+Tiangong is approximately,
+
+727
+00:54:40,497 --> 00:54:41,892
+100 kilometers...
+
+728
+00:54:42,348 --> 00:54:44,239
+to the west,
+
+729
+00:54:44,612 --> 00:54:46,187
+and I am off its...
+
+730
+00:54:46,211 --> 00:54:47,606
+course by about...
+
+731
+00:54:48,286 --> 00:54:51,590
+30 degrees. I will correct trajectory.
+
+732
+00:55:14,179 --> 00:55:14,836
+Ok.
+
+733
+00:55:16,211 --> 00:55:16,914
+Ok.
+
+734
+00:55:18,167 --> 00:55:18,808
+Ok.
+
+735
+00:55:21,120 --> 00:55:23,725
+I will engage S-Ka-Dae in five.
+
+736
+00:55:23,952 --> 00:55:24,589
+Four.
+
+737
+00:55:24,744 --> 00:55:25,352
+Three.
+
+738
+00:55:25,531 --> 00:55:26,146
+Two.
+
+739
+00:55:26,311 --> 00:55:27,011
+One.
+
+740
+00:55:41,851 --> 00:55:44,011
+What's happening, what's happening?
+Come on, come on.
+
+741
+00:55:47,268 --> 00:55:48,027
+One.
+
+742
+00:56:02,794 --> 00:56:04,027
+Come on, come on.
+
+743
+00:56:08,842 --> 00:56:10,303
+You got to be kidding me.
+
+744
+00:56:11,059 --> 00:56:12,727
+You got to be kidding me!
+
+745
+00:56:17,572 --> 00:56:19,363
+No!
+Don't you fuck...
+
+746
+00:56:29,401 --> 00:56:30,547
+<i>Houston, in the blind.</i>
+
+747
+00:56:31,528 --> 00:56:33,789
+<i>Houston, in the blind, this is Dr. Ryan Stone.</i>
+
+748
+00:56:34,507 --> 00:56:37,874
+<i>I am calling from the Soyuz TMA-1-4-M.</i>
+
+749
+00:56:38,972 --> 00:56:41,561
+<i>I am currently out of fuel and adrift, do you copy?</i>
+
+750
+00:56:44,846 --> 00:56:45,724
+<i>Houston.</i>
+
+751
+00:56:46,342 --> 00:56:48,107
+<i>This is Dr. Ryan Stone.</i>
+
+752
+00:56:49,279 --> 00:56:50,281
+<i>Do you copy?</i>
+
+753
+00:56:54,957 --> 00:56:57,736
+Houston. This is Ryan Stone.
+
+754
+00:56:58,389 --> 00:56:59,720
+Do you copy?
+
+755
+00:57:02,889 --> 00:57:04,367
+Houston, this is Missish...
+
+756
+00:57:04,718 --> 00:57:07,068
+Mission Specialist Ryan Stone, do you copy?
+
+757
+00:57:09,199 --> 00:57:10,040
+Houston?
+
+758
+00:57:10,274 --> 00:57:12,131
+Houston, please confirm identity.
+
+759
+00:57:12,635 --> 00:57:15,577
+Houston, you are coming in over
+an A.M. frequency. Copy.
+
+760
+00:57:17,573 --> 00:57:18,574
+Do you copy?
+
+761
+00:57:19,535 --> 00:57:21,051
+Is this the Chinese station?
+
+762
+00:57:21,075 --> 00:57:22,745
+Is this Tiangong? Copy.
+
+763
+00:57:24,498 --> 00:57:26,222
+Mayday, can you copy?
+
+764
+00:57:26,246 --> 00:57:27,728
+Mayday, mayday.
+
+765
+00:57:28,005 --> 00:57:29,006
+Mayday!
+
+766
+00:57:30,216 --> 00:57:32,443
+Yes, yes.
+Mayday, mayday.
+
+767
+00:57:32,943 --> 00:57:34,459
+Mayday, mayday.
+
+768
+00:57:35,853 --> 00:57:37,837
+<i>Aningaaq.</i>
+
+769
+00:57:40,658 --> 00:57:42,322
+Aningaaq said... Is that your...
+
+770
+00:57:42,624 --> 00:57:43,718
+<i>Aningaaq.</i>
+Is that your name?
+
+771
+00:57:43,767 --> 00:57:46,189
+Aningaaq is your... is your name?
+Is that your name?
+
+772
+00:57:46,219 --> 00:57:49,314
+<i>Aningaaq, Aningaaq, Mayday!</i>
+
+773
+00:57:49,712 --> 00:57:51,873
+No, no, no. No, my name is not Mayday.
+
+774
+00:57:51,897 --> 00:57:52,915
+I am Stone.
+
+775
+00:57:53,133 --> 00:57:55,502
+Dr. Ryan Stone, I need help.
+
+776
+00:57:55,978 --> 00:57:57,008
+I am...
+
+777
+00:58:00,451 --> 00:58:01,452
+Those are dogs.
+
+778
+00:58:03,061 --> 00:58:04,392
+They are calling from Earth.
+
+779
+00:58:07,886 --> 00:58:09,256
+They are calling from Earth.
+
+780
+00:58:22,574 --> 00:58:23,530
+Aningaaq,
+
+781
+00:58:24,878 --> 00:58:27,464
+make your dogs bark again for me,
+would you please?
+
+782
+00:58:29,573 --> 00:58:31,371
+Your dogs. Dogs,
+
+783
+00:58:31,395 --> 00:58:34,243
+you know. Woof, woof. Dogs.
+
+784
+00:59:18,944 --> 00:59:20,460
+Oh, I am gonna die, Aningaaq.
+
+785
+00:59:23,514 --> 00:59:25,091
+I know, we are all gonna die.
+
+786
+00:59:25,115 --> 00:59:26,490
+Everybody knows that.
+
+787
+00:59:27,122 --> 00:59:29,060
+But I am gonna die today.
+
+788
+00:59:32,122 --> 00:59:33,183
+Funny, that.
+
+789
+00:59:33,511 --> 00:59:34,928
+You know, to know...
+
+790
+00:59:38,584 --> 00:59:41,005
+But the thing is, it's that I am still scared.
+
+791
+00:59:41,964 --> 00:59:43,427
+I am really scared.
+
+792
+00:59:46,554 --> 00:59:48,014
+Nobody will mourn for me,
+
+793
+00:59:48,039 --> 00:59:49,733
+no one will pray for my soul.
+
+794
+00:59:53,376 --> 00:59:54,858
+Will you mourn for me?
+
+795
+00:59:56,673 --> 00:59:58,108
+Will you say a prayer for me?
+
+796
+00:59:59,339 --> 01:00:00,530
+Or is it too late?
+
+797
+01:00:05,468 --> 01:00:07,217
+I mean, I would say one for myself,
+
+798
+01:00:07,241 --> 01:00:08,983
+but I have never prayed in my life, so...
+
+799
+01:00:10,837 --> 01:00:12,287
+Nobody ever taught me how.
+
+800
+01:00:16,815 --> 01:00:18,514
+Nobody ever taught me how.
+
+801
+01:00:30,275 --> 01:00:31,412
+A baby.
+
+802
+01:00:44,461 --> 01:00:46,069
+There is a baby with you?
+
+803
+01:00:49,492 --> 01:00:51,139
+Is that a lullaby you are singing?
+
+804
+01:00:54,295 --> 01:00:55,733
+That's so sweet.
+
+805
+01:00:58,577 --> 01:01:00,357
+I used to sing to my baby.
+
+806
+01:01:04,556 --> 01:01:06,264
+I hope I see her soon.
+
+807
+01:02:16,933 --> 01:02:19,652
+That's nice, Aningaaq.
+Keep singing, just like that.
+
+808
+01:02:21,926 --> 01:02:23,973
+Sing me to sleep and I will sleep.
+
+809
+01:02:26,357 --> 01:02:29,504
+Keep singing.
+And sing and sing.
+
+810
+01:02:59,922 --> 01:03:01,803
+No, no, no, don't!
+
+811
+01:03:44,840 --> 01:03:47,441
+Check your watch.
+13 hours and 11 minutes.
+
+812
+01:03:47,692 --> 01:03:49,972
+Call Anatoly and tell him he is been bumped.
+
+813
+01:03:50,769 --> 01:03:52,808
+It's a little gloomy in here, isn't it?
+How did you?
+
+814
+01:03:53,108 --> 01:03:55,657
+Trust me, it's a hell of a story.
+But how...
+
+815
+01:03:58,399 --> 01:03:59,528
+That's better.
+
+816
+01:04:00,441 --> 01:04:01,701
+I found a little extra...
+
+817
+01:04:02,161 --> 01:04:03,880
+a little extra battery power.
+
+818
+01:04:04,240 --> 01:04:06,317
+It helps that I didn't
+have you around to distract me.
+
+819
+01:04:06,890 --> 01:04:08,036
+I have to say.
+
+820
+01:04:09,016 --> 01:04:11,067
+I am glad to see you, I didn't think
+you were gonna make it.
+
+821
+01:04:11,385 --> 01:04:12,736
+Did you find the vodka?
+
+822
+01:04:13,605 --> 01:04:14,465
+You...
+
+823
+01:04:14,870 --> 01:04:16,372
+You never told me where...
+Oh well.
+
+824
+01:04:16,397 --> 01:04:17,445
+Where it was so...
+
+825
+01:04:23,514 --> 01:04:24,515
+To Anatoly.
+
+826
+01:04:25,326 --> 01:04:26,641
+Na zdorovje.
+
+827
+01:04:32,292 --> 01:04:33,274
+No?
+
+828
+01:04:33,555 --> 01:04:34,492
+Alright.
+
+829
+01:04:35,300 --> 01:04:36,526
+Let's get out of here.
+
+830
+01:04:38,711 --> 01:04:40,737
+The Chinese station is about
+a hundred miles.
+
+831
+01:04:40,983 --> 01:04:42,883
+Just a little Sunday drive.
+
+832
+01:04:43,515 --> 01:04:44,951
+We can't.
+Sure we can.
+
+833
+01:04:45,308 --> 01:04:46,863
+There is no fuel, I tried everything.
+
+834
+01:04:46,888 --> 01:04:48,873
+Well, there is always something we can do.
+
+835
+01:04:49,049 --> 01:04:50,378
+I tried everything.
+
+836
+01:04:50,503 --> 01:04:52,269
+Did you try the soft landing jets?
+
+837
+01:04:52,441 --> 01:04:53,794
+They are for landing. So...
+
+838
+01:04:53,818 --> 01:04:55,338
+Well, landing is launching.
+It's the same thing.
+
+839
+01:04:55,362 --> 01:04:56,901
+Didn't you learn about that in training?
+
+840
+01:04:57,000 --> 01:04:59,166
+I never got to land the simulator.
+I told you that.
+
+841
+01:04:59,191 --> 01:05:00,134
+But you know about it.
+
+842
+01:05:00,158 --> 01:05:01,875
+And I crashed it every time.
+Listen.
+
+843
+01:05:01,900 --> 01:05:03,697
+Do you want to go back,
+or do you want to stay here?
+
+844
+01:05:07,346 --> 01:05:08,993
+I get it, it's nice up here.
+
+845
+01:05:12,480 --> 01:05:13,522
+You can just...
+
+846
+01:05:14,416 --> 01:05:16,284
+shut down all the systems,
+
+847
+01:05:17,353 --> 01:05:18,830
+turn out all the lights...
+
+848
+01:05:20,327 --> 01:05:22,494
+and just close your eyes
+and tune out everybody.
+
+849
+01:05:23,664 --> 01:05:25,213
+There is nobody up here that can hurt you.
+
+850
+01:05:26,098 --> 01:05:27,174
+It's safe.
+
+851
+01:05:31,002 --> 01:05:33,236
+I mean, what's the point of going on?
+What's the point of living?
+
+852
+01:05:38,422 --> 01:05:39,632
+Your kid died.
+
+853
+01:05:40,203 --> 01:05:41,836
+Doesn't get any rougher than that.
+
+854
+01:05:44,809 --> 01:05:46,765
+But still, it's a matter of what you do now.
+
+855
+01:05:48,883 --> 01:05:51,732
+If you decide to go,
+then you got to just get on with it.
+
+856
+01:05:52,853 --> 01:05:54,818
+Sit back, enjoy the ride.
+
+857
+01:05:55,914 --> 01:05:59,475
+You got to plant both your feet on
+the ground and start living life.
+
+858
+01:05:59,779 --> 01:06:03,154
+How did you get here?
+I am telling you, it's a hell of a story.
+
+859
+01:06:03,984 --> 01:06:04,991
+Hey, Ryan?
+
+860
+01:06:05,108 --> 01:06:06,186
+What?
+
+861
+01:06:07,029 --> 01:06:08,474
+It's time to go home.
+
+862
+01:06:52,501 --> 01:06:53,534
+Landing...
+
+863
+01:06:55,973 --> 01:06:56,959
+Landing...
+
+864
+01:06:57,253 --> 01:06:59,542
+Landing is launching.
+
+865
+01:07:00,700 --> 01:07:01,690
+I said...
+
+866
+01:07:15,908 --> 01:07:17,188
+Ok, landing, landing.
+
+867
+01:07:17,430 --> 01:07:18,915
+Landing is green.
+
+868
+01:07:29,932 --> 01:07:30,724
+Ok.
+
+869
+01:07:32,884 --> 01:07:33,746
+Ok,
+
+870
+01:07:34,708 --> 01:07:36,403
+landing.
+Alright.
+
+871
+01:07:37,207 --> 01:07:37,792
+Ok.
+
+872
+01:07:37,886 --> 01:07:41,793
+Soft landing jets trigger automatically
+at 3 meters before landing, so...
+
+873
+01:07:44,947 --> 01:07:47,005
+You are a clever son of a bitch, Matt.
+
+874
+01:07:47,193 --> 01:07:48,277
+I need to...
+
+875
+01:07:49,254 --> 01:07:51,597
+I need to get rid of the B.O and...
+
+876
+01:07:51,738 --> 01:07:53,109
+the engine module.
+
+877
+01:07:54,865 --> 01:07:55,839
+Right.
+Ok.
+
+878
+01:07:56,988 --> 01:07:57,754
+Ok.
+
+879
+01:07:59,973 --> 01:08:00,777
+Ok.
+
+880
+01:08:03,958 --> 01:08:05,564
+Tri-module separation.
+
+881
+01:08:06,993 --> 01:08:07,809
+Go.
+
+882
+01:08:22,571 --> 01:08:23,325
+Ok.
+
+883
+01:08:24,756 --> 01:08:26,606
+Houston, here is the tricky part.
+
+884
+01:08:27,396 --> 01:08:28,989
+Soyuz has to think
+
+885
+01:08:29,718 --> 01:08:31,053
+we are 3 meters...
+
+886
+01:08:31,819 --> 01:08:33,085
+off the Earth.
+
+887
+01:08:34,129 --> 01:08:35,015
+Alright.
+
+888
+01:08:35,952 --> 01:08:36,632
+Ok.
+
+889
+01:08:37,128 --> 01:08:38,097
+Hey Matt?
+
+890
+01:08:38,822 --> 01:08:42,222
+Since I had to listen to endless
+hours of your storytelling this week,
+
+891
+01:08:43,000 --> 01:08:44,813
+I need for you to do me a favor.
+
+892
+01:08:46,079 --> 01:08:47,611
+You are gonna see a little girl,
+
+893
+01:08:47,635 --> 01:08:48,696
+with brown hair,
+
+894
+01:08:49,282 --> 01:08:51,386
+very messy, lots of knots.
+
+895
+01:08:52,058 --> 01:08:53,790
+She doesn't like to brush it.
+
+896
+01:08:54,496 --> 01:08:55,602
+That's ok.
+
+897
+01:08:56,415 --> 01:08:57,693
+Her name is Sarah.
+
+898
+01:08:58,966 --> 01:09:00,572
+Can you please tell her
+
+899
+01:09:01,684 --> 01:09:03,587
+that Mama found her red shoe?
+
+900
+01:09:04,956 --> 01:09:07,047
+She was so worried about that shoe, Matt.
+
+901
+01:09:07,936 --> 01:09:09,571
+But it was just right under the bed.
+
+902
+01:09:14,180 --> 01:09:16,242
+Give her a big hug and a big kiss for me,
+
+903
+01:09:16,267 --> 01:09:17,984
+and tell her that Mama misses her.
+
+904
+01:09:19,157 --> 01:09:21,022
+You tell her that she is my angel.
+
+905
+01:09:21,990 --> 01:09:23,763
+And she makes me so proud.
+
+906
+01:09:23,788 --> 01:09:25,288
+So, so proud.
+
+907
+01:09:30,397 --> 01:09:32,273
+And you tell her that I am not quitting.
+
+908
+01:09:39,859 --> 01:09:41,678
+You tell her that I love her, Matt.
+
+909
+01:09:42,877 --> 01:09:45,038
+You tell her that I love her so much.
+
+910
+01:09:47,968 --> 01:09:49,534
+Can you do that for me?
+
+911
+01:09:52,348 --> 01:09:53,471
+Roger that?
+
+912
+01:09:55,991 --> 01:09:56,870
+Here we go.
+
+913
+01:10:34,135 --> 01:10:36,120
+<i>You are losing altitude, Tiangong.</i>
+
+914
+01:10:39,237 --> 01:10:42,198
+<i>You keep dropping and you are gonna
+kiss the atmosphere.</i>
+
+915
+01:10:43,569 --> 01:10:46,253
+<i>But not without me,
+because you are my last ride.</i>
+
+916
+01:10:47,859 --> 01:10:48,526
+<i>Ok.</i>
+
+917
+01:10:50,200 --> 01:10:50,933
+<i>Wait.</i>
+
+918
+01:10:58,731 --> 01:10:59,511
+<i>5.</i>
+
+919
+01:11:01,277 --> 01:11:02,027
+<i>4.</i>
+
+920
+01:11:03,596 --> 01:11:04,324
+<i>3.</i>
+
+921
+01:11:05,757 --> 01:11:07,105
+<i>No more just driving.</i>
+
+922
+01:11:09,111 --> 01:11:10,222
+<i>Let's go home.</i>
+
+923
+01:11:15,563 --> 01:11:18,643
+<i>Steady.
+Ok, come on, come on.</i>
+
+924
+01:11:19,777 --> 01:11:20,778
+<i>Steady, steady.</i>
+
+925
+01:11:22,073 --> 01:11:23,871
+<i>Come on. Come on.</i>
+
+926
+01:11:27,982 --> 01:11:29,584
+<i>Where are you?
+Where are you? 45...</i>
+
+927
+01:11:29,843 --> 01:11:30,968
+<i>90, 180.</i>
+
+928
+01:11:31,023 --> 01:11:31,890
+<i>180.</i>
+
+929
+01:11:40,646 --> 01:11:41,647
+<i>Come on.</i>
+
+930
+01:11:50,969 --> 01:11:51,935
+<i>Ok, ok.</i>
+
+931
+01:12:07,581 --> 01:12:08,583
+<i>Alright.</i>
+
+932
+01:12:09,568 --> 01:12:11,071
+<i>Damn it.</i>
+
+933
+01:12:12,475 --> 01:12:16,688
+<i>Down, down, down.
+Come to Mama.</i>
+
+934
+01:13:29,980 --> 01:13:30,691
+<i>Ok.</i>
+
+935
+01:13:38,488 --> 01:13:39,598
+Ok. Shit!
+
+936
+01:13:46,702 --> 01:13:47,262
+Ok.
+
+937
+01:13:49,696 --> 01:13:50,965
+Shenzhou, come on.
+
+938
+01:13:51,810 --> 01:13:52,887
+Shenzhou. Shenzhou.
+
+939
+01:13:54,106 --> 01:13:54,710
+Fuck.
+
+940
+01:13:55,156 --> 01:13:56,294
+Ok, this way.
+
+941
+01:13:57,166 --> 01:13:58,067
+Shenzhou.
+
+942
+01:14:56,812 --> 01:14:58,482
+In the Soyuz, the power button is...
+
+943
+01:14:59,326 --> 01:14:59,913
+here.
+
+944
+01:15:03,342 --> 01:15:03,987
+Ok...
+
+945
+01:15:04,073 --> 01:15:05,522
+undocking, undocking.
+
+946
+01:15:07,315 --> 01:15:08,340
+Eeni, meeni...
+
+947
+01:15:09,476 --> 01:15:10,739
+Ok, that doesn't sound good.
+
+948
+01:15:11,528 --> 01:15:12,254
+Miny...
+
+949
+01:15:13,543 --> 01:15:14,223
+moe.
+
+950
+01:15:15,904 --> 01:15:17,076
+No hablo chino.
+
+951
+01:15:18,869 --> 01:15:19,709
+Miny...
+
+952
+01:15:20,157 --> 01:15:21,060
+moe.
+
+953
+01:15:22,599 --> 01:15:23,215
+Ok.
+
+954
+01:15:23,653 --> 01:15:24,513
+Ok, good.
+
+955
+01:15:33,668 --> 01:15:35,299
+Houston.
+Houston, in the blind.
+
+956
+01:15:35,840 --> 01:15:37,924
+This is Mission Specialist Ryan Stone
+
+957
+01:15:38,027 --> 01:15:39,619
+reporting from the Shenzhou.
+
+958
+01:15:39,791 --> 01:15:41,714
+I am about to undock from Tiangong...
+
+959
+01:15:46,550 --> 01:15:48,932
+And I have a bad feeling about this mission.
+
+960
+01:15:51,770 --> 01:15:53,603
+Reminds me of a story, Houston...
+
+961
+01:15:56,281 --> 01:15:56,957
+Never...
+
+962
+01:15:57,361 --> 01:15:58,700
+Never mind the story, Houston.
+
+963
+01:15:59,286 --> 01:16:00,587
+Never mind the story.
+
+964
+01:16:02,710 --> 01:16:04,673
+It's getting hot in here. Ok.
+
+965
+01:16:05,095 --> 01:16:05,944
+Alright.
+
+966
+01:16:06,881 --> 01:16:07,491
+Ok.
+
+967
+01:16:08,615 --> 01:16:09,970
+Alright, the way I see it,
+
+968
+01:16:10,796 --> 01:16:12,615
+there is only two possible outcomes.
+
+969
+01:16:13,097 --> 01:16:17,359
+Either I make it down there in one piece
+and I have one hell of a story to tell,
+
+970
+01:16:18,347 --> 01:16:20,078
+or I burn up in the next 10 minutes.
+
+971
+01:16:22,310 --> 01:16:23,817
+Either way, whichever way...
+
+972
+01:16:24,770 --> 01:16:26,258
+no harm, no foul!
+
+973
+01:16:34,179 --> 01:16:35,383
+Because either way...
+
+974
+01:16:38,040 --> 01:16:39,680
+it will be one hell of a ride.
+
+975
+01:16:42,736 --> 01:16:43,759
+I am ready.
+
+976
+01:18:50,677 --> 01:18:51,840
+<i>Shenzhou, in the blind,</i>
+
+977
+01:18:51,864 --> 01:18:53,091
+<i>this is Houston.</i>
+
+978
+01:18:54,013 --> 01:18:55,403
+<i>Indicate FM frequency.</i>
+
+979
+01:18:57,178 --> 01:18:59,473
+<i>Our radars detect you
+on a re-entry trajectory.</i>
+
+980
+01:18:59,645 --> 01:19:02,053
+<i>If you copy, please confirm identity.</i>
+
+981
+01:19:23,226 --> 01:19:26,491
+<i>This is Houston.
+It's freezing, it's boring as hell.</i>
+
+982
+01:19:28,922 --> 01:19:30,655
+<i>Is: No money down!</i>
+
+983
+01:19:30,958 --> 01:19:35,046
+<i>Messages, we will be right...
+Please confirm identity.</i>
+
+984
+01:19:35,047 --> 01:19:36,049
+<i>Skies over the Midwest are completely clear...</i>
+
+985
+01:19:36,050 --> 01:19:39,049
+<i>We have deployed a rescue
+mission to retrieve you.</i>
+
+986
+01:19:39,534 --> 01:19:41,330
+<i>Rescue mission is on the way.</i>
+
+987
+01:19:45,414 --> 01:19:47,984
+<i>Shenzhou, in the blind, this is Houston.</i>
+
+988
+01:19:48,889 --> 01:19:53,029
+<i>We have deployed a rescue mission
+to retrieve you.</i>
+
+989
+01:22:43,900 --> 01:22:44,955
+Thank you.
+
+990
+01:23:49,508 --> 01:23:52,672
+By <font color="#ff80ff">L</font><font color="#ff6aff">E</font><font color="#ff5bff">S</font><font color="#ff3cff">A</font><font color="#ff15ff">I</font><font color="#f200f2">G</font><font color="#e100e1">N</font><font color="#cc00cc">E</font><font color="#bb00bb">U</font><font color="#ae00ae">R</font>
+<i>Sync & corrections May 2022</i>
+

@@ -1,0 +1,1436 @@
+﻿[Script Info]
+Title: [Erai-raws] en
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:28.00,0:01:28.92,Default,,0,0,0,,Why?
+Dialogue: 0,0:01:29.46,0:01:32.09,Default,,0,0,0,,Why do you get in my way, Julius?!
+Dialogue: 0,0:01:32.17,0:01:36.59,Default,,0,0,0,,Because what you're trying to do\Nis wrong, Conrad.
+Dialogue: 0,0:01:38.76,0:01:40.01,Default,,0,0,0,,You must give up.
+Dialogue: 0,0:01:40.10,0:01:42.68,Default,,0,0,0,,You don't have enough magic\Nleft in you to resist--
+Dialogue: 0,0:01:42.76,0:01:44.31,Default,,0,0,0,,The one who's wrong…
+Dialogue: 0,0:01:46.81,0:01:48.77,Default,,0,0,0,,is you!
+Dialogue: 0,0:02:25.68,0:02:26.52,Default,,0,0,0,,That sword!
+Dialogue: 0,0:02:27.73,0:02:29.48,Default,,0,0,0,,The Imperial Sword, Elsdocia!
+Dialogue: 0,0:02:41.24,0:02:43.03,Default,,0,0,0,,{\i1}He shortened his own life?{\i0}
+Dialogue: 0,0:02:50.75,0:02:53.42,Default,,0,0,0,,I must create it.
+Dialogue: 0,0:02:58.01,0:03:01.01,Default,,0,0,0,,A world where everyone respects each other
+Dialogue: 0,0:03:01.09,0:03:03.47,Default,,0,0,0,,and laughs with one another!
+Dialogue: 0,0:03:04.51,0:03:08.39,Default,,0,0,0,,How could I be wrong\Nto want such a world?!
+Dialogue: 0,0:03:13.81,0:03:15.57,Default,,0,0,0,,Is this for real?
+Dialogue: 0,0:03:40.51,0:03:42.80,Default,,0,0,0,,Because there is no future\Nwhere you're headed.
+Dialogue: 0,0:03:56.19,0:03:59.98,Default,,0,0,0,,Even you deny me?!
+Dialogue: 0,0:04:01.28,0:04:03.82,Default,,0,0,0,,If you seal me right now,
+Dialogue: 0,0:04:03.91,0:04:06.32,Default,,0,0,0,,you'll lose access to the Imperial Sword!
+Dialogue: 0,0:04:06.99,0:04:09.79,Default,,0,0,0,,It does pain us\Nto lose our national treasure.
+Dialogue: 0,0:04:10.41,0:04:15.12,Default,,0,0,0,,But we no longer have\Nenough power to get it back.
+Dialogue: 0,0:04:15.71,0:04:18.13,Default,,0,0,0,,I take full responsibility for this
+Dialogue: 0,0:04:18.21,0:04:20.46,Default,,0,0,0,,as the next Wizard King.
+Dialogue: 0,0:04:26.18,0:04:29.51,Default,,0,0,0,,I won't give up. I will not, Julius!
+Dialogue: 0,0:04:29.60,0:04:32.10,Default,,0,0,0,,Never giving up is my…
+Dialogue: 0,0:05:27.41,0:05:31.74,Default,,0,0,0,,SWORD OF THE WIZARD KING
+Dialogue: 0,0:05:41.00,0:05:43.50,Default,,0,0,0,,CLOVER KINGDOM
+Dialogue: 0,0:06:19.33,0:06:20.83,Default,,0,0,0,,Welcome, everyone,
+Dialogue: 0,0:06:20.92,0:06:24.05,Default,,0,0,0,,to the festival of magic battles\Nthat takes place once a decade,
+Dialogue: 0,0:06:24.13,0:06:25.17,Default,,0,0,0,,the Triumph!
+Dialogue: 0,0:06:27.42,0:06:31.05,Default,,0,0,0,,The Triumph is a tournament of duels
+Dialogue: 0,0:06:31.14,0:06:34.68,Default,,0,0,0,,to decide the strongest Magic Knight!
+Dialogue: 0,0:06:35.26,0:06:37.06,Default,,0,0,0,,It's long been said
+Dialogue: 0,0:06:37.14,0:06:39.19,Default,,0,0,0,,that the mage who wins this tournament
+Dialogue: 0,0:06:39.27,0:06:41.60,Default,,0,0,0,,would eventually be chosen\Nas the Wizard King!
+Dialogue: 0,0:06:43.69,0:06:45.32,Default,,0,0,0,,As you know,
+Dialogue: 0,0:06:45.40,0:06:48.57,Default,,0,0,0,,there are nine Magic Knights Squads\Nconsisting of mages
+Dialogue: 0,0:06:48.65,0:06:50.57,Default,,0,0,0,,who specialize in battle.
+Dialogue: 0,0:06:50.66,0:06:52.78,Default,,0,0,0,,And under the direction\Nof the Wizard King,
+Dialogue: 0,0:06:52.87,0:06:56.54,Default,,0,0,0,,the strongest mages\Nfrom the top Magic Knights Squad
+Dialogue: 0,0:06:56.62,0:06:59.66,Default,,0,0,0,,protect the peace\Nof the Clover Kingdom every day.
+Dialogue: 0,0:07:00.21,0:07:03.04,Default,,0,0,0,,We will determine\Nthe strongest member of the Magic Knights.
+Dialogue: 0,0:07:03.13,0:07:06.34,Default,,0,0,0,,Today is sure to be a memorable day!
+Dialogue: 0,0:07:07.13,0:07:09.17,Default,,0,0,0,,Thank you for waiting.
+Dialogue: 0,0:07:09.26,0:07:10.76,Default,,0,0,0,,The Triumph commences…
+Dialogue: 0,0:07:13.80,0:07:16.22,Default,,0,0,0,,Now! Shall we?
+Dialogue: 0,0:07:29.86,0:07:31.20,Default,,0,0,0,,By the way, Klaus,
+Dialogue: 0,0:07:31.28,0:07:34.07,Default,,0,0,0,,why were we chosen\Nas the masters of the ceremony?
+Dialogue: 0,0:07:34.16,0:07:37.33,Default,,0,0,0,,Because we're members\Nof the strongest Magic Knights Squad,
+Dialogue: 0,0:07:37.41,0:07:39.00,Default,,0,0,0,,the Golden Dawn Squad, of course!
+Dialogue: 0,0:07:39.08,0:07:41.75,Default,,0,0,0,,Turn off the Amplification Magic first\Nbefore you talk!
+Dialogue: 0,0:07:41.83,0:07:43.58,Default,,0,0,0,,Oh my, it totally slipped my mind!
+Dialogue: 0,0:07:43.67,0:07:46.21,Default,,0,0,0,,Well… pardon the belated introduction.
+Dialogue: 0,0:07:46.29,0:07:49.09,Default,,0,0,0,,My name is Mimosa Vermillion,\Nand I'll be your commentator.
+Dialogue: 0,0:07:49.17,0:07:50.76,Default,,0,0,0,,This here is Klaus.
+Dialogue: 0,0:07:50.84,0:07:54.05,Default,,0,0,0,,Now is not the time\Nfor introducing ourselves!
+Dialogue: 0,0:07:54.14,0:07:57.31,Default,,0,0,0,,Who in the world\Nchose Mimosa as a commentator?
+Dialogue: 0,0:07:57.39,0:07:59.81,Default,,0,0,0,,But, man, look at all these people.
+Dialogue: 0,0:07:59.89,0:08:01.77,Default,,0,0,0,,It's almost a full house.
+Dialogue: 0,0:08:02.56,0:08:04.85,Default,,0,0,0,,Of course it is. Because, you see…
+Dialogue: 0,0:08:13.91,0:08:15.07,Default,,0,0,0,,Yuno, my love!
+Dialogue: 0,0:08:18.66,0:08:23.83,Default,,0,0,0,,In the first round is Yuno,\Nthe vice captain of the Golden Dawn Squad.
+Dialogue: 0,0:08:25.25,0:08:30.00,Default,,0,0,0,,Hooray, hooray, Yuno! Go, go, Yuno!
+Dialogue: 0,0:08:30.09,0:08:33.72,Default,,0,0,0,,So Pretty Boy is in the first round.
+Dialogue: 0,0:08:33.80,0:08:35.93,Default,,0,0,0,,Of course, everyone wants to see him.
+Dialogue: 0,0:08:36.01,0:08:36.93,Default,,0,0,0,,Right?
+Dialogue: 0,0:08:37.51,0:08:40.60,Default,,0,0,0,,I only want to see\Nmy dearest little sister, Marie.
+Dialogue: 0,0:08:41.18,0:08:43.35,Default,,0,0,0,,As expected from Gauche…
+Dialogue: 0,0:08:43.43,0:08:46.02,Default,,0,0,0,,Man, I'm so ready to fight too!
+Dialogue: 0,0:08:46.10,0:08:48.11,Default,,0,0,0,,I wish Asta could have joined us.
+Dialogue: 0,0:08:48.19,0:08:52.61,Default,,0,0,0,,He's in exile because of the demon trial.
+Dialogue: 0,0:08:52.69,0:08:54.15,Default,,0,0,0,,What a drag.
+Dialogue: 0,0:08:54.24,0:08:56.36,Default,,0,0,0,,Why am I even on the roster?
+Dialogue: 0,0:08:56.45,0:08:57.91,Default,,0,0,0,,Go for it!
+Dialogue: 0,0:08:57.99,0:08:59.87,Default,,0,0,0,,Oh, here he comes!
+Dialogue: 0,0:09:00.70,0:09:01.70,Default,,0,0,0,,What's that?
+Dialogue: 0,0:09:02.95,0:09:04.46,Default,,0,0,0,,Hey, who the hell is that?
+Dialogue: 0,0:09:07.58,0:09:10.17,Default,,0,0,0,,Up against Yuno is, um…
+Dialogue: 0,0:09:11.75,0:09:13.67,Default,,0,0,0,,"the Masked One"?
+Dialogue: 0,0:09:13.76,0:09:17.01,Default,,0,0,0,,There's no way you could enter\Nwith such a ridiculous name…
+Dialogue: 0,0:09:17.09,0:09:18.14,Default,,0,0,0,,Oh, you're right.
+Dialogue: 0,0:09:19.30,0:09:21.39,Default,,0,0,0,,What's with their getup?
+Dialogue: 0,0:09:21.97,0:09:24.14,Default,,0,0,0,,Mocking Yuno, are they?
+Dialogue: 0,0:09:25.73,0:09:28.19,Default,,0,0,0,,Festival of magic battles, the Triumph.
+Dialogue: 0,0:09:28.27,0:09:31.57,Default,,0,0,0,,The first round is\NYuno vs. the Masked One.
+Dialogue: 0,0:09:31.65,0:09:32.65,Default,,0,0,0,,The match begins!
+Dialogue: 0,0:09:51.04,0:09:52.80,Default,,0,0,0,,Attaboy, Asta!
+Dialogue: 0,0:09:56.38,0:09:58.68,Default,,0,0,0,,The first attack is by Yuno!
+Dialogue: 0,0:09:58.76,0:10:00.97,Default,,0,0,0,,He used strong Wind Magic,
+Dialogue: 0,0:10:01.05,0:10:03.35,Default,,0,0,0,,but the Masked One cut it in half,
+Dialogue: 0,0:10:03.43,0:10:05.39,Default,,0,0,0,,completely neutralizing it!
+Dialogue: 0,0:10:05.98,0:10:07.69,Default,,0,0,0,,I guess it's begun.
+Dialogue: 0,0:10:24.20,0:10:28.58,Default,,0,0,0,,Well then, Julius, shall we begin as well?
+Dialogue: 0,0:10:28.66,0:10:30.12,Default,,0,0,0,,Uh-huh!
+Dialogue: 0,0:10:30.21,0:10:33.13,Default,,0,0,0,,Barrier Magic, "Voodoo Shangrila"!
+Dialogue: 0,0:10:42.22,0:10:45.51,Default,,0,0,0,,What is this enormous magical power?!
+Dialogue: 0,0:10:45.60,0:10:48.77,Default,,0,0,0,,You have no idea how long\NI've been waiting for this day.
+Dialogue: 0,0:10:49.39,0:10:53.40,Default,,0,0,0,,Today, I will change this country!
+Dialogue: 0,0:11:16.67,0:11:20.93,Default,,0,0,0,,How fragile you look, Julius.
+Dialogue: 0,0:11:21.01,0:11:25.39,Default,,0,0,0,,I absorbed only a little bit of magic,\Nand this is the toll it takes on you?
+Dialogue: 0,0:11:27.14,0:11:29.60,Default,,0,0,0,,I never expected to meet you again.
+Dialogue: 0,0:11:30.23,0:11:32.10,Default,,0,0,0,,{\i1}I see. So, back then, you…{\i0}
+Dialogue: 0,0:11:32.19,0:11:35.90,Default,,0,0,0,,{\i1}Yes, I hope{\i0}\N{\i1}you didn't mind me breaking the seal.{\i0}
+Dialogue: 0,0:11:35.98,0:11:39.90,Default,,0,0,0,,{\i1}You were distracted for a second.{\i0}
+Dialogue: 0,0:11:40.99,0:11:42.49,Default,,0,0,0,,And are you still…?
+Dialogue: 0,0:11:42.99,0:11:47.16,Default,,0,0,0,,My ambition\Nhas not changed a bit since then.
+Dialogue: 0,0:11:47.87,0:11:50.37,Default,,0,0,0,,I must create a world
+Dialogue: 0,0:11:50.45,0:11:52.83,Default,,0,0,0,,where everyone can respect each other
+Dialogue: 0,0:11:52.92,0:11:55.04,Default,,0,0,0,,and laugh with one another.
+Dialogue: 0,0:11:55.58,0:11:57.21,Default,,0,0,0,,And for that…
+Dialogue: 0,0:11:57.29,0:12:01.05,Default,,0,0,0,,My soldiers, it's time for domination.
+Dialogue: 0,0:12:01.13,0:12:04.43,Default,,0,0,0,,We shall overthrow the Clover Kingdom!
+Dialogue: 0,0:12:05.05,0:12:07.76,Default,,0,0,0,,Legion Magic: Gehenna Game.
+Dialogue: 0,0:12:26.82,0:12:28.37,Default,,0,0,0,,Stop it, Conrad!
+Dialogue: 0,0:12:51.31,0:12:52.27,Default,,0,0,0,,All right, old man?
+Dialogue: 0,0:12:52.35,0:12:55.02,Default,,0,0,0,,Oh, thank you!
+Dialogue: 0,0:13:00.57,0:13:01.82,Default,,0,0,0,,Everyone, this way!
+Dialogue: 0,0:13:01.90,0:13:04.03,Default,,0,0,0,,Steel Magic: Fierce Spiral Lance!
+Dialogue: 0,0:13:08.53,0:13:10.70,Default,,0,0,0,,Klaus, leave this to me!
+Dialogue: 0,0:13:27.26,0:13:30.18,Default,,0,0,0,,Why am I being targeted?!
+Dialogue: 0,0:13:34.85,0:13:35.68,Default,,0,0,0,,Yuno!
+Dialogue: 0,0:13:36.31,0:13:39.65,Default,,0,0,0,,Jeez, what's up with these guys?!\NThey totally ruined my perfect disguise!
+Dialogue: 0,0:13:39.73,0:13:43.36,Default,,0,0,0,,Here I thought you were some lost kid\Nfrom the festival who wandered in.
+Dialogue: 0,0:13:43.44,0:13:44.94,Default,,0,0,0,,Who are you calling a kid?!
+Dialogue: 0,0:13:45.03,0:13:47.45,Default,,0,0,0,,Water Creation Magic: Sea Dragon's Roar!
+Dialogue: 0,0:13:48.28,0:13:49.28,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:13:49.37,0:13:51.03,Default,,0,0,0,,Stupid Asta!
+Dialogue: 0,0:13:51.12,0:13:53.37,Default,,0,0,0,,You could have told me\Nyou were participating!
+Dialogue: 0,0:13:53.45,0:13:54.45,Default,,0,0,0,,Noelle!
+Dialogue: 0,0:13:54.54,0:13:56.46,Default,,0,0,0,,I know you probably can't feel it,
+Dialogue: 0,0:13:56.54,0:14:00.13,Default,,0,0,0,,but it seems like everyone here\Nis getting their magical power absorbed.
+Dialogue: 0,0:14:00.21,0:14:02.80,Default,,0,0,0,,Those with little magical power\Nare unable to move!
+Dialogue: 0,0:14:02.88,0:14:05.67,Default,,0,0,0,,Oh no, really?! Are you okay?
+Dialogue: 0,0:14:05.76,0:14:07.22,Default,,0,0,0,,I'm a royal!
+Dialogue: 0,0:14:07.30,0:14:10.30,Default,,0,0,0,,A little loss of magic is nothing to me!
+Dialogue: 0,0:14:10.39,0:14:11.80,Default,,0,0,0,,Well then, that just means
+Dialogue: 0,0:14:11.89,0:14:14.68,Default,,0,0,0,,I'll have to work harder than anyone here!
+Dialogue: 0,0:14:15.18,0:14:17.35,Default,,0,0,0,,Don't get too carried away.
+Dialogue: 0,0:14:17.43,0:14:19.14,Default,,0,0,0,,I got your back!
+Dialogue: 0,0:14:19.73,0:14:21.86,Default,,0,0,0,,You just need to look ahead!
+Dialogue: 0,0:14:21.94,0:14:23.86,Default,,0,0,0,,Yeah! Thanks!
+Dialogue: 0,0:14:52.26,0:14:53.97,Default,,0,0,0,,Those three?
+Dialogue: 0,0:14:54.05,0:14:56.35,Default,,0,0,0,,But that's impossible!
+Dialogue: 0,0:14:56.43,0:14:59.44,Default,,0,0,0,,You must know them\Nif you're a Wizard King.
+Dialogue: 0,0:14:59.52,0:15:01.98,Default,,0,0,0,,Those three who had their status\Nas Wizard King revoked
+Dialogue: 0,0:15:02.06,0:15:04.61,Default,,0,0,0,,because of their austerity and cruelty…
+Dialogue: 0,0:15:05.19,0:15:07.78,Default,,0,0,0,,Who the heck are you?! Is this your doing?
+Dialogue: 0,0:15:07.86,0:15:10.74,Default,,0,0,0,,What's with this child?\NHow come he can move?
+Dialogue: 0,0:15:10.82,0:15:11.99,Default,,0,0,0,,Uh-huh?
+Dialogue: 0,0:15:12.07,0:15:15.16,Default,,0,0,0,,He doesn't have\Nany magical power to begin with.
+Dialogue: 0,0:15:15.24,0:15:18.16,Default,,0,0,0,,No juice to speak of, huh? What a weirdo.
+Dialogue: 0,0:15:18.25,0:15:23.38,Default,,0,0,0,,There is no way my soldiers would be\Ndefeated by someone with no magic.
+Dialogue: 0,0:15:23.46,0:15:25.17,Default,,0,0,0,,How interesting.
+Dialogue: 0,0:15:25.25,0:15:31.63,Default,,0,0,0,,I managed to revive them with my magic\Nand the power of the Imperial Sword.
+Dialogue: 0,0:15:35.76,0:15:40.68,Default,,0,0,0,,Unlike you, those three have become\Ngreat supporters of my cause.
+Dialogue: 0,0:15:41.60,0:15:44.31,Default,,0,0,0,,The four of us will create a new world!
+Dialogue: 0,0:15:44.40,0:15:46.02,Default,,0,0,0,,That's right.
+Dialogue: 0,0:15:46.11,0:15:47.94,Default,,0,0,0,,And you're in our way.
+Dialogue: 0,0:15:48.03,0:15:51.11,Default,,0,0,0,,Say what?!\NI don't know what exactly you're up to,
+Dialogue: 0,0:15:51.20,0:15:53.61,Default,,0,0,0,,but I know that you're the bad guys!
+Dialogue: 0,0:15:53.70,0:15:55.28,Default,,0,0,0,,I will defeat you!
+Dialogue: 0,0:15:55.37,0:15:57.24,Default,,0,0,0,,Aren't you a lively one?
+Dialogue: 0,0:15:58.33,0:16:00.83,Default,,0,0,0,,Barrier Magic: Voodoo Regalia!
+Dialogue: 0,0:16:07.09,0:16:09.13,Default,,0,0,0,,{\i1}He neutralized magic?{\i0}
+Dialogue: 0,0:16:11.34,0:16:15.26,Default,,0,0,0,,Conrad, I found a new toy you might like.
+Dialogue: 0,0:16:15.34,0:16:17.60,Default,,0,0,0,,You wanna play?
+Dialogue: 0,0:16:23.98,0:16:25.85,Default,,0,0,0,,Wizard King, are you all right?!
+Dialogue: 0,0:16:25.94,0:16:28.19,Default,,0,0,0,,No, Marx! Stay back!
+Dialogue: 0,0:16:29.73,0:16:32.36,Default,,0,0,0,,Well, well, that's interesting magic.
+Dialogue: 0,0:16:33.61,0:16:36.66,Default,,0,0,0,,Huh, so he's not gonna answer me.
+Dialogue: 0,0:16:36.74,0:16:38.78,Default,,0,0,0,,I take it I should do whatever I want?
+Dialogue: 0,0:16:38.87,0:16:41.29,Default,,0,0,0,,Do not hurt him unnecessarily.
+Dialogue: 0,0:16:41.37,0:16:43.75,Default,,0,0,0,,Have the decency\Nto finish him in one blow.
+Dialogue: 0,0:16:44.37,0:16:45.87,Default,,0,0,0,,Hey, my toy!
+Dialogue: 0,0:16:51.05,0:16:52.76,Default,,0,0,0,,-Asta!\N-La!
+Dialogue: 0,0:16:52.84,0:16:54.68,Default,,0,0,0,,Thanks, you all!
+Dialogue: 0,0:17:02.52,0:17:06.06,Default,,0,0,0,,Oh? Nice magic you got there.
+Dialogue: 0,0:17:06.94,0:17:10.32,Default,,0,0,0,,It's useless against a Wizard King.
+Dialogue: 0,0:17:10.40,0:17:12.53,Default,,0,0,0,,What can a normal Magic Knight do?
+Dialogue: 0,0:17:13.11,0:17:17.95,Default,,0,0,0,,A peasant kid with no magic like him\Nis a Magic Knight?
+Dialogue: 0,0:17:18.03,0:17:20.62,Default,,0,0,0,,It seems things have fallen far, Julius.
+Dialogue: 0,0:17:22.75,0:17:24.04,Default,,0,0,0,,I wouldn't be so sure.
+Dialogue: 0,0:17:24.75,0:17:25.87,Default,,0,0,0,,Come again?
+Dialogue: 0,0:17:25.96,0:17:29.08,Default,,0,0,0,,I don't think we've fallen that much.
+Dialogue: 0,0:17:29.17,0:17:31.63,Default,,0,0,0,,Not me, nor the Magic Knights Squads.
+Dialogue: 0,0:17:33.96,0:17:37.84,Default,,0,0,0,,Dark Magic: Dark Cloaked\NLightless Blade Storm!
+Dialogue: 0,0:17:56.53,0:17:57.86,Default,,0,0,0,,Thanks for waiting!
+Dialogue: 0,0:17:57.95,0:18:00.78,Default,,0,0,0,,A strong helper is here to assist you!
+Dialogue: 0,0:18:00.87,0:18:03.79,Default,,0,0,0,,Wait, what is this sinister magical power?
+Dialogue: 0,0:18:05.75,0:18:08.58,Default,,0,0,0,,It looks like I can paint\Nanother masterpiece based on this!
+Dialogue: 0,0:18:08.67,0:18:09.79,Default,,0,0,0,,You're fighting me!
+Dialogue: 0,0:18:09.88,0:18:12.84,Default,,0,0,0,,I'll burn you to ashes\Nwith the flame of justice!
+Dialogue: 0,0:18:14.25,0:18:16.38,Default,,0,0,0,,That silhouette… You must be…
+Dialogue: 0,0:18:18.34,0:18:19.97,Default,,0,0,0,,Kaiser.
+Dialogue: 0,0:18:20.80,0:18:22.35,Default,,0,0,0,,It's been a while.
+Dialogue: 0,0:18:23.39,0:18:24.26,Default,,0,0,0,,Captain Yami!
+Dialogue: 0,0:18:24.35,0:18:25.18,Default,,0,0,0,,My bad.
+Dialogue: 0,0:18:25.27,0:18:28.44,Default,,0,0,0,,I was taking a dump,\Nand it took me a while so I'm late.
+Dialogue: 0,0:18:29.02,0:18:30.40,Default,,0,0,0,,And who are these guys?
+Dialogue: 0,0:18:30.98,0:18:32.27,Default,,0,0,0,,Not exactly sure,
+Dialogue: 0,0:18:32.36,0:18:34.11,Default,,0,0,0,,but I know they're really bad!
+Dialogue: 0,0:18:34.19,0:18:36.28,Default,,0,0,0,,And things are really bad too!
+Dialogue: 0,0:18:36.36,0:18:38.74,Default,,0,0,0,,For real? Your vocabulary is really bad.
+Dialogue: 0,0:18:38.82,0:18:40.86,Default,,0,0,0,,He isn't wrong, you know.
+Dialogue: 0,0:18:41.45,0:18:43.83,Default,,0,0,0,,It'd be difficult\Nto defeat them as we stand.
+Dialogue: 0,0:18:44.33,0:18:46.33,Default,,0,0,0,,One possibility would be…
+Dialogue: 0,0:18:46.83,0:18:48.00,Default,,0,0,0,,Yami.
+Dialogue: 0,0:18:48.08,0:18:51.71,Default,,0,0,0,,Please head to the Magic Tool\NResearch Lab's Branch Zero right away.
+Dialogue: 0,0:18:51.79,0:18:54.88,Default,,0,0,0,,I need you to bring the magic tool\Nwe're co-developing with Nero.
+Dialogue: 0,0:18:56.34,0:18:58.01,Default,,0,0,0,,-No, thanks.\N-Huh?!
+Dialogue: 0,0:18:58.92,0:19:02.72,Default,,0,0,0,,If I went, then who'll have your back?\NYou're totally vulnerable.
+Dialogue: 0,0:19:03.68,0:19:06.72,Default,,0,0,0,,I have no interest in going through\Nwhat I did back then again.
+Dialogue: 0,0:19:08.10,0:19:09.14,Default,,0,0,0,,Yami…
+Dialogue: 0,0:19:09.23,0:19:12.27,Default,,0,0,0,,I mean, if that's all you need,\Nwe can send this guy.
+Dialogue: 0,0:19:12.35,0:19:14.15,Default,,0,0,0,,-Hey, kid, you're up.\N-Huh?
+Dialogue: 0,0:19:14.73,0:19:16.98,Default,,0,0,0,,Yo, Finral. You heard him.
+Dialogue: 0,0:19:17.07,0:19:18.94,Default,,0,0,0,,Go to Branch Zero with him.
+Dialogue: 0,0:19:19.03,0:19:20.11,Default,,0,0,0,,Yes, sir!
+Dialogue: 0,0:19:20.20,0:19:22.49,Default,,0,0,0,,But if I went, this place would be…
+Dialogue: 0,0:19:25.74,0:19:27.54,Default,,0,0,0,,So this is where you were hiding.
+Dialogue: 0,0:19:27.62,0:19:29.54,Default,,0,0,0,,Stop running around.
+Dialogue: 0,0:19:29.62,0:19:31.50,Default,,0,0,0,,I can't kill you swiftly.
+Dialogue: 0,0:19:44.64,0:19:45.47,Default,,0,0,0,,Oh?
+Dialogue: 0,0:19:46.05,0:19:48.39,Default,,0,0,0,,Stop blubbering and go already!
+Dialogue: 0,0:19:48.47,0:19:52.06,Default,,0,0,0,,If you don't come back soon,\NI'll kick their butts all by myself!
+Dialogue: 0,0:19:52.14,0:19:52.98,Default,,0,0,0,,Yes, sir!
+Dialogue: 0,0:19:57.52,0:19:58.65,Default,,0,0,0,,Captain Yami!
+Dialogue: 0,0:19:58.73,0:20:00.07,Default,,0,0,0,,Quickly, Asta!
+Dialogue: 0,0:20:00.15,0:20:04.24,Default,,0,0,0,,Because of that black barrier,\Nit's difficult to maintain spatial magic!
+Dialogue: 0,0:20:05.41,0:20:07.58,Default,,0,0,0,,You're a member of the Black Bulls Squad!
+Dialogue: 0,0:20:07.66,0:20:09.12,Default,,0,0,0,,Listen to your captain!
+Dialogue: 0,0:20:09.20,0:20:10.62,Default,,0,0,0,,Nice, Noelle!
+Dialogue: 0,0:20:11.25,0:20:12.25,Default,,0,0,0,,Whoa, whoa.
+Dialogue: 0,0:20:12.33,0:20:15.21,Default,,0,0,0,,A magic like that exists in this era?
+Dialogue: 0,0:20:15.29,0:20:18.09,Default,,0,0,0,,Well, I guess I can analyze it later.
+Dialogue: 0,0:20:18.84,0:20:19.76,Default,,0,0,0,,Whoa.
+Dialogue: 0,0:20:23.05,0:20:24.38,Default,,0,0,0,,Voiuvre's Roar!
+Dialogue: 0,0:20:29.77,0:20:33.31,Default,,0,0,0,,Running away is pointless, I guess.
+Dialogue: 0,0:20:35.02,0:20:37.48,Default,,0,0,0,,Dark Magic: Dark Cloaked Black Blade!
+Dialogue: 0,0:20:37.56,0:20:40.48,Default,,0,0,0,,Flame Magic: Spiral Flames!
+Dialogue: 0,0:20:48.62,0:20:51.12,Default,,0,0,0,,Their defense is getting\Nharder and harder.
+Dialogue: 0,0:20:51.91,0:20:53.71,Default,,0,0,0,,The kids have come far.
+Dialogue: 0,0:20:53.79,0:20:56.63,Default,,0,0,0,,No, they've got a long way to go.
+Dialogue: 0,0:20:56.71,0:20:59.71,Default,,0,0,0,,A long way to go\Nbefore they can fight alongside me.
+Dialogue: 0,0:21:04.80,0:21:07.43,Default,,0,0,0,,I'm sorry, I wasn't able to contain them.
+Dialogue: 0,0:21:07.51,0:21:09.47,Default,,0,0,0,,No, you've done well.
+Dialogue: 0,0:21:10.01,0:21:12.98,Default,,0,0,0,,Thanks to you, I got to send\Nmy guys out on an errand.
+Dialogue: 0,0:21:13.56,0:21:15.94,Default,,0,0,0,,Whatever you do, it is pointless.
+Dialogue: 0,0:21:16.02,0:21:18.40,Default,,0,0,0,,If the Imperial Sword's magic\Nis activated,
+Dialogue: 0,0:21:18.48,0:21:20.82,Default,,0,0,0,,the Clover Kingdom will be destroyed.
+Dialogue: 0,0:21:21.69,0:21:24.15,Default,,0,0,0,,Repeating the same thing\Nfrom ten years ago.
+Dialogue: 0,0:21:24.24,0:21:28.16,Default,,0,0,0,,Wait, wasn't the Imperial Sword\Nsomething that could absorb
+Dialogue: 0,0:21:28.24,0:21:31.08,Default,,0,0,0,,and store magical power and stuff?
+Dialogue: 0,0:21:31.87,0:21:34.71,Default,,0,0,0,,Is it really possible\Nto destroy a country with it?
+Dialogue: 0,0:21:35.21,0:21:38.46,Default,,0,0,0,,It can unleash\Nthe stored magical power all at once.
+Dialogue: 0,0:21:39.79,0:21:43.09,Default,,0,0,0,,Right now, the magical power\Nabsorbed from everyone at the stadium
+Dialogue: 0,0:21:43.17,0:21:45.13,Default,,0,0,0,,is stored inside the Imperial Sword.
+Dialogue: 0,0:21:46.30,0:21:47.59,Default,,0,0,0,,With his magic,
+Dialogue: 0,0:21:47.68,0:21:51.51,Default,,0,0,0,,he could abuse that magical power\Nand the Imperial Sword as he wishes.
+Dialogue: 0,0:21:52.10,0:21:55.73,Default,,0,0,0,,"Abuse"? I'm using it to save the world.
+Dialogue: 0,0:21:55.81,0:21:58.85,Default,,0,0,0,,I'd say it's the proper way to use it.
+Dialogue: 0,0:22:07.40,0:22:09.20,Default,,0,0,0,,Are you all right, Wizard King?
+Dialogue: 0,0:22:09.28,0:22:12.28,Default,,0,0,0,,We have completed\Nthe evacuation of the audience.
+Dialogue: 0,0:22:12.87,0:22:14.87,Default,,0,0,0,,All that's left is to defeat the rebels.
+Dialogue: 0,0:22:14.95,0:22:17.21,Default,,0,0,0,,Fuegoleon and Nozel.
+Dialogue: 0,0:22:17.29,0:22:19.37,Default,,0,0,0,,Have you gotten any stronger?
+Dialogue: 0,0:22:20.42,0:22:24.46,Default,,0,0,0,,I never expected to fight\Nthis monster again.
+Dialogue: 0,0:22:25.05,0:22:26.80,Default,,0,0,0,,Oh yeah, back then,
+Dialogue: 0,0:22:26.88,0:22:30.43,Default,,0,0,0,,Nozel got spooked, fell down,\Ncried, and soiled his pants, didn't he?
+Dialogue: 0,0:22:30.51,0:22:32.60,Default,,0,0,0,,Want me to dunk you in mercury, foreigner?
+Dialogue: 0,0:22:32.68,0:22:35.18,Default,,0,0,0,,Hey, those guys weren't there back then.
+Dialogue: 0,0:22:35.27,0:22:36.14,Default,,0,0,0,,Who are they?
+Dialogue: 0,0:22:36.22,0:22:39.39,Default,,0,0,0,,That woman's magic,\Nwhich produces magic soldiers…
+Dialogue: 0,0:22:39.48,0:22:41.65,Default,,0,0,0,,I remember seeing it\Nin my great-grandfather's journal.
+Dialogue: 0,0:22:42.65,0:22:45.48,Default,,0,0,0,,My sister was captivated by it,\Nso I remember it well.
+Dialogue: 0,0:22:45.57,0:22:46.40,Default,,0,0,0,,No way!
+Dialogue: 0,0:22:47.11,0:22:50.16,Default,,0,0,0,,Historical figures who died long ago…
+Dialogue: 0,0:22:50.24,0:22:54.16,Default,,0,0,0,,Wait, does that mean\Nformer Wizard Kings have returned?
+Dialogue: 0,0:22:55.83,0:22:56.95,Default,,0,0,0,,Seriously?
+Dialogue: 0,0:22:57.04,0:22:59.37,Default,,0,0,0,,I gotta get their autographs\Nand scalp them.
+Dialogue: 0,0:22:59.46,0:23:01.71,Default,,0,0,0,,The former Wizard Kings have been revived?
+Dialogue: 0,0:23:01.79,0:23:05.00,Default,,0,0,0,,It's so strange. I'm awake for a change,
+Dialogue: 0,0:23:05.09,0:23:06.63,Default,,0,0,0,,but this is like a dream.
+Dialogue: 0,0:23:08.01,0:23:10.38,Default,,0,0,0,,It gives me lots of inspiration!
+Dialogue: 0,0:23:11.01,0:23:13.22,Default,,0,0,0,,But maybe now's not the time for that.
+Dialogue: 0,0:23:17.56,0:23:19.77,Default,,0,0,0,,You seem to have gathered enough people,
+Dialogue: 0,0:23:19.85,0:23:21.19,Default,,0,0,0,,but this is where it ends.
+Dialogue: 0,0:23:31.07,0:23:36.95,Default,,0,0,0,,There are countless singular points\Nwhere veins of mana interact.
+Dialogue: 0,0:23:37.04,0:23:39.08,Default,,0,0,0,,This stadium is one of them.
+Dialogue: 0,0:23:40.04,0:23:41.50,Default,,0,0,0,,Ten years ago,
+Dialogue: 0,0:23:41.58,0:23:43.63,Default,,0,0,0,,I altered this stadium
+Dialogue: 0,0:23:43.71,0:23:45.29,Default,,0,0,0,,and turned it into a weapon.
+Dialogue: 0,0:23:46.04,0:23:49.55,Default,,0,0,0,,You all interrupted me\Nbefore I could activate it.
+Dialogue: 0,0:24:24.25,0:24:26.00,Default,,0,0,0,,The festival stadium.
+Dialogue: 0,0:24:26.84,0:24:30.59,Default,,0,0,0,,Also known as\Nthe "Triumph" flying fortress.
+Dialogue: 0,0:24:32.26,0:24:35.01,Default,,0,0,0,,Now, there's no way to escape.
+Dialogue: 0,0:24:35.09,0:24:39.76,Default,,0,0,0,,Julius, it's time to turn the hands\Nof the clock you took away from me.
+Dialogue: 0,0:24:46.27,0:24:48.94,Default,,0,0,0,,Here we are. This is Branch Zero.
+Dialogue: 0,0:24:52.36,0:24:53.78,Default,,0,0,0,,Hey!
+Dialogue: 0,0:24:53.86,0:24:57.53,Default,,0,0,0,,I'm Asta from\Nthe Black Bulls Magic Knights Squad!
+Dialogue: 0,0:24:57.62,0:24:58.78,Default,,0,0,0,,Open the door!
+Dialogue: 0,0:24:58.87,0:25:00.12,Default,,0,0,0,,That won't do, Asta.
+Dialogue: 0,0:25:00.83,0:25:05.25,Default,,0,0,0,,Only a limited number of nobles\Nknow about this lab.
+Dialogue: 0,0:25:05.87,0:25:09.00,Default,,0,0,0,,To enter, you have to spell out\Na secret password with your magic…
+Dialogue: 0,0:25:13.51,0:25:14.34,Default,,0,0,0,,You are…
+Dialogue: 0,0:25:15.38,0:25:17.22,Default,,0,0,0,,You must be the Black Bulls.
+Dialogue: 0,0:25:18.22,0:25:22.02,Default,,0,0,0,,I'm Millie Maxwell,\Nthe coordinator at this branch.
+Dialogue: 0,0:25:22.52,0:25:23.73,Default,,0,0,0,,Come on, hurry up.
+Dialogue: 0,0:25:23.81,0:25:25.10,Default,,0,0,0,,Alright!
+Dialogue: 0,0:25:25.19,0:25:27.85,Default,,0,0,0,,We've been debriefed about the situation.
+Dialogue: 0,0:25:28.44,0:25:30.86,Default,,0,0,0,,From here on, she will show you around.
+Dialogue: 0,0:25:32.32,0:25:34.07,Default,,0,0,0,,I'll leave you to it.
+Dialogue: 0,0:25:34.65,0:25:35.49,Default,,0,0,0,,Nero!
+Dialogue: 0,0:25:37.03,0:25:39.57,Default,,0,0,0,,The magic tool Julius needs
+Dialogue: 0,0:25:39.66,0:25:42.08,Default,,0,0,0,,is stored in a place quite far away.
+Dialogue: 0,0:25:42.58,0:25:44.70,Default,,0,0,0,,Right now, Sally is making an adjustment.
+Dialogue: 0,0:25:44.79,0:25:47.17,Default,,0,0,0,,Experiment, experiment!
+Dialogue: 0,0:25:48.71,0:25:50.25,Default,,0,0,0,,So Sally is here too, huh?
+Dialogue: 0,0:25:50.84,0:25:53.92,Default,,0,0,0,,Nero, you've watched the Clover Kingdom
+Dialogue: 0,0:25:54.01,0:25:56.13,Default,,0,0,0,,over the last 500 years, right?
+Dialogue: 0,0:25:57.01,0:26:00.30,Default,,0,0,0,,Do you know the people\Nwho attacked the stadium?
+Dialogue: 0,0:26:01.47,0:26:02.72,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:26:02.81,0:26:05.14,Default,,0,0,0,,I don't know everything, but…
+Dialogue: 0,0:26:05.98,0:26:07.98,Default,,0,0,0,,the mastermind is Conrad Leto.
+Dialogue: 0,0:26:08.06,0:26:08.94,Default,,0,0,0,,What?
+Dialogue: 0,0:26:09.02,0:26:11.40,Default,,0,0,0,,I believe you've at least heard the name?
+Dialogue: 0,0:26:11.90,0:26:12.90,Default,,0,0,0,,Conrad?
+Dialogue: 0,0:26:13.86,0:26:14.73,Default,,0,0,0,,You don't mean…
+Dialogue: 0,0:26:17.95,0:26:18.78,Default,,0,0,0,,Yes.
+Dialogue: 0,0:26:19.32,0:26:22.03,Default,,0,0,0,,He used to be\Na Magic Knight of the Clover Kingdom.
+Dialogue: 0,0:26:22.74,0:26:25.70,Default,,0,0,0,,He's the predecessor of Julius Novachrono.
+Dialogue: 0,0:26:26.66,0:26:28.21,Default,,0,0,0,,A former Wizard King.
+Dialogue: 0,0:26:29.58,0:26:33.71,Default,,0,0,0,,But I thought the former Wizard King\Ndied from a disease ten years ago.
+Dialogue: 0,0:26:34.46,0:26:35.92,Default,,0,0,0,,I'll explain.
+Dialogue: 0,0:26:37.09,0:26:37.92,Default,,0,0,0,,Get on.
+Dialogue: 0,0:26:40.47,0:26:44.06,Default,,0,0,0,,Conrad Leto, the 27th Wizard King.
+Dialogue: 0,0:26:44.14,0:26:46.68,Default,,0,0,0,,Before he was chosen as the Wizard King,
+Dialogue: 0,0:26:46.77,0:26:49.48,Default,,0,0,0,,he was known as a powerful man\Nin the Clover Kingdom.
+Dialogue: 0,0:26:50.73,0:26:53.27,Default,,0,0,0,,{\i1}He became a Magic Knight captain,{\i0}
+Dialogue: 0,0:26:53.82,0:26:57.03,Default,,0,0,0,,{\i1}establishing an impressive track record{\i0}\N{\i1}with his squad.{\i0}
+Dialogue: 0,0:26:57.53,0:27:00.11,Default,,0,0,0,,{\i1}The citizens trusted him,{\i0}
+Dialogue: 0,0:27:00.20,0:27:02.41,Default,,0,0,0,,{\i1}and his abilities were recognized.{\i0}
+Dialogue: 0,0:27:02.49,0:27:04.83,Default,,0,0,0,,{\i1}He was finally chosen{\i0}\N{\i1}to be the Wizard King.{\i0}
+Dialogue: 0,0:27:05.66,0:27:08.00,Default,,0,0,0,,{\i1}But he changed.{\i0}
+Dialogue: 0,0:27:09.33,0:27:11.33,Default,,0,0,0,,{\i1}He rebelled against the Kingdom,{\i0}
+Dialogue: 0,0:27:11.42,0:27:14.34,Default,,0,0,0,,{\i1}and as a result,{\i0}\N{\i1}his status as the Wizard King was revoked.{\i0}
+Dialogue: 0,0:27:14.96,0:27:16.50,Default,,0,0,0,,{\i1}"Rebelled against"?{\i0}
+Dialogue: 0,0:27:18.84,0:27:21.18,Default,,0,0,0,,{\i1}He tried to destroy the country.{\i0}
+Dialogue: 0,0:27:21.26,0:27:24.97,Default,,0,0,0,,What?! The Wizard King's job\Nis to protect the peace for everyone.
+Dialogue: 0,0:27:25.06,0:27:27.47,Default,,0,0,0,,Why did he try to do something so crazy?
+Dialogue: 0,0:27:28.02,0:27:28.98,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:27:29.77,0:27:31.44,Default,,0,0,0,,But he used Lemiel's…
+Dialogue: 0,0:27:32.02,0:27:34.61,Default,,0,0,0,,{\i1}He used{\i0}\N{\i1}the first Wizard King's magic item,{\i0}
+Dialogue: 0,0:27:34.69,0:27:37.94,Default,,0,0,0,,{\i1}the Imperial Sword Elsdocia,{\i0}\N{\i1}to make it happen.{\i0}
+Dialogue: 0,0:27:39.07,0:27:41.20,Default,,0,0,0,,{\i1}Julius and the others learned of his plan{\i0}
+Dialogue: 0,0:27:41.28,0:27:42.82,Default,,0,0,0,,{\i1}and sealed Conrad to stop him.{\i0}
+Dialogue: 0,0:27:43.32,0:27:44.95,Default,,0,0,0,,"Sealed"?
+Dialogue: 0,0:27:45.03,0:27:49.08,Default,,0,0,0,,They announced that he died of an illness\Nso as not to panic the citizens.
+Dialogue: 0,0:27:49.91,0:27:51.92,Default,,0,0,0,,The current Wizard King, Julius,
+Dialogue: 0,0:27:52.00,0:27:56.54,Default,,0,0,0,,couldn't defeat him, even with all\Nthe Magic Knights Squad elites.
+Dialogue: 0,0:27:57.34,0:27:58.67,Default,,0,0,0,,Julius had no choice
+Dialogue: 0,0:27:58.76,0:28:02.34,Default,,0,0,0,,but to use his Time Magic\Nto continue sealing him.
+Dialogue: 0,0:28:02.43,0:28:04.39,Default,,0,0,0,,He's incredibly strong.
+Dialogue: 0,0:28:05.10,0:28:06.76,Default,,0,0,0,,What kind of magic does he use?
+Dialogue: 0,0:28:06.85,0:28:07.72,Default,,0,0,0,,Key Magic.
+Dialogue: 0,0:28:08.26,0:28:11.06,Default,,0,0,0,,He can open or close\Nanything and everything
+Dialogue: 0,0:28:11.14,0:28:13.06,Default,,0,0,0,,with a key he creates with his magic.
+Dialogue: 0,0:28:13.65,0:28:16.06,Default,,0,0,0,,The magic space he opens with his key
+Dialogue: 0,0:28:16.15,0:28:18.19,Default,,0,0,0,,can absorb anything.
+Dialogue: 0,0:28:18.86,0:28:20.86,Default,,0,0,0,,Magic tools, grimoires.
+Dialogue: 0,0:28:21.53,0:28:22.61,Default,,0,0,0,,Even magic itself…
+Dialogue: 0,0:28:22.70,0:28:23.61,Default,,0,0,0,,Magic itself?!
+Dialogue: 0,0:28:23.70,0:28:25.74,Default,,0,0,0,,What? No way!
+Dialogue: 0,0:28:25.82,0:28:26.66,Default,,0,0,0,,Yes.
+Dialogue: 0,0:28:27.33,0:28:29.99,Default,,0,0,0,,He can steal the magic of others.
+Dialogue: 0,0:28:30.54,0:28:33.75,Default,,0,0,0,,And he can use it as he pleases.
+Dialogue: 0,0:28:36.92,0:28:38.80,Default,,0,0,0,,Sealing Magic: Inverse Release.
+Dialogue: 0,0:28:53.23,0:28:54.81,Default,,0,0,0,,How far are we going?
+Dialogue: 0,0:28:55.35,0:28:56.86,Default,,0,0,0,,The security is extremely tight.
+Dialogue: 0,0:28:56.94,0:28:58.06,Default,,0,0,0,,Indeed.
+Dialogue: 0,0:28:58.15,0:28:59.77,Default,,0,0,0,,Because beyond this point…
+Dialogue: 0,0:29:13.96,0:29:16.08,Default,,0,0,0,,This is the innermost part of Branch Zero.
+Dialogue: 0,0:29:16.71,0:29:20.80,Default,,0,0,0,,This is where we store and research\Nthe most important magic tools in the lab.
+Dialogue: 0,0:29:21.92,0:29:25.13,Default,,0,0,0,,Is what we've been asked to retrieve\Nalso rare?
+Dialogue: 0,0:29:25.22,0:29:26.05,Default,,0,0,0,,Yes.
+Dialogue: 0,0:29:26.63,0:29:28.64,Default,,0,0,0,,It controls the power\Nof the Imperial Sword
+Dialogue: 0,0:29:28.72,0:29:30.68,Default,,0,0,0,,that Prince Lemiel was developing.
+Dialogue: 0,0:29:31.18,0:29:33.89,Default,,0,0,0,,Something that serves as a sheath\Nfor the Imperial Sword.
+Dialogue: 0,0:29:34.60,0:29:36.23,Default,,0,0,0,,It's still a prototype,
+Dialogue: 0,0:29:36.31,0:29:38.77,Default,,0,0,0,,but we'll have to use it to seal Conrad.
+Dialogue: 0,0:29:46.24,0:29:47.07,Default,,0,0,0,,How?!
+Dialogue: 0,0:29:47.91,0:29:52.54,Default,,0,0,0,,I had high hopes hearing that\Nit was a magic tool Lemiel was working on.
+Dialogue: 0,0:29:53.41,0:29:55.29,Default,,0,0,0,,But it turns out it was just a toy.
+Dialogue: 0,0:29:57.25,0:29:59.58,Default,,0,0,0,,-Don't!\N-Sally!
+Dialogue: 0,0:30:00.88,0:30:02.75,Default,,0,0,0,,Demon Slayer!
+Dialogue: 0,0:30:07.22,0:30:08.38,Default,,0,0,0,,Oh?
+Dialogue: 0,0:30:13.18,0:30:14.02,Default,,0,0,0,,Finral!
+Dialogue: 0,0:30:18.98,0:30:20.44,Default,,0,0,0,,I know you.
+Dialogue: 0,0:30:24.07,0:30:25.53,Default,,0,0,0,,How did you find this place?!
+Dialogue: 0,0:30:26.90,0:30:29.32,Default,,0,0,0,,You're Secré Swallowtail,
+Dialogue: 0,0:30:29.41,0:30:31.91,Default,,0,0,0,,a member of the Black Bulls Squad.
+Dialogue: 0,0:30:32.41,0:30:34.08,Default,,0,0,0,,And you too, Asta.
+Dialogue: 0,0:30:34.70,0:30:35.83,Default,,0,0,0,,Noelle Silva.
+Dialogue: 0,0:30:36.41,0:30:38.21,Default,,0,0,0,,Finral Roulacase.
+Dialogue: 0,0:30:39.00,0:30:42.79,Default,,0,0,0,,Memory Exchange Magic, which allows\Nyou to peek at someone else's memory.
+Dialogue: 0,0:30:43.34,0:30:45.38,Default,,0,0,0,,It's a magic of poor taste,
+Dialogue: 0,0:30:45.46,0:30:48.97,Default,,0,0,0,,but thanks to that,\NI was able to easily locate this place.
+Dialogue: 0,0:30:49.05,0:30:50.72,Default,,0,0,0,,You used Marx's…
+Dialogue: 0,0:30:50.80,0:30:52.72,Default,,0,0,0,,I'll tell you one more thing.
+Dialogue: 0,0:30:55.85,0:30:57.93,Default,,0,0,0,,Citizens of the Clover Kingdom!
+Dialogue: 0,0:30:58.02,0:31:01.98,Default,,0,0,0,,Surrender immediately\Nand offer your magical power as a tribute.
+Dialogue: 0,0:31:02.56,0:31:03.69,Default,,0,0,0,,Resistance is futile.
+Dialogue: 0,0:31:04.36,0:31:06.48,Default,,0,0,0,,My Legion Magic soldiers
+Dialogue: 0,0:31:06.57,0:31:09.95,Default,,0,0,0,,will stop at nothing\Nuntil their last bit of power is spent!
+Dialogue: 0,0:31:10.61,0:31:13.74,Default,,0,0,0,,{\i1}One of the former Wizard Kings, Princia.{\i0}
+Dialogue: 0,0:31:14.58,0:31:17.91,Default,,0,0,0,,{\i1}The Imperial Sword is supplying her{\i0}\N{\i1}with the magical power it stored,{\i0}
+Dialogue: 0,0:31:18.00,0:31:19.66,Default,,0,0,0,,{\i1}and her magic will have no limit.{\i0}
+Dialogue: 0,0:31:20.71,0:31:23.21,Default,,0,0,0,,{\i1}The Magic Knights Squads{\i0}\N{\i1}have been wiped out.{\i0}
+Dialogue: 0,0:31:23.29,0:31:27.21,Default,,0,0,0,,{\i1}The citizens and the major facilities{\i0}\N{\i1}of the kingdom have all been seized.{\i0}
+Dialogue: 0,0:31:27.80,0:31:28.97,Default,,0,0,0,,No way…
+Dialogue: 0,0:31:29.05,0:31:30.88,Default,,0,0,0,,Impressive, no?
+Dialogue: 0,0:31:30.97,0:31:33.01,Default,,0,0,0,,Tens of thousands…
+Dialogue: 0,0:31:33.09,0:31:37.22,Default,,0,0,0,,She can create even more magic soldiers.
+Dialogue: 0,0:31:37.31,0:31:41.35,Default,,0,0,0,,You're being invaded by a military power\Nequal to an entire country.
+Dialogue: 0,0:31:41.44,0:31:44.40,Default,,0,0,0,,Those captains who helped you escape…
+Dialogue: 0,0:31:46.23,0:31:47.73,Default,,0,0,0,,Captain Yami!
+Dialogue: 0,0:31:50.28,0:31:54.66,Default,,0,0,0,,As you can see, they just went to sleep.
+Dialogue: 0,0:31:55.91,0:31:57.24,Default,,0,0,0,,The people at the stadium…
+Dialogue: 0,0:31:57.74,0:31:59.66,Default,,0,0,0,,Brother Nozel!
+Dialogue: 0,0:32:00.33,0:32:03.29,Default,,0,0,0,,You're the youngest daughter\Nof the Silvas?
+Dialogue: 0,0:32:03.37,0:32:06.17,Default,,0,0,0,,A leftover child\Nof the Steel War Princess,
+Dialogue: 0,0:32:06.25,0:32:07.67,Default,,0,0,0,,Acier Silva.
+Dialogue: 0,0:32:07.75,0:32:12.30,Default,,0,0,0,,How pathetic of Nozel\Nto fall before his little sister.
+Dialogue: 0,0:32:13.01,0:32:14.93,Default,,0,0,0,,To think that a coward like him
+Dialogue: 0,0:32:15.01,0:32:17.47,Default,,0,0,0,,is the Magic Knights Captain!
+Dialogue: 0,0:32:18.77,0:32:21.27,Default,,0,0,0,,Sea Dragon's Roar!
+Dialogue: 0,0:32:28.73,0:32:32.20,Default,,0,0,0,,Noelle! Dammit!
+Dialogue: 0,0:32:32.95,0:32:34.07,Default,,0,0,0,,Oh?
+Dialogue: 0,0:32:34.16,0:32:37.70,Default,,0,0,0,,Still rough around the edges,\Nbut this water magic is of high purity.
+Dialogue: 0,0:32:38.28,0:32:39.66,Default,,0,0,0,,I will take it.
+Dialogue: 0,0:32:46.67,0:32:50.38,Default,,0,0,0,,When there is such a clear difference\Nin abilities, it's so easy to take magic.
+Dialogue: 0,0:32:53.30,0:32:56.18,Default,,0,0,0,,My magic…
+Dialogue: 0,0:33:02.02,0:33:04.81,Default,,0,0,0,,Bastard… What did you do to Noelle?!
+Dialogue: 0,0:33:04.89,0:33:07.44,Default,,0,0,0,,Learn this the hard way.
+Dialogue: 0,0:33:08.11,0:33:11.28,Default,,0,0,0,,Water Creation Magic: Sea Dragon's Roar.
+Dialogue: 0,0:33:18.87,0:33:21.54,Default,,0,0,0,,That's Noelle's magic…
+Dialogue: 0,0:33:21.62,0:33:22.54,Default,,0,0,0,,Give it back to her!
+Dialogue: 0,0:33:37.84,0:33:39.89,Default,,0,0,0,,I'll defeat you here and now!
+Dialogue: 0,0:33:39.97,0:33:43.39,Default,,0,0,0,,So this is Anti-Magic,\Nthe power to neutralize magic.
+Dialogue: 0,0:34:27.77,0:34:29.10,Default,,0,0,0,,Demon-Destroyer!
+Dialogue: 0,0:34:31.81,0:34:34.32,Default,,0,0,0,,What a wonderful power you possess.
+Dialogue: 0,0:34:34.90,0:34:36.90,Default,,0,0,0,,It can neutralize not only magic,
+Dialogue: 0,0:34:36.99,0:34:39.91,Default,,0,0,0,,but also phenomena derived from magic.
+Dialogue: 0,0:34:40.41,0:34:42.78,Default,,0,0,0,,I'd like to take your magic as well,
+Dialogue: 0,0:34:42.87,0:34:45.16,Default,,0,0,0,,but perhaps I should refrain.
+Dialogue: 0,0:34:45.91,0:34:48.41,Default,,0,0,0,,I wouldn't want it\Nto affect my other magic.
+Dialogue: 0,0:34:49.08,0:34:50.54,Default,,0,0,0,,Let's talk.
+Dialogue: 0,0:34:50.63,0:34:53.17,Default,,0,0,0,,The paths we walk are one and the same.
+Dialogue: 0,0:34:53.25,0:34:55.21,Default,,0,0,0,,What the heck are you talking about now?!
+Dialogue: 0,0:34:55.30,0:34:56.38,Default,,0,0,0,,Of course they're not!
+Dialogue: 0,0:34:57.05,0:35:00.34,Default,,0,0,0,,The magic tool developed by Lemiel,\Nthe first Wizard King,
+Dialogue: 0,0:35:00.43,0:35:02.10,Default,,0,0,0,,the Imperial Sword Elsdocia.
+Dialogue: 0,0:35:03.18,0:35:06.31,Default,,0,0,0,,It is quite compatible with my Key Magic.
+Dialogue: 0,0:35:07.48,0:35:10.73,Default,,0,0,0,,{\i1}The Imperial Sword was created{\i0}\N{\i1}to leave behind the exceptional magic{\i0}
+Dialogue: 0,0:35:10.81,0:35:13.82,Default,,0,0,0,,{\i1}of great mages and heroes{\i0}\N{\i1}as a legacy for future generations.{\i0}
+Dialogue: 0,0:35:14.32,0:35:17.40,Default,,0,0,0,,{\i1}It stores every Wizard King's magic{\i0}\N{\i1}and wisdom,{\i0}
+Dialogue: 0,0:35:17.49,0:35:20.49,Default,,0,0,0,,{\i1}not to mention a part of their souls.{\i0}
+Dialogue: 0,0:35:21.11,0:35:22.74,Default,,0,0,0,,{\i1}And one more thing.{\i0}
+Dialogue: 0,0:35:22.82,0:35:25.58,Default,,0,0,0,,{\i1}Using the function to absorb, store,{\i0}
+Dialogue: 0,0:35:25.66,0:35:29.00,Default,,0,0,0,,{\i1}and unleash the magical power all at once,{\i0}
+Dialogue: 0,0:35:29.08,0:35:31.75,Default,,0,0,0,,{\i1}I will compound{\i0}\N{\i1}the generations of Wizard Kings' magic{\i0}…
+Dialogue: 0,0:35:31.83,0:35:32.88,Default,,0,0,0,,FLAME EARTH WATER WIND
+Dialogue: 0,0:35:32.96,0:35:35.34,Default,,0,0,0,,{\i1}…with the plethora of magic I've stolen{\i0}
+Dialogue: 0,0:35:35.42,0:35:38.38,Default,,0,0,0,,{\i1}and create Gargantuan Compound Magic!{\i0}
+Dialogue: 0,0:35:38.46,0:35:43.68,Default,,0,0,0,,{\i1}Our goal is to drive that{\i0}\N{\i1}into the vein of the earth here.{\i0}
+Dialogue: 0,0:35:45.47,0:35:47.64,Default,,0,0,0,,{\i1}It will cause unprecedented disaster.{\i0}
+Dialogue: 0,0:35:47.72,0:35:50.02,Default,,0,0,0,,{\i1}The foundation of the continent{\i0}\N{\i1}will be destroyed,{\i0}
+Dialogue: 0,0:35:50.10,0:35:52.52,Default,,0,0,0,,{\i1}and every single citizen will die.{\i0}
+Dialogue: 0,0:35:53.48,0:35:55.19,Default,,0,0,0,,But have no fear.
+Dialogue: 0,0:35:55.27,0:35:58.61,Default,,0,0,0,,The Imperial Sword\Ncan store the departed souls.
+Dialogue: 0,0:35:58.69,0:36:00.11,Default,,0,0,0,,So we will select
+Dialogue: 0,0:36:00.19,0:36:03.41,Default,,0,0,0,,and bring back only those people\Nwho are valuable enough
+Dialogue: 0,0:36:03.49,0:36:05.16,Default,,0,0,0,,to live in the new world!
+Dialogue: 0,0:36:05.74,0:36:07.87,Default,,0,0,0,,I've seen it in people's memories.
+Dialogue: 0,0:36:07.95,0:36:11.00,Default,,0,0,0,,I was once loathed\Nand disliked because of my magic.
+Dialogue: 0,0:36:11.08,0:36:13.17,Default,,0,0,0,,So I know exactly how you feel.
+Dialogue: 0,0:36:13.25,0:36:15.92,Default,,0,0,0,,Those with magical power own everything,
+Dialogue: 0,0:36:16.00,0:36:18.80,Default,,0,0,0,,and those without die helplessly.
+Dialogue: 0,0:36:18.88,0:36:21.38,Default,,0,0,0,,It's impossible, Asta.
+Dialogue: 0,0:36:21.47,0:36:23.55,Default,,0,0,0,,We must destroy everything first.
+Dialogue: 0,0:36:23.63,0:36:27.39,Default,,0,0,0,,Join me and together we'll create
+Dialogue: 0,0:36:27.47,0:36:32.69,Default,,0,0,0,,an ideal world where everyone respects\Neach other and laughs with one another!
+Dialogue: 0,0:36:33.60,0:36:37.69,Default,,0,0,0,,Everyone who lives there respects\Neach other and laughs with one another.
+Dialogue: 0,0:36:37.77,0:36:40.78,Default,,0,0,0,,That's the country I want to create\Nwhen I become the Wizard King!
+Dialogue: 0,0:36:40.86,0:36:42.15,Default,,0,0,0,,No!
+Dialogue: 0,0:36:42.24,0:36:44.91,Default,,0,0,0,,That's bullshit!
+Dialogue: 0,0:36:44.99,0:36:50.41,Default,,0,0,0,,The Wizard King is there\Nto protect the nation and its people!
+Dialogue: 0,0:36:50.49,0:36:52.91,Default,,0,0,0,,I will not let you destroy it!
+Dialogue: 0,0:36:53.00,0:36:55.42,Default,,0,0,0,,That's not what the Wizard King does!
+Dialogue: 0,0:36:56.29,0:36:59.13,Default,,0,0,0,,An ideal world will be built\Nupon the meaningless lives
+Dialogue: 0,0:36:59.21,0:37:01.42,Default,,0,0,0,,of those who are oppressed.
+Dialogue: 0,0:37:02.30,0:37:05.26,Default,,0,0,0,,I can give meaning to their lives!
+Dialogue: 0,0:37:05.34,0:37:07.14,Default,,0,0,0,,Why can't you see that?!
+Dialogue: 0,0:37:08.97,0:37:13.10,Default,,0,0,0,,Of course I can't!\NWhat you're saying is absolutely crazy!
+Dialogue: 0,0:37:15.02,0:37:17.98,Default,,0,0,0,,You don't see\Nthe true nature of the world yet.
+Dialogue: 0,0:37:18.56,0:37:19.48,Default,,0,0,0,,I'm disappointed.
+Dialogue: 0,0:37:20.11,0:37:21.94,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:37:22.03,0:37:25.91,Default,,0,0,0,,You're just thinking of yourself!
+Dialogue: 0,0:37:35.71,0:37:37.42,Default,,0,0,0,,Why can't you understand?!
+Dialogue: 0,0:37:40.67,0:37:43.09,Default,,0,0,0,,I know you've experienced it!
+Dialogue: 0,0:37:43.17,0:37:47.51,Default,,0,0,0,,The unfairness! The betrayal!\NAnd the inequality of this country!
+Dialogue: 0,0:37:52.52,0:37:54.10,Default,,0,0,0,,Choose, Asta.
+Dialogue: 0,0:37:54.18,0:37:56.27,Default,,0,0,0,,Walk this path with me
+Dialogue: 0,0:37:57.56,0:37:59.73,Default,,0,0,0,,or die.
+Dialogue: 0,0:38:20.79,0:38:22.71,Default,,0,0,0,,Give up already, Asta.
+Dialogue: 0,0:38:23.25,0:38:24.42,Default,,0,0,0,,You are me.
+Dialogue: 0,0:38:25.17,0:38:26.84,Default,,0,0,0,,You can be me.
+Dialogue: 0,0:38:28.30,0:38:31.72,Default,,0,0,0,,By dawn tomorrow,\Nthe fusion of magic will be complete.
+Dialogue: 0,0:38:31.80,0:38:34.10,Default,,0,0,0,,At that point, you will be…
+Dialogue: 0,0:38:36.98,0:38:41.98,Default,,0,0,0,,Give… Noelle back… her magic…
+Dialogue: 0,0:38:44.07,0:38:44.94,Default,,0,0,0,,I see.
+Dialogue: 0,0:38:46.19,0:38:49.11,Default,,0,0,0,,It's truly regrettable.
+Dialogue: 0,0:38:51.28,0:38:52.24,Default,,0,0,0,,I will
+Dialogue: 0,0:38:53.16,0:38:54.66,Default,,0,0,0,,not give up.
+Dialogue: 0,0:38:55.91,0:38:58.21,Default,,0,0,0,,Never giving up
+Dialogue: 0,0:38:59.21,0:39:01.63,Default,,0,0,0,,is my magic!
+Dialogue: 0,0:39:10.89,0:39:12.55,Default,,0,0,0,,I have no magical power left.
+Dialogue: 0,0:39:13.39,0:39:14.43,Default,,0,0,0,,What do I do?
+Dialogue: 0,0:39:14.51,0:39:17.39,Default,,0,0,0,,But we still have to give it a try!
+Dialogue: 0,0:39:29.03,0:39:30.86,Default,,0,0,0,,You… you're Yuno!
+Dialogue: 0,0:39:31.86,0:39:32.87,Default,,0,0,0,,Millie!
+Dialogue: 0,0:39:32.95,0:39:35.95,Default,,0,0,0,,He insisted he came to help you all.
+Dialogue: 0,0:39:36.70,0:39:37.58,Default,,0,0,0,,Drink up, Sally!
+Dialogue: 0,0:39:38.33,0:39:39.62,Default,,0,0,0,,Okay.
+Dialogue: 0,0:39:41.21,0:39:43.67,Default,,0,0,0,,Sorry, but we'll have to play this by ear.
+Dialogue: 0,0:39:44.21,0:39:45.59,Default,,0,0,0,,Play it by ear?
+Dialogue: 0,0:39:45.67,0:39:47.13,Default,,0,0,0,,Sounds fun!
+Dialogue: 0,0:39:47.76,0:39:48.67,Default,,0,0,0,,Not at all.
+Dialogue: 0,0:39:49.38,0:39:51.59,Default,,0,0,0,,It's the phrase\NI hate the most in the world.
+Dialogue: 0,0:40:15.78,0:40:18.20,Default,,0,0,0,,Yuno…
+Dialogue: 0,0:40:23.25,0:40:26.34,Default,,0,0,0,,I never thought I'd use it like this,
+Dialogue: 0,0:40:26.42,0:40:30.21,Default,,0,0,0,,but let's try and activate it\Nwith all the magic we have!
+Dialogue: 0,0:40:30.30,0:40:31.59,Default,,0,0,0,,Nonsense.
+Dialogue: 0,0:40:31.67,0:40:33.47,Default,,0,0,0,,It may be. But…
+Dialogue: 0,0:40:33.55,0:40:35.80,Default,,0,0,0,,I can hit you thanks to everyone's help!
+Dialogue: 0,0:40:36.68,0:40:38.81,Default,,0,0,0,,Sealing Magic: Eternal Prison!
+Dialogue: 0,0:40:47.27,0:40:48.52,Default,,0,0,0,,He's a monster!
+Dialogue: 0,0:40:50.11,0:40:51.15,Default,,0,0,0,,We'll retreat for now!
+Dialogue: 0,0:41:12.05,0:41:15.30,Default,,0,0,0,,It's me. How is the fusion of magic going?
+Dialogue: 0,0:41:15.38,0:41:18.76,Default,,0,0,0,,Uh-huh? We're at about 20%.
+Dialogue: 0,0:41:19.26,0:41:20.97,Default,,0,0,0,,Generally speaking, it's going well.
+Dialogue: 0,0:41:21.64,0:41:24.35,Default,,0,0,0,,{\i1}It should be completed by dawn,{\i0}\N{\i1}as scheduled.{\i0}
+Dialogue: 0,0:41:24.85,0:41:25.81,Default,,0,0,0,,Understood.
+Dialogue: 0,0:41:26.40,0:41:27.90,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:41:27.98,0:41:29.98,Default,,0,0,0,,For walking this path with me.
+Dialogue: 0,0:41:30.65,0:41:32.11,Default,,0,0,0,,Finally, we'll create it.
+Dialogue: 0,0:41:32.19,0:41:33.69,Default,,0,0,0,,The strongest country
+Dialogue: 0,0:41:33.78,0:41:36.49,Default,,0,0,0,,with no tears and where no one\Nis robbed of what they have!
+Dialogue: 0,0:41:36.57,0:41:40.87,Default,,0,0,0,,Once again, save the poor lost souls…
+Dialogue: 0,0:41:41.45,0:41:47.08,Default,,0,0,0,,What I seek is a world\Nwhere no one oppresses or is oppressed.
+Dialogue: 0,0:41:47.17,0:41:51.92,Default,,0,0,0,,{\i1}I trust that you can achieve that, Conrad.{\i0}
+Dialogue: 0,0:41:52.76,0:41:53.59,Default,,0,0,0,,Yes.
+Dialogue: 0,0:41:54.09,0:41:55.93,Default,,0,0,0,,How about the veins?
+Dialogue: 0,0:41:56.51,0:41:59.89,Default,,0,0,0,,{\i1}Uh-huh? I found the perfect one.{\i0}
+Dialogue: 0,0:42:00.39,0:42:02.06,Default,,0,0,0,,{\i1}It's at a village called Hage,{\i0}
+Dialogue: 0,0:42:02.14,0:42:05.81,Default,,0,0,0,,{\i1}in the Forsaken Realm{\i0}\N{\i1}where the demon's skeleton lies.{\i0}
+Dialogue: 0,0:42:14.19,0:42:18.78,Default,,0,0,0,,My Key Magic is useless\Nunless I borrow someone's power.
+Dialogue: 0,0:42:19.57,0:42:23.66,Default,,0,0,0,,That's why it is meaningful\Nthat I'm the one who finishes this.
+Dialogue: 0,0:42:24.16,0:42:27.58,Default,,0,0,0,,One day, I will even change this country.
+Dialogue: 0,0:42:31.17,0:42:34.26,Default,,0,0,0,,Never giving up is my magic!
+Dialogue: 0,0:42:42.39,0:42:44.47,Default,,0,0,0,,Never giving up…
+Dialogue: 0,0:43:03.08,0:43:03.91,Default,,0,0,0,,Where am I?
+Dialogue: 0,0:43:05.74,0:43:07.71,Default,,0,0,0,,Oh, Noelle!
+Dialogue: 0,0:43:08.75,0:43:10.46,Default,,0,0,0,,You're awake.
+Dialogue: 0,0:43:10.54,0:43:13.13,Default,,0,0,0,,I'm sorry that all I could provide\Nwas first aid.
+Dialogue: 0,0:43:13.21,0:43:14.46,Default,,0,0,0,,Mimosa.
+Dialogue: 0,0:43:15.42,0:43:16.67,Default,,0,0,0,,You're safe.
+Dialogue: 0,0:43:21.93,0:43:25.01,Default,,0,0,0,,This is a Golden Dawn emergency shelter.
+Dialogue: 0,0:43:25.64,0:43:27.52,Default,,0,0,0,,It's still under construction,
+Dialogue: 0,0:43:27.60,0:43:29.31,Default,,0,0,0,,so only a few members know about it.
+Dialogue: 0,0:43:29.39,0:43:34.02,Default,,0,0,0,,We were almost captured\Nand our magic stolen,
+Dialogue: 0,0:43:34.11,0:43:36.19,Default,,0,0,0,,but the captains let us escape.
+Dialogue: 0,0:43:42.74,0:43:45.16,Default,,0,0,0,,Take care of the kid for me.
+Dialogue: 0,0:43:47.37,0:43:49.79,Default,,0,0,0,,I don't know what happened afterwards,
+Dialogue: 0,0:43:49.87,0:43:52.08,Default,,0,0,0,,but if they're not here yet…
+Dialogue: 0,0:43:55.63,0:43:56.96,Default,,0,0,0,,Hey, are you okay?
+Dialogue: 0,0:43:57.05,0:43:59.21,Default,,0,0,0,,Asta! Please excuse me.
+Dialogue: 0,0:44:00.42,0:44:01.43,Default,,0,0,0,,Asta!
+Dialogue: 0,0:44:01.51,0:44:03.93,Default,,0,0,0,,You should not move\Nuntil the treatment is over.
+Dialogue: 0,0:44:05.39,0:44:07.93,Default,,0,0,0,,Conrad… needs to be stopped.
+Dialogue: 0,0:44:08.72,0:44:11.06,Default,,0,0,0,,He's going to destroy this kingdom.
+Dialogue: 0,0:44:11.64,0:44:12.98,Default,,0,0,0,,If we don't do something,
+Dialogue: 0,0:44:13.06,0:44:15.48,Default,,0,0,0,,it will happen tomorrow at dawn!
+Dialogue: 0,0:44:15.56,0:44:16.90,Default,,0,0,0,,At dawn?
+Dialogue: 0,0:44:16.98,0:44:19.15,Default,,0,0,0,,But if the enemies are so formidable…
+Dialogue: 0,0:44:19.23,0:44:21.36,Default,,0,0,0,,Why would a former Wizard King…
+Dialogue: 0,0:44:21.45,0:44:23.74,Default,,0,0,0,,What could we possibly do by ourselves?
+Dialogue: 0,0:44:27.87,0:44:28.95,Default,,0,0,0,,What could we do?
+Dialogue: 0,0:44:29.04,0:44:32.08,Default,,0,0,0,,Now that it's come to this,\Nwe should run away!
+Dialogue: 0,0:44:32.16,0:44:34.12,Default,,0,0,0,,There's nothing we can do with so few,
+Dialogue: 0,0:44:34.21,0:44:36.50,Default,,0,0,0,,and who knows when they'll find us here!
+Dialogue: 0,0:44:36.59,0:44:37.50,Default,,0,0,0,,Let's run!
+Dialogue: 0,0:44:37.59,0:44:39.00,Default,,0,0,0,,To some other country!
+Dialogue: 0,0:44:39.09,0:44:41.51,Default,,0,0,0,,Maybe the Heart Kingdom will take us in.
+Dialogue: 0,0:44:42.22,0:44:45.01,Default,,0,0,0,,This is not a problem we alone can solve…
+Dialogue: 0,0:44:45.09,0:44:47.51,Default,,0,0,0,,Yes, we could ask other nations for help.
+Dialogue: 0,0:44:48.22,0:44:51.31,Default,,0,0,0,,There are injured people.\NGetting them to the border would be tough.
+Dialogue: 0,0:44:51.39,0:44:54.69,Default,,0,0,0,,If the enemy is the former Wizard King,\Ndo we have any chance of winning?
+Dialogue: 0,0:44:54.77,0:44:56.65,Default,,0,0,0,,With Julius gone…
+Dialogue: 0,0:44:56.73,0:44:58.77,Default,,0,0,0,,What could we do by ourselves?
+Dialogue: 0,0:45:00.73,0:45:03.53,Default,,0,0,0,,We gotta do something!
+Dialogue: 0,0:45:03.61,0:45:05.07,Default,,0,0,0,,If we cave in,
+Dialogue: 0,0:45:05.16,0:45:08.49,Default,,0,0,0,,then who will protect this kingdom\Nand everyone in it?
+Dialogue: 0,0:45:08.99,0:45:13.16,Default,,0,0,0,,Aren't we the Magic Knights Squads\Nof the Clover Kingdom?!
+Dialogue: 0,0:45:14.50,0:45:18.17,Default,,0,0,0,,We've been able to live\Nhappily and peacefully
+Dialogue: 0,0:45:18.25,0:45:21.42,Default,,0,0,0,,thanks to the Wizard King\Nand the Magic Knights Squads!
+Dialogue: 0,0:45:21.92,0:45:26.84,Default,,0,0,0,,Before we joined, or when we were kids,\Nor even before we were born,
+Dialogue: 0,0:45:27.39,0:45:30.43,Default,,0,0,0,,the Magic Knights Squads\Nwere fighting for us.
+Dialogue: 0,0:45:31.18,0:45:36.44,Default,,0,0,0,,And the Wizard King has stood\Nat the helm to protect this kingdom.
+Dialogue: 0,0:45:36.52,0:45:39.94,Default,,0,0,0,,It's thanks to those efforts\Nmade by one person for another
+Dialogue: 0,0:45:40.02,0:45:43.19,Default,,0,0,0,,that the Clover Kingdom exists now.
+Dialogue: 0,0:45:43.28,0:45:45.24,Default,,0,0,0,,That's why we are here!
+Dialogue: 0,0:45:45.32,0:45:46.45,Default,,0,0,0,,Asta…
+Dialogue: 0,0:45:47.03,0:45:48.99,Default,,0,0,0,,I can't just sit and watch!
+Dialogue: 0,0:45:49.58,0:45:50.78,Default,,0,0,0,,It's my turn to protect
+Dialogue: 0,0:45:50.87,0:45:55.25,Default,,0,0,0,,what the Wizard King\Nand the captains have protected!
+Dialogue: 0,0:45:56.00,0:46:00.42,Default,,0,0,0,,But it's not just me. It's our turn!
+Dialogue: 0,0:46:01.00,0:46:03.92,Default,,0,0,0,,I can heal an injury like this\Nwith my fighting spirit!
+Dialogue: 0,0:46:04.01,0:46:07.76,Default,,0,0,0,,And then I will kick his butt,\Nfor real this time!
+Dialogue: 0,0:46:17.98,0:46:20.52,Default,,0,0,0,,With all of us, we can stop Conrad!
+Dialogue: 0,0:46:21.86,0:46:24.69,Default,,0,0,0,,We may not be strong enough by ourselves,
+Dialogue: 0,0:46:24.78,0:46:28.36,Default,,0,0,0,,but if we come together,\Nwe can become an immense force!
+Dialogue: 0,0:46:29.53,0:46:33.04,Default,,0,0,0,,That's why we,\Nthe Magic Knights Squads, are strong!
+Dialogue: 0,0:46:34.12,0:46:36.96,Default,,0,0,0,,If all the Magic Knights Squads\Njoin their power,
+Dialogue: 0,0:46:37.04,0:46:39.25,Default,,0,0,0,,we could face any enemy!
+Dialogue: 0,0:46:40.50,0:46:42.59,Default,,0,0,0,,I'm not forcing you to come with me.
+Dialogue: 0,0:46:43.46,0:46:44.92,Default,,0,0,0,,Like Sekke said,
+Dialogue: 0,0:46:45.01,0:46:48.55,Default,,0,0,0,,you can still escape to the Heart Kingdom\Nor elsewhere if you go now.
+Dialogue: 0,0:46:49.13,0:46:54.10,Default,,0,0,0,,But if any of you\Nis willing to lend me your power…
+Dialogue: 0,0:46:56.64,0:46:59.65,Default,,0,0,0,,Jeez, what you suggest is so reckless.
+Dialogue: 0,0:47:00.56,0:47:03.86,Default,,0,0,0,,But coming from you, who's trying to do\Nthe most reckless thing,
+Dialogue: 0,0:47:03.94,0:47:05.07,Default,,0,0,0,,I guess I can't say no.
+Dialogue: 0,0:47:17.91,0:47:21.29,Default,,0,0,0,,I'm not letting you go alone.\NNot a chance.
+Dialogue: 0,0:47:27.92,0:47:29.97,Default,,0,0,0,,The Wizard King isn't here!
+Dialogue: 0,0:47:30.05,0:47:32.30,Default,,0,0,0,,We don't have the captains to rely on!
+Dialogue: 0,0:47:32.39,0:47:34.51,Default,,0,0,0,,But that doesn't matter!
+Dialogue: 0,0:47:35.01,0:47:37.06,Default,,0,0,0,,Now it's our turn to carry on!
+Dialogue: 0,0:47:37.14,0:47:40.69,Default,,0,0,0,,We'll fight on their behalf!
+Dialogue: 0,0:47:41.27,0:47:42.31,Default,,0,0,0,,I'll say it again.
+Dialogue: 0,0:47:42.40,0:47:46.36,Default,,0,0,0,,We are the Magic Knights Squads\Nof the Clover Kingdom!
+Dialogue: 0,0:47:46.44,0:47:48.82,Default,,0,0,0,,Right here, right now!\NWe'll surpass our limits,
+Dialogue: 0,0:47:48.90,0:47:50.61,Default,,0,0,0,,and protect this country!
+Dialogue: 0,0:47:50.70,0:47:52.57,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:47:52.66,0:47:54.95,Default,,0,0,0,,And what is the actual plan?
+Dialogue: 0,0:47:55.03,0:47:57.29,Default,,0,0,0,,I'm going to figure that out now!
+Dialogue: 0,0:47:57.37,0:47:58.58,Default,,0,0,0,,What?!
+Dialogue: 0,0:47:58.66,0:48:00.79,Default,,0,0,0,,{\i1}I can't take this anymore, bwa-ha!{\i0}
+Dialogue: 0,0:48:01.62,0:48:05.17,Default,,0,0,0,,{\i1}Now that it has come to this,{\i0}\N{\i1}I have to escape, even if it's just me!{\i0}
+Dialogue: 0,0:48:06.71,0:48:07.59,Default,,0,0,0,,Huh?
+Dialogue: 0,0:48:07.67,0:48:08.80,Default,,0,0,0,,Bwa-ha!
+Dialogue: 0,0:48:14.18,0:48:15.39,Default,,0,0,0,,Without any plans…
+Dialogue: 0,0:48:18.18,0:48:21.89,Default,,0,0,0,,Stop boasting, you imbecile!
+Dialogue: 0,0:48:31.99,0:48:34.41,Default,,0,0,0,,Lady Big-sis-leon! Everyone else, too!
+Dialogue: 0,0:48:34.99,0:48:37.91,Default,,0,0,0,,I didn't know you were alive! Ouch!
+Dialogue: 0,0:48:37.99,0:48:40.79,Default,,0,0,0,,Who are you calling "Big-sis-leon"?
+Dialogue: 0,0:48:40.87,0:48:41.91,Default,,0,0,0,,And don't assume I'm dead.
+Dialogue: 0,0:48:43.04,0:48:45.63,Default,,0,0,0,,I was away for training.
+Dialogue: 0,0:48:48.55,0:48:49.59,Default,,0,0,0,,But it seems…
+Dialogue: 0,0:48:50.71,0:48:53.30,Default,,0,0,0,,something fun is going on.
+Dialogue: 0,0:48:53.38,0:48:56.93,Default,,0,0,0,,I've also been away\Non a mission with Jack.
+Dialogue: 0,0:48:58.51,0:49:02.14,Default,,0,0,0,,{\i1}Which is why I didn't get caught by{\i0}\N{\i1}pursuers and was able to arrive here.{\i0}
+Dialogue: 0,0:49:03.52,0:49:04.94,Default,,0,0,0,,Same for me.
+Dialogue: 0,0:49:05.02,0:49:07.11,Default,,0,0,0,,We must go rescue everyone.
+Dialogue: 0,0:49:07.19,0:49:08.44,Default,,0,0,0,,Hehe.
+Dialogue: 0,0:49:08.52,0:49:12.11,Default,,0,0,0,,Some of the people who went on a mission\Nwith us are fine as well.
+Dialogue: 0,0:49:12.99,0:49:16.99,Default,,0,0,0,,{\i1}They're out there,{\i0}\N{\i1}surveilling that huge flying fortress.{\i0}
+Dialogue: 0,0:49:17.87,0:49:21.45,Default,,0,0,0,,{\i1}It looks like Yami{\i0}\N{\i1}and the other captains are alive.{\i0}
+Dialogue: 0,0:49:22.04,0:49:25.17,Default,,0,0,0,,{\i1}They're trapped inside a barrier though.{\i0}
+Dialogue: 0,0:49:25.79,0:49:26.63,Default,,0,0,0,,Captain Yami!
+Dialogue: 0,0:49:26.71,0:49:28.21,Default,,0,0,0,,My brother Nozel!
+Dialogue: 0,0:49:28.29,0:49:30.96,Default,,0,0,0,,{\i1}Yami! I'm so glad!{\i0}
+Dialogue: 0,0:49:31.67,0:49:33.13,Default,,0,0,0,,But I don't get it.
+Dialogue: 0,0:49:33.22,0:49:36.47,Default,,0,0,0,,Why have the enemy captured\Nthe citizens and the Magic Knights Squads
+Dialogue: 0,0:49:36.97,0:49:38.22,Default,,0,0,0,,but are keeping them alive?
+Dialogue: 0,0:49:38.85,0:49:40.56,Default,,0,0,0,,Because they need their magical powers.
+Dialogue: 0,0:49:41.06,0:49:45.35,Default,,0,0,0,,If they absorb power through the Sword\Nand supply it to their members,
+Dialogue: 0,0:49:45.44,0:49:47.48,Default,,0,0,0,,they will never run out of magical power.
+Dialogue: 0,0:49:47.56,0:49:50.11,Default,,0,0,0,,Hehe, so they're the feed.
+Dialogue: 0,0:49:50.19,0:49:53.86,Default,,0,0,0,,Oh man! He also mentioned\Nthat he needs lots of magical power
+Dialogue: 0,0:49:53.94,0:49:55.99,Default,,0,0,0,,for his crazy ambition to come true!
+Dialogue: 0,0:49:56.57,0:49:58.66,Default,,0,0,0,,So that's why he's keeping them alive.
+Dialogue: 0,0:49:58.74,0:50:01.58,Default,,0,0,0,,So if their magical power runs out,\NYami and the others will be…
+Dialogue: 0,0:50:02.58,0:50:04.12,Default,,0,0,0,,We don't have much time left.
+Dialogue: 0,0:50:04.20,0:50:05.66,Default,,0,0,0,,Asta, everyone.
+Dialogue: 0,0:50:05.75,0:50:08.50,Default,,0,0,0,,Let's join forces\Nto take back this kingdom.
+Dialogue: 0,0:50:09.00,0:50:09.96,Default,,0,0,0,,-Yes, sir!\N-Yes, sir!
+Dialogue: 0,0:50:10.04,0:50:14.80,Default,,0,0,0,,Before we do, we must eat-la!
+Dialogue: 0,0:50:24.52,0:50:27.69,Default,,0,0,0,,Oh! Charmy, you're okay!
+Dialogue: 0,0:50:27.77,0:50:31.61,Default,,0,0,0,,Yup. Thanks to Rouge and Captain Yami,\Nwho let me escape.
+Dialogue: 0,0:50:32.57,0:50:34.36,Default,,0,0,0,,Oh! You all!
+Dialogue: 0,0:50:35.44,0:50:37.20,Default,,0,0,0,,Noelle, I'm glad you're okay.
+Dialogue: 0,0:50:37.70,0:50:40.66,Default,,0,0,0,,Our base was trapped\Ninside the barrier as well.
+Dialogue: 0,0:50:41.28,0:50:45.00,Default,,0,0,0,,Henry and Gordon are trapped inside,\Nbut they're okay for now.
+Dialogue: 0,0:50:45.08,0:50:46.16,Default,,0,0,0,,Then,
+Dialogue: 0,0:50:47.37,0:50:49.75,Default,,0,0,0,,we gotta go get them, right?
+Dialogue: 0,0:50:51.08,0:50:52.84,Default,,0,0,0,,The base of the Black Bulls…
+Dialogue: 0,0:50:56.88,0:51:00.09,Default,,0,0,0,,The Imperial Sword has collected\Nthe magical power of all the citizens,
+Dialogue: 0,0:51:00.18,0:51:02.76,Default,,0,0,0,,which will be driven into\Na "singular point" vein of mana.
+Dialogue: 0,0:51:02.85,0:51:07.06,Default,,0,0,0,,Ha! Then that's the end for this kingdom.
+Dialogue: 0,0:51:07.14,0:51:08.85,Default,,0,0,0,,The enemy Wizard Kings
+Dialogue: 0,0:51:08.94,0:51:12.77,Default,,0,0,0,,must have been revived with\Nthe Imperial Sword and Conrad's magic.
+Dialogue: 0,0:51:13.73,0:51:18.28,Default,,0,0,0,,So if we destroy the Imperial Sword,\Ndo we stop the power of the Wizard Kings?
+Dialogue: 0,0:51:19.11,0:51:21.28,Default,,0,0,0,,Judging from Conrad's actions,
+Dialogue: 0,0:51:21.36,0:51:22.78,Default,,0,0,0,,that's highly likely.
+Dialogue: 0,0:51:23.95,0:51:24.79,Default,,0,0,0,,Very well!
+Dialogue: 0,0:51:24.87,0:51:28.41,Default,,0,0,0,,The final goal is to destroy\Nthe Imperial Sword and neutralize it!
+Dialogue: 0,0:51:29.08,0:51:32.21,Default,,0,0,0,,Go and prepare for encountering the enemy!
+Dialogue: 0,0:51:32.75,0:51:36.42,Default,,0,0,0,,We don't have much time before dawn,\Nour time limit!
+Dialogue: 0,0:51:45.81,0:51:48.27,Default,,0,0,0,,{\i1}I still can't use{\i0}\N{\i1}the spells in my grimoire,{\i0}
+Dialogue: 0,0:51:48.35,0:51:51.35,Default,,0,0,0,,{\i1}but thanks to Charmy,{\i0}\N{\i1}my magic has returned.{\i0}
+Dialogue: 0,0:51:51.44,0:51:55.02,Default,,0,0,0,,{\i1}I'll focus on what I can do now!{\i0}
+Dialogue: 0,0:52:10.71,0:52:11.54,Default,,0,0,0,,Yuno!
+Dialogue: 0,0:52:16.71,0:52:18.30,Default,,0,0,0,,Are you ready, Asta?
+Dialogue: 0,0:52:19.01,0:52:19.84,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:52:23.26,0:52:26.85,Default,,0,0,0,,BLACK BULLS SQUAD BASE
+Dialogue: 0,0:52:28.06,0:52:31.77,Default,,0,0,0,,This is strange. When I got back\Nfrom training, there was only Henry here.
+Dialogue: 0,0:52:31.85,0:52:35.69,Default,,0,0,0,,And former Wizard Kings have been revived,\Nand they've taken over the capital…
+Dialogue: 0,0:52:46.16,0:52:48.03,Default,,0,0,0,,I'm going to retake the base!
+Dialogue: 0,0:52:48.12,0:52:51.16,Default,,0,0,0,,First, we will go and rescue\Nthose at the Black Bulls base.
+Dialogue: 0,0:52:52.54,0:52:54.58,Default,,0,0,0,,Are you sure?
+Dialogue: 0,0:52:54.67,0:52:58.84,Default,,0,0,0,,This plan depends on how much\Nfighting power we can preserve.
+Dialogue: 0,0:52:59.46,0:53:03.97,Default,,0,0,0,,For that, we need something that allows us\Nto move safely but in large numbers.
+Dialogue: 0,0:53:04.05,0:53:04.89,Default,,0,0,0,,I see.
+Dialogue: 0,0:53:05.76,0:53:07.01,Default,,0,0,0,,Don't you get it?
+Dialogue: 0,0:53:07.68,0:53:09.85,Default,,0,0,0,,At your base, that's possible.
+Dialogue: 0,0:53:10.85,0:53:16.06,Default,,0,0,0,,But Conrad is a formidable foe\Nwho uses many types of magic at will.
+Dialogue: 0,0:53:16.69,0:53:19.94,Default,,0,0,0,,Normal magic attacks will be canceled out.
+Dialogue: 0,0:53:20.03,0:53:22.24,Default,,0,0,0,,And that's where you come in, Asta.
+Dialogue: 0,0:53:22.32,0:53:27.28,Default,,0,0,0,,Since you have Anti-Magic,\Nwhich neutralizes any kind of magic,
+Dialogue: 0,0:53:27.37,0:53:29.95,Default,,0,0,0,,only you have the chance to defeat Conrad.
+Dialogue: 0,0:53:30.66,0:53:32.45,Default,,0,0,0,,This is the key point of the plan.
+Dialogue: 0,0:53:32.95,0:53:35.83,Default,,0,0,0,,Please stop Conrad. Can I count on you?
+Dialogue: 0,0:53:36.88,0:53:37.79,Default,,0,0,0,,Yes, sir!
+Dialogue: 0,0:53:47.05,0:53:48.39,Default,,0,0,0,,All right!
+Dialogue: 0,0:53:49.68,0:53:51.10,Default,,0,0,0,,Welcome back, everyone.
+Dialogue: 0,0:53:51.64,0:53:52.93,Default,,0,0,0,,And we have so many guests…
+Dialogue: 0,0:53:53.02,0:53:54.98,Default,,0,0,0,,That's the story, Henry.
+Dialogue: 0,0:53:55.06,0:53:57.31,Default,,0,0,0,,Can you do it?
+Dialogue: 0,0:53:57.94,0:54:01.19,Default,,0,0,0,,Okay!
+Dialogue: 0,0:54:02.15,0:54:06.91,Default,,0,0,0,,Well then! You recover\Nthe magic you lost by eating-la!
+Dialogue: 0,0:54:09.62,0:54:16.21,Default,,0,0,0,,I've never felt\Nthis much magical power before!
+Dialogue: 0,0:54:38.90,0:54:40.52,Default,,0,0,0,,Cool!
+Dialogue: 0,0:54:40.61,0:54:43.36,Default,,0,0,0,,So this is the flying style\Nof the Black Bulls!
+Dialogue: 0,0:54:43.44,0:54:46.49,Default,,0,0,0,,Is this really going to fly?
+Dialogue: 0,0:54:46.57,0:54:51.87,Default,,0,0,0,,If there's enough magical power,
+Dialogue: 0,0:54:51.95,0:54:53.66,Default,,0,0,0,,I think it will--
+Dialogue: 0,0:54:58.54,0:55:01.21,Default,,0,0,0,,More than we expected, huh?
+Dialogue: 0,0:55:01.29,0:55:02.71,Default,,0,0,0,,Hehe!
+Dialogue: 0,0:55:02.79,0:55:04.30,Default,,0,0,0,,Severing Magic…
+Dialogue: 0,0:55:06.88,0:55:10.05,Default,,0,0,0,,Death Scythe: Lunatic Slash!
+Dialogue: 0,0:55:11.39,0:55:13.10,Default,,0,0,0,,Briar Magic…
+Dialogue: 0,0:55:13.89,0:55:15.39,Default,,0,0,0,,Crimson Vine Spear.
+Dialogue: 0,0:55:24.69,0:55:26.57,Default,,0,0,0,,A drop in a bucket, was it?
+Dialogue: 0,0:55:26.65,0:55:29.07,Default,,0,0,0,,Hehe! How annoying.
+Dialogue: 0,0:55:30.49,0:55:31.49,Default,,0,0,0,,What?!
+Dialogue: 0,0:55:31.57,0:55:32.70,Default,,0,0,0,,Bwa-ha!
+Dialogue: 0,0:55:39.62,0:55:43.17,Default,,0,0,0,,Hehe! Looks like this is worth severing!
+Dialogue: 0,0:55:43.88,0:55:45.88,Default,,0,0,0,,We will stop them here!
+Dialogue: 0,0:55:46.55,0:55:48.88,Default,,0,0,0,,You all go on ahead!
+Dialogue: 0,0:55:48.97,0:55:51.30,Default,,0,0,0,,Captain Jack! Captain Charlotte!
+Dialogue: 0,0:55:51.38,0:55:53.01,Default,,0,0,0,,This will be pointless if you go!
+Dialogue: 0,0:55:54.30,0:55:56.31,Default,,0,0,0,,But those two alone couldn't…
+Dialogue: 0,0:55:56.89,0:55:58.68,Default,,0,0,0,,It might be impossible, yes.
+Dialogue: 0,0:55:58.77,0:55:59.60,Default,,0,0,0,,Then,
+Dialogue: 0,0:55:59.68,0:56:01.27,Default,,0,0,0,,how about three?
+Dialogue: 0,0:56:09.36,0:56:10.53,Default,,0,0,0,,World Tree Magic…
+Dialogue: 0,0:56:11.15,0:56:12.74,Default,,0,0,0,,Great Mistilteinn Tree!
+Dialogue: 0,0:56:22.08,0:56:23.96,Default,,0,0,0,,Now, go while you can!
+Dialogue: 0,0:56:24.04,0:56:25.29,Default,,0,0,0,,Captain Vangeance!
+Dialogue: 0,0:56:25.38,0:56:28.13,Default,,0,0,0,,Are you ready?
+Dialogue: 0,0:56:50.90,0:56:51.95,Default,,0,0,0,,Yuno.
+Dialogue: 0,0:56:52.03,0:56:53.99,Default,,0,0,0,,I'm leaving the Wizard King in your care.
+Dialogue: 0,0:56:55.03,0:56:56.12,Default,,0,0,0,,Well then,
+Dialogue: 0,0:56:56.20,0:56:58.66,Default,,0,0,0,,let's have the barbarous guests leave.
+Dialogue: 0,0:57:05.08,0:57:06.84,Default,,0,0,0,,Listen up, everyone!
+Dialogue: 0,0:57:06.92,0:57:10.17,Default,,0,0,0,,We are minus three captains,\Nbut we'll head into enemy territory…
+Dialogue: 0,0:57:10.76,0:57:11.92,Default,,0,0,0,,No, Asta.
+Dialogue: 0,0:57:12.01,0:57:12.92,Default,,0,0,0,,You tell them.
+Dialogue: 0,0:57:18.68,0:57:20.93,Default,,0,0,0,,Okay, let's go, everyone!
+Dialogue: 0,0:57:21.02,0:57:22.77,Default,,0,0,0,,We'll kick their butts
+Dialogue: 0,0:57:22.85,0:57:25.98,Default,,0,0,0,,and get the Clover Kingdom back!
+Dialogue: 0,0:57:26.81,0:57:28.98,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:57:32.94,0:57:35.45,Default,,0,0,0,,A report from my soldiers.
+Dialogue: 0,0:57:35.53,0:57:39.37,Default,,0,0,0,,The rebels have started to move.\NHow shall I deal with them?
+Dialogue: 0,0:57:40.12,0:57:41.62,Default,,0,0,0,,So you're here.
+Dialogue: 0,0:57:42.79,0:57:45.79,Default,,0,0,0,,That's right. I knew you would come.
+Dialogue: 0,0:57:46.96,0:57:48.88,Default,,0,0,0,,It is time for the finale.
+Dialogue: 0,0:57:49.42,0:57:51.63,Default,,0,0,0,,I saved you the best seat.
+Dialogue: 0,0:57:52.51,0:57:54.72,Default,,0,0,0,,Is that why you kept me alive until now,
+Dialogue: 0,0:57:54.80,0:57:56.89,Default,,0,0,0,,even after I've lost most of my power?
+Dialogue: 0,0:57:56.97,0:57:59.93,Default,,0,0,0,,Those you love, those you want to protect.
+Dialogue: 0,0:58:00.47,0:58:04.89,Default,,0,0,0,,Burn into your eyes the image of\Nyour trusted ones dying miserable deaths.
+Dialogue: 0,0:58:04.98,0:58:08.44,Default,,0,0,0,,Die as you agonize\Nover how powerless you are.
+Dialogue: 0,0:58:09.48,0:58:12.53,Default,,0,0,0,,This is the beginning\Nof a new Clover Kingdom.
+Dialogue: 0,0:58:12.61,0:58:15.65,Default,,0,0,0,,Let us turn a new page!
+Dialogue: 0,0:58:29.75,0:58:32.38,Default,,0,0,0,,What is that?!
+Dialogue: 0,0:58:34.46,0:58:37.63,Default,,0,0,0,,Whoa, it's enormous!
+Dialogue: 0,0:58:37.72,0:58:42.39,Default,,0,0,0,,It's incomparable to the one that was\Nat the Magic Knights Squad base!
+Dialogue: 0,0:58:42.47,0:58:43.85,Default,,0,0,0,,Everyone, look!
+Dialogue: 0,0:58:48.85,0:58:54.78,Default,,0,0,0,,Well, well, let me see\Nthe last squeeze of power you have.
+Dialogue: 0,0:58:55.36,0:58:56.53,Default,,0,0,0,,And let me teach you
+Dialogue: 0,0:58:57.24,0:59:01.53,Default,,0,0,0,,that the Wizard King\Nis never caught off-guard!
+Dialogue: 0,0:59:09.04,0:59:11.46,Default,,0,0,0,,So, what are you going to do?
+Dialogue: 0,0:59:13.71,0:59:16.38,Default,,0,0,0,,This is the power of the Wizard King?
+Dialogue: 0,0:59:16.46,0:59:19.22,Default,,0,0,0,,It's in another league! What should we do?
+Dialogue: 0,0:59:20.09,0:59:21.18,Default,,0,0,0,,Asta!
+Dialogue: 0,0:59:22.60,0:59:24.31,Default,,0,0,0,,It's not your turn yet!
+Dialogue: 0,0:59:24.81,0:59:27.27,Default,,0,0,0,,What do we do?\NMore like, what don't we do?
+Dialogue: 0,0:59:27.35,0:59:31.06,Default,,0,0,0,,We've always surpassed our limits, right?
+Dialogue: 0,0:59:35.48,0:59:37.19,Default,,0,0,0,,Ready, you guys?
+Dialogue: 0,0:59:37.86,0:59:40.41,Default,,0,0,0,,-Let's show him what we're made of!\N-Yeah!
+Dialogue: 0,0:59:40.49,0:59:44.37,Default,,0,0,0,,Flame Magic: Exploding Fireball!
+Dialogue: 0,0:59:44.45,0:59:47.37,Default,,0,0,0,,Lightning Magic: Thunderbolt Destruction!
+Dialogue: 0,0:59:47.45,0:59:50.37,Default,,0,0,0,,Poison Magic: Forbidden Fruit!
+Dialogue: 0,0:59:50.46,0:59:52.58,Default,,0,0,0,,Everyone!
+Dialogue: 0,0:59:53.08,0:59:54.96,Default,,0,0,0,,Are you ready?
+Dialogue: 0,0:59:55.04,0:59:57.46,Default,,0,0,0,,Yeah!
+Dialogue: 0,1:00:01.97,1:00:05.01,Default,,0,0,0,,Mirror Magic: Large Reflect Refrain!
+Dialogue: 0,1:00:08.47,1:00:10.52,Default,,0,0,0,,Go!
+Dialogue: 0,1:00:24.41,1:00:26.87,Default,,0,0,0,,Bwa-ha! Again?!
+Dialogue: 0,1:00:26.95,1:00:28.08,Default,,0,0,0,,Now's the chance!
+Dialogue: 0,1:00:28.16,1:00:30.46,Default,,0,0,0,,Spatial Magic: Fallen Angel Gate!
+Dialogue: 0,1:00:34.58,1:00:35.46,Default,,0,0,0,,Well, well.
+Dialogue: 0,1:00:35.54,1:00:39.92,Default,,0,0,0,,Whoa, whoa, we're about to arrive\Nat the enormous barrier!
+Dialogue: 0,1:00:40.42,1:00:42.88,Default,,0,0,0,,{\i1}The space is shut off from here on,{\i0}
+Dialogue: 0,1:00:42.97,1:00:44.93,Default,,0,0,0,,{\i1}so I can't break through with my magic.{\i0}
+Dialogue: 0,1:00:45.72,1:00:47.68,Default,,0,0,0,,{\i1}So, I'm counting on you.{\i0}
+Dialogue: 0,1:00:52.89,1:00:54.73,Default,,0,0,0,,{\i1}I know you can do this.{\i0}
+Dialogue: 0,1:00:55.36,1:00:56.40,Default,,0,0,0,,{\i1}Asta!{\i0}
+Dialogue: 0,1:01:09.49,1:01:11.54,Default,,0,0,0,,Stop running around!
+Dialogue: 0,1:01:15.54,1:01:19.30,Default,,0,0,0,,Thanks for voluntarily walking\Ninto the trap.
+Dialogue: 0,1:01:19.38,1:01:22.01,Default,,0,0,0,,Magic like this will not--
+Dialogue: 0,1:01:22.09,1:01:24.34,Default,,0,0,0,,Sealing Magic: Eternal Prison!
+Dialogue: 0,1:01:25.84,1:01:28.30,Default,,0,0,0,,Finral, now! Do it quickly!
+Dialogue: 0,1:01:28.39,1:01:31.56,Default,,0,0,0,,Alright! Not said this in a while,\Nbut remember I'm your senior!
+Dialogue: 0,1:01:32.73,1:01:34.31,Default,,0,0,0,,Good. Now…
+Dialogue: 0,1:01:41.98,1:01:43.19,Default,,0,0,0,,Didn't I tell you?
+Dialogue: 0,1:01:43.28,1:01:45.11,Default,,0,0,0,,I'm never caught off-guard!
+Dialogue: 0,1:01:59.21,1:02:01.25,Default,,0,0,0,,Thank you so much!
+Dialogue: 0,1:02:06.80,1:02:11.89,Default,,0,0,0,,Uh-huh? This special barrier has been\Nfortified with the Imperial Sword,
+Dialogue: 0,1:02:11.97,1:02:15.64,Default,,0,0,0,,so even if it gets broken,\Nit'll regenerate and not be a problem.
+Dialogue: 0,1:02:15.73,1:02:21.19,Default,,0,0,0,,To create the perfect world, we should\Nget rid of those who get in our way.
+Dialogue: 0,1:02:21.27,1:02:23.03,Default,,0,0,0,,This is the end!
+Dialogue: 0,1:02:23.53,1:02:24.44,Default,,0,0,0,,For you!
+Dialogue: 0,1:02:31.33,1:02:34.75,Default,,0,0,0,,I love it, I love it! Struggle for me.
+Dialogue: 0,1:02:34.83,1:02:37.46,Default,,0,0,0,,Mana Zone: Fangs of Riot…
+Dialogue: 0,1:02:37.54,1:02:38.50,Default,,0,0,0,,Double Attacks!
+Dialogue: 0,1:02:40.38,1:02:42.17,Default,,0,0,0,,Was that supposed to hurt me?!
+Dialogue: 0,1:02:42.75,1:02:44.63,Default,,0,0,0,,Now! Fire at will!
+Dialogue: 0,1:02:50.76,1:02:51.97,Default,,0,0,0,,One more time!
+Dialogue: 0,1:02:56.89,1:02:59.35,Default,,0,0,0,,Are you ready?
+Dialogue: 0,1:03:02.52,1:03:04.78,Default,,0,0,0,,I love it, you guys.
+Dialogue: 0,1:03:05.28,1:03:06.32,Default,,0,0,0,,Bring it on!
+Dialogue: 0,1:03:18.21,1:03:21.38,Default,,0,0,0,,-Go!\N-Go!
+Dialogue: 0,1:03:30.97,1:03:33.35,Default,,0,0,0,,Ha! Are you serious?
+Dialogue: 0,1:03:33.43,1:03:35.64,Default,,0,0,0,,You guys are amazing!
+Dialogue: 0,1:03:36.47,1:03:37.35,Default,,0,0,0,,However!
+Dialogue: 0,1:03:38.73,1:03:39.89,Default,,0,0,0,,Everyone!
+Dialogue: 0,1:03:40.56,1:03:42.15,Default,,0,0,0,,I'm counting on you, Asta!
+Dialogue: 0,1:03:42.23,1:03:44.48,Default,,0,0,0,,You defeat him!
+Dialogue: 0,1:03:44.57,1:03:47.94,Default,,0,0,0,,Alright! I'm off!
+Dialogue: 0,1:03:50.49,1:03:51.91,Default,,0,0,0,,Hey, check that out.
+Dialogue: 0,1:03:52.57,1:03:53.91,Default,,0,0,0,,Conrad?!
+Dialogue: 0,1:03:54.49,1:03:55.87,Default,,0,0,0,,Why is he there?
+Dialogue: 0,1:03:56.87,1:03:58.87,Default,,0,0,0,,Oh, the singular point…
+Dialogue: 0,1:04:00.12,1:04:02.67,Default,,0,0,0,,Is it the skeleton of a demon?
+Dialogue: 0,1:04:06.50,1:04:08.46,Default,,0,0,0,,Uh-huh!
+Dialogue: 0,1:04:09.13,1:04:12.93,Default,,0,0,0,,Don't you dare get in our way!
+Dialogue: 0,1:04:20.77,1:04:23.44,Default,,0,0,0,,Asta! You go to Conrad!
+Dialogue: 0,1:04:27.11,1:04:28.44,Default,,0,0,0,,Give him all you got!
+Dialogue: 0,1:04:29.53,1:04:30.53,Default,,0,0,0,,Yeah!
+Dialogue: 0,1:04:42.87,1:04:44.25,Default,,0,0,0,,Let's go, Bell!
+Dialogue: 0,1:04:44.33,1:04:45.17,Default,,0,0,0,,I'm ready!
+Dialogue: 0,1:04:46.50,1:04:47.71,Default,,0,0,0,,Going all out!
+Dialogue: 0,1:04:56.85,1:04:58.47,Default,,0,0,0,,Spirit Assimilation…
+Dialogue: 0,1:04:58.56,1:04:59.60,Default,,0,0,0,,Spirit Dive!
+Dialogue: 0,1:05:03.69,1:05:06.02,Default,,0,0,0,,All units! Get into your positions!
+Dialogue: 0,1:05:06.11,1:05:09.32,Default,,0,0,0,,Just as planned, we succeeded\Nin splitting the enemy force!
+Dialogue: 0,1:05:10.74,1:05:13.20,Default,,0,0,0,,Now each of you will fight to the end
+Dialogue: 0,1:05:13.28,1:05:16.12,Default,,0,0,0,,with the pride of a Magic Knights Squad!
+Dialogue: 0,1:05:16.74,1:05:19.70,Default,,0,0,0,,If you don't,\Nthen you have me to answer to!
+Dialogue: 0,1:05:20.33,1:05:24.00,Default,,0,0,0,,And not one of you\Nis allowed to die either.
+Dialogue: 0,1:05:24.92,1:05:27.54,Default,,0,0,0,,If you slack off, or if you die,
+Dialogue: 0,1:05:27.63,1:05:29.71,Default,,0,0,0,,then I will burn you to death myself!
+Dialogue: 0,1:05:31.59,1:05:33.30,Default,,0,0,0,,Listen well, all of you.
+Dialogue: 0,1:05:33.38,1:05:34.97,Default,,0,0,0,,If you don't want to die,
+Dialogue: 0,1:05:35.05,1:05:37.26,Default,,0,0,0,,then fight on, even if it kills you!
+Dialogue: 0,1:05:38.18,1:05:40.10,Default,,0,0,0,,-Let's go!\N-Yeah!
+Dialogue: 0,1:05:42.14,1:05:46.02,Default,,0,0,0,,No tricks to speak of\Nfor fighting against me?
+Dialogue: 0,1:05:46.10,1:05:50.27,Default,,0,0,0,,Just my luck to have\Nsuch a boring fool as my enemy.
+Dialogue: 0,1:05:50.36,1:05:52.07,Default,,0,0,0,,"Tricks"?
+Dialogue: 0,1:05:52.86,1:05:55.28,Default,,0,0,0,,Why would I need tricks to face you?
+Dialogue: 0,1:05:55.86,1:05:57.32,Default,,0,0,0,,Princia Funnybunny.
+Dialogue: 0,1:05:57.87,1:06:01.79,Default,,0,0,0,,A mighty warrior among the Wizard Kings,\Nwhose combat strength
+Dialogue: 0,1:06:01.87,1:06:03.87,Default,,0,0,0,,is worth a thousand soldiers!
+Dialogue: 0,1:06:04.75,1:06:07.75,Default,,0,0,0,,The records say that you've never lost
+Dialogue: 0,1:06:07.83,1:06:10.63,Default,,0,0,0,,in any combat where you were involved.
+Dialogue: 0,1:06:11.21,1:06:13.34,Default,,0,0,0,,Why would I rely on some silly tricks
+Dialogue: 0,1:06:13.42,1:06:16.05,Default,,0,0,0,,when facing such a foe!
+Dialogue: 0,1:06:16.84,1:06:19.35,Default,,0,0,0,,Very well, I take back my words.
+Dialogue: 0,1:06:20.39,1:06:23.31,Default,,0,0,0,,Legion Magic: Endless Domination!
+Dialogue: 0,1:06:24.64,1:06:26.98,Default,,0,0,0,,If you want me to play with you,
+Dialogue: 0,1:06:27.06,1:06:29.02,Default,,0,0,0,,then show me your strength first.
+Dialogue: 0,1:06:35.36,1:06:37.70,Default,,0,0,0,,A test of strength?\NI accept the challenge.
+Dialogue: 0,1:06:38.49,1:06:42.49,Default,,0,0,0,,But I hope you don't hold back on me!
+Dialogue: 0,1:06:55.34,1:06:56.42,Default,,0,0,0,,Next…
+Dialogue: 0,1:06:56.51,1:06:58.30,Default,,0,0,0,,Where are you aiming?
+Dialogue: 0,1:07:04.56,1:07:08.27,Default,,0,0,0,,Did you actually think\Nyou managed to lure me in?
+Dialogue: 0,1:07:08.85,1:07:10.77,Default,,0,0,0,,Just the opposite, silly you!
+Dialogue: 0,1:07:10.86,1:07:14.11,Default,,0,0,0,,I'm the one who lured you here.
+Dialogue: 0,1:07:14.19,1:07:15.82,Default,,0,0,0,,The truth is,
+Dialogue: 0,1:07:15.90,1:07:18.70,Default,,0,0,0,,we can use the magical power
+Dialogue: 0,1:07:18.78,1:07:22.07,Default,,0,0,0,,that's fueling this flying fortress\Nas our own!
+Dialogue: 0,1:07:22.66,1:07:24.54,Default,,0,0,0,,So, as long as I'm in here,
+Dialogue: 0,1:07:24.62,1:07:28.37,Default,,0,0,0,,I can replenish my magic endlessly!
+Dialogue: 0,1:07:32.63,1:07:35.05,Default,,0,0,0,,And you think you've won just for that?
+Dialogue: 0,1:07:35.13,1:07:36.46,Default,,0,0,0,,Against us?
+Dialogue: 0,1:07:37.05,1:07:37.92,Default,,0,0,0,,"Us"?
+Dialogue: 0,1:07:38.97,1:07:41.72,Default,,0,0,0,,Hey, hey, Pretty Boy.
+Dialogue: 0,1:07:41.80,1:07:43.93,Default,,0,0,0,,Didn't anyone teach you
+Dialogue: 0,1:07:44.01,1:07:46.97,Default,,0,0,0,,that a damsel in distress\Nshould be rescued gently?
+Dialogue: 0,1:07:48.06,1:07:50.73,Default,,0,0,0,,I'm a Virgo, you know!
+Dialogue: 0,1:07:52.27,1:07:53.98,Default,,0,0,0,,{\i1}The earlier attack…{\i0}
+Dialogue: 0,1:07:54.82,1:07:56.65,Default,,0,0,0,,{\i1}This is what he was aiming for.{\i0}
+Dialogue: 0,1:07:58.07,1:07:59.20,Default,,0,0,0,,I'll remember that.
+Dialogue: 0,1:08:00.03,1:08:01.41,Default,,0,0,0,,Are you ready to go?
+Dialogue: 0,1:08:01.49,1:08:03.99,Default,,0,0,0,,Can't have my subordinates taking risks
+Dialogue: 0,1:08:04.08,1:08:07.66,Default,,0,0,0,,without me, the captain,\Nsurpassing my limits first, can I?
+Dialogue: 0,1:08:07.75,1:08:09.21,Default,,0,0,0,,Right, you guys?
+Dialogue: 0,1:08:10.75,1:08:12.75,Default,,0,0,0,,You don't need to tell me.
+Dialogue: 0,1:08:14.50,1:08:18.17,Default,,0,0,0,,We will show you the might\Nof the Magic Knights Squads, here and now!
+Dialogue: 0,1:08:18.26,1:08:20.17,Default,,0,0,0,,Yuno! We will back you up!
+Dialogue: 0,1:08:22.01,1:08:24.05,Default,,0,0,0,,You focus on attacking!
+Dialogue: 0,1:08:33.65,1:08:34.90,Default,,0,0,0,,Uh-huh?
+Dialogue: 0,1:08:35.44,1:08:38.40,Default,,0,0,0,,Don't make me yawn,\Nyou nearly dead idiots.
+Dialogue: 0,1:08:39.07,1:08:43.32,Default,,0,0,0,,These guys here have been kept alive
+Dialogue: 0,1:08:43.41,1:08:47.45,Default,,0,0,0,,so that we could suck their magical power\Nto fuel the fortress.
+Dialogue: 0,1:08:47.54,1:08:52.79,Default,,0,0,0,,They have little magical power left.
+Dialogue: 0,1:08:53.29,1:08:54.29,Default,,0,0,0,,And?
+Dialogue: 0,1:08:54.38,1:08:57.04,Default,,0,0,0,,Is your grit going to help\Nregain your magical power?
+Dialogue: 0,1:08:57.88,1:09:00.30,Default,,0,0,0,,Huh? Surpassing limits?
+Dialogue: 0,1:09:00.38,1:09:03.30,Default,,0,0,0,,You can't get strong that quickly!
+Dialogue: 0,1:09:06.05,1:09:09.35,Default,,0,0,0,,You called yourself Wizard King\Nwhen you didn't even know that?
+Dialogue: 0,1:09:10.27,1:09:11.31,Default,,0,0,0,,Unbelievable.
+Dialogue: 0,1:09:12.89,1:09:15.81,Default,,0,0,0,,Bring it on, bastards!
+Dialogue: 0,1:09:15.90,1:09:19.86,Default,,0,0,0,,Flame Magic: Prison Death Scattershot!
+Dialogue: 0,1:09:44.68,1:09:45.93,Default,,0,0,0,,Here it is! Grey!
+Dialogue: 0,1:09:46.68,1:09:48.85,Default,,0,0,0,,Okay!
+Dialogue: 0,1:09:48.93,1:09:51.39,Default,,0,0,0,,Magic Conversion!
+Dialogue: 0,1:10:08.66,1:10:11.20,Default,,0,0,0,,Thank you…
+Dialogue: 0,1:10:11.29,1:10:13.91,Default,,0,0,0,,{\i1}I can't use strong magic,{\i0}
+Dialogue: 0,1:10:14.00,1:10:16.00,Default,,0,0,0,,{\i1}but I can manage this much{\i0}\N{\i1}without my grimoire…{\i0}
+Dialogue: 0,1:10:16.08,1:10:18.21,Default,,0,0,0,,Looks like we can handle this.
+Dialogue: 0,1:10:18.83,1:10:19.67,Default,,0,0,0,,Right.
+Dialogue: 0,1:10:19.75,1:10:23.13,Default,,0,0,0,,The revived Wizard Kings\Nand the magic to destroy this kingdom…
+Dialogue: 0,1:10:23.21,1:10:26.13,Default,,0,0,0,,If Asta can touch the Imperial Sword\Nwith his Demon-Slayer Sword,
+Dialogue: 0,1:10:26.22,1:10:27.64,Default,,0,0,0,,they can all be neutralized.
+Dialogue: 0,1:10:28.22,1:10:31.31,Default,,0,0,0,,All we have to do is to stop them\Nuntil he can do that!
+Dialogue: 0,1:10:33.22,1:10:34.56,Default,,0,0,0,,How pitiful…
+Dialogue: 0,1:10:36.06,1:10:37.77,Default,,0,0,0,,I'm saying this for your sake.
+Dialogue: 0,1:10:37.85,1:10:39.06,Default,,0,0,0,,Surrender now.
+Dialogue: 0,1:10:39.15,1:10:43.94,Default,,0,0,0,,And, please, leave\Nand go somewhere out of our sight.
+Dialogue: 0,1:10:45.07,1:10:46.90,Default,,0,0,0,,That's mighty nice of you.
+Dialogue: 0,1:10:47.49,1:10:51.49,Default,,0,0,0,,Isn't it your purpose to kill us off?
+Dialogue: 0,1:10:51.58,1:10:58.17,Default,,0,0,0,,If you were nobles and royals\Nwho only think of benefitting themselves,
+Dialogue: 0,1:10:58.25,1:11:00.00,Default,,0,0,0,,then I'd have no mercy for you.
+Dialogue: 0,1:11:00.67,1:11:05.17,Default,,0,0,0,,But your hearts aren't impure like theirs.
+Dialogue: 0,1:11:05.71,1:11:06.63,Default,,0,0,0,,Retreat now!
+Dialogue: 0,1:11:07.22,1:11:09.68,Default,,0,0,0,,If you promise not to get in our way,
+Dialogue: 0,1:11:09.76,1:11:11.43,Default,,0,0,0,,I will let you go.
+Dialogue: 0,1:11:12.93,1:11:14.43,Default,,0,0,0,,That means,
+Dialogue: 0,1:11:14.52,1:11:17.60,Default,,0,0,0,,"Just shut up and watch\Nas this country breaks apart," right?
+Dialogue: 0,1:11:18.35,1:11:19.19,Default,,0,0,0,,In that case…
+Dialogue: 0,1:11:19.90,1:11:22.69,Default,,0,0,0,,We would not retreat even if it kills us!
+Dialogue: 0,1:11:25.78,1:11:28.53,Default,,0,0,0,,Being foolish is… pitiful.
+Dialogue: 0,1:11:30.03,1:11:34.16,Default,,0,0,0,,Ice Wedge Magic: World End Church.
+Dialogue: 0,1:11:42.50,1:11:47.34,Default,,0,0,0,,And here you thought you could beat me\Nwith this level of magical power.
+Dialogue: 0,1:11:47.97,1:11:49.59,Default,,0,0,0,,My mana zone allows me
+Dialogue: 0,1:11:49.68,1:11:53.35,Default,,0,0,0,,to lower the temperature\Nof a space to below freezing!
+Dialogue: 0,1:11:56.06,1:12:01.06,Default,,0,0,0,,Amateurs won't be able\Nto even breathe in this space!
+Dialogue: 0,1:12:05.57,1:12:07.48,Default,,0,0,0,,Move…
+Dialogue: 0,1:12:07.57,1:12:09.11,Default,,0,0,0,,I don't understand.
+Dialogue: 0,1:12:09.19,1:12:12.49,Default,,0,0,0,,You were also oppressed by this world.
+Dialogue: 0,1:12:12.57,1:12:15.49,Default,,0,0,0,,Why do you reject our ideas?!
+Dialogue: 0,1:12:15.58,1:12:17.24,Default,,0,0,0,,Don't underestimate us…
+Dialogue: 0,1:12:18.08,1:12:21.50,Default,,0,0,0,,Everyone's giving their all to survive.
+Dialogue: 0,1:12:21.58,1:12:24.46,Default,,0,0,0,,Even if it's hard, they're not giving up!
+Dialogue: 0,1:12:25.09,1:12:30.01,Default,,0,0,0,,You have no right to take away\Nthe lives of people like that!
+Dialogue: 0,1:12:32.59,1:12:33.43,Default,,0,0,0,,Indeed.
+Dialogue: 0,1:12:34.51,1:12:37.14,Default,,0,0,0,,{\i1}No one has the right to do so.{\i0}
+Dialogue: 0,1:12:37.77,1:12:39.85,Default,,0,0,0,,And that's why I must do what I must.
+Dialogue: 0,1:12:40.56,1:12:43.44,Default,,0,0,0,,In order to create a world\Nwhere those without magic
+Dialogue: 0,1:12:43.52,1:12:46.32,Default,,0,0,0,,and outsiders can smile as they live!
+Dialogue: 0,1:12:46.40,1:12:48.53,Default,,0,0,0,,But that doesn't justify--
+Dialogue: 0,1:12:50.03,1:12:52.86,Default,,0,0,0,,Being weak is also pitiful.
+Dialogue: 0,1:12:57.53,1:12:59.75,Default,,0,0,0,,Legion Magic: Blink Castling.
+Dialogue: 0,1:13:05.33,1:13:09.38,Default,,0,0,0,,It's useless. You will never reach me.
+Dialogue: 0,1:13:14.22,1:13:15.64,Default,,0,0,0,,Go to sleep.
+Dialogue: 0,1:13:16.43,1:13:17.64,Default,,0,0,0,,I refuse.
+Dialogue: 0,1:13:18.72,1:13:21.64,Default,,0,0,0,,I just need to burn everything down.
+Dialogue: 0,1:13:22.60,1:13:23.85,Default,,0,0,0,,Mana Zone…
+Dialogue: 0,1:13:23.94,1:13:24.94,Default,,0,0,0,,Full Release!
+Dialogue: 0,1:13:25.73,1:13:26.90,Default,,0,0,0,,Flame Magic…
+Dialogue: 0,1:13:28.82,1:13:30.19,Default,,0,0,0,,Calidos Brachium…
+Dialogue: 0,1:13:31.61,1:13:32.86,Default,,0,0,0,,Purgatory!
+Dialogue: 0,1:13:39.37,1:13:40.41,Default,,0,0,0,,Now!
+Dialogue: 0,1:13:41.62,1:13:43.54,Default,,0,0,0,,Time to play!
+Dialogue: 0,1:13:54.97,1:13:58.55,Default,,0,0,0,,Your name was Mereoleona, was it?
+Dialogue: 0,1:13:59.26,1:14:01.89,Default,,0,0,0,,You made me use my fist.
+Dialogue: 0,1:14:02.39,1:14:05.81,Default,,0,0,0,,You are very interesting.
+Dialogue: 0,1:14:20.03,1:14:23.08,Default,,0,0,0,,It's not often\Nthat I get to use this on someone.
+Dialogue: 0,1:14:23.91,1:14:26.21,Default,,0,0,0,,Very good, Mereoleona.
+Dialogue: 0,1:14:26.29,1:14:28.33,Default,,0,0,0,,I will admit it.
+Dialogue: 0,1:14:28.42,1:14:29.84,Default,,0,0,0,,You are strong!
+Dialogue: 0,1:14:30.46,1:14:34.13,Default,,0,0,0,,But not as strong as me!
+Dialogue: 0,1:14:37.63,1:14:39.14,Default,,0,0,0,,What are we going to do, Yuno?
+Dialogue: 0,1:14:39.22,1:14:41.72,Default,,0,0,0,,At this rate,\NYami and the others won't last.
+Dialogue: 0,1:14:41.81,1:14:42.68,Default,,0,0,0,,I know!
+Dialogue: 0,1:14:51.11,1:14:52.40,Default,,0,0,0,,Captain Nozel!
+Dialogue: 0,1:14:55.86,1:14:58.61,Default,,0,0,0,,Yuno, don't try to do something you can't.
+Dialogue: 0,1:14:59.11,1:15:00.53,Default,,0,0,0,,You are strong.
+Dialogue: 0,1:15:01.24,1:15:03.79,Default,,0,0,0,,Try and face\Nwhat you are capable of right now.
+Dialogue: 0,1:15:05.75,1:15:08.12,Default,,0,0,0,,Don't worry about us.
+Dialogue: 0,1:15:18.05,1:15:20.30,Default,,0,0,0,,Please buy me a little more time!
+Dialogue: 0,1:15:23.85,1:15:25.56,Default,,0,0,0,,I'll finish him with the next blow!
+Dialogue: 0,1:15:32.73,1:15:35.48,Default,,0,0,0,,Hey, hey, beardy macho man!
+Dialogue: 0,1:15:35.57,1:15:37.90,Default,,0,0,0,,Did you run out of energy at the start?
+Dialogue: 0,1:15:40.36,1:15:42.20,Default,,0,0,0,,Your taste in nicknames is horrible!
+Dialogue: 0,1:15:44.62,1:15:46.12,Default,,0,0,0,,No matter how you look at it,
+Dialogue: 0,1:15:46.20,1:15:49.79,Default,,0,0,0,,I'm obviously more of\Na "cute and girly" kind of macho!
+Dialogue: 0,1:16:22.78,1:16:24.24,Default,,0,0,0,,Don't you know any other moves?
+Dialogue: 0,1:16:32.08,1:16:33.00,Default,,0,0,0,,{\i1}This guy…{\i0}
+Dialogue: 0,1:16:33.58,1:16:37.00,Default,,0,0,0,,{\i1}He's pouring all his magical power{\i0}\N{\i1}into this blow!{\i0}
+Dialogue: 0,1:16:46.18,1:16:48.06,Default,,0,0,0,,You powered your way through after all.
+Dialogue: 0,1:16:48.93,1:16:51.39,Default,,0,0,0,,A rather unrefined move, Pretty Boy!
+Dialogue: 0,1:17:01.99,1:17:05.66,Default,,0,0,0,,Aren't you interesting?!
+Dialogue: 0,1:17:20.30,1:17:26.01,Default,,0,0,0,,So you've been protecting\Nthis land all these years…
+Dialogue: 0,1:17:28.81,1:17:30.31,Default,,0,0,0,,Lemiel.
+Dialogue: 0,1:17:30.39,1:17:32.73,Default,,0,0,0,,The world you envisioned,
+Dialogue: 0,1:17:33.81,1:17:36.15,Default,,0,0,0,,I will make it come true.
+Dialogue: 0,1:17:38.32,1:17:41.49,Default,,0,0,0,,Conrad!
+Dialogue: 0,1:17:42.57,1:17:46.03,Default,,0,0,0,,So you've arrived, Asta!
+Dialogue: 0,1:17:48.45,1:17:51.12,Default,,0,0,0,,You were a little too late, Asta.
+Dialogue: 0,1:17:54.04,1:17:54.87,Default,,0,0,0,,This is…
+Dialogue: 0,1:17:54.96,1:17:55.87,Default,,0,0,0,,Stop!
+Dialogue: 0,1:17:55.96,1:17:57.38,Default,,0,0,0,,…the end.
+Dialogue: 0,1:18:05.80,1:18:10.22,Default,,0,0,0,,And a new beginning for this world!
+Dialogue: 0,1:18:36.42,1:18:38.17,Default,,0,0,0,,Give up, Asta.
+Dialogue: 0,1:18:38.25,1:18:41.92,Default,,0,0,0,,I drove the magic of the Imperial Sword\Ninto the singular point.
+Dialogue: 0,1:18:42.00,1:18:46.76,Default,,0,0,0,,No one can stop\Nthe destruction of this kingdom!
+Dialogue: 0,1:18:52.39,1:18:53.77,Default,,0,0,0,,Not yet!
+Dialogue: 0,1:18:55.02,1:18:57.94,Default,,0,0,0,,I'll pull that sword out\Nand kick your butt!
+Dialogue: 0,1:18:58.48,1:19:00.31,Default,,0,0,0,,I'm really persistent.
+Dialogue: 0,1:19:00.40,1:19:03.15,Default,,0,0,0,,If I decide to do something,\NI'll do it even if it kills me!
+Dialogue: 0,1:19:03.23,1:19:05.44,Default,,0,0,0,,It's you who should give up!
+Dialogue: 0,1:19:06.15,1:19:09.78,Default,,0,0,0,,Then you understand me, Asta.
+Dialogue: 0,1:19:13.87,1:19:17.21,Default,,0,0,0,,-Never giving up is my magic!\N-Never giving up is my magic!
+Dialogue: 0,1:19:24.59,1:19:27.72,Default,,0,0,0,,If someone like you had been around me,
+Dialogue: 0,1:19:27.80,1:19:30.97,Default,,0,0,0,,then my loneliness\Nmay not have been as bad,
+Dialogue: 0,1:19:32.68,1:19:34.72,Default,,0,0,0,,Mereoleona.
+Dialogue: 0,1:19:41.52,1:19:42.36,Default,,0,0,0,,Hey.
+Dialogue: 0,1:19:46.86,1:19:48.11,Default,,0,0,0,,The battle…
+Dialogue: 0,1:19:50.70,1:19:52.70,Default,,0,0,0,,is not over yet!
+Dialogue: 0,1:19:57.41,1:19:58.33,Default,,0,0,0,,{\i1}Impossible!{\i0}
+Dialogue: 0,1:19:58.41,1:19:59.62,Default,,0,0,0,,{\i1}Her power increased?!{\i0}
+Dialogue: 0,1:20:00.54,1:20:01.37,Default,,0,0,0,,You!
+Dialogue: 0,1:20:02.00,1:20:03.38,Default,,0,0,0,,How can you still move?
+Dialogue: 0,1:20:06.17,1:20:07.30,Default,,0,0,0,,Ugh, Big-sis-leon.
+Dialogue: 0,1:20:07.38,1:20:08.97,Default,,0,0,0,,What's up! Lady Mereoleona!
+Dialogue: 0,1:20:09.05,1:20:11.13,Default,,0,0,0,,Good morning, big sister!
+Dialogue: 0,1:20:11.22,1:20:13.43,Default,,0,0,0,,Good morning, Lady Mereoleona!
+Dialogue: 0,1:20:14.81,1:20:15.68,Default,,0,0,0,,Big sister!
+Dialogue: 0,1:20:20.73,1:20:21.94,Default,,0,0,0,,It's my grit!
+Dialogue: 0,1:20:23.56,1:20:24.90,Default,,0,0,0,,Also,
+Dialogue: 0,1:20:24.98,1:20:27.57,Default,,0,0,0,,if I kick the bucket in a place like this,
+Dialogue: 0,1:20:28.36,1:20:32.32,Default,,0,0,0,,they'll surely laugh at me!
+Dialogue: 0,1:20:50.26,1:20:51.97,Default,,0,0,0,,And one more thing!
+Dialogue: 0,1:20:53.13,1:20:55.26,Default,,0,0,0,,Unless I stay the strongest,
+Dialogue: 0,1:20:56.39,1:21:01.06,Default,,0,0,0,,I won't be able to call\Na certain someone "my rival"!
+Dialogue: 0,1:21:03.65,1:21:07.02,Default,,0,0,0,,Drawing strength from your comrades…
+Dialogue: 0,1:21:07.52,1:21:10.82,Default,,0,0,0,,That sure is a trick I'll never learn.
+Dialogue: 0,1:21:11.40,1:21:12.40,Default,,0,0,0,,However…
+Dialogue: 0,1:21:15.70,1:21:17.58,Default,,0,0,0,,Well done, Mereoleona.
+Dialogue: 0,1:21:18.54,1:21:21.08,Default,,0,0,0,,To think that I'd lose in a fist fight.
+Dialogue: 0,1:21:22.25,1:21:23.42,Default,,0,0,0,,You just might be
+Dialogue: 0,1:21:24.42,1:21:27.88,Default,,0,0,0,,strong enough to fight me\Nwhen I go all out!
+Dialogue: 0,1:21:29.38,1:21:33.05,Default,,0,0,0,,Oh man, you're really strong.
+Dialogue: 0,1:21:33.13,1:21:35.59,Default,,0,0,0,,You even made me use my trump card.
+Dialogue: 0,1:21:36.34,1:21:39.10,Default,,0,0,0,,Had I met you when I was the Wizard King,
+Dialogue: 0,1:21:39.18,1:21:41.85,Default,,0,0,0,,I might have made you my advisers.
+Dialogue: 0,1:21:41.93,1:21:43.10,Default,,0,0,0,,Maybe!
+Dialogue: 0,1:21:46.19,1:21:48.94,Default,,0,0,0,,You are wrong!
+Dialogue: 0,1:21:50.53,1:21:51.86,Default,,0,0,0,,Don't give me that crap.
+Dialogue: 0,1:21:51.94,1:21:57.87,Default,,0,0,0,,No one knows\Nwhat's right and what's wrong!
+Dialogue: 0,1:21:58.58,1:22:00.24,Default,,0,0,0,,We're the same as you!
+Dialogue: 0,1:22:00.83,1:22:06.12,Default,,0,0,0,,Conrad and I, we fight for our beliefs!
+Dialogue: 0,1:22:09.09,1:22:10.50,Default,,0,0,0,,I get that!
+Dialogue: 0,1:22:10.59,1:22:13.72,Default,,0,0,0,,In a fight like this,\Nthere's no right or wrong!
+Dialogue: 0,1:22:15.51,1:22:17.39,Default,,0,0,0,,But to protect what matters to us…
+Dialogue: 0,1:22:19.10,1:22:21.39,Default,,0,0,0,,we both plant our feet and fight!
+Dialogue: 0,1:22:21.97,1:22:22.97,Default,,0,0,0,,Combo Spell…
+Dialogue: 0,1:22:23.48,1:22:24.94,Default,,0,0,0,,Dimension Slash!
+Dialogue: 0,1:22:25.48,1:22:26.73,Default,,0,0,0,,Scorching Light!
+Dialogue: 0,1:22:40.87,1:22:41.91,Default,,0,0,0,,I won't lose…
+Dialogue: 0,1:22:42.74,1:22:45.79,Default,,0,0,0,,I won't lose to something like this!
+Dialogue: 0,1:22:45.87,1:22:47.54,Default,,0,0,0,,That's too bad!
+Dialogue: 0,1:22:47.62,1:22:50.13,Default,,0,0,0,,Asta, I'm borrowing your skill!
+Dialogue: 0,1:22:51.13,1:22:54.80,Default,,0,0,0,,I hate losing more than anything too!
+Dialogue: 0,1:23:11.56,1:23:13.32,Default,,0,0,0,,Whatever.
+Dialogue: 0,1:23:13.90,1:23:17.07,Default,,0,0,0,,I don't care about preserving\Nmagical powers for the fortress anymore.
+Dialogue: 0,1:23:17.95,1:23:23.83,Default,,0,0,0,,I'll use all my power to crush you all!
+Dialogue: 0,1:23:31.63,1:23:33.42,Default,,0,0,0,,Reconsider, Asta.
+Dialogue: 0,1:23:34.80,1:23:38.84,Default,,0,0,0,,This crazy world is not worth protecting.
+Dialogue: 0,1:23:39.68,1:23:43.60,Default,,0,0,0,,Let's build a new world together!
+Dialogue: 0,1:23:48.18,1:23:50.77,Default,,0,0,0,,I don't care about your new world!
+Dialogue: 0,1:23:51.44,1:23:54.36,Default,,0,0,0,,My dream is to become the Wizard King!
+Dialogue: 0,1:23:55.03,1:23:55.86,Default,,0,0,0,,Nonsense.
+Dialogue: 0,1:23:56.69,1:24:00.07,Default,,0,0,0,,Becoming a Wizard King in this world\Nwill change nothing.
+Dialogue: 0,1:24:01.82,1:24:02.95,Default,,0,0,0,,That's right.
+Dialogue: 0,1:24:03.03,1:24:04.24,Default,,0,0,0,,Nothing…
+Dialogue: 0,1:24:43.49,1:24:46.08,Default,,0,0,0,,All routes are shut down.
+Dialogue: 0,1:24:47.41,1:24:49.91,Default,,0,0,0,,Your sword will never reach me.
+Dialogue: 0,1:24:50.75,1:24:52.17,Default,,0,0,0,,No matter how you struggle,
+Dialogue: 0,1:24:52.25,1:24:54.50,Default,,0,0,0,,this is your limit.
+Dialogue: 0,1:24:56.25,1:24:58.42,Default,,0,0,0,,I'll say it one last time.
+Dialogue: 0,1:24:59.17,1:25:00.84,Default,,0,0,0,,Come with us, Asta.
+Dialogue: 0,1:25:02.84,1:25:05.39,Default,,0,0,0,,You can be my successor.
+Dialogue: 0,1:25:06.14,1:25:08.47,Default,,0,0,0,,Become the Wizard King in the new world.
+Dialogue: 0,1:25:15.31,1:25:17.44,Default,,0,0,0,,Not in a million years!
+Dialogue: 0,1:25:17.52,1:25:20.69,Default,,0,0,0,,Someone can't turn you\Ninto the Wizard King.
+Dialogue: 0,1:25:20.78,1:25:23.32,Default,,0,0,0,,You become one on your own merits!
+Dialogue: 0,1:25:23.40,1:25:26.28,Default,,0,0,0,,And there is a way!
+Dialogue: 0,1:25:27.99,1:25:29.37,Default,,0,0,0,,If there isn't,
+Dialogue: 0,1:25:31.04,1:25:32.66,Default,,0,0,0,,I'll make one!
+Dialogue: 0,1:25:37.21,1:25:42.05,Default,,0,0,0,,I've always been told\Nto surpass my limits!
+Dialogue: 0,1:25:48.89,1:25:51.72,Default,,0,0,0,,That was a good hit.
+Dialogue: 0,1:25:52.52,1:25:54.56,Default,,0,0,0,,So I didn't parry and took it.
+Dialogue: 0,1:25:55.65,1:25:57.98,Default,,0,0,0,,Along with your ambition.
+Dialogue: 0,1:26:00.07,1:26:02.57,Default,,0,0,0,,But playtime is over, Asta.
+Dialogue: 0,1:26:03.24,1:26:05.74,Default,,0,0,0,,If we can't walk the same path together,
+Dialogue: 0,1:26:05.82,1:26:08.32,Default,,0,0,0,,then there is no point\Nin holding back anymore.
+Dialogue: 0,1:26:08.41,1:26:09.78,Default,,0,0,0,,Asta.
+Dialogue: 0,1:26:09.87,1:26:15.83,Default,,0,0,0,,The biggest reason I asked you to join us\Nis not because of your power.
+Dialogue: 0,1:26:16.50,1:26:19.67,Default,,0,0,0,,Nor is it because\Nyou were in the same boat as me.
+Dialogue: 0,1:26:20.67,1:26:23.72,Default,,0,0,0,,I wanted you,\Nwho has the same ambition as me,
+Dialogue: 0,1:26:23.80,1:26:25.76,Default,,0,0,0,,to be rewarded!
+Dialogue: 0,1:26:27.01,1:26:30.56,Default,,0,0,0,,But I was not able\Nto open your eyes to the truth.
+Dialogue: 0,1:26:32.10,1:26:33.35,Default,,0,0,0,,How regrettable…
+Dialogue: 0,1:27:14.72,1:27:16.64,Default,,0,0,0,,{\i1}I'm neutralizing him with my Anti-Magic,{\i0}
+Dialogue: 0,1:27:17.48,1:27:18.65,Default,,0,0,0,,{\i1}but I can't keep up!{\i0}
+Dialogue: 0,1:27:23.23,1:27:24.48,Default,,0,0,0,,Now!
+Dialogue: 0,1:27:28.11,1:27:29.53,Default,,0,0,0,,I've been waiting
+Dialogue: 0,1:27:30.11,1:27:33.53,Default,,0,0,0,,for the moment you'd take it easy\Nand drop your guard!
+Dialogue: 0,1:27:33.62,1:27:36.04,Default,,0,0,0,,Exploding Fireball!
+Dialogue: 0,1:27:37.25,1:27:40.75,Default,,0,0,0,,From there, Flame Bondage Formation!
+Dialogue: 0,1:27:43.54,1:27:44.92,Default,,0,0,0,,Full Reflection!
+Dialogue: 0,1:27:52.01,1:27:54.10,Default,,0,0,0,,Ice Wedge Magic…
+Dialogue: 0,1:27:54.64,1:27:56.64,Default,,0,0,0,,World End Martyr!
+Dialogue: 0,1:28:03.98,1:28:05.57,Default,,0,0,0,,This is what…
+Dialogue: 0,1:28:06.40,1:28:08.86,Default,,0,0,0,,"taking it easy" means!
+Dialogue: 0,1:28:12.41,1:28:15.70,Default,,0,0,0,,You learn something new every day,\Ndon't you, young one?
+Dialogue: 0,1:28:17.08,1:28:18.71,Default,,0,0,0,,Thanks for nothing, old fart!
+Dialogue: 0,1:28:19.71,1:28:21.46,Default,,0,0,0,,{\i1}Hurry up, Asta!{\i0}
+Dialogue: 0,1:28:21.54,1:28:24.34,Default,,0,0,0,,{\i1}Our magic won't last much longer!{\i0}
+Dialogue: 0,1:28:25.55,1:28:27.34,Default,,0,0,0,,Black Hurricane!
+Dialogue: 0,1:28:29.67,1:28:33.09,Default,,0,0,0,,It's admirable how you can\Nkeep your spirits up,
+Dialogue: 0,1:28:33.18,1:28:35.35,Default,,0,0,0,,but your movements are getting slow!
+Dialogue: 0,1:28:38.98,1:28:41.10,Default,,0,0,0,,One Horn Bull Thrust!
+Dialogue: 0,1:28:47.69,1:28:50.49,Default,,0,0,0,,No matter how much you struggle,
+Dialogue: 0,1:28:51.11,1:28:53.49,Default,,0,0,0,,this gap between us will never be filled!
+Dialogue: 0,1:28:54.70,1:28:57.12,Default,,0,0,0,,This is the power of the Wizard King!
+Dialogue: 0,1:29:03.88,1:29:05.25,Default,,0,0,0,,I will never…
+Dialogue: 0,1:29:05.88,1:29:10.55,Default,,0,0,0,,acknowledge a guy like you\Nas the Wizard King!
+Dialogue: 0,1:29:11.72,1:29:15.14,Default,,0,0,0,,{\i1}Crap, if I let my guard down,{\i0}\N{\i1}my Black form will become undone.{\i0}
+Dialogue: 0,1:29:15.64,1:29:18.77,Default,,0,0,0,,{\i1}I need to land a hit{\i0}\N{\i1}with everything I've got left!{\i0}
+Dialogue: 0,1:29:18.85,1:29:22.10,Default,,0,0,0,,Stop seeing your dreams\Nin the Wizard King!
+Dialogue: 0,1:29:22.19,1:29:24.77,Default,,0,0,0,,No one, not even the first Wizard King,
+Dialogue: 0,1:29:24.85,1:29:28.78,Default,,0,0,0,,has been able to bring\Nrevolution to this kingdom.
+Dialogue: 0,1:29:28.86,1:29:31.57,Default,,0,0,0,,In fact, far from changing the nation,
+Dialogue: 0,1:29:31.65,1:29:35.03,Default,,0,0,0,,Julius ended up getting beaten\Nby the Elves in the earlier war,
+Dialogue: 0,1:29:35.11,1:29:39.04,Default,,0,0,0,,and the Clover Kingdom\Nalmost faced its doom.
+Dialogue: 0,1:29:39.12,1:29:42.16,Default,,0,0,0,,They can't protect anything.\NThey can't change anything.
+Dialogue: 0,1:29:42.25,1:29:45.67,Default,,0,0,0,,Wizard Kings are utterly useless!
+Dialogue: 0,1:29:46.79,1:29:48.17,Default,,0,0,0,,That's not true…
+Dialogue: 0,1:29:50.92,1:29:56.05,Default,,0,0,0,,The current Wizard King protected\Nall the citizens in exchange for his life!
+Dialogue: 0,1:29:56.59,1:29:58.30,Default,,0,0,0,,Same with the first Wizard King!
+Dialogue: 0,1:29:58.39,1:30:01.68,Default,,0,0,0,,He protected everyone\Nat the expense of his life,
+Dialogue: 0,1:30:01.77,1:30:03.94,Default,,0,0,0,,and even after that,\Nfor hundreds of years,
+Dialogue: 0,1:30:04.52,1:30:06.81,Default,,0,0,0,,he kept on sleeping
+Dialogue: 0,1:30:07.69,1:30:11.98,Default,,0,0,0,,so he could help us and this country!
+Dialogue: 0,1:30:16.24,1:30:22.20,Default,,0,0,0,,{\i1}Clover leaves each represent{\i0}\N{\i1}faith, hope, and love.{\i0}
+Dialogue: 0,1:30:23.16,1:30:25.87,Default,,0,0,0,,{\i1}Within the fourth leaf dwells good luck.{\i0}
+Dialogue: 0,1:30:27.04,1:30:30.29,Default,,0,0,0,,{\i1}In the fifth leaf resides the devil.{\i0}
+Dialogue: 0,1:30:33.80,1:30:36.01,Default,,0,0,0,,Is he about to die again?
+Dialogue: 0,1:30:36.59,1:30:38.64,Default,,0,0,0,,Man, what a piece of work.
+Dialogue: 0,1:30:38.72,1:30:42.85,Default,,0,0,0,,I guess I'll get the payment\Nin a lump sum later.
+Dialogue: 0,1:30:46.56,1:30:48.06,Default,,0,0,0,,You became the Wizard King
+Dialogue: 0,1:30:48.15,1:30:52.11,Default,,0,0,0,,because a lot of people acknowledged you,\Ndidn't you?
+Dialogue: 0,1:30:52.94,1:30:56.24,Default,,0,0,0,,Betraying those people\Nmakes you unfit to be one!
+Dialogue: 0,1:30:57.32,1:30:58.95,Default,,0,0,0,,I won't acknowledge you!
+Dialogue: 0,1:31:00.91,1:31:05.04,Default,,0,0,0,,Wizard Kings inspire people!
+Dialogue: 0,1:31:05.71,1:31:09.00,Default,,0,0,0,,They can be someone's hopes and dreams!
+Dialogue: 0,1:31:09.08,1:31:11.13,Default,,0,0,0,,They are not useless at all!
+Dialogue: 0,1:31:13.59,1:31:17.51,Default,,0,0,0,,You don't understand\Nthe true nature of this country yet.
+Dialogue: 0,1:31:18.18,1:31:21.60,Default,,0,0,0,,The discrimination and prejudice\Nrampant in this country
+Dialogue: 0,1:31:21.68,1:31:25.27,Default,,0,0,0,,have crushed people's dreams\Nand hopes again and again!
+Dialogue: 0,1:31:25.35,1:31:29.65,Default,,0,0,0,,Unless we make a fundamental change,\Nthis country will not change!
+Dialogue: 0,1:31:30.23,1:31:32.69,Default,,0,0,0,,That's not for you to decide!
+Dialogue: 0,1:31:33.61,1:31:34.48,Default,,0,0,0,,Right now,
+Dialogue: 0,1:31:34.57,1:31:37.57,Default,,0,0,0,,regardless of their social status,\Neveryone from peasants to royals
+Dialogue: 0,1:31:37.65,1:31:41.32,Default,,0,0,0,,is working hard together\Nto make this a better country!
+Dialogue: 0,1:31:41.87,1:31:43.66,Default,,0,0,0,,So don't get in our way!
+Dialogue: 0,1:31:43.74,1:31:46.91,Default,,0,0,0,,A country cannot change\Nwith such simple measures!
+Dialogue: 0,1:31:47.00,1:31:49.50,Default,,0,0,0,,Don't get in my way!
+Dialogue: 0,1:31:54.50,1:31:57.55,Default,,0,0,0,,What the hell?\NI'm not sure what's going on,
+Dialogue: 0,1:31:57.63,1:32:00.97,Default,,0,0,0,,but I feel like\NI finally got to talk to the real you.
+Dialogue: 0,1:32:02.14,1:32:03.30,Default,,0,0,0,,Shut up.
+Dialogue: 0,1:32:04.01,1:32:09.23,Default,,0,0,0,,I'm no longer interested in listening to\Npipe dreams from a kid who knows nothing!
+Dialogue: 0,1:32:13.81,1:32:17.11,Default,,0,0,0,,{\i1}Crap! My Black form is coming undone!{\i0}
+Dialogue: 0,1:32:17.19,1:32:20.61,Default,,0,0,0,,True, there was a time\Nwhen I trusted the country and its people
+Dialogue: 0,1:32:20.70,1:32:25.87,Default,,0,0,0,,and tried to bring changes\Nto the Clover Kingdom as the Wizard King.
+Dialogue: 0,1:32:25.95,1:32:28.62,Default,,0,0,0,,But people betray you.
+Dialogue: 0,1:32:28.70,1:32:31.12,Default,,0,0,0,,You must know what that's like.
+Dialogue: 0,1:32:31.71,1:32:35.25,Default,,0,0,0,,Just because a small portion\Nof your community changed,
+Dialogue: 0,1:32:35.84,1:32:39.51,Default,,0,0,0,,do you seriously think\Nthat a whole country will change?
+Dialogue: 0,1:32:40.34,1:32:41.84,Default,,0,0,0,,It's not that they change.
+Dialogue: 0,1:32:42.34,1:32:44.51,Default,,0,0,0,,It's that we bring change together!
+Dialogue: 0,1:32:44.60,1:32:46.26,Default,,0,0,0,,The world you're trying to create
+Dialogue: 0,1:32:46.35,1:32:50.85,Default,,0,0,0,,is an egotistical world\Nwhere you're the only one who's laughing!
+Dialogue: 0,1:32:51.35,1:32:54.77,Default,,0,0,0,,I want to laugh with everyone.\NI want to become happy with everyone!
+Dialogue: 0,1:32:55.65,1:32:59.90,Default,,0,0,0,,I will change this country with everyone!
+Dialogue: 0,1:32:59.99,1:33:02.24,Default,,0,0,0,,A country where everyone who lives there
+Dialogue: 0,1:33:02.32,1:33:05.49,Default,,0,0,0,,respects each other\Nand laughs with one another!
+Dialogue: 0,1:33:05.58,1:33:09.50,Default,,0,0,0,,That's what I'm going to create!
+Dialogue: 0,1:33:20.51,1:33:22.68,Default,,0,0,0,,My magic is back!
+Dialogue: 0,1:33:26.01,1:33:27.39,Default,,0,0,0,,Noelle!
+Dialogue: 0,1:33:32.27,1:33:35.31,Default,,0,0,0,,Water Creation Magic: Valkyrie Armor!
+Dialogue: 0,1:33:35.40,1:33:37.06,Default,,0,0,0,,Yeah!
+Dialogue: 0,1:33:37.15,1:33:38.48,Default,,0,0,0,,What a futile struggle.
+Dialogue: 0,1:33:38.98,1:33:42.65,Default,,0,0,0,,You defying us only pushes us\Naway from an ideal world!
+Dialogue: 0,1:33:43.15,1:33:44.86,Default,,0,0,0,,Why can't you see that?!
+Dialogue: 0,1:33:46.91,1:33:49.08,Default,,0,0,0,,An ideal world
+Dialogue: 0,1:33:49.16,1:33:51.66,Default,,0,0,0,,isn't something that's forced upon you.
+Dialogue: 0,1:33:52.16,1:33:54.17,Default,,0,0,0,,It's something you earn yourself!
+Dialogue: 0,1:33:55.17,1:33:56.92,Default,,0,0,0,,Noelle! Look at me!
+Dialogue: 0,1:33:59.17,1:34:00.34,Default,,0,0,0,,Mirror Magic…
+Dialogue: 0,1:34:01.05,1:34:02.67,Default,,0,0,0,,Mirror Brigade!
+Dialogue: 0,1:34:05.55,1:34:08.35,Default,,0,0,0,,{\i1}I used to resent this world as well.{\i0}
+Dialogue: 0,1:34:08.93,1:34:11.52,Default,,0,0,0,,{\i1}I couldn't learn to control{\i0}\N{\i1}my magical powers{\i0}
+Dialogue: 0,1:34:11.60,1:34:13.52,Default,,0,0,0,,{\i1}and was abandoned by my family.{\i0}
+Dialogue: 0,1:34:13.60,1:34:16.73,Default,,0,0,0,,{\i1}I thought I was alone in the world.{\i0}
+Dialogue: 0,1:34:18.02,1:34:20.65,Default,,0,0,0,,{\i1}But I now have friends{\i0}
+Dialogue: 0,1:34:21.57,1:34:24.28,Default,,0,0,0,,{\i1}who make me feel I belong!{\i0}
+Dialogue: 0,1:34:24.82,1:34:26.70,Default,,0,0,0,,{\i1}They accept me with my shortcomings,{\i0}
+Dialogue: 0,1:34:27.95,1:34:32.50,Default,,0,0,0,,{\i1}and they stay right beside me{\i0}\N{\i1}as we move forward!{\i0}
+Dialogue: 0,1:34:33.58,1:34:35.12,Default,,0,0,0,,{\i1}Combo Spell…{\i0}
+Dialogue: 0,1:34:35.96,1:34:37.63,Default,,0,0,0,,{\i1}Mirror Meteo…{\i0}
+Dialogue: 0,1:34:40.92,1:34:41.75,Default,,0,0,0,,{\i1}Dragon!{\i0}
+Dialogue: 0,1:34:45.34,1:34:47.51,Default,,0,0,0,,Magic Conversion!
+Dialogue: 0,1:34:47.59,1:34:49.60,Default,,0,0,0,,Ice to Water!
+Dialogue: 0,1:34:50.93,1:34:52.39,Default,,0,0,0,,Right here, right now…
+Dialogue: 0,1:34:54.23,1:34:55.39,Default,,0,0,0,,{\i1}Fate Manipulation…{\i0}
+Dialogue: 0,1:34:55.48,1:34:56.77,Default,,0,0,0,,{\i1}Absolute Evasion!{\i0}
+Dialogue: 0,1:34:56.85,1:34:59.56,Default,,0,0,0,,{\i1}Spatial Magic: Fallen Angel's Wingbeat!{\i0}
+Dialogue: 0,1:35:00.48,1:35:03.15,Default,,0,0,0,,I will surpass my limits!
+Dialogue: 0,1:35:06.99,1:35:08.28,Default,,0,0,0,,Jeez.
+Dialogue: 0,1:35:08.36,1:35:09.91,Default,,0,0,0,,Just go already!
+Dialogue: 0,1:35:09.99,1:35:12.16,Default,,0,0,0,,Leave it to me!
+Dialogue: 0,1:35:16.25,1:35:18.42,Default,,0,0,0,,The world can be changed.
+Dialogue: 0,1:35:19.04,1:35:21.71,Default,,0,0,0,,Fate can be manipulated!
+Dialogue: 0,1:35:23.05,1:35:25.88,Default,,0,0,0,,I will not let you destroy
+Dialogue: 0,1:35:26.63,1:35:32.68,Default,,0,0,0,,even the possibility of it!
+Dialogue: 0,1:35:49.16,1:35:50.91,Default,,0,0,0,,How about that?
+Dialogue: 0,1:35:50.99,1:35:54.66,Default,,0,0,0,,If that's not enough for you,\Nthen I can do this all day.
+Dialogue: 0,1:35:56.25,1:35:57.08,Default,,0,0,0,,But…
+Dialogue: 0,1:36:00.75,1:36:03.54,Default,,0,0,0,,Start over with us, together.
+Dialogue: 0,1:36:04.96,1:36:06.46,Default,,0,0,0,,I don't mean to boast,
+Dialogue: 0,1:36:07.05,1:36:09.80,Default,,0,0,0,,but I can't do anything\Nwithout everyone's help!
+Dialogue: 0,1:36:10.55,1:36:13.01,Default,,0,0,0,,I nearly died many times,
+Dialogue: 0,1:36:13.10,1:36:16.60,Default,,0,0,0,,but I was able to come this far\Nwith their help!
+Dialogue: 0,1:36:16.68,1:36:17.85,Default,,0,0,0,,Shut up!
+Dialogue: 0,1:36:21.85,1:36:24.90,Default,,0,0,0,,I want to create a world where everyone\Ncan laugh together in a way
+Dialogue: 0,1:36:24.98,1:36:27.49,Default,,0,0,0,,that everyone can accept.
+Dialogue: 0,1:36:29.07,1:36:32.32,Default,,0,0,0,,If you have to kill\Na lot of people to create it,
+Dialogue: 0,1:36:32.82,1:36:35.58,Default,,0,0,0,,no one will accept that!
+Dialogue: 0,1:37:06.27,1:37:08.53,Default,,0,0,0,,You… What is your name?
+Dialogue: 0,1:37:08.61,1:37:11.03,Default,,0,0,0,,Noelle. Noelle Silva.
+Dialogue: 0,1:37:11.11,1:37:13.53,Default,,0,0,0,,From the royal house of Silva…
+Dialogue: 0,1:37:14.49,1:37:15.32,Default,,0,0,0,,I see.
+Dialogue: 0,1:37:16.53,1:37:18.20,Default,,0,0,0,,You're a good girl, Noelle.
+Dialogue: 0,1:37:19.20,1:37:22.96,Default,,0,0,0,,You're a royal, and yet\Nyou can empathize with the weak.
+Dialogue: 0,1:37:24.12,1:37:27.55,Default,,0,0,0,,If a person like you exists,\Nthen surely this world…
+Dialogue: 0,1:37:30.71,1:37:32.55,Default,,0,0,0,,Hey, hey, hey…
+Dialogue: 0,1:37:33.72,1:37:36.30,Default,,0,0,0,,Are you serious, Conrad?
+Dialogue: 0,1:37:38.43,1:37:40.81,Default,,0,0,0,,I can still fight!
+Dialogue: 0,1:37:42.18,1:37:43.35,Default,,0,0,0,,Me too.
+Dialogue: 0,1:37:44.69,1:37:48.23,Default,,0,0,0,,But it looks like\Nit's my turn to go to sleep.
+Dialogue: 0,1:37:49.57,1:37:51.69,Default,,0,0,0,,It was a lot of fun.
+Dialogue: 0,1:37:56.66,1:37:57.49,Default,,0,0,0,,I did it…
+Dialogue: 0,1:37:58.12,1:37:59.03,Default,,0,0,0,,I did it!
+Dialogue: 0,1:37:59.62,1:38:00.45,Default,,0,0,0,,Everyone!
+Dialogue: 0,1:38:02.04,1:38:03.91,Default,,0,0,0,,Not… yet…
+Dialogue: 0,1:38:06.13,1:38:07.71,Default,,0,0,0,,Not yet…
+Dialogue: 0,1:38:10.55,1:38:15.97,Default,,0,0,0,,It's a forbidden spell\Nthat's activated in exchange for my life.
+Dialogue: 0,1:38:17.47,1:38:19.51,Default,,0,0,0,,Doom's Gate.
+Dialogue: 0,1:38:28.61,1:38:31.40,Default,,0,0,0,,I will not give up.
+Dialogue: 0,1:38:31.48,1:38:33.49,Default,,0,0,0,,I will not give up, Asta.
+Dialogue: 0,1:38:48.88,1:38:52.38,Default,,0,0,0,,I will… not give up either.
+Dialogue: 0,1:38:53.67,1:38:56.38,Default,,0,0,0,,I'm going to be the Wizard King.
+Dialogue: 0,1:38:57.43,1:39:01.64,Default,,0,0,0,,In order to be the Wizard King…
+Dialogue: 0,1:39:03.06,1:39:04.39,Default,,0,0,0,,I am!
+Dialogue: 0,1:39:05.06,1:39:08.23,Default,,0,0,0,,Right here!
+Dialogue: 0,1:39:09.48,1:39:10.90,Default,,0,0,0,,Asta!
+Dialogue: 0,1:39:16.99,1:39:18.78,Default,,0,0,0,,Asta, take this.
+Dialogue: 0,1:39:21.24,1:39:22.20,Default,,0,0,0,,The Wizard King!
+Dialogue: 0,1:39:22.99,1:39:25.16,Default,,0,0,0,,You won't need an explanation.
+Dialogue: 0,1:39:25.87,1:39:27.67,Default,,0,0,0,,That sword will show you.
+Dialogue: 0,1:39:28.46,1:39:30.00,Default,,0,0,0,,The future of this nation…
+Dialogue: 0,1:39:30.08,1:39:30.92,Default,,0,0,0,,The space…
+Dialogue: 0,1:39:31.84,1:39:33.00,Default,,0,0,0,,…is in your hands.
+Dialogue: 0,1:39:38.26,1:39:39.09,Default,,0,0,0,,{\i1}I feel it.{\i0}
+Dialogue: 0,1:39:39.97,1:39:42.64,Default,,0,0,0,,{\i1}This is everyone's power!{\i0}
+Dialogue: 0,1:39:43.68,1:39:45.10,Default,,0,0,0,,{\i1}Their hopes and dreams!{\i0}
+Dialogue: 0,1:39:49.69,1:39:50.73,Default,,0,0,0,,{\i1}I feel everyone…{\i0}
+Dialogue: 0,1:39:51.77,1:39:53.11,Default,,0,0,0,,{\i1}everyone is there!{\i0}
+Dialogue: 0,1:39:55.28,1:39:57.70,Default,,0,0,0,,Master Nacht, please stop it!
+Dialogue: 0,1:39:58.45,1:40:03.20,Default,,0,0,0,,You've been working non-stop\Nsince you got back to the Clover Kingdom!
+Dialogue: 0,1:40:03.91,1:40:08.16,Default,,0,0,0,,If you give away your magical power\Non top of that, you'll pass out!
+Dialogue: 0,1:40:08.25,1:40:10.46,Default,,0,0,0,,I don't mind passing out
+Dialogue: 0,1:40:11.96,1:40:15.88,Default,,0,0,0,,if that means someone\Nwho's doing the right thing gets rewarded.
+Dialogue: 0,1:40:18.97,1:40:19.93,Default,,0,0,0,,{\i1}Right here…{\i0}
+Dialogue: 0,1:40:20.63,1:40:21.47,Default,,0,0,0,,{\i1}Right now…{\i0}
+Dialogue: 0,1:40:22.80,1:40:23.80,Default,,0,0,0,,{\i1}Let's all…{\i0}
+Dialogue: 0,1:40:27.06,1:40:30.06,Default,,0,0,0,,surpass our limits.
+Dialogue: 0,1:40:34.61,1:40:35.73,Default,,0,0,0,,The Imperial Sword?
+Dialogue: 0,1:40:36.53,1:40:38.53,Default,,0,0,0,,What is going on?
+Dialogue: 0,1:40:42.07,1:40:43.99,Default,,0,0,0,,Go, Asta!
+Dialogue: 0,1:41:01.59,1:41:04.09,Default,,0,0,0,,With this…
+Dialogue: 0,1:41:14.56,1:41:18.78,Default,,0,0,0,,You bastard, how badly\Ndo you want to destroy this country?!
+Dialogue: 0,1:41:18.86,1:41:20.82,Default,,0,0,0,,Oh, you have no idea!
+Dialogue: 0,1:41:20.90,1:41:22.28,Default,,0,0,0,,It needs to be destroyed!
+Dialogue: 0,1:41:23.07,1:41:25.12,Default,,0,0,0,,This nation is rotten to its core.
+Dialogue: 0,1:41:25.62,1:41:29.16,Default,,0,0,0,,The very foundation of it\Nneeds to be destroyed.
+Dialogue: 0,1:41:29.24,1:41:34.04,Default,,0,0,0,,I have to save everyone. I must!
+Dialogue: 0,1:41:34.12,1:41:39.34,Default,,0,0,0,,Who exactly do you mean by "everyone"?!
+Dialogue: 0,1:41:39.42,1:41:43.13,Default,,0,0,0,,All those who are unreasonably oppressed!
+Dialogue: 0,1:41:43.22,1:41:45.51,Default,,0,0,0,,For their sake, I…
+Dialogue: 0,1:41:57.48,1:41:58.57,Default,,0,0,0,,I will…
+Dialogue: 0,1:41:59.94,1:42:01.40,Default,,0,0,0,,I will…
+Dialogue: 0,1:42:05.53,1:42:08.08,Default,,0,0,0,,Even if you're a peasant\Nor don't have magical power,
+Dialogue: 0,1:42:08.16,1:42:10.58,Default,,0,0,0,,you can be stronger\Nthan anyone else in the world.
+Dialogue: 0,1:42:11.41,1:42:14.08,Default,,0,0,0,,You can be everyone's hope!
+Dialogue: 0,1:42:14.67,1:42:17.50,Default,,0,0,0,,And to prove it…
+Dialogue: 0,1:42:21.59,1:42:22.67,Default,,0,0,0,,I am going to be
+Dialogue: 0,1:42:23.22,1:42:24.84,Default,,0,0,0,,the Wizard King!
+Dialogue: 0,1:42:51.62,1:42:54.96,Default,,0,0,0,,{\i1}Did I… lose?{\i0}
+Dialogue: 0,1:42:56.83,1:42:58.79,Default,,0,0,0,,{\i1}Then why…{\i0}
+Dialogue: 0,1:42:58.88,1:43:02.09,Default,,0,0,0,,{\i1}why do I feel so at ease?{\i0}
+Dialogue: 0,1:43:07.89,1:43:10.01,Default,,0,0,0,,{\i1}Now I see it.{\i0}
+Dialogue: 0,1:43:11.18,1:43:14.27,Default,,0,0,0,,{\i1}Asta. Become the Wizard King.{\i0}
+Dialogue: 0,1:43:14.35,1:43:20.90,Default,,0,0,0,,{\i1}Share that warm world of yours{\i0}\N{\i1}with every citizen in this nation.{\i0}
+Dialogue: 0,1:43:21.90,1:43:24.90,Default,,0,0,0,,{\i1}Never giving up is your magic.{\i0}
+Dialogue: 0,1:43:25.40,1:43:26.57,Default,,0,0,0,,{\i1}I know you can…{\i0}
+Dialogue: 0,1:43:29.91,1:43:31.33,Default,,0,0,0,,{\i1}You all…{\i0}
+Dialogue: 0,1:43:43.00,1:43:44.84,Default,,0,0,0,,{\i1}I see.{\i0}
+Dialogue: 0,1:44:07.65,1:44:09.24,Default,,0,0,0,,Cheerful and honest,
+Dialogue: 0,1:44:09.82,1:44:12.87,Default,,0,0,0,,he knew how to empathize with the peasant.
+Dialogue: 0,1:44:13.53,1:44:18.29,Default,,0,0,0,,Conrad used to be\Na strong, kind man like Asta.
+Dialogue: 0,1:44:19.46,1:44:22.08,Default,,0,0,0,,But he was framed by the royalists,
+Dialogue: 0,1:44:22.17,1:44:25.38,Default,,0,0,0,,and ever since his squad\Nand his wife were slaughtered,
+Dialogue: 0,1:44:26.00,1:44:27.59,Default,,0,0,0,,he changed.
+Dialogue: 0,1:44:30.01,1:44:31.05,Default,,0,0,0,,Asta.
+Dialogue: 0,1:44:31.13,1:44:32.89,Default,,0,0,0,,Thank you for stopping him.
+Dialogue: 0,1:44:34.43,1:44:38.93,Default,,0,0,0,,Why was I able to use\Nthe Imperial Sword at the end?
+Dialogue: 0,1:44:39.02,1:44:39.89,Default,,0,0,0,,What do you mean?
+Dialogue: 0,1:44:39.98,1:44:43.40,Default,,0,0,0,,When I hit the Imperial Sword\Nwith my Demon-Slayer Sword,
+Dialogue: 0,1:44:43.48,1:44:46.11,Default,,0,0,0,,the magic of the Imperial Sword\Nmust've been neutralized.
+Dialogue: 0,1:44:46.98,1:44:48.19,Default,,0,0,0,,So I was wondering…
+Dialogue: 0,1:44:50.07,1:44:52.07,Default,,0,0,0,,Well, that's because…
+Dialogue: 0,1:44:56.24,1:44:58.58,Default,,0,0,0,,{\i1}Generations of Wizard Kings…{\i0}
+Dialogue: 0,1:45:01.33,1:45:05.59,Default,,0,0,0,,…generations of Wizard Kings\Nlent you their miraculous power.
+Dialogue: 0,1:45:05.67,1:45:08.92,Default,,0,0,0,,Wow, that sounds so cool!
+Dialogue: 0,1:45:09.01,1:45:11.34,Default,,0,0,0,,Silly, he's teasing you.
+Dialogue: 0,1:45:11.43,1:45:12.72,Default,,0,0,0,,That's not true!
+Dialogue: 0,1:45:12.80,1:45:15.14,Default,,0,0,0,,{\i1}Generations of Wizard Kings.{\i0}
+Dialogue: 0,1:45:15.22,1:45:19.56,Default,,0,0,0,,{\i1}The clovers responsible for the future{\i0}\N{\i1}of this kingdom are growing up nicely.{\i0}
+Dialogue: 0,1:45:19.64,1:45:22.48,Default,,0,0,0,,-You making fun of Prince Lemiel?\N{\i1}-{\i0}How about it, Asta?
+Dialogue: 0,1:45:23.27,1:45:25.15,Default,,0,0,0,,The Wizard King is incredible, right?
+Dialogue: 0,1:45:25.23,1:45:26.40,Default,,0,0,0,,I knew that, sir!
+Dialogue: 0,1:45:26.48,1:45:29.48,Default,,0,0,0,,And one day,\NI'll be that incredible myself.
+Dialogue: 0,1:45:30.07,1:45:31.61,Default,,0,0,0,,I will become the Wizard King!
+Dialogue: 0,1:49:31.06,1:49:32.85,Default,,0,0,0,,Don't you be slacking here.
+Dialogue: 0,1:49:32.94,1:49:35.23,Default,,0,0,0,,I worked my butt off, you know?!
+Dialogue: 0,1:49:39.19,1:49:41.03,Default,,0,0,0,,The place was a total shambles,
+Dialogue: 0,1:49:41.11,1:49:44.11,Default,,0,0,0,,but it looks like things might be\Nrestored sooner than I thought.
+Dialogue: 0,1:49:44.20,1:49:45.24,Default,,0,0,0,,Yeah.
+Dialogue: 0,1:49:50.04,1:49:52.75,Default,,0,0,0,,Conrad was the Wizard King, too, huh?
+Dialogue: 0,1:49:54.50,1:49:55.33,Default,,0,0,0,,Ouch!
+Dialogue: 0,1:49:56.50,1:49:57.34,Default,,0,0,0,,Not a chance.
+Dialogue: 0,1:49:59.63,1:50:00.46,Default,,0,0,0,,You're right!
+Dialogue: 0,1:50:02.13,1:50:04.26,Default,,0,0,0,,I'm going to be the Wizard King, anyway.
+Dialogue: 0,1:50:04.34,1:50:05.68,Default,,0,0,0,,No, I will!
+Dialogue: 0,1:50:05.76,1:50:07.26,Default,,0,0,0,,I'm going to be the Wizard King!
+Dialogue: 0,1:50:07.85,1:50:09.93,Default,,0,0,0,,-Can't hear you.\N-Don't ignore me!
+Dialogue: 0,1:50:10.02,1:50:11.64,Default,,0,0,0,,Wanna go?
+Dialogue: 0,1:50:11.73,1:50:13.73,Default,,0,0,0,,The Triumph was canceled,
+Dialogue: 0,1:50:13.81,1:50:16.77,Default,,0,0,0,,but you and me gotta settle this match!
+Dialogue: 0,1:50:18.19,1:50:19.27,Default,,0,0,0,,Not a chance.
+Dialogue: 0,1:50:26.87,1:50:29.58,Default,,0,0,0,,I'm going to be the Wizard King!

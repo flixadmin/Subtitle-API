@@ -1,0 +1,2962 @@
+﻿1
+00:00:02,369 --> 00:00:07,136
+BARRY: <i>My name is Barry Allen
+and I am the fastest man alive.</i>
+
+2
+00:00:07,307 --> 00:00:10,800
+<i>When I was a child, I saw my mother killed
+by something impossible.</i>
+
+3
+00:00:10,978 --> 00:00:13,970
+<i>My father went to prison for her murder.</i>
+
+4
+00:00:14,181 --> 00:00:17,378
+<i>Then an accident made me the impossible.</i>
+
+5
+00:00:18,051 --> 00:00:20,748
+<i>To the outside world,
+I'm an ordinary forensic scientist...</i>
+
+6
+00:00:20,921 --> 00:00:25,552
+<i>...but secretly, I use my speed to fight crime
+and find others like me.</i>
+
+7
+00:00:25,726 --> 00:00:30,186
+<i>And one day, I'll find who killed my mother
+and get justice for my father.</i>
+
+8
+00:00:30,364 --> 00:00:32,162
+<i>I am the Flash.</i>
+
+9
+00:00:33,100 --> 00:00:34,659
+NARRATOR:
+<i>Previously</i> on The Flash:
+
+10
+00:00:34,835 --> 00:00:36,929
+CISCO:
+We trapped Reverse-Flash in the force field.
+
+11
+00:00:37,104 --> 00:00:38,868
+The containment shouldn't have failed.
+
+12
+00:00:39,039 --> 00:00:41,440
+-I'm having these dreams.
+-What happens in the dream?
+
+13
+00:00:41,608 --> 00:00:44,703
+CISCO:
+Wells is the Reverse-Flash, and he kills me.
+
+14
+00:00:45,679 --> 00:00:49,582
+If this is Dr. Wells, then who have we been
+working for this whole time?
+
+15
+00:00:49,750 --> 00:00:51,775
+BARRY:
+A completely different person.
+
+16
+00:00:51,952 --> 00:00:54,853
+CAITLIN: Oh, my God.
+-What the frak?
+
+17
+00:00:58,125 --> 00:01:01,117
+CISCO:
+"Flash missing, vanishes in crisis."
+
+18
+00:01:01,295 --> 00:01:04,230
+"After an epic street battle
+with the Reverse—Flash...
+
+19
+00:01:04,398 --> 00:01:10,565
+...our city's very own Scarlet Speedster
+disappeared in an explosion of light."
+
+20
+00:01:10,737 --> 00:01:11,898
+Barry, look at the date.
+
+21
+00:01:13,407 --> 00:01:16,377
+"April 25th, 2024."
+
+22
+00:01:17,878 --> 00:01:20,904
+Guys, when I fought the Reverse-Flash
+at Christmas...
+
+23
+00:01:21,081 --> 00:01:23,448
+...he said that we'd be fighting
+for centuries.
+
+24
+00:01:23,617 --> 00:01:29,613
+Wait, you can't really think
+that this is from...the future.
+
+25
+00:01:29,790 --> 00:01:33,920
+That would mean Dr. Wells,
+whoever he is, is also--
+
+26
+00:01:34,094 --> 00:01:35,823
+From the future.
+
+27
+00:01:35,996 --> 00:01:39,557
+I have to say, I'm really digging
+the brighter red suit.
+
+28
+00:01:39,733 --> 00:01:42,464
+And the white on the symbol, that's dope.
+
+29
+00:01:42,636 --> 00:01:45,799
+Wait a second. Suppose we now
+change the color on your suit.
+
+30
+00:01:45,973 --> 00:01:48,806
+Will it be because we got the idea
+from this picture?
+
+31
+00:01:48,976 --> 00:01:51,843
+That would mean we're living
+in a causal nexus.
+
+32
+00:01:52,012 --> 00:01:55,846
+Wow, this is so trippy.
+Like "Marty and the Polaroid“ trippy.
+
+33
+00:01:57,184 --> 00:01:59,585
+Not as trippy as the name on the byline.
+
+34
+00:02:00,921 --> 00:02:03,856
+"Iris West-Allen"?
+
+35
+00:02:05,525 --> 00:02:06,993
+<i>Maze! tow?</i>
+
+36
+00:02:07,160 --> 00:02:09,857
+GIDEON [OVER SPEAKER]: <i>Hebrew,
+ancient language of the Jewish people.</i>
+
+37
+00:02:10,030 --> 00:02:12,499
+Uh-uh. What the hell was that?
+
+38
+00:02:12,666 --> 00:02:14,634
+Is someone here?
+
+39
+00:02:15,435 --> 00:02:16,869
+Hello?
+
+40
+00:02:17,037 --> 00:02:19,165
+<i>Good evening, Barry Allen.</i>
+
+41
+00:02:19,873 --> 00:02:22,308
+Uh...
+
+42
+00:02:22,476 --> 00:02:23,966
+Hi. You—-?
+
+43
+00:02:24,711 --> 00:02:26,509
+-You know who I am?
+-Of <i>course.</i>
+
+44
+00:02:26,680 --> 00:02:30,275
+<i>Barry Allen.
+Director of Central City Police. 08! Division.</i>
+
+45
+00:02:30,450 --> 00:02:33,283
+-Director?
+-I guess you get a promotion.
+
+46
+00:02:33,453 --> 00:02:36,150
+<i>Also known as the Flash.
+Founding member of--</i>
+
+47
+00:02:36,323 --> 00:02:38,223
+-What <i>are</i> you?
+<i>-I'm Gideon...</i>
+
+48
+00:02:38,392 --> 00:02:40,326
+<i>...an interactive artificial consciousness.</i>
+
+49
+00:02:41,395 --> 00:02:44,558
+AI. Sick.
+
+50
+00:02:45,999 --> 00:02:49,560
+-You know Dr. Wells?
+<i>-Yes.</i>
+
+51
+00:02:52,339 --> 00:02:54,467
+Do you know who he really is?
+
+52
+00:02:54,641 --> 00:02:56,336
+<i>I don't understand the question.</i>
+
+53
+00:02:56,510 --> 00:03:01,539
+[STAMMERS] I mean, what is he doing here?
+Why did he come here?
+
+54
+00:03:03,050 --> 00:03:05,075
+<i>To kill you.</i>
+
+55
+00:03:11,591 --> 00:03:12,752
+[CELL PHONE BUZZES]
+
+56
+00:03:12,926 --> 00:03:15,224
+-Wells is in the building.
+-How do you know that?
+
+57
+00:03:15,395 --> 00:03:16,988
+I put a tracker on his wheelchair.
+
+58
+00:03:17,164 --> 00:03:19,690
+Which, if we're wrong about him
+and he is paralyzed...
+
+59
+00:03:19,866 --> 00:03:21,698
+...I'm going to hell for that one.
+
+60
+00:03:25,272 --> 00:03:27,673
+He's in the Cortex. Ask questions fast.
+
+61
+00:03:27,841 --> 00:03:29,570
+Why did he kill Nora Allen?
+
+62
+00:03:29,743 --> 00:03:31,939
+<i>Because he was angry.</i>
+-About what?
+
+63
+00:03:32,112 --> 00:03:33,170
+<i>That you escaped.</i>
+
+64
+00:03:35,716 --> 00:03:39,084
+-He's on B level. He's coming this way.
+-What does he want from me?
+
+65
+00:03:39,252 --> 00:03:40,947
+<i>-For you to be the Flash.</i>
+-What?
+
+66
+00:03:41,121 --> 00:03:44,056
+Well, maybe that's why Wells
+let the particle accelerator explode.
+
+67
+00:03:44,224 --> 00:03:46,750
+So that you could become the Flash.
+
+68
+00:03:46,927 --> 00:03:48,622
+Why? I mean, for what reason?
+
+69
+00:03:48,795 --> 00:03:50,923
+-Guys, we gotta go. He's almost here.
+CAITLIN: Hurry.
+
+70
+00:03:51,098 --> 00:03:53,692
+BARRY: All right.
+CISCO: Wait a second. Wait.
+
+71
+00:03:53,867 --> 00:03:56,700
+What if HAL over there tells Wells
+that we were in here?
+
+72
+00:03:56,870 --> 00:03:58,065
+That would be bad.
+
+73
+00:03:58,238 --> 00:04:02,038
+If I can get into its operating system,
+maybe I can disable its memory core.
+
+74
+00:04:02,209 --> 00:04:06,874
+Uh, Gideon, can you show us
+where your operating system is?
+
+75
+00:04:07,047 --> 00:04:08,606
+<i>Certainty.</i>
+
+76
+00:04:11,084 --> 00:04:12,711
+[CISCO LAUGHS]
+
+77
+00:04:12,886 --> 00:04:14,945
+Yeah. Nope, that's not gonna happen.
+
+78
+00:04:15,122 --> 00:04:16,419
+Guys, he's in the corridor.
+
+79
+00:04:16,590 --> 00:04:20,959
+Uh, Gideon, could you just, like,
+not tell him that we were here?
+
+80
+00:04:21,128 --> 00:04:23,893
+<i>Of course. I will accept any command
+given to me by you.</i>
+
+81
+00:04:24,064 --> 00:04:25,759
+-Barry.
+-We gotta get out of here.
+
+82
+00:04:25,932 --> 00:04:29,300
+Wait, wait.
+Why would you accept my commands?
+
+83
+00:04:29,469 --> 00:04:31,335
+<i>Because you created me.</i>
+
+84
+00:04:55,195 --> 00:04:57,425
+-Good evening, Gideon.
+<i>-Good evening, Dr. Wells.</i>
+
+85
+00:04:57,597 --> 00:04:58,962
+Is everything all right?
+
+86
+00:04:59,132 --> 00:05:01,533
+<i>Everything is fine.</i>
+
+87
+00:05:05,839 --> 00:05:08,831
+[SMALLPOOLS' "OVER <i>&</i> OVER" PLAYING]
+
+88
+00:05:09,009 --> 00:05:10,499
+Hey.
+
+89
+00:05:11,444 --> 00:05:12,775
+What's the emergency?
+
+90
+00:05:12,946 --> 00:05:14,710
+Oh, no emergency.
+
+91
+00:05:14,881 --> 00:05:18,442
+-I just wanted to talk to you.
+-Thanks.
+
+92
+00:05:18,618 --> 00:05:21,383
+Without Iris around. Or Barry around.
+
+93
+00:05:21,555 --> 00:05:24,684
+Or Cisco around. Or Caitlin around.
+
+94
+00:05:24,858 --> 00:05:28,886
+So in other words,
+you want to talk to me alone.
+
+95
+00:05:29,996 --> 00:05:32,522
+-What is it?
+-Right.
+
+96
+00:05:32,699 --> 00:05:34,861
+Um, so listen.
+
+97
+00:05:35,035 --> 00:05:39,233
+With everything going on, investigating
+Wells and finding out about Barry--
+
+98
+00:05:39,406 --> 00:05:42,068
+Eddie, you cannot tell Iris about Barry.
+
+99
+00:05:42,242 --> 00:05:44,210
+This isn't about Barry.
+
+100
+00:05:45,912 --> 00:05:50,816
+I know the timing might seem off,
+you know, with everything that's going on.
+
+101
+00:05:52,052 --> 00:05:54,885
+But I wanna propose to Iris.
+
+102
+00:05:56,022 --> 00:05:57,353
+And I'd like your blessing.
+
+103
+00:06:06,032 --> 00:06:07,500
+No.
+
+104
+00:06:07,667 --> 00:06:09,032
+[CHUCKLES]
+
+105
+00:06:09,202 --> 00:06:11,603
+-Come again?
+-No.
+
+106
+00:06:12,205 --> 00:06:13,570
+You do not have my blessing.
+
+107
+00:06:14,074 --> 00:06:15,701
+[CELL PHONE BUZZES]
+
+108
+00:06:16,877 --> 00:06:18,402
+That's Barry. We gotta go.
+
+109
+00:06:18,578 --> 00:06:21,741
+Joe, I only asked as a courtesy.
+Out of respect.
+
+110
+00:06:22,015 --> 00:06:24,450
+I don't need your permission.
+
+111
+00:06:24,618 --> 00:06:27,918
+Really? For three very smart people,
+that was really stupid.
+
+112
+00:06:28,088 --> 00:06:30,853
+What if Wells had caught you in that...?
+
+113
+00:06:31,024 --> 00:06:32,082
+-Time vault.
+-Thank you.
+
+114
+00:06:32,259 --> 00:06:35,593
+Okay, I know we've seen a lot
+this past year, but time travel?
+
+115
+00:06:35,762 --> 00:06:36,888
+I did it.
+
+116
+00:06:37,797 --> 00:06:40,289
+-I will do it, I mean.
+-Excuse me?
+
+117
+00:06:40,467 --> 00:06:45,371
+One of the two speedsters in Barry's house
+the night his mother died was Barry.
+
+118
+00:06:45,538 --> 00:06:47,529
+I mean, the Flash. He was there.
+
+119
+00:06:47,707 --> 00:06:53,612
+Which means that one day in the future,
+Barry will travel back in time to that night.
+
+120
+00:06:54,481 --> 00:06:59,248
+-Okay.
+-Actually, I wasn't talking about that.
+
+121
+00:06:59,419 --> 00:07:03,879
+I kind of already time-traveled.
+
+122
+00:07:04,057 --> 00:07:05,422
+-By accident.
+-What?
+
+123
+00:07:05,592 --> 00:07:09,290
+I was running to try and stop a tsunami
+from hitting the city--
+
+124
+00:07:09,462 --> 00:07:11,396
+-When was that?
+-A few weeks ago.
+
+125
+00:07:12,565 --> 00:07:14,397
+Right before you started
+getting those dreams.
+
+126
+00:07:14,567 --> 00:07:18,231
+Oh. You mean the ones
+where Wells uses his super-speeding hand...
+
+127
+00:07:18,405 --> 00:07:22,740
+-...to shred apart my heart? Those?
+-Yes, right. <i>So...</i>
+
+128
+00:07:22,909 --> 00:07:25,469
+-What if they're not dreams?
+-What else could they be?
+
+129
+00:07:25,645 --> 00:07:27,613
+-Memories.
+-I'm not following.
+
+130
+00:07:28,315 --> 00:07:33,310
+What if that day, Cisco found out that Wells
+is Reverse-Flash, and then Wells killed him...
+
+131
+00:07:33,486 --> 00:07:36,786
+...but when I ran back a day, I changed
+the timeline so that never happened?
+
+132
+00:07:36,957 --> 00:07:39,426
+If it never happened,
+how can Cisco remember it?
+
+133
+00:07:39,592 --> 00:07:41,788
+I don't know. I don't know.
+
+134
+00:07:41,962 --> 00:07:45,159
+I think the important thing is he does.
+
+135
+00:07:47,267 --> 00:07:48,860
+Guys...
+
+136
+00:07:49,035 --> 00:07:52,869
+...I think I've got a really bad idea.
+
+137
+00:08:07,887 --> 00:08:11,551
+Dad, it's been three weeks.
+You barely eat or sleep.
+
+138
+00:08:11,725 --> 00:08:14,285
+-You should go home at some point.
+-Hey, baby.
+
+139
+00:08:14,461 --> 00:08:17,726
+I'll go home when Barry does.
+
+140
+00:08:19,466 --> 00:08:20,865
+[BARRY GRUNTING <i>&</i> EKG FLATLINING]
+
+141
+00:08:21,034 --> 00:08:23,526
+Oh, my God. Oh, my God.
+
+142
+00:08:24,037 --> 00:08:25,163
+JOE:
+Help, my son's coding!
+
+143
+00:08:25,338 --> 00:08:27,500
+They said he was stable. Barry.
+
+144
+00:08:28,708 --> 00:08:31,871
+-Oh, my God.
+-I need the room. Let's go. I need the room.
+
+145
+00:08:33,913 --> 00:08:37,042
+How can he be seizing?
+He has no heart rhythm.
+
+146
+00:08:37,217 --> 00:08:40,744
+<i>NURSE“. Starting compressions.
+DOCTOR: Em, push. Em.</i>
+
+147
+00:08:46,993 --> 00:08:48,757
+WELLS:
+They can't <i>save</i> him.
+
+148
+00:08:50,330 --> 00:08:51,388
+But I can.
+
+149
+00:08:52,665 --> 00:08:54,759
+I know who you are.
+
+150
+00:08:55,201 --> 00:08:59,729
+You're that scientist that Barry's obsessed with.
+The one who blew a hole in the city.
+
+151
+00:08:59,906 --> 00:09:04,036
+Harrison Wells. Interestingly enough,
+my facility is the very place I'd like to take him.
+
+152
+00:09:04,210 --> 00:09:05,678
+You're out of your mind.
+
+153
+00:09:05,845 --> 00:09:10,009
+Not gonna try and convince you with promises,
+but, detective, give me a chance.
+
+154
+00:09:10,183 --> 00:09:13,414
+We know what you're capable of.
+You hurt a lot of people that night.
+
+155
+00:09:13,586 --> 00:09:16,453
+So those doctors in there,
+they're good enough?
+
+156
+00:09:16,623 --> 00:09:18,955
+Best in the city? Best in the country?
+
+157
+00:09:19,125 --> 00:09:22,720
+Look at them. They have no clue
+what's going on. They're baffled.
+
+158
+00:09:22,896 --> 00:09:25,524
+The reason is
+what's happening inside Barry is a mystery.
+
+159
+00:09:25,698 --> 00:09:27,462
+They don't have the tools to solve it.
+
+160
+00:09:27,634 --> 00:09:28,931
+-But you do?
+-That's right.
+
+161
+00:09:29,702 --> 00:09:33,969
+Millions of people used to look at my lab,
+and what did they see?
+
+162
+00:09:34,140 --> 00:09:38,043
+They saw the future. Well, let me take
+that technology, let me take that know-how...
+
+163
+00:09:38,211 --> 00:09:41,613
+...into ensuring that your son
+actually does have a future.
+
+164
+00:09:43,083 --> 00:09:44,209
+Detective.
+
+165
+00:09:46,986 --> 00:09:48,454
+Let me save him.
+
+166
+00:09:53,760 --> 00:09:56,229
+[DOCTOR <i>&</i> NURSE SPEAKING
+INDISTINCTLY]
+
+167
+00:09:56,396 --> 00:09:57,886
+Then <i>save</i> him.
+
+168
+00:10:00,633 --> 00:10:03,728
+DOCTOR:
+Charge, 200, paddles.
+
+169
+00:10:04,504 --> 00:10:05,665
+BARRY:
+Joe.
+
+170
+00:10:05,839 --> 00:10:08,331
+-Joe, are you listening?
+JOE: Yeah.
+
+171
+00:10:08,508 --> 00:10:09,805
+We...
+
+172
+00:10:09,976 --> 00:10:12,411
+We have to access
+Cisco's memories somehow.
+
+173
+00:10:12,579 --> 00:10:14,570
+Somewhere in his subconscious is the key.
+
+174
+00:10:14,747 --> 00:10:17,114
+-The key to what, now?
+-Getting my dad out of prison.
+
+175
+00:10:17,283 --> 00:10:19,445
+And how are we going to do that?
+
+176
+00:10:21,287 --> 00:10:24,621
+We're gonna get Wells to confess
+to killing my mom.
+
+177
+00:10:30,497 --> 00:10:35,435
+So this will allow Cisco
+to see into his dream?
+
+178
+00:10:35,602 --> 00:10:38,435
+I got the idea from a journal article
+on lucid-dream therapy.
+
+179
+00:10:38,605 --> 00:10:41,631
+It can be used to help people suffering
+from post-traumatic stress disorder.
+
+180
+00:10:41,808 --> 00:10:45,938
+Heh. Traumatized, stressed,
+check and check.
+
+181
+00:10:46,112 --> 00:10:50,709
+The theory is it will allow people
+to enter their dreams and face their fears.
+
+182
+00:10:50,884 --> 00:10:53,012
+Still working on the talking part.
+
+183
+00:10:53,186 --> 00:10:56,622
+And you're sure this thing isn't gonna,
+you know, mess with my brain?
+
+184
+00:10:56,789 --> 00:11:01,989
+Oh. The amount of electricity required
+to trigger lucid dreaming is harmless. Probably.
+
+185
+00:11:02,162 --> 00:11:03,789
+WELLS:
+Who's gonna be lucid dreaming?
+
+186
+00:11:04,364 --> 00:11:05,729
+Um...
+
+187
+00:11:06,499 --> 00:11:11,835
+With all of the meta-humans in Central City,
+people have been seeing strange things.
+
+188
+00:11:12,005 --> 00:11:13,837
+Things that they don't understand.
+
+189
+00:11:14,007 --> 00:11:17,671
+And it's really just a matter of time
+before psychological issues develop.
+
+190
+00:11:17,844 --> 00:11:21,838
+And lucid dreaming will help the doctors
+better understand their fears. Intriguing.
+
+191
+00:11:22,015 --> 00:11:25,883
+Of course, you still need to guide the patient
+from the outside, right?
+
+192
+00:11:26,052 --> 00:11:28,350
+Direct them to specific aspects
+of that dream.
+
+193
+00:11:28,521 --> 00:11:32,048
+We're still working
+on a communications interface.
+
+194
+00:11:32,225 --> 00:11:36,685
+When we dream, the middle brain lights up
+with electrical activity...
+
+195
+00:11:36,863 --> 00:11:40,390
+...whereas the higher brain
+remains dormant.
+
+196
+00:11:40,567 --> 00:11:43,332
+Once we find a way
+to make both parts of the brain active...
+
+197
+00:11:43,503 --> 00:11:47,531
+...it's just a matter of finding the frequency
+that will stimulate the language center.
+
+198
+00:11:47,707 --> 00:11:49,232
+Then the dreamer could speak.
+
+199
+00:11:49,409 --> 00:11:51,377
+-He could describe his dream.
+-Exactly.
+
+200
+00:11:51,544 --> 00:11:55,105
+-Or her dream. It could be used for anyone.
+-Right, it's not gender-specific.
+
+201
+00:11:55,281 --> 00:11:59,445
+I would try a frequency of 45 hertz to start.
+
+202
+00:11:59,619 --> 00:12:00,916
+Thank you, Dr. Wells.
+
+203
+00:12:01,087 --> 00:12:04,614
+Well, you never cease
+to impress me, Caitlin.
+
+204
+00:12:09,796 --> 00:12:10,854
+SINGH: Allen.
+-Hey.
+
+205
+00:12:11,030 --> 00:12:14,295
+The Owens case. I'm waiting
+on the fiber evidence and ballistics report.
+
+206
+00:12:14,467 --> 00:12:16,526
+-Are you on vacation or something?
+-No, I'm so sorry.
+
+207
+00:12:16,703 --> 00:12:17,727
+[CELL PHONE CHIMES]
+
+208
+00:12:17,904 --> 00:12:20,100
+I've been distracted by another case,
+which is no excuse.
+
+209
+00:12:20,273 --> 00:12:22,469
+SINGH: Okay, uh,
+just get me the reports when you can.
+
+210
+00:12:22,642 --> 00:12:24,542
+-There's no rush.
+-All right.
+
+211
+00:12:24,711 --> 00:12:28,147
+Uh, captain, is everything okay?
+
+212
+00:12:29,716 --> 00:12:33,778
+Ahh. Yeah, since Rob and I have been
+planning the, you know, wedding...
+
+213
+00:12:33,953 --> 00:12:37,082
+...between the florists and the hundreds
+of kinds of cake filling...
+
+214
+00:12:37,257 --> 00:12:39,089
+...and who could sit next to who...
+
+215
+00:12:41,427 --> 00:12:45,295
+-Never get married, Allen.
+-Right.
+
+216
+00:12:48,668 --> 00:12:50,659
+-Iris, hey.
+-Oh! Barry.
+
+217
+00:12:50,837 --> 00:12:52,327
+-Are you okay?
+-Yeah. No, yes.
+
+218
+00:12:52,505 --> 00:12:57,466
+That was just really weird.
+Captain Singh was nice to me.
+
+219
+00:12:57,644 --> 00:13:00,443
+Oh, well, he's in a good mood.
+He's about to get married.
+
+220
+00:13:01,347 --> 00:13:03,645
+Lucky him. Yeah, I know, it's...
+
+221
+00:13:03,816 --> 00:13:08,413
+Oh, hey, um, can I talk to you in private?
+It's kind of work—related.
+
+222
+00:13:08,588 --> 00:13:10,852
+Okay, yeah, now's not a great time.
+I'm sorry, I--
+
+223
+00:13:11,024 --> 00:13:13,118
+-Hi, beautiful.
+-Hi.
+
+224
+00:13:13,860 --> 00:13:16,488
+EDDIE: Barry, can I grab you for a second?
+-Absolutely, yeah.
+
+225
+00:13:16,663 --> 00:13:19,428
+Can you call me when you're done?
+It's really important.
+
+226
+00:13:19,599 --> 00:13:21,294
+Yeah, yeah.
+
+227
+00:13:21,501 --> 00:13:23,367
+[SIGHS]
+
+228
+00:13:24,537 --> 00:13:26,096
+What's up?
+
+229
+00:13:31,144 --> 00:13:32,543
+Oh. Uh...
+
+230
+00:13:32,712 --> 00:13:36,273
+Okay, what did she say? Wait, you still have it,
+so, duh, you haven't asked her yet.
+
+231
+00:13:36,449 --> 00:13:38,349
+Or you did ask her and she said...?
+
+232
+00:13:38,518 --> 00:13:40,384
+-I was gonna propose tonight.
+-All right.
+
+233
+00:13:40,553 --> 00:13:43,386
+But I went to Joe to ask for his blessing.
+He said no.
+
+234
+00:13:43,556 --> 00:13:45,547
+-He did?
+-Repeatedly.
+
+235
+00:13:45,725 --> 00:13:48,695
+-Weird.
+-I need you to talk to him, find out why.
+
+236
+00:13:48,861 --> 00:13:51,887
+-Eddie, |--
+-Look, I know me asking you like this...
+
+237
+00:13:52,065 --> 00:13:53,829
+-...it's a little awkward.
+-Yeah.
+
+238
+00:13:54,000 --> 00:13:58,528
+But you know how heartbroken <i>she's</i> gonna
+be if she finds out that Joe's not on board.
+
+239
+00:13:58,705 --> 00:14:00,867
+Yeah, yeah, all right. Yeah, I'll talk to him.
+
+240
+00:14:01,040 --> 00:14:03,566
+-Thanks. I appreciate it so much.
+-Yeah.
+
+241
+00:14:03,743 --> 00:14:06,212
+And so will the future Mrs. Thawne.
+
+242
+00:14:06,379 --> 00:14:09,906
+Iris Thawne. Sounds pretty good, huh?
+
+243
+00:14:11,651 --> 00:14:14,143
+I have a feeling
+she's gonna want to hyphenate.
+
+244
+00:14:16,356 --> 00:14:18,552
+CISCO:
+Okay, can we go over this one more time?
+
+245
+00:14:18,725 --> 00:14:21,160
+Yes. You put the glasses on, fall asleep
+and start dreaming.
+
+246
+00:14:21,327 --> 00:14:24,194
+-Not that hard.
+-Except I'm pretty sure I die in this dream.
+
+247
+00:14:24,364 --> 00:14:27,766
+If I go back into it, will I die in real life?
+What are we talking about?
+
+248
+00:14:27,934 --> 00:14:29,925
+<i>-Inception or Dreamscape?</i>
+JOE: Here, drink this.
+
+249
+00:14:30,103 --> 00:14:31,434
+-What, am I 5?
+-Just drink it.
+
+250
+00:14:31,604 --> 00:14:34,198
+-Okay, I'll drink it.
+-You're gonna be fine, Cisco.
+
+251
+00:14:34,374 --> 00:14:36,274
+Mm. Ah. Wuh.
+
+252
+00:14:36,442 --> 00:14:38,001
+Okay.
+
+253
+00:14:38,177 --> 00:14:39,872
+[CISCO SIGHS]
+
+254
+00:14:40,046 --> 00:14:44,074
+The glasses are emitting a low-level delta wave,
+which should help you fall asleep.
+
+255
+00:14:45,718 --> 00:14:51,282
+Okay. I gotta warn you, though,
+usually it takes me a long time.
+
+256
+00:14:51,457 --> 00:14:57,794
+I mean, I'm not saying I'm like
+an insomniac or anything...
+
+257
+00:14:57,964 --> 00:14:59,193
+JOE:
+Ah.
+
+258
+00:14:59,365 --> 00:15:01,129
+So that's how you get him to shut up.
+
+259
+00:15:01,300 --> 00:15:03,860
+He's entering REM. It's working.
+
+260
+00:15:05,037 --> 00:15:08,598
+Cisco, can you hear me?
+
+261
+00:15:09,242 --> 00:15:11,404
+You're dreaming, bud.
+
+262
+00:15:17,984 --> 00:15:23,081
+Okay, I will take Dr. Wells to Jitters
+so you can do whatever it is you wanna do.
+
+263
+00:15:27,960 --> 00:15:29,325
+Whoa.
+
+264
+00:15:30,730 --> 00:15:32,129
+Guys.
+
+265
+00:15:32,832 --> 00:15:34,926
+This is mad freaky.
+
+266
+00:15:35,101 --> 00:15:38,594
+<i>BARRY:
+Okay, well, um, where are you?</i>
+
+267
+00:15:38,771 --> 00:15:40,136
+Um...
+
+268
+00:15:40,973 --> 00:15:42,964
+In the Cortex.
+
+269
+00:15:43,142 --> 00:15:47,409
+I mean. I know I'm just dreaming
+that I'm in the Cortex...
+
+270
+00:15:47,580 --> 00:15:51,244
+...but it feels so real.
+
+271
+00:15:51,417 --> 00:15:54,148
+<i>BARRY:
+What is dream-you doing?</i>
+
+272
+00:15:55,354 --> 00:15:57,322
+Caitlin just left.
+
+273
+00:15:57,490 --> 00:16:01,017
+I asked her to take Wells to Jitters.
+
+274
+00:16:02,028 --> 00:16:04,087
+Why do you want Wells out of the lab?
+
+275
+00:16:04,263 --> 00:16:08,359
+I think he might have tampered
+with my work.
+
+276
+00:16:08,534 --> 00:16:09,763
+I need to check.
+
+277
+00:16:11,471 --> 00:16:12,666
+Okay.
+
+278
+00:16:14,507 --> 00:16:17,340
+Okay, I'm walking to the bunker.
+
+279
+00:16:22,048 --> 00:16:24,642
+Oh, man. I love this shirt.
+
+280
+00:16:24,817 --> 00:16:26,808
+-I thought the dryer ate it.
+-Ha, ha.
+
+281
+00:16:26,986 --> 00:16:28,613
+-Focus, Cisco.
+-okay, okay.
+
+282
+00:16:30,690 --> 00:16:32,215
+All right.
+
+283
+00:16:32,391 --> 00:16:36,885
+Now I'm running tests
+on the containment system.
+
+284
+00:16:37,063 --> 00:16:39,031
+This data...
+
+285
+00:16:39,232 --> 00:16:40,961
+doesn't make any sense.
+
+286
+00:16:42,635 --> 00:16:47,004
+All the super-capacitors,
+they were all still fully charged.
+
+287
+00:16:48,074 --> 00:16:53,240
+There's absolutely no reason
+that the man in yellow should have escaped.
+
+288
+00:16:54,347 --> 00:16:56,315
+[ELECTRICITY CRACKLES]
+
+289
+00:17:01,187 --> 00:17:03,053
+CISCO:
+Oh, my God.
+
+290
+00:17:04,156 --> 00:17:06,090
+It was just a hologram.
+
+291
+00:17:07,426 --> 00:17:10,191
+He tricked us.
+
+292
+00:17:12,665 --> 00:17:14,258
+WELLS:
+Hello, Cisco.
+
+293
+00:17:17,036 --> 00:17:19,368
+Oh, God. Wells is here.
+
+294
+00:17:19,539 --> 00:17:22,065
+Cisco, it's just a dream. He can't hurt you.
+
+295
+00:17:22,241 --> 00:17:23,709
+You better be right about that.
+
+296
+00:17:23,876 --> 00:17:27,904
+My name is Eobard Thawne.
+
+297
+00:17:28,948 --> 00:17:30,712
+Eobard Thawne.
+
+298
+00:17:30,883 --> 00:17:32,749
+Thawne, like Eddie Thawne?
+
+299
+00:17:33,252 --> 00:17:34,879
+You killed Nora Allen.
+
+300
+00:17:36,622 --> 00:17:39,216
+It was never my intention.
+
+301
+00:17:39,425 --> 00:17:41,359
+Wait, Nora. What about my mom?
+
+302
+00:17:41,527 --> 00:17:44,258
+-He's confessing.
+-Cisco.
+
+303
+00:17:44,430 --> 00:17:47,400
+He-— He didn't wanna kill her.
+
+304
+00:17:48,868 --> 00:17:51,735
+It was you, Barry. He was trying to kill you.
+
+305
+00:17:51,904 --> 00:17:53,269
+[EKG BEEPING]
+
+306
+00:17:53,439 --> 00:17:55,601
+His blood pressure's 200,
+and his heart rate is 147.
+
+307
+00:17:55,775 --> 00:17:57,436
+He's losing higher brain function.
+
+308
+00:17:57,610 --> 00:17:59,977
+You're gonna be okay.
+It's just a dream. You're gonna be okay.
+
+309
+00:18:00,146 --> 00:18:02,478
+I have grown quite fond of you, Cisco.
+
+310
+00:18:02,648 --> 00:18:05,948
+His hand, it's vibrating. He's gonna kill me.
+
+311
+00:18:06,118 --> 00:18:08,052
+-He's gonna have a stroke.
+-Get him out.
+
+312
+00:18:08,220 --> 00:18:10,621
+In many ways .
+
+313
+00:18:10,790 --> 00:18:12,417
+...you've shown me what it's like—-
+
+314
+00:18:12,592 --> 00:18:15,061
+-Help me. Help me, please.
+-Cait.
+
+315
+00:18:15,227 --> 00:18:16,490
+--To have a son.
+-Help me!
+
+316
+00:18:16,662 --> 00:18:19,461
+No!
+
+317
+00:18:19,665 --> 00:18:21,326
+[GASPING]
+
+318
+00:18:21,500 --> 00:18:24,731
+You're okay. It was just a dream. You're okay.
+
+319
+00:18:29,609 --> 00:18:31,509
+CISCO:
+Oh, God.
+
+320
+00:18:31,677 --> 00:18:34,305
+It felt so real.
+
+321
+00:18:37,249 --> 00:18:39,581
+-Barry?
+-My mom.
+
+322
+00:18:39,752 --> 00:18:41,277
+This was my fault.
+
+323
+00:18:41,454 --> 00:18:43,445
+[CELL PHONE BUZZING]
+
+324
+00:18:47,793 --> 00:18:49,522
+-Hello.
+-Where are you?
+
+325
+00:18:55,434 --> 00:18:58,961
+WELLS [OVER PHONE]:
+<i>Barry. Barry, are you there?</i>
+
+326
+00:18:59,138 --> 00:19:04,133
+Dr. Wells. Yeah, sorry, yeah,
+it's a bad connection right now.
+
+327
+00:19:04,710 --> 00:19:08,010
+-Where have you been?
+-[STAMMERS] Why? What's going on?
+
+328
+00:19:08,214 --> 00:19:10,979
+A fire. A huge fire just erupted.
+
+329
+00:19:12,018 --> 00:19:13,782
+-A fire, where?
+-[OVER SPEAKER] New <i>Brighton.</i>
+
+330
+00:19:13,953 --> 00:19:15,387
+Bradford Tower High-Rise.
+
+331
+00:19:15,554 --> 00:19:18,888
+I know that building.
+That's where Captain Singh's fiancé works.
+
+332
+00:19:19,058 --> 00:19:20,116
+On my way.
+
+333
+00:19:25,164 --> 00:19:27,155
+[SIRENS WAILING]
+
+334
+00:19:32,672 --> 00:19:37,075
+SINGH: We need to lock down this entire area.
+Now move it, go!
+
+335
+00:19:37,243 --> 00:19:39,177
+Get those hoses up. Move.
+
+336
+00:19:39,345 --> 00:19:41,871
+Tell Dispatch we need as many tankers
+as this city has.
+
+337
+00:19:42,048 --> 00:19:43,573
+-What floor”?
+FIREMAN: Twenty-first.
+
+338
+00:19:43,749 --> 00:19:45,410
+My God, that's where Rob works.
+
+339
+00:19:51,157 --> 00:19:52,181
+Please, hurry.
+
+340
+00:19:52,358 --> 00:19:54,656
+[GASPS]
+
+341
+00:19:54,860 --> 00:19:56,726
+[PEOPLE COUGHING AND SHOUTING]
+
+342
+00:19:58,164 --> 00:20:01,429
+FLASH:
+Dr. Wells, the sprinklers, they're not working.
+
+343
+00:20:02,068 --> 00:20:04,435
+I see that.
+Just get everyone out of there, Barry.
+
+344
+00:20:05,371 --> 00:20:08,500
+No, I can't. I can't <i>save</i> them all.
+
+345
+00:20:08,708 --> 00:20:10,198
+Dr. Wells, please, what do I do?
+
+346
+00:20:11,510 --> 00:20:12,773
+YOU create a vacuum.
+
+347
+00:20:12,945 --> 00:20:16,575
+Rotate your arms at super—speed.
+That will create a wind tunnel...
+
+348
+00:20:16,782 --> 00:20:19,717
+...that will suck the air
+right out of the room.
+
+349
+00:20:22,755 --> 00:20:24,245
+[ALL SCREAM]
+
+350
+00:20:24,423 --> 00:20:26,414
+FLASH: <i>It's making</i> it <i>worse.</i>
+-Barry, listen to me.
+
+351
+00:20:26,592 --> 00:20:28,686
+You need to move your arms faster.
+
+352
+00:20:30,529 --> 00:20:31,792
+I believe in you, Barry.
+
+353
+00:20:43,242 --> 00:20:45,609
+[YELLING]
+
+354
+00:21:04,330 --> 00:21:05,661
+Rob.
+
+355
+00:21:07,566 --> 00:21:09,728
+I'm okay. It's okay.
+
+356
+00:21:09,902 --> 00:21:12,064
+I thought I lost you.
+
+357
+00:21:14,306 --> 00:21:15,330
+Medic!
+
+358
+00:21:28,354 --> 00:21:29,947
+Mr. Allen.
+
+359
+00:21:32,091 --> 00:21:35,322
+Tonight at the fire...
+
+360
+00:21:35,494 --> 00:21:41,365
+...I saw hesitation, I saw you doubting yourself.
+Why is that?
+
+361
+00:21:42,301 --> 00:21:44,702
+I don't know. Uh...
+
+362
+00:21:44,870 --> 00:21:48,636
+I guess I was afraid
+I couldn't save everyone.
+
+363
+00:21:48,808 --> 00:21:53,143
+Right, but if there is anything...
+
+364
+00:21:53,312 --> 00:21:56,714
+...that I have learned
+in our time together, Barry, it is that...
+
+365
+00:21:56,882 --> 00:21:59,317
+...the only thing standing in the way...
+
+366
+00:21:59,485 --> 00:22:04,946
+...of you achieving every goal
+that you set for yourself is you.
+
+367
+00:22:05,524 --> 00:22:09,324
+There is no limit to how strong you will get...
+
+368
+00:22:09,495 --> 00:22:13,159
+...or how fast you will go.
+
+369
+00:22:13,332 --> 00:22:16,199
+Everything that you need...
+
+370
+00:22:17,570 --> 00:22:18,799
+...you already have.
+
+371
+00:22:20,539 --> 00:22:24,407
+-Thank you, Dr. Wells.
+-Yeah.
+
+372
+00:22:28,581 --> 00:22:30,140
+You know...
+
+373
+00:22:31,217 --> 00:22:35,017
+...I couldn't have done any of this
+without you.
+
+374
+00:22:35,988 --> 00:22:37,649
+I feel the same way about you.
+
+375
+00:22:49,101 --> 00:22:50,432
+It's so strange.
+
+376
+00:22:50,603 --> 00:22:53,937
+I mean, I look at him now
+and I know that he killed my mom...
+
+377
+00:22:54,106 --> 00:22:56,336
+...and he sent my dad to jail...
+
+378
+00:22:56,508 --> 00:23:02,345
+...but sometimes he's just so kind
+that, in the moment, I actually like him.
+
+379
+00:23:02,948 --> 00:23:04,541
+But you never did.
+
+380
+00:23:04,717 --> 00:23:06,515
+-No.
+-No.
+
+381
+00:23:06,685 --> 00:23:09,177
+Well, at least now we know how to trap him.
+
+382
+00:23:09,388 --> 00:23:12,722
+In Cisco's dream,
+he confessed to everything.
+
+383
+00:23:12,892 --> 00:23:16,055
+If we can just re-create those conditions,
+he'll do it again.
+
+384
+00:23:16,262 --> 00:23:18,026
+JOE:
+Man, Barr.
+
+385
+00:23:19,298 --> 00:23:22,359
+Taking down bad guys,
+pulling confessions...
+
+386
+00:23:22,534 --> 00:23:24,559
+I'm the cop. I'm supposed to be doing this.
+
+387
+00:23:24,737 --> 00:23:28,605
+If we're gonna get him to confess,
+it has to be with someone that he truly trusts.
+
+388
+00:23:28,774 --> 00:23:31,038
+Someone he'll genuinely
+let his guard down with.
+
+389
+00:23:31,877 --> 00:23:34,141
+He thinks of Cisco as a son.
+
+390
+00:23:34,380 --> 00:23:38,817
+Well, then we need to do a better job
+protecting him than I did protecting you.
+
+391
+00:23:40,319 --> 00:23:42,083
+I'm not sure what that means.
+
+392
+00:23:42,888 --> 00:23:45,380
+-Barry, this is all because of me.
+-No—-
+
+393
+00:23:45,557 --> 00:23:49,892
+I never should've let Wells take you from that
+hospital. None of this would've happened.
+
+394
+00:23:50,062 --> 00:23:52,997
+If you hadn't let him take me,
+I would be dead for sure.
+
+395
+00:23:53,232 --> 00:23:55,462
+But even then,
+I knew something wasn't right.
+
+396
+00:23:55,634 --> 00:23:58,899
+Everything in my gut was telling me
+not to trust him, but I did...
+
+397
+00:23:59,071 --> 00:24:01,438
+because I was so desperate
+to see you okay.
+
+398
+00:24:01,640 --> 00:24:02,937
+Joe, this isn't your fault.
+
+399
+00:24:03,442 --> 00:24:04,739
+It's not your fault.
+
+400
+00:24:04,910 --> 00:24:09,404
+Look, every bad thing
+that has happened to us, all of it...
+
+401
+00:24:09,581 --> 00:24:11,675
+...it was him.
+
+402
+00:24:11,850 --> 00:24:14,148
+And now he's gonna pay for it.
+
+403
+00:24:19,158 --> 00:24:24,619
+So Wells set up a fake showdown with
+a fake opponent who was never really there?
+
+404
+00:24:24,830 --> 00:24:28,960
+He figured if we saw both of them together,
+it would prove he wasn't the man in yellow.
+
+405
+00:24:29,501 --> 00:24:31,697
+This all just keeps getting crazier
+and crazier.
+
+406
+00:24:35,007 --> 00:24:36,668
+I just talked to Dr. Wells.
+
+407
+00:24:36,842 --> 00:24:39,834
+He's attending a lecture downtown,
+won't be back until 5.
+
+408
+00:24:40,012 --> 00:24:43,971
+Cisco, when he gets here, work on the trap
+so he sees you set off the hologram.
+
+409
+00:24:44,149 --> 00:24:48,347
+Hold on, isn't that in your dream
+when everything went all...?
+
+410
+00:24:48,520 --> 00:24:51,956
+<i>"Kali</i> Ma, <i>" Temple</i> of <i>Doom,</i> yeah.
+That definitely happened.
+
+411
+00:24:52,124 --> 00:24:54,786
+But this time, I'm ready for him.
+
+412
+00:24:55,361 --> 00:24:58,991
+I originally designed the force field
+to keep a Speedster from getting out.
+
+413
+00:24:59,164 --> 00:25:03,897
+But I've reversed it. Now it won't let one in.
+
+414
+00:25:09,041 --> 00:25:10,475
+Back up.
+
+415
+00:25:24,023 --> 00:25:25,047
+Barry, are you okay?
+
+416
+00:25:25,257 --> 00:25:26,986
+[GASPS]
+
+417
+00:25:27,726 --> 00:25:29,387
+It works.
+
+418
+00:25:29,828 --> 00:25:33,162
+Okay. As long as I'm inside,
+Wells won't be able to get near me.
+
+419
+00:25:33,332 --> 00:25:37,235
+And I will be in the Cortex watching
+and recording everything that happens.
+
+420
+00:25:37,403 --> 00:25:41,271
+As soon as we get the confession
+we need to free my dad, I'm moving in.
+
+421
+00:25:41,840 --> 00:25:44,537
+-So, what do I do?
+-Wells also threatened Iris.
+
+422
+00:25:44,710 --> 00:25:48,510
+So if something goes wrong here,
+keep an eye on her until Wells is neutralized.
+
+423
+00:25:48,714 --> 00:25:51,206
+I'll always keep Iris safe, Joe.
+
+424
+00:25:54,420 --> 00:25:57,219
+JOE: What?
+-Come here.
+
+425
+00:25:57,790 --> 00:26:02,591
+So, um, Eddie told me what happened...
+
+426
+00:26:02,761 --> 00:26:05,389
+...that you kiboshed his proposal.
+
+427
+00:26:05,564 --> 00:26:09,432
+-That was between him and me.
+-I so agree with that.
+
+428
+00:26:09,601 --> 00:26:12,263
+And I know that we have a lot
+going on right now.
+
+429
+00:26:12,438 --> 00:26:14,930
+And I should be the last person
+pleading Eddie's case.
+
+430
+00:26:15,107 --> 00:26:17,599
+But I don't get it, Joe. Why did you say no?
+
+431
+00:26:17,810 --> 00:26:21,440
+Because if Eddie proposes to Iris,
+she's gonna get caught up in the moment...
+
+432
+00:26:21,613 --> 00:26:24,082
+...and the romance,
+and she's gonna say yes.
+
+433
+00:26:24,283 --> 00:26:27,776
+What's wrong with that?
+Again, I don't know why I'm saying this.
+
+434
+00:26:27,953 --> 00:26:30,820
+One day she'll wake up
+and realize she married the wrong guy.
+
+435
+00:26:31,423 --> 00:26:33,915
+But she'll stay anyway
+because she made a promise.
+
+436
+00:26:34,426 --> 00:26:37,623
+I don't want that kind of life for her. Or him.
+
+437
+00:26:37,796 --> 00:26:40,265
+She's got feelings for you, Barry.
+
+438
+00:26:40,432 --> 00:26:45,302
+She may not know how to deal
+with those feelings right now, but I know her.
+
+439
+00:26:45,471 --> 00:26:47,633
+They're there. Always have been.
+
+440
+00:26:47,840 --> 00:26:48,898
+[CELL PHONE BUZZES]
+
+441
+00:26:49,074 --> 00:26:50,235
+You know that too.
+
+442
+00:26:53,245 --> 00:26:56,078
+Speaking of, Iris just sent me a 911 text.
+
+443
+00:26:57,082 --> 00:26:58,675
+I'll be right back.
+
+444
+00:26:58,917 --> 00:27:00,316
+[SIGHS]
+
+445
+00:27:01,120 --> 00:27:02,246
+Like I said.
+
+446
+00:27:04,990 --> 00:27:08,654
+-Hey, what's going on?
+-Look, Barry, I know it's not a good time.
+
+447
+00:27:08,827 --> 00:27:13,321
+Lately it never seems to be a good time,
+but I need you to listen to me right now.
+
+448
+00:27:13,499 --> 00:27:15,661
+Like, really listen to me.
+
+449
+00:27:17,102 --> 00:27:18,968
+Of course, yeah.
+
+450
+00:27:19,138 --> 00:27:21,197
+Whatever you need to tell me, I'm listening.
+
+451
+00:27:22,141 --> 00:27:25,270
+Okay, I mean, I know this
+is gonna sound really crazy at first.
+
+452
+00:27:27,446 --> 00:27:31,314
+But everything strange
+that's been going on in Central City...
+
+453
+00:27:31,483 --> 00:27:35,010
+...it all goes back to the night
+that the particle accelerator exploded.
+
+454
+00:27:35,187 --> 00:27:39,351
+I've gone through every bit of information
+that I've collected since I started my blog...
+
+455
+00:27:39,525 --> 00:27:41,960
+...every tip, every rumor,
+every strange sighting.
+
+456
+00:27:42,127 --> 00:27:44,061
+Nothing predates the explosion.
+
+457
+00:27:45,030 --> 00:27:47,556
+Whatever was released
+into the atmosphere that night...
+
+458
+00:27:47,733 --> 00:27:51,067
+...I think it changed people,
+caused them to have powers.
+
+459
+00:27:52,004 --> 00:27:54,564
+And I think that
+S.T.A.R. Labs knew about it.
+
+460
+00:27:54,840 --> 00:27:56,740
+I think the burning man worked there.
+
+461
+00:27:57,342 --> 00:28:01,040
+And I think that that's how
+the Flash got his powers too.
+
+462
+00:28:03,415 --> 00:28:05,884
+-Uh...
+-So, what do you think?
+
+463
+00:28:06,051 --> 00:28:07,416
+I--
+
+464
+00:28:08,720 --> 00:28:10,916
+I don't know. I mean, it's interesting.
+
+465
+00:28:11,089 --> 00:28:15,356
+Yeah, it's interesting.
+There's just a big hole in your theory.
+
+466
+00:28:15,527 --> 00:28:22,433
+Um, you know, I was affected
+by whatever was released by the explosion...
+
+467
+00:28:22,601 --> 00:28:25,866
+...and I don't have any powers.
+
+468
+00:28:26,038 --> 00:28:27,733
+-Obviously.
+-Right, yeah.
+
+469
+00:28:27,906 --> 00:28:30,534
+Look, I mean,
+I know that it's really mind-blowing.
+
+470
+00:28:30,742 --> 00:28:35,077
+-I haven't even talked to Eddie about it yet--
+-Yeah, you and Eddie. How are, um...?
+
+471
+00:28:35,247 --> 00:28:37,375
+Everything's okay with you and Eddie?
+
+472
+00:28:37,883 --> 00:28:40,750
+Uh... Sure, yeah, we're great. Why?
+
+473
+00:28:42,120 --> 00:28:43,747
+Oh.--.
+
+474
+00:28:43,922 --> 00:28:48,416
+Yeah, okay, look, I'm gonna-—
+Let me read over all of this stuff...
+
+475
+00:28:48,594 --> 00:28:51,564
+...and we'll definitely talk about it later,
+I promise.
+
+476
+00:28:51,763 --> 00:28:54,391
+Just—- I mean, this is crazy.
+
+477
+00:28:54,566 --> 00:28:58,434
+Yeah, okay, let me just go through it,
+and we'll talk later, all right?
+
+478
+00:28:59,771 --> 00:29:01,034
+Okay.
+
+479
+00:29:14,253 --> 00:29:15,618
+IRIS:
+Hey.
+
+480
+00:29:16,455 --> 00:29:18,617
+Barry, it's Iris.
+
+481
+00:29:19,458 --> 00:29:23,622
+I don't know if you can hear me,
+but I hope you can, because...
+
+482
+00:29:24,963 --> 00:29:27,489
+...I really, really need you to wake up.
+
+483
+00:29:30,469 --> 00:29:33,962
+Like the other day...
+
+484
+00:29:34,139 --> 00:29:39,942
+...Detective Pretty-Boy came into Jitters
+and he asked me out, and I actually said yes.
+
+485
+00:29:40,512 --> 00:29:41,604
+[IRIS CHUCKLES]
+
+486
+00:29:42,481 --> 00:29:46,315
+See, I do dumb things like that
+when you're not around.
+
+487
+00:29:52,824 --> 00:29:56,488
+And the house is really quiet
+without you there.
+
+488
+00:30:00,666 --> 00:30:05,160
+I know that the reason
+that you came to live with us was awful...
+
+489
+00:30:07,105 --> 00:30:08,504
+...but, Barry...
+
+490
+00:30:09,341 --> 00:30:11,469
+...you made it a home again.
+
+491
+00:30:12,110 --> 00:30:15,341
+You made us a family again.
+
+492
+00:30:17,115 --> 00:30:18,674
+We need you.
+
+493
+00:30:21,186 --> 00:30:22,676
+I need you.
+
+494
+00:30:33,165 --> 00:30:34,326
+[WHEELCHAIR WHIRRING]
+
+495
+00:30:34,499 --> 00:30:37,491
+Hello, Dr. Wells. How was your lecture?
+
+496
+00:30:37,669 --> 00:30:41,196
+Oh. Boring, tedious.
+
+497
+00:30:41,506 --> 00:30:43,133
+Platitudinous?
+
+498
+00:30:43,308 --> 00:30:44,798
+Couldn't have said it better myself.
+
+499
+00:30:44,976 --> 00:30:48,640
+Um, where...? Where's Cisco?
+
+500
+00:30:48,847 --> 00:30:51,509
+He is in the bunker.
+
+501
+00:30:51,683 --> 00:30:55,313
+He thinks he finally figured out
+what went wrong at Christmas.
+
+502
+00:30:55,520 --> 00:30:58,979
+You know, when we were trying
+to catch the Reverse-Flash?
+
+503
+00:30:59,191 --> 00:31:03,753
+Yes, I remember that night.
+Well, did he say what <i>he's</i> found?
+
+504
+00:31:03,995 --> 00:31:05,656
+Nope, just that it was important.
+
+505
+00:31:05,831 --> 00:31:07,321
+Hmm.
+
+506
+00:31:07,999 --> 00:31:09,831
+Good for Cisco.
+
+507
+00:31:10,502 --> 00:31:11,833
+Um...
+
+508
+00:31:12,003 --> 00:31:16,668
+Okay. Well, maybe I'll wheel on down there,
+see what he's got.
+
+509
+00:31:16,875 --> 00:31:18,343
+Okay.
+
+510
+00:31:23,915 --> 00:31:25,178
+Here he comes.
+
+511
+00:31:52,611 --> 00:31:53,874
+Hello, Cisco.
+
+512
+00:32:05,157 --> 00:32:06,420
+You've been busy.
+
+513
+00:32:07,926 --> 00:32:09,291
+[CHUCKLES]
+
+514
+00:32:10,562 --> 00:32:12,587
+You really are incredibly clever, Cisco.
+
+515
+00:32:13,665 --> 00:32:14,894
+<i>I've always said it.</i>
+
+516
+00:32:17,469 --> 00:32:19,563
+You're him.
+
+517
+00:32:19,738 --> 00:32:21,172
+The Reverse-Flash.
+
+518
+00:32:22,808 --> 00:32:24,902
+Joe was right this whole time, wasn't he?
+
+519
+00:32:25,076 --> 00:32:26,805
+Good old Joe.
+
+520
+00:32:29,080 --> 00:32:31,777
+Joe West had his doubts all along.
+
+521
+00:32:31,950 --> 00:32:34,817
+Even from that first night in the hospital...
+
+522
+00:32:34,986 --> 00:32:38,616
+...Joe knew something wasn't right. Cops.
+
+523
+00:32:39,124 --> 00:32:41,650
+As inconvenient now
+as they will be in a hundred years.
+
+524
+00:32:41,827 --> 00:32:44,159
+Come on, Cisco, we need a confession.
+
+525
+00:32:44,996 --> 00:32:47,488
+You killed Barry's mother.
+
+526
+00:32:48,166 --> 00:32:49,327
+I want to know why.
+
+527
+00:32:49,501 --> 00:32:51,595
+It was never my intention to kill Nora.
+
+528
+00:32:51,770 --> 00:32:55,934
+But from my perspective,
+she was already dead.
+
+529
+00:32:57,008 --> 00:32:59,636
+Just happened sooner
+than it was supposed to.
+
+530
+00:33:00,212 --> 00:33:02,203
+No, that's not an admission.
+
+531
+00:33:03,882 --> 00:33:05,611
+Oops.
+
+532
+00:33:09,154 --> 00:33:10,849
+You're not gonna get away with this.
+
+533
+00:33:13,625 --> 00:33:15,719
+I'm not gonna get away with it?
+
+534
+00:33:17,162 --> 00:33:19,358
+[WELLS LAUGHING]
+
+535
+00:33:22,701 --> 00:33:25,295
+Oh, you're smart.
+
+536
+00:33:26,037 --> 00:33:28,472
+You're smart, Cisco.
+
+537
+00:33:31,743 --> 00:33:33,973
+But you're not that smart.
+
+538
+00:33:34,880 --> 00:33:36,974
+CAITLIN:
+Cisco!
+
+539
+00:33:39,150 --> 00:33:40,640
+BARRY:
+No!
+
+540
+00:33:59,237 --> 00:34:01,729
+He didn't confess.
+
+541
+00:34:01,907 --> 00:34:04,569
+CAITLIN:
+Cisco, are you okay?
+
+542
+00:34:04,776 --> 00:34:09,373
+Yeah. I'm never ever gonna sleep ever again,
+but, yeah, I'm okay.
+
+543
+00:34:12,918 --> 00:34:15,717
+-He's dead.
+BARRY: He didn't confess.
+
+544
+00:34:16,254 --> 00:34:20,020
+Joe, this was it.
+My dad's gonna be in prison forever.
+
+545
+00:34:20,191 --> 00:34:21,215
+Barry, I'm sorry.
+
+546
+00:34:21,893 --> 00:34:23,019
+CISCO:
+Hey. Uh...
+
+547
+00:34:24,029 --> 00:34:25,724
+Whoa!
+
+548
+00:34:27,032 --> 00:34:28,056
+What the hell?
+
+549
+00:34:28,533 --> 00:34:30,763
+WELLS [OVER SPEAKER]: <i>I told</i> you <i>this before.</i>
+
+550
+00:34:30,936 --> 00:34:35,703
+<i>lam always one step ahead, Flash.</i>
+
+551
+00:34:35,907 --> 00:34:40,105
+Allow me to reintroduce to you
+Mr. Hannibal Bates...
+
+552
+00:34:40,278 --> 00:34:46,547
+...and his incredible ability
+to transform into any person he touches.
+
+553
+00:34:46,751 --> 00:34:48,742
+<i>I knew that ability would come in handy.</i>
+
+554
+00:34:48,954 --> 00:34:52,322
+I did not expect it
+to come in handy this soon.
+
+555
+00:34:52,557 --> 00:34:55,390
+You used him. Like you used all of us!
+
+556
+00:34:55,594 --> 00:34:57,119
+<i>He served a purpose.</i>
+
+557
+00:34:57,329 --> 00:35:02,233
+Didn't take much convincing,
+just the simple promise of his freedom.
+
+558
+00:35:02,400 --> 00:35:04,801
+You ruined my life. All of our lives.
+
+559
+00:35:04,970 --> 00:35:08,270
+We stood by you
+after everything that happened.
+
+560
+00:35:08,440 --> 00:35:13,810
+I can see how this must be
+difficult for you to understand, but trust me...
+
+561
+00:35:13,979 --> 00:35:19,110
+...your lives now are so much better
+because of what I have done for you.
+
+562
+00:35:19,284 --> 00:35:21,651
+You don't have to hide.
+We know you're not Wells.
+
+563
+00:35:21,820 --> 00:35:26,155
+-Just tell us who you are.
+-A confession will get you nowhere.
+
+564
+00:35:26,324 --> 00:35:29,089
+You've seen who I am.
+
+565
+00:35:29,260 --> 00:35:30,318
+You know what I can do.
+
+566
+00:35:30,495 --> 00:35:33,658
+You wanna kill me, go ahead.
+I'm not gonna fight you.
+
+567
+00:35:33,865 --> 00:35:37,802
+But just tell the police what you did.
+Get my dad out of prison.
+
+568
+00:35:37,969 --> 00:35:40,461
+<i>I don't want to kill you, Barry. I need you.</i>
+
+569
+00:35:40,639 --> 00:35:42,129
+And...
+
+570
+00:35:46,011 --> 00:35:50,107
+I also did not anticipate, as difficult as
+the past 15 years have been for me...
+
+571
+00:35:50,281 --> 00:35:53,046
+...how much I would <i>come</i> to love
+working with you.
+
+572
+00:35:53,885 --> 00:35:55,216
+<i>With all of you.</i>
+
+573
+00:35:55,453 --> 00:35:59,048
+And yet that does not change
+what needs to happen.
+
+574
+00:35:59,224 --> 00:36:01,056
+Then face me now.
+
+575
+00:36:01,226 --> 00:36:05,026
+Oh, we will face each other again.
+
+576
+00:36:05,730 --> 00:36:07,664
+I promise you. Soon.
+
+577
+00:36:08,233 --> 00:36:11,464
+<i>Very, very soon.</i>
+
+578
+00:36:11,636 --> 00:36:12,899
+[CELL PHONE BUZZES]
+
+579
+00:36:13,071 --> 00:36:15,665
+-He's in the time vault.
+-Barry!
+
+580
+00:36:32,023 --> 00:36:33,889
+It was all a setup.
+
+581
+00:36:34,859 --> 00:36:38,489
+We thought we set a trap for him,
+but he set a trap for us.
+
+582
+00:36:43,535 --> 00:36:45,594
+Oh, my God.
+
+583
+00:36:45,770 --> 00:36:47,397
+Iris.
+
+584
+00:36:53,411 --> 00:36:55,209
+-We have to find Iris.
+-Why?
+
+585
+00:36:55,380 --> 00:36:58,748
+Wells has been watching all of us.
+He has surveillance setup everywhere.
+
+586
+00:36:58,917 --> 00:37:01,249
+Our homes, my lab at the police station...
+
+587
+00:37:01,419 --> 00:37:02,909
+<i>...Central City Picture News.</i>
+
+588
+00:37:03,088 --> 00:37:06,353
+Cisco, call me when you have a location.
+
+589
+00:37:10,628 --> 00:37:13,757
+I am very much enjoying this stroll.
+
+590
+00:37:14,199 --> 00:37:16,566
+-We needed a good stroll.
+-Yeah.
+
+591
+00:37:16,735 --> 00:37:18,260
+[IRIS CHUCKLES]
+
+592
+00:37:18,436 --> 00:37:21,701
+Actually, though, would you mind
+if we park here for a second?
+
+593
+00:37:22,474 --> 00:37:23,532
+[CELL PHONE BUZZING]
+
+594
+00:37:23,708 --> 00:37:24,732
+Um...
+
+595
+00:37:25,477 --> 00:37:29,038
+-Oh, it's my dad.
+-Could you call him back later?
+
+596
+00:37:30,048 --> 00:37:31,311
+Sure.
+
+597
+00:37:31,816 --> 00:37:33,716
+What's going on?
+
+598
+00:37:33,885 --> 00:37:40,313
+Iris, this week,
+when I was arrested and it looked bad...
+
+599
+00:37:40,492 --> 00:37:44,395
+...you never wavered,
+you never lost faith in me.
+
+600
+00:37:44,562 --> 00:37:45,791
+Impossible.
+
+601
+00:37:45,964 --> 00:37:50,629
+And even though we've been
+through some rough times...
+
+602
+00:37:52,804 --> 00:37:54,966
+...I've never lost faith in us.
+
+603
+00:37:58,576 --> 00:37:59,600
+Iris West...
+
+604
+00:38:01,813 --> 00:38:03,303
+Eddie?
+
+605
+00:38:07,685 --> 00:38:08,743
+Eddie!
+
+606
+00:38:11,523 --> 00:38:14,288
+REVERSE-FLASH:
+Bad timing, detective.
+
+607
+00:38:15,293 --> 00:38:16,818
+Stop. Leave him alone.
+
+608
+00:38:16,995 --> 00:38:18,827
+Iris, no.
+
+609
+00:38:21,499 --> 00:38:23,433
+I know who you are.
+
+610
+00:38:23,601 --> 00:38:24,796
+You killed Barry's mom.
+
+611
+00:38:25,637 --> 00:38:27,628
+But you don't have to hurt anyone else.
+
+612
+00:38:30,942 --> 00:38:32,273
+[GASPS]
+
+613
+00:38:32,477 --> 00:38:35,344
+Hey, Iris. It's me, it's me.
+
+614
+00:38:35,547 --> 00:38:38,016
+He took him. The man in yellow.
+He took Eddie.
+
+615
+00:38:38,216 --> 00:38:41,015
+-I promise I will find him, okay?
+-What is happening?
+
+616
+00:38:41,219 --> 00:38:45,178
+Listen to me. You go home,
+you don't say anything to anyone.
+
+617
+00:38:45,356 --> 00:38:47,825
+I swear to you,
+I will bring him back, all right?
+
+618
+00:38:47,992 --> 00:38:49,187
+Wait—-
+
+619
+00:38:52,831 --> 00:38:54,356
+Barry.
+
+620
+00:39:07,545 --> 00:39:09,070
+[EDDIE GROANS]
+
+621
+00:39:09,714 --> 00:39:12,479
+You might as well take that mask off.
+
+622
+00:39:13,084 --> 00:39:16,714
+I know it's you, Wells,
+or whoever you really are.
+
+623
+00:39:16,921 --> 00:39:21,654
+REVERSE-FLASH:
+Well, allow me to introduce myself.
+
+624
+00:39:23,194 --> 00:39:26,095
+My name is Eobard.
+
+625
+00:39:27,232 --> 00:39:28,597
+Eobard Thawne.
+
+626
+00:39:30,535 --> 00:39:32,526
+I don't understand.
+
+627
+00:39:33,438 --> 00:39:34,872
+Why do you have my name?
+
+628
+00:39:35,607 --> 00:39:37,041
+Why?
+
+629
+00:39:37,208 --> 00:39:40,371
+Well, because we're family, Eddie.
+
+630
+00:39:42,080 --> 00:39:45,607
+Funny, I haven't seen you
+at any reunions or weddings.
+
+631
+00:39:45,783 --> 00:39:49,845
+That is funny,
+and the reason for that is because...
+
+632
+00:39:50,021 --> 00:39:53,082
+...as far as those guest lists
+are concerned...
+
+633
+00:39:54,058 --> 00:39:55,526
+...I haven't been born yet.
+
+634
+00:39:56,961 --> 00:39:59,794
+So that's why you didn't kill me
+that night at S.T.A.R. Labs.
+
+635
+00:40:03,234 --> 00:40:05,293
+This whole thing...
+
+636
+00:40:06,738 --> 00:40:09,230
+-...it's been about me?
+-Not a chance.
+
+637
+00:40:09,941 --> 00:40:12,103
+You, my friend...
+
+638
+00:40:13,611 --> 00:40:15,943
+are simply my insurance.
+
+639
+00:40:22,420 --> 00:40:24,149
+You look so young.
+
+640
+00:40:28,993 --> 00:40:31,121
+And I could kill you...
+
+641
+00:40:32,497 --> 00:40:33,589
+...right now...
+
+642
+00:40:34,332 --> 00:40:36,300
+...so easy.
+
+643
+00:40:41,806 --> 00:40:44,002
+What I wouldn't have given...
+
+644
+00:40:46,110 --> 00:40:48,977
+<i>...all</i> those times before
+to have had you like this.
+
+645
+00:40:50,448 --> 00:40:53,975
+So helpless.
+
+646
+00:40:54,752 --> 00:40:56,311
+But fate...
+
+647
+00:40:57,355 --> 00:41:00,347
+Fate's tricky, isn't it?
+
+648
+00:41:00,525 --> 00:41:03,586
+I come here to destroy you...
+
+649
+00:41:06,798 --> 00:41:09,961
+...and then to get home,
+I have to be the one who creates you.
+
+650
+00:41:12,036 --> 00:41:13,595
+[SCOFFS]
+
+651
+00:41:16,874 --> 00:41:18,535
+But I will say...
+
+652
+00:41:20,378 --> 00:41:21,868
+...it's been an education...
+
+653
+00:41:25,283 --> 00:41:29,481
+...watching you grow up all these years.
+Science fairs and soccer games.
+
+654
+00:41:31,222 --> 00:41:36,524
+No hint, no sign, no trace
+of the man you will be one day.
+
+655
+00:41:37,996 --> 00:41:40,397
+For whom I have nothing but hate.
+
+656
+00:41:41,366 --> 00:41:43,130
+And to be clear...
+
+657
+00:41:45,570 --> 00:41:47,561
+...nothing is forgiven.
+
+658
+00:41:48,573 --> 00:41:50,507
+There will be a reckoning.
+
+659
+00:41:51,309 --> 00:41:53,869
+I promise you, Barry Allen.
+
+660
+00:41:56,214 --> 00:41:58,046
+And you will die.
+
+661
+00:42:28,846 --> 00:42:30,837
+[English - us - SDH]
+

@@ -1,0 +1,2022 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 536
+Timer: 100.0
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,35,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:03:46.89,0:03:48.60,Default,,0,0,0,,Bava, these bank guys…
+Dialogue: 0,0:03:48.68,0:03:49.76,Default,,0,0,0,,If we come on time,\Nthey say it's tea break,
+Dialogue: 0,0:03:49.85,0:03:51.10,Default,,0,0,0,,and if we're late,\Nthey say it's lunch break.
+Dialogue: 0,0:03:51.18,0:03:52.05,Default,,0,0,0,,Let's hurry up.
+Dialogue: 0,0:03:52.31,0:03:53.77,Default,,0,0,0,,Here’s the money you asked for, sir.
+Dialogue: 0,0:03:58.06,0:04:00.06,Default,,0,0,0,,- Hey!\N- Hey, who are you guys?
+Dialogue: 0,0:04:00.14,0:04:01.05,Default,,0,0,0,,Bava!
+Dialogue: 0,0:04:01.14,0:04:03.72,Default,,0,0,0,,{\an8}- Chalapathi!\N- Four million, man. Hey, give me the bag!
+Dialogue: 0,0:04:03.81,0:04:04.69,Default,,0,0,0,,Hand it over!
+Dialogue: 0,0:04:06.10,0:04:07.80,Default,,0,0,0,,- Four million…\N- Give it to me.
+Dialogue: 0,0:04:07.89,0:04:09.47,Default,,0,0,0,,{\an8}Bava…
+Dialogue: 0,0:04:12.85,0:04:13.72,Default,,0,0,0,,The money…
+Dialogue: 0,0:06:27.31,0:06:28.81,Default,,0,0,0,,I knew about 24-carat gold,
+Dialogue: 0,0:06:28.93,0:06:30.89,Default,,0,0,0,,but he is a 24-carat character, Bava.
+Dialogue: 0,0:06:32.98,0:06:35.69,Default,,0,0,0,,What a good time!\NYou're getting a son-in-law who can fight.
+Dialogue: 0,0:06:38.85,0:06:41.39,Default,,0,0,0,,For the first time,\NI'm feeling sad about being born as a man.
+Dialogue: 0,0:06:44.89,0:06:47.01,Default,,0,0,0,,Had I been born as a woman…
+Dialogue: 0,0:06:51.85,0:06:54.60,Default,,0,0,0,,He has done what even our own people\Nwouldn’t dare to do.
+Dialogue: 0,0:06:54.68,0:06:55.89,Default,,0,0,0,,- Yes.\N- He is our son-in-law.
+Dialogue: 0,0:06:55.98,0:06:57.15,Default,,0,0,0,,- You can fix it.\N- What?
+Dialogue: 0,0:06:57.23,0:06:58.36,Default,,0,0,0,,Trust me!
+Dialogue: 0,0:06:58.43,0:06:59.76,Default,,0,0,0,,How about caste, family, and status?
+Dialogue: 0,0:06:59.85,0:07:03.30,Default,,0,0,0,,Bava, you can adjust all that\Nif you get a guy with talent and timing.
+Dialogue: 0,0:07:08.27,0:07:09.31,Default,,0,0,0,,The money is safe.
+Dialogue: 0,0:07:09.39,0:07:11.97,Default,,0,0,0,,I can’t believe\Nsomeone like you exists these days.
+Dialogue: 0,0:07:12.06,0:07:13.77,Default,,0,0,0,,You helped us just in time, sir.
+Dialogue: 0,0:07:13.85,0:07:16.89,Default,,0,0,0,,- Many thanks, sir…\N- Never mind. I hate praises.
+Dialogue: 0,0:07:16.98,0:07:18.19,Default,,0,0,0,,It’s easy to earn money,
+Dialogue: 0,0:07:18.27,0:07:20.23,Default,,0,0,0,,but very difficult to protect it.\NPlease take care of it.
+Dialogue: 0,0:07:20.31,0:07:22.36,Default,,0,0,0,,All that is fine, but what is your caste?
+Dialogue: 0,0:07:22.52,0:07:25.19,Default,,0,0,0,,I know pancakes and {\i1}dosas.{\i0}\NNow what is this?
+Dialogue: 0,0:07:25.35,0:07:27.85,Default,,0,0,0,,- Never heard of it.\N- Your full name, by the way?
+Dialogue: 0,0:07:28.02,0:07:31.11,Default,,0,0,0,,Parvataneni Papa Rao.\NThey gave me my grandfather’s name.
+Dialogue: 0,0:07:31.18,0:07:32.72,Default,,0,0,0,,He is our Parvataneni…
+Dialogue: 0,0:07:32.81,0:07:35.19,Default,,0,0,0,,- So, Kammas?\N- No, Chowdarys.
+Dialogue: 0,0:07:35.27,0:07:38.31,Default,,0,0,0,,It’s all the same. We are all one.
+Dialogue: 0,0:07:39.35,0:07:42.43,Default,,0,0,0,,See? My parents raised me\Nwithout even knowing what my caste was!
+Dialogue: 0,0:07:43.10,0:07:44.22,Default,,0,0,0,,It’s okay, son.
+Dialogue: 0,0:07:44.31,0:07:45.23,Default,,0,0,0,,Innocent parents.
+Dialogue: 0,0:07:45.31,0:07:47.44,Default,,0,0,0,,- What do you do, son?\N- I cleared the group exams.
+Dialogue: 0,0:07:47.52,0:07:48.65,Default,,0,0,0,,Awaiting the posting.
+Dialogue: 0,0:07:48.81,0:07:50.77,Default,,0,0,0,,My family is looking for a bride for me.
+Dialogue: 0,0:07:51.06,0:07:52.48,Default,,0,0,0,,- Ask them to stop.\N- Why?
+Dialogue: 0,0:07:52.56,0:07:54.94,Default,,0,0,0,,Bava, we should catch the young\Nby the net.
+Dialogue: 0,0:07:55.98,0:07:58.02,Default,,0,0,0,,Hello, man, you're coming over\Nfor a match meeting at our house tomorrow.
+Dialogue: 0,0:07:58.10,0:07:59.72,Default,,0,0,0,,Tomorrow? What about my family?
+Dialogue: 0,0:07:59.81,0:08:02.69,Default,,0,0,0,,You are coming with all of them\Nto our house to see our girl.
+Dialogue: 0,0:08:04.68,0:08:06.14,Default,,0,0,0,,Okay, as you wish.
+Dialogue: 0,0:08:08.23,0:08:10.15,Default,,0,0,0,,{\an8}Please come. Welcome.\NGlad you're on time.
+Dialogue: 0,0:08:10.23,0:08:11.23,Default,,0,0,0,,{\an8}Of course, we came.
+Dialogue: 0,0:08:11.31,0:08:12.94,Default,,0,0,0,,But why is this match meeting\Narranged in an outhouse?
+Dialogue: 0,0:08:13.02,0:08:14.52,Default,,0,0,0,,- Sister…\N- No, ma’am. It’s our house.
+Dialogue: 0,0:08:14.60,0:08:15.93,Default,,0,0,0,,Looks like our outhouse.
+Dialogue: 0,0:08:16.18,0:08:18.30,Default,,0,0,0,,Are you sure they will match our status?
+Dialogue: 0,0:08:18.39,0:08:20.01,Default,,0,0,0,,- Go in now…\N- Please come in.
+Dialogue: 0,0:08:21.81,0:08:23.31,Default,,0,0,0,,This house was built 100 years ago.
+Dialogue: 0,0:08:23.39,0:08:25.60,Default,,0,0,0,,Couldn’t you buy another house\Nin the last 100 years?
+Dialogue: 0,0:08:25.77,0:08:26.73,Default,,0,0,0,,Sister…
+Dialogue: 0,0:08:26.98,0:08:30.23,Default,,0,0,0,,Brother, I'm checking about their assets.\NShouldn’t I?
+Dialogue: 0,0:08:30.31,0:08:34.15,Default,,0,0,0,,Sister, not sure. For me, the smile\Nthat never fades is the best property.
+Dialogue: 0,0:08:34.23,0:08:36.31,Default,,0,0,0,,Looks like our son-in-law\Nhas modern thoughts.
+Dialogue: 0,0:08:36.39,0:08:38.26,Default,,0,0,0,,It’s not enough to have modern thoughts.
+Dialogue: 0,0:08:38.35,0:08:41.18,Default,,0,0,0,,We should also check out financially.\NThat’s why we came.
+Dialogue: 0,0:08:41.27,0:08:42.61,Default,,0,0,0,,What business are you in?
+Dialogue: 0,0:08:42.68,0:08:44.55,Default,,0,0,0,,We have been in the\Ntobacco business for ages.
+Dialogue: 0,0:08:44.64,0:08:46.89,Default,,0,0,0,,We are good until people stop smoking.
+Dialogue: 0,0:08:47.14,0:08:49.35,Default,,0,0,0,,- How about you?\N- We are in the incense business.
+Dialogue: 0,0:08:49.43,0:08:51.97,Default,,0,0,0,,We are also good\Nuntil people stop inhaling, Uncle.
+Dialogue: 0,0:08:52.06,0:08:54.65,Default,,0,0,0,,Why delay then?\NLet’s call the girl. What do you say?
+Dialogue: 0,0:08:54.73,0:08:56.36,Default,,0,0,0,,- Sister…\N- Brother…
+Dialogue: 0,0:08:56.60,0:08:57.60,Default,,0,0,0,,The girl.
+Dialogue: 0,0:08:58.14,0:08:59.01,Default,,0,0,0,,I can see.
+Dialogue: 0,0:09:10.56,0:09:11.56,Default,,0,0,0,,Oh, God!
+Dialogue: 0,0:09:12.39,0:09:14.26,Default,,0,0,0,,- Sister, are you okay?\N- What is this?
+Dialogue: 0,0:09:14.35,0:09:17.43,Default,,0,0,0,,Steel glasses. New ones.\NWe just bought these for you.
+Dialogue: 0,0:09:17.52,0:09:19.61,Default,,0,0,0,,Does steel glass look like this?
+Dialogue: 0,0:09:19.77,0:09:21.48,Default,,0,0,0,,We only use silver glasses at home.
+Dialogue: 0,0:09:21.56,0:09:24.40,Default,,0,0,0,,We gave steel glasses\Nto our servants 25 years ago.
+Dialogue: 0,0:09:26.06,0:09:28.86,Default,,0,0,0,,Don’t counter, Bava. Rich people…
+Dialogue: 0,0:09:28.93,0:09:31.76,Default,,0,0,0,,- Elder daughter-in-law, Suhasini.\N- 85 kg.
+Dialogue: 0,0:09:31.85,0:09:34.51,Default,,0,0,0,,- Second daughter-in-law, Paddu.\N- 76 kg.
+Dialogue: 0,0:09:34.73,0:09:36.31,Default,,0,0,0,,What about the younger daughter-in-law?
+Dialogue: 0,0:09:36.39,0:09:38.01,Default,,0,0,0,,A total of 110 kg.
+Dialogue: 0,0:09:38.10,0:09:39.85,Default,,0,0,0,,We are superior in this matter.
+Dialogue: 0,0:09:41.02,0:09:42.44,Default,,0,0,0,,Don’t get confused, Mr. Chalapathi.
+Dialogue: 0,0:09:42.52,0:09:44.19,Default,,0,0,0,,My sister wasn't just talking\Nabout their weight,
+Dialogue: 0,0:09:44.27,0:09:46.06,Default,,0,0,0,,but also the gold they brought as dowry.
+Dialogue: 0,0:09:46.14,0:09:48.85,Default,,0,0,0,,- Sister, take over now.\N- Brother, thanks.
+Dialogue: 0,0:09:48.93,0:09:52.14,Default,,0,0,0,,Let me tell you all openly.
+Dialogue: 0,0:09:52.23,0:09:53.94,Default,,0,0,0,,We are from Bezawada.
+Dialogue: 0,0:09:54.02,0:09:57.65,Default,,0,0,0,,We are very particular\Nabout customs and manners.
+Dialogue: 0,0:09:57.73,0:09:59.31,Default,,0,0,0,,Of course, we know that!
+Dialogue: 0,0:09:59.39,0:10:00.97,Default,,0,0,0,,Bezawada means the Goddess\Non top of the hill. And below--
+Dialogue: 0,0:10:01.06,0:10:03.65,Default,,0,0,0,,Bava! No controversies, Bava.
+Dialogue: 0,0:10:04.98,0:10:06.27,Default,,0,0,0,,So, you were saying something.
+Dialogue: 0,0:10:06.35,0:10:08.80,Default,,0,0,0,,Listen. As per our custom,
+Dialogue: 0,0:10:08.98,0:10:12.69,Default,,0,0,0,,we weigh the girl\Nduring the match meeting,
+Dialogue: 0,0:10:12.77,0:10:16.06,Default,,0,0,0,,and she brings gold worth her weight.
+Dialogue: 0,0:10:17.39,0:10:18.51,Default,,0,0,0,,God, save me.
+Dialogue: 0,0:10:18.93,0:10:21.30,Default,,0,0,0,,She is already heavy.\NOn top of it, weighing her!
+Dialogue: 0,0:10:21.39,0:10:22.80,Default,,0,0,0,,You have no choice, sir.
+Dialogue: 0,0:10:22.89,0:10:25.51,Default,,0,0,0,,Anyway, you need to pay after the wedding.\NConsider it an advance booking.
+Dialogue: 0,0:10:25.60,0:10:27.97,Default,,0,0,0,,Trust me!\NWe are okay with your challenge!
+Dialogue: 0,0:10:28.60,0:10:31.18,Default,,0,0,0,,Here’s a 22-carat gold coin.
+Dialogue: 0,0:10:31.27,0:10:34.15,Default,,0,0,0,,Seven-week ornaments.
+Dialogue: 0,0:10:34.77,0:10:36.52,Default,,0,0,0,,Gold biscuits from Bombay.
+Dialogue: 0,0:10:37.27,0:10:39.36,Default,,0,0,0,,These all are from Bengal.
+Dialogue: 0,0:10:45.64,0:10:49.68,Default,,0,0,0,,Forget about weighing her.\NThe needle isn’t even moving.
+Dialogue: 0,0:10:49.85,0:10:52.76,Default,,0,0,0,,Hey, Mr. Gold?\NDon’t you have more gold at home?
+Dialogue: 0,0:10:52.85,0:10:55.80,Default,,0,0,0,,It’s okay.\NWe’ll make up the difference with cash.
+Dialogue: 0,0:10:56.23,0:10:58.56,Default,,0,0,0,,Glad you said that.\NHey, bring the cash.
+Dialogue: 0,0:10:58.81,0:11:01.61,Default,,0,0,0,,Here is the money my Bava earned\Nfrom the tobacco business.
+Dialogue: 0,0:11:12.85,0:11:13.85,Default,,0,0,0,,Well done!
+Dialogue: 0,0:11:21.31,0:11:22.90,Default,,0,0,0,,- Jhansi ma'am!\N- Sir!
+Dialogue: 0,0:11:22.98,0:11:24.69,Default,,0,0,0,,Seize everything and seal it.
+Dialogue: 0,0:11:24.85,0:11:26.76,Default,,0,0,0,,- I will sign and stamp it.\N- Okay, sir.
+Dialogue: 0,0:11:26.85,0:11:28.64,Default,,0,0,0,,We’re from the Income Tax Department.
+Dialogue: 0,0:11:38.43,0:11:40.43,Default,,0,0,0,,You said they were our people\Nand made them part of the family.
+Dialogue: 0,0:11:40.52,0:11:41.44,Default,,0,0,0,,Now everything is ruined!
+Dialogue: 0,0:11:42.10,0:11:43.64,Default,,0,0,0,,Bava!
+Dialogue: 0,0:11:52.06,0:11:53.15,Default,,0,0,0,,Stop the car.
+Dialogue: 0,0:11:54.89,0:11:56.97,Default,,0,0,0,,- Do you need a lift, my son?\N- Yes, of course.
+Dialogue: 0,0:11:57.23,0:11:58.11,Default,,0,0,0,,Please get in.
+Dialogue: 0,0:12:00.14,0:12:01.80,Default,,0,0,0,,Politicians don’t give\Nanything even if we ask.
+Dialogue: 0,0:12:01.89,0:12:03.80,Default,,0,0,0,,You’re giving a lift without even asking.
+Dialogue: 0,0:12:04.10,0:12:06.85,Default,,0,0,0,,We’re not able to give anything\Nto the people after being in power,
+Dialogue: 0,0:12:07.35,0:12:09.18,Default,,0,0,0,,so I thought I’d at least give a lift.
+Dialogue: 0,0:12:09.35,0:12:10.51,Default,,0,0,0,,You drive.
+Dialogue: 0,0:12:11.23,0:12:12.98,Default,,0,0,0,,What do you do, man?
+Dialogue: 0,0:12:14.93,0:12:16.43,Default,,0,0,0,,Should we have tea somewhere?
+Dialogue: 0,0:12:16.98,0:12:18.65,Default,,0,0,0,,{\an8}I was an IT officer until yesterday, sir.
+Dialogue: 0,0:12:18.81,0:12:21.27,Default,,0,0,0,,{\an8}So, if you were\Nan income tax officer until yesterday,
+Dialogue: 0,0:12:21.60,0:12:23.05,Default,,0,0,0,,{\an8}something happened yesterday.
+Dialogue: 0,0:12:23.31,0:12:24.48,Default,,0,0,0,,What was it?
+Dialogue: 0,0:12:24.89,0:12:26.39,Default,,0,0,0,,Morning…
+Dialogue: 0,0:12:26.68,0:12:27.89,Default,,0,0,0,,Good morning, Jhansi ma’am.
+Dialogue: 0,0:12:28.02,0:12:29.48,Default,,0,0,0,,What happened, Murthy sir?
+Dialogue: 0,0:12:33.73,0:12:34.77,Default,,0,0,0,,He could have become a son-in-law,
+Dialogue: 0,0:12:35.48,0:12:36.40,Default,,0,0,0,,but now he’s getting insulted.
+Dialogue: 0,0:12:36.52,0:12:38.98,Default,,0,0,0,,Just because you have power in hand,\Ndo you think you can go to anyone’s house?
+Dialogue: 0,0:12:39.14,0:12:40.76,Default,,0,0,0,,Do you know who Mr. Jagga Rao is?
+Dialogue: 0,0:12:40.85,0:12:43.18,Default,,0,0,0,,Officer, don’t tell him anything about me.
+Dialogue: 0,0:12:44.81,0:12:46.81,Default,,0,0,0,,He’ll understand on his own soon.
+Dialogue: 0,0:12:47.02,0:12:47.90,Default,,0,0,0,,Sure, sir.
+Dialogue: 0,0:12:47.98,0:12:51.65,Default,,0,0,0,,Apologize to him if you want to\Nat least keep your job.
+Dialogue: 0,0:12:52.06,0:12:54.61,Default,,0,0,0,,After doing a few raids\Nand achieving success in his career,
+Dialogue: 0,0:12:55.18,0:12:58.30,Default,,0,0,0,,he started seeing stars,\Nhis head held high.
+Dialogue: 0,0:12:58.43,0:13:00.85,Default,,0,0,0,,I’ll bring him down.\NI’ll bring everything down today.
+Dialogue: 0,0:13:04.10,0:13:05.80,Default,,0,0,0,,Okay, your wish.
+Dialogue: 0,0:13:07.98,0:13:08.98,Default,,0,0,0,,Stop!
+Dialogue: 0,0:13:09.23,0:13:11.19,Default,,0,0,0,,What happened to your manhood?
+Dialogue: 0,0:13:11.73,0:13:13.98,Default,,0,0,0,,Are you ashamed to touch my feet\Nin front of everyone?
+Dialogue: 0,0:13:14.23,0:13:15.23,Default,,0,0,0,,Not acceptable.
+Dialogue: 0,0:13:15.31,0:13:19.40,Default,,0,0,0,,Everyone in your department should know\Nwhat happens if someone targets me.
+Dialogue: 0,0:13:21.77,0:13:23.06,Default,,0,0,0,,What is this, sir?
+Dialogue: 0,0:13:23.52,0:13:25.52,Default,,0,0,0,,A tribute to honesty.
+Dialogue: 0,0:13:26.10,0:13:27.35,Default,,0,0,0,,Watch and learn.
+Dialogue: 0,0:13:27.73,0:13:31.40,Default,,0,0,0,,Take off my sandal with your hand\Nand lean your head against my leg.
+Dialogue: 0,0:13:31.52,0:13:33.94,Default,,0,0,0,,Then I’ll think about your job.
+Dialogue: 0,0:13:39.35,0:13:40.22,Default,,0,0,0,,Oh, God!
+Dialogue: 0,0:13:40.48,0:13:41.36,Default,,0,0,0,,Oh, God!
+Dialogue: 0,0:13:42.64,0:13:45.26,Default,,0,0,0,,How could you beat such a powerful man?
+Dialogue: 0,0:13:48.06,0:13:48.98,Default,,0,0,0,,This is how.
+Dialogue: 0,0:13:49.77,0:13:52.77,Default,,0,0,0,,Now you can wear them, sir. Wear them.
+Dialogue: 0,0:13:53.98,0:13:55.27,Default,,0,0,0,,What? Powerful?
+Dialogue: 0,0:13:55.73,0:13:56.61,Default,,0,0,0,,In what way?
+Dialogue: 0,0:13:56.68,0:13:58.01,Default,,0,0,0,,No matter how many millions he has,
+Dialogue: 0,0:13:58.10,0:14:01.30,Default,,0,0,0,,he got beaten with a sandal by a guy\Nearning four thousand rupees a month.
+Dialogue: 0,0:14:01.39,0:14:03.14,Default,,0,0,0,,Is he powerful, or am I?
+Dialogue: 0,0:14:03.64,0:14:04.64,Default,,0,0,0,,What did you say?
+Dialogue: 0,0:14:05.14,0:14:08.18,Default,,0,0,0,,That I got an attitude\Nafter a few successful raids?
+Dialogue: 0,0:14:08.60,0:14:11.39,Default,,0,0,0,,Success and failures are visitors.
+Dialogue: 0,0:14:11.48,0:14:12.94,Default,,0,0,0,,They come and go.
+Dialogue: 0,0:14:13.39,0:14:15.14,Default,,0,0,0,,Attitude is like our surname.
+Dialogue: 0,0:14:15.27,0:14:17.48,Default,,0,0,0,,It stays with us until we die.
+Dialogue: 0,0:14:17.81,0:14:19.56,Default,,0,0,0,,Krishna Murthy sir, give me a cigarette.
+Dialogue: 0,0:14:19.73,0:14:20.73,Default,,0,0,0,,Sir, in here?
+Dialogue: 0,0:14:20.85,0:14:22.76,Default,,0,0,0,,Doesn’t matter where,\Nafter getting suspended.
+Dialogue: 0,0:14:30.48,0:14:33.56,Default,,0,0,0,,By the way,\Nmy name isn’t Parvataneni Papa Rao.
+Dialogue: 0,0:14:34.48,0:14:35.36,Default,,0,0,0,,Bachchan.
+Dialogue: 0,0:14:35.43,0:14:36.60,Default,,0,0,0,,Mr. Bachchan.
+Dialogue: 0,0:14:36.93,0:14:38.30,Default,,0,0,0,,You must have heard the name.
+Dialogue: 0,0:14:39.02,0:14:40.52,Default,,0,0,0,,Now you’ll remember it.
+Dialogue: 0,0:14:46.85,0:14:48.97,Default,,0,0,0,,It’s not poverty\Nthat afflicts this country, sir.
+Dialogue: 0,0:14:49.06,0:14:50.77,Default,,0,0,0,,It’s black money.
+Dialogue: 0,0:14:50.93,0:14:55.01,Default,,0,0,0,,And if the poor man is suffering,\Nit’s because of black money.
+Dialogue: 0,0:14:58.60,0:15:02.35,Default,,0,0,0,,Still, if the country is running fine,\Nit’s because of sincere officers like you.
+Dialogue: 0,0:15:02.43,0:15:04.43,Default,,0,0,0,,Sincere officers aren’t enough, sir.
+Dialogue: 0,0:15:04.52,0:15:06.02,Default,,0,0,0,,We need sincere politicians.
+Dialogue: 0,0:15:07.23,0:15:08.44,Default,,0,0,0,,{\an8}Noted, sir.
+Dialogue: 0,0:15:09.56,0:15:11.73,Default,,0,0,0,,By the way, why is your name Mr. Bachchan?
+Dialogue: 0,0:15:11.98,0:15:14.48,Default,,0,0,0,,- Are you North Indian?\N- Nothing like that, sir.
+Dialogue: 0,0:15:14.56,0:15:15.94,Default,,0,0,0,,We’re pure Telugu, from Andhra Pradesh.
+Dialogue: 0,0:15:16.06,0:15:17.98,Default,,0,0,0,,Do you know what happened on August 15th?
+Dialogue: 0,0:15:18.89,0:15:21.80,Default,,0,0,0,,I’m a politician, and you’re asking me?
+Dialogue: 0,0:15:21.89,0:15:24.55,Default,,0,0,0,,You are talking about August 15th, 1947.
+Dialogue: 0,0:15:24.73,0:15:27.23,Default,,0,0,0,,I’m talking about August 15th, 1975.
+Dialogue: 0,0:15:27.31,0:15:30.19,Default,,0,0,0,,That day, {\i1}Sholay{\i0} released\Nin 70mm stereophonic sound.
+Dialogue: 0,0:15:30.48,0:15:32.81,Default,,0,0,0,,- So?\N- Our lives changed from that day.
+Dialogue: 0,0:15:33.52,0:15:35.31,Default,,0,0,0,,My father is a big fan of {\i1}Sholay.{\i0}
+Dialogue: 0,0:15:37.60,0:15:38.85,Default,,0,0,0,,It's time for the show.
+Dialogue: 0,0:15:38.93,0:15:40.26,Default,,0,0,0,,{\i1}He watched it at least 100 times.{\i0}
+Dialogue: 0,0:15:41.89,0:15:43.14,Default,,0,0,0,,LAKSHMI TOURING TALKIES
+Dialogue: 0,0:15:45.77,0:15:48.36,Default,,0,0,0,,{\i1}Sholay…{\i0} what a movie!
+Dialogue: 0,0:15:49.18,0:15:52.01,Default,,0,0,0,,And my father came home in that madness…
+Dialogue: 0,0:15:57.02,0:15:59.81,Default,,0,0,0,,My son, from today,\Nyour name is Amitabh Bachchan.
+Dialogue: 0,0:16:00.27,0:16:02.36,Default,,0,0,0,,Daddy, my name is Anand,\Nnot Amitabh Bachchan.
+Dialogue: 0,0:16:02.43,0:16:03.51,Default,,0,0,0,,Then you’re Anand Bachchan.
+Dialogue: 0,0:16:03.60,0:16:04.89,Default,,0,0,0,,- And your friend’s name is Veeru.\N- Me?
+Dialogue: 0,0:16:04.98,0:16:08.40,Default,,0,0,0,,- And you?\N- Thakur. Thakur of Ramgarh.
+Dialogue: 0,0:16:08.48,0:16:10.56,Default,,0,0,0,,- What kind of name is that?\N- You shut up, Basanti.
+Dialogue: 0,0:16:10.64,0:16:12.10,Default,,0,0,0,,Now, who is she?
+Dialogue: 0,0:16:12.89,0:16:13.76,Default,,0,0,0,,It’s you!
+Dialogue: 0,0:16:14.18,0:16:16.22,Default,,0,0,0,,{\i1}He changed our surname to Ramgarh{\i0}
+Dialogue: 0,0:16:16.39,0:16:17.89,Default,,0,0,0,,{\i1}and attached a sidecar to my scooter.{\i0}
+Dialogue: 0,0:16:29.23,0:16:31.48,Default,,0,0,0,,I don’t pick up money\Nthat’s thrown, even today.
+Dialogue: 0,0:16:31.64,0:16:33.89,Default,,0,0,0,,{\i1}- Deewaar.{\i0}\N- I have my mother with me.
+Dialogue: 0,0:16:34.10,0:16:35.39,Default,,0,0,0,,I love you, my son.
+Dialogue: 0,0:16:38.52,0:16:40.56,Default,,0,0,0,,Bachchan. Mr. Bachchan.
+Dialogue: 0,0:16:40.98,0:16:42.27,Default,,0,0,0,,You must have heard the name.
+Dialogue: 0,0:16:42.35,0:16:44.76,Default,,0,0,0,,Bachchan. My Bachchan.
+Dialogue: 0,0:16:45.31,0:16:47.27,Default,,0,0,0,,{\i1}With that, my name got fixed.{\i0}
+Dialogue: 0,0:16:47.39,0:16:49.05,Default,,0,0,0,,{\i1}Couldn’t you change it after growing up?{\i0}
+Dialogue: 0,0:16:49.31,0:16:51.65,Default,,0,0,0,,He gave me birth.\NCan’t I give him that much happiness?
+Dialogue: 0,0:16:52.52,0:16:54.56,Default,,0,0,0,,From today,\Nnot only am I a fan of that Bachchan,
+Dialogue: 0,0:16:54.77,0:16:57.11,Default,,0,0,0,,{\an8}- but I’m also a fan of this Bachchan.\N- Thank you, sir.
+Dialogue: 0,0:16:57.48,0:16:58.69,Default,,0,0,0,,If everything goes well, we’ll meet again.
+Dialogue: 0,0:16:58.81,0:16:59.69,Default,,0,0,0,,Sure, sir.
+Dialogue: 0,0:17:02.43,0:17:04.10,Default,,0,0,0,,Hey, I’m not getting a good card.
+Dialogue: 0,0:17:04.18,0:17:05.39,Default,,0,0,0,,You're so dead today!
+Dialogue: 0,0:17:09.98,0:17:12.56,Default,,0,0,0,,Hey, look, after a long time,\Nthe Joker is coming.
+Dialogue: 0,0:17:16.02,0:17:17.11,Default,,0,0,0,,Hey, you gambler!
+Dialogue: 0,0:17:17.39,0:17:19.14,Default,,0,0,0,,Hey, Bachchan! You kiddo!
+Dialogue: 0,0:17:19.31,0:17:21.40,Default,,0,0,0,,I’m the rising hand in this place.
+Dialogue: 0,0:17:21.48,0:17:22.98,Default,,0,0,0,,Be careful with your words.
+Dialogue: 0,0:17:23.27,0:17:25.52,Default,,0,0,0,,Your hand might be rising\Nin playing cards.
+Dialogue: 0,0:17:26.18,0:17:28.51,Default,,0,0,0,,My hand rises in any game.
+Dialogue: 0,0:17:29.10,0:17:31.64,Default,,0,0,0,,I’m the care-of-address for sarcasm.
+Dialogue: 0,0:17:31.85,0:17:35.93,Default,,0,0,0,,I’ll smack your head off\Nif you play with me.
+Dialogue: 0,0:17:38.89,0:17:40.68,Default,,0,0,0,,If not for bad luck,
+Dialogue: 0,0:17:40.98,0:17:43.52,Default,,0,0,0,,how could a guy singing\Nin an orchestra become an IT officer?
+Dialogue: 0,0:17:43.93,0:17:47.76,Default,,0,0,0,,And a guy owning 500 acres of land\Nis playing cards with these five people?
+Dialogue: 0,0:17:48.43,0:17:51.72,Default,,0,0,0,,- Time, man. Time.\N- It’s 1 p.m., brother. It’s lunchtime.
+Dialogue: 0,0:17:52.06,0:17:53.90,Default,,0,0,0,,I will kick you on your back. Play now.
+Dialogue: 0,0:17:55.39,0:17:57.51,Default,,0,0,0,,Basanti, look who’s here!
+Dialogue: 0,0:17:57.60,0:17:59.39,Default,,0,0,0,,Thakur Baldev Singh!
+Dialogue: 0,0:17:59.89,0:18:00.76,Default,,0,0,0,,You're back!
+Dialogue: 0,0:18:01.06,0:18:02.40,Default,,0,0,0,,My lovely son.
+Dialogue: 0,0:18:02.77,0:18:04.86,Default,,0,0,0,,Fresh up and come. Have lunch.
+Dialogue: 0,0:18:05.14,0:18:06.97,Default,,0,0,0,,Not sure when you last ate.
+Dialogue: 0,0:18:07.06,0:18:08.48,Default,,0,0,0,,My Bhagyalaxmi!
+Dialogue: 0,0:18:08.68,0:18:10.14,Default,,0,0,0,,- My Bachchan!\N- Bachchan is back!
+Dialogue: 0,0:18:12.60,0:18:15.14,Default,,0,0,0,,- Brother, it's been so long!\N- How many days are you camping here?
+Dialogue: 0,0:18:15.23,0:18:16.56,Default,,0,0,0,,Should we start the orchestra again?
+Dialogue: 0,0:18:16.64,0:18:18.68,Default,,0,0,0,,If you say yes, we can accept\Nprograms for all the villages around.
+Dialogue: 0,0:18:18.98,0:18:21.52,Default,,0,0,0,,- Stay at least till Vinayaka Chavithi.\N- I’ll sign up for all the Navaratris.
+Dialogue: 0,0:18:21.64,0:18:22.85,Default,,0,0,0,,Why only Chavithi?
+Dialogue: 0,0:18:22.93,0:18:25.05,Default,,0,0,0,,I’ll be here until Dasara,\NDiwali, and Sankranti.
+Dialogue: 0,0:18:25.14,0:18:26.47,Default,,0,0,0,,They suspended me.
+Dialogue: 0,0:18:27.56,0:18:29.36,Default,,0,0,0,,Such good news, my son.
+Dialogue: 0,0:18:29.98,0:18:31.90,Default,,0,0,0,,I expected something when\Nthe phone got disconnected.
+Dialogue: 0,0:18:31.98,0:18:34.27,Default,,0,0,0,,The government may be late\Nin giving us what we deserve.
+Dialogue: 0,0:18:34.43,0:18:36.10,Default,,0,0,0,,But when they have to\Nthrow us out, they do it fast.
+Dialogue: 0,0:18:36.23,0:18:37.52,Default,,0,0,0,,You said it right, my son.
+Dialogue: 0,0:18:37.81,0:18:39.56,Default,,0,0,0,,I’ll take advances\Nfor all the festivals then.
+Dialogue: 0,0:18:39.73,0:18:42.40,Default,,0,0,0,,Go ahead and take them.\NThis is Kotipalli's Kumar Sanu.
+Dialogue: 0,0:18:42.52,0:18:45.15,Default,,0,0,0,,He’ll hold the mic again\Nand sing the songs.
+Dialogue: 0,0:18:51.35,0:18:52.43,Default,,0,0,0,,- Come, Mr. Pankaj.\N- Greetings.
+Dialogue: 0,0:18:52.52,0:18:54.81,Default,,0,0,0,,No puja can start in this temple unless\Nyou play a cassette.
+Dialogue: 0,0:18:54.89,0:18:56.39,Default,,0,0,0,,Which song are you playing today?
+Dialogue: 0,0:18:57.56,0:18:59.02,Default,,0,0,0,,{\i1}Seetha Kalyanam.{\i0}
+Dialogue: 0,0:18:59.35,0:19:00.97,Default,,0,0,0,,Our daughter is on her way.
+Dialogue: 0,0:19:01.10,0:19:03.35,Default,,0,0,0,,You’ll get what you need\Nfor the puja soon.
+Dialogue: 0,0:19:09.85,0:19:10.89,Default,,0,0,0,,Hail Lord Ram.
+Dialogue: 0,0:19:41.23,0:19:42.23,Default,,0,0,0,,{\an8}- It’s time for a card game.\N- Brother…
+Dialogue: 0,0:19:42.31,0:19:43.77,Default,,0,0,0,,{\an8}- What?\N- Sister-in-law, bro.
+Dialogue: 0,0:19:47.14,0:19:48.10,Default,,0,0,0,,{\an8}Jikki!
+Dialogue: 0,0:19:51.73,0:19:52.73,Default,,0,0,0,,Oh, no.
+Dialogue: 0,0:19:52.85,0:19:55.30,Default,,0,0,0,,This Dorababu is there\Nto take you to the temple, right?
+Dialogue: 0,0:19:55.39,0:19:57.76,Default,,0,0,0,,Why these adventures?\NNow see what happened.
+Dialogue: 0,0:19:58.02,0:19:59.23,Default,,0,0,0,,Go away.
+Dialogue: 0,0:20:09.35,0:20:10.35,Default,,0,0,0,,One minute.
+Dialogue: 0,0:20:11.68,0:20:12.89,Default,,0,0,0,,He will break the chain.
+Dialogue: 0,0:20:35.02,0:20:36.94,Default,,0,0,0,,Hey, gambler! Get up!
+Dialogue: 0,0:20:42.31,0:20:44.06,Default,,0,0,0,,Is he pulling her half-sari,\Nor my queen as well?
+Dialogue: 0,0:20:44.14,0:20:45.01,Default,,0,0,0,,Both, bro.
+Dialogue: 0,0:20:55.56,0:20:56.65,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:20:58.31,0:20:59.94,Default,,0,0,0,,You're welcome for a lifetime.
+Dialogue: 0,0:21:03.81,0:21:05.31,Default,,0,0,0,,Has Bachchan become even more glamorous?
+Dialogue: 0,0:21:05.39,0:21:08.10,Default,,0,0,0,,No! Men should be dark\Nand women should be fair.
+Dialogue: 0,0:21:08.18,0:21:09.05,Default,,0,0,0,,That’s the rule.
+Dialogue: 0,0:21:09.68,0:21:11.51,Default,,0,0,0,,Look at him. He looks fair and pale.
+Dialogue: 0,0:21:14.02,0:21:15.44,Default,,0,0,0,,{\an8}HAIL LORD RAM
+Dialogue: 0,0:21:23.73,0:21:25.56,Default,,0,0,0,,Why are you chasing\Nafter the bicycle chain, dude?
+Dialogue: 0,0:21:25.64,0:21:27.01,Default,,0,0,0,,{\an8}DONATION BOX
+Dialogue: 0,0:21:28.52,0:21:29.69,Default,,0,0,0,,{\an8}Hail Lord Ram.
+Dialogue: 0,0:21:29.81,0:21:31.56,Default,,0,0,0,,Look, he put in twenty rupees!
+Dialogue: 0,0:21:31.73,0:21:33.27,Default,,0,0,0,,As if he did something great.
+Dialogue: 0,0:21:33.43,0:21:35.35,Default,,0,0,0,,What’s the big deal\Nabout donating twenty rupees?
+Dialogue: 0,0:21:35.56,0:21:36.90,Default,,0,0,0,,I can put in a hundred rupees.
+Dialogue: 0,0:21:40.89,0:21:42.85,Default,,0,0,0,,It’s a sin. God is watching.
+Dialogue: 0,0:21:42.93,0:21:46.26,Default,,0,0,0,,Whether a note or a word,\Nonce it slips, it belongs to Lord Krishna.
+Dialogue: 0,0:21:46.35,0:21:47.72,Default,,0,0,0,,Why talk about Krishna\Nin the temple of Ram?
+Dialogue: 0,0:21:47.81,0:21:49.48,Default,,0,0,0,,- I will take my ten thousand.\N- Even then,
+Dialogue: 0,0:21:49.56,0:21:50.65,Default,,0,0,0,,you can only put money\Nin the donation box.
+Dialogue: 0,0:21:50.77,0:21:51.65,Default,,0,0,0,,You can’t take it away. It’s a sin.
+Dialogue: 0,0:21:51.73,0:21:54.23,Default,,0,0,0,,- My ten thousand.\N- It's a sin.
+Dialogue: 0,0:21:54.31,0:21:57.73,Default,,0,0,0,,Ten thousand. This sin is yours.
+Dialogue: 0,0:21:57.98,0:21:59.61,Default,,0,0,0,,As if you are a rising hand, right?
+Dialogue: 0,0:22:00.81,0:22:02.36,Default,,0,0,0,,I've talked about the Ramayana.
+Dialogue: 0,0:22:02.43,0:22:04.64,Default,,0,0,0,,What did you understand?\NSummarize it in one word.
+Dialogue: 0,0:22:04.73,0:22:06.27,Default,,0,0,0,,Wives should always\Nlisten to their husbands.
+Dialogue: 0,0:22:06.35,0:22:08.14,Default,,0,0,0,,Since she didn’t listen to her husband,\NGoddess Sita faced many difficulties.
+Dialogue: 0,0:22:08.35,0:22:10.43,Default,,0,0,0,,This is what women\Nshould learn from the Ramayana.
+Dialogue: 0,0:22:10.64,0:22:11.51,Default,,0,0,0,,You stop, man.
+Dialogue: 0,0:22:11.60,0:22:13.85,Default,,0,0,0,,Just because the wife\Nasked for a golden deer
+Dialogue: 0,0:22:13.93,0:22:16.18,Default,,0,0,0,,or a monkey on the mountain,\Na husband shouldn’t venture out.
+Dialogue: 0,0:22:16.35,0:22:18.55,Default,,0,0,0,,That’s why he kidnapped Goddess Sita.
+Dialogue: 0,0:22:20.93,0:22:21.97,Default,,0,0,0,,Trust.
+Dialogue: 0,0:22:23.14,0:22:25.05,Default,,0,0,0,,The Ramayana is about trust.
+Dialogue: 0,0:22:25.85,0:22:29.55,Default,,0,0,0,,Sita trusted that Ram\Nwould come to Ashoka Vanam.
+Dialogue: 0,0:22:47.93,0:22:51.10,Default,,0,0,0,,It’s not good for you to run after me\Nafter I thanked you for helping me.
+Dialogue: 0,0:22:51.18,0:22:53.43,Default,,0,0,0,,When did I run after you?\NI’m standing right in front of you.
+Dialogue: 0,0:22:54.10,0:22:57.10,Default,,0,0,0,,It’s amazing if a guy like this\Nruns after or stands in front.
+Dialogue: 0,0:22:57.18,0:22:58.05,Default,,0,0,0,,Yeah, girl.
+Dialogue: 0,0:22:58.14,0:23:00.39,Default,,0,0,0,,Tell me if you aren’t interested.\NI will try for myself.
+Dialogue: 0,0:23:02.23,0:23:04.77,Default,,0,0,0,,The guy is showing his intelligence.
+Dialogue: 0,0:23:04.85,0:23:05.72,Default,,0,0,0,,Yes.
+Dialogue: 0,0:23:05.81,0:23:08.31,Default,,0,0,0,,You can’t love with intelligence.
+Dialogue: 0,0:23:08.39,0:23:10.39,Default,,0,0,0,,You fall in love without being aware.
+Dialogue: 0,0:23:10.81,0:23:11.73,Default,,0,0,0,,And I fell!
+Dialogue: 0,0:23:12.14,0:23:13.01,Default,,0,0,0,,Let’s go!
+Dialogue: 0,0:23:13.10,0:23:15.97,Default,,0,0,0,,Hey girl, I’m talking to you. Stop…
+Dialogue: 0,0:23:16.60,0:23:19.97,Default,,0,0,0,,Why are you walking in reverse,\Nunlike others?
+Dialogue: 0,0:23:20.06,0:23:20.94,Default,,0,0,0,,It is said in the ancient scriptures
+Dialogue: 0,0:23:21.02,0:23:23.94,Default,,0,0,0,,that someone born facing in reverse\Nshould also walk in reverse.
+Dialogue: 0,0:23:25.73,0:23:27.06,Default,,0,0,0,,Why don’t you tell me your name?
+Dialogue: 0,0:23:27.23,0:23:28.15,Default,,0,0,0,,I won’t.
+Dialogue: 0,0:23:28.23,0:23:30.15,Default,,0,0,0,,- I will make you reveal it.\N- My tongue won’t slip.
+Dialogue: 0,0:23:31.14,0:23:32.22,Default,,0,0,0,,You will slip.
+Dialogue: 0,0:23:37.48,0:23:39.23,Default,,0,0,0,,- Jikki!\N- What happened, Jikki?
+Dialogue: 0,0:23:39.31,0:23:40.36,Default,,0,0,0,,Are you okay, Jikki?
+Dialogue: 0,0:23:46.73,0:23:48.90,Default,,0,0,0,,Jikki… What is your name, Jikki?
+Dialogue: 0,0:23:49.98,0:23:51.19,Default,,0,0,0,,Say it, Jikki!
+Dialogue: 0,0:23:51.52,0:23:53.02,Default,,0,0,0,,Say it, Jikki!
+Dialogue: 0,0:23:53.10,0:23:55.51,Default,,0,0,0,,Was it necessary? Jikki, Jikki, Jikki!
+Dialogue: 0,0:23:56.10,0:23:59.05,Default,,0,0,0,,Jikki, you are very lucky!
+Dialogue: 0,0:24:07.35,0:24:10.47,Default,,0,0,0,,{\i1}Naughtily, like a design{\i0}
+Dialogue: 0,0:24:11.10,0:24:14.72,Default,,0,0,0,,{\i1}She knotted me with playful looks{\i0}
+Dialogue: 0,0:24:14.93,0:24:18.01,Default,,0,0,0,,{\i1}Oh, my girl, because of you{\i0}
+Dialogue: 0,0:24:18.77,0:24:22.69,Default,,0,0,0,,{\i1}Music is playing in my heart{\i0}
+Dialogue: 0,0:24:32.52,0:24:35.98,Default,,0,0,0,,{\i1}My heart took an oath after seeing you{\i0}
+Dialogue: 0,0:24:36.43,0:24:40.18,Default,,0,0,0,,{\i1}Crossed the barrier and beaten heavily{\i0}
+Dialogue: 0,0:24:40.27,0:24:43.65,Default,,0,0,0,,{\i1}Held the girl’s hand with strong resolve{\i0}
+Dialogue: 0,0:24:43.98,0:24:47.36,Default,,0,0,0,,{\i1}How to stop after getting ignited?{\i0}
+Dialogue: 0,0:24:48.14,0:24:51.76,Default,,0,0,0,,{\i1}My heart caught by you{\i0}\N{\i1}Refusing to get down from the cloud{\i0}
+Dialogue: 0,0:24:51.85,0:24:55.43,Default,,0,0,0,,{\i1}Carved your idol{\i0}\N{\i1}And worshiped you every day, Jikki{\i0}
+Dialogue: 0,0:24:55.56,0:24:57.56,Default,,0,0,0,,{\i1}I’m emphasizing{\i0}
+Dialogue: 0,0:24:57.64,0:25:02.60,Default,,0,0,0,,{\i1}If our acquaintance{\i0}\N{\i1}Turns into love and makes us a couple{\i0}
+Dialogue: 0,0:25:02.68,0:25:06.26,Default,,0,0,0,,{\i1}No one is luckier than you{\i0}
+Dialogue: 0,0:25:08.77,0:25:12.19,Default,,0,0,0,,{\i1}My heart took an oath after seeing you{\i0}
+Dialogue: 0,0:25:12.48,0:25:16.19,Default,,0,0,0,,{\i1}Crossed the barrier and beaten heavily{\i0}
+Dialogue: 0,0:25:19.60,0:25:23.89,Default,,0,0,0,,{\i1}The waistline that breaks my bravery{\i0}\N{\i1}Kills me totally{\i0}
+Dialogue: 0,0:25:23.98,0:25:27.81,Default,,0,0,0,,{\i1}The lip-line that was filled with spirits{\i0}\N{\i1}Makes me go crazy{\i0}
+Dialogue: 0,0:25:27.89,0:25:31.64,Default,,0,0,0,,{\i1}The thoughts that are refusing to leave me{\i0}\N{\i1}Fighting them with the help of the sleep{\i0}
+Dialogue: 0,0:25:31.73,0:25:35.19,Default,,0,0,0,,{\i1}The body that knew the taste of pleasure{\i0}\N{\i1}Embrace it with your kisses{\i0}
+Dialogue: 0,0:25:35.27,0:25:38.94,Default,,0,0,0,,{\i1}Listening to your voice{\i0}\N{\i1}Not sure why hurry{\i0}
+Dialogue: 0,0:25:39.06,0:25:42.56,Default,,0,0,0,,{\i1}Watching everything{\i0}\N{\i1}Is noise your way?{\i0}
+Dialogue: 0,0:25:42.64,0:25:46.60,Default,,0,0,0,,{\i1}Will your tactic work?{\i0}\N{\i1}Will your plan click?{\i0}
+Dialogue: 0,0:25:46.68,0:25:49.97,Default,,0,0,0,,{\i1}Don’t say no to me anymore{\i0}
+Dialogue: 0,0:25:52.48,0:25:55.90,Default,,0,0,0,,{\i1}My heart took an oath after seeing you{\i0}
+Dialogue: 0,0:25:56.35,0:25:59.76,Default,,0,0,0,,{\i1}Crossed the barrier and beaten heavily{\i0}
+Dialogue: 0,0:26:00.18,0:26:03.51,Default,,0,0,0,,{\i1}Held the girl’s hand with strong resolve{\i0}
+Dialogue: 0,0:26:03.89,0:26:07.35,Default,,0,0,0,,{\i1}How to stop after getting ignited?{\i0}
+Dialogue: 0,0:26:30.06,0:26:33.86,Default,,0,0,0,,{\i1}My lovely lady{\i0}\N{\i1}Is it harmful to give a kiss?{\i0}
+Dialogue: 0,0:26:34.06,0:26:38.19,Default,,0,0,0,,{\i1}Sulking great or what?{\i0}\N{\i1}Not wrong giving intimacy{\i0}
+Dialogue: 0,0:26:38.27,0:26:42.06,Default,,0,0,0,,{\i1}The flames that approach me{\i0}\N{\i1}Are burning me alive{\i0}
+Dialogue: 0,0:26:42.14,0:26:45.68,Default,,0,0,0,,{\i1}In the girl’s heart filled with memories{\i0}\N{\i1}I hear many murmurs{\i0}
+Dialogue: 0,0:26:45.77,0:26:49.40,Default,,0,0,0,,{\i1}Your heart is a poem{\i0}\N{\i1}Your word is a melody{\i0}
+Dialogue: 0,0:26:49.52,0:26:53.02,Default,,0,0,0,,{\i1}Your name is so novel{\i0}\N{\i1}Looks good luckily{\i0}
+Dialogue: 0,0:26:53.18,0:26:56.97,Default,,0,0,0,,{\i1}If you behave well{\i0}\N{\i1}I will say yes happily{\i0}
+Dialogue: 0,0:26:57.14,0:27:00.55,Default,,0,0,0,,{\i1}Don’t keep me at a distance{\i0}
+Dialogue: 0,0:27:04.93,0:27:08.55,Default,,0,0,0,,{\i1}My heart took an oath after seeing you{\i0}
+Dialogue: 0,0:27:08.64,0:27:12.01,Default,,0,0,0,,{\i1}Crossed the barrier and beaten heavily{\i0}
+Dialogue: 0,0:27:12.56,0:27:16.23,Default,,0,0,0,,{\i1}Held the girl’s hand with strong resolve{\i0}
+Dialogue: 0,0:27:16.31,0:27:19.77,Default,,0,0,0,,{\i1}How to stop after getting ignited?{\i0}
+Dialogue: 0,0:27:27.48,0:27:30.36,Default,,0,0,0,,Hello, mic testing! One, two, three…
+Dialogue: 0,0:27:33.18,0:27:34.85,Default,,0,0,0,,What is this, brother?\NAt the wedding, as well?
+Dialogue: 0,0:27:34.98,0:27:35.90,Default,,0,0,0,,Dumbo.
+Dialogue: 0,0:27:35.98,0:27:39.06,Default,,0,0,0,,A wedding can happen without festivities\Nbut not without a card game.
+Dialogue: 0,0:27:39.35,0:27:40.35,Default,,0,0,0,,It’s a rule.
+Dialogue: 0,0:27:40.43,0:27:42.14,Default,,0,0,0,,Is it? Then give me a card as well.
+Dialogue: 0,0:27:42.23,0:27:43.11,Default,,0,0,0,,- Brother?\N- Yes.
+Dialogue: 0,0:27:43.18,0:27:45.01,Default,,0,0,0,,You're playing a card game here.\NWhat about after the wedding?
+Dialogue: 0,0:27:51.56,0:27:52.44,Default,,0,0,0,,Chess, man.
+Dialogue: 0,0:27:52.89,0:27:54.43,Default,,0,0,0,,Chess after the wedding.
+Dialogue: 0,0:27:54.89,0:27:57.68,Default,,0,0,0,,They take one step, and we take one.
+Dialogue: 0,0:27:59.52,0:28:02.69,Default,,0,0,0,,Welcome to all the people of Kotipalli.
+Dialogue: 0,0:28:02.77,0:28:07.73,Default,,0,0,0,,For all the weddings\Nand celebrations, contact A1 Orchestra.
+Dialogue: 0,0:28:08.35,0:28:11.30,Default,,0,0,0,,The first song in this music\Nprogram is "Bhale Manchi Roju."
+Dialogue: 0,0:28:11.39,0:28:13.55,Default,,0,0,0,,And the singer is our local Balu.
+Dialogue: 0,0:28:13.89,0:28:15.18,Default,,0,0,0,,A1 ORCHESTRA
+Dialogue: 0,0:28:34.64,0:28:35.68,Default,,0,0,0,,What is this nuisance?
+Dialogue: 0,0:28:35.89,0:28:38.10,Default,,0,0,0,,I've been hearing the same song play\Nsince my wedding.
+Dialogue: 0,0:28:38.23,0:28:41.36,Default,,0,0,0,,I cannot change my wife.\NAsk him to change the song, at least.
+Dialogue: 0,0:28:41.60,0:28:43.39,Default,,0,0,0,,Wish I get a queen in this game.
+Dialogue: 0,0:28:44.85,0:28:45.89,Default,,0,0,0,,Take it.
+Dialogue: 0,0:28:51.68,0:28:53.43,Default,,0,0,0,,Haven’t your parents come, Jikki?
+Dialogue: 0,0:28:54.18,0:28:55.51,Default,,0,0,0,,- They are coming, behind me.\N- He came.
+Dialogue: 0,0:28:55.60,0:28:56.51,Default,,0,0,0,,He doesn’t have any other work.
+Dialogue: 0,0:28:57.73,0:29:00.48,Default,,0,0,0,,Everyone in this village\Nis getting married.
+Dialogue: 0,0:29:02.02,0:29:06.73,Default,,0,0,0,,Except for me and you.
+Dialogue: 0,0:29:07.18,0:29:08.10,Default,,0,0,0,,What do you think?
+Dialogue: 0,0:29:09.77,0:29:12.36,Default,,0,0,0,,There is a thin line\Nbetween hope and greed.
+Dialogue: 0,0:29:12.56,0:29:14.40,Default,,0,0,0,,However, in life, it is different.
+Dialogue: 0,0:29:15.02,0:29:15.90,Default,,0,0,0,,The abyss.
+Dialogue: 0,0:29:16.48,0:29:17.36,Default,,0,0,0,,The what?
+Dialogue: 0,0:29:17.43,0:29:18.30,Default,,0,0,0,,Let’s go.
+Dialogue: 0,0:29:18.39,0:29:19.47,Default,,0,0,0,,He got it nicely.
+Dialogue: 0,0:29:19.64,0:29:20.93,Default,,0,0,0,,What happened now, brother?
+Dialogue: 0,0:29:22.68,0:29:26.05,Default,,0,0,0,,She said even if it’s greed,\NI kept all my hopes on you.
+Dialogue: 0,0:29:26.73,0:29:30.19,Default,,0,0,0,,I will not leave you despite all odds.
+Dialogue: 0,0:29:30.56,0:29:33.73,Default,,0,0,0,,I can give it in writing.
+Dialogue: 0,0:29:34.23,0:29:37.19,Default,,0,0,0,,Silly girl. She dies for me.
+Dialogue: 0,0:29:48.52,0:29:50.23,Default,,0,0,0,,Why did this cycle chain fellow come here?
+Dialogue: 0,0:29:50.52,0:29:53.48,Default,,0,0,0,,It’s Marwari’s wedding, right?\NMaybe he came to sing some Hindi songs.
+Dialogue: 0,0:29:53.56,0:29:54.65,Default,,0,0,0,,Come, let’s sit.
+Dialogue: 0,0:30:11.64,0:30:12.55,Default,,0,0,0,,Hey, you!
+Dialogue: 0,0:30:26.68,0:30:29.51,Default,,0,0,0,,He is Kumar Sanu of Kotipalli, bro.\NSings Hindi songs well.
+Dialogue: 0,0:30:35.73,0:30:37.15,Default,,0,0,0,,He is singing intentionally.
+Dialogue: 0,0:31:08.27,0:31:10.52,Default,,0,0,0,,He keeps singing {\i1}"pyaar" {\i0}all the time.\NWhat is this {\i1}"pyaar,"{\i0} anyway?
+Dialogue: 0,0:31:10.60,0:31:13.55,Default,,0,0,0,,{\i1}- "Pyaar"{\i0} means pigeon.\N- Is it?
+Dialogue: 0,0:31:13.68,0:31:15.93,Default,,0,0,0,,Yes, {\i1}Prema Pavuralu{\i0} movie.\NHaven’t we watched it?
+Dialogue: 0,0:31:16.06,0:31:17.40,Default,,0,0,0,,Hey, his singing is so bad.
+Dialogue: 0,0:31:24.27,0:31:25.86,Default,,0,0,0,,People are shameless, dude.
+Dialogue: 0,0:31:26.18,0:31:27.68,Default,,0,0,0,,They’re just clapping\Ndespite not understanding anything.
+Dialogue: 0,0:31:31.85,0:31:32.80,Default,,0,0,0,,Let’s go.
+Dialogue: 0,0:31:33.93,0:31:36.30,Default,,0,0,0,,Mr. Bachchan. I’m sure you heard the song.
+Dialogue: 0,0:31:36.48,0:31:38.90,Default,,0,0,0,,Why so much attitude, Mr. Bachchan?
+Dialogue: 0,0:31:39.02,0:31:40.61,Default,,0,0,0,,Why don’t you give some to your friends?
+Dialogue: 0,0:31:40.68,0:31:43.51,Default,,0,0,0,,Yes. Look at how dull they’re looking.
+Dialogue: 0,0:31:43.60,0:31:44.51,Default,,0,0,0,,You're right.
+Dialogue: 0,0:31:44.60,0:31:47.26,Default,,0,0,0,,By the way, Ms. Jikki,\Nwhy do you need so much beauty?
+Dialogue: 0,0:31:47.35,0:31:48.47,Default,,0,0,0,,Can’t you share some with your friends?
+Dialogue: 0,0:31:48.56,0:31:50.19,Default,,0,0,0,,Look at how pale and dull they’re looking.
+Dialogue: 0,0:31:53.77,0:31:56.86,Default,,0,0,0,,If the caterer is a friend,\Nthe food tastes good.
+Dialogue: 0,0:31:57.02,0:31:58.31,Default,,0,0,0,,This proverb doesn’t\Nmatch with the original.
+Dialogue: 0,0:31:58.39,0:32:00.55,Default,,0,0,0,,It’s a proverb, not the {\i1}Bhagavad Gita.{\i0}
+Dialogue: 0,0:32:00.64,0:32:01.89,Default,,0,0,0,,It can be changed.
+Dialogue: 0,0:32:07.31,0:32:08.94,Default,,0,0,0,,- What is this?\N- Memories.
+Dialogue: 0,0:32:09.23,0:32:12.86,Default,,0,0,0,,In fifty years, you'll be telling our\Ngrandchildren about how I pursued you.
+Dialogue: 0,0:32:12.93,0:32:14.26,Default,,0,0,0,,Such wonderful memories.
+Dialogue: 0,0:32:14.35,0:32:16.85,Default,,0,0,0,,Please leave me. I’m not comfortable.
+Dialogue: 0,0:32:21.64,0:32:22.72,Default,,0,0,0,,Please forgive me.
+Dialogue: 0,0:32:23.06,0:32:24.40,Default,,0,0,0,,I will never come near you again.
+Dialogue: 0,0:32:24.68,0:32:27.47,Default,,0,0,0,,If my love is truly genuine,
+Dialogue: 0,0:32:27.64,0:32:29.89,Default,,0,0,0,,you will come searching for me.
+Dialogue: 0,0:32:30.35,0:32:31.47,Default,,0,0,0,,Until then…
+Dialogue: 0,0:32:45.81,0:32:46.90,Default,,0,0,0,,- Good morning, sir.\N- Morning.
+Dialogue: 0,0:32:46.98,0:32:48.73,Default,,0,0,0,,I’m Srinivas from the\NIncome Tax Department.
+Dialogue: 0,0:32:48.81,0:32:49.69,Default,,0,0,0,,Please sit.
+Dialogue: 0,0:32:49.77,0:32:51.65,Default,,0,0,0,,We’re going on a raid\Nand need police support.
+Dialogue: 0,0:32:52.68,0:32:53.55,Default,,0,0,0,,Sure.
+Dialogue: 0,0:32:53.81,0:32:54.73,Default,,0,0,0,,On whom?
+Dialogue: 0,0:32:54.85,0:32:55.97,Default,,0,0,0,,Muthyam Jaghayya.
+Dialogue: 0,0:32:57.48,0:32:59.69,Default,,0,0,0,,- Muthyam Jaghayya?!\N- Yes, sir.
+Dialogue: 0,0:33:00.85,0:33:03.22,Default,,0,0,0,,{\an8}Muthyam Jaghayya may be\Nnew to you, but not to this area.
+Dialogue: 0,0:33:09.93,0:33:13.76,Default,,0,0,0,,{\an8}Three months ago, an excise officer\Nnamed Rama Krishna raided his warehouse.
+Dialogue: 0,0:33:13.98,0:33:14.86,Default,,0,0,0,,Come on!
+Dialogue: 0,0:33:18.18,0:33:19.60,Default,,0,0,0,,Crush them!
+Dialogue: 0,0:33:21.81,0:33:23.19,Default,,0,0,0,,Don't spare even a single bottle.
+Dialogue: 0,0:33:27.39,0:33:29.93,Default,,0,0,0,,Sir, it seems that he's an excise officer.
+Dialogue: 0,0:33:30.48,0:33:32.98,Default,,0,0,0,,He destroyed all our stock.
+Dialogue: 0,0:33:50.35,0:33:51.39,Default,,0,0,0,,No, sir.
+Dialogue: 0,0:34:07.18,0:34:10.43,Default,,0,0,0,,If any officers come to my home,
+Dialogue: 0,0:34:10.64,0:34:14.80,Default,,0,0,0,,it should be either to beg\Nor to seek my blessing.
+Dialogue: 0,0:34:14.93,0:34:16.97,Default,,0,0,0,,But I came to arrest you.
+Dialogue: 0,0:34:18.18,0:34:19.47,Default,,0,0,0,,I like you!
+Dialogue: 0,0:34:19.81,0:34:21.02,Default,,0,0,0,,That’s why I like you!
+Dialogue: 0,0:34:22.52,0:34:24.44,Default,,0,0,0,,- Sambashiva…\N- Brother.
+Dialogue: 0,0:34:24.52,0:34:27.19,Default,,0,0,0,,Please felicitate him.
+Dialogue: 0,0:34:27.89,0:34:30.01,Default,,0,0,0,,He came from very far.
+Dialogue: 0,0:34:30.64,0:34:33.80,Default,,0,0,0,,- I’m not scared of your silly deeds.\N- You should be scared!
+Dialogue: 0,0:34:34.85,0:34:39.22,Default,,0,0,0,,If any fool dares to come\Nto my house from now on,
+Dialogue: 0,0:34:39.35,0:34:41.10,Default,,0,0,0,,they should die of fear,
+Dialogue: 0,0:34:41.98,0:34:44.48,Default,,0,0,0,,not of my strength.
+Dialogue: 0,0:34:44.56,0:34:47.69,Default,,0,0,0,,I have the entire system behind me.\NYou can’t do anything to me.
+Dialogue: 0,0:34:48.85,0:34:49.89,Default,,0,0,0,,System?
+Dialogue: 0,0:34:51.89,0:34:54.64,Default,,0,0,0,,When you were born, you were alone.
+Dialogue: 0,0:34:54.73,0:34:57.73,Default,,0,0,0,,When you die, you will be alone.
+Dialogue: 0,0:34:58.39,0:35:00.68,Default,,0,0,0,,By the time you understand this,
+Dialogue: 0,0:35:00.98,0:35:06.77,Default,,0,0,0,,it will be too late, Tayaramma.\NTayaramma…
+Dialogue: 0,0:35:07.27,0:35:09.11,Default,,0,0,0,,You did your duty very well.
+Dialogue: 0,0:35:09.68,0:35:10.76,Default,,0,0,0,,But what about my duty?
+Dialogue: 0,0:35:16.98,0:35:17.94,Default,,0,0,0,,Let me go!
+Dialogue: 0,0:35:21.14,0:35:24.43,Default,,0,0,0,,Where were you when the excise officer\Nraided the warehouse?
+Dialogue: 0,0:35:24.52,0:35:27.56,Default,,0,0,0,,I went to the temple\Nto perform the ritual, sir.
+Dialogue: 0,0:35:27.73,0:35:32.90,Default,,0,0,0,,Instead of treating your boss like a God,\Nif you went to the temple,
+Dialogue: 0,0:35:32.98,0:35:35.44,Default,,0,0,0,,what does that mean?\NAm I a god or a fool?
+Dialogue: 0,0:35:40.64,0:35:44.68,Default,,0,0,0,,In my anger, I should have\Nsent you to meet that God as well.
+Dialogue: 0,0:35:45.23,0:35:47.15,Default,,0,0,0,,But 30 years of companionship…
+Dialogue: 0,0:35:48.43,0:35:49.43,Default,,0,0,0,,makes me forgive you.
+Dialogue: 0,0:35:50.27,0:35:53.11,Default,,0,0,0,,Go and beg at that same temple. Go!
+Dialogue: 0,0:35:59.98,0:36:01.86,Default,,0,0,0,,Even after hearing this,\Nif you still want to go--
+Dialogue: 0,0:36:01.93,0:36:03.97,Default,,0,0,0,,SI sir, have you found\Nany information about my husband?
+Dialogue: 0,0:36:04.06,0:36:06.27,Default,,0,0,0,,It’s not right to make me\Ncome here so many times.
+Dialogue: 0,0:36:06.39,0:36:08.55,Default,,0,0,0,,You filed a complaint, right? Be patient.
+Dialogue: 0,0:36:08.77,0:36:09.81,Default,,0,0,0,,We’re working on it.
+Dialogue: 0,0:36:12.18,0:36:14.85,Default,,0,0,0,,He’s a government officer like you.
+Dialogue: 0,0:36:15.68,0:36:18.76,Default,,0,0,0,,Would you be so indifferent\Nif something happened to one of your own?
+Dialogue: 0,0:36:20.52,0:36:22.52,Default,,0,0,0,,- Why aren’t you speaking?\N- One minute.
+Dialogue: 0,0:36:22.77,0:36:24.23,Default,,0,0,0,,Now tell me, why did you come?
+Dialogue: 0,0:36:24.31,0:36:26.02,Default,,0,0,0,,Someone picked my pocket\Nat the bus stand, sir.
+Dialogue: 0,0:36:26.10,0:36:27.97,Default,,0,0,0,,There’s nothing to worry about.\NFile a complaint,
+Dialogue: 0,0:36:28.06,0:36:28.94,Default,,0,0,0,,and we’ll look into it.
+Dialogue: 0,0:36:29.02,0:36:29.94,Default,,0,0,0,,- Thank you, sir.\N- Tell me, ma'am.
+Dialogue: 0,0:36:30.02,0:36:33.40,Default,,0,0,0,,How many times do I have to\Ncome to the police station with this baby?
+Dialogue: 0,0:36:34.27,0:36:35.77,Default,,0,0,0,,I don’t know what to tell her
+Dialogue: 0,0:36:35.89,0:36:39.10,Default,,0,0,0,,when she keeps asking\Nfor her father every day.
+Dialogue: 0,0:36:39.27,0:36:42.02,Default,,0,0,0,,When will you find him?\NPlease, tell me, sir. Tell me.
+Dialogue: 0,0:36:43.14,0:36:45.85,Default,,0,0,0,,- Please, Uncle.\N- Please, sir.
+Dialogue: 0,0:36:49.31,0:36:52.40,Default,,0,0,0,,- Aunty…\N- Who is it?
+Dialogue: 0,0:36:52.73,0:36:55.48,Default,,0,0,0,,It’s me, Aunty. Jikki.\NYour daughter called
+Dialogue: 0,0:36:55.68,0:36:57.39,Default,,0,0,0,,and said she’d call back in five minutes.
+Dialogue: 0,0:36:57.73,0:36:59.73,Default,,0,0,0,,Oh, I’m busy, dear.
+Dialogue: 0,0:36:59.98,0:37:02.40,Default,,0,0,0,,My son, it seems your sister called.\NGo check.
+Dialogue: 0,0:37:43.81,0:37:45.81,Default,,0,0,0,,The phone at our house got disconnected,
+Dialogue: 0,0:37:45.89,0:37:48.43,Default,,0,0,0,,and you’re getting connected\Nin the form of a PP number!
+Dialogue: 0,0:37:48.56,0:37:50.77,Default,,0,0,0,,It seems like it’s all written in fate.
+Dialogue: 0,0:37:54.52,0:37:56.19,Default,,0,0,0,,Hello, what are you looking at?
+Dialogue: 0,0:37:56.27,0:37:58.48,Default,,0,0,0,,Let's go.\NMy sister is waiting on the other side.
+Dialogue: 0,0:37:58.77,0:38:00.61,Default,,0,0,0,,I don't even know\Nwhere your house is, right?
+Dialogue: 0,0:38:17.14,0:38:19.22,Default,,0,0,0,,- This boy…\N- Bhagyalaxmi Aunty’s son.
+Dialogue: 0,0:38:19.68,0:38:21.01,Default,,0,0,0,,- A call came in.\N- Greetings.
+Dialogue: 0,0:38:21.10,0:38:21.97,Default,,0,0,0,,Please come in, son.
+Dialogue: 0,0:38:22.06,0:38:24.27,Default,,0,0,0,,I liked what you said\Nabout the Ramayana the other day.
+Dialogue: 0,0:38:24.35,0:38:25.43,Default,,0,0,0,,Give that to me.
+Dialogue: 0,0:38:25.81,0:38:29.36,Default,,0,0,0,,What else would a retiree\Nor a suspended officer do, Aunty,
+Dialogue: 0,0:38:29.73,0:38:31.44,Default,,0,0,0,,other than pray to God?
+Dialogue: 0,0:38:32.77,0:38:34.06,Default,,0,0,0,,- Phone.\N- Thank you.
+Dialogue: 0,0:38:34.14,0:38:36.80,Default,,0,0,0,,Hey, ACDC? What are you doing\Nin this house, idiot?
+Dialogue: 0,0:38:37.02,0:38:38.44,Default,,0,0,0,,I’m the one who found this house\Nand arranged for them to buy it.
+Dialogue: 0,0:38:38.60,0:38:40.30,Default,,0,0,0,,And I’m guarding it 24/7 like a watchdog.
+Dialogue: 0,0:38:40.39,0:38:42.22,Default,,0,0,0,,Why? Doesn’t this house have any dogs?
+Dialogue: 0,0:38:44.35,0:38:45.76,Default,,0,0,0,,Sis, hello. How are you?
+Dialogue: 0,0:38:45.98,0:38:48.31,Default,,0,0,0,,I heard you’ve been free\Nfor a while now. Mom told me.
+Dialogue: 0,0:38:48.39,0:38:50.47,Default,,0,0,0,,So we looked for a girl for you.
+Dialogue: 0,0:38:50.56,0:38:52.73,Default,,0,0,0,,No need. I’ve already found one.
+Dialogue: 0,0:38:54.02,0:38:55.48,Default,,0,0,0,,The girl is right here looking at me.
+Dialogue: 0,0:39:00.02,0:39:01.52,Default,,0,0,0,,This girl is gorgeous.
+Dialogue: 0,0:39:01.60,0:39:05.18,Default,,0,0,0,,Even if she looks angry,\Nher eyes still shine.
+Dialogue: 0,0:39:05.64,0:39:08.93,Default,,0,0,0,,Even if she pouts, she looks kissable.
+Dialogue: 0,0:39:10.06,0:39:11.23,Default,,0,0,0,,No, listen.
+Dialogue: 0,0:39:11.68,0:39:14.18,Default,,0,0,0,,Tell him they're filthy rich.\NThey’ll offer a large dowry.
+Dialogue: 0,0:39:14.85,0:39:18.26,Default,,0,0,0,,Your brother-in-law says they're wealthy\Nand will provide a fat dowry.
+Dialogue: 0,0:39:18.35,0:39:20.60,Default,,0,0,0,,Sister, what we don’t earn isn’t ours.
+Dialogue: 0,0:39:20.93,0:39:24.55,Default,,0,0,0,,Marrying for dowry is like prostitution.
+Dialogue: 0,0:39:30.39,0:39:33.01,Default,,0,0,0,,{\an8}DELUXE CASSETTE CENTER
+Dialogue: 0,0:39:48.73,0:39:50.06,Default,,0,0,0,,Where did you find this birdie?
+Dialogue: 0,0:39:50.14,0:39:52.22,Default,,0,0,0,,Not a normal birdie.\NShe is a beautiful bird.
+Dialogue: 0,0:39:52.31,0:39:53.98,Default,,0,0,0,,Very famous in the neighborhood.
+Dialogue: 0,0:40:14.60,0:40:16.47,Default,,0,0,0,,Take this. TDK 120 Minutes.
+Dialogue: 0,0:40:16.56,0:40:18.98,Default,,0,0,0,,A-side Amitabh. B-side Rajesh Khanna.\NLoad the songs.
+Dialogue: 0,0:40:19.06,0:40:20.81,Default,,0,0,0,,Though you’re from the Marwari family,
+Dialogue: 0,0:40:20.98,0:40:23.69,Default,,0,0,0,,you’re living in Telugu land,\Neating Telugu rice and Telugu lentils--
+Dialogue: 0,0:40:23.77,0:40:24.98,Default,,0,0,0,,Don’t overreact, dude.
+Dialogue: 0,0:40:25.31,0:40:27.48,Default,,0,0,0,,- My father is a Kishore Kumar fan.\N- And you?
+Dialogue: 0,0:40:31.64,0:40:32.55,Default,,0,0,0,,Gaddar.
+Dialogue: 0,0:40:33.39,0:40:34.39,Default,,0,0,0,,I’m a Gaddar fan.
+Dialogue: 0,0:40:39.98,0:40:41.23,Default,,0,0,0,,I keep singing his songs.
+Dialogue: 0,0:40:41.98,0:40:45.65,Default,,0,0,0,,Her father loves music.\NHence, he named her Jikki.
+Dialogue: 0,0:40:45.77,0:40:47.69,Default,,0,0,0,,She sings better than all of you.
+Dialogue: 0,0:41:01.39,0:41:03.76,Default,,0,0,0,,- Load A-side. Leave the B-side to me.\N- No, dude.
+Dialogue: 0,0:41:03.89,0:41:06.72,Default,,0,0,0,,- A-side Amitabh Bachchan--\N- B-side also Bachchan.
+Dialogue: 0,0:41:09.27,0:41:10.19,Default,,0,0,0,,Okay.
+Dialogue: 0,0:41:12.56,0:41:16.02,Default,,0,0,0,,My first love letter\Nto my last lover, Jikki.
+Dialogue: 0,0:41:16.85,0:41:19.30,Default,,0,0,0,,{\i1}In cinema, they express love in songs.{\i0}
+Dialogue: 0,0:41:19.60,0:41:21.10,Default,,0,0,0,,But this is my life, right?
+Dialogue: 0,0:41:21.18,0:41:23.72,Default,,0,0,0,,So, I’m saying it in my own words.
+Dialogue: 0,0:41:25.14,0:41:27.97,Default,,0,0,0,,That day, what got knotted\Nwas not just your sari,
+Dialogue: 0,0:41:28.43,0:41:29.60,Default,,0,0,0,,but also my heart.
+Dialogue: 0,0:41:30.52,0:41:33.48,Default,,0,0,0,,One knot yours. One knot mine.
+Dialogue: 0,0:41:34.06,0:41:36.48,Default,,0,0,0,,And if the third knot is tied by God,
+Dialogue: 0,0:41:37.68,0:41:39.10,Default,,0,0,0,,what more do I need?
+Dialogue: 0,0:41:39.23,0:41:41.19,Default,,0,0,0,,From the moment I saw you there,
+Dialogue: 0,0:41:41.68,0:41:43.30,Default,,0,0,0,,wherever I look, it’s you.
+Dialogue: 0,0:41:43.56,0:41:44.77,Default,,0,0,0,,ROMANCE
+Dialogue: 0,0:41:44.85,0:41:47.26,Default,,0,0,0,,{\an8}I will keep you in my heart\Nlike a Yandamuri novel.
+Dialogue: 0,0:41:48.31,0:41:50.86,Default,,0,0,0,,I will preserve you in my heart\Nlike Ilaiyaraaja songs.
+Dialogue: 0,0:41:56.27,0:41:57.56,Default,,0,0,0,,Boiled peanuts.
+Dialogue: 0,0:41:57.93,0:41:59.05,Default,,0,0,0,,It will come, see.
+Dialogue: 0,0:41:59.23,0:42:00.11,Default,,0,0,0,,Here it is.
+Dialogue: 0,0:42:00.31,0:42:01.23,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:42:01.31,0:42:03.61,Default,,0,0,0,,Green chilies! She will bring.
+Dialogue: 0,0:42:03.85,0:42:05.18,Default,,0,0,0,,Onion fritters!
+Dialogue: 0,0:42:07.60,0:42:09.14,Default,,0,0,0,,Oh, God! What is this?
+Dialogue: 0,0:42:09.23,0:42:10.94,Default,,0,0,0,,You drink once in a lifetime,
+Dialogue: 0,0:42:11.02,0:42:12.27,Default,,0,0,0,,but you're making too much out of it.
+Dialogue: 0,0:42:12.35,0:42:14.55,Default,,0,0,0,,Just because it’s a street fight,\Nyou can’t go unprepared, right, Aunty?
+Dialogue: 0,0:42:14.64,0:42:15.89,Default,,0,0,0,,You shut up, man.
+Dialogue: 0,0:42:16.23,0:42:17.73,Default,,0,0,0,,What is that comparison?
+Dialogue: 0,0:42:18.18,0:42:19.43,Default,,0,0,0,,Enough…
+Dialogue: 0,0:42:19.56,0:42:20.69,Default,,0,0,0,,Take it, Uncle.
+Dialogue: 0,0:42:22.35,0:42:24.55,Default,,0,0,0,,- You have a soft drink, right?\N- Yes, Uncle.
+Dialogue: 0,0:42:24.77,0:42:26.02,Default,,0,0,0,,- Cheers!\N- Cheers!
+Dialogue: 0,0:42:27.10,0:42:28.97,Default,,0,0,0,,I’ve got a soft drink,\Nbut where’s your drinking manners?
+Dialogue: 0,0:42:29.06,0:42:30.52,Default,,0,0,0,,You’re having a drink\Nand a soft drink for me?
+Dialogue: 0,0:42:32.64,0:42:33.80,Default,,0,0,0,,Your rule of
+Dialogue: 0,0:42:34.02,0:42:38.31,Default,,0,0,0,,not drinking in the presence of elders\Nis amazing, Dorababu.
+Dialogue: 0,0:42:38.39,0:42:40.55,Default,,0,0,0,,We have something\Ncalled culture. Right, Uncle?
+Dialogue: 0,0:42:40.73,0:42:41.81,Default,,0,0,0,,Well said!
+Dialogue: 0,0:42:42.73,0:42:44.27,Default,,0,0,0,,- What happened?\N- Chemicals.
+Dialogue: 0,0:42:45.02,0:42:46.73,Default,,0,0,0,,They are adding chemicals\Nto soft drinks as well.
+Dialogue: 0,0:42:48.06,0:42:50.77,Default,,0,0,0,,My favorite, Kishore Kumar…
+Dialogue: 0,0:43:35.93,0:43:37.97,Default,,0,0,0,,My family is searching for a girl for me.
+Dialogue: 0,0:43:38.43,0:43:41.22,Default,,0,0,0,,- You are also anyway for Jikki--\N- Shouldn’t there be some sense?
+Dialogue: 0,0:43:41.56,0:43:42.48,Default,,0,0,0,,Uncle!
+Dialogue: 0,0:43:42.85,0:43:43.76,Default,,0,0,0,,Who is he?
+Dialogue: 0,0:44:00.48,0:44:01.98,Default,,0,0,0,,Bachchan from next door, Uncle.
+Dialogue: 0,0:44:02.18,0:44:04.93,Default,,0,0,0,,He got suspended for taking bribes.
+Dialogue: 0,0:44:05.10,0:44:07.39,Default,,0,0,0,,And he started the orchestra as always.
+Dialogue: 0,0:44:07.98,0:44:09.19,Default,,0,0,0,,He is shameless, Uncle.
+Dialogue: 0,0:44:09.27,0:44:10.61,Default,,0,0,0,,How dare he?
+Dialogue: 0,0:44:10.93,0:44:13.22,Default,,0,0,0,,Can there be a competition between\NKishore Kumar and Kumar Sanu?
+Dialogue: 0,0:44:13.31,0:44:15.61,Default,,0,0,0,,- Should I go and kill him?\N- Jikki, ask him to stop his nuisance.
+Dialogue: 0,0:44:19.39,0:44:21.76,Default,,0,0,0,,What’s this, buddy?\NWhy always Hindi songs?
+Dialogue: 0,0:44:21.89,0:44:23.30,Default,,0,0,0,,Uncle, C major!
+Dialogue: 0,0:44:23.39,0:44:24.68,Default,,0,0,0,,Let’s show how\Na Telugu mass song sounds.
+Dialogue: 0,0:44:24.77,0:44:25.65,Default,,0,0,0,,Okay, show me.
+Dialogue: 0,0:44:50.10,0:44:51.22,Default,,0,0,0,,Master, hello?
+Dialogue: 0,0:44:51.85,0:44:52.76,Default,,0,0,0,,I’m talking to you.
+Dialogue: 0,0:44:52.85,0:44:54.55,Default,,0,0,0,,What's with all this nuisance?
+Dialogue: 0,0:44:54.64,0:44:58.55,Default,,0,0,0,,From 6 p.m. to 8 p.m.,\Nwe sing songs requested by listeners.
+Dialogue: 0,0:44:59.60,0:45:00.80,Default,,0,0,0,,Any requests from you?
+Dialogue: 0,0:45:00.89,0:45:03.10,Default,,0,0,0,,My father downstairs is\Nenjoying Kishore Kumar's songs.
+Dialogue: 0,0:45:03.81,0:45:05.31,Default,,0,0,0,,Wow, Jikki, see how lucky you are!
+Dialogue: 0,0:45:05.48,0:45:07.44,Default,,0,0,0,,Songs at your parents' place,\Norchestra at your in-laws' place.
+Dialogue: 0,0:45:07.89,0:45:09.30,Default,,0,0,0,,Jikki, you're really lucky.
+Dialogue: 0,0:45:09.39,0:45:10.93,Default,,0,0,0,,My father doesn't appreciate all of this.
+Dialogue: 0,0:45:11.60,0:45:13.35,Default,,0,0,0,,Normally, one might have a caste problem,
+Dialogue: 0,0:45:13.43,0:45:14.60,Default,,0,0,0,,but it seems her father\Nhas a taste problem instead.
+Dialogue: 0,0:45:14.68,0:45:15.55,Default,,0,0,0,,That's true.
+Dialogue: 0,0:45:15.64,0:45:17.85,Default,,0,0,0,,Our friend is called\NKotipalli's Kumar Sanu.
+Dialogue: 0,0:45:17.93,0:45:19.30,Default,,0,0,0,,He won’t sing Kishore Kumar's songs.
+Dialogue: 0,0:45:20.39,0:45:22.85,Default,,0,0,0,,Pack everything in two minutes and leave.
+Dialogue: 0,0:45:23.39,0:45:24.89,Default,,0,0,0,,Forget me.
+Dialogue: 0,0:45:24.98,0:45:28.31,Default,,0,0,0,,If you don’t leave in a minute,\Nyou will land in trouble.
+Dialogue: 0,0:45:29.64,0:45:30.51,Default,,0,0,0,,What happened?
+Dialogue: 0,0:45:30.60,0:45:33.01,Default,,0,0,0,,If your father turns to the B-side\Nafter completing the A-side,
+Dialogue: 0,0:45:33.10,0:45:34.85,Default,,0,0,0,,he will realize that you are on my side.
+Dialogue: 0,0:45:56.43,0:45:58.72,Default,,0,0,0,,- What happened?\N- Enough for the day, Father.
+Dialogue: 0,0:46:00.14,0:46:01.05,Default,,0,0,0,,Okay.
+Dialogue: 0,0:46:01.35,0:46:03.47,Default,,0,0,0,,- Good night, Uncle.\N- Good night.
+Dialogue: 0,0:46:07.98,0:46:10.48,Default,,0,0,0,,My god. I see a cassette in your blouse.
+Dialogue: 0,0:46:10.81,0:46:11.98,Default,,0,0,0,,And there’s something in the cassette.
+Dialogue: 0,0:46:12.10,0:46:13.51,Default,,0,0,0,,Jikki!
+Dialogue: 0,0:46:13.85,0:46:15.39,Default,,0,0,0,,Jikki, there's something in your blouse
+Dialogue: 0,0:46:15.56,0:46:17.52,Default,,0,0,0,,that I want to see right now, right here.
+Dialogue: 0,0:46:21.73,0:46:22.98,Default,,0,0,0,,It’s okay for her to hit me…
+Dialogue: 0,0:46:23.43,0:46:24.60,Default,,0,0,0,,At least Jikki has finally touched me.
+Dialogue: 0,0:46:28.06,0:46:31.11,Default,,0,0,0,,Jikki, let’s come up with an excuse\Nat home and go to the movies this evening.
+Dialogue: 0,0:46:31.43,0:46:32.30,Default,,0,0,0,,{\an8}Okay, dear.
+Dialogue: 0,0:46:34.77,0:46:35.69,Default,,0,0,0,,{\an8}What happened, dude?
+Dialogue: 0,0:46:36.02,0:46:37.15,Default,,0,0,0,,{\an8}You walked in so suddenly.
+Dialogue: 0,0:46:37.31,0:46:38.94,Default,,0,0,0,,{\an8}I wanted to see you.
+Dialogue: 0,0:46:40.52,0:46:43.40,Default,,0,0,0,,A-side Rama Rao Garu, B-side\NNageshwara Rao Garu, load the songs.
+Dialogue: 0,0:46:43.64,0:46:44.85,Default,,0,0,0,,Ghantasala sang for both.
+Dialogue: 0,0:46:44.93,0:46:46.43,Default,,0,0,0,,So, why differentiate\Nbetween A-side and B-side?
+Dialogue: 0,0:46:46.52,0:46:51.02,Default,,0,0,0,,I know, but he sings differently\Nfor Rama Rao and Nageshwara Rao.
+Dialogue: 0,0:46:51.10,0:46:52.97,Default,,0,0,0,,That’s what I call knowledge.
+Dialogue: 0,0:46:53.14,0:46:54.89,Default,,0,0,0,,Not spoiling the business\Nwhile sitting next to me.
+Dialogue: 0,0:46:54.98,0:46:57.31,Default,,0,0,0,,- So, completely on A-side and B-side--\N- Move!
+Dialogue: 0,0:46:58.39,0:47:00.72,Default,,0,0,0,,Are you only concerned\Nabout the A-side and B-side,
+Dialogue: 0,0:47:00.81,0:47:02.94,Default,,0,0,0,,or do you have any\Nintention of joining my side?
+Dialogue: 0,0:47:04.73,0:47:05.69,Default,,0,0,0,,Tell me.
+Dialogue: 0,0:47:10.68,0:47:14.05,Default,,0,0,0,,Once you reach Delhi, I expect a call\Nthat my brother got the ticket.
+Dialogue: 0,0:47:15.93,0:47:17.64,Default,,0,0,0,,You should make that call.
+Dialogue: 0,0:47:17.73,0:47:18.69,Default,,0,0,0,,You're an MP,
+Dialogue: 0,0:47:18.77,0:47:20.61,Default,,0,0,0,,your younger brother\Nis the Youth President,
+Dialogue: 0,0:47:21.06,0:47:23.90,Default,,0,0,0,,and now you're seeking an\NMLA ticket for your elder brother.
+Dialogue: 0,0:47:24.23,0:47:26.06,Default,,0,0,0,,How can one family get so many positions?
+Dialogue: 0,0:47:26.14,0:47:28.76,Default,,0,0,0,,Can members of one family\Nbecome Prime Ministers?
+Dialogue: 0,0:47:28.85,0:47:31.60,Default,,0,0,0,,I cannot tolerate it\Nif you criticize the high command.
+Dialogue: 0,0:47:32.31,0:47:34.11,Default,,0,0,0,,What will you do besides staying silent?
+Dialogue: 0,0:47:34.52,0:47:37.19,Default,,0,0,0,,First, you need to get past this place\Nbefore taking any action.
+Dialogue: 0,0:47:40.56,0:47:44.19,Default,,0,0,0,,You must have seen\Nleaders who manipulate votes.
+Dialogue: 0,0:47:45.39,0:47:47.89,Default,,0,0,0,,This is Muthyam Jaghayya's area.
+Dialogue: 0,0:47:54.31,0:47:57.31,Default,,0,0,0,,People disappear here.
+Dialogue: 0,0:47:58.27,0:48:01.36,Default,,0,0,0,,I won’t be at this meeting.\NSpeak highly of my brother.
+Dialogue: 0,0:48:01.52,0:48:04.27,Default,,0,0,0,,Mom, what's up?\NThe house is in darkness.
+Dialogue: 0,0:48:04.98,0:48:05.90,Default,,0,0,0,,It’s okay.
+Dialogue: 0,0:48:05.98,0:48:07.23,Default,,0,0,0,,Can you get me some water?
+Dialogue: 0,0:48:07.68,0:48:10.14,Default,,0,0,0,,The fuse has blown.\NYour father is handling it.
+Dialogue: 0,0:48:10.35,0:48:12.64,Default,,0,0,0,,But the neighborhood has power,\Nand our house--
+Dialogue: 0,0:48:14.81,0:48:15.69,Default,,0,0,0,,What's wrong, Mom?
+Dialogue: 0,0:48:15.77,0:48:18.15,Default,,0,0,0,,Nothing, my son.\NI slipped in the bathroom and fell.
+Dialogue: 0,0:48:18.93,0:48:20.51,Default,,0,0,0,,You come. I'll serve you dinner.
+Dialogue: 0,0:48:21.89,0:48:23.01,Default,,0,0,0,,What's with these injuries?
+Dialogue: 0,0:48:23.39,0:48:25.10,Default,,0,0,0,,Son, please fix this fuse.
+Dialogue: 0,0:48:25.23,0:48:26.61,Default,,0,0,0,,Dad, what happened to you?
+Dialogue: 0,0:48:26.68,0:48:28.43,Default,,0,0,0,,Jikki, what are you doing here?\NHow did you get hurt?
+Dialogue: 0,0:48:28.52,0:48:31.19,Default,,0,0,0,,Yeah, your mom said it right.\NSlipped in the bathroom…
+Dialogue: 0,0:48:31.31,0:48:33.15,Default,,0,0,0,,Did all of you slip in the bathroom\Nat the same time?
+Dialogue: 0,0:48:33.23,0:48:34.52,Default,,0,0,0,,Jikki, what happened?
+Dialogue: 0,0:48:34.68,0:48:37.76,Default,,0,0,0,,Earlier, Muthyam Jaghayya’s men came.
+Dialogue: 0,0:48:39.48,0:48:40.77,Default,,0,0,0,,What’s the matter?
+Dialogue: 0,0:48:41.35,0:48:42.80,Default,,0,0,0,,What do you guys want?
+Dialogue: 0,0:48:42.89,0:48:44.76,Default,,0,0,0,,Muthyam Jaghayya's\Nmeeting is happening outside.
+Dialogue: 0,0:48:44.85,0:48:46.43,Default,,0,0,0,,We are drawing power from your house.
+Dialogue: 0,0:48:46.52,0:48:48.61,Default,,0,0,0,,In that case, it won't handle the load,\Nand the fuse will blow.
+Dialogue: 0,0:48:48.93,0:48:51.47,Default,,0,0,0,,Hey, if you utter another word,
+Dialogue: 0,0:48:51.56,0:48:53.23,Default,,0,0,0,,forget the fuse,\Nyour life might just blow away.
+Dialogue: 0,0:48:53.31,0:48:54.65,Default,,0,0,0,,Bro, I found it.
+Dialogue: 0,0:48:54.73,0:49:01.69,Default,,0,0,0,,I congratulate the National Party workers\Non my behalf and on behalf of our party.
+Dialogue: 0,0:49:03.23,0:49:08.11,Default,,0,0,0,,Speaking of our young leader\NMuthyam Sambashiva Rao,
+Dialogue: 0,0:49:08.56,0:49:12.44,Default,,0,0,0,,he holds a lot of respect\Nfor elders and the aged.
+Dialogue: 0,0:49:14.64,0:49:17.72,Default,,0,0,0,,He has great affection for women.
+Dialogue: 0,0:49:19.60,0:49:22.14,Default,,0,0,0,,He is not a man of words but of action.
+Dialogue: 0,0:49:30.89,0:49:32.80,Default,,0,0,0,,Forget about fuses blowing.
+Dialogue: 0,0:49:33.18,0:49:37.14,Default,,0,0,0,,Soon, all of their fuses will be blown.
+Dialogue: 0,0:49:37.52,0:49:39.81,Default,,0,0,0,,- Where are you doing, my son?\N- Don't stop him, Bhagyalaxmi.
+Dialogue: 0,0:49:39.98,0:49:42.52,Default,,0,0,0,,They need to understand that they'll face\Nconsequences if they mess with Bachchan.
+Dialogue: 0,0:49:42.73,0:49:46.98,Default,,0,0,0,,In a nutshell, he is strict.
+Dialogue: 0,0:49:48.31,0:49:53.61,Default,,0,0,0,,The future MLA, our youth leader\NSambashiva Rao, will speak now.
+Dialogue: 0,0:49:57.73,0:50:01.40,Default,,0,0,0,,My greetings to the people of Kotipalli.
+Dialogue: 0,0:50:03.52,0:50:05.19,Default,,0,0,0,,I was born here!
+Dialogue: 0,0:50:06.23,0:50:07.65,Default,,0,0,0,,I was raised here!
+Dialogue: 0,0:50:09.27,0:50:11.56,Default,,0,0,0,,I will represent this\Nplace in the assembly.
+Dialogue: 0,0:50:13.89,0:50:17.68,Default,,0,0,0,,- We will give our lives!\N- We will give our lives for our brother!
+Dialogue: 0,0:50:17.77,0:50:21.31,Default,,0,0,0,,- We will give our lives!\N- We will give our lives for our brother!
+Dialogue: 0,0:50:31.60,0:50:34.97,Default,,0,0,0,,They were saying something.\NDid you take it seriously?
+Dialogue: 0,0:50:35.48,0:50:37.40,Default,,0,0,0,,We will see during the elections, okay?
+Dialogue: 0,0:50:40.98,0:50:44.40,Default,,0,0,0,,- Hey! Sit down!\N- Sit down!
+Dialogue: 0,0:50:44.52,0:50:46.27,Default,,0,0,0,,- Hey…\N- Hey!
+Dialogue: 0,0:50:46.48,0:50:47.98,Default,,0,0,0,,- Hey…\N- Hey!
+Dialogue: 0,0:50:48.60,0:50:49.80,Default,,0,0,0,,I like you guys.
+Dialogue: 0,0:50:49.93,0:50:53.64,Default,,0,0,0,,I thought you were joking when\Nyou said you'd give your lives.
+Dialogue: 0,0:50:53.98,0:50:55.02,Default,,0,0,0,,Come on, then.
+Dialogue: 0,0:50:55.18,0:50:58.39,Default,,0,0,0,,Give it.\NCome, come, come…
+Dialogue: 0,0:51:00.43,0:51:04.14,Default,,0,0,0,,Instead of asking for power,\Nyou forcefully took it…
+Dialogue: 0,0:51:04.68,0:51:06.93,Default,,0,0,0,,And you assaulted my\Nparents when they resisted.
+Dialogue: 0,0:51:07.23,0:51:09.15,Default,,0,0,0,,You should apologize in front of everyone.
+Dialogue: 0,0:51:09.35,0:51:11.10,Default,,0,0,0,,Or else…
+Dialogue: 0,0:51:15.56,0:51:18.40,Default,,0,0,0,,So they've made their decision…\NWhat's yours?
+Dialogue: 0,0:51:18.68,0:51:20.47,Default,,0,0,0,,Apology? Or a cigarette?
+Dialogue: 0,0:51:20.85,0:51:22.01,Default,,0,0,0,,- Sorry.\N- What?
+Dialogue: 0,0:51:22.39,0:51:23.39,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:51:23.48,0:51:26.81,Default,,0,0,0,,The entire street witnessed\Nmy parents being assaulted.
+Dialogue: 0,0:51:27.02,0:51:30.40,Default,,0,0,0,,Now, the entire town should\Nhear your apology to them.
+Dialogue: 0,0:51:30.93,0:51:32.18,Default,,0,0,0,,Each and every one of them.
+Dialogue: 0,0:51:33.10,0:51:36.14,Default,,0,0,0,,Indukuri Suryanarayana aka Thakur.
+Dialogue: 0,0:51:36.56,0:51:40.94,Default,,0,0,0,,My apologies to Indukuri\NSuryanarayana aka Thakur.
+Dialogue: 0,0:51:43.43,0:51:46.60,Default,,0,0,0,,Indukuri Bhagyalaxmi aka Basanti.
+Dialogue: 0,0:51:47.02,0:51:52.31,Default,,0,0,0,,My apologies to Indukuri\NBhagyalaxmi aka Basanti.
+Dialogue: 0,0:51:54.14,0:51:55.10,Default,,0,0,0,,Jik…
+Dialogue: 0,0:51:59.52,0:52:01.27,Default,,0,0,0,,Indukuri Jikki.
+Dialogue: 0,0:52:03.02,0:52:07.44,Default,,0,0,0,,My apologies to Indukuri Jikki.
+Dialogue: 0,0:52:12.02,0:52:13.65,Default,,0,0,0,,Thank you so much.
+Dialogue: 0,0:52:26.43,0:52:27.47,Default,,0,0,0,,You know, right?
+Dialogue: 0,0:52:27.85,0:52:29.55,Default,,0,0,0,,Since I didn't like his methods,
+Dialogue: 0,0:52:29.85,0:52:31.18,Default,,0,0,0,,I resigned as a clerk to Muthyam Jaghayya
+Dialogue: 0,0:52:31.27,0:52:32.65,Default,,0,0,0,,and started serving at the temple.
+Dialogue: 0,0:52:33.14,0:52:34.43,Default,,0,0,0,,Why deal with such a person?
+Dialogue: 0,0:52:35.56,0:52:37.69,Default,,0,0,0,,And you guys? At least you\Nshould have intervened.
+Dialogue: 0,0:52:37.89,0:52:39.26,Default,,0,0,0,,They announced her name on the microphone.
+Dialogue: 0,0:52:39.85,0:52:41.14,Default,,0,0,0,,Once she steps out of her house,
+Dialogue: 0,0:52:41.89,0:52:44.43,Default,,0,0,0,,the public will scrutinize her\Nand comment on her.
+Dialogue: 0,0:52:44.60,0:52:46.05,Default,,0,0,0,,It's Bachchan who is at fault, Uncle.
+Dialogue: 0,0:52:46.31,0:52:48.86,Default,,0,0,0,,He tried to impress the girl\Nand messed with them.
+Dialogue: 0,0:52:49.18,0:52:51.39,Default,,0,0,0,,If I had known about the issue,
+Dialogue: 0,0:52:51.85,0:52:53.35,Default,,0,0,0,,I could have easily\Nhandled Muthyam Jaghayya.
+Dialogue: 0,0:52:53.93,0:52:57.89,Default,,0,0,0,,A true man stands not just\Nby his parents but also by a girl.
+Dialogue: 0,0:52:59.77,0:53:01.31,Default,,0,0,0,,Bachchan didn't do anything wrong, Dad.
+Dialogue: 0,0:53:01.52,0:53:02.94,Default,,0,0,0,,He corrected the mistake.
+Dialogue: 0,0:53:09.23,0:53:13.02,Default,,0,0,0,,- You are singing well. Don't feel bad.\N- It's my training. What do you think?
+Dialogue: 0,0:53:13.18,0:53:14.89,Default,,0,0,0,,These guys always stick around here.
+Dialogue: 0,0:53:17.64,0:53:19.22,Default,,0,0,0,,Hey, all the ladies come to one side.
+Dialogue: 0,0:53:19.56,0:53:20.61,Default,,0,0,0,,Our friend isn't able to breathe.
+Dialogue: 0,0:53:20.81,0:53:24.36,Default,,0,0,0,,The entire women's group has\Ncome for one cassette recording.
+Dialogue: 0,0:53:24.60,0:53:27.85,Default,,0,0,0,,We should limit one person to\None cassette, just like a movie ticket.
+Dialogue: 0,0:53:27.98,0:53:29.15,Default,,0,0,0,,- Correct.\N- Why?
+Dialogue: 0,0:53:29.23,0:53:30.90,Default,,0,0,0,,So that each one of you\Ncan flirt with one girl?
+Dialogue: 0,0:53:31.02,0:53:33.52,Default,,0,0,0,,We shouldn't allow girls like you,\Nwho can't tell the difference
+Dialogue: 0,0:53:33.64,0:53:35.35,Default,,0,0,0,,between a chocolate and a cassette.
+Dialogue: 0,0:53:35.77,0:53:38.02,Default,,0,0,0,,- On the A-side, Chiranjeevi songs.\N- Do you want Balakrishna on the B-side?
+Dialogue: 0,0:53:38.18,0:53:40.72,Default,,0,0,0,,B-side… Leave that to him.
+Dialogue: 0,0:54:16.85,0:54:18.97,Default,,0,0,0,,Aunty, there's a phone call for you!
+Dialogue: 0,0:54:19.48,0:54:21.98,Default,,0,0,0,,Bava is always negative. Listen to me.
+Dialogue: 0,0:54:25.27,0:54:27.56,Default,,0,0,0,,- It's just some sound.\N- What happened, Jikki?
+Dialogue: 0,0:54:28.02,0:54:29.23,Default,,0,0,0,,It slipped out of my hand.
+Dialogue: 0,0:54:29.43,0:54:30.76,Default,,0,0,0,,It's okay if it slipped\Nout of your hand, ma'am.
+Dialogue: 0,0:54:30.93,0:54:32.55,Default,,0,0,0,,You will be in trouble if your leg slips.
+Dialogue: 0,0:54:32.68,0:54:33.55,Default,,0,0,0,,A phone call has come.
+Dialogue: 0,0:54:33.64,0:54:35.26,Default,,0,0,0,,Aunty, a phone call for you.
+Dialogue: 0,0:54:35.39,0:54:37.51,Default,,0,0,0,,I can't hear you, dear. Come in.
+Dialogue: 0,0:54:37.73,0:54:39.06,Default,,0,0,0,,Where are you, Aunty?
+Dialogue: 0,0:54:39.98,0:54:41.06,Default,,0,0,0,,Here…
+Dialogue: 0,0:54:50.18,0:54:51.35,Default,,0,0,0,,A phone call for you.
+Dialogue: 0,0:54:53.64,0:54:56.05,Default,,0,0,0,,- Turn this side.\N- Who are you talking to, my son?
+Dialogue: 0,0:54:56.18,0:54:57.30,Default,,0,0,0,,My sister.
+Dialogue: 0,0:54:57.48,0:55:00.56,Default,,0,0,0,,Well, the phone has been\Ndead for the last three days.
+Dialogue: 0,0:55:00.64,0:55:01.60,Default,,0,0,0,,Who are you talking to?
+Dialogue: 0,0:55:01.77,0:55:04.81,Default,,0,0,0,,That's why, I'm not able to hear anything.
+Dialogue: 0,0:55:05.14,0:55:07.76,Default,,0,0,0,,Sister, I will call you later,\Nthe phone is dead.
+Dialogue: 0,0:55:08.73,0:55:10.15,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:55:14.39,0:55:16.43,Default,,0,0,0,,My parents are looking\Nfor potential matches for me.
+Dialogue: 0,0:55:17.39,0:55:20.51,Default,,0,0,0,,- Let them.\N- Tomorrow they are coming home to see me.
+Dialogue: 0,0:55:21.85,0:55:24.60,Default,,0,0,0,,- Let them.\N- Aren't you scared, man?
+Dialogue: 0,0:55:25.43,0:55:28.26,Default,,0,0,0,,Not at all.\NUnless they see a few matches,
+Dialogue: 0,0:55:28.35,0:55:29.89,Default,,0,0,0,,how will your father know my specialty?
+Dialogue: 0,0:55:30.06,0:55:31.86,Default,,0,0,0,,Yeah, big specialty.
+Dialogue: 0,0:55:32.10,0:55:34.76,Default,,0,0,0,,You are a Kumar Sanu fan.\NHe is a Kishore Kumar fan.
+Dialogue: 0,0:55:34.98,0:55:37.31,Default,,0,0,0,,I'm getting killed for playing\Nthe orchestra between both of you.
+Dialogue: 0,0:55:37.43,0:55:38.39,Default,,0,0,0,,Really?
+Dialogue: 0,0:55:38.48,0:55:39.36,Default,,0,0,0,,Then, let's do something.
+Dialogue: 0,0:55:39.48,0:55:42.19,Default,,0,0,0,,This time, I will play the\Nchorus to your orchestra, okay?
+Dialogue: 0,0:55:42.27,0:55:43.69,Default,,0,0,0,,- What?\N- It means…
+Dialogue: 0,0:55:45.60,0:55:47.26,Default,,0,0,0,,Mr. Pankaj, your…
+Dialogue: 0,0:55:47.48,0:55:50.11,Default,,0,0,0,,Everyone is saying that\Nthe girl is good.
+Dialogue: 0,0:55:50.23,0:55:52.27,Default,,0,0,0,,- If this match works out…\N- Greetings.
+Dialogue: 0,0:55:52.35,0:55:54.64,Default,,0,0,0,,He is Mr. Chandi Das, and his\Nson is in the diamond business.
+Dialogue: 0,0:55:54.77,0:55:56.23,Default,,0,0,0,,Your daughter is like gold…
+Dialogue: 0,0:55:56.43,0:56:00.39,Default,,0,0,0,,They make a perfect match. That's\Nwhy I approached them for an alliance.
+Dialogue: 0,0:56:01.27,0:56:02.44,Default,,0,0,0,,Thanks for that.
+Dialogue: 0,0:56:02.56,0:56:05.06,Default,,0,0,0,,After the priest has said okay,\Nwhat questions will I have?
+Dialogue: 0,0:56:05.18,0:56:07.22,Default,,0,0,0,,We will come to see\Nthe girl on an auspicious day.
+Dialogue: 0,0:56:07.31,0:56:09.48,Default,,0,0,0,,- Okay.\N- The priest manages every
+Dialogue: 0,0:56:09.56,0:56:11.31,Default,,0,0,0,,celebration in our family.
+Dialogue: 0,0:56:11.43,0:56:13.97,Default,,0,0,0,,His word is as trustworthy as an ISI mark.
+Dialogue: 0,0:56:14.31,0:56:17.11,Default,,0,0,0,,While he performs the puja in the temple,\NI hear the song belongs to you.
+Dialogue: 0,0:56:17.18,0:56:18.35,Default,,0,0,0,,Nothing like that.
+Dialogue: 0,0:56:23.31,0:56:27.02,Default,,0,0,0,,{\i1}Jikki, you said that you would persuade{\i0}\N{\i1}your father to arrange our marriage.{\i0}
+Dialogue: 0,0:56:27.52,0:56:28.86,Default,,0,0,0,,{\i1}What happened?{\i0}
+Dialogue: 0,0:56:29.18,0:56:32.10,Default,,0,0,0,,{\i1}This won't work out.{\i0}\N{\i1}Let's get married first,{\i0}
+Dialogue: 0,0:56:32.48,0:56:34.23,Default,,0,0,0,,{\i1}and then we can convince him.{\i0}
+Dialogue: 0,0:56:34.52,0:56:38.11,Default,,0,0,0,,{\i1}Once we're married,{\i0}\N{\i1}he'll have no choice but to accept it.{\i0}
+Dialogue: 0,0:56:39.64,0:56:40.89,Default,,0,0,0,,This cassette\Ndoesn't belong to him, madam.
+Dialogue: 0,0:56:40.98,0:56:43.69,Default,,0,0,0,,Yeah, from now on, the girl also\Ndoesn't belong to him. Let's go, Son.
+Dialogue: 0,0:56:43.89,0:56:45.39,Default,,0,0,0,,What kind of match\Ndid your father arrange?
+Dialogue: 0,0:56:45.52,0:56:46.86,Default,,0,0,0,,Such trouble for this match?
+Dialogue: 0,0:56:56.43,0:56:58.76,Default,,0,0,0,,I went to hear {\i1}Bhagavatam{\i0} at the temple…
+Dialogue: 0,0:56:58.89,0:57:01.18,Default,,0,0,0,,and her story was exposed. It's shameful!
+Dialogue: 0,0:57:01.64,0:57:04.89,Default,,0,0,0,,While everyone respects me,\Nshe dragged me down.
+Dialogue: 0,0:57:05.77,0:57:06.94,Default,,0,0,0,,Why is Jikki being\Nblamed for this, Uncle?
+Dialogue: 0,0:57:07.10,0:57:08.43,Default,,0,0,0,,She is as innocent\Nas a queen in a deck of cards.
+Dialogue: 0,0:57:08.56,0:57:10.77,Default,,0,0,0,,It's him who messed everything up.
+Dialogue: 0,0:57:10.93,0:57:12.76,Default,,0,0,0,,This is a matter between two families.
+Dialogue: 0,0:57:12.93,0:57:16.64,Default,,0,0,0,,I will not tolerate any\Noutsider intervening.
+Dialogue: 0,0:57:16.77,0:57:18.15,Default,,0,0,0,,Look how your son is behaving!
+Dialogue: 0,0:57:18.48,0:57:20.23,Default,,0,0,0,,Forget their words.
+Dialogue: 0,0:57:20.52,0:57:23.61,Default,,0,0,0,,I will look after Jikki\Nlike my own daughter.
+Dialogue: 0,0:57:23.81,0:57:25.52,Default,,0,0,0,,Please allow them to get married, brother.
+Dialogue: 0,0:57:25.60,0:57:29.89,Default,,0,0,0,,How can we agree?\NHe doesn't even have a job.
+Dialogue: 0,0:57:31.27,0:57:34.86,Default,,0,0,0,,- It's all because of this stupid phone.\N- Correct, Uncle.
+Dialogue: 0,0:57:35.35,0:57:36.22,Default,,0,0,0,,Hello…
+Dialogue: 0,0:57:36.31,0:57:38.98,Default,,0,0,0,,Excuse me. I'm calling from\Nthe Income Tax Department.
+Dialogue: 0,0:57:39.56,0:57:41.69,Default,,0,0,0,,- Can I speak to Mr. Bachchan, please?\N- Dorababu!
+Dialogue: 0,0:57:42.27,0:57:44.61,Default,,0,0,0,,It's cards playing in the…
+Dialogue: 0,0:57:44.85,0:57:45.72,Default,,0,0,0,,Hey, stop.
+Dialogue: 0,0:57:45.81,0:57:47.44,Default,,0,0,0,,Uncle, this guy is talking in English.
+Dialogue: 0,0:57:48.06,0:57:48.94,Default,,0,0,0,,Yes?
+Dialogue: 0,0:57:49.02,0:57:51.02,Default,,0,0,0,,This is the Deputy Commissioner\Nof the Income Tax Department.
+Dialogue: 0,0:57:51.23,0:57:54.61,Default,,0,0,0,,Mr. Bachchan's suspension\Nhas been lifted. Please inform him.
+Dialogue: 0,0:57:55.31,0:57:56.23,Default,,0,0,0,,Okay.
+Dialogue: 0,0:57:56.39,0:57:58.14,Default,,0,0,0,,Bachchan, it's your call.
+Dialogue: 0,0:57:58.35,0:58:00.68,Default,,0,0,0,,You said the phone was stupid, right?\NTell them that I'm not here.
+Dialogue: 0,0:58:00.81,0:58:02.02,Default,,0,0,0,,You need to take this call.
+Dialogue: 0,0:58:04.10,0:58:06.18,Default,,0,0,0,,- Yes, Bachchan speaking.\N- Your suspension has been lifted.
+Dialogue: 0,0:58:06.77,0:58:08.15,Default,,0,0,0,,Please return\Nand resume your duties urgently.
+Dialogue: 0,0:58:08.31,0:58:10.69,Default,,0,0,0,,- Sure, sir. Thank you.\N- Welcome.
+Dialogue: 0,0:58:11.64,0:58:12.55,Default,,0,0,0,,You tell them yourself.
+Dialogue: 0,0:58:13.10,0:58:14.80,Default,,0,0,0,,It's from the Income Tax Department.
+Dialogue: 0,0:58:15.10,0:58:16.51,Default,,0,0,0,,My suspension has been lifted, Dad.
+Dialogue: 0,0:58:16.89,0:58:18.22,Default,,0,0,0,,They asked me to join back immediately.
+Dialogue: 0,0:58:18.68,0:58:20.89,Default,,0,0,0,,What great news, Son!
+Dialogue: 0,0:58:20.98,0:58:22.61,Default,,0,0,0,,What do you say now?
+Dialogue: 0,0:58:22.68,0:58:25.01,Default,,0,0,0,,Mr. Bachchan.\NYou must've heard the name.
+Dialogue: 0,0:58:26.56,0:58:28.56,Default,,0,0,0,,You raised your daughter\Nwith so much love.
+Dialogue: 0,0:58:29.02,0:58:30.98,Default,,0,0,0,,I will cherish\Nand care for her as my life.
+Dialogue: 0,0:58:33.85,0:58:35.18,Default,,0,0,0,,Please allow us to get married.
+Dialogue: 0,0:58:38.77,0:58:39.86,Default,,0,0,0,,Alright.
+Dialogue: 0,0:58:40.02,0:58:41.06,Default,,0,0,0,,Let's set the date.
+Dialogue: 0,0:58:41.52,0:58:43.44,Default,,0,0,0,,Congratulations, dear!
+Dialogue: 0,0:58:43.60,0:58:46.39,Default,,0,0,0,,- Uncle, have you gone mad?\N- Keep the phone aside.
+Dialogue: 0,0:58:48.18,0:58:49.26,Default,,0,0,0,,Brother…
+Dialogue: 0,0:58:52.77,0:58:54.06,Default,,0,0,0,,What's happening, dude?
+Dialogue: 0,0:58:55.18,0:58:56.97,Default,,0,0,0,,He has ruined your chances, bro.
+Dialogue: 0,0:59:41.02,0:59:43.86,Default,,0,0,0,,{\i1}A big fair in the girl's beauty{\i0}
+Dialogue: 0,0:59:43.98,0:59:46.56,Default,,0,0,0,,{\i1}And Bappi Lahiri in Bachchan's voice{\i0}
+Dialogue: 0,0:59:46.85,0:59:49.72,Default,,0,0,0,,{\i1}Just at a gesture{\i0}\N{\i1}Disco starts playing{\i0}
+Dialogue: 0,0:59:49.85,0:59:52.51,Default,,0,0,0,,{\i1}And the concert won't stop till dawn{\i0}
+Dialogue: 0,0:59:52.73,0:59:55.61,Default,,0,0,0,,{\i1}A love duet{\i0}\N{\i1}In Telugu, Tamil, and Hindi{\i0}
+Dialogue: 0,0:59:55.68,0:59:59.14,Default,,0,0,0,,{\i1}The drop of sweat will play to the music{\i0}
+Dialogue: 0,1:00:06.77,1:00:10.19,Default,,0,0,0,,{\i1}Eyelids should beat like the drums{\i0}
+Dialogue: 0,1:00:10.27,1:00:13.02,Default,,0,0,0,,{\i1}My bangles will sing a ghazal{\i0}
+Dialogue: 0,1:00:13.27,1:00:15.98,Default,,0,0,0,,{\i1}The noise of the cot should play a chorus{\i0}
+Dialogue: 0,1:00:16.10,1:00:18.35,Default,,0,0,0,,{\i1}The audience will throw Jasmine flowers{\i0}
+Dialogue: 0,1:00:18.60,1:00:21.22,Default,,0,0,0,,{\i1}Once more, more, more…{\i0}
+Dialogue: 0,1:00:21.56,1:00:24.27,Default,,0,0,0,,{\i1}Close the door, door, door…{\i0}
+Dialogue: 0,1:00:24.43,1:00:27.68,Default,,0,0,0,,{\i1}When kissing, the surrounding villages{\i0}\N{\i1}Play on the mic{\i0}
+Dialogue: 0,1:00:27.85,1:00:30.35,Default,,0,0,0,,{\i1}Till the sun rises{\i0}
+Dialogue: 0,1:00:30.52,1:00:33.48,Default,,0,0,0,,{\i1}A big fair in the girl's beauty{\i0}
+Dialogue: 0,1:00:33.64,1:00:36.39,Default,,0,0,0,,{\i1}And Bappi Lahiri in Bachchan's voice{\i0}
+Dialogue: 0,1:01:05.68,1:01:10.85,Default,,0,0,0,,{\i1}Why the shyness on your pink cheeks?{\i0}
+Dialogue: 0,1:01:11.60,1:01:16.55,Default,,0,0,0,,{\i1}Since you hid sharpness{\i0}\N{\i1}In your sharp looks{\i0}
+Dialogue: 0,1:01:17.56,1:01:22.94,Default,,0,0,0,,{\i1}When I pinch your waistline{\i0}\N{\i1}Fingers learn music{\i0}
+Dialogue: 0,1:01:23.43,1:01:26.14,Default,,0,0,0,,{\i1}And we get into…{\i0}\N{\i1}Pillow business under full moon{\i0}
+Dialogue: 0,1:01:26.39,1:01:30.18,Default,,0,0,0,,{\i1}Jhanak! Jhanak! Jhanak!{\i0}\N{\i1}And we play Nattuvangam{\i0}
+Dialogue: 0,1:01:37.48,1:01:40.77,Default,,0,0,0,,{\i1}Eyelids should beat like the drums{\i0}
+Dialogue: 0,1:01:41.02,1:01:43.73,Default,,0,0,0,,{\i1}My bangles will sing a ghazal{\i0}
+Dialogue: 0,1:01:43.98,1:01:46.69,Default,,0,0,0,,{\i1}The noise of the cot should play a chorus{\i0}
+Dialogue: 0,1:01:46.89,1:01:49.10,Default,,0,0,0,,{\i1}The audience will throw Jasmine flowers{\i0}
+Dialogue: 0,1:01:49.35,1:01:52.05,Default,,0,0,0,,{\i1}Once more, more, more…{\i0}
+Dialogue: 0,1:01:52.23,1:01:54.98,Default,,0,0,0,,{\i1}Close the door, door, door…{\i0}
+Dialogue: 0,1:01:55.10,1:01:58.26,Default,,0,0,0,,{\i1}When kissing, the surrounding villages{\i0}\N{\i1}Play on the mic{\i0}
+Dialogue: 0,1:01:58.64,1:02:00.89,Default,,0,0,0,,{\i1}Till the sun rises{\i0}
+Dialogue: 0,1:02:01.35,1:02:04.30,Default,,0,0,0,,{\i1}A big fair in the girl's beauty{\i0}
+Dialogue: 0,1:02:04.48,1:02:07.48,Default,,0,0,0,,{\i1}And Bappi Lahiri in Bachchan's voice{\i0}
+Dialogue: 0,1:02:45.31,1:02:50.56,Default,,0,0,0,,{\i1}How you hold my life{\i0}\N{\i1}At ransom at the edge of your sari{\i0}
+Dialogue: 0,1:02:51.23,1:02:56.52,Default,,0,0,0,,{\i1}While I hold with my fingers{\i0}\N{\i1}You are the world for me{\i0}
+Dialogue: 0,1:02:57.14,1:03:02.80,Default,,0,0,0,,{\i1}I smelt like an ice cream{\i0}\N{\i1}Filled with youth in mid-summer{\i0}
+Dialogue: 0,1:03:02.93,1:03:05.60,Default,,0,0,0,,{\i1}Let the heat be cold{\i0}\N{\i1}And Varanda hold it{\i0}
+Dialogue: 0,1:03:05.85,1:03:09.55,Default,,0,0,0,,{\i1}Hug me and sing an Asha Bhosle tune{\i0}
+Dialogue: 0,1:03:17.02,1:03:20.31,Default,,0,0,0,,{\i1}Eyelids should beat like the drums{\i0}
+Dialogue: 0,1:03:20.52,1:03:23.19,Default,,0,0,0,,{\i1}My bangles will sing a ghazal{\i0}
+Dialogue: 0,1:03:23.39,1:03:26.18,Default,,0,0,0,,{\i1}The noise of the cot should play a chorus{\i0}
+Dialogue: 0,1:03:26.31,1:03:28.44,Default,,0,0,0,,{\i1}The audience will throw Jasmine flowers{\i0}
+Dialogue: 0,1:03:28.73,1:03:31.61,Default,,0,0,0,,{\i1}Once more, more, more…{\i0}
+Dialogue: 0,1:03:31.68,1:03:34.43,Default,,0,0,0,,{\i1}Close the door, door, door…{\i0}
+Dialogue: 0,1:03:34.52,1:03:37.81,Default,,0,0,0,,{\i1}When kissing, the surrounding villages{\i0}\N{\i1}Play on the mic{\i0}
+Dialogue: 0,1:03:38.02,1:03:40.48,Default,,0,0,0,,{\i1}Till the sun rises{\i0}
+Dialogue: 0,1:03:40.68,1:03:43.80,Default,,0,0,0,,{\i1}A big fair in the girl's beauty{\i0}
+Dialogue: 0,1:03:43.93,1:03:46.72,Default,,0,0,0,,{\i1}And Bappi Lahiri in Bachchan's voice{\i0}
+Dialogue: 0,1:03:53.06,1:03:53.98,Default,,0,0,0,,Congratulations.
+Dialogue: 0,1:03:54.14,1:03:58.10,Default,,0,0,0,,You are the first officer to join\Non promotion after a suspension.
+Dialogue: 0,1:03:58.31,1:03:59.27,Default,,0,0,0,,Thank you, sir.
+Dialogue: 0,1:03:59.39,1:04:01.93,Default,,0,0,0,,You must conduct\Nan income tax raid on a big shot.
+Dialogue: 0,1:04:02.02,1:04:03.69,Default,,0,0,0,,My wedding is in four days, sir.
+Dialogue: 0,1:04:03.85,1:04:06.64,Default,,0,0,0,,The raid can be completed in a day.\NYou can return by the evening.
+Dialogue: 0,1:04:06.85,1:04:08.14,Default,,0,0,0,,- Please try to understand, sir.\N- Bachchan!
+Dialogue: 0,1:04:08.43,1:04:10.51,Default,,0,0,0,,You've been taken back\Ninto the department for this raid only.
+Dialogue: 0,1:04:10.73,1:04:12.94,Default,,0,0,0,,I will assign the team. Get ready.
+Dialogue: 0,1:04:13.10,1:04:15.76,Default,,0,0,0,,- By the way, sir, who should I raid?\N- It's highly confidential.
+Dialogue: 0,1:04:15.93,1:04:17.76,Default,,0,0,0,,They said they would inform me\Nan hour before informing you.
+Dialogue: 0,1:04:17.93,1:04:20.60,Default,,0,0,0,,No problem, sir. For me,\Nthe work is important. Not the name.
+Dialogue: 0,1:04:24.35,1:04:30.01,Default,,0,0,0,,{\i1}The king has been checkmated, Tayaramma!{\i0}
+Dialogue: 0,1:04:31.10,1:04:33.30,Default,,0,0,0,,- Hello?\N- Delhi Party Office.
+Dialogue: 0,1:04:34.06,1:04:35.27,Default,,0,0,0,,So, what's the news from Delhi?
+Dialogue: 0,1:04:35.43,1:04:37.89,Default,,0,0,0,,Bad news. They are not\Ngiving the MLA ticket to your brother.
+Dialogue: 0,1:04:38.23,1:04:40.56,Default,,0,0,0,,- Are you in your senses?\N{\i1}- Yes.{\i0}
+Dialogue: 0,1:04:40.64,1:04:42.76,Default,,0,0,0,,I'm an MP overseeing seven MLAs.
+Dialogue: 0,1:04:43.14,1:04:46.18,Default,,0,0,0,,Party offices could be burnt down\Nif anyone messes with me.
+Dialogue: 0,1:04:46.35,1:04:48.76,Default,,0,0,0,,You're overestimating\Nyourself, Mr. Jaghayya.
+Dialogue: 0,1:04:49.10,1:04:52.10,Default,,0,0,0,,An anonymous person came\Nto your brother's public meeting…
+Dialogue: 0,1:04:52.31,1:04:54.40,Default,,0,0,0,,and tried to burn\Neverything down with petrol.
+Dialogue: 0,1:04:54.81,1:04:56.52,Default,,0,0,0,,{\i1}And you couldn't do anything about it.{\i0}
+Dialogue: 0,1:04:56.73,1:04:59.77,Default,,0,0,0,,How can you threaten us in Delhi?\NGoodbye.
+Dialogue: 0,1:05:04.56,1:05:06.23,Default,,0,0,0,,What happened at your meeting?
+Dialogue: 0,1:05:06.77,1:05:07.77,Default,,0,0,0,,Brother…
+Dialogue: 0,1:05:07.93,1:05:11.85,Default,,0,0,0,,What happened at your meeting that night?
+Dialogue: 0,1:05:12.06,1:05:13.06,Default,,0,0,0,,Brother…
+Dialogue: 0,1:05:20.06,1:05:23.02,Default,,0,0,0,,I want him in front of me within\Nthe next hour, no matter where he is.
+Dialogue: 0,1:05:23.27,1:05:25.86,Default,,0,0,0,,Why are you just standing there? Go now!
+Dialogue: 0,1:05:36.64,1:05:38.05,Default,,0,0,0,,We have our wedding\Nin the next four days--
+Dialogue: 0,1:05:38.14,1:05:39.30,Default,,0,0,0,,I will come back in two days.
+Dialogue: 0,1:05:40.18,1:05:41.51,Default,,0,0,0,,I'm scared.
+Dialogue: 0,1:05:41.73,1:05:42.94,Default,,0,0,0,,Come on, silly girl.
+Dialogue: 0,1:05:43.43,1:05:46.39,Default,,0,0,0,,Every girl gets butterflies\Nbefore their wedding.
+Dialogue: 0,1:05:46.64,1:05:48.05,Default,,0,0,0,,At times like this, you should…
+Dialogue: 0,1:05:50.27,1:05:52.06,Default,,0,0,0,,- Did it come down?\N- You will come, right?
+Dialogue: 0,1:05:52.39,1:05:53.39,Default,,0,0,0,,You will soon find out.
+Dialogue: 0,1:05:56.23,1:05:58.23,Default,,0,0,0,,{\i1}We searched everywhere, sir.{\i0}\N{\i1}We couldn't find him.{\i0}
+Dialogue: 0,1:05:58.68,1:06:00.60,Default,,0,0,0,,I don't know. I need him.
+Dialogue: 0,1:06:00.73,1:06:02.31,Default,,0,0,0,,{\i1}We looked for him in the market{\i0}\N{\i1}as well, brother. He is not there…{\i0}
+Dialogue: 0,1:06:02.43,1:06:04.64,Default,,0,0,0,,I don't want to hear anything. I need him!
+Dialogue: 0,1:06:04.85,1:06:06.39,Default,,0,0,0,,{\i1}We scanned the entire town,{\i0}\N{\i1}brother. He is not to be seen.{\i0}
+Dialogue: 0,1:06:06.52,1:06:08.98,Default,,0,0,0,,I need him!
+Dialogue: 0,1:06:12.23,1:06:14.44,Default,,0,0,0,,Brother, it seems\Nhis name is Bachchan.
+Dialogue: 0,1:06:14.68,1:06:16.18,Default,,0,0,0,,He is an income tax officer.
+Dialogue: 0,1:06:16.43,1:06:19.01,Default,,0,0,0,,He has been singing in\Nan orchestra since he was suspended.
+Dialogue: 0,1:06:22.77,1:06:23.81,Default,,0,0,0,,Coward.
+Dialogue: 0,1:06:24.39,1:06:26.39,Default,,0,0,0,,How did you let him go\Nafter what happened?
+Dialogue: 0,1:06:26.52,1:06:27.90,Default,,0,0,0,,Had he been in front of me…
+Dialogue: 0,1:06:56.98,1:06:58.06,Default,,0,0,0,,He is the guy.
+Dialogue: 0,1:07:02.73,1:07:05.06,Default,,0,0,0,,While we are searching\Nfor him all around…
+Dialogue: 0,1:07:05.27,1:07:09.06,Default,,0,0,0,,why did he walk in himself\Nalong with his battalion?
+Dialogue: 0,1:07:09.56,1:07:11.11,Default,,0,0,0,,Sambashiva…
+Dialogue: 0,1:07:11.27,1:07:12.65,Default,,0,0,0,,isn't it a miracle?
+Dialogue: 0,1:07:13.98,1:07:15.73,Default,,0,0,0,,While we're searching for him all around…
+Dialogue: 0,1:07:19.89,1:07:21.43,Default,,0,0,0,,why did he walk in\Nalong with his battalion?
+Dialogue: 0,1:07:21.64,1:07:23.51,Default,,0,0,0,,We're from the\NIncome Tax Department.
+Dialogue: 0,1:07:23.64,1:07:26.39,Default,,0,0,0,,And a raid is scheduled to begin\Nat your house in a few minutes.
+Dialogue: 0,1:07:26.81,1:07:31.90,Default,,0,0,0,,Furthermore, all our names are\Nregistered at Ayakar Bhavan, New Delhi.
+Dialogue: 0,1:07:32.02,1:07:36.06,Default,,0,0,0,,Any harm to us will come\Nat a steep cost to you.
+Dialogue: 0,1:07:36.52,1:07:39.94,Default,,0,0,0,,Officers, please announce\Nthe rules before we start the raid.
+Dialogue: 0,1:07:40.02,1:07:42.19,Default,,0,0,0,,Until the raid is completed,\Nno one should leave the house.
+Dialogue: 0,1:07:42.27,1:07:43.65,Default,,0,0,0,,And those outside cannot enter.
+Dialogue: 0,1:07:43.77,1:07:47.65,Default,,0,0,0,,The searches will occur\Ndaily from 6:00 a.m. to 6:00 p.m.
+Dialogue: 0,1:07:47.81,1:07:49.69,Default,,0,0,0,,You won't be disturbed after that.
+Dialogue: 0,1:07:49.89,1:07:52.39,Default,,0,0,0,,Only female staff\Nwill question the women.
+Dialogue: 0,1:07:52.52,1:07:55.44,Default,,0,0,0,,All your phones will be disconnected.\NWe will only use them when necessary.
+Dialogue: 0,1:07:55.81,1:07:57.52,Default,,0,0,0,,- Sujata Garu and team…\N- Yes, sir!
+Dialogue: 0,1:07:57.60,1:07:58.93,Default,,0,0,0,,Please go in and speak to the ladies.
+Dialogue: 0,1:07:59.14,1:08:00.97,Default,,0,0,0,,Once they indicate they are comfortable,\Nlet us know, and then we will enter.
+Dialogue: 0,1:08:01.06,1:08:01.94,Default,,0,0,0,,Okay, sir.
+Dialogue: 0,1:08:02.02,1:08:03.06,Default,,0,0,0,,- Subhash and team…\N- Yes, sir!
+Dialogue: 0,1:08:03.18,1:08:05.60,Default,,0,0,0,,Close all the doors around us.\NNo one should enter the house.
+Dialogue: 0,1:08:05.68,1:08:06.93,Default,,0,0,0,,- Okay? Right.\N- Okay, sir.
+Dialogue: 0,1:08:07.02,1:08:08.02,Default,,0,0,0,,What are you watching, brother?
+Dialogue: 0,1:08:08.10,1:08:09.72,Default,,0,0,0,,Are they really going\Nto come in and raid us?
+Dialogue: 0,1:08:09.81,1:08:12.23,Default,,0,0,0,,Hey, officer. Enough of this circus.
+Dialogue: 0,1:08:14.98,1:08:17.02,Default,,0,0,0,,A three-time MP.
+Dialogue: 0,1:08:17.39,1:08:18.97,Default,,0,0,0,,A two-time MLA.
+Dialogue: 0,1:08:19.73,1:08:21.69,Default,,0,0,0,,And former minister.
+Dialogue: 0,1:08:22.35,1:08:25.14,Default,,0,0,0,,That's my history and track record.
+Dialogue: 0,1:08:27.31,1:08:29.65,Default,,0,0,0,,Do you know\Nwho you're messing around with?
+Dialogue: 0,1:08:32.02,1:08:33.48,Default,,0,0,0,,With five years of service…
+Dialogue: 0,1:08:34.56,1:08:36.69,Default,,0,0,0,,I've conducted 72 raids…
+Dialogue: 0,1:08:37.23,1:08:40.40,Default,,0,0,0,,and seized over three billion\Nin black money.
+Dialogue: 0,1:08:40.56,1:08:45.86,Default,,0,0,0,,I've put an end to\N72 "histories" like you.
+Dialogue: 0,1:08:46.31,1:08:50.06,Default,,0,0,0,,Maybe you haven't encountered\Nan officer like me in your career,
+Dialogue: 0,1:08:50.31,1:08:54.61,Default,,0,0,0,,but I've dealt with\Nmany politicians like you in mine.
+Dialogue: 0,1:08:55.81,1:08:58.73,Default,,0,0,0,,This raid might be new for you,\Nbut not for me.
+Dialogue: 0,1:08:58.93,1:09:01.30,Default,,0,0,0,,Sir, the women in the house are\Ncomfortable. We can proceed now.
+Dialogue: 0,1:09:01.64,1:09:04.10,Default,,0,0,0,,Come on, let's start the search.
+Dialogue: 0,1:09:14.64,1:09:16.26,Default,,0,0,0,,Hope the lady officers\Nhave informed you about us.
+Dialogue: 0,1:09:16.48,1:09:17.44,Default,,0,0,0,,We need to know who you all are.
+Dialogue: 0,1:09:17.68,1:09:18.80,Default,,0,0,0,,Please introduce\Nyourselves with your names.
+Dialogue: 0,1:09:18.98,1:09:21.69,Default,,0,0,0,,My name is Prabhavathi,\Nwife of Muthyam Jaghayya.
+Dialogue: 0,1:09:21.89,1:09:24.47,Default,,0,0,0,,My name is Chennakesava.\NI'm Muthyam Jaghayya's second brother.
+Dialogue: 0,1:09:24.64,1:09:26.18,Default,,0,0,0,,She is my wife, name…
+Dialogue: 0,1:09:26.35,1:09:28.05,Default,,0,0,0,,Sparsha, the touch.
+Dialogue: 0,1:09:28.27,1:09:30.52,Default,,0,0,0,,Touch me, and you'll get a shock.
+Dialogue: 0,1:09:31.35,1:09:32.76,Default,,0,0,0,,He is my elder brother.\NName…
+Dialogue: 0,1:09:32.89,1:09:35.14,Default,,0,0,0,,I know him very well.\NHow are you, sir?
+Dialogue: 0,1:09:37.18,1:09:39.76,Default,,0,0,0,,I'm Srilatha.\NMuthyam Sambashiva's better half.
+Dialogue: 0,1:09:40.64,1:09:41.68,Default,,0,0,0,,She is our elder sister…
+Dialogue: 0,1:09:41.81,1:09:44.06,Default,,0,0,0,,Are these all the family members,\Nor is there anyone else?
+Dialogue: 0,1:09:44.35,1:09:47.22,Default,,0,0,0,,There is, and he is coming.
+Dialogue: 0,1:09:51.06,1:09:52.06,Default,,0,0,0,,Who are you?
+Dialogue: 0,1:09:52.18,1:09:54.80,Default,,0,0,0,,Presenting, cine hero\NSisindri Chittibabu Garu.
+Dialogue: 0,1:09:54.98,1:09:56.02,Default,,0,0,0,,I haven't seen him in any movie.
+Dialogue: 0,1:09:56.14,1:09:57.64,Default,,0,0,0,,I haven't acted in any movie, yet.
+Dialogue: 0,1:09:58.02,1:09:59.36,Default,,0,0,0,,- Officers!\N- Yes, sir.
+Dialogue: 0,1:09:59.52,1:10:01.36,Default,,0,0,0,,- You can begin the search.\N- Okay, sir.
+Dialogue: 0,1:10:01.68,1:10:04.76,Default,,0,0,0,,It's all a waste of time.\NWhat will we get?
+Dialogue: 0,1:10:04.85,1:10:07.85,Default,,0,0,0,,Searching in sir's house is like\Nputting our hand in God's treasures.
+Dialogue: 0,1:10:07.98,1:10:08.86,Default,,0,0,0,,That's true.
+Dialogue: 0,1:10:09.18,1:10:10.39,Default,,0,0,0,,My God!
+Dialogue: 0,1:10:12.56,1:10:14.27,Default,,0,0,0,,This bedroom is so huge.
+Dialogue: 0,1:10:14.35,1:10:16.10,Default,,0,0,0,,This is the first time I've come\Nfor a raid to such a big house.
+Dialogue: 0,1:10:16.18,1:10:17.05,Default,,0,0,0,,Me too.
+Dialogue: 0,1:10:39.93,1:10:42.14,Default,,0,0,0,,Muthyam Jaghayya is like a pure gem, sir.
+Dialogue: 0,1:10:42.31,1:10:44.23,Default,,0,0,0,,You are unnecessarily\Nsuspecting and insulting him.
+Dialogue: 0,1:10:44.31,1:10:46.06,Default,,0,0,0,,You are young.\NAnd you have a bright future.
+Dialogue: 0,1:10:46.18,1:10:47.64,Default,,0,0,0,,Why do you want to\Nmess with these big people?
+Dialogue: 0,1:10:48.85,1:10:51.80,Default,,0,0,0,,I want people who work.\NNot the ones who give bits of advice.
+Dialogue: 0,1:10:51.93,1:10:56.18,Default,,0,0,0,,Please keep your advice\Nand opinions under Muthyam Jaghayya's…
+Dialogue: 0,1:10:57.64,1:11:00.60,Default,,0,0,0,,Raja… Maharaja…
+Dialogue: 0,1:11:01.56,1:11:03.73,Default,,0,0,0,,You can't find anything here, Raja.
+Dialogue: 0,1:11:05.31,1:11:07.69,Default,,0,0,0,,Please, go back, Raja.
+Dialogue: 0,1:11:11.48,1:11:13.98,Default,,0,0,0,,We've searched everywhere, sir.\NCouldn't find anything.
+Dialogue: 0,1:11:14.10,1:11:15.47,Default,,0,0,0,,We've searched everything, sir.\NCouldn't find anything.
+Dialogue: 0,1:11:15.60,1:11:16.47,Default,,0,0,0,,Neither could we, sir.
+Dialogue: 0,1:11:19.60,1:11:22.05,Default,,0,0,0,,Looks like there is\Na lot of heat in your body.
+Dialogue: 0,1:11:23.02,1:11:24.69,Default,,0,0,0,,You won't find anything, Raja.
+Dialogue: 0,1:11:25.23,1:11:27.11,Default,,0,0,0,,Have some buttermilk and then leave.
+Dialogue: 0,1:11:35.39,1:11:38.55,Default,,0,0,0,,We've checked the racks and shelves\Nin all the rooms, sir.
+Dialogue: 0,1:11:38.85,1:11:39.89,Default,,0,0,0,,We couldn't find anything.
+Dialogue: 0,1:11:42.56,1:11:43.56,Default,,0,0,0,,Search again,
+Dialogue: 0,1:11:43.68,1:11:44.76,Default,,0,0,0,,but this time, look meticulously
+Dialogue: 0,1:11:44.85,1:11:45.72,Default,,0,0,0,,- in all the unusual places.\N- Okay.
+Dialogue: 0,1:11:45.81,1:11:49.15,Default,,0,0,0,,Sir, we searched the backyard,\Nhaystack, and everywhere.
+Dialogue: 0,1:11:49.27,1:11:50.48,Default,,0,0,0,,- Yes, sir.\N- Everything is clean.
+Dialogue: 0,1:11:50.56,1:11:51.61,Default,,0,0,0,,We didn't find anything.
+Dialogue: 0,1:11:51.73,1:11:55.31,Default,,0,0,0,,Check the well, unused vessels,\Nand old cars if there are any.
+Dialogue: 0,1:11:55.68,1:11:57.80,Default,,0,0,0,,- We need to find something, okay?\N- Yes, sir.
+Dialogue: 0,1:11:57.89,1:11:58.76,Default,,0,0,0,,Okay.
+Dialogue: 0,1:12:02.56,1:12:06.11,Default,,0,0,0,,It seems like your fire\Nhas died down, officer.
+Dialogue: 0,1:12:06.56,1:12:07.73,Default,,0,0,0,,Should I give you some?
+Dialogue: 0,1:12:14.35,1:12:15.26,Default,,0,0,0,,Thanks.
+Dialogue: 0,1:12:15.98,1:12:19.15,Default,,0,0,0,,I have a habit of repaying\Na hundred times over.
+Dialogue: 0,1:12:19.31,1:12:21.31,Default,,0,0,0,,The government pays me a salary\Nin the thousands,
+Dialogue: 0,1:12:21.43,1:12:23.55,Default,,0,0,0,,and I pay it back\Nby finding black money worth millions.
+Dialogue: 0,1:12:23.81,1:12:25.11,Default,,0,0,0,,If you give me the fire…
+Dialogue: 0,1:12:29.35,1:12:30.68,Default,,0,0,0,,I will set it ablaze.
+Dialogue: 0,1:12:31.02,1:12:32.81,Default,,0,0,0,,You can say as many dialogues as you want,
+Dialogue: 0,1:12:33.60,1:12:35.35,Default,,0,0,0,,but you won’t find anything here.
+Dialogue: 0,1:12:36.31,1:12:39.19,Default,,0,0,0,,Listen to me and go back,
+Dialogue: 0,1:12:39.93,1:12:40.89,Default,,0,0,0,,my cute little boy.
+Dialogue: 0,1:12:42.60,1:12:44.85,Default,,0,0,0,,We searched the entire house, sir.\NWe couldn't find anything.
+Dialogue: 0,1:12:45.02,1:12:47.11,Default,,0,0,0,,Yes, sir. They have receipts\Nfor whatever we've found.
+Dialogue: 0,1:12:47.18,1:12:48.39,Default,,0,0,0,,We can't seize them--
+Dialogue: 0,1:12:51.81,1:12:54.69,Default,,0,0,0,,Govinda! Govinda!
+Dialogue: 0,1:12:55.85,1:12:57.85,Default,,0,0,0,,Bachchan is now deflated,
+Dialogue: 0,1:12:58.27,1:13:01.94,Default,,0,0,0,,and the people who came with him\Nturned out to be useless.
+Dialogue: 0,1:13:02.35,1:13:05.14,Default,,0,0,0,,Tayaramma, thank you for your blessings.
+Dialogue: 0,1:13:05.81,1:13:07.27,Default,,0,0,0,,Why don't you all do something?
+Dialogue: 0,1:13:07.73,1:13:10.65,Default,,0,0,0,,Stand in line behind me
+Dialogue: 0,1:13:11.02,1:13:12.27,Default,,0,0,0,,and lick my armpits!
+Dialogue: 0,1:13:14.23,1:13:18.48,Default,,0,0,0,,What else can you do,\Nother than be the lost goat in a carnival?
+Dialogue: 0,1:13:18.56,1:13:20.61,Default,,0,0,0,,There's nothing you can do.
+Dialogue: 0,1:13:21.18,1:13:23.64,Default,,0,0,0,,You forgive the goat that lost its way,
+Dialogue: 0,1:13:25.06,1:13:28.19,Default,,0,0,0,,and you sacrifice the goat\Nthat made a mistake.
+Dialogue: 0,1:13:29.06,1:13:30.48,Default,,0,0,0,,We have enough time for that.
+Dialogue: 0,1:13:30.98,1:13:32.94,Default,,0,0,0,,They call it something in Delhi, right?
+Dialogue: 0,1:13:33.31,1:13:35.31,Default,,0,0,0,,- Ayyagaru Bhavan.\N- It's Ayakar Bhavan, Brother.
+Dialogue: 0,1:13:35.48,1:13:36.81,Default,,0,0,0,,Whatever it is.
+Dialogue: 0,1:13:38.23,1:13:39.69,Default,,0,0,0,,Call them…
+Dialogue: 0,1:13:40.27,1:13:44.90,Default,,0,0,0,,and tell them that you have come to\Nthe wrong address, and made a mistake.
+Dialogue: 0,1:13:45.18,1:13:50.43,Default,,0,0,0,,You'll apologize by falling\Nat Muthyam Jaghayya's feet and then leave.
+Dialogue: 0,1:13:51.27,1:13:52.44,Default,,0,0,0,,Call them at once!
+Dialogue: 0,1:14:02.06,1:14:03.23,Default,,0,0,0,,- Hello.\N- Good afternoon, sir.
+Dialogue: 0,1:14:03.85,1:14:05.30,Default,,0,0,0,,- Bachchan speaking, sir.\N- Yes?
+Dialogue: 0,1:14:05.60,1:14:06.68,Default,,0,0,0,,We discovered a large amount
+Dialogue: 0,1:14:06.77,1:14:09.65,Default,,0,0,0,,of cash and gold\Nat Mr. Muthyam Jaghayya's house, sir.
+Dialogue: 0,1:14:09.81,1:14:10.69,Default,,0,0,0,,Hey!
+Dialogue: 0,1:14:10.77,1:14:12.77,Default,,0,0,0,,We'll need more time\Nto recover everything.
+Dialogue: 0,1:14:12.89,1:14:13.93,Default,,0,0,0,,Hey, what are you saying?
+Dialogue: 0,1:14:14.06,1:14:16.81,Default,,0,0,0,,- Is everything okay?\N- Everything is under control, sir.
+Dialogue: 0,1:14:17.02,1:14:19.27,Default,,0,0,0,,- Is Mr. Jaghayya giving you trouble?\N- Not really, sir.
+Dialogue: 0,1:14:19.52,1:14:21.98,Default,,0,0,0,,He and his family are cooperating well.
+Dialogue: 0,1:14:22.10,1:14:24.30,Default,,0,0,0,,We are expecting big numbers.\NContinue the search.
+Dialogue: 0,1:14:24.48,1:14:25.94,Default,,0,0,0,,- Thank you, sir.\N- Take your own time.
+Dialogue: 0,1:14:26.10,1:14:27.05,Default,,0,0,0,,Sure, sir.
+Dialogue: 0,1:14:29.02,1:14:30.86,Default,,0,0,0,,What is this new drama?
+Dialogue: 0,1:14:31.31,1:14:33.27,Default,,0,0,0,,Have you given up on your life?
+Dialogue: 0,1:14:33.64,1:14:37.18,Default,,0,0,0,,Mr. Jaghayya, do you know\Nwhy a tongue slips often?
+Dialogue: 0,1:14:37.39,1:14:39.22,Default,,0,0,0,,Because the tongue is wet.
+Dialogue: 0,1:14:39.43,1:14:44.14,Default,,0,0,0,,If you were truly honest,\Nyou would never tell us to leave.
+Dialogue: 0,1:14:44.60,1:14:47.60,Default,,0,0,0,,You should say,\N"Come in if you have the courage."
+Dialogue: 0,1:14:47.98,1:14:50.98,Default,,0,0,0,,Similarly, you wouldn’t say,\N"You won’t find anything."
+Dialogue: 0,1:14:51.18,1:14:54.05,Default,,0,0,0,,You should say,\N"There is nothing in this house."
+Dialogue: 0,1:14:55.52,1:14:59.02,Default,,0,0,0,,You can hide the treasures,\Nbut you can’t hide your words.
+Dialogue: 0,1:15:01.02,1:15:03.27,Default,,0,0,0,,This guy wants to mess with us.
+Dialogue: 0,1:15:03.77,1:15:07.61,Default,,0,0,0,,Show him what happens when\Nwe start messing around, just once.
+Dialogue: 0,1:15:08.06,1:15:10.77,Default,,0,0,0,,Throw him out!
+Dialogue: 0,1:15:11.81,1:15:13.23,Default,,0,0,0,,Hey!
+Dialogue: 0,1:16:27.56,1:16:32.90,Default,,0,0,0,,Sambashiva, take care of this guy.\NWe'll handle the consequences!
+Dialogue: 0,1:17:25.93,1:17:29.93,Default,,0,0,0,,Sambashiva, as your brother mentioned,\Nfate has a great sense of humor.
+Dialogue: 0,1:17:30.23,1:17:33.90,Default,,0,0,0,,You can't escape me,\Nno matter what you do.
+Dialogue: 0,1:17:34.64,1:17:37.39,Default,,0,0,0,,I'll break every bone in the\Nbody and extract everything.
+Dialogue: 0,1:17:37.73,1:17:40.15,Default,,0,0,0,,The one who protects\Nthe borders is not the only soldier.
+Dialogue: 0,1:17:40.27,1:17:42.52,Default,,0,0,0,,The one who safeguards\Nwealth is also a soldier.
+Dialogue: 0,1:17:42.81,1:17:48.81,Default,,0,0,0,,I'll show that the Income Tax Department\Nis as formidable as the Indian Army.
+Dialogue: 0,1:17:52.23,1:17:55.36,Default,,0,0,0,,Everyone in the house can breathe\Nfreely for the next five minutes.
+Dialogue: 0,1:17:55.60,1:17:59.89,Default,,0,0,0,,After that, every breath\Nyou take will be accounted for.
+Dialogue: 0,1:18:00.98,1:18:03.61,Default,,0,0,0,,It seems the clothes have become tight.\NYou may want to loosen your buttons.
+Dialogue: 0,1:18:04.18,1:18:05.47,Default,,0,0,0,,You'll be able to breathe.
+Dialogue: 0,1:18:05.89,1:18:07.55,Default,,0,0,0,,- Officers…\N- Yes, sir.
+Dialogue: 0,1:18:07.73,1:18:12.90,Default,,0,0,0,,We will leave after we break\Nhis track record and seal his history.
+Dialogue: 0,1:18:13.18,1:18:15.14,Default,,0,0,0,,The true raid is going to start now.
+Dialogue: 0,1:18:15.35,1:18:17.35,Default,,0,0,0,,And it's going to be a historic one.
+Dialogue: 0,1:18:17.48,1:18:18.90,Default,,0,0,0,,- Officers…\N- Sir.
+Dialogue: 0,1:18:19.02,1:18:21.44,Default,,0,0,0,,Get ready to create history.
+Dialogue: 0,1:18:51.02,1:18:52.86,Default,,0,0,0,,Please tell me, Mr. Jaghayya.\NWhy did you call me?
+Dialogue: 0,1:18:53.81,1:18:55.81,Default,,0,0,0,,I will pay you half a million.\NStop the raid and leave.
+Dialogue: 0,1:18:56.14,1:18:57.80,Default,,0,0,0,,I won't stop even if you\Npay fifty million rupees.
+Dialogue: 0,1:18:58.27,1:18:59.48,Default,,0,0,0,,You madman!
+Dialogue: 0,1:19:00.02,1:19:02.15,Default,,0,0,0,,Do you know how many zeros\Nthere are in half a million?
+Dialogue: 0,1:19:02.48,1:19:04.73,Default,,0,0,0,,You can't buy me\Nby increasing the zeros in the bribe.
+Dialogue: 0,1:19:05.10,1:19:08.39,Default,,0,0,0,,You need to bribe to get\Nyour pension after retirement.
+Dialogue: 0,1:19:09.10,1:19:10.60,Default,,0,0,0,,Happiness is only in zeros.
+Dialogue: 0,1:19:11.31,1:19:13.31,Default,,0,0,0,,Your honesty won't earn you anything.
+Dialogue: 0,1:19:13.43,1:19:15.72,Default,,0,0,0,,No matter the zeros in your bank account.
+Dialogue: 0,1:19:15.85,1:19:17.51,Default,,0,0,0,,You can only eat off a golden plate,
+Dialogue: 0,1:19:17.85,1:19:19.64,Default,,0,0,0,,not the golden plate itself.
+Dialogue: 0,1:19:21.27,1:19:23.44,Default,,0,0,0,,A selfish person may enjoy a good meal,
+Dialogue: 0,1:19:23.81,1:19:25.86,Default,,0,0,0,,but an honest one will\Nenjoy a good night's sleep.
+Dialogue: 0,1:19:26.56,1:19:29.23,Default,,0,0,0,,Do you know what will\Nhappen if I break free?
+Dialogue: 0,1:19:30.10,1:19:32.60,Default,,0,0,0,,Break free, Mr. Jaghayya.\NI want to see it happen once.
+Dialogue: 0,1:19:32.89,1:19:34.01,Default,,0,0,0,,Please.
+Dialogue: 0,1:19:36.73,1:19:39.77,Default,,0,0,0,,Listen, officers. Your boss\Nisn't agreeing to the truce.
+Dialogue: 0,1:19:40.23,1:19:41.90,Default,,0,0,0,,So I'm talking to the soldiers now.
+Dialogue: 0,1:19:42.81,1:19:45.81,Default,,0,0,0,,You can keep\Nwhatever gold you find inside.
+Dialogue: 0,1:19:47.35,1:19:49.43,Default,,0,0,0,,End the raid and go home.
+Dialogue: 0,1:19:50.31,1:19:52.31,Default,,0,0,0,,Go on and live your life.
+Dialogue: 0,1:19:54.64,1:19:57.35,Default,,0,0,0,,- What do we do now?\N- What now?
+Dialogue: 0,1:19:57.52,1:20:00.19,Default,,0,0,0,,No, everyone is hesitating.\NHowever, my vote is for Mr. Jaghayya.
+Dialogue: 0,1:20:01.10,1:20:01.97,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,1:20:02.10,1:20:05.64,Default,,0,0,0,,My father needs heart surgery\Nthat costs 100,000 rupees.
+Dialogue: 0,1:20:05.81,1:20:07.40,Default,,0,0,0,,My salary is only 3,500.
+Dialogue: 0,1:20:07.48,1:20:11.23,Default,,0,0,0,,I'm afraid his heart might give out\Nbefore I can earn enough, sir.
+Dialogue: 0,1:20:11.56,1:20:12.90,Default,,0,0,0,,I need to arrange my sister's marriage.
+Dialogue: 0,1:20:13.02,1:20:14.31,Default,,0,0,0,,They are asking for a dowry of 200,000.
+Dialogue: 0,1:20:14.39,1:20:17.30,Default,,0,0,0,,If dowry isn't a crime,\Nhow can bribery be a crime, sir?
+Dialogue: 0,1:20:17.89,1:20:19.47,Default,,0,0,0,,This is my first raid,\Nand already they're offering a bribe.
+Dialogue: 0,1:20:19.60,1:20:20.47,Default,,0,0,0,,This is my first raid as well,
+Dialogue: 0,1:20:20.56,1:20:21.69,Default,,0,0,0,,and life will be sorted\Nafter just one raid.
+Dialogue: 0,1:20:23.14,1:20:24.68,Default,,0,0,0,,Such opportunities won't come again.
+Dialogue: 0,1:20:24.81,1:20:26.06,Default,,0,0,0,,I'm fine with it as well.
+Dialogue: 0,1:20:27.77,1:20:29.52,Default,,0,0,0,,This could be my last raid.
+Dialogue: 0,1:20:29.73,1:20:31.23,Default,,0,0,0,,I'm retiring next month.
+Dialogue: 0,1:20:31.39,1:20:34.22,Default,,0,0,0,,I have never taken a bribe\Nand won't take one now.
+Dialogue: 0,1:20:35.31,1:20:36.94,Default,,0,0,0,,Thank God, one less\Nperson to share the loot.
+Dialogue: 0,1:20:37.06,1:20:38.06,Default,,0,0,0,,What about you?
+Dialogue: 0,1:20:38.14,1:20:40.22,Default,,0,0,0,,I don’t want to break my back over this.\NI'm okay with this.
+Dialogue: 0,1:20:40.31,1:20:41.19,Default,,0,0,0,,Okay.
+Dialogue: 0,1:20:41.27,1:20:43.73,Default,,0,0,0,,Why should you get rich alone?\NI feel the same.
+Dialogue: 0,1:20:43.81,1:20:44.73,Default,,0,0,0,,Double okay.
+Dialogue: 0,1:20:46.18,1:20:48.10,Default,,0,0,0,,I feel the same way as well.
+Dialogue: 0,1:20:49.89,1:20:51.68,Default,,0,0,0,,Everyone has needs.
+Dialogue: 0,1:20:52.68,1:20:54.43,Default,,0,0,0,,But only a few get opportunities.
+Dialogue: 0,1:20:55.48,1:20:57.90,Default,,0,0,0,,One raid won't change the country.
+Dialogue: 0,1:20:58.10,1:21:00.72,Default,,0,0,0,,But it can change our lives.
+Dialogue: 0,1:21:01.93,1:21:04.18,Default,,0,0,0,,That's why we should prosper,\Neven if we're in the wrong.
+Dialogue: 0,1:21:04.56,1:21:07.52,Default,,0,0,0,,Once we decide to become robbers,\Nwe shouldn't settle for small change,
+Dialogue: 0,1:21:07.60,1:21:08.89,Default,,0,0,0,,we should aim for the treasure chest.
+Dialogue: 0,1:21:08.98,1:21:10.27,Default,,0,0,0,,We are prepared,\Neven if it's two billion.
+Dialogue: 0,1:21:10.39,1:21:13.60,Default,,0,0,0,,If the ED offers the same,\Nand if they seize everything?
+Dialogue: 0,1:21:14.18,1:21:16.76,Default,,0,0,0,,I didn't expect this twist.\NMy goodness! Mr. Bachchan.
+Dialogue: 0,1:21:17.39,1:21:20.26,Default,,0,0,0,,Let's seize a substantial\Namount and then make our offer.
+Dialogue: 0,1:21:20.35,1:21:21.80,Default,,0,0,0,,- What do you guys say?\N- Yes, sir.
+Dialogue: 0,1:21:21.89,1:21:24.14,Default,,0,0,0,,- Don't leave a single corner untouched.\N- Okay, sir.
+Dialogue: 0,1:21:24.23,1:21:25.61,Default,,0,0,0,,Whatever one digs up belongs to them.
+Dialogue: 0,1:21:25.73,1:21:27.90,Default,,0,0,0,,- Whatever one obtains is theirs.\N- Yes, sir.
+Dialogue: 0,1:21:28.02,1:21:30.40,Default,,0,0,0,,Break down the walls.\NBreak open the lockers.
+Dialogue: 0,1:21:30.68,1:21:32.22,Default,,0,0,0,,If anyone interferes, break their bones.
+Dialogue: 0,1:21:32.31,1:21:33.27,Default,,0,0,0,,Yes, sir!
+Dialogue: 0,1:21:37.39,1:21:38.97,Default,,0,0,0,,I spoke to all the officers.
+Dialogue: 0,1:21:39.10,1:21:40.97,Default,,0,0,0,,Don't worry. Don't be afraid.
+Dialogue: 0,1:21:41.06,1:21:42.98,Default,,0,0,0,,You cannot buy us\Nwith money, Mr. Jaghayya.
+Dialogue: 0,1:21:46.39,1:21:47.89,Default,,0,0,0,,The raid will continue as it was planned.
+Dialogue: 0,1:21:48.06,1:21:50.90,Default,,0,0,0,,What we wear isn't just pants\Nand shirts, but morality and honesty.
+Dialogue: 0,1:21:52.35,1:21:53.85,Default,,0,0,0,,What is this nonsense, Dad?
+Dialogue: 0,1:21:53.93,1:21:55.18,Default,,0,0,0,,What is happening, sir?
+Dialogue: 0,1:21:56.60,1:21:59.26,Default,,0,0,0,,- Officers, attack!\N- Sir! Yes, sir!
+Dialogue: 0,1:22:00.52,1:22:01.77,Default,,0,0,0,,Move away!
+Dialogue: 0,1:22:04.93,1:22:07.30,Default,,0,0,0,,Mr. Ram Murthy and Mr. Subba Rayudu…
+Dialogue: 0,1:22:09.43,1:22:12.39,Default,,0,0,0,,The village headmaster\Nand the postmaster…
+Dialogue: 0,1:22:12.89,1:22:14.26,Default,,0,0,0,,They will be our witnesses.
+Dialogue: 0,1:22:15.35,1:22:17.05,Default,,0,0,0,,Sir, we have nothing against you.
+Dialogue: 0,1:22:17.23,1:22:18.11,Default,,0,0,0,,You are like a God to us.
+Dialogue: 0,1:22:18.18,1:22:19.85,Default,,0,0,0,,- Please forgive us.\N- Greetings, brother.
+Dialogue: 0,1:22:24.85,1:22:25.80,Default,,0,0,0,,Get up.
+Dialogue: 0,1:23:01.06,1:23:03.44,Default,,0,0,0,,Grandma, how are you\Nrelated to Muthyam Jaghayya?
+Dialogue: 0,1:23:03.81,1:23:05.61,Default,,0,0,0,,Grandma, I'm talking to you.
+Dialogue: 0,1:23:18.23,1:23:20.27,Default,,0,0,0,,Hey, man. Who are you?
+Dialogue: 0,1:23:20.39,1:23:23.18,Default,,0,0,0,,- We are from the Income Tax Department.\N- Oh, really?
+Dialogue: 0,1:23:23.52,1:23:24.40,Default,,0,0,0,,I thought so.
+Dialogue: 0,1:23:24.60,1:23:28.89,Default,,0,0,0,,I knew something like this would\Nhappen to our Jaghayya one day.
+Dialogue: 0,1:23:36.93,1:23:38.01,Default,,0,0,0,,Ruined, right?
+Dialogue: 0,1:23:38.23,1:23:39.81,Default,,0,0,0,,You've destroyed everything.
+Dialogue: 0,1:23:40.10,1:23:41.85,Default,,0,0,0,,Why did you come into\Nmy room in the first place?
+Dialogue: 0,1:23:43.02,1:23:44.98,Default,,0,0,0,,I was happily listening to songs…
+Dialogue: 0,1:23:46.23,1:23:49.69,Default,,0,0,0,,and reminiscing about my Sekhar.
+Dialogue: 0,1:23:50.27,1:23:51.77,Default,,0,0,0,,And now this has been ruined.
+Dialogue: 0,1:23:51.98,1:23:54.65,Default,,0,0,0,,And that wall has grown taller.
+Dialogue: 0,1:23:54.81,1:23:56.81,Default,,0,0,0,,- Is Sekhar your husband?\N- No.
+Dialogue: 0,1:23:57.56,1:23:58.61,Default,,0,0,0,,My boyfriend.
+Dialogue: 0,1:23:58.85,1:24:01.14,Default,,0,0,0,,He used to look like Nageshwara Rao.
+Dialogue: 0,1:24:01.56,1:24:02.44,Default,,0,0,0,,In those days--
+Dialogue: 0,1:24:02.56,1:24:04.02,Default,,0,0,0,,You mentioned that\Nthe wall has gotten taller.
+Dialogue: 0,1:24:04.10,1:24:04.97,Default,,0,0,0,,Which wall is that?
+Dialogue: 0,1:24:05.06,1:24:07.56,Default,,0,0,0,,You ruined my songs, and now\Nyou're asking me questions? I won't say!
+Dialogue: 0,1:24:07.81,1:24:09.31,Default,,0,0,0,,Grandma, please tell me.
+Dialogue: 0,1:24:09.52,1:24:11.44,Default,,0,0,0,,I will tell you only\Nif I listen to my song.
+Dialogue: 0,1:24:11.60,1:24:13.55,Default,,0,0,0,,- No, please understand.\N- What do you mean?
+Dialogue: 0,1:24:13.93,1:24:15.93,Default,,0,0,0,,I haven't had any experiences with him.
+Dialogue: 0,1:24:16.06,1:24:18.36,Default,,0,0,0,,Won't you allow me\Nto live in his memories?
+Dialogue: 0,1:24:18.60,1:24:21.97,Default,,0,0,0,,I must listen to that song now.
+Dialogue: 0,1:24:43.23,1:24:44.77,Default,,0,0,0,,That's a good one.
+Dialogue: 0,1:24:44.93,1:24:46.35,Default,,0,0,0,,You did it exactly like Akkineni.
+Dialogue: 0,1:24:46.52,1:24:48.15,Default,,0,0,0,,Can you dance like him as well?
+Dialogue: 0,1:24:48.73,1:24:51.81,Default,,0,0,0,,- Dance?\N- Don't you want to see the wall?
+Dialogue: 0,1:24:51.89,1:24:52.76,Default,,0,0,0,,I do.
+Dialogue: 0,1:24:52.85,1:24:55.10,Default,,0,0,0,,And I want to see Akkineni's dance moves.
+Dialogue: 0,1:24:55.18,1:24:56.55,Default,,0,0,0,,Come on, dance!
+Dialogue: 0,1:25:30.89,1:25:33.26,Default,,0,0,0,,- You want to see the wall, right?\N- Yes.
+Dialogue: 0,1:25:33.39,1:25:34.60,Default,,0,0,0,,- Come with me.\N- Please.
+Dialogue: 0,1:25:40.98,1:25:43.81,Default,,0,0,0,,The wall that covered\Nmy mansion of dreams.
+Dialogue: 0,1:25:45.64,1:25:46.76,Default,,0,0,0,,Should we destroy it?
+Dialogue: 0,1:25:49.10,1:25:50.47,Default,,0,0,0,,- Naresh…\N- Sir!
+Dialogue: 0,1:26:05.18,1:26:07.18,Default,,0,0,0,,Brother, they should\Nstop the raid after 6:00 p.m.
+Dialogue: 0,1:26:08.89,1:26:10.14,Default,,0,0,0,,- Little brother…\N- Yes?
+Dialogue: 0,1:26:13.18,1:26:14.39,Default,,0,0,0,,You can't continue\Nthe raid after 6:00 p.m.
+Dialogue: 0,1:26:14.77,1:26:15.69,Default,,0,0,0,,Those were your rules.
+Dialogue: 0,1:26:17.06,1:26:21.23,Default,,0,0,0,,After 6:00 p.m. means dusk.
+Dialogue: 0,1:26:22.35,1:26:24.47,Default,,0,0,0,,It's the time when demons come out.
+Dialogue: 0,1:26:25.27,1:26:28.02,Default,,0,0,0,,And here, monsters roam freely.
+Dialogue: 0,1:26:28.31,1:26:31.77,Default,,0,0,0,,And I'm that monster!
+Dialogue: 0,1:26:33.06,1:26:35.52,Default,,0,0,0,,Hiranyakasupundaa!
+Dialogue: 0,1:26:37.14,1:26:39.80,Default,,0,0,0,,- Action!\N- Son, Prahlada…
+Dialogue: 0,1:26:40.23,1:26:41.81,Default,,0,0,0,,Where is your Hari?
+Dialogue: 0,1:26:42.27,1:26:44.56,Default,,0,0,0,,Hey, Guruji, I'm asking you,\Nwhere is he?
+Dialogue: 0,1:26:46.10,1:26:49.51,Default,,0,0,0,,- Hey, Guruji, is your Hari in this?\N- Yes.
+Dialogue: 0,1:26:49.77,1:26:51.06,Default,,0,0,0,,- Is he there in that pillar?\N- Yes.
+Dialogue: 0,1:26:51.14,1:26:53.68,Default,,0,0,0,,- Then, show me.\N- Don't wait. Kill him!
+Dialogue: 0,1:26:54.56,1:26:55.65,Default,,0,0,0,,Hari!
+Dialogue: 0,1:26:57.43,1:26:59.93,Default,,0,0,0,,- Is Hari in this as well?\N- Yes.
+Dialogue: 0,1:27:00.43,1:27:02.10,Default,,0,0,0,,Come out, man.
+Dialogue: 0,1:27:03.02,1:27:04.73,Default,,0,0,0,,Why isn't he present here?
+Dialogue: 0,1:27:05.18,1:27:06.18,Default,,0,0,0,,Where is your Hari?
+Dialogue: 0,1:27:06.48,1:27:07.90,Default,,0,0,0,,Where does he exist?
+Dialogue: 0,1:27:08.06,1:27:09.44,Default,,0,0,0,,He may be in this, my lord.
+Dialogue: 0,1:27:09.89,1:27:11.35,Default,,0,0,0,,- Are you sure?\N- Hundred percent.
+Dialogue: 0,1:27:11.93,1:27:15.30,Default,,0,0,0,,Hey, Hari. Come out.
+Dialogue: 0,1:27:17.81,1:27:18.86,Default,,0,0,0,,So much money?
+Dialogue: 0,1:27:26.35,1:27:30.43,Default,,0,0,0,,Hey, Srimannarayana.\NYou are truly miraculous.
+Dialogue: 0,1:27:34.85,1:27:37.26,Default,,0,0,0,,- Please include this in the account.\N- Okay, sir.
+Dialogue: 0,1:27:38.98,1:27:41.36,Default,,0,0,0,,All that's here is waste paper.\NWhere is your Sri Hari?
+Dialogue: 0,1:27:41.43,1:27:43.30,Default,,0,0,0,,He might be in that, my Lord.
+Dialogue: 0,1:27:43.43,1:27:45.22,Default,,0,0,0,,- Where?\N- In the corner, near that wall.
+Dialogue: 0,1:27:45.48,1:27:46.94,Default,,0,0,0,,- Then, let's go.\N- Please, come.
+Dialogue: 0,1:27:47.02,1:27:49.69,Default,,0,0,0,,I will not spare Sri Hari today.
+Dialogue: 0,1:27:54.73,1:27:56.86,Default,,0,0,0,,Why did you bring me here?
+Dialogue: 0,1:27:57.18,1:28:00.43,Default,,0,0,0,,- Is your Sri Hari present in this?\N- Confirmed, my Lord. He is in this.
+Dialogue: 0,1:28:00.56,1:28:01.73,Default,,0,0,0,,Really?
+Dialogue: 0,1:28:08.89,1:28:10.30,Default,,0,0,0,,Do it again.
+Dialogue: 0,1:28:12.10,1:28:13.64,Default,,0,0,0,,Come out, man!
+Dialogue: 0,1:28:14.43,1:28:16.60,Default,,0,0,0,,You have such strength, my Lord.\NOnce more.
+Dialogue: 0,1:28:16.93,1:28:19.05,Default,,0,0,0,,Hey, Hari, what are you doing inside?
+Dialogue: 0,1:28:23.85,1:28:25.51,Default,,0,0,0,,Why is the "Goddess of Wealth" appearing\Nwhen I call for Hari?
+Dialogue: 0,1:28:28.93,1:28:30.18,Default,,0,0,0,,Thanks, my Lord.
+Dialogue: 0,1:28:32.10,1:28:34.30,Default,,0,0,0,,Take everything out\Nand add it to the account.
+Dialogue: 0,1:28:34.48,1:28:35.44,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,1:28:44.73,1:28:45.86,Default,,0,0,0,,Open your mouth.
+Dialogue: 0,1:29:00.73,1:29:03.98,Default,,0,0,0,,These big officers, who used to fear us,
+Dialogue: 0,1:29:04.06,1:29:05.48,Default,,0,0,0,,have entered our house.
+Dialogue: 0,1:29:05.68,1:29:08.26,Default,,0,0,0,,If they're left alone,\Nthey might enter our bedrooms next.
+Dialogue: 0,1:29:08.43,1:29:10.30,Default,,0,0,0,,Hey, why are you bothered?\NJust eat and be quiet.
+Dialogue: 0,1:29:11.23,1:29:13.40,Default,,0,0,0,,Father, how will you produce a film
+Dialogue: 0,1:29:13.48,1:29:14.94,Default,,0,0,0,,with me as the hero\Nif they take all your money?
+Dialogue: 0,1:29:15.14,1:29:18.14,Default,,0,0,0,,Of course, the sky is the limit for\Nour movie, and the budget is unlimited.
+Dialogue: 0,1:29:18.23,1:29:19.81,Default,,0,0,0,,- Well said…\N- Have your food.
+Dialogue: 0,1:29:19.89,1:29:20.76,Default,,0,0,0,,Okay.
+Dialogue: 0,1:29:21.35,1:29:24.01,Default,,0,0,0,,Why did you tell the\Nofficer about the wall, Mom?
+Dialogue: 0,1:29:24.14,1:29:26.97,Default,,0,0,0,,Why did you build that\Nwall so tall, my son?
+Dialogue: 0,1:29:27.06,1:29:29.06,Default,,0,0,0,,You oldie, shut up and eat!
+Dialogue: 0,1:29:29.23,1:29:30.40,Default,,0,0,0,,We should deal with this Guruji first.
+Dialogue: 0,1:29:30.56,1:29:31.94,Default,,0,0,0,,He and his nonsensical guidance.
+Dialogue: 0,1:29:32.02,1:29:34.86,Default,,0,0,0,,Brother, you can say anything to me.
+Dialogue: 0,1:29:34.98,1:29:39.40,Default,,0,0,0,,But I won't tolerate it if you say\Neven a word against my Guruji.
+Dialogue: 0,1:29:39.60,1:29:42.30,Default,,0,0,0,,Look at him, he hasn't even taken off\Nthe crown after all that happened.
+Dialogue: 0,1:29:44.93,1:29:50.05,Default,,0,0,0,,Apparently, Rama Rao Garu used to remove\Nthe crown only at the end of the day.
+Dialogue: 0,1:29:50.56,1:29:52.73,Default,,0,0,0,,I'm the same.\NI'll remove it before sleeping.
+Dialogue: 0,1:29:53.10,1:29:54.14,Default,,0,0,0,,Guruji…
+Dialogue: 0,1:29:54.43,1:29:56.72,Default,,0,0,0,,Rama Rao Garu might accept\Nif you remove the crown, but I won't.
+Dialogue: 0,1:29:57.31,1:29:59.40,Default,,0,0,0,,How can you blame us\Nwhen you have all the money?
+Dialogue: 0,1:29:59.56,1:30:02.02,Default,,0,0,0,,If you don't like it, you can play\Nthe role of a beggar or a dumb man.
+Dialogue: 0,1:30:02.27,1:30:03.90,Default,,0,0,0,,Don't act funny during my training.
+Dialogue: 0,1:30:03.98,1:30:04.94,Default,,0,0,0,,- Hey, Guruji…\N- What?
+Dialogue: 0,1:30:05.02,1:30:06.94,Default,,0,0,0,,- If you utter another word--\N- Hey!
+Dialogue: 0,1:30:08.31,1:30:09.52,Default,,0,0,0,,Stop now!
+Dialogue: 0,1:30:12.52,1:30:14.11,Default,,0,0,0,,I want {\i1}jalebi.{\i0}
+Dialogue: 0,1:30:14.31,1:30:16.31,Default,,0,0,0,,No, Mom. It has sugar.
+Dialogue: 0,1:30:16.43,1:30:19.68,Default,,0,0,0,,If you don't give me {\i1}jalebi {\i0}now,\NI will have a meeting with him tomorrow.
+Dialogue: 0,1:30:19.89,1:30:21.10,Default,,0,0,0,,Mom!
+Dialogue: 0,1:30:21.27,1:30:22.69,Default,,0,0,0,,What a funny family!
+Dialogue: 0,1:30:23.39,1:30:25.72,Default,,0,0,0,,How can she eat after all this?
+Dialogue: 0,1:30:25.89,1:30:28.22,Default,,0,0,0,,Because nothing is going to happen\Nfrom here on out!
+Dialogue: 0,1:30:30.85,1:30:36.01,Default,,0,0,0,,Also, no one should step out\Nof their rooms tonight, no matter what.
+Dialogue: 0,1:30:38.10,1:30:41.35,Default,,0,0,0,,Close the doors tightly and sleep well.
+Dialogue: 0,1:30:44.48,1:30:47.19,Default,,0,0,0,,You eat, Mom.\NJust a little bit, okay?
+Dialogue: 0,1:31:15.98,1:31:18.81,Default,,0,0,0,,Raja… Maharaja!
+Dialogue: 0,1:31:19.39,1:31:21.01,Default,,0,0,0,,Wake up, Raja.
+Dialogue: 0,1:31:21.56,1:31:26.06,Default,,0,0,0,,You are sleeping peacefully\Nafter keeping us sleepless.
+Dialogue: 0,1:31:26.27,1:31:27.44,Default,,0,0,0,,Very true.
+Dialogue: 0,1:31:27.68,1:31:30.01,Default,,0,0,0,,You sleep so well after\Ntaking away all our money.
+Dialogue: 0,1:31:30.18,1:31:34.05,Default,,0,0,0,,The seized money.\NTell us where you hid our money.
+Dialogue: 0,1:31:34.27,1:31:35.86,Default,,0,0,0,,Why are you talking to him, Brother?
+Dialogue: 0,1:31:35.98,1:31:38.11,Default,,0,0,0,,Let's complain to the\Ndepartment and get him arrested.
+Dialogue: 0,1:31:38.98,1:31:40.65,Default,,0,0,0,,Hey, the door is unlocked.
+Dialogue: 0,1:31:41.73,1:31:43.65,Default,,0,0,0,,- Oh, no! Where's the money?\N- Where is it?
+Dialogue: 0,1:31:43.73,1:31:45.11,Default,,0,0,0,,Did Jaghayya steal it?
+Dialogue: 0,1:31:45.56,1:31:49.06,Default,,0,0,0,,Sir, there's nothing left\Nin the place we stored it.
+Dialogue: 0,1:31:49.18,1:31:50.97,Default,,0,0,0,,This is unjust, sir.
+Dialogue: 0,1:31:51.60,1:31:52.51,Default,,0,0,0,,Why are you not talking?
+Dialogue: 0,1:31:52.85,1:31:54.72,Default,,0,0,0,,What can he say after\Nhiding away all that money?
+Dialogue: 0,1:31:54.85,1:31:56.39,Default,,0,0,0,,He made so many exaggerated claims.
+Dialogue: 0,1:31:56.48,1:31:59.44,Default,,0,0,0,,What else? Work is worship.\NA true form of honesty.
+Dialogue: 0,1:31:59.52,1:32:00.65,Default,,0,0,0,,- And this is his real form.\N- Yeah.
+Dialogue: 0,1:32:00.77,1:32:04.02,Default,,0,0,0,,I've been saying this from the beginning.
+Dialogue: 0,1:32:04.27,1:32:07.52,Default,,0,0,0,,But you all came here in the name of\Na raid. Look at what's happened now.
+Dialogue: 0,1:32:07.64,1:32:08.89,Default,,0,0,0,,Moreover, he kept saying,
+Dialogue: 0,1:32:08.98,1:32:11.06,Default,,0,0,0,,"You must have heard my name"\Nonce every ten minutes.
+Dialogue: 0,1:32:11.18,1:32:13.22,Default,,0,0,0,,Now, he'll get a bad reputation.
+Dialogue: 0,1:32:13.35,1:32:15.89,Default,,0,0,0,,Oh, God! Did you take\Naway my share as well?
+Dialogue: 0,1:32:16.02,1:32:18.44,Default,,0,0,0,,What about all my dreams?\NAll the hopes that I had?
+Dialogue: 0,1:32:18.68,1:32:21.60,Default,,0,0,0,,- I thought all those gold coins were mine.\N- How could you think they were all yours?
+Dialogue: 0,1:32:21.73,1:32:23.19,Default,,0,0,0,,I believed those gold coins were mine.
+Dialogue: 0,1:32:23.48,1:32:26.48,Default,,0,0,0,,I had so many dreams. Now the coins\Nare gone and only the dreams remain.
+Dialogue: 0,1:32:26.64,1:32:31.35,Default,,0,0,0,,You didn't listen when he\Noffered a share in the gold coins…
+Dialogue: 0,1:32:31.64,1:32:33.93,Default,,0,0,0,,Instead, you fell into his trap. Look now!
+Dialogue: 0,1:32:34.27,1:32:36.19,Default,,0,0,0,,- Well said.\N- Thank you, sir.
+Dialogue: 0,1:32:36.35,1:32:40.26,Default,,0,0,0,,Speaking about magic,\Ndo you know any magic?
+Dialogue: 0,1:32:40.64,1:32:42.76,Default,,0,0,0,,You made all the money\Ndisappear overnight.
+Dialogue: 0,1:32:42.98,1:32:45.40,Default,,0,0,0,,Looks like you're a magician.
+Dialogue: 0,1:32:47.39,1:32:49.55,Default,,0,0,0,,Speak up.\NThey are asking, right? Speak.
+Dialogue: 0,1:32:52.98,1:32:55.36,Default,,0,0,0,,Hey, where are you going\Nwithout giving an answer?
+Dialogue: 0,1:32:56.64,1:32:58.26,Default,,0,0,0,,Will he get imprisoned for life\Nbecause of this?
+Dialogue: 0,1:32:58.35,1:33:00.93,Default,,0,0,0,,He could receive a death sentence for\Nthe robbery committed here.
+Dialogue: 0,1:33:01.10,1:33:02.05,Default,,0,0,0,,Come.
+Dialogue: 0,1:33:02.60,1:33:04.39,Default,,0,0,0,,Where are you going without answering?
+Dialogue: 0,1:33:05.14,1:33:06.14,Default,,0,0,0,,Where are you going, man?
+Dialogue: 0,1:33:06.27,1:33:08.15,Default,,0,0,0,,We will file a case against\Nyou and put you on the streets.
+Dialogue: 0,1:33:08.31,1:33:10.56,Default,,0,0,0,,You will go to Tihar Jail\Ndirectly from there.
+Dialogue: 0,1:33:10.77,1:33:14.23,Default,,0,0,0,,We are asking you something.\NAnswer.
+Dialogue: 0,1:33:21.43,1:33:23.18,Default,,0,0,0,,As you all said,\NI will perform a magic trick.
+Dialogue: 0,1:33:23.43,1:33:25.85,Default,,0,0,0,,I'll demonstrate it right now.
+Dialogue: 0,1:33:26.73,1:33:28.52,Default,,0,0,0,,- It seems he will show something.\N- Magic?
+Dialogue: 0,1:33:32.52,1:33:34.86,Default,,0,0,0,,So, let's begin the magic show.
+Dialogue: 0,1:33:34.98,1:33:38.31,Default,,0,0,0,,One of the enthusiastic men\Nshould come ahead with a crowbar.
+Dialogue: 0,1:34:04.85,1:34:06.43,Default,,0,0,0,,This will have only two bullets.
+Dialogue: 0,1:34:07.14,1:34:08.80,Default,,0,0,0,,There are so many people here.
+Dialogue: 0,1:34:17.60,1:34:21.22,Default,,0,0,0,,The first bullet will hit only one\Nperson, but everyone will be afraid.
+Dialogue: 0,1:34:21.43,1:34:24.55,Default,,0,0,0,,The second bullet can hit anyone.
+Dialogue: 0,1:34:35.23,1:34:36.73,Default,,0,0,0,,What is this? Who are they?
+Dialogue: 0,1:34:37.18,1:34:40.51,Default,,0,0,0,,Hey, who are all of you?\NHow did they get here?
+Dialogue: 0,1:34:40.85,1:34:43.35,Default,,0,0,0,,Your reaction is not needed now.
+Dialogue: 0,1:34:44.18,1:34:45.05,Default,,0,0,0,,We need my action.
+Dialogue: 0,1:34:47.48,1:34:49.23,Default,,0,0,0,,Next item, from our department…
+Dialogue: 0,1:34:49.39,1:34:51.30,Default,,0,0,0,,Me, me, me.\NThat enthusiastic young man is me.
+Dialogue: 0,1:34:51.43,1:34:54.68,Default,,0,0,0,,Now go there, say the mantra\NI told you, and move your hand.
+Dialogue: 0,1:34:59.14,1:35:00.97,Default,,0,0,0,,Abracadabra magic.
+Dialogue: 0,1:35:01.31,1:35:03.02,Default,,0,0,0,,Abracadabra magic.
+Dialogue: 0,1:35:04.52,1:35:06.11,Default,,0,0,0,,Abracadabra magic.
+Dialogue: 0,1:35:10.68,1:35:13.10,Default,,0,0,0,,Sir, all of our money is here.
+Dialogue: 0,1:35:13.31,1:35:14.36,Default,,0,0,0,,The money, sir.
+Dialogue: 0,1:35:21.56,1:35:25.69,Default,,0,0,0,,I thought of thrashing them immediately.
+Dialogue: 0,1:35:26.77,1:35:31.81,Default,,0,0,0,,However, an audience should witness\Nand understand my capabilities, right?
+Dialogue: 0,1:35:33.35,1:35:36.68,Default,,0,0,0,,It's best to watch a cricket match live
+Dialogue: 0,1:35:36.89,1:35:39.43,Default,,0,0,0,,instead of reading about it\Nin the newspaper the next day.
+Dialogue: 0,1:35:40.31,1:35:43.15,Default,,0,0,0,,As I mentioned before,\NI'm making you an offer.
+Dialogue: 0,1:35:43.43,1:35:47.51,Default,,0,0,0,,Neither the officers who came with me\Nnor the police will oppose you.
+Dialogue: 0,1:35:48.02,1:35:50.02,Default,,0,0,0,,I alone will stand against you.
+Dialogue: 0,1:35:50.98,1:35:54.56,Default,,0,0,0,,If they dare, tell your men to\Ncross me and take your money away.
+Dialogue: 0,1:35:58.31,1:36:01.36,Default,,0,0,0,,If they dare touch even a penny…
+Dialogue: 0,1:36:02.43,1:36:04.14,Default,,0,0,0,,I swear, I'll abandon everything.
+Dialogue: 0,1:36:04.39,1:36:06.30,Default,,0,0,0,,- What is he saying?\N- Oh, my…
+Dialogue: 0,1:36:06.56,1:36:08.86,Default,,0,0,0,,I won't fight your men in the shadows.
+Dialogue: 0,1:36:09.14,1:36:10.85,Default,,0,0,0,,I'll take them down right\Nin the heart of your home.
+Dialogue: 0,1:36:11.39,1:36:12.35,Default,,0,0,0,,Send them.
+Dialogue: 0,1:36:13.48,1:36:14.56,Default,,0,0,0,,Sir…
+Dialogue: 0,1:37:00.31,1:37:01.48,Default,,0,0,0,,Clarity!
+Dialogue: 0,1:37:01.81,1:37:03.90,Default,,0,0,0,,I hope you are getting clarity about me.
+Dialogue: 0,1:37:04.18,1:37:06.64,Default,,0,0,0,,Have you got it?\NI hope you are getting it.
+Dialogue: 0,1:37:07.77,1:37:10.11,Default,,0,0,0,,Cricket match… live!
+Dialogue: 0,1:39:03.89,1:39:05.85,Default,,0,0,0,,As you said, I'm a magician.
+Dialogue: 0,1:39:05.98,1:39:08.90,Default,,0,0,0,,But not a magician who\Nplays tricks or just talks.
+Dialogue: 0,1:39:09.10,1:39:10.89,Default,,0,0,0,,I'm a real magician.
+Dialogue: 0,1:39:19.02,1:39:21.90,Default,,0,0,0,,My character is not to\Ndo my duty for the shares.
+Dialogue: 0,1:39:22.43,1:39:25.35,Default,,0,0,0,,I can't sacrifice\Nmy life on the field.
+Dialogue: 0,1:39:25.56,1:39:27.94,Default,,0,0,0,,But I won't leave a single rupee behind.
+Dialogue: 0,1:39:28.23,1:39:29.73,Default,,0,0,0,,If you want to work with me,
+Dialogue: 0,1:39:30.02,1:39:31.11,Default,,0,0,0,,you must be like me.
+Dialogue: 0,1:39:39.02,1:39:41.15,Default,,0,0,0,,What, dear?\NYou asked me to come so urgently.
+Dialogue: 0,1:39:41.23,1:39:43.65,Default,,0,0,0,,I left {\i1}Chitralahari{\i0} on the TV\Nfor this and came.
+Dialogue: 0,1:39:44.68,1:39:45.68,Default,,0,0,0,,Light it.
+Dialogue: 0,1:39:46.68,1:39:49.47,Default,,0,0,0,,Me, smoking? Are you mad?
+Dialogue: 0,1:39:49.60,1:39:52.22,Default,,0,0,0,,Have it once for me, please.
+Dialogue: 0,1:39:52.43,1:39:55.14,Default,,0,0,0,,- I will be caught by its smell.\N- You won't be caught.
+Dialogue: 0,1:39:55.31,1:39:57.52,Default,,0,0,0,,Chew a few guava leaves while going home.
+Dialogue: 0,1:39:57.68,1:39:58.55,Default,,0,0,0,,Light it.
+Dialogue: 0,1:40:00.85,1:40:02.05,Default,,0,0,0,,This is not an incense stick.
+Dialogue: 0,1:40:02.14,1:40:03.43,Default,,0,0,0,,It’s a cigarette. Keep it in your mouth.
+Dialogue: 0,1:40:09.56,1:40:12.02,Default,,0,0,0,,Nothing will happen.\NInhale in…
+Dialogue: 0,1:40:17.14,1:40:20.85,Default,,0,0,0,,I feel his presence next to me\Nwhen I inhale this.
+Dialogue: 0,1:40:20.98,1:40:23.61,Default,,0,0,0,,I feel like this cigarette\Nwill become a habit, dear.
+Dialogue: 0,1:40:25.68,1:40:27.26,Default,,0,0,0,,I'm unable to live without him.
+Dialogue: 0,1:40:29.81,1:40:30.69,Default,,0,0,0,,Stupid girl.
+Dialogue: 0,1:40:30.77,1:40:34.52,Default,,0,0,0,,Why are you sad when your wedding\Nis just two days away?
+Dialogue: 0,1:40:34.89,1:40:37.26,Default,,0,0,0,,Everything will be alright.\NPlease don't cry.
+Dialogue: 0,1:40:40.39,1:40:43.97,Default,,0,0,0,,- How are the wedding preparations going?\N- Everything is going well.
+Dialogue: 0,1:40:44.23,1:40:48.02,Default,,0,0,0,,Are you okay with having\Nthe wedding in Marwari style?
+Dialogue: 0,1:40:48.18,1:40:51.47,Default,,0,0,0,,How does it matter which style we choose,\Nas long as they like each other?
+Dialogue: 0,1:40:51.56,1:40:54.48,Default,,0,0,0,,If the wedding happens\Nat an auspicious time, it is good.
+Dialogue: 0,1:40:54.73,1:40:58.19,Default,,0,0,0,,Not the wedding.\NYou should rather prepare for his funeral.
+Dialogue: 0,1:40:58.27,1:40:59.19,Default,,0,0,0,,Shut up!
+Dialogue: 0,1:40:59.31,1:41:02.11,Default,,0,0,0,,Why talk nonsense\Nwhen we are preparing for the wedding?
+Dialogue: 0,1:41:02.23,1:41:05.27,Default,,0,0,0,,Set your emotions aside and listen.
+Dialogue: 0,1:41:05.35,1:41:08.85,Default,,0,0,0,,I've heard that your Bachchan\Nled a raid on Muthyam Jaghayya,
+Dialogue: 0,1:41:09.06,1:41:12.19,Default,,0,0,0,,taking our headmaster\Nand postmaster as witnesses.
+Dialogue: 0,1:41:12.31,1:41:15.40,Default,,0,0,0,,That's how the news got out.\NHe is Muthyam Jaghayya.
+Dialogue: 0,1:41:16.18,1:41:17.89,Default,,0,0,0,,You must have heard his name.
+Dialogue: 0,1:41:18.27,1:41:19.86,Default,,0,0,0,,I don't know how he will handle your son.
+Dialogue: 0,1:41:22.52,1:41:26.19,Default,,0,0,0,,Dad, you worked for him for 30 years.
+Dialogue: 0,1:41:26.27,1:41:28.15,Default,,0,0,0,,Speak to him once.
+Dialogue: 0,1:41:28.52,1:41:30.69,Default,,0,0,0,,I'm sure he will listen to you.
+Dialogue: 0,1:41:30.81,1:41:32.44,Default,,0,0,0,,He may listen to your father,
+Dialogue: 0,1:41:32.85,1:41:34.64,Default,,0,0,0,,but my son will not listen to anyone.
+Dialogue: 0,1:41:34.89,1:41:37.89,Default,,0,0,0,,You may be sad today but\Nwill be proud of him tomorrow.
+Dialogue: 0,1:41:38.02,1:41:41.15,Default,,0,0,0,,Oh, no! What a build-up!
+Dialogue: 0,1:41:41.73,1:41:43.81,Default,,0,0,0,,It’s difficult to deal with them.\NCulture-less family.
+Dialogue: 0,1:42:08.10,1:42:09.55,Default,,0,0,0,,YANDAMURI VEERENDRANATH\NLADY IN THE MOONLIGHT
+Dialogue: 0,1:42:19.35,1:42:20.22,Default,,0,0,0,,Jikki…
+Dialogue: 0,1:42:20.68,1:42:21.80,Default,,0,0,0,,{\i1}How are you, Jikki?{\i0}
+Dialogue: 0,1:42:25.89,1:42:27.51,Default,,0,0,0,,Master, how did you recognize me?
+Dialogue: 0,1:42:28.31,1:42:31.31,Default,,0,0,0,,Not just your word…\NI can hear your breath as well.
+Dialogue: 0,1:42:33.52,1:42:34.40,Default,,0,0,0,,How are you?
+Dialogue: 0,1:42:34.48,1:42:38.40,Default,,0,0,0,,I’m drowned in work all day\Nand floating in your memories at night.
+Dialogue: 0,1:42:38.98,1:42:41.02,Default,,0,0,0,,I'm feeling very scared.
+Dialogue: 0,1:42:41.48,1:42:43.44,Default,,0,0,0,,I’m not sure\Nwhat they are talking about here.
+Dialogue: 0,1:42:43.98,1:42:45.65,Default,,0,0,0,,Oh, my darling,
+Dialogue: 0,1:42:46.02,1:42:48.27,Default,,0,0,0,,most people are not afraid of problems
+Dialogue: 0,1:42:48.48,1:42:49.81,Default,,0,0,0,,but of rumors and gossip.
+Dialogue: 0,1:42:50.14,1:42:54.26,Default,,0,0,0,,Most of the jobless\Nwould be busy with this work.
+Dialogue: 0,1:42:55.06,1:42:57.81,Default,,0,0,0,,These guys may be paid to spread rumors\Nin the future.
+Dialogue: 0,1:42:57.93,1:42:59.47,Default,,0,0,0,,It makes me want to laugh.
+Dialogue: 0,1:42:59.68,1:43:01.89,Default,,0,0,0,,You don't know about Muthyam Jaghayya.
+Dialogue: 0,1:43:02.31,1:43:04.61,Default,,0,0,0,,They don't know about this Bachchan.
+Dialogue: 0,1:43:05.81,1:43:08.19,Default,,0,0,0,,By the way, Jikki,\Nwhat is the Ramayana about?
+Dialogue: 0,1:43:08.31,1:43:09.27,Default,,0,0,0,,Trust.
+Dialogue: 0,1:43:09.52,1:43:11.52,Default,,0,0,0,,The trust Sita had that Ram would come.
+Dialogue: 0,1:43:11.68,1:43:12.80,Default,,0,0,0,,Then why are you scared?
+Dialogue: 0,1:43:12.89,1:43:15.85,Default,,0,0,0,,It is not Sita\Nwho is in Lanka right now. It is Ram.
+Dialogue: 0,1:43:16.56,1:43:17.73,Default,,0,0,0,,That's why I'm scared.
+Dialogue: 0,1:43:20.02,1:43:21.86,Default,,0,0,0,,Your logic always amazes me.
+Dialogue: 0,1:43:22.27,1:43:24.31,Default,,0,0,0,,Isn't this why\NI'm head over heels in love with you?
+Dialogue: 0,1:43:24.48,1:43:26.81,Default,,0,0,0,,Why don't you shut me up\Nwith your kisses…
+Dialogue: 0,1:43:29.68,1:43:31.18,Default,,0,0,0,,instead of logic?
+Dialogue: 0,1:43:33.68,1:43:34.55,Default,,0,0,0,,{\i1}Jikki, please.{\i0}
+Dialogue: 0,1:44:05.89,1:44:10.30,Default,,0,0,0,,{\i1}Hey, cutie pie, who looks like a dove{\i0}\N{\i1}Wear a bindi and wrap a silk sari{\i0}
+Dialogue: 0,1:44:10.39,1:44:14.68,Default,,0,0,0,,{\i1}Team up and wrap me like my own{\i0}\N{\i1}Tell me where your secret mole is{\i0}
+Dialogue: 0,1:44:14.77,1:44:19.19,Default,,0,0,0,,{\i1}Hey, cutie pie, who looks like a dove{\i0}\N{\i1}Wear a bindi and wrap a silk sari{\i0}
+Dialogue: 0,1:44:19.27,1:44:23.56,Default,,0,0,0,,{\i1}Team up and wrap me like my own{\i0}\N{\i1}Tell me where your secret mole is{\i0}
+Dialogue: 0,1:44:23.64,1:44:28.35,Default,,0,0,0,,{\i1}Like all your naughty acts{\i0}
+Dialogue: 0,1:44:32.60,1:44:36.64,Default,,0,0,0,,{\i1}But told you that you have to wait{\i0}
+Dialogue: 0,1:44:36.73,1:44:40.40,Default,,0,0,0,,{\i1}But I came even before you said{\i0}
+Dialogue: 0,1:45:24.23,1:45:28.11,Default,,0,0,0,,{\i1}Should I wet your shining lips{\i0}\N{\i1}With all the love?{\i0}
+Dialogue: 0,1:45:28.68,1:45:32.55,Default,,0,0,0,,{\i1}Should I spend all my time{\i0}\N{\i1}In your enchanting beauty?{\i0}
+Dialogue: 0,1:45:33.14,1:45:37.10,Default,,0,0,0,,{\i1}Should I dive into the depths{\i0}\N{\i1}Of the ocean of your beauty?{\i0}
+Dialogue: 0,1:45:37.52,1:45:41.31,Default,,0,0,0,,{\i1}Should I touch the clouds of the music?{\i0}
+Dialogue: 0,1:45:41.48,1:45:44.15,Default,,0,0,0,,{\i1}Should I signal you…{\i0}
+Dialogue: 0,1:45:45.81,1:45:48.48,Default,,0,0,0,,{\i1}And raise hopes in you?{\i0}
+Dialogue: 0,1:45:50.39,1:45:54.55,Default,,0,0,0,,{\i1}When the wind makes the noise{\i0}
+Dialogue: 0,1:45:54.77,1:45:58.36,Default,,0,0,0,,{\i1}Should I be the reason for you{\i0}\N{\i1}To change the clothes?{\i0}
+Dialogue: 0,1:46:46.39,1:46:50.39,Default,,0,0,0,,{\i1}Should I sneak in like{\i0}\N{\i1}A thief in the evening?{\i0}
+Dialogue: 0,1:46:50.93,1:46:54.72,Default,,0,0,0,,{\i1}Should I play pillow fights{\i0}\N{\i1}With your youth?{\i0}
+Dialogue: 0,1:46:55.35,1:46:59.30,Default,,0,0,0,,{\i1}Should I hug the beauty{\i0}\N{\i1}With the speed of love?{\i0}
+Dialogue: 0,1:46:59.81,1:47:03.56,Default,,0,0,0,,{\i1}Should I quench the thirst{\i0}\N{\i1}In your thoughts?{\i0}
+Dialogue: 0,1:47:03.64,1:47:06.30,Default,,0,0,0,,{\i1}Should I shed inhibitions…{\i0}
+Dialogue: 0,1:47:08.06,1:47:10.98,Default,,0,0,0,,{\i1}Under the blue sky?{\i0}
+Dialogue: 0,1:47:12.52,1:47:16.52,Default,,0,0,0,,{\i1}Should I sing a tune in our union{\i0}
+Dialogue: 0,1:47:16.81,1:47:20.23,Default,,0,0,0,,{\i1}And give you a new thrill?{\i0}
+Dialogue: 0,1:48:03.43,1:48:05.39,Default,,0,0,0,,What happened, Aunty?\NYou didn't ask for coffee today.
+Dialogue: 0,1:48:05.64,1:48:07.18,Default,,0,0,0,,Are you not feeling well?
+Dialogue: 0,1:48:08.73,1:48:09.69,Default,,0,0,0,,Aunty?
+Dialogue: 0,1:48:10.27,1:48:11.31,Default,,0,0,0,,Aunty?
+Dialogue: 0,1:48:11.98,1:48:14.11,Default,,0,0,0,,Aunty?
+Dialogue: 0,1:48:14.35,1:48:15.35,Default,,0,0,0,,Sambashiva!
+Dialogue: 0,1:48:17.77,1:48:20.02,Default,,0,0,0,,Why did you do this, Mom?
+Dialogue: 0,1:48:20.23,1:48:22.27,Default,,0,0,0,,I wanted to see you one more time,
+Dialogue: 0,1:48:22.60,1:48:25.93,Default,,0,0,0,,and now you've made it so\Nthat I'll never see you again!
+Dialogue: 0,1:48:26.89,1:48:28.85,Default,,0,0,0,,- You should cry as well.\N- I can't produce any tears.
+Dialogue: 0,1:48:28.98,1:48:30.48,Default,,0,0,0,,You inherit property only if you cry.
+Dialogue: 0,1:48:33.14,1:48:36.51,Default,,0,0,0,,I can’t bear this, Aunty!
+Dialogue: 0,1:48:37.06,1:48:41.36,Default,,0,0,0,,You wanted to see the necklace\Nyou wear around my neck. Meanwhile…
+Dialogue: 0,1:48:42.98,1:48:46.61,Default,,0,0,0,,You said your "seven-week ornaments"\Nbelong to me.
+Dialogue: 0,1:48:47.35,1:48:49.30,Default,,0,0,0,,You gave me your mother's name
+Dialogue: 0,1:48:49.43,1:48:52.97,Default,,0,0,0,,and promised to transfer\Nthe rice mill to me.
+Dialogue: 0,1:48:53.06,1:48:54.86,Default,,0,0,0,,And then you left abruptly, Mom!
+Dialogue: 0,1:48:56.43,1:48:58.39,Default,,0,0,0,,They aren't mourning her demise
+Dialogue: 0,1:48:58.64,1:48:59.76,Default,,0,0,0,,but the loss of the properties.
+Dialogue: 0,1:48:59.93,1:49:01.43,Default,,0,0,0,,- Guruji!\N- Sishya.
+Dialogue: 0,1:49:02.23,1:49:05.27,Default,,0,0,0,,It’s time to showcase my training\Nand your timing.
+Dialogue: 0,1:49:05.52,1:49:07.77,Default,,0,0,0,,The more you cry,\Nthe more properties you get.
+Dialogue: 0,1:49:08.10,1:49:09.55,Default,,0,0,0,,Just say "action," Guruji,
+Dialogue: 0,1:49:09.64,1:49:10.80,Default,,0,0,0,,and I’ll deliver\Nan Oscar-worthy performance.
+Dialogue: 0,1:49:10.89,1:49:11.76,Default,,0,0,0,,Action.
+Dialogue: 0,1:49:11.85,1:49:13.30,Default,,0,0,0,,Grandma!
+Dialogue: 0,1:49:13.68,1:49:15.18,Default,,0,0,0,,Grandma!
+Dialogue: 0,1:49:15.31,1:49:17.27,Default,,0,0,0,,Oh, my grandma…
+Dialogue: 0,1:49:18.18,1:49:21.43,Default,,0,0,0,,Oh, my grandma…
+Dialogue: 0,1:49:21.73,1:49:25.69,Default,,0,0,0,,You always said you’d\Ngive me millions to make a movie.
+Dialogue: 0,1:49:26.43,1:49:30.26,Default,,0,0,0,,And now we have to face\Nyour sudden death, Grandma!
+Dialogue: 0,1:49:32.77,1:49:36.02,Default,,0,0,0,,You joined the stars before\Nseeing my stardom, Grandma.
+Dialogue: 0,1:49:36.27,1:49:40.90,Default,,0,0,0,,You called "pack up"\Nbefore I could put on my makeup, Grandma!
+Dialogue: 0,1:49:46.85,1:49:49.14,Default,,0,0,0,,- Get up, Sishya…\N- Your mother--
+Dialogue: 0,1:49:49.98,1:49:51.98,Default,,0,0,0,,Mothers give birth to their children.
+Dialogue: 0,1:49:52.48,1:49:54.48,Default,,0,0,0,,My mother gave me life through her death.
+Dialogue: 0,1:49:54.64,1:49:56.64,Default,,0,0,0,,It's time for you to stop this raid.
+Dialogue: 0,1:49:56.77,1:49:57.65,Default,,0,0,0,,Bad luck.
+Dialogue: 0,1:49:57.77,1:50:02.73,Default,,0,0,0,,Once the doctor confirms it,\Npack your bags.
+Dialogue: 0,1:50:05.27,1:50:09.52,Default,,0,0,0,,Leave the sealed bags behind\Nand go from here.
+Dialogue: 0,1:50:12.02,1:50:15.56,Default,,0,0,0,,Moreover, the party workers, leaders…
+Dialogue: 0,1:50:18.06,1:50:19.86,Default,,0,0,0,,ministers, VIPs…
+Dialogue: 0,1:50:24.64,1:50:27.10,Default,,0,0,0,,and even the CM will be arriving soon.
+Dialogue: 0,1:50:32.23,1:50:34.90,Default,,0,0,0,,Grandma!
+Dialogue: 0,1:50:35.14,1:50:41.01,Default,,0,0,0,,You wanted to see me on the silver\Nscreen even if it meant selling your gold.
+Dialogue: 0,1:50:42.68,1:50:44.85,Default,,0,0,0,,Wake up, Grandma!
+Dialogue: 0,1:50:45.18,1:50:48.55,Default,,0,0,0,,Please look at your grandson once,\NGrandma.
+Dialogue: 0,1:50:49.10,1:50:52.05,Default,,0,0,0,,Wake up, Grandma!
+Dialogue: 0,1:50:52.27,1:50:54.44,Default,,0,0,0,,Wake up, Grandma!\NWake up!
+Dialogue: 0,1:50:54.52,1:50:57.61,Default,,0,0,0,,Wake up, Grandma!\NWake up!
+Dialogue: 0,1:50:57.73,1:51:01.44,Default,,0,0,0,,Wake up!\NWake up, Grandma!
+Dialogue: 0,1:51:03.89,1:51:06.35,Default,,0,0,0,,Grandma woke up!
+Dialogue: 0,1:51:06.68,1:51:08.51,Default,,0,0,0,,Doctor, it's a medical miracle.
+Dialogue: 0,1:51:08.73,1:51:11.98,Default,,0,0,0,,Grandma woke up!\NDoctor, it's a medical miracle.
+Dialogue: 0,1:51:12.06,1:51:14.23,Default,,0,0,0,,Daddy, Grandma is alive.
+Dialogue: 0,1:51:17.68,1:51:18.85,Default,,0,0,0,,It was a cardiac arrest,
+Dialogue: 0,1:51:19.02,1:51:21.40,Default,,0,0,0,,but CPR was done at the right time.\NWho did this?
+Dialogue: 0,1:51:21.52,1:51:24.69,Default,,0,0,0,,My disciple struck her heart\Nat just the right moment and revived her.
+Dialogue: 0,1:51:38.10,1:51:40.05,Default,,0,0,0,,Truly, your mother is extraordinary.
+Dialogue: 0,1:51:40.27,1:51:41.31,Default,,0,0,0,,Not just for you, but for many others,
+Dialogue: 0,1:51:41.52,1:51:45.11,Default,,0,0,0,,as she allowed this raid\Nto continue and potentially saved lives.
+Dialogue: 0,1:51:46.27,1:51:47.23,Default,,0,0,0,,She's a great woman.
+Dialogue: 0,1:51:49.48,1:51:54.27,Default,,0,0,0,,My heartfelt condolences to you\Non your mother's recovery.
+Dialogue: 0,1:51:54.68,1:51:56.05,Default,,0,0,0,,- Officers…\N- Yes, sir!
+Dialogue: 0,1:51:56.14,1:51:57.80,Default,,0,0,0,,- Get back to work!\N- Okay, sir!
+Dialogue: 0,1:52:00.52,1:52:03.44,Default,,0,0,0,,I told him to bring a character to life,\Nbut he brought the dead back to life.
+Dialogue: 0,1:52:03.77,1:52:06.27,Default,,0,0,0,,If your mother is alive today,\Nit's solely due to my training.
+Dialogue: 0,1:52:06.85,1:52:07.72,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,1:52:08.10,1:52:10.10,Default,,0,0,0,,At least increase my\Nsalary from this month, sir.
+Dialogue: 0,1:52:10.68,1:52:12.26,Default,,0,0,0,,Expenses are at an all-time high--
+Dialogue: 0,1:52:12.89,1:52:15.47,Default,,0,0,0,,- Grandma…\N- What happened, Aunty?
+Dialogue: 0,1:52:15.73,1:52:19.31,Default,,0,0,0,,How did I sleep as if I\Nhad taken sleeping pills?
+Dialogue: 0,1:52:26.89,1:52:28.76,Default,,0,0,0,,What, Guruji? What’s the news?
+Dialogue: 0,1:52:29.77,1:52:31.11,Default,,0,0,0,,Officer Srinivas reporting, sir.
+Dialogue: 0,1:52:31.31,1:52:32.73,Default,,0,0,0,,Why did you take so long to report?
+Dialogue: 0,1:52:32.81,1:52:34.56,Default,,0,0,0,,Yes, sir. I arrived here three months ago.
+Dialogue: 0,1:52:34.64,1:52:35.97,Default,,0,0,0,,Actually, what happened is…
+Dialogue: 0,1:52:59.68,1:53:00.64,Default,,0,0,0,,{\an8}What's wrong, dear?
+Dialogue: 0,1:53:00.73,1:53:04.11,Default,,0,0,0,,{\an8}While everyone else is celebrating\NKarwa Chauth, you're sitting alone.
+Dialogue: 0,1:53:04.43,1:53:07.60,Default,,0,0,0,,{\an8}If everything had been fine, you would\Nhave been with our son-in-law today.
+Dialogue: 0,1:53:08.23,1:53:09.15,Default,,0,0,0,,{\an8}It's okay.
+Dialogue: 0,1:53:09.52,1:53:11.65,Default,,0,0,0,,{\an8}They say that when the man is not around,\Nyou can look at his picture.
+Dialogue: 0,1:53:11.93,1:53:14.43,Default,,0,0,0,,But we perform Karwa Chauth for\Nthe husband's well-being.
+Dialogue: 0,1:53:14.64,1:53:16.85,Default,,0,0,0,,{\an8}- How can she--\N- He said a picture is enough, right?
+Dialogue: 0,1:53:17.27,1:53:19.44,Default,,0,0,0,,{\an8}We have a picture of our son\Nat home where he looks like a hero.
+Dialogue: 0,1:53:19.60,1:53:20.68,Default,,0,0,0,,{\an8}Come, I'll show you.
+Dialogue: 0,1:53:20.77,1:53:22.69,Default,,0,0,0,,{\an8}- Come… Come!\N- Come, dear.
+Dialogue: 0,1:53:26.93,1:53:28.93,Default,,0,0,0,,Jikki, what are you doing here?
+Dialogue: 0,1:53:29.85,1:53:32.47,Default,,0,0,0,,Are you thinking of jumping just because\NBachchan didn't come to the wedding?
+Dialogue: 0,1:53:32.73,1:53:34.06,Default,,0,0,0,,Life is precious, Jikki.
+Dialogue: 0,1:53:34.56,1:53:37.15,Default,,0,0,0,,They say when God closes a door,\Na window opens.
+Dialogue: 0,1:53:37.68,1:53:39.39,Default,,0,0,0,,You should look at the windows.
+Dialogue: 0,1:53:42.39,1:53:43.47,Default,,0,0,0,,Would you come with me?
+Dialogue: 0,1:53:47.23,1:53:48.23,Default,,0,0,0,,Where?
+Dialogue: 0,1:53:48.35,1:53:49.97,Default,,0,0,0,,Wherever I go!
+Dialogue: 0,1:53:54.48,1:53:56.90,Default,,0,0,0,,Shouldn't we inform your dad before\Nmaking such a significant decision?
+Dialogue: 0,1:53:56.98,1:53:57.90,Default,,0,0,0,,No need!
+Dialogue: 0,1:53:58.60,1:54:00.60,Default,,0,0,0,,My life, my decision.
+Dialogue: 0,1:54:00.89,1:54:02.68,Default,,0,0,0,,Will you come or not?
+Dialogue: 0,1:54:07.73,1:54:10.31,Default,,0,0,0,,I will come anywhere, and do anything.
+Dialogue: 0,1:54:10.39,1:54:11.64,Default,,0,0,0,,Forget about this house.
+Dialogue: 0,1:54:11.73,1:54:13.11,Default,,0,0,0,,I have nothing to do with this world!
+Dialogue: 0,1:54:13.18,1:54:15.22,Default,,0,0,0,,Nothing…
+Dialogue: 0,1:54:16.39,1:54:17.26,Default,,0,0,0,,You for me
+Dialogue: 0,1:54:18.81,1:54:20.52,Default,,0,0,0,,and me for you. Let's go.
+Dialogue: 0,1:54:23.10,1:54:24.05,Default,,0,0,0,,Let's go.
+Dialogue: 0,1:54:34.23,1:54:35.36,Default,,0,0,0,,What the hell!
+Dialogue: 0,1:54:36.31,1:54:39.19,Default,,0,0,0,,You guys have turned my house\Ninto a choultry.
+Dialogue: 0,1:54:39.64,1:54:41.72,Default,,0,0,0,,Go ahead…
+Dialogue: 0,1:54:44.52,1:54:45.61,Default,,0,0,0,,How many days, sir?
+Dialogue: 0,1:54:45.68,1:54:46.85,Default,,0,0,0,,No matter how much we search,\Nwe can't find anything.
+Dialogue: 0,1:54:46.93,1:54:47.80,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,1:54:47.89,1:54:49.18,Default,,0,0,0,,- Hello!\N- I need to meet Mr. Bachchan.
+Dialogue: 0,1:54:49.27,1:54:50.48,Default,,0,0,0,,How are you coming in without permission?
+Dialogue: 0,1:54:50.68,1:54:51.97,Default,,0,0,0,,Inform him that Jikki is here.
+Dialogue: 0,1:54:52.18,1:54:53.14,Default,,0,0,0,,What brings you here?
+Dialogue: 0,1:54:53.23,1:54:55.36,Default,,0,0,0,,I'm Mr. Bachchan's fiancée.
+Dialogue: 0,1:54:55.48,1:54:57.27,Default,,0,0,0,,Sir is inside, ma'am. One minute.
+Dialogue: 0,1:55:04.52,1:55:06.65,Default,,0,0,0,,Jikki. What happened?
+Dialogue: 0,1:55:07.06,1:55:08.06,Default,,0,0,0,,Why did you come here?
+Dialogue: 0,1:55:11.43,1:55:12.35,Default,,0,0,0,,Jikki!
+Dialogue: 0,1:55:13.89,1:55:16.14,Default,,0,0,0,,What happened, dear?\NTell me what happened.
+Dialogue: 0,1:55:29.73,1:55:31.36,Default,,0,0,0,,This is the last kiss to Bachchan.
+Dialogue: 0,1:55:31.89,1:55:33.93,Default,,0,0,0,,Tomorrow Dorababu\Nwill get his first kiss.
+Dialogue: 0,1:55:34.23,1:55:35.77,Default,,0,0,0,,First kiss…
+Dialogue: 0,1:55:35.89,1:55:37.01,Default,,0,0,0,,What happened, dear?
+Dialogue: 0,1:55:37.48,1:55:38.73,Default,,0,0,0,,You can't come.
+Dialogue: 0,1:55:39.39,1:55:41.05,Default,,0,0,0,,I can't stop myself from coming.
+Dialogue: 0,1:55:42.64,1:55:44.64,Default,,0,0,0,,Today is our first Karva Chauth.
+Dialogue: 0,1:55:45.48,1:55:47.06,Default,,0,0,0,,Everyone sees the moon.
+Dialogue: 0,1:55:48.23,1:55:49.94,Default,,0,0,0,,I came to see you.
+Dialogue: 0,1:55:55.06,1:55:56.52,Default,,0,0,0,,What should I do now?
+Dialogue: 0,1:55:56.64,1:56:00.22,Default,,0,0,0,,{\i1}My heart goes mad without your company…{\i0}
+Dialogue: 0,1:56:00.39,1:56:01.35,Default,,0,0,0,,Dorababu.
+Dialogue: 0,1:56:01.60,1:56:02.68,Default,,0,0,0,,Yes, darling.
+Dialogue: 0,1:56:03.06,1:56:04.06,Default,,0,0,0,,Take it.
+Dialogue: 0,1:56:04.39,1:56:05.30,Default,,0,0,0,,Silly girl!
+Dialogue: 0,1:56:05.48,1:56:07.44,Default,,0,0,0,,Where's the strainer?\NThe son-in-law is here.
+Dialogue: 0,1:56:16.68,1:56:19.64,Default,,0,0,0,,My wedding is the day after tomorrow.\NYou should come.
+Dialogue: 0,1:56:19.73,1:56:20.61,Default,,0,0,0,,Not possible.
+Dialogue: 0,1:56:22.27,1:56:25.31,Default,,0,0,0,,My wedding is on the same day\Nand at the same time.
+Dialogue: 0,1:56:30.18,1:56:31.55,Default,,0,0,0,,Should I leave?
+Dialogue: 0,1:56:31.81,1:56:34.19,Default,,0,0,0,,You can leave without worry.\NI'll come as well.
+Dialogue: 0,1:56:43.14,1:56:45.39,Default,,0,0,0,,Who are you, dear?
+Dialogue: 0,1:56:47.23,1:56:48.40,Default,,0,0,0,,It's me, Uncle.
+Dialogue: 0,1:56:48.56,1:56:51.02,Default,,0,0,0,,I'm Mr. Pandey's daughter,\Nwho used to work with you.
+Dialogue: 0,1:56:52.18,1:56:54.30,Default,,0,0,0,,I'm getting married\Nto Bachchan the day after tomorrow.
+Dialogue: 0,1:56:55.77,1:56:57.15,Default,,0,0,0,,I came here because\Ntoday is Karva Chauth--
+Dialogue: 0,1:56:57.31,1:56:58.40,Default,,0,0,0,,It's okay, dear.
+Dialogue: 0,1:56:58.89,1:56:59.93,Default,,0,0,0,,This is your home.
+Dialogue: 0,1:57:00.27,1:57:02.65,Default,,0,0,0,,You can come and go anytime you want.
+Dialogue: 0,1:57:03.14,1:57:04.93,Default,,0,0,0,,But your husband might not agree.
+Dialogue: 0,1:57:05.27,1:57:06.56,Default,,0,0,0,,He might talk about rules.
+Dialogue: 0,1:57:06.68,1:57:08.85,Default,,0,0,0,,No one really follows rules here anyway.
+Dialogue: 0,1:57:09.18,1:57:10.97,Default,,0,0,0,,Jikki, please leave now.
+Dialogue: 0,1:57:12.52,1:57:16.06,Default,,0,0,0,,You once sent me a nose pin as a\Ngift in my childhood, with my father.
+Dialogue: 0,1:57:16.39,1:57:19.68,Default,,0,0,0,,Can you please send my husband\Nto my wedding, the day after tomorrow?
+Dialogue: 0,1:57:20.14,1:57:21.10,Default,,0,0,0,,Please.
+Dialogue: 0,1:57:21.39,1:57:22.60,Default,,0,0,0,,You silly girl.
+Dialogue: 0,1:57:22.89,1:57:26.39,Default,,0,0,0,,This time, I'll send him along\Nwith a marriage necklace.
+Dialogue: 0,1:57:30.27,1:57:32.40,Default,,0,0,0,,May you have a blessed\Nand long married life.
+Dialogue: 0,1:57:39.60,1:57:44.64,Default,,0,0,0,,{\i1}I'm so fortunate, Tayaramma…{\i0}\N{\i1}Tayaramma…{\i0}
+Dialogue: 0,1:57:44.89,1:57:49.89,Default,,0,0,0,,{\i1}I'm very happy, Tayaramma…{\i0}\N{\i1}Tayaramma…{\i0}
+Dialogue: 0,1:57:50.02,1:57:54.44,Default,,0,0,0,,{\i1}I found him easily, Tayaramma…{\i0}\N{\i1}Tayaramma…{\i0}
+Dialogue: 0,1:57:54.56,1:57:56.48,Default,,0,0,0,,Well, Mr. Jaghayya, you sing very well.
+Dialogue: 0,1:57:56.56,1:57:58.94,Default,,0,0,0,,Anyway, from tomorrow you'll\Nhave to make a living by singing.
+Dialogue: 0,1:57:59.64,1:58:01.47,Default,,0,0,0,,Meet me after the raid is over.
+Dialogue: 0,1:58:01.56,1:58:03.65,Default,,0,0,0,,I'll give you a chance in our band, okay?
+Dialogue: 0,1:58:04.89,1:58:08.55,Default,,0,0,0,,And don't forget to bring your Tayaramma\Nwith you. You can sing a duet with her.
+Dialogue: 0,1:58:08.73,1:58:10.61,Default,,0,0,0,,A duet. Is that okay?
+Dialogue: 0,1:58:16.14,1:58:17.97,Default,,0,0,0,,Why are you talking\Nto a stranger in the middle of the night?
+Dialogue: 0,1:58:18.10,1:58:19.85,Default,,0,0,0,,I won't like this after our wedding.
+Dialogue: 0,1:58:20.14,1:58:21.01,Default,,0,0,0,,Let's go!
+Dialogue: 0,1:58:21.10,1:58:21.97,Default,,0,0,0,,Where?
+Dialogue: 0,1:58:22.06,1:58:24.56,Default,,0,0,0,,- Home. Where else?\N- Why home? I thought we both…
+Dialogue: 0,1:58:24.64,1:58:26.51,Default,,0,0,0,,Yes, we both are going to my house.
+Dialogue: 0,1:58:26.73,1:58:28.94,Default,,0,0,0,,Are you compromising in life, Jikki?
+Dialogue: 0,1:58:29.18,1:58:30.60,Default,,0,0,0,,You are confused.
+Dialogue: 0,1:58:31.06,1:58:34.19,Default,,0,0,0,,If you hurry, you can come on the bike.\NOtherwise, you'll have to walk.
+Dialogue: 0,1:58:34.81,1:58:37.02,Default,,0,0,0,,We have a long way to go. I'm leaving.
+Dialogue: 0,1:58:38.06,1:58:39.48,Default,,0,0,0,,How can I go that far by walking?
+Dialogue: 0,1:58:39.85,1:58:42.30,Default,,0,0,0,,Keep the cash account\Nand gold account separately.
+Dialogue: 0,1:58:42.52,1:58:44.15,Default,,0,0,0,,- Check.\N- After that, I'll tell you what to do.
+Dialogue: 0,1:58:44.23,1:58:45.11,Default,,0,0,0,,Okay, sir.
+Dialogue: 0,1:58:49.89,1:58:53.18,Default,,0,0,0,,Is that phone call for you or me?
+Dialogue: 0,1:58:53.27,1:58:55.56,Default,,0,0,0,,Even if it's for you,\Nplease give it to me.
+Dialogue: 0,1:58:55.73,1:58:57.65,Default,,0,0,0,,I'll talk in your presence.
+Dialogue: 0,1:59:00.77,1:59:02.81,Default,,0,0,0,,What? Jikki, is it?
+Dialogue: 0,1:59:03.98,1:59:04.98,Default,,0,0,0,,Oh, Jikki!
+Dialogue: 0,1:59:07.98,1:59:09.94,Default,,0,0,0,,Why did you guys go there?
+Dialogue: 0,1:59:11.81,1:59:12.69,Default,,0,0,0,,Hey!
+Dialogue: 0,1:59:14.27,1:59:17.52,Default,,0,0,0,,Not right. He's just doing his duty.
+Dialogue: 0,1:59:17.98,1:59:19.02,Default,,0,0,0,,What did you say?
+Dialogue: 0,1:59:19.31,1:59:21.52,Default,,0,0,0,,You’re also doing your duty, are you?
+Dialogue: 0,1:59:21.73,1:59:24.19,Default,,0,0,0,,Why should I get involved?\NSort it out yourselves.
+Dialogue: 0,1:59:24.27,1:59:25.15,Default,,0,0,0,,Here.
+Dialogue: 0,1:59:26.98,1:59:30.27,Default,,0,0,0,,Bachchan, if you stay there,\Nwe'll stay here.
+Dialogue: 0,1:59:30.48,1:59:32.56,Default,,0,0,0,,If you leave that house within the\Nnext 24 hours, we'll leave this house.
+Dialogue: 0,1:59:33.27,1:59:35.56,Default,,0,0,0,,You don't have much time. Think about it!
+Dialogue: 0,1:59:40.31,1:59:41.56,Default,,0,0,0,,Party workers.
+Dialogue: 0,1:59:42.89,1:59:44.30,Default,,0,0,0,,In English, they also call them fans.
+Dialogue: 0,1:59:45.73,1:59:47.36,Default,,0,0,0,,It's madness.
+Dialogue: 0,1:59:48.31,1:59:50.40,Default,,0,0,0,,They're obsessed with me.
+Dialogue: 0,1:59:51.18,1:59:52.22,Default,,0,0,0,,Crazy enough…
+Dialogue: 0,1:59:53.85,1:59:55.60,Default,,0,0,0,,to kill for me.
+Dialogue: 0,1:59:57.93,1:59:59.60,Default,,0,0,0,,Twenty-four hours.
+Dialogue: 0,2:00:04.73,2:00:10.02,Default,,0,0,0,,Tayaramma, you're miraculous.
+Dialogue: 0,2:00:45.48,2:00:46.44,Default,,0,0,0,,Who is that?
+Dialogue: 0,2:00:46.73,2:00:48.65,Default,,0,0,0,,You’ll get to know when I come inside.
+Dialogue: 0,2:00:48.85,2:00:50.18,Default,,0,0,0,,Say what you want from there.
+Dialogue: 0,2:00:55.23,2:00:57.23,Default,,0,0,0,,- Matchbox.\N- Go.
+Dialogue: 0,2:01:24.68,2:01:25.68,Default,,0,0,0,,Who are you, man?
+Dialogue: 0,2:01:25.93,2:01:29.60,Default,,0,0,0,,If we keep introductions, it will take\Nseven and a half hours, you dumbo.
+Dialogue: 0,2:01:29.77,2:01:31.98,Default,,0,0,0,,I was very busy. I came\Nbecause my brother asked me to come.
+Dialogue: 0,2:01:32.18,2:01:36.26,Default,,0,0,0,,Simply speaking, I’m the Youth Yuvaraj\Nsent by Mass Maharaaj.
+Dialogue: 0,2:01:38.14,2:01:40.93,Default,,0,0,0,,Presenting today’s entertainment\Nby Siddhu Jonnalagadda,
+Dialogue: 0,2:01:41.02,2:01:45.86,Default,,0,0,0,,Junior Income Tax Officer,\NAyakar Bhavan, Hyderabad, 500032.
+Dialogue: 0,2:01:58.85,2:02:02.72,Default,,0,0,0,,Brother breaks the bones\Nand I break the nerves.
+Dialogue: 0,2:02:14.85,2:02:18.35,Default,,0,0,0,,What are you guys eating?\NYou guys look like double-decker buses.
+Dialogue: 0,2:02:18.68,2:02:20.39,Default,,0,0,0,,My shoulder was going\Nto dislocate, sister.
+Dialogue: 0,2:02:21.73,2:02:25.19,Default,,0,0,0,,Double-decker buses\Nshould be parked on the road.
+Dialogue: 0,2:02:25.48,2:02:28.94,Default,,0,0,0,,If they enter the house\Nand park here, we won't spare them.
+Dialogue: 0,2:02:59.39,2:03:01.68,Default,,0,0,0,,Hey, according to the\Nconstitution of this country,
+Dialogue: 0,2:03:01.77,2:03:03.73,Default,,0,0,0,,indulging in black money\Nis a punishable offense.
+Dialogue: 0,2:03:03.81,2:03:06.44,Default,,0,0,0,,If I do not eradicate this\Nkind of cancer from society,
+Dialogue: 0,2:03:06.52,2:03:07.90,Default,,0,0,0,,the nation will go into depression,
+Dialogue: 0,2:03:07.98,2:03:10.36,Default,,0,0,0,,and I will have to resign\Nfrom my bloody designation.
+Dialogue: 0,2:03:10.56,2:03:11.65,Default,,0,0,0,,How did I say, dude?
+Dialogue: 0,2:03:11.89,2:03:12.85,Default,,0,0,0,,You didn't understand?
+Dialogue: 0,2:03:13.02,2:03:15.15,Default,,0,0,0,,Try to understand.\NMeanwhile, I have to make a call.
+Dialogue: 0,2:03:28.06,2:03:31.36,Default,,0,0,0,,Even if that call is for you,\Ngive it to me. Please.
+Dialogue: 0,2:03:35.56,2:03:36.61,Default,,0,0,0,,Hey, bro.
+Dialogue: 0,2:03:37.14,2:03:39.93,Default,,0,0,0,,What? You broke their arms and legs?
+Dialogue: 0,2:03:40.18,2:03:42.01,Default,,0,0,0,,I hope you haven't killed them yet.
+Dialogue: 0,2:03:42.43,2:03:44.80,Default,,0,0,0,,What's that?\NYou're planning to kill them now?
+Dialogue: 0,2:03:45.14,2:03:48.55,Default,,0,0,0,,Well, I'm staying out of it.\NSort it out among yourselves.
+Dialogue: 0,2:03:50.93,2:03:52.35,Default,,0,0,0,,Hey, Jaggu Kaka!
+Dialogue: 0,2:03:52.52,2:03:54.11,Default,,0,0,0,,Your BP will rise\Nonce you hear what I'm saying.
+Dialogue: 0,2:03:54.18,2:03:55.80,Default,,0,0,0,,So keep the tablets next to you.
+Dialogue: 0,2:03:56.02,2:03:59.23,Default,,0,0,0,,I have thrashed the men\Nsent by you in ten minutes flat.
+Dialogue: 0,2:03:59.52,2:04:01.98,Default,,0,0,0,,If you have more, send them.
+Dialogue: 0,2:04:02.06,2:04:03.52,Default,,0,0,0,,I will stay here,\Nand Bachchan will stay there.
+Dialogue: 0,2:04:03.81,2:04:06.40,Default,,0,0,0,,If it itches down under,\Nyou should scratch your top.
+Dialogue: 0,2:04:06.48,2:04:08.73,Default,,0,0,0,,We’ll both be on duty,\Nkeeping a close eye on you going forward!
+Dialogue: 0,2:04:09.81,2:04:11.06,Default,,0,0,0,,The wedding is planned here.
+Dialogue: 0,2:04:11.14,2:04:13.80,Default,,0,0,0,,All the stuff should be set\Nin its own place. Do it quickly!
+Dialogue: 0,2:04:25.27,2:04:27.36,Default,,0,0,0,,Excuse me, Jikki madam.\NIf you don't mind, please.
+Dialogue: 0,2:04:27.64,2:04:31.14,Default,,0,0,0,,- Do you have any sisters?\N- No, why?
+Dialogue: 0,2:04:31.23,2:04:32.44,Default,,0,0,0,,Just fitting the map into the gap.
+Dialogue: 0,2:04:32.52,2:04:35.02,Default,,0,0,0,,The younger brother's procession\Nat the elder brother's wedding.
+Dialogue: 0,2:04:35.89,2:04:39.01,Default,,0,0,0,,Check and search. Find someone for me.
+Dialogue: 0,2:04:39.10,2:04:42.35,Default,,0,0,0,,I don’t have many requirements.\NIf she is shorter than me, that's enough.
+Dialogue: 0,2:04:42.73,2:04:45.69,Default,,0,0,0,,Please, if you don't mind.\NThank you. Take care.
+Dialogue: 0,2:04:53.02,2:04:55.36,Default,,0,0,0,,It seems Uncle is upset because he doesn't\Nhave a younger daughter.
+Dialogue: 0,2:04:57.23,2:04:58.19,Default,,0,0,0,,Buddies.
+Dialogue: 0,2:04:58.85,2:05:00.14,Default,,0,0,0,,They also call them friends in English.
+Dialogue: 0,2:05:00.85,2:05:03.76,Default,,0,0,0,,If you have fans, I have friends
+Dialogue: 0,2:05:04.31,2:05:06.65,Default,,0,0,0,,who are willing to give their lives
+Dialogue: 0,2:05:07.06,2:05:10.52,Default,,0,0,0,,or take a life for me if needed.
+Dialogue: 0,2:05:22.39,2:05:25.39,Default,,0,0,0,,You're playing with fire\Nby locking the lion in its den.
+Dialogue: 0,2:05:26.31,2:05:29.61,Default,,0,0,0,,The moment I step out of this\Nhouse, you'll have to deal with it.
+Dialogue: 0,2:05:29.68,2:05:31.51,Default,,0,0,0,,Why wait for one day?\NYou can step out now.
+Dialogue: 0,2:05:32.52,2:05:36.69,Default,,0,0,0,,Use your position,\Npower, might, and people
+Dialogue: 0,2:05:36.77,2:05:38.73,Default,,0,0,0,,to stop me if you dare.
+Dialogue: 0,2:05:39.06,2:05:40.44,Default,,0,0,0,,I will.
+Dialogue: 0,2:05:41.52,2:05:44.06,Default,,0,0,0,,I will give you hell.
+Dialogue: 0,2:05:44.48,2:05:47.52,Default,,0,0,0,,If you do that,\NI will resign and sit at home.
+Dialogue: 0,2:05:47.64,2:05:50.35,Default,,0,0,0,,Or else, I will ensure that\Nyou sit in Tihar Jail.
+Dialogue: 0,2:06:07.02,2:06:10.19,Default,,0,0,0,,I don't think it is correct\Nto send him out currently, sir.
+Dialogue: 0,2:06:10.43,2:06:13.35,Default,,0,0,0,,You can’t break into the snake’s den\Nunless it comes out.
+Dialogue: 0,2:06:13.43,2:06:17.22,Default,,0,0,0,,We can’t get the people in the household\Nto talk unless he steps out.
+Dialogue: 0,2:06:40.48,2:06:41.90,Default,,0,0,0,,Sir, the CM is calling you inside.
+Dialogue: 0,2:06:42.06,2:06:45.02,Default,,0,0,0,,Hey, tell him to come out.\NToday, I want to make or break things.
+Dialogue: 0,2:06:46.02,2:06:47.11,Default,,0,0,0,,Bloody hell…
+Dialogue: 0,2:06:48.60,2:06:49.97,Default,,0,0,0,,What's up, Jaghayya?
+Dialogue: 0,2:06:52.10,2:06:53.18,Default,,0,0,0,,Everything alright?
+Dialogue: 0,2:06:53.27,2:06:55.15,Default,,0,0,0,,Why would I come here\Nif everything were alright?
+Dialogue: 0,2:06:55.73,2:06:58.81,Default,,0,0,0,,The Income Tax Department\Nis governed by the central government.
+Dialogue: 0,2:06:59.10,2:07:00.51,Default,,0,0,0,,You would know the rules\Nif you were educated.
+Dialogue: 0,2:07:01.02,2:07:03.44,Default,,0,0,0,,The guy in the ruling party\Ndoesn't follow the rules.
+Dialogue: 0,2:07:03.64,2:07:05.47,Default,,0,0,0,,Call him immediately\Nand stop all the raids!
+Dialogue: 0,2:07:21.18,2:07:23.35,Default,,0,0,0,,- Hello.\N- Am I speaking to Mr. Bachchan?
+Dialogue: 0,2:07:23.48,2:07:25.23,Default,,0,0,0,,Yes, Mr. Bachchan speaking.
+Dialogue: 0,2:07:25.31,2:07:27.11,Default,,0,0,0,,This call is from the CM's office.
+Dialogue: 0,2:07:27.27,2:07:29.36,Default,,0,0,0,,The Chief Minister would\Nlike to speak with you.
+Dialogue: 0,2:07:29.56,2:07:30.77,Default,,0,0,0,,The Chief Minister?
+Dialogue: 0,2:07:31.27,2:07:32.65,Default,,0,0,0,,{\i1}Yes. One second.{\i0}
+Dialogue: 0,2:07:33.56,2:07:34.44,Default,,0,0,0,,{\i1}Sir.{\i0}
+Dialogue: 0,2:07:35.68,2:07:39.18,Default,,0,0,0,,Is it true that raids are being conducted\Nat Muthyam Jaghayya's house?
+Dialogue: 0,2:07:39.27,2:07:40.15,Default,,0,0,0,,You…
+Dialogue: 0,2:07:40.23,2:07:41.11,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,2:07:41.18,2:07:43.18,Default,,0,0,0,,Stop them immediately and leave at once.
+Dialogue: 0,2:07:43.93,2:07:46.43,Default,,0,0,0,,Sorry, sir. Our department operates under\Nthe authority of the central government.
+Dialogue: 0,2:07:46.60,2:07:48.55,Default,,0,0,0,,You are challenging the Chief Minister.
+Dialogue: 0,2:07:48.98,2:07:50.81,Default,,0,0,0,,No, sir. I'm reminding you.
+Dialogue: 0,2:07:50.89,2:07:53.64,Default,,0,0,0,,I’m reminding a Chief Minister\Nof his limitations.
+Dialogue: 0,2:07:54.31,2:07:56.27,Default,,0,0,0,,The state officials, ministers,
+Dialogue: 0,2:07:56.35,2:07:58.76,Default,,0,0,0,,and even the Chief Minister\Ncannot stop us.
+Dialogue: 0,2:07:58.89,2:08:00.80,Default,,0,0,0,,What do you hope to achieve\Nby challenging influential people?
+Dialogue: 0,2:08:00.98,2:08:02.44,Default,,0,0,0,,Want to demonstrate\Nthe power of the system
+Dialogue: 0,2:08:02.52,2:08:04.81,Default,,0,0,0,,when there's an officer\Ncapable of cleaning it up.
+Dialogue: 0,2:08:04.98,2:08:08.23,Default,,0,0,0,,- If I decide now, immediately--\N- Please do.
+Dialogue: 0,2:08:11.02,2:08:12.73,Default,,0,0,0,,- Shall we make the PM office call once?\N- Hey!
+Dialogue: 0,2:08:14.73,2:08:15.61,Default,,0,0,0,,Shame on you!
+Dialogue: 0,2:08:17.06,2:08:19.90,Default,,0,0,0,,He calls himself a CM? How sad!
+Dialogue: 0,2:08:38.06,2:08:39.44,Default,,0,0,0,,He's like a pure gem, right?
+Dialogue: 0,2:09:01.35,2:09:02.22,Default,,0,0,0,,Hello!
+Dialogue: 0,2:09:02.35,2:09:04.68,Default,,0,0,0,,Hello? Hello…
+Dialogue: 0,2:09:14.56,2:09:17.52,Default,,0,0,0,,We won't face any trouble because\Nof this witness's signature, right?
+Dialogue: 0,2:09:17.60,2:09:18.97,Default,,0,0,0,,Your sir is like a God to you, right?
+Dialogue: 0,2:09:19.10,2:09:20.47,Default,,0,0,0,,Why would you have trouble with God?
+Dialogue: 0,2:09:24.10,2:09:25.10,Default,,0,0,0,,- Raju Garu,\N- Sir.
+Dialogue: 0,2:09:25.18,2:09:27.05,Default,,0,0,0,,please make three copies of this,\Nprepare an order, and send them to me.
+Dialogue: 0,2:09:27.14,2:09:28.01,Default,,0,0,0,,Okay, sir.
+Dialogue: 0,2:09:49.23,2:09:51.48,Default,,0,0,0,,{\an8}- Hello.\N- This is the Prime Minister speaking.
+Dialogue: 0,2:09:51.56,2:09:53.23,Default,,0,0,0,,Good morning, Mr. Prime Minister.
+Dialogue: 0,2:09:53.77,2:09:56.48,Default,,0,0,0,,Even God cannot save him this time.
+Dialogue: 0,2:09:56.68,2:09:58.39,Default,,0,0,0,,Is there any possibility\Nto stop the raids?
+Dialogue: 0,2:09:58.60,2:10:00.64,Default,,0,0,0,,Yes, sir.\NWe can stop with your order, sir.
+Dialogue: 0,2:10:00.73,2:10:02.73,Default,,0,0,0,,- Please stop the raids right now.\N- Sure, sir.
+Dialogue: 0,2:10:02.93,2:10:04.14,Default,,0,0,0,,When can I expect the orders?
+Dialogue: 0,2:10:06.18,2:10:07.05,Default,,0,0,0,,{\an8}What do you mean?
+Dialogue: 0,2:10:07.14,2:10:08.01,Default,,0,0,0,,{\an8}PRIME MINISTER
+Dialogue: 0,2:10:08.10,2:10:09.85,Default,,0,0,0,,I need written orders from you, sir,
+Dialogue: 0,2:10:10.23,2:10:11.36,Default,,0,0,0,,and I mean it.
+Dialogue: 0,2:10:12.77,2:10:14.40,Default,,0,0,0,,This is my personal order.
+Dialogue: 0,2:10:15.39,2:10:18.10,Default,,0,0,0,,If you’re calling it a personal order,\Nit suggests there’s something wrong here
+Dialogue: 0,2:10:18.39,2:10:20.47,Default,,0,0,0,,or that you have\Na personal connection with me.
+Dialogue: 0,2:10:20.64,2:10:23.64,Default,,0,0,0,,I neither engage in wrongdoing\Nnor allow anyone to get close to me.
+Dialogue: 0,2:10:24.93,2:10:26.64,Default,,0,0,0,,My office will get in touch\Nwith you later.
+Dialogue: 0,2:10:26.89,2:10:30.01,Default,,0,0,0,,This raid will not cease\Nuntil I receive a written order.
+Dialogue: 0,2:10:33.89,2:10:35.85,Default,,0,0,0,,We’ve heard everything you’ve said so far.
+Dialogue: 0,2:10:36.56,2:10:38.65,Default,,0,0,0,,Everyone has cooperated with you.
+Dialogue: 0,2:10:39.27,2:10:42.90,Default,,0,0,0,,Please ensure\Nthat no disaster occurs in the house.
+Dialogue: 0,2:10:45.73,2:10:47.98,Default,,0,0,0,,He’s requesting a written order\Nthat we cannot provide.
+Dialogue: 0,2:10:48.10,2:10:50.22,Default,,0,0,0,,{\an8}- Why is that not possible?!\N- Excuse me!
+Dialogue: 0,2:10:51.06,2:10:53.06,Default,,0,0,0,,I also belong to your party.
+Dialogue: 0,2:10:53.48,2:10:56.06,Default,,0,0,0,,It's your responsibility to protect me.
+Dialogue: 0,2:10:57.64,2:11:01.97,Default,,0,0,0,,Without me, neither you\Nnor your party will survive in our area.
+Dialogue: 0,2:11:02.56,2:11:04.27,Default,,0,0,0,,Is there any other appointment today?
+Dialogue: 0,2:11:04.56,2:11:07.06,Default,,0,0,0,,Delegates have arrived\Nfrom Italy to discuss the defense deal.
+Dialogue: 0,2:11:07.31,2:11:08.19,Default,,0,0,0,,Call them.
+Dialogue: 0,2:11:08.27,2:11:09.15,Default,,0,0,0,,Okay, sir.
+Dialogue: 0,2:11:39.77,2:11:42.11,Default,,0,0,0,,Recheck everything\Nand arrange for the vehicle.
+Dialogue: 0,2:11:42.18,2:11:43.05,Default,,0,0,0,,- Okay, sir.\N- Yes, sir.
+Dialogue: 0,2:11:54.31,2:11:55.19,Default,,0,0,0,,Hello?
+Dialogue: 0,2:11:55.48,2:11:57.52,Default,,0,0,0,,Bachchan's duty here\Nis a resounding success.
+Dialogue: 0,2:11:57.73,2:11:59.48,Default,,0,0,0,,Now, only the husband’s role remains.
+Dialogue: 0,2:11:59.73,2:12:00.81,Default,,0,0,0,,Are you okay?
+Dialogue: 0,2:12:00.93,2:12:03.64,Default,,0,0,0,,Hello, this is Mr. Bachchan.
+Dialogue: 0,2:12:04.85,2:12:08.64,Default,,0,0,0,,Master, in a few hours,\NI will become Mrs. Bachchan.
+Dialogue: 0,2:12:13.39,2:12:16.22,Default,,0,0,0,,{\i1}Suvvaala Suvvi!{\i0}
+Dialogue: 0,2:12:16.31,2:12:19.02,Default,,0,0,0,,{\i1}Suvvi!{\i0}
+Dialogue: 0,2:12:20.89,2:12:27.05,Default,,0,0,0,,{\i1}You gave a piercing look{\i0}
+Dialogue: 0,2:12:28.52,2:12:34.81,Default,,0,0,0,,{\i1}And created a stir with your smile{\i0}
+Dialogue: 0,2:12:35.06,2:12:39.69,Default,,0,0,0,,{\i1}Hey, oh, my boy…{\i0}\N{\i1}Can I trust your word?{\i0}
+Dialogue: 0,2:12:39.77,2:12:44.27,Default,,0,0,0,,{\i1}Can praise be given like this?{\i0}\N{\i1}Can the cheek be pinched?{\i0}
+Dialogue: 0,2:12:44.35,2:12:48.60,Default,,0,0,0,,{\i1}Oh my…{\i0}\N{\i1}You can cause confusion{\i0}
+Dialogue: 0,2:12:48.68,2:12:53.14,Default,,0,0,0,,{\i1}And shout at everyone, overcoming shyness{\i0}
+Dialogue: 0,2:13:02.39,2:13:07.01,Default,,0,0,0,,{\i1}The white sari with the black border{\i0}\N{\i1}Has caused chaos{\i0}
+Dialogue: 0,2:13:11.10,2:13:15.51,Default,,0,0,0,,{\i1}The white sari with the black border{\i0}\N{\i1}Has caused chaos{\i0}
+Dialogue: 0,2:13:15.60,2:13:19.89,Default,,0,0,0,,{\i1}In the smoother waistline{\i0}\N{\i1}Affairs become turbulent{\i0}
+Dialogue: 0,2:13:19.98,2:13:22.81,Default,,0,0,0,,{\i1}Your makeup has ignited a fire{\i0}
+Dialogue: 0,2:13:23.14,2:13:27.64,Default,,0,0,0,,{\i1}Hey, oh, my boy…{\i0}\N{\i1}Can I trust your word?{\i0}
+Dialogue: 0,2:13:27.73,2:13:32.48,Default,,0,0,0,,{\i1}Can praise be given like this?{\i0}\N{\i1}Can the cheek be pinched?{\i0}
+Dialogue: 0,2:13:32.56,2:13:36.73,Default,,0,0,0,,{\i1}Oh my…{\i0}\N{\i1}You can cause confusion{\i0}
+Dialogue: 0,2:13:36.81,2:13:40.52,Default,,0,0,0,,{\i1}And shout at everyone, overcoming shyness{\i0}
+Dialogue: 0,2:13:41.81,2:13:46.19,Default,,0,0,0,,{\i1}The white sari with the black border{\i0}\N{\i1}Has caused chaos{\i0}
+Dialogue: 0,2:13:46.27,2:13:50.31,Default,,0,0,0,,{\i1}In the smoother waistline{\i0}\N{\i1}Affairs become turbulent{\i0}
+Dialogue: 0,2:13:50.39,2:13:53.51,Default,,0,0,0,,{\i1}Your makeup has ignited a fire{\i0}
+Dialogue: 0,2:13:53.68,2:13:58.18,Default,,0,0,0,,{\i1}Hey, oh, my boy…{\i0}\N{\i1}Can I trust your word?{\i0}
+Dialogue: 0,2:13:58.27,2:14:03.02,Default,,0,0,0,,{\i1}Can praise be given like this?{\i0}\N{\i1}Can the cheek be pinched?{\i0}
+Dialogue: 0,2:14:03.10,2:14:07.26,Default,,0,0,0,,{\i1}Oh my…{\i0}\N{\i1}You can cause confusion{\i0}
+Dialogue: 0,2:14:07.35,2:14:11.10,Default,,0,0,0,,{\i1}And shout at everyone, overcoming shyness{\i0}
+Dialogue: 0,2:14:12.02,2:14:16.06,Default,,0,0,0,,{\i1}The mole that you hid…{\i0}\N{\i1}Can I see it?{\i0}
+Dialogue: 0,2:14:16.14,2:14:20.60,Default,,0,0,0,,{\i1}Hey, oh, my boy…{\i0}\N{\i1}You shouldn't ask me everything{\i0}
+Dialogue: 0,2:14:20.68,2:14:24.76,Default,,0,0,0,,{\i1}There is heat in the body{\i0}\N{\i1}So I pinched you with my nail{\i0}
+Dialogue: 0,2:14:24.85,2:14:29.39,Default,,0,0,0,,{\i1}Can you stir up a quarrel{\i0}\N{\i1}Between youth and beauty?{\i0}
+Dialogue: 0,2:14:29.48,2:14:34.06,Default,,0,0,0,,{\i1}Fuss in the hearts{\i0}\N{\i1}Your passion has gotten to me{\i0}
+Dialogue: 0,2:14:34.14,2:14:37.30,Default,,0,0,0,,{\i1}Can there be any limits to beauty?{\i0}
+Dialogue: 0,2:15:04.10,2:15:08.10,Default,,0,0,0,,{\i1}You came like a bee…{\i0}\N{\i1}Trying to steal honey from my lips{\i0}
+Dialogue: 0,2:15:08.23,2:15:12.98,Default,,0,0,0,,{\i1}Hey, oh, my boy…{\i0}\N{\i1}You shouldn't ask me everything{\i0}
+Dialogue: 0,2:15:13.06,2:15:17.23,Default,,0,0,0,,{\i1}Your nose pin is green…{\i0}\N{\i1}And you wore something very lovely{\i0}
+Dialogue: 0,2:15:17.52,2:15:21.69,Default,,0,0,0,,{\i1}Is it fair to hang{\i0}\N{\i1}With hair like electric wires?{\i0}
+Dialogue: 0,2:15:21.77,2:15:26.40,Default,,0,0,0,,{\i1}I’ve seen all the weights{\i0}\N{\i1}Can I weigh some{\i0}
+Dialogue: 0,2:15:26.52,2:15:29.69,Default,,0,0,0,,{\i1}Sensitive and solo heart{\i0}\N{\i1}Here I come{\i0}
+Dialogue: 0,2:15:29.77,2:15:34.23,Default,,0,0,0,,{\i1}Hey, oh, my boy…{\i0}\N{\i1}Can I trust your word?{\i0}
+Dialogue: 0,2:15:34.31,2:15:39.02,Default,,0,0,0,,{\i1}Can praise be given like this?{\i0}\N{\i1}Can the cheek be pinched?{\i0}
+Dialogue: 0,2:15:39.10,2:15:43.30,Default,,0,0,0,,{\i1}Oh my…{\i0}\N{\i1}You can cause confusion{\i0}
+Dialogue: 0,2:15:43.39,2:15:47.10,Default,,0,0,0,,{\i1}And shout at everyone, overcoming shyness{\i0}
+Dialogue: 0,2:16:24.39,2:16:26.14,Default,,0,0,0,,We’ve sealed everything\Nthat was confiscated.
+Dialogue: 0,2:16:26.43,2:16:27.43,Default,,0,0,0,,Please sign here.
+Dialogue: 0,2:16:43.48,2:16:45.23,Default,,0,0,0,,If I’m taking so much from you,
+Dialogue: 0,2:16:45.39,2:16:46.68,Default,,0,0,0,,I should give something back, right?
+Dialogue: 0,2:16:47.10,2:16:48.97,Default,,0,0,0,,That’s why,\Nhere’s a small piece of advice.
+Dialogue: 0,2:16:50.18,2:16:52.89,Default,,0,0,0,,Wealth isn’t just about\Naccumulating money.
+Dialogue: 0,2:16:53.23,2:16:55.23,Default,,0,0,0,,It also means gaining people\Nwho genuinely care for us.
+Dialogue: 0,2:16:56.39,2:16:59.14,Default,,0,0,0,,None of those you trusted stood by you,
+Dialogue: 0,2:16:59.89,2:17:03.18,Default,,0,0,0,,but these officers,\Nwho are unrelated to me, did.
+Dialogue: 0,2:17:04.31,2:17:06.81,Default,,0,0,0,,In this way, I’ve gained more than you.
+Dialogue: 0,2:17:07.14,2:17:08.30,Default,,0,0,0,,Goodbye.
+Dialogue: 0,2:17:30.43,2:17:32.80,Default,,0,0,0,,How long until my son-in-law arrives?
+Dialogue: 0,2:17:32.89,2:17:35.43,Default,,0,0,0,,He must be tied up with some work.\NHe will come. Let me go check.
+Dialogue: 0,2:17:35.52,2:17:36.77,Default,,0,0,0,,Okay.
+Dialogue: 0,2:17:42.89,2:17:44.30,Default,,0,0,0,,- This is the best raid of our careers.\N- I haven't seen a raid
+Dialogue: 0,2:17:44.39,2:17:45.68,Default,,0,0,0,,like this in my long career.
+Dialogue: 0,2:17:45.81,2:17:46.94,Default,,0,0,0,,Drive faster.
+Dialogue: 0,2:17:47.18,2:17:49.43,Default,,0,0,0,,I need to get married.\NMy wife is waiting.
+Dialogue: 0,2:17:58.93,2:18:00.26,Default,,0,0,0,,Brother, why did you let him go?
+Dialogue: 0,2:18:00.39,2:18:04.39,Default,,0,0,0,,Sambashiva, fate is very ironic.
+Dialogue: 0,2:18:11.02,2:18:14.48,Default,,0,0,0,,For me, this house\Nis just like this place.
+Dialogue: 0,2:18:17.27,2:18:21.69,Default,,0,0,0,,He can leave the house,\Nbut not this place.
+Dialogue: 0,2:18:31.18,2:18:33.85,Default,,0,0,0,,The entire country knows\Nwhat happened in our house.
+Dialogue: 0,2:18:34.60,2:18:36.76,Default,,0,0,0,,We can’t take any action against him here.
+Dialogue: 0,2:18:41.60,2:18:44.93,Default,,0,0,0,,Drive faster! Faster…
+Dialogue: 0,2:18:45.02,2:18:47.48,Default,,0,0,0,,It’s a hassle. Only the name\Nof the victim gets mentioned,
+Dialogue: 0,2:18:47.60,2:18:50.14,Default,,0,0,0,,not the name of the killer.
+Dialogue: 0,2:18:53.48,2:18:56.15,Default,,0,0,0,,That's India's history…
+Dialogue: 0,2:18:57.02,2:18:58.73,Default,,0,0,0,,and future.
+Dialogue: 0,2:20:53.93,2:20:55.89,Default,,0,0,0,,Please continue chanting the mantras.\NMeanwhile, he will arrive.
+Dialogue: 0,2:20:56.02,2:20:57.27,Default,,0,0,0,,He'll be here.
+Dialogue: 0,2:21:45.31,2:21:46.56,Default,,0,0,0,,Mr. Suryan,
+Dialogue: 0,2:21:46.73,2:21:47.81,Default,,0,0,0,,the auspicious time is approaching.
+Dialogue: 0,2:21:47.89,2:21:49.01,Default,,0,0,0,,- Time is running out.\N- Where is the groom?
+Dialogue: 0,2:21:49.10,2:21:51.01,Default,,0,0,0,,- He hasn't arrived yet.\N- Sister-in-law, he will come.
+Dialogue: 0,2:21:51.35,2:21:52.39,Default,,0,0,0,,- Dear…\N- Come here.
+Dialogue: 0,2:21:52.56,2:21:53.48,Default,,0,0,0,,- What's going on?\N- I don't know.
+Dialogue: 0,2:21:53.56,2:21:54.86,Default,,0,0,0,,Isn’t he here yet? What happened?
+Dialogue: 0,2:21:54.93,2:21:57.10,Default,,0,0,0,,Don't worry. He must've gone\Nto the office. He'll be here soon.
+Dialogue: 0,2:21:57.18,2:21:59.47,Default,,0,0,0,,- Find out where he is. Go!\N- Okay.
+Dialogue: 0,2:21:59.56,2:22:00.52,Default,,0,0,0,,He is coming.
+Dialogue: 0,2:22:37.68,2:22:38.55,Default,,0,0,0,,Sir!
+Dialogue: 0,2:22:45.68,2:22:46.60,Default,,0,0,0,,Sir.
+Dialogue: 0,2:23:12.68,2:23:14.10,Default,,0,0,0,,Where is the money?
+Dialogue: 0,2:24:33.27,2:24:34.65,Default,,0,0,0,,Confiscate all the money!
+Dialogue: 0,2:24:34.77,2:24:36.61,Default,,0,0,0,,{\an8}- Go.\N- Take all the money out.
+Dialogue: 0,2:24:36.68,2:24:37.55,Default,,0,0,0,,{\an8}Yes, sir.
+Dialogue: 0,2:24:41.73,2:24:42.77,Default,,0,0,0,,Jikki…
+Dialogue: 0,2:24:45.48,2:24:46.65,Default,,0,0,0,,I'm here!
+Dialogue: 0,2:25:45.56,2:25:46.48,Default,,0,0,0,,Shall we get married?
+Dialogue: 0,2:25:57.48,2:25:59.11,Default,,0,0,0,,Jaghayya threatened to kill me
+Dialogue: 0,2:25:59.18,2:26:01.64,Default,,0,0,0,,if I didn't secure an MLA ticket\Nfor his brother.
+Dialogue: 0,2:26:01.85,2:26:03.85,Default,,0,0,0,,What makes him think\Nthat he's so powerful?
+Dialogue: 0,2:26:04.10,2:26:06.85,Default,,0,0,0,,Simple. Financial and muscle power, sir.
+Dialogue: 0,2:26:08.60,2:26:10.97,Default,,0,0,0,,Alright. Let’s hit him with the same.
+Dialogue: 0,2:26:11.31,2:26:13.27,Default,,0,0,0,,- What do you mean?\N- An income tax raid.
+Dialogue: 0,2:26:14.64,2:26:16.80,Default,,0,0,0,,He can bribe and buy out anyone, sir.
+Dialogue: 0,2:26:18.18,2:26:19.93,Default,,0,0,0,,There's one officer\Nwho can't be bought.
+Dialogue: 0,2:26:20.27,2:26:22.40,Default,,0,0,0,,He is Mr. Bachchan.
+Dialogue: 0,2:26:32.60,2:26:35.60,Default,,0,0,0,,You started from the interval,\Nand now we’re at the climax.
+Dialogue: 0,2:26:35.93,2:26:38.18,Default,,0,0,0,,Have you ever wondered\Nwhat gives me such courage?
+Dialogue: 0,2:26:39.81,2:26:42.69,Default,,0,0,0,,It's honesty. Courage comes from honesty.
+Dialogue: 0,2:26:46.27,2:26:47.52,Default,,0,0,0,,Otherwise, think about it and let me know,
+Dialogue: 0,2:26:47.73,2:26:48.86,Default,,0,0,0,,now that you have plenty of time.
+Dialogue: 0,2:26:58.35,2:27:03.35,Default,,0,0,0,,I’ve heard that a cart\Ncan become a ship and vice versa.
+Dialogue: 0,2:27:03.77,2:27:05.98,Default,,0,0,0,,But I never thought\Nit could happen in life.
+Dialogue: 0,2:27:06.14,2:27:09.39,Default,,0,0,0,,Give me a cigarette, please.\NI’m craving one.
+Dialogue: 0,2:27:12.02,2:27:14.77,Default,,0,0,0,,{\i1}Wealth isn’t just about{\i0}\N{\i1}accumulating money.{\i0}
+Dialogue: 0,2:27:15.10,2:27:17.26,Default,,0,0,0,,{\i1}It also means gaining people{\i0}\N{\i1}who genuinely care for us.{\i0}
+Dialogue: 0,2:27:22.64,2:27:27.51,Default,,0,0,0,,{\i1}The wealth accumulated has slipped away{\i0}
+Dialogue: 0,2:27:27.93,2:27:32.68,Default,,0,0,0,,{\i1}I’ve ended up in a place{\i0}\N{\i1}I never imagined I’d reach{\i0}
+Dialogue: 0,2:27:32.98,2:27:35.48,Default,,0,0,0,,- Are you listening?\N- Yes.
+Dialogue: 0,2:27:35.98,2:27:40.98,Default,,0,0,0,,{\i1}I’ve lost everything{\i0}\N{\i1}By the time I realized this{\i0}
+Dialogue: 0,2:27:41.56,2:27:44.48,Default,,0,0,0,,{\i1}By the time I realized this, Tayaramma…{\i0}
+Dialogue: 0,2:27:44.73,2:27:46.44,Default,,0,0,0,,{\i1}Tayaramma…{\i0}
+Dialogue: 0,2:27:55.39,2:27:57.26,Default,,0,0,0,,Why are Amitabh Bachchan’s pictures\Nhere too, Dad?
+Dialogue: 0,2:27:57.81,2:27:59.27,Default,,0,0,0,,If it happens in his presence,
+Dialogue: 0,2:27:59.35,2:28:01.51,Default,,0,0,0,,maybe I’ll get a grandson\Nlike Amitabh Bachchan.
+Dialogue: 0,2:28:01.60,2:28:02.64,Default,,0,0,0,,I’m Bachchan myself.
+Dialogue: 0,2:28:02.73,2:28:04.06,Default,,0,0,0,,If one is born,\Nit could be Abhishek Bachchan.
+Dialogue: 0,2:28:04.14,2:28:07.72,Default,,0,0,0,,- Even better. Goodbye. Bye.\N- Now go. Shut the door.
+Dialogue: 0,2:28:07.89,2:28:08.93,Default,,0,0,0,,Don't come back.
+Dialogue: 0,2:28:09.81,2:28:12.73,Default,,0,0,0,,It's already too late. Come here…
